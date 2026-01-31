@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
-"""Fetch FanGraphs leaderboard HTML and convert to JSON for the CBL Free Agent Pool page.
+"""Update CBL Free Agent Pool leaderboards (FanGraphs JSON endpoint).
 
-Why this exists:
-- FanGraphs CSV export is members-only (and embeds can be blocked).
-- HTML leaderboards are publicly viewable; we scrape the table and store it locally.
+FanGraphs major-league leaderboards are rendered client-side, so HTML scraping often fails.
+Instead, we call their JSON endpoint directly:
+
+  https://www.fangraphs.com/api/leaders/major-league/data
+
+Outputs are written to data/fa/*.json for the website to render locally.
 """
 
 from __future__ import annotations
@@ -11,15 +14,15 @@ from __future__ import annotations
 import json
 import time
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import Any, Dict, List, Optional
 
-import pandas as pd
 import requests
 
 OUT_DIR = Path("data/fa")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-SEASON = 2025  # default season requested
+SEASON = 2025
+API = "https://www.fangraphs.com/api/leaders/major-league/data"
 
 SEGMENTS = {
   "hit_am": [
@@ -191,69 +194,94 @@ SEGMENTS = {
   ]
 }
 
-def leaders_url(players: List[int], stats: str, month: int) -> str:
-    # FanGraphs major-league leaders endpoint used in the browser.
-    # We also request "Infinity" page size to get all rows at once.
-    return (
-        "https://www.fangraphs.com/leaders/major-league?"
-        f"ind=0&lg=all&pos=all&qual=0&season={SEASON}&season1={SEASON}"
-        f"&type=1&stats={stats}&month={month}&players=" + ",".join(map(str, players)) +
-        "&pageitems=2000000000"  # effectively infinity
-    )
+def call_api(params: Dict[str, Any], tries: int = 6) -> Dict[str, Any]:
+    delay = 2.0
+    last_err: Optional[Exception] = None
+    for attempt in range(1, tries + 1):
+        try:
+            r = requests.get(API, params=params, timeout=60, headers={
+                "User-Agent": "Mozilla/5.0 (CBL dashboard bot)",
+                "Accept": "application/json,text/plain,*/*",
+                "Referer": "https://www.fangraphs.com/leaders/major-league",
+            })
+            if r.status_code in (429, 403, 502, 503, 504):
+                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            last_err = e
+            if attempt == tries:
+                raise
+            time.sleep(delay)
+            delay = min(delay * 1.8, 20.0)
+    raise last_err or RuntimeError("Unknown error")
 
-def scrape_table(url: str) -> List[Dict[str, Any]]:
-    r = requests.get(url, timeout=60, headers={"User-Agent":"Mozilla/5.0 (CBL dashboard bot)"})
-    r.raise_for_status()
+def leaders_params(players: List[int], stats: str, month: int) -> Dict[str, Any]:
+    return {
+        "age": "",
+        "pos": "all",
+        "stats": stats,   # bat | pit
+        "lg": "all",
+        "qual": "0",
+        "season": str(SEASON),
+        "season1": str(SEASON),
+        "startdate": "",
+        "enddate": "",
+        "month": str(month),
+        "hand": "",
+        "team": "0,ts",
+        "pageitems": "2000",
+        "pagenum": "1",
+        "ind": "0",
+        "rost": "0",
+        "players": ",".join(map(str, players)),
+        "type": "1",
+        "sortdir": "default",
+        "sortstat": "WAR",
+    }
 
-    # FanGraphs renders a data table in the HTML that pandas can usually read.
-    # If they change markup, we fail loudly so we can adjust.
-    tables = pd.read_html(r.text)
-    if not tables:
-        return []
-    df = tables[0]
+def normalize(payload: Dict[str, Any]) -> List[Dict[str, Any]]:
+    data = payload.get("data")
+    if isinstance(data, list):
+        return [r for r in data if isinstance(r, dict)]
+    for key in ("rows", "result", "results"):
+        v = payload.get(key)
+        if isinstance(v, list):
+            return [r for r in v if isinstance(r, dict)]
+    return []
 
-    # Clean: drop completely empty columns, normalize column names.
-    df = df.dropna(axis=1, how="all")
-    df.columns = [str(c).strip() for c in df.columns]
+def save_json(name: str, rows: List[Dict[str, Any]]):
+    (OUT_DIR / f"{name}.json").write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
 
-    # Convert to records; keep raw columns (standard preset) as-is.
-    records = df.to_dict(orient="records")
-    return records
-
-def save_json(name: str, records: List[Dict[str, Any]]):
-    (OUT_DIR / f"{name}.json").write_text(json.dumps(records, ensure_ascii=False), encoding="utf-8")
+def fetch_one(out_name: str, seg_key: str, stats: str, month: int):
+    players = SEGMENTS[seg_key]
+    params = leaders_params(players, stats, month)
+    payload = call_api(params)
+    rows = normalize(payload)
+    save_json(out_name, rows)
+    print(f"Saved {out_name}: {len(rows)} rows")
 
 def main():
     tasks = [
-        # Hitters A–M
         ("hit_am_bat_all", "hit_am", "bat", 0),
         ("hit_am_bat_lhp", "hit_am", "bat", 13),
         ("hit_am_bat_rhp", "hit_am", "bat", 14),
-        # Hitters N–Z
         ("hit_nz_bat_all", "hit_nz", "bat", 0),
         ("hit_nz_bat_lhp", "hit_nz", "bat", 13),
         ("hit_nz_bat_rhp", "hit_nz", "bat", 14),
-        # SP
         ("sp_pit_all", "sp", "pit", 0),
         ("sp_pit_lhb", "sp", "pit", 13),
         ("sp_pit_rhb", "sp", "pit", 14),
-        # RP A–M
         ("rp_am_pit_all", "rp_am", "pit", 0),
         ("rp_am_pit_lhb", "rp_am", "pit", 13),
         ("rp_am_pit_rhb", "rp_am", "pit", 14),
-        # RP N–Z
         ("rp_nz_pit_all", "rp_nz", "pit", 0),
         ("rp_nz_pit_lhb", "rp_nz", "pit", 13),
         ("rp_nz_pit_rhb", "rp_nz", "pit", 14),
     ]
-
     for out_name, seg_key, stats, month in tasks:
-        players = SEGMENTS[seg_key]
-        url = leaders_url(players, stats, month)
-        print(f"Fetching {out_name}…")
-        recs = scrape_table(url)
-        save_json(out_name, recs)
-        time.sleep(1.0)  # be polite
+        fetch_one(out_name, seg_key, stats, month)
+        time.sleep(1.2)
 
 if __name__ == "__main__":
     main()
