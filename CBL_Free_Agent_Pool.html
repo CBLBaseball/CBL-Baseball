@@ -13,7 +13,7 @@
     body{
       margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
       background:linear-gradient(180deg,#070c16 0%,#0b1220 100%); color:var(--text);
-      height:100vh; overflow:hidden;
+      height:100vh; overflow: auto;
     }
     header{
       height:56px; display:flex; align-items:center; justify-content:space-between;
@@ -22,7 +22,7 @@
     }
     header .left{display:flex; gap:10px; align-items:center; min-width:0;}
     .brand{font-weight:750; letter-spacing:.3px; white-space:nowrap;}
-    .sub{color:var(--muted); font-size:12px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:55vw;}
+    .sub{color:var(--muted); font-size:12px; white-space:nowrap; overflow: auto; text-overflow:ellipsis; max-width:55vw;}
     .btn{border:1px solid var(--border); background:rgba(255,255,255,.03); color:var(--text);
       padding:8px 10px; border-radius:10px; cursor:pointer;}
     .btn:hover{border-color:rgba(255,255,255,.18)}
@@ -46,10 +46,10 @@
     main{
       background:linear-gradient(180deg,rgba(255,255,255,.05) 0%,rgba(255,255,255,.02) 100%);
       border:1px solid var(--border); border-radius:14px; box-shadow:var(--shadow);
-      overflow:hidden; display:flex; flex-direction:column;
+      overflow: auto; display:flex; flex-direction:column;
     }
     .main-top{display:flex; align-items:center; gap:10px; padding:10px 12px; border-bottom:1px solid var(--border); background:rgba(255,255,255,.03);}
-    .main-title{font-weight:650; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+    .main-title{font-weight:650; min-width:0; overflow: auto; text-overflow:ellipsis; white-space:nowrap;}
     .meta{margin-left:auto; color:var(--muted); font-size:12px; display:flex; gap:10px; align-items:center;}
     iframe{width:100%; height:100%; border:0; background:#fff;}
     @media (max-width:900px){
@@ -177,7 +177,7 @@
       letter-spacing:.06em;
       text-transform:uppercase;
       white-space:nowrap;
-      overflow:hidden;
+      overflow: auto;
       text-overflow:ellipsis;
     }
     .link .label .sub{
@@ -188,7 +188,7 @@
       text-transform:none;
       font-weight:600;
       white-space:nowrap;
-      overflow:hidden;
+      overflow: auto;
       text-overflow:ellipsis;
     }
     .pill{
@@ -237,7 +237,7 @@
       gap:12px;
       align-items:center;
       padding:10px 14px;
-      overflow:hidden;
+      overflow: auto;
     }
     .leaguebar-title{
       font-weight:900;
@@ -361,7 +361,44 @@
       font-weight:900;
     }
 
-  </style>
+  /* --- CBL Free Agent Pool: scroll + layout fixes --- */
+html, body { height: 100%; }
+body { overflow-y: auto; }
+
+/* Make layout stable and prevent "stuck" scroll areas */
+#app { min-height: 100vh; }
+
+/* Sticky, independently scrollable sidebar */
+#sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Keep main content flowing and allow iframe to size nicely */
+#main {
+  min-height: 100vh;
+  overflow: visible;
+}
+
+/* Ensure iframe container doesn't create weird nested scroll locks */
+#frameWrap {
+  min-height: calc(100vh - 180px);
+}
+
+/* Mobile: sidebar becomes normal flow (no sticky lock) */
+@media (max-width: 980px){
+  #sidebar {
+    position: relative;
+    height: auto;
+    max-height: none;
+    overflow: visible;
+  }
+}
+</style>
 </head>
 <body>
   <header>
