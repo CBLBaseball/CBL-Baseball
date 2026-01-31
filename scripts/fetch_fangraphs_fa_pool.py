@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
-"""Update CBL Free Agent Pool leaderboards using FanGraphs' JSON endpoint.
+"""Update CBL Free Agent Pool leaderboards using FanGraphs' leaders JSON endpoint.
 
-- Hitters output is normalized to a fixed column set you specified:
+Why you only saw ~10 hitters:
+- FanGraphs API is paginated. If we don't page through results, you may only get the first page.
+
+Hitters are normalized to fixed columns:
   Bats, Name, Age, Team, Season, G, AB, PA, H, 2B, 3B, HR, R, RBI, BB, SO, HBP, SB, CS, AVG, OBP, SLG, OPS
-  with AVG/OBP/SLG/OPS formatted to 3 decimals.
-- Pitchers remain 'standard' (FanGraphs rows) so you can decide columns later.
-
-Endpoint:
-  https://www.fangraphs.com/api/leaders/major-league/data
+AVG/OBP/SLG/OPS are formatted to 3 decimals.
 """
 
 from __future__ import annotations
@@ -190,8 +189,8 @@ SEGMENTS = {
     20379
   ]
 }
-
 HITTER_COLS = ["Bats", "Name", "Age", "Team", "Season", "G", "AB", "PA", "H", "2B", "3B", "HR", "R", "RBI", "BB", "SO", "HBP", "SB", "CS", "AVG", "OBP", "SLG", "OPS"]
+PAGEITEMS = 200  # fetch in chunks
 
 def call_api(params: Dict[str, Any], tries: int = 6) -> Dict[str, Any]:
     delay = 2.0
@@ -215,7 +214,7 @@ def call_api(params: Dict[str, Any], tries: int = 6) -> Dict[str, Any]:
             delay = min(delay * 1.8, 20.0)
     raise last_err or RuntimeError("Unknown error")
 
-def leaders_params(players: List[int], stats: str, month: int) -> Dict[str, Any]:
+def leaders_params(players: List[int], stats: str, month: int, pagenum: int) -> Dict[str, Any]:
     return {
         "ind": "0",
         "lg": "all",
@@ -224,15 +223,15 @@ def leaders_params(players: List[int], stats: str, month: int) -> Dict[str, Any]
         "season": str(SEASON),
         "season1": str(SEASON),
         "stats": stats,        # bat | pit
-        "month": str(month),   # 0 all; 13 vs L; 14 vs R (leaders UI)
+        "month": str(month),   # 0 all; 13 vs L; 14 vs R
         "players": ",".join(map(str, players)),
         "team": "0,ts",
         "rost": "0",
         "type": "8",
         "sortcol": "17",
         "sortdir": "default",
-        "pageitems": "5000",
-        "pagenum": "1",
+        "pageitems": str(PAGEITEMS),
+        "pagenum": str(pagenum),
         "filter": "",
     }
 
@@ -253,7 +252,6 @@ def first_present(row: Dict[str, Any], keys: List[str]) -> Any:
     return ""
 
 def fmt3(v: Any) -> Any:
-    # Keep empty as ""
     if v is None or v == "":
         return ""
     try:
@@ -263,7 +261,6 @@ def fmt3(v: Any) -> Any:
         return v
 
 def normalize_hitter(row: Dict[str, Any]) -> Dict[str, Any]:
-    # Map common variants seen in FanGraphs payloads
     mapped = {}
     mapped["Bats"] = first_present(row, ["Bats", "Bat", "B"])
     mapped["Name"] = first_present(row, ["Name", "Player", "playerName", "PlayerName"])
@@ -274,12 +271,12 @@ def normalize_hitter(row: Dict[str, Any]) -> Dict[str, Any]:
     mapped["AB"] = first_present(row, ["AB"])
     mapped["PA"] = first_present(row, ["PA"])
     mapped["H"] = first_present(row, ["H", "Hits"])
-    mapped["2B"] = first_present(row, ["2B", "2B+", "Doubles", "2B."])
-    mapped["3B"] = first_present(row, ["3B", "Triples", "3B."])
+    mapped["2B"] = first_present(row, ["2B", "Doubles"])
+    mapped["3B"] = first_present(row, ["3B", "Triples"])
     mapped["HR"] = first_present(row, ["HR", "HomeRuns"])
     mapped["R"] = first_present(row, ["R", "Runs"])
     mapped["RBI"] = first_present(row, ["RBI"])
-    mapped["BB"] = first_present(row, ["BB", "BBS"])
+    mapped["BB"] = first_present(row, ["BB"])
     mapped["SO"] = first_present(row, ["SO", "K", "Ks"])
     mapped["HBP"] = first_present(row, ["HBP"])
     mapped["SB"] = first_present(row, ["SB"])
@@ -288,22 +285,32 @@ def normalize_hitter(row: Dict[str, Any]) -> Dict[str, Any]:
     mapped["OBP"] = fmt3(first_present(row, ["OBP"]))
     mapped["SLG"] = fmt3(first_present(row, ["SLG"]))
     mapped["OPS"] = fmt3(first_present(row, ["OPS"]))
-
-    # Return in requested order
     return {k: mapped.get(k, "") for k in HITTER_COLS}
 
 def save_json(name: str, rows: List[Dict[str, Any]]):
     (OUT_DIR / f"{name}.json").write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
 
+def fetch_all(players: List[int], stats: str, month: int) -> List[Dict[str, Any]]:
+    all_rows: List[Dict[str, Any]] = []
+    p = 1
+    while True:
+        params = leaders_params(players, stats, month, p)
+        payload = call_api(params)
+        rows = normalize_rows(payload)
+        if not rows:
+            break
+        all_rows.extend(rows)
+        if len(rows) < PAGEITEMS:
+            break
+        p += 1
+        time.sleep(0.7)
+    return all_rows
+
 def fetch_and_save(out_name: str, seg_key: str, stats: str, month: int):
     players = SEGMENTS[seg_key]
-    params = leaders_params(players, stats, month)
-    payload = call_api(params)
-    rows = normalize_rows(payload)
-
+    rows = fetch_all(players, stats, month)
     if stats == "bat":
         rows = [normalize_hitter(r) for r in rows]
-
     save_json(out_name, rows)
     print(f"Saved {out_name}: {len(rows)} rows")
 
