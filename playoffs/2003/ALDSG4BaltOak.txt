@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2003 Baltimore Orioles At 2003 Oakland Athletics          10/6/2003
+
+[1]  Orioles            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  J.Pierre CF         2  0  0  0 .200     J.Payton CF         4  0  0  0 .267  
+  A.Soriano 2B        4  0  1  0 .353     J.Giambi DH         3  0  0  0 .000  
+  B.Williams DH       3  0  0  0 .188     J.Giambi 1B         4  1  3  1 .438  
+  G.Sheffield RF      4  0  2  0 .294     E.Chavez 3B         4  1  2  1 .333  
+  C.Floyd LF          3  1  2  1 .231     K.Millar LF         3  0  1  0 .118  
+  R.Sexson 1B         4  0  0  0 .167   A-R.Hernandez C       1  0  0  0 .300  
+  T.Batista 3B        3  0  0  0 .000     M.Tejada SS         4  0  1  0 .375  
+C-M.Cordova PH        1  0  0  0 .000     M.Ellis 2B          3  0  0  0 .154  
+  C.Guzman SS         4  0  0  0 .250     T.Hollandsworth RF, 3  0  1  0 .375  
+  G.Gil C             3  0  0  0 .071     C.Wilson C          2  0  0  0 .182  
+D-G.Matthews Jr. PH   1  0  0  0 .000   B-A.Ochoa RF          1  0  0  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  5  1                 Totals      32  2  8  2
+
+A-Subbed Defensively (C ) For Millar In 7th Inning
+B-Subbed Defensively (RF) For Wilson In 7th Inning
+C-Pinch Hit For Batista In 9th Inning
+D-Pinch Hit For Gil In 9th Inning
+
+Orioles......... 0 0 0  1 0 0  0 0 0  -  1  5  0
+Athletics....... 0 0 0  2 0 0  0 0    -  2  8  0
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Millwood LOSS(0-1)      6 1/3      7   2   2   1   2   2   1.88  A1 C9
+J.Durocher                1 2/3      1   0   0   0   0   0   0.00  D1
+[1]Totals                    8       8   2   2   1   2   2
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Zito WIN(1-0)              9       5   1   1   3   3   1   0.95  A1
+[1]Totals                    9       5   1   1   3   3   1
+
+ATTENDANCE- 40,639 DATE-  TIME- Night 
+UMPIRES- Fieldin Culbreth, Andrew Fletcher, Mike Winters, Bill Welke
+T- 2:39
+LEFT ON BASE- Orioles: 8  Athletics: 7
+DOUBLE PLAYS- Orioles: 0  Athletics: 0
+DOUBLES- K.Millar(1st)
+HOME RUNS- C.Floyd(1st), J.Giambi(3rd), E.Chavez(1st)
+STOLEN BASES- A.Soriano(1st), T.Hollandsworth(2nd)
+WALKS- J.Pierre, B.Williams, C.Floyd, J.Giambi
+HIT BY PITCH- J.Pierre
+STRIKE OUTS- C.Guzman, G.Gil-2, J.Payton, E.Chavez
+
+Barry Zito was able to finish what he started and was credited with a complete
+game and first baseman Jason Giambi hit a homerun as the Oakland Athletics
+beat the Baltimore Orioles by a score of 2 to 1.
+
+Zito(1-0) had a strong outing.  He was stingy on the mound, allowing just 5
+hits and 3 walks in 9 innings.  The pitchers took over after the 4th inning
+as neither team was able to score again.  
+
+Kevin Millwood(0-1) was tagged with the loss.  He surrendered 2 runs and 7
+hits in 6 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2003 Baltimore Orioles at 2003 Oakland Athletics
+J.Pierre-A1  A1:G/43    *3*:G/63   C1:W>b1    D1:HBP
+                                              
+                                              
+A.Sorian-A1  A2:L/6     B2:G/53    C2:Si>13   D2:G/13
+                                              
+                                              
+B.Willia-A1  A3:W>b1    B3:P/6     C3:SB>12   *8*:G/63
+                                   F/8        
+                                              
+G.Sheffi-A1  A4:Si>13   *4*:G/63   *6*:G/13   D4:Si
+                                              
+                                              
+C.Floyd-A1   A5:W>12 b  B5:HR>b#   C5:Si      D5:F/8
+             1                                
+                                              
+R.Sexson-A1  A6:Force/  B6:F/9     C6:L/6     D6:P/6
+             64>1o b1                         
+                                              
+T.Batist-A1  *2*:G/63   B7:L/6     C7:G/63    *9*:F/8
+M.Cordov-D7                                   
+                                              
+C.Guzman-A1  A8:F/9     *5*:L/6    *7*:F/8    D8:K
+                                              
+                                              
+G.Gil-A1     A9:K       B9:G/63    C9:K       D9:L/6
+G.Matthe-D9                                   
+                                              
+
+J.Payton-A1  A1:K       B1:G/53    C1:G/63    D1:G/3>23
+                                              
+                                              
+J.Giambi-A1  A2:W>b1    B2:G/63    C2:F/9     D2:G/31
+                                              
+                                              
+J.Giambi-A1  A3:Si>13   *4*:HR>b#  *6*:Si     *8*:G/43
+                                              
+                                              
+E.Chavez-A1  A4:K       B4:HR>b#   C4:FO/2    D4:Si
+                                              
+                                              
+K.Millar-A1  A5:L/6     B5:Do      C5:P/6     D5:F/8
+R.Hernan-C8                                   
+                                              
+M.Tejada-A1  *2*:G/13   B6:F/9     C6:Si>13   D6:L/6
+                                              
+                                              
+M.Ellis-A1   A7:P/6     B7:G/63    C7:F/8
+                                   
+                                   
+T.Hollan-A1  A8:G/3     B8:L/4     *7*:Si
+                                   
+                                   
+C.Wilson-A1  *3*:F/8    *5*:G/63   C9:SB>12
+A.Ochoa-C8                         G/63
+                                   
+
+

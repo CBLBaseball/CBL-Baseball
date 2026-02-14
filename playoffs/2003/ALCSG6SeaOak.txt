@@ -1,0 +1,113 @@
+[1]BOXSCORE: 2003 Seattle Mariners At 2003 Oakland Athletics           10/22/103
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  I.Suzuki RF         4  0  2  0 .462     M.Ellis 2B          3  2  2  0 .400  
+  J.Vidro 2B          4  0  0  0 .250     J.Payton CF         4  0  0  0 .000  
+  B.Giles LF          3  0  1  0 .300     J.Giambi 1B         4  0  0  1 .417  
+  A.Rodriguez SS      4  0  0  0 .091     E.Chavez 3B         4  0  2  0 .400  
+  C.Delgado 1B        1  0  0  0 .000     K.Millar LF         4  0  1  1 .250  
+  S.Hillenbrand DH    4  1  1  0 .200   A-T.Hollandsworth LF  0  0  0  0 .333  
+  M.Lowell 3B         4  0  1  1 .091     M.Tejada SS         3  1  1  1 .300  
+  B.Davis C           3  0  0  0 .000     C.Wilson DH         3  0  0  0 .364  
+B-E.Martinez PH       1  0  0  0 .375     A.Ochoa RF          3  0  0  0 .000  
+  M.Cameron CF        3  0  0  0 .111     R.Hernandez C       3  0  2  0 .286  
+C-C.Crawford PH       1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  5  1                 Totals      31  3  8  3
+
+A-Subbed Defensively (LF) For Millar In 9th Inning
+B-Pinch Hit For Davis In 9th Inning
+C-Pinch Hit For Cameron In 9th Inning
+
+Mariners........ 0 0 0  1 0 0  0 0 0  -  1  5  1
+Athletics....... 1 1 0  0 0 0  0 1    -  3  8  0
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+H.Nomo LOSS(0-1)          7       6   3   2   0   6   1 104   6.55  A1 D1
+B.Groom                   1       2   0   0   0   0   0   9   5.40  D2
+[1]Totals                    8       8   3   2   0   6   1
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+T.Hudson WIN(1-0)         9       5   1   1   2   8   0 145   1.00  A1
+[1]Totals                    9       5   1   1   2   8   0
+
+ATTENDANCE- 6,909 DATE-  TIME- Day 
+T- 2:50
+LEFT ON BASE- Mariners: 8  Athletics: 5
+DOUBLE PLAYS- Mariners: 0  Athletics: 0
+ERRORS- H.Nomo
+DOUBLES- B.Giles(1st), S.Hillenbrand(1st), M.Lowell(1st)
+HOME RUNS- M.Tejada(2nd)
+SACRIFICE HITS- M.Ellis
+WALKS- B.Giles, C.Delgado
+HIT BY PITCH- C.Delgado-2
+STRIKE OUTS- B.Giles, A.Rodriguez, C.Delgado, M.Lowell-2, M.Cameron-3, E.Chavez,
+             K.Millar-2, C.Wilson-2, R.Hernandez
+
+Tim Hudson went the distance as the Oakland Athletics defeated the Seattle
+Mariners by a score of 3 to 1 at Network Asc Coliseum.
+
+Hudson(1-0) was in control of the game from the outset.  He didn't allow much,
+just 5 hits and 2 walks in 9 innings.  Oakland had 8 hits for the afternoon.
+
+Hideo Nomo(0-1) was hit with the loss.  He surrendered 6 hits and no walks in
+7 innings.
+[2]
+[1]SCORESHEET: 2003 Seattle Mariners at 2003 Oakland Athletics
+I.Suzuki-A1  A1:Si      *3*:G/13   C1:G/43    D1:Si
+                                              
+                                              
+J.Vidro-A1   A2:F/9     B2:G/13    C2:F/8     D2:G/63
+                                              
+                                              
+B.Giles-A1   A3:K       B3:F/9     *6*:Do     *8*:W>b1
+                                              
+                                              
+A.Rodrig-A1  A4:F/8     *4*:K      C4:L/5     D4:F/8
+                                              
+                                              
+C.Delgad-A1  *2*:HBP    B5:HBP     C5:W>b1    D5:K
+                                              
+                                              
+S.Hillen-A1  A6:Do>13   B6:Force/  C6:F/9     D6:F/8
+                        54>1o b1              
+                                              
+M.Lowell-A1  A7:K       B7:Do>1#   C7:K       *9*:G/53
+                                              
+                                              
+B.Davis-A1   A8:L/4     B8:G/31    *7*:G/43   D8:G/63
+E.Martin-D8                                   
+                                              
+M.Camero-A1  A9:K       *5*:K      C9:K       D9:G/63
+C.Crawfo-D9                                   
+                                              
+
+M.Ellis-A1   A1:Si      B1:L/5     C1:Sac/54  *8*:Si
+                                   >12        
+                                              
+J.Payton-A1  A2:E/1>13  *3*:G/13   C2:G/63    D2:F/7
+             b2                               
+                                              
+J.Giambi-A1  A3:G/63>3  B3:G/43    C3:F/8     D3:F/8
+             # 23                             
+                                              
+E.Chavez-A1  A4:K       B4:Si      *6*:L/4    D4:Si>12
+                                              
+                                              
+K.Millar-A1  A5:K       B5:L/5     C5:K       D5:Si>2#
+T.Hollan-D6                                   1o
+                                              
+M.Tejada-A1  *2*:HR>b#  *4*:F/9    C6:L/4
+                                   
+                                   
+C.Wilson-A1  A7:K       B7:F/7     *7*:K
+                                   
+                                   
+A.Ochoa-A1   A8:G/3     B8:G/13    C8:G/13
+                                   
+                                   
+R.Hernan-A1  A9:Si      *5*:Si     C9:K
+                                   
+                                   
+
+

@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2003 Seattle Mariners At 2003 Oakland Athletics           10/22/103
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  M.Cameron CF        5  1  1  0 .200     M.Ellis 2B          3  1  1  1 .333  
+  J.Vidro 2B          5  2  3  1 .600     J.Payton CF         5  0  0  0 .000  
+  I.Suzuki RF         5  2  3  3 .600     J.Giambi 1B         4  1  2  2 .500  
+  E.Martinez DH       3  0  1  1 .333     M.Tejada SS         4  1  1  1 .250  
+A-C.Delgado PH        1  0  0  0 .000     T.Greene C          3  0  0  0 .000  
+  J.Conine 1B         3  1  1  0 .333   B-R.Hernandez C       0  1  0  0 ----  
+C-S.Hillenbrand PH,1B 1  0  0  1 .000     E.Chavez 3B         4  2  2  2 .500  
+  A.Rodriguez SS      4  0  0  1 .000     K.Millar LF         4  1  1  1 .250  
+  D.Wilson C          5  2  3  2 .600   D-T.Hollandsworth LF  0  0  0  0 ----  
+  M.Lowell 3B         3  1  0  0 .000     C.Wilson DH         4  0  2  0 .500  
+  B.Giles LF          3  0  0  0 .000     A.Ochoa RF          3  1  0  1 .000  
+E-C.Crawford LF       0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  9 12  9                 Totals      34  8  9  8
+
+A-Pinch Hit For Martinez In 7th Inning
+B-Subbed Defensively (C ) For Greene In 7th Inning
+C-Pinch Hit For Conine In 7th Inning
+D-Subbed Defensively (LF) For Millar In 9th Inning
+E-Subbed Defensively (LF) For Giles In 9th Inning
+
+Mariners........ 2 2 2  0 0 0  0 0 3  -  9 12  0
+Athletics....... 0 0 5  1 0 0  0 2 0  -  8  9  1
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+H.Nomo                    4       7   6   6   1   2   3  70  13.50  A1 C1
+J.Pineiro                 2 2/3   1   0   0   1   2   0  44   0.00  C2 D2
+B.Groom WIN(1-0)          2 1/3   1   2   2   1   1   1  39   7.71  D3
+[1]Totals                    9       9   8   8   3   5   4
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+D.Williams                2 1/3   7   6   4   1   3   1  60  15.43  A1 B7
+J.Isringhaus              3 2/3   1   0   0   1   3   0  49   0.00  B8 D2
+L.Vizcaino                2       1   0   0   0   0   0  20   0.00  D3 D9
+C.Bradford L(0-1) BS(1st) 1       3   3   3   1   0   0  34  27.00  E1
+[1]Totals                    9      12   9   7   3   6   1
+
+ATTENDANCE- 26,262 DATE-  TIME- Night 
+T- 2:42
+LEFT ON BASE- Mariners: 7  Athletics: 3
+DOUBLE PLAYS- Mariners: 1  Athletics: 0
+ERRORS- D.Williams
+DOUBLES- J.Vidro(1st), E.Martinez(1st), D.Wilson(1st), M.Ellis(1st),
+         E.Chavez(1st)
+HOME RUNS- D.Wilson(1st), J.Giambi(1st), M.Tejada(1st), E.Chavez(1st),
+           K.Millar(1st)
+STOLEN BASES- M.Cameron(1st), I.Suzuki-2(2nd), D.Wilson(1st), A.Ochoa(1st)
+SACRIFICE FLIES- S.Hillenbrand, A.Rodriguez, A.Ochoa
+WALKS- C.Delgado, M.Lowell, B.Giles, M.Ellis-2, R.Hernandez
+STRIKE OUTS- M.Cameron-4, J.Conine, D.Wilson, J.Payton-2, E.Chavez, K.Millar,
+             A.Ochoa
+
+Dan Wilson lofted one into the 'cheap seats' and had 2 RBI as the Seattle
+Mariners staged a dramatic comeback over the Oakland Athletics by a score of
+9 to 8 at Network Asc Coliseum.
+
+Seattle scored the decisive runs in a big top of the 9th inning with 3 runs on
+3 hits.  Mike Cameron started the inning off right when he delivered a
+one-base hit.  Cameron was safe on a stolen base.  Jose Vidro then laced a
+base-hit plating a run.  Ichiro Suzuki was up next and he laced a single.
+Carlos Delgado stepped into the box and drew a walk to load the bases.  Shea
+Hillenbrand added to the uprising and hit a sacrifice fly bringing in another
+run.  Alex Rodriguez followed and he hit a deep fly scoring the final run of
+the inning.  Oakland was out-hit by Seattle, 12 hits to 9.  
+
+Buddy Groom(1-0) got the win allowing 2 runs in 2 and 1/3 innings. Chad
+Bradford(0-1) was given the loss in relief.  'We just kept swinging the bats
+and didn't give up,' Wilson said. 'If you just keep trying good things can
+happen!'
+[2]
+[1]SCORESHEET: 2003 Seattle Mariners at 2003 Oakland Athletics
+M.Camero-A1  A1:K       B1:K       *4*:K      D1:K       *9*:Si
+                                                         
+                                                         
+J.Vidro-A1   A2:Do      B2:F/7     C2:G/53    *7*:Si     E2:SB>12
+                                                         Si>2#
+                                                         
+I.Suzuki-A1  A3:Si>2#   B3:Si>3#   C3:G/63    D3:Force/  E3:Si>12
+                        2# 13                 46>1o b1   
+                                                         
+E.Martin-A1  A4:SB>12   B4:F/8     *5*:G/63   D4:SB>12   E4:W>23 1
+C.Delgad-D4  Do>2#                            F/9        2 b1
+                                                         
+J.Conine-A1  A5:K       *3*:Si     C5:G/43    D5:P/2     E5:SF/8>3
+S.Hillen-D5                                              # 23 12
+                                                         
+A.Rodrig-A1  A6:G/3     B6:G/3>12  C6:G/31    *8*:G/13   E6:SF/7>3
+                                                         #
+                                                         
+D.Wilson-A1  *2*:Do     B7:HR>2#   *6*:K      D7:Si      E7:G/31
+                        b#                               
+                                                         
+M.Lowell-A1  A8:W>b1    B8:G/63    C8:F/9     D8:SB>12
+                                              F/8
+                                              
+B.Giles-A1   A9:E/1>23  B9:F/9     C9:W>b1    D9:G/3
+C.Crawfo-E8  12                               
+                                              
+
+M.Ellis-A1   A1:FO/5    B1:SB>12   *5*:W>b1   D1:W>b1    E1:G/63
+                        Do>2#                            
+                                                         
+J.Payton-A1  A2:F/8     B2:K       C2:K       D2:F/7     E2:G/13
+                                                         
+                                                         
+J.Giambi-A1  A3:G/3     B3:HR>2#   C3:Si>12   D3:F/9
+                        b#                    
+                                              
+M.Tejada-A1  *2*:G/43   B4:HR>b#   C4:P/6     *8*:F/8
+                                              
+                                              
+T.Greene-A1  A5:G/53    B5:G/13    C5:G/13    D5:W>b1
+R.Hernan-C9                                   
+                                              
+E.Chavez-A1  A6:F/9     *4*:Do     *6*:K      D6:HR>1#
+                                              b#
+                                              
+K.Millar-A1  *3*:HR>b#  B7:K       C7:F/8     D7:G/53
+T.Hollan-D9                                   
+                                              
+C.Wilson-A1  A8:Si      B8:Si>23   C8:G/13    D8:F/7
+                                              
+                                              
+A.Ochoa-A1   A9:Force/  B9:SF-DP/  *7*:G/63   *9*:K
+             46>1o b1   734>3# 1o             
+                                              
+
+

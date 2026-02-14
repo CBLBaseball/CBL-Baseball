@@ -1,0 +1,118 @@
+[1]BOXSCORE: 2003 Oakland Athletics At 2003 Seattle Mariners          10/22/2003
+
+[1]  Athletics          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Payton CF         4  1  0  0 .211     M.Cameron CF        4  0  1  1 .160  
+  J.Giambi DH         5  2  2  1 .188     J.Vidro 2B          5  0  1  0 .355  
+  J.Giambi 1B         3  1  1  2 .440     I.Suzuki RF         5  0  1  0 .200  
+  E.Chavez 3B         4  0  0  1 .208     E.Martinez DH       3  1  2  1 .308  
+  K.Millar LF         5  1  1  0 .179     J.Conine 1B         5  0  0  0 .125  
+  M.Tejada SS         2  1  0  0 .360     A.Rodriguez SS      3  0  1  0 .480  
+  E.Young 2B          2  1  2  1 .286     D.Wilson C          3  0  0  0 .071  
+  T.Hollandsworth RF  4  1  2  3 .375     B.Giles LF          2  1  0  0 .273  
+  R.Machado C         3  0  0  0 .000     M.Lowell 3B         4  1  2  1 .231  
+A-T.Long PH           0  0  0  0 .000                                          
+B-C.Wilson PH         1  0  0  0 .150                                          
+C-R.Hernandez C       0  0  0  0 .222                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  8  8  8                 Totals      34  3  8  3
+
+A-Pinch Hit For Machado In 8th Inning
+B-Pinch Hit For Long In 8th Inning
+C-Subbed Defensively (C ) For Wilson In 8th Inning
+
+Athletics....... 1 0 2  0 1 4  0 0 0  -  8  8  0
+Mariners........ 0 0 0  1 0 0  0 1 1  -  3  8  1
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mulder WIN(3-0)         9       8   3   3   6   9   2   3.13  A1
+[1]Totals                    9       8   3   3   6   9   2
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Schmidt LOSS(1-2)       7       8   8   7   7   5   3   5.16  A1 D8
+B.Groom                   2       0   0   0   0   2   0   0.00  D9
+[1]Totals                    9       8   8   7   7   7   3
+
+ATTENDANCE- 44,736 DATE-  TIME- Day 
+UMPIRES- Alfonzo Marquez, Scott Packard, Jeff Nelson, Derryl Cousins
+T- 3:25
+LEFT ON BASE- Athletics: 6  Mariners:11
+DOUBLE PLAYS- Athletics: 0  Mariners: 1
+ERRORS- D.Wilson
+DOUBLES- E.Young(1st), T.Hollandsworth(1st), A.Rodriguez(5th)
+HOME RUNS- J.Giambi(1st), J.Giambi(6th), T.Hollandsworth(1st), E.Martinez(1st),
+           M.Lowell(1st)
+SACRIFICE HITS- E.Young, D.Wilson
+WALKS- J.Payton, J.Giambi-2, E.Chavez, M.Tejada-2, E.Young, M.Cameron,
+       E.Martinez-2, A.Rodriguez, B.Giles-2
+STRIKE OUTS- J.Payton-3, E.Chavez, K.Millar, R.Machado, C.Wilson, M.Cameron,
+             J.Vidro, I.Suzuki, J.Conine-3, A.Rodriguez, B.Giles-2
+GIDP- K.Millar
+
+Mark Mulder tossed a complete game as the Oakland Athletics defeated the
+Seattle Mariners 8 to 3 at SAFECO Field.
+
+Mulder(3-0) had a solid outing for Oakland.  He went 9 innings surrendering 8
+hits and 6 walks and surrendered 2 'long-bombs'.  Oakland and Seattle each
+finished the afternoon with 8 hits.  
+
+The loss was charged to Jason Schmidt(1-2).  He allowed 3 homeruns in 7
+innings of work.
+[2]
+[1]SCORESHEET: 2003 Oakland Athletics at 2003 Seattle Mariners
+J.Payton-A1  A1:W>b1    *3*:K      *5*:F/9    D1:K       E1:K
+                                                         
+                                                         
+J.Giambi-A1  A2:Si>12   B2:E/2     C2:HR>b#   D2:P/2     E2:G/63
+                                                         
+                                                         
+J.Giambi-A1  A3:W>23 1  B3:HR>1#   C3:G/43    *7*:W>b1   *9*:G/63
+             2 b1       b#                               
+                                                         
+E.Chavez-A1  A4:W>3# 2  B4:F/9     C4:F/9     D4:K       E4:G/13
+             3 12 b1                                     
+                                                         
+K.Millar-A1  A5:G-DP/1  B5:G/63    *6*:Si     D5:K       E5:F/7
+             23>3o 23                                    
+             12                                          
+M.Tejada-A1  A6:G/63    *4*:W>b1   C6:W>12 b  D6:F/8
+                                   1          
+                                              
+E.Young-A1   *2*:W>b1   B7:Sac/34  C7:Do>2#   *8*:Si
+                        >12        13         
+                                              
+T.Hollan-A1  A8:Force/  B8:F/8     C8:HR>3#   D8:Do>13
+             54>1o b1              2# b#      
+                                              
+R.Machad-A1  A9:PkOff/  B9:K       C9:L/5     D9:K
+T.Long-D9    13>1o F/7                        
+C.Wilson-D9+                                  
+
+M.Camero-A1  A1:K       B1:W>23 1  C1:Si>3#   D1:F/8     E1:G/63
+                        2 b1       12                    
+                                                         
+J.Vidro-A1   A2:G/43    B2:K       C2:Force/  D2:Si      *9*:L/5
+                                   36>23 1o              
+                                   b1                    
+I.Suzuki-A1  A3:Si      *3*:G/23   C3:G/43    D3:G/63    E3:K
+                                                         
+                                                         
+E.Martin-A1  A4:W>12 b  B4:W>b1    *5*:Si     *7*:F/9    E4:HR>b#
+             1                                           
+                                                         
+J.Conine-A1  A5:F/7     B5:K       C5:K       D5:G/63    E5:K
+                                                         
+                                                         
+A.Rodrig-A1  *2*:W>b1   B6:F/7     C6:Do>13   D6:K
+                                              
+                                              
+D.Wilson-A1  A7:Sac/14  *4*:G/31   C7:G/53    *8*:F/7
+             >12                              
+                                              
+B.Giles-A1   A8:W>b1    B8:W>b1    C8:K       D8:K
+                                              
+                                              
+M.Lowell-A1  A9:F/7     B9:Si>13   *6*:F/9    D9:HR>b#
+                                              
+                                              
+
+

@@ -1,0 +1,237 @@
+[1]BOXSCORE: 2003 San Francisco Giants At 2003 Chicago (NL) Cubs       10/8/2003
+[1]Division Series Game 5
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  T.Perez CF          4  2  2  1 .231     D.Justice RF        4  2  3  0 .583  
+  B.Mueller 3B        2  0  1  0 .200   C-C.Patterson CF      0  0  0  0 ----  
+  S.Stewart LF        5  0  1  2 .238     Q.McCracken CF,RF   2  1  0  1 .250  
+B-G.Jenkins LF        0  0  0  0 .000     B.Bonds LF          3  1  2  3 .353  
+  P.Konerko 1B        5  0  0  0 .118     S.Sosa DH           4  1  1  3 .333  
+  R.Aurilia SS        5  2  3  1 .263     R.Palmeiro 1B       5  0  0  0 .158  
+  D.Bell DH           5  0  1  0 .211     M.Piazza C          4  1  1  1 .143  
+  T.Hall C            5  1  1  2 .167   D-D.Miller C          0  0  0  0 ----  
+  R.Mondesi RF        2  1  0  0 .091     H.Perry 3B          3  1  1  0 .211  
+  C.Febles 2B         4  1  3  1 .353     M.Bellhorn 2B       2  0  1  0 .222  
+                                        A-C.Baerga PH         1  1  1  0 .571  
+                                        E-B.Hill 2B           0  0  0  0 ----  
+                                          A.Gonzalez SS       4  0  0  0 .211  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  7 12  7                 Totals      32  8 10  8
+
+A-Pinch Hit For Bellhorn In 8th Inning
+B-Subbed Defensively (LF) For Stewart In 8th Inning
+C-Subbed Defensively (CF) For Justice In 9th Inning
+D-Subbed Defensively (C ) For Piazza In 9th Inning
+E-Subbed Defensively (2B) For Baerga In 9th Inning
+
+Giants.......... 1 0 0  5 0 0  0 0 1  -  7 12  1
+Cubs............ 0 0 3  0 0 0  0 5    -  8 10  1
+
+[1]Giants                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Lohse                      6 2/3   6   3   2   4   5   1   6.39  A1 D4
+C.Zerbe HOLD(1st)            0 1/3   1   1   1   0   0   1   2.25  D5 D6
+T.Worrell L(0-1) H(1st)      0 1/3   2   3   3   1   0   0  15.43  D7 E1
+J.Kennedy BS(1st)            0       1   1   1   1   0   0   ----  E2 E3
+B.Looper                     0 2/3   0   0   0   0   0   0   0.00  E4
+[1]Totals                    8      10   8   7   6   5   2
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement                    3 1/3   8   6   6   2   3   1   9.00  A1 C3
+J.Romero                     3       1   0   0   1   1   0   0.00  C4 D4
+D.Coggin WIN(1-0)            1 2/3   2   0   0   1   1   0   0.00  D5 E3
+B.Kim SAVE(2nd)              1       1   1   1   0   0   1   4.50  E4
+[1]Totals                    9      12   7   7   4   5   2
+
+ATTENDANCE- 37,273 DATE-  TIME- Night 
+UMPIRES- Andrew Fletcher, Mike Winters, Bill Welke, Fieldin Culbreth
+T- 2:56
+LEFT ON BASE- Giants: 9  Cubs: 9
+DOUBLE PLAYS- Giants: 1  Cubs: 0
+ERRORS- C.Febles, M.Clement
+DOUBLES- T.Perez(2nd), R.Aurilia-2(3rd), C.Febles(1st), B.Bonds(2nd)
+HOME RUNS- R.Aurilia(1st), T.Hall(1st), S.Sosa(2nd), M.Piazza(1st)
+STOLEN BASES- D.Bell(1st), C.Febles(3rd), D.Justice(1st)
+SACRIFICE HITS- T.Perez, B.Mueller, Q.McCracken-2
+WALKS- B.Mueller-2, R.Mondesi-2, D.Justice, Q.McCracken, B.Bonds-2, S.Sosa,
+       M.Bellhorn
+HIT BY PITCH- H.Perry
+STRIKE OUTS- S.Stewart, P.Konerko, D.Bell, T.Hall, C.Febles, Q.McCracken,
+             R.Palmeiro-2, M.Bellhorn, A.Gonzalez
+GIDP- Q.McCracken
+[2]
+[1]SCORESHEET: 2003 San Francisco Giants at 2003 Chicago (NL) Cubs
+T.Perez-A1   A1:Do      B1:Sac/14  C1:Si>2#   *6*:P/2    E1:SB>12
+                        >23 12                           F/7
+                                                         
+B.Muelle-A1  A2:Sac/54  B2:W>b1    C2:Si>13   D2:G/63    E2:W>b1
+             >23                                         
+                                                         
+S.Stewar-A1  A3:G/63>3  B3:K       C3:Si>3#   D3:G/31    E3:F/8
+G.Jenkin-E4  #                     13                    
+                                                         
+P.Konerk-A1  A4:K       B4:L/6     C4:PkOff/  *7*:F/8    *9*:L/5
+                                   13>1o G/5             
+                                   3                     
+R.Aurili-A1  *2*:G/13   *4*:Do     *5*:P/4    D5:Do      E5:HR>b#
+                                                         
+                                                         
+D.Bell-A1    A6:K       B6:P/4     C6:Si      D6:G/3>23  E6:F/7
+                                                         
+                                                         
+T.Hall-A1    A7:P/4     B7:HR>2#   C7:SB>12   D7:K       E7:F/8
+                        b#         G/63                  
+                                                         
+R.Mondes-A1  *3*:E/1    B8:W>b1    C8:W>b1    *8*:L/6
+                                              
+                                              
+C.Febles-A1  A9:Si>12   B9:Do>1#   C9:K       D9:Si
+                                              
+                                              
+
+D.Justic-A1  A1:Si      *3*:E/4    *5*:Si     *7*:Si     E1:W>23 1
+C.Patter-E6                                              2 b1
+                                                         
+Q.McCrac-A1  A2:Sac/34  B2:SB>12   C2:K       D2:G-DP/1  E2:W>3# 2
+             >12        Sac/34>23             63>1o      3 12 b1
+                                                         
+B.Bonds-A1   A3:L/4     B3:IW>b1   C3:W>12 b  D3:Si      E3:Do>3#
+                                   1                     2# 1#
+                                                         
+S.Sosa-A1    A4:G/63    B4:HR>3#   C4:F/9     D4:W>12 b  E4:G/3>23
+                        1# b#                 1          
+                                                         
+R.Palmei-A1  *2*:G/43   B5:K       C5:K       D5:G/43    E5:L/4
+                                                         
+                                                         
+M.Piazza-A1  A6:L/6     B6:G/53    *6*:F/8    *8*:HR>b#
+D.Miller-E6                                   
+                                              
+H.Perry-A1   A7:HBP     *4*:F/8    C7:G/53    D7:Si
+                                              
+                                              
+M.Bellho-A1  A8:Si>13   B8:K       C8:W>b1    D8:Si>12
+C.Baerga-D8                                   
+B.Hill-E6                                     
+A.Gonzal-A1  A9:F/8     B9:G/63    C9:K       D9:P/6
+                                              
+                                              
+
+
+[1]*** TOP OF INNING 1 ***
+0     T.Perez              0 Double                         b-2 
+0  2  B.Mueller            0 Sac Bunt                       2-3 b-0 
+1   3 S.Stewart            0 Ground Out                     3-H b-0 
+2     P.Konerko            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     D.Justice            0 Single                         b-1 
+0 1   Q.McCracken          0 Sac Bunt                       1-2 b-0 
+1  2  B.Bonds              0 Line Out                       b-0 
+2  2  S.Sosa               0 Ground Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     R.Aurilia            0 Ground Out                     b-0 
+1     D.Bell               0 Strike Out                     b-0 
+2     T.Hall               0 Pop Out                        b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     R.Palmeiro           0 Ground Out                     b-0 
+1     M.Piazza             0 Line Out                       b-0 
+2     H.Perry              0 HBP                            b-1 
+2 1   M.Bellhorn           0 Single                         1-3 b-1 
+2 1 3 A.Gonzalez           0 Fly Out                        b-0 
+[1]*** TOP OF INNING 3 ***
+0     R.Mondesi            0 1 Base Error - P               b-1 
+0 1   C.Febles             0 Single                         1-2 b-1 
+0 12  T.Perez              0 Sac Bunt                       2-3 1-2 b-0 
+1  23 B.Mueller            0 Walk                           b-1 
+1 123 S.Stewart            0 Strike Out                     b-0 
+2 123 P.Konerko            0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     D.Justice            0 1 Base Error - 2B              b-1 
+0 1                        0 Stolen Base                    1-2 
+0  2  Q.McCracken          0 Sac Bunt                       2-3 b-0 
+1   3 B.Bonds              0 Int Walk                       b-1 
+1 1 3 S.Sosa               0 Home Run                       3-H 1-H b-H 
+1     R.Palmeiro           0 Strike Out                     b-0 
+2     M.Piazza             0 Ground Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     R.Aurilia            0 Double                         b-2 
+0  2  D.Bell               0 Pop Out                        b-0 
+1  2  T.Hall               0 Home Run                       2-H b-H 
+1     R.Mondesi            0 Walk                           b-1 
+1 1   C.Febles             0 Double                         1-H b-2 
+1  2  T.Perez              0 Single                         2-H b-1 
+1 1   B.Mueller            0 Single                         1-3 b-1 
+1 1 3 S.Stewart            0 Single                         3-H 1-3 b-1 
+                             SUBSTITUTE P - J.C. Romero
+1 1 3                        Pickoff                        1-o 
+2   3 P.Konerko            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     H.Perry              0 Fly Out                        b-0 
+1     M.Bellhorn           0 Strike Out                     b-0 
+2     A.Gonzalez           0 Ground Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     R.Aurilia            0 Pop Out                        b-0 
+1     D.Bell               0 Single                         b-1 
+1 1                        0 Stolen Base                    1-2 
+1  2  T.Hall               0 Ground Out                     b-0 
+2  2  R.Mondesi            0 Walk                           b-1 
+2 12  C.Febles             0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     D.Justice            0 Single                         b-1 
+0 1   Q.McCracken          0 Strike Out                     b-0 
+1 1   B.Bonds              0 Walk                           1-2 b-1 
+1 12  S.Sosa               0 Fly Out                        b-0 
+2 12  R.Palmeiro           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 6 ***
+0     T.Perez              0 Pop Out                        b-0 
+1     B.Mueller            0 Ground Out                     b-0 
+2     S.Stewart            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     M.Piazza             0 Fly Out                        b-0 
+1     H.Perry              0 Ground Out                     b-0 
+2     M.Bellhorn           0 Walk                           b-1 
+2 1   A.Gonzalez           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+0     P.Konerko            0 Fly Out                        b-0 
+                             SUBSTITUTE P - David Coggin
+1     R.Aurilia            0 Double                         b-2 
+1  2  D.Bell               0 Ground Out                     2-3 b-0 
+2   3 T.Hall               0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     D.Justice            0 Single                         b-1 
+0 1   Q.McCracken          0 Ground Out Double Play         1-o b-0 
+2     B.Bonds              0 Single                         b-1 
+2 1   S.Sosa               0 Walk                           1-2 b-1 
+                             SUBSTITUTE P - Chad Zerbe
+2 12  R.Palmeiro           0 Ground Out                     b-0 
+[1]*** TOP OF INNING 8 ***
+0     R.Mondesi            0 Line Out                       b-0 
+1     C.Febles             0 Single                         b-1 
+1 1                        0 Stolen Base                    1-2 
+1  2  T.Perez              0 Fly Out                        b-0 
+2  2  B.Mueller            0 Walk                           b-1 
+2 12  S.Stewart            0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 8 ***
+0     M.Piazza             0 Home Run                       b-H 
+                             SUBSTITUTE P - Tim Worrell
+0     H.Perry              0 Single                         b-1 
+                             SUBSTITUTE PH- Carlos Baerga
+                             SUBSTITUTE LF- Geoff Jenkins
+0 1   C.Baerga             0 Single                         1-2 b-1 
+0 12  A.Gonzalez           0 Pop Out                        b-0 
+1 12  D.Justice            0 Walk                           2-3 1-2 b-1 
+                             SUBSTITUTE P - Joe Kennedy
+1 123 Q.McCracken          0 Walk                           3-H 2-3 1-2 b-1 
+1 123 B.Bonds              0 Double                         3-H 2-H 1-H b-2 
+                             SUBSTITUTE P - Braden Looper
+1  2  S.Sosa               0 Ground Out                     2-3 b-0 
+2   3 R.Palmeiro           0 Line Out                       b-0 
+[1]*** TOP OF INNING 9 ***
+                             SUBSTITUTE CF- Corey Patterson
+                             SUBSTITUTE RF- Quinton McCracken
+                             SUBSTITUTE C - Damian Miller
+                             SUBSTITUTE 2B- Bobby Hill
+                             SUBSTITUTE P - Byung-Hyun Kim
+0     P.Konerko            0 Line Out                       b-0 
+1     R.Aurilia            0 Home Run                       b-H 
+1     D.Bell               0 Fly Out                        b-0 
+2     T.Hall               0 Fly Out                        b-0 

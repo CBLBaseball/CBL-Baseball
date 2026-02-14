@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2003 Houston Astros At 2003 New York (NL) Mets            10/8/2003
+
+[1]  Astros             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  R.Winn CF           4  0  1  0 .538     R.Alomar 2B         3  1  1  1 .444  
+  J.Vizcaino SS       3  0  0  0 .000     L.Walker RF         4  0  0  0 .273  
+  C.Jones LF          4  0  0  0 .200     J.Olerud 1B         4  1  1  1 .100  
+  L.Berkman RF        0  1  0  0 .286     E.Alfonzo 3B        3  0  1  0 .300  
+  R.Klesko DH         4  1  1  2 .250     M.Vaughn DH         3  0  1  0 .143  
+  J.Bagwell 1B        4  0  0  0 .167   D-M.Grissom PH        0  0  0  0 ----  
+  C.Biggio 2B         3  0  1  0 .200     M.Mora CF           4  0  1  0 .083  
+A-R.Sanchez 2B        1  0  0  0 .333     J.Burnitz LF        3  0  0  0 .167  
+  A.Beltre 3B         3  0  0  0 .000   E-J.Franco PH         1  0  0  0 .200  
+  B.Ausmus C          3  1  1  1 .200     T.Lampkin C         3  0  0  0 .333  
+                                        F-T.Wigginton PH      1  0  0  0 .000  
+                                          R.Clayton SS        2  0  0  0 .000  
+                                        B-M.Stairs PH         1  0  0  0 .000  
+                                        C-M.Bordick SS        0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  3  4  3                 Totals      32  2  5  2
+
+A-Subbed Defensively (2B) For Biggio In 7th Inning
+B-Pinch Hit For Clayton In 8th Inning
+C-Subbed Defensively (SS) For Stairs In 9th Inning
+D-Pinch Hit For Vaughn In 9th Inning
+E-Pinch Hit For Burnitz In 9th Inning
+F-Pinch Hit For Lampkin In 9th Inning
+
+Astros.......... 0 2 0  0 0 0  0 1 0  -  3  4  0
+Mets............ 0 0 0  1 0 0  0 1 0  -  2  5  0
+
+[1]Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Oswalt WIN(1-0)            6       3   1   1   2  10   1   1.50  A1 C5
+O.Dotel HOLD(1st)            2 1/3   1   1   1   0   2   1   3.86  C6 D4
+B.Wagner                     0       1   0   0   1   0   0   ----  D5 D6
+R.Nen SAVE(1st)              0 2/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       5   2   2   3  12   2
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Trachsel LOSS(0-1)         7       4   3   3   4   3   2   3.86  A1 C9
+J.Jimenez                    1       0   0   0   0   0   0   2.45  D1 D3
+S.Eyre                       0 1/3   0   0   0   1   0   0   0.00  D4 D5
+B.Donnelly                   0 2/3   0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       4   3   3   5   4   2
+
+ATTENDANCE- 51,581 DATE-  TIME- Day 
+UMPIRES- Travis Katzenmeier, Scott Higgins, Jim Reynolds, Charlie Williams
+T- 2:18
+LEFT ON BASE- Astros: 4  Mets: 6
+DOUBLE PLAYS- Astros: 0  Mets: 1
+DOUBLES- M.Vaughn(1st)
+HOME RUNS- R.Klesko(1st), B.Ausmus(1st), R.Alomar(1st), J.Olerud(1st)
+CAUGHT STEALING- C.Biggio
+WALKS- J.Vizcaino, L.Berkman-4, R.Alomar, E.Alfonzo, M.Grissom
+STRIKE OUTS- R.Winn, J.Bagwell-2, C.Biggio, R.Alomar, L.Walker-2, J.Olerud,
+             M.Vaughn-2, M.Mora, J.Burnitz, T.Lampkin-2, R.Clayton, M.Stairs
+GIDP- J.Vizcaino
+
+Roy Oswalt dominated striking out 10 New York (NL) batters as the Houston
+Astros topped the New York (NL) Mets by a score of 3 to 2 at Shea
+Stadium.
+
+Oswalt(1-0) pitched a fine game.  He went 6 innings allowing 3 hits and 2
+walks.  New York (NL) threatened in the 9th but Houston was able to put down
+the rally.  
+
+Robb Nen got the save, his 1st.  Steve Trachsel(0-1) was charged with the
+loss.  Oswalt, when asked about his 10 strikeout performance noted, 'The
+important thing is that we won, if I get 20 and we lose, what good does it do
+our team? But, on the other hand, since we won it feels great!'
+[2]
+[1]SCORESHEET: 2003 Houston Astros at 2003 New York (NL) Mets
+R.Winn-A1    A1:K       B1:Si      *6*:F/7    D1:G/13
+                                              
+                                              
+J.Vizcai-A1  A2:G/63    B2:G-DP/6  C2:W>b1    D2:G/43
+                        43>1o                 
+                                              
+C.Jones-A1   A3:G/63    *4*:G/63   C3:G/43>1  D3:F/8
+                                   2          
+                                              
+L.Berkma-A1  *2*:W>b1   B4:W>b1    C4:W>b1    *9*:W>b1
+                                              
+                                              
+R.Klesko-A1  A5:HR>1#   B5:L/6     C5:F/7     D5:F/8
+             b#                               
+                                              
+J.Bagwel-A1  A6:F/9     B6:K       *7*:L/6    D6:K
+                                              
+                                              
+C.Biggio-A1  A7:K       *5*:L/6    C7:Si      D7:G/3>12
+R.Sanche-C9                                   
+                                              
+A.Beltre-A1  A8:F/7     B8:F/7     C8:CS/24>
+                                   1o G/53
+                                   
+B.Ausmus-A1  *3*:F/8    B9:L/6     *8*:HR>b#
+                                   
+                                   
+
+R.Alomar-A1  A1:F/8     B1:K       *6*:W>b1   D1:HR>b#
+                                              
+                                              
+L.Walker-A1  A2:K       *4*:G/53   C2:K       D2:F/9
+                                              
+                                              
+J.Olerud-A1  A3:K       B3:HR>b#   C3:F/8     D3:F/9
+                                              
+                                              
+E.Alfonz-A1  *2*:Si     B4:L/6     C4:W>12 b  *9*:L/6
+                                   1          
+                                              
+M.Vaughn-A1  A5:K       B5:Do      C5:K       D5:W>b1
+M.Grisso-D5                                   
+                                              
+M.Mora-A1    A6:F/8     B6:F/7     *7*:K      D6:Si>12
+                                              
+                                              
+J.Burnit-A1  A7:K       *5*:G/13   C7:P/2     D7:L/6
+J.Franco-D7                                   
+                                              
+T.Lampki-A1  *3*:K      B8:K       C8:FO/2    D8:F/8
+T.Wiggin-D8                                   
+                                              
+R.Clayto-A1  A9:L/5     B9:K       *8*:K
+M.Stairs-C9                        
+M.Bordic-D4                        
+
+

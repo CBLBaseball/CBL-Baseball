@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2003 Seattle Mariners At 2003 Oakland Athletics           10/22/103
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  M.Cameron CF        1  0  0  0 .167     M.Ellis 2B          4  2  1  0 .286  
+  J.Vidro 2B          3  0  0  1 .375     J.Giambi DH         5  1  1  0 .200  
+  I.Suzuki RF         4  0  1  0 .444     J.Giambi 1B         4  2  3  2 .625  
+  E.Martinez DH       4  0  2  0 .429     C.Wilson RF         4  1  2  2 .500  
+  J.Conine 1B         4  0  1  0 .286   A-A.Ochoa RF          0  0  0  0 .000  
+  A.Rodriguez SS      3  1  1  1 .143     M.Tejada SS         3  0  1  1 .286  
+  D.Wilson C          4  0  0  0 .333     E.Chavez 3B         2  0  0  1 .333  
+  B.Giles LF          4  1  2  0 .286     R.Hernandez C       4  0  0  0 .000  
+  M.Lowell 3B         4  0  0  0 .000     T.Hollandsworth LF  3  0  1  0 .333  
+                                          T.Long CF           4  0  0  0 .000  
+                                        B-J.Payton CF         0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  7  2                 Totals      33  6  9  6
+
+A-Subbed Defensively (RF) For Wilson In 8th Inning
+B-Subbed Defensively (CF) For Long In 9th Inning
+
+Mariners........ 0 0 1  0 0 0  1 0 0  -  2  7  1
+Athletics....... 1 0 1  0 4 0  0 0    -  6  9  2
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+J.Moyer LOSS(0-1)         5       9   6   4   2   4   1 101   7.20  A1 C9
+M.Koplove                 3       0   0   0   2   3   0  36   0.00  D1
+[1]Totals                    8       9   6   4   4   7   1
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR  PC    ERA  SCORESHEET
+B.Zito WIN(1-0)           9       7   2   2   2   4   1 134   2.00  A1
+[1]Totals                    9       7   2   2   2   4   1
+
+ATTENDANCE- 8,829 DATE-  TIME- Day 
+T- 2:58
+LEFT ON BASE- Mariners: 7  Athletics: 8
+DOUBLE PLAYS- Mariners: 0  Athletics: 4
+ERRORS- J.Vidro, M.Ellis, B.Zito
+DOUBLES- E.Martinez(2nd)
+TRIPLES- M.Ellis(1st)
+HOME RUNS- A.Rodriguez(1st), J.Giambi(2nd)
+SACRIFICE HITS- M.Cameron
+SACRIFICE FLIES- J.Vidro, E.Chavez
+WALKS- M.Cameron-2, M.Ellis, M.Tejada, E.Chavez, T.Hollandsworth
+HIT BY PITCH- A.Rodriguez
+STRIKE OUTS- J.Vidro, J.Conine-2, A.Rodriguez, M.Ellis, J.Giambi-2, E.Chavez-2,
+             R.Hernandez, T.Long
+GIDP- J.Vidro, I.Suzuki, E.Martinez, B.Giles
+
+Jason Giambi jacked one out of the ballyard and had 2 RBI and Barry Zito
+completed the game without help from the bullpen as the Oakland Athletics
+beat the Seattle Mariners by a score of 6 to 2.
+
+Zito(1-0) had a solid outing for Oakland.  He allowed 7 hits and 2 walks in 9
+innings.  Oakland had a total of 9 hits for the game.  
+
+Jamie Moyer(0-1) was the loser.  He was touched for 9 hits and 2 walks in 5
+innings.
+[2]
+[1]SCORESHEET: 2003 Seattle Mariners at 2003 Oakland Athletics
+M.Camero-A1  A1:W>b1    B1:Sac+FC  C1:F/9     D1:W>12 b
+                        >23 12 b1             1
+                                              
+J.Vidro-A1   A2:G-DP/4  B2:SF/9>3  C2:G/31    D2:K
+             63>1o      #                     
+                                              
+I.Suzuki-A1  A3:G/13    B3:G-DP/6  *6*:G/53   *8*:Si
+                        43>1o                 
+                                              
+E.Martin-A1  *2*:Do     *4*:Si     C4:F/8     D4:G-DP/6
+                                              43>1o
+                                              
+J.Conine-A1  A5:F/7     B5:Si>12   C5:K       D5:K
+                                              
+                                              
+A.Rodrig-A1  A6:F/8     B6:K       *7*:HR>b#  *9*:HBP
+                                              
+                                              
+D.Wilson-A1  A7:F/7     B7:E/1>23  C7:L/6     D7:F/7
+                        12                    
+                                              
+B.Giles-A1   *3*:Si     B8:G-DP/6  C8:Si      D8:P/6
+                        43>1o                 
+                                              
+M.Lowell-A1  A9:E/4>12  *5*:F/8    C9:P/6     D9:G/43
+                                              
+                                              
+
+M.Ellis-A1   A1:Tr      B1:W>12 b  *5*:E/4    *6*:G/13   E1:K
+                        1                                
+                                                         
+J.Giambi-A1  A2:L/4     B2:K       C2:Si>12   D2:L/4     E2:K
+                                                         
+                                                         
+J.Giambi-A1  A3:Si>3#   *3*:HR>b#  C3:Si>23   D3:G/43
+                                   12         
+                                              
+C.Wilson-A1  A4:Si>12   B4:F/8     C4:Si>3#   *7*:F/7
+A.Ochoa-D9                         2# 13      
+                                              
+M.Tejada-A1  A5:F/9     B5:G/63    C5:Si>3#   D5:W>b1
+                                   13         
+                                              
+E.Chavez-A1  A6:K       B6:K       C6:SF/8>3  D6:W>12 b
+                                   #          1
+                                              
+R.Hernan-A1  *2*:K      *4*:F/8    C7:L/6     D7:G/43>2
+                                              3 12
+                                              
+T.Hollan-A1  A8:W>b1    B8:G/63    C8:Si>13   D8:F/9
+                                              
+                                              
+T.Long-A1    A9:P/3     B9:F/8     C9:G/43    *8*:K
+J.Payton-E3                                   
+                                              
+
+

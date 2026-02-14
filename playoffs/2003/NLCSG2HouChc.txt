@@ -1,0 +1,193 @@
+[1]BOXSCORE: 2003 Houston Astros At 2003 Chicago (NL) Cubs            10/22/2003
+[1]NLCSG2Hou@Chc
+
+[1]  Astros             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  R.Winn CF           2  0  1  0 .333     D.Justice RF        5  1  1  0 .222  
+  R.Sanchez 2B        4  0  0  0 .143   A-C.Patterson CF      0  0  0  0 ----  
+  C.Jones LF          3  0  1  1 .286     Q.McCracken CF,RF   5  1  3  1 .400  
+  L.Berkman RF        4  0  0  0 .000     B.Bonds LF          2  1  0  1 .333  
+  R.Klesko DH         4  0  0  0 .000     S.Sosa DH           4  0  2  0 .500  
+  J.Bagwell 1B        4  0  1  0 .375     M.Piazza C          4  0  0  0 .143  
+  J.Vizcaino SS       4  0  0  0 .125     R.Palmeiro 1B       3  1  1  1 .143  
+  B.Ausmus C          3  0  0  0 .000     H.Perry 3B          4  0  0  0 .125  
+  A.Beltre 3B         2  1  0  0 .000     C.Baerga 2B         4  1  2  1 .500  
+                                          A.Gonzalez SS       3  1  1  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  3  1                 Totals      34  6 10  4
+
+A-Subbed Defensively (CF) For Justice In 9th Inning
+
+Astros.......... 0 0 0  0 0 0  0 1 0  -  1  3  4
+Cubs............ 0 1 1  4 0 0  0 0    -  6 10  1
+
+[1]Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Martinez LOSS(0-1)      8      10   6   3   2  11   0   3.38  A1
+[1]Totals                    8      10   6   3   2  11   0
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement WIN(1-0)        9       3   1   1   3   9   0   1.00  A1
+[1]Totals                    9       3   1   1   3   9   0
+
+ATTENDANCE- 35,207 DATE-  TIME- Night 
+UMPIRES- Tim Tschida, Greg Gibson, Chuck Meriwether, Tim Timmons
+T- 2:46
+LEFT ON BASE- Astros: 6  Cubs: 8
+DOUBLE PLAYS- Astros: 0  Cubs: 0
+ERRORS- R.Winn, R.Sanchez, A.Beltre-2, A.Gonzalez
+DOUBLES- R.Winn(1st)
+TRIPLES- Q.McCracken(1st), R.Palmeiro(1st)
+SACRIFICE FLIES- C.Jones, B.Bonds, R.Palmeiro
+WALKS- R.Winn-2, A.Beltre, B.Bonds, A.Gonzalez
+STRIKE OUTS- R.Sanchez-2, L.Berkman-2, R.Klesko-3, J.Bagwell, B.Ausmus,
+             D.Justice-3, Q.McCracken, B.Bonds-2, S.Sosa, M.Piazza-2, H.Perry,
+             A.Gonzalez
+[2]
+[1]SCORESHEET: 2003 Houston Astros at 2003 Chicago (NL) Cubs
+R.Winn-A1    A1:G/31    B1:W>12 b  *6*:W>b1   D1:Do>13
+                        1                     
+                                              
+R.Sanche-A1  A2:L/6     B2:F/9     C2:K       D2:K
+                                              
+                                              
+C.Jones-A1   A3:Si      B3:G/63    C3:F/8     D3:SF/7>3
+                                              #
+                                              
+L.Berkma-A1  A4:G/63    *4*:K      C4:G/53    D4:K
+                                              
+                                              
+R.Klesko-A1  *2*:F/7    B5:K       *7*:K      *9*:K
+                                              
+                                              
+J.Bagwel-A1  A6:F/7     B6:K       C6:Si      D6:G/63
+                                              
+                                              
+J.Vizcai-A1  A7:L/5     *5*:G/53   C7:F/9     D7:P/6
+                                              
+                                              
+B.Ausmus-A1  *3*:E/6    B8:G/63    C8:K
+                                   
+                                   
+A.Beltre-A1  A9:P/4     B9:P/6     *8*:W>b1
+                                   
+                                   
+
+D.Justic-A1  A1:L/4     B1:K       C1:Si>23   D1:K       E1:K
+C.Patter-E3                        12                    
+                                                         
+Q.McCrac-A1  A2:Si      B2:L/4     C2:Si+E/5  D2:Tr      E2:K
+                                   >3# 2# 1#             
+                                                         
+B.Bonds-A1   A3:K       *3*:W>b1   C3:SF/9>3  D3:K
+                                   #          
+                                              
+S.Sosa-A1    A4:Si+E/4  B4:Si>13   C4:K       *7*:L/6
+             >13                              
+                                              
+M.Piazza-A1  A5:F/8     B5:K       C5:K       D5:F/8
+                                              
+                                              
+R.Palmei-A1  *2*:E/5>b  B6:SF/9>3  *5*:F/9    D6:Tr
+             2          #                     
+                                              
+H.Perry-A1   A7:G/43>2  B7:G/31    C7:K       D7:G/63
+             3                                
+                                              
+C.Baerga-A1  A8:Si>3#   *4*:Si     C8:F/9     *8*:G/63
+                                              
+                                              
+A.Gonzal-A1  A9:Si>13   B9:W>12 b  *6*:K      D9:E/8>b2
+                        1                     
+                                              
+
+
+[1]*** TOP OF INNING 1 ***
+0     R.Winn               0 Ground Out                     b-0 
+1     R.Sanchez            0 Line Out                       b-0 
+2     C.Jones              0 Single                         b-1 
+2 1   L.Berkman            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     D.Justice            0 Line Out                       b-0 
+1     Q.McCracken          0 Single                         b-1 
+1 1   B.Bonds              0 Strike Out                     b-0 
+2 1   S.Sosa               0 Single & Error - 2B            1-3 b-2 
+2  23 M.Piazza             0 Fly Out                        b-0 
+[1]*** TOP OF INNING 2 ***
+0     R.Klesko             0 Fly Out                        b-0 
+1     J.Bagwell            0 Fly Out                        b-0 
+2     J.Vizcaino           0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     R.Palmeiro           0 2 Base Error - 3B              b-2 
+0  2  H.Perry              0 Ground Out                     2-3 b-0 
+1   3 C.Baerga             0 Single                         3-H b-1 
+1 1   A.Gonzalez           0 Single                         1-3 b-1 
+1 1 3 D.Justice            0 Strike Out                     b-0 
+2 1 3 Q.McCracken          0 Line Out                       b-0 
+[1]*** TOP OF INNING 3 ***
+0     B.Ausmus             0 1 Base Error - SS              b-1 
+0 1   A.Beltre             0 Pop Out                        b-0 
+1 1   R.Winn               0 Walk                           1-2 b-1 
+1 12  R.Sanchez            0 Fly Out                        b-0 
+2 12  C.Jones              0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     B.Bonds              0 Walk                           b-1 
+0 1   S.Sosa               0 Single                         1-3 b-1 
+0 1 3 M.Piazza             0 Strike Out                     b-0 
+1 1 3 R.Palmeiro           0 Sac Fly                        3-H b-0 
+2 1   H.Perry              0 Ground Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     L.Berkman            0 Strike Out                     b-0 
+1     R.Klesko             0 Strike Out                     b-0 
+2     J.Bagwell            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     C.Baerga             0 Single                         b-1 
+0 1   A.Gonzalez           0 Walk                           1-2 b-1 
+0 12  D.Justice            0 Single                         2-3 1-2 b-1 
+0 123 Q.McCracken          0 Single & Error - 3B            3-H 2-H 1-H b-3 
+0   3 B.Bonds              0 Sac Fly                        3-H b-0 
+1     S.Sosa               0 Strike Out                     b-0 
+2     M.Piazza             0 Strike Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     J.Vizcaino           0 Ground Out                     b-0 
+1     B.Ausmus             0 Ground Out                     b-0 
+2     A.Beltre             0 Pop Out                        b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     R.Palmeiro           0 Fly Out                        b-0 
+1     H.Perry              0 Strike Out                     b-0 
+2     C.Baerga             0 Fly Out                        b-0 
+[1]*** TOP OF INNING 6 ***
+0     R.Winn               0 Walk                           b-1 
+0 1   R.Sanchez            0 Strike Out                     b-0 
+1 1   C.Jones              0 Fly Out                        b-0 
+2 1   L.Berkman            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     A.Gonzalez           0 Strike Out                     b-0 
+1     D.Justice            0 Strike Out                     b-0 
+2     Q.McCracken          0 Triple                         b-3 
+2   3 B.Bonds              0 Strike Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+0     R.Klesko             0 Strike Out                     b-0 
+1     J.Bagwell            0 Single                         b-1 
+1 1   J.Vizcaino           0 Fly Out                        b-0 
+2 1   B.Ausmus             0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     S.Sosa               0 Line Out                       b-0 
+1     M.Piazza             0 Fly Out                        b-0 
+2     R.Palmeiro           0 Triple                         b-3 
+2   3 H.Perry              0 Ground Out                     b-0 
+[1]*** TOP OF INNING 8 ***
+0     A.Beltre             0 Walk                           b-1 
+0 1   R.Winn               0 Double                         1-3 b-2 
+0  23 R.Sanchez            0 Strike Out                     b-0 
+1  23 C.Jones              0 Sac Fly                        3-H b-0 
+2  2  L.Berkman            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+0     C.Baerga             0 Ground Out                     b-0 
+1     A.Gonzalez           0 2 Base Error - CF              b-2 
+1  2  D.Justice            0 Strike Out                     b-0 
+2  2  Q.McCracken          0 Strike Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+                             SUBSTITUTE CF- Corey Patterson
+                             SUBSTITUTE RF- Quinton McCracken
+0     R.Klesko             0 Strike Out                     b-0 
+1     J.Bagwell            0 Ground Out                     b-0 
+2     J.Vizcaino           0 Pop Out                        b-0 

@@ -1,0 +1,123 @@
+BOXSCORE: 2003 New York (NL) Mets At 2003 Houston Astros            10/4/2003
+
+  Mets               AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  R.Alomar 2B         5  2  3  1 .600     R.Winn CF           4  0  2  1 .500  
+  J.Olerud 1B         4  1  1  0 .250     P.Polanco 3B,SS     5  0  0  0 .000  
+  L.Walker RF         4  1  1  4 .250     C.Jones LF          5  1  2  1 .400  
+  E.Alfonzo 3B        4  0  1  0 .250     J.Bagwell 1B        5  1  1  1 .200  
+  M.Vaughn DH         5  0  1  0 .200     R.Klesko DH         5  0  2  0 .400  
+  J.Burnitz LF        3  1  0  0 .000     L.Berkman RF        4  1  1  1 .250  
+A-R.Sanders LF        1  0  0  0 .000     R.Sanchez 2B        3  0  0  0 .000  
+  M.Grissom CF        3  0  0  0 .000   C-A.Beltre PH,3B      1  1  1  01.000  
+  T.Lampkin C         3  0  0  0 .000     J.Vizcaino SS,2B    4  0  3  0 .750  
+B-H.Blanco C          0  0  0  0 ----     B.Ausmus C          4  0  0  0 .000  
+  R.Clayton SS        4  0  1  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+         Totals      36  5  8  5                 Totals      40  4 12  4
+
+A-Subbed Defensively (LF) For Burnitz In 9th Inning
+B-Subbed Defensively (C ) For Lampkin In 9th Inning
+C-Pinch Hit For Sanchez In 9th Inning
+
+Mets............ 0 0 0  0 0 3  1 0 0  1 -  5  8  0
+Astros.......... 0 1 0  2 0 0  0 0 1  0 -  4 12  0
+
+Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Leiter                  6       7   3   3   2   2   3   4.50  A1 C8
+J.Jimenez HOLD(1st)       1 1/3   1   0   0   0   1   0   0.00  C9 D4
+M.Guthrie BS(1st)         1       3   1   1   0   3   0   9.00  D5 E1
+B.Donnelly WIN(1-0)       1 2/3   1   0   0   0   0   0   0.00  E2
+Totals                   10      12   4   4   2   6   3
+
+Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Martinez                5 1/3   4   3   3   1   8   1   5.06  A1 C3
+O.Dotel                   3 2/3   2   1   1   2   7   0   2.45  C4 D9
+B.Wagner LOSS(0-1)        1       2   1   1   1   1   0   9.00  E1
+Totals                   10       8   5   5   4  16   1
+
+ATTENDANCE- 39,850 DATE-  TIME- Day 
+UMPIRES- Jerry Crawford, Mike Everett, Brian Gorman, Mike Dimuro
+T- 2:56
+LEFT ON BASE- Mets: 7  Astros: 8
+DOUBLE PLAYS- Mets: 1  Astros: 0
+DOUBLES- J.Olerud(1st)
+HOME RUNS- L.Walker(1st), C.Jones(1st), J.Bagwell(1st), L.Berkman(1st)
+STOLEN BASES- R.Winn(1st)
+SACRIFICE HITS- M.Grissom
+SACRIFICE FLIES- L.Walker
+WALKS- J.Olerud, E.Alfonzo, J.Burnitz, T.Lampkin, R.Winn, L.Berkman
+STRIKE OUTS- J.Olerud-2, L.Walker-2, M.Vaughn-3, J.Burnitz-2, R.Sanders,
+             M.Grissom-2, T.Lampkin-2, R.Clayton-2, P.Polanco, C.Jones,
+             J.Bagwell, R.Klesko, L.Berkman, B.Ausmus
+GIDP- R.Sanchez
+
+The New York (NL) Mets nipped the Houston Astros in 10 innings 5 to 4 at
+Minute Maid Field in a hard fought contest.
+
+The game was deadlocked at 4 after nine full innings.  New York (NL) won the
+game in the 10th inning.  Roberto Alomar delivered a single.  John Olerud
+stepped up next and he doubled.  Larry Walker then hit a sacrifice fly
+scoring the run.  Despite losing, Houston out-hit New York (NL) 12 to 8.
+
+Brendan Donnelly(1-0) went 1 and 2/3 innings allowing no runs for the victory.
+Billy Wagner(0-1) was the loser in relief.  He gave up 2 hits and 1 walk in 1
+inning.
+
+SCORESHEET: 2003 New York (NL) Mets at 2003 Houston Astros
+R.Alomar-A1  A1:L/4     B1:F/7     C1:Si      D1:Si>3#   *10*:Si
+                                              12         
+                                                         
+J.Olerud-A1  A2:K       B2:K       C2:W>12 b  D2:G/63    E2:Do>13
+                                   1                     
+                                                         
+L.Walker-A1  A3:G/63    *4*:K      C3:HR>2#   *8*:K      E3:SF/7>3
+                                   1# b#                 #
+                                                         
+E.Alfonz-A1  *2*:Si     B4:P/4     C4:L/6     D4:F/8     E4:IW>b1
+                                                         
+                                                         
+M.Vaughn-A1  A5:Si>12   B5:K       C5:K       D5:K       E5:F/8
+                                                         
+                                                         
+J.Burnit-A1  A6:K       *5*:G/43   *7*:W>b1   *9*:K      E6:K
+R.Sander-E1                                              
+                                                         
+M.Grisso-A1  A7:F/9     B7:K       C7:Sac/34  D7:K
+                                   >12        
+                                              
+T.Lampki-A1  A8:K       B8:G/13    C8:K       D8:W>b1
+H.Blanco-E1                                   
+                                              
+R.Clayto-A1  *3*:G/63   *6*:K      C9:Si>23   D9:K
+                                              
+                                              
+
+R.Winn-A1    A1:G/53    B1:Si      C1:W>b1    D1:F/9     E1:Si>3#
+                                                         12
+                                                         
+P.Polanc-A1  A2:F/8     B2:SB>12   C2:Force/  D2:K       E2:PkOff/
+                        G/43>23    36>23 1o              24>2o G/4
+                                   b1                    3
+C.Jones-A1   A3:K       *4*:HR>b#  C3:L/6     *8*:Si     *10*:G/43
+                                                         
+                                                         
+J.Bagwel-A1  *2*:F/9    B4:HR>b#   *6*:K      D4:F/7     E4:F/8
+                                                         
+                                                         
+R.Klesko-A1  A5:P/5     B5:F/9     C5:Si      D5:K       E5:Si
+                                                         
+                                                         
+L.Berkma-A1  A6:HR>b#   B6:G/43    C6:W>12 b  D6:K       E6:G/43
+                                   1                     
+                                                         
+R.Sanche-A1  A7:G/63    B7:P/4     C7:G-DP/6  *9*:Si
+A.Beltre-D7                        43>1o      
+                                              
+J.Vizcai-A1  *3*:F/7    *5*:Si     *7*:Si     D8:Si>13
+                                              
+                                              
+B.Ausmus-A1  A9:F/8     B9:G/63>1  C9:Force/  D9:K
+                        2          26>1o b1   
+                                              
+
+
