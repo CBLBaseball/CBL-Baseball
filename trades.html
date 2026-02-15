@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CBL • Trades</title>
+  <style>
+
+    :root{
+      --ink:#141414;
+      --muted:#4a4a4a;
+      --paper:#f7f2e6;
+      --paper2:#fbf8f1;
+      --rule: rgba(0,0,0,.35);
+      --thin: rgba(0,0,0,.18);
+      --accent:#7a1f1f;
+      --shadow: 0 16px 42px rgba(0,0,0,.18);
+      --grid:#d9d9d9;
+      --grid2:#9a9a9a;
+      --sep:#ececec;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      color:var(--ink);
+      font-family: Georgia, "Times New Roman", Times, serif;
+      background:
+        radial-gradient(1100px 650px at 20% -10%, rgba(0,0,0,.08), rgba(0,0,0,0) 55%),
+        radial-gradient(900px 650px at 90% 0%, rgba(0,0,0,.06), rgba(0,0,0,0) 58%),
+        linear-gradient(180deg, #ffffff 0%, #eef1f4 100%);
+      padding: 18px 14px 40px;
+    }
+    a{color:inherit}
+    .page{
+      max-width: 1180px;
+      margin: 0 auto;
+      background:
+        radial-gradient(circle at 22% 18%, rgba(255,255,255,.75), rgba(255,255,255,0) 52%),
+        radial-gradient(circle at 78% 22%, rgba(255,255,255,.70), rgba(255,255,255,0) 55%),
+        linear-gradient(180deg, var(--paper2), var(--paper));
+      border: 1px solid rgba(0,0,0,.22);
+      box-shadow: var(--shadow);
+      border-radius: 18px;
+      overflow:hidden;
+      position:relative;
+    }
+    .page::before{
+      content:"";
+      position:absolute; inset:0;
+      background:
+        repeating-linear-gradient(0deg, rgba(0,0,0,.015) 0px, rgba(0,0,0,.015) 1px, rgba(0,0,0,0) 3px, rgba(0,0,0,0) 6px),
+        repeating-linear-gradient(90deg, rgba(0,0,0,.010) 0px, rgba(0,0,0,.010) 1px, rgba(0,0,0,0) 4px, rgba(0,0,0,0) 8px);
+      opacity:.55;
+      pointer-events:none;
+      mix-blend-mode:multiply;
+    }
+    .wrap{position:relative; z-index:1; padding: 18px 18px 22px;}
+
+    .masthead{
+      text-align:center;
+      border-bottom: 4px double var(--rule);
+      padding-bottom: 12px;
+      margin-bottom: 10px;
+    }
+    .mast-top{
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-end;
+      gap:12px;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 850;
+      color: var(--muted);
+      letter-spacing: .02em;
+      font-size: 12px;
+      flex-wrap:wrap;
+    }
+    .mast-title{
+      margin: 6px 0 6px;
+      font-size: 42px;
+      line-height: 1;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      font-weight: 900;
+    }
+    .mast-sub{
+      margin:0;
+      font-size: 13px;
+      color: var(--muted);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 850;
+      letter-spacing:.03em;
+      text-transform: uppercase;
+    }
+
+    .strap{
+      margin-top: 10px;
+      padding: 10px 12px;
+      border-top: 1px solid var(--thin);
+      border-bottom: 1px solid var(--thin);
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      flex-wrap:wrap;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 900;
+      color: var(--ink);
+      align-items:center;
+    }
+    .strap .tag{display:inline-flex; gap:8px; align-items:center; white-space:nowrap}
+    .strap a{
+      text-decoration:none;
+      border-bottom: 2px solid rgba(0,0,0,.25);
+      padding-bottom:2px;
+    }
+    .strap a:hover{border-bottom-color: rgba(122,31,31,.8); color: var(--accent);}
+    .strap .right{white-space:nowrap}
+
+    .topTools{
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      align-items:center;
+      flex-wrap:wrap;
+      margin: 14px 0 10px;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    .searchWrap{
+      display:flex; gap:10px; align-items:center; flex-wrap:wrap;
+    }
+    input[type="search"], select{
+      padding: 10px 12px;
+      border-radius: 12px;
+      border:1px solid rgba(0,0,0,.25);
+      background: rgba(255,255,255,.75);
+      font-weight: 850;
+      outline:none;
+    }
+    input[type="search"]{ width:min(520px, 92vw); }
+    select{ cursor:pointer; }
+
+    .btns{display:flex; gap:8px; flex-wrap:wrap}
+    button, .fileLabel{
+      border: 1px solid rgba(0,0,0,.22);
+      background: rgba(255,255,255,.85);
+      padding: 9px 12px;
+      border-radius: 12px;
+      font-weight: 950;
+      cursor:pointer;
+    }
+    button:hover, .fileLabel:hover{border-color: rgba(122,31,31,.55); color: var(--accent);}
+    .fileLabel{display:inline-flex; gap:8px; align-items:center}
+    input[type="file"]{display:none}
+
+    .sheet{
+      width:100%;
+      border: 1px solid var(--grid2);
+      border-radius: 14px;
+      overflow:hidden;
+      background: rgba(255,255,255,.55);
+    }
+    .headRow{
+      display:grid;
+      grid-template-columns: 160px 1fr 1fr 14px 1fr 1fr 160px;
+      border-bottom:1px solid var(--grid2);
+      background: rgba(255,255,255,.75);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 950;
+      font-size: 13px;
+    }
+    .headRow > div{
+      padding:10px;
+      border-right:1px solid var(--grid);
+      display:flex; align-items:center; justify-content:center;
+    }
+    .headRow .sep{background:var(--sep); padding:0}
+    .headRow > div:last-child{border-right:0}
+
+    .tradeRow{
+      display:grid;
+      grid-template-columns: 160px 1fr 1fr 14px 1fr 1fr 160px;
+      border-bottom:1px solid var(--grid);
+      min-height:86px;
+    }
+    .tradeRow:last-child{border-bottom:0}
+    .cell{
+      padding:10px;
+      border-right:1px solid var(--grid);
+      position:relative;
+    }
+    .cell:last-child{border-right:0}
+    .cell.sep{background:var(--sep); padding:0}
+    .dateCell{
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 950;
+      color: var(--accent);
+      letter-spacing:.03em;
+      font-size: 13px;
+      text-transform: uppercase;
+    }
+    .phase{
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 900;
+      font-size: 11px;
+      color:#000;
+      margin-top:6px;
+    }
+    .teamBox{
+      border-top: 2px solid rgba(0,0,0,.6);
+      padding-top:6px;
+      min-height:64px;
+    }
+    .teamName{
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 950;
+      font-size: 14px;
+      margin:0 0 4px;
+    }
+    ul.items{margin:0; padding-left:18px; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; font-weight: 850; font-size: 13px; line-height:1.25}
+    ul.items li{margin:2px 0}
+    .muted{color:var(--muted); font-weight:850; font-size:11px; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin-top:6px}
+
+    .footer{
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px solid rgba(0,0,0,.18);
+      text-align:center;
+      color: rgba(0,0,0,.55);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 12px;
+    }
+
+    .errorBox{
+      border: 1px solid rgba(0,0,0,.22);
+      border-radius: 14px;
+      padding: 12px;
+      background: rgba(255,255,255,.7);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-weight: 850;
+      color: #000;
+      margin: 10px 0 0;
+    }
+    .errorBox b{color: var(--accent)}
+
+    @media (max-width: 980px){
+      .headRow, .tradeRow{grid-template-columns: 140px 1fr 1fr 10px 1fr 1fr 140px;}
+    }
+    @media (max-width: 760px){
+      .headRow{display:none}
+      .tradeRow{grid-template-columns: 1fr;}
+      .cell{border-right:0; border-bottom:1px solid var(--grid)}
+      .cell.sep{display:none}
+      .cell:last-child{border-bottom:0}
+    }
+
+  </style>
+</head>
+<body>
+  <div class="page">
+    <div class="wrap">
+      <div class="masthead">
+        <div class="mast-top">
+          <div>TRANSACTIONS</div>
+          <div>CBLBASEBALL.NET</div>
+          <div>SEASON: <span id="seasonLabel">—</span></div>
+        </div>
+        <div class="mast-title"><span id="titleSeason">—</span> CBL Season Trades</div>
+        <p class="mast-sub">Shown is what each team received • All DPs are for the <span id="dpSeason">—</span> Draft unless stated otherwise</p>
+      </div>
+
+      <div class="strap">
+        <span class="tag"><b>Quick Links:</b>
+          <a href="index.html">Front Page</a> •
+          <a href="dashboards.html">Dashboards</a> •
+          <a href="league-info.html">Standings & Stats</a>
+        </span>
+        <span class="tag right">Powered by FanGraphs</span>
+      </div>
+
+      <div class="topTools">
+        <div class="searchWrap">
+          <select id="yearSelect" title="Select season year"></select>
+          <input id="search" type="search" placeholder="Search trades (team, player, pick, date)..." />
+        </div>
+        <div class="btns">
+          <button id="printBtn" type="button">Print</button>
+        </div>
+      </div>
+
+      <div id="error" class="errorBox" style="display:none;"></div>
+
+      <div class="sheet" aria-label="Trades sheet">
+        <div class="headRow">
+          <div>Date</div>
+          <div>Team</div>
+          <div>Team</div>
+          <div class="sep" aria-hidden="true"></div>
+          <div>Team</div>
+          <div>Team</div>
+          <div>Date</div>
+        </div>
+        <div id="body"></div>
+      </div>
+
+      <div class="footer">© Continental Baseball League • Trades</div>
+    </div>
+  </div>
+
+<script>
+(() => {
+  const $ = (s) => document.querySelector(s);
+
+  // Years shown in the dropdown (edit if you want more/less)
+  const YEARS = [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005];
+
+  function getYearFromUrl() {
+    const u = new URL(window.location.href);
+    const y = parseInt(u.searchParams.get("year") || "", 10);
+    return Number.isFinite(y) ? y : YEARS[0];
+  }
+
+  function setYearInUrl(year) {
+    const u = new URL(window.location.href);
+    u.searchParams.set("year", year);
+    window.location.href = u.toString();
+  }
+
+  function esc(s){
+    return (s ?? "").toString()
+      .replaceAll("&","&amp;")
+      .replaceAll("<","&lt;")
+      .replaceAll(">","&gt;")
+      .replaceAll('"',"&quot;");
+  }
+
+  function normalizeTeams(teams){
+    const t = (teams || []).filter(x => (x?.name || "").trim().length > 0);
+    while (t.length < 4) t.push({name:"", items:[]});
+    return t.slice(0,4);
+  }
+
+  let year = getYearFromUrl();
+
+  // UI labels
+  $("#seasonLabel").textContent = year;
+  $("#titleSeason").textContent = year;
+  $("#dpSeason").textContent = year;
+
+  // Build year dropdown
+  const sel = $("#yearSelect");
+  sel.innerHTML = YEARS.map(y => `<option value="${y}">${y}</option>`).join("");
+  sel.value = String(year);
+  sel.addEventListener("change", () => setYearInUrl(sel.value));
+
+  const errorBox = $("#error");
+  function showError(msg) {
+    errorBox.style.display = "block";
+    errorBox.innerHTML = msg;
+  }
+
+  function matchesSearch(trade, q){
+    if(!q) return true;
+    q = q.toLowerCase();
+    const parts = [];
+    parts.push(trade.leftDate || "", trade.rightDate || "", trade.phase || "");
+    (trade.teams || []).forEach(t => {
+      parts.push(t.name || "");
+      (t.items || []).forEach(i => parts.push(i || ""));
+    });
+    return parts.join(" ").toLowerCase().includes(q);
+  }
+
+  let trades = [];
+
+  function render(){
+    const q = ($("#search").value || "").trim();
+    const rows = trades.filter(tr => matchesSearch(tr, q));
+    $("#body").innerHTML = rows.map((tr) => {
+      const teams = normalizeTeams(tr.teams || []);
+
+      const teamCell = (teamIdx) => {
+        const tm = teams[teamIdx] || {name:"", items:[]};
+        const items = (tm.items || []).length ? tm.items : [];
+        const list = items.map((it) => `<li>${esc(it)}</li>`).join("");
+        return `
+          <div class="cell">
+            <div class="teamBox">
+              <div class="teamName">${esc(tm.name || "Team")}</div>
+              <ul class="items">${list}</ul>
+            </div>
+          </div>
+        `;
+      };
+
+      return `
+        <div class="tradeRow">
+          <div class="cell">
+            <div class="dateCell">${esc(tr.leftDate || "—")}</div>
+            <div class="phase">${esc(tr.phase || " ")}</div>
+          </div>
+
+          ${teamCell(0)}
+          ${teamCell(1)}
+          <div class="cell sep" aria-hidden="true"></div>
+          ${teamCell(2)}
+          ${teamCell(3)}
+
+          <div class="cell">
+            <div class="dateCell">${esc(tr.rightDate || " ")}</div>
+          </div>
+        </div>
+      `;
+    }).join("");
+  }
+
+  $("#search").addEventListener("input", render);
+  $("#printBtn").addEventListener("click", () => window.print());
+
+  // Load trades JSON for selected year
+  const url = `data/trades-${year}.json`;
+  fetch(url, { cache: "no-store" })
+    .then(r => {
+      if (!r.ok) throw new Error(`Couldn't load ${url} (HTTP ${r.status}).`);
+      return r.json();
+    })
+    .then(data => {
+      if (!Array.isArray(data)) throw new Error("Trades JSON must be an array.");
+      trades = data;
+      render();
+    })
+    .catch(err => {
+      showError(`No data file found for <b>${year}</b>. Create <b>${url}</b> (you can export JSON from your admin page).<br/><br/>Details: ${esc(err.message || String(err))}`);
+      trades = [];
+      render();
+    });
+})();
+</script>
+</body>
+</html>

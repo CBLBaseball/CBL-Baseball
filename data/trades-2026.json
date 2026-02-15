@@ -1,0 +1,99 @@
+[
+  {
+    "leftDate": "June 2025",
+    "rightDate": "1/30/2026",
+    "phase": "Pre-Cut Down",
+    "teams": [
+      {
+        "name": "Mets",
+        "items": [
+          "Corbin Burnes"
+        ]
+      },
+      {
+        "name": "Orioles",
+        "items": [
+          "Trevor Megill",
+          "Charlie Morton"
+        ]
+      },
+      {
+        "name": "Mets",
+        "items": [
+          "Jameson Taillon",
+          "KCA DP (6th)"
+        ]
+      },
+      {
+        "name": "Royals",
+        "items": [
+          "Seth Lugo"
+        ]
+      }
+    ]
+  },
+  {
+    "leftDate": "2/1/2026",
+    "rightDate": "2/4/2026",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Guardians",
+        "items": [
+          "JT Realmuto"
+        ]
+      },
+      {
+        "name": "Braves",
+        "items": [
+          "CLA DP (1st)"
+        ]
+      },
+      {
+        "name": "Mets",
+        "items": [
+          "Tyrone Taylor"
+        ]
+      },
+      {
+        "name": "Braves",
+        "items": [
+          "NYN DP (6th)"
+        ]
+      }
+    ]
+  },
+  {
+    "leftDate": "2/4/2026",
+    "rightDate": "2/6/2026",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Orioles",
+        "items": [
+          "Alec Burleson"
+        ]
+      },
+      {
+        "name": "Nationals",
+        "items": [
+          "Pete Fairbanks"
+        ]
+      },
+      {
+        "name": "Twins",
+        "items": [
+          "Matt Wallner",
+          "Randal Grichuk",
+          "NYA DP (10th)"
+        ]
+      },
+      {
+        "name": "Yankees",
+        "items": [
+          "Brayan Bello"
+        ]
+      }
+    ]
+  }
+]
