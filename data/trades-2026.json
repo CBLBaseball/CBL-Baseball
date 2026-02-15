@@ -1,52 +1,75 @@
 [
   {
-    "leftDate": "2/1/2026",
-    "rightDate": "2/4/2026",
+    "leftDate": "2/8/2026",
+    "rightDate": "2/13/2026",
     "phase": "",
     "teams": [
       {
-        "name": "Guardians",
+        "name": "Red Sox",
         "items": [
-          "JT Realmuto"
+          "SFN DP (2nd)"
         ]
       },
       {
-        "name": "Braves",
+        "name": "Giants",
         "items": [
-          "CLA DP (1st)"
+          "Kenley Jansen"
         ]
       },
       {
-        "name": "Mets",
+        "name": "Phillies",
         "items": [
-          "Tyrone Taylor"
+          "BOA DP (2nd)",
+          "Trea Turner"
         ]
       },
       {
-        "name": "Braves",
+        "name": "Red Sox",
         "items": [
-          "NYN DP (6th)"
+          "PHN DP (1st)",
+          "Carlos Correa"
         ]
       }
     ]
   },
   {
-    "leftDate": "2/4/2026",
-    "rightDate": "2/6/2026",
+    "leftDate": "2/8/2026",
+    "rightDate": "2/9/2026",
     "phase": "",
     "teams": [
       {
-        "name": "Orioles",
+        "name": "Cardinals",
         "items": [
-          "Alec Burleson"
+          "Willson Contreras"
         ]
       },
       {
-        "name": "Nationals",
+        "name": "Cubs",
         "items": [
-          "Pete Fairbanks"
+          "Yanier Diaz"
         ]
       },
+      {
+        "name": "Rockies",
+        "items": [
+          "KCA DP (6th)",
+          "Kyle Farmer"
+        ]
+      },
+      {
+        "name": "Mets",
+        "items": [
+          "Tylor Megill",
+          "CON DP (10th)"
+        ]
+      }
+    ]
+  },
+  {
+    "leftDate": "2/6/2026",
+    "rightDate": "2/6/2026",
+    "phase": "",
+    "teams": [
       {
         "name": "Twins",
         "items": [
@@ -60,14 +83,7 @@
         "items": [
           "Brayan Bello"
         ]
-      }
-    ]
-  },
-  {
-    "leftDate": "2/6/2026",
-    "rightDate": "2/8/2026",
-    "phase": "",
-    "teams": [
+      },
       {
         "name": "Twins",
         "items": [
@@ -79,17 +95,67 @@
         "items": [
           "Chris Paddack"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "leftDate": "2/4/2026",
+    "rightDate": "2/4/2026",
+    "phase": "",
+    "teams": [
       {
-        "name": "Cardinals",
+        "name": "Mets",
         "items": [
-          "Willson Contreras"
+          "Tyrone Taylor"
         ]
       },
       {
-        "name": "Cubs",
+        "name": "Braves",
         "items": [
-          "Yainer Diaz"
+          "NYN DP (6th)"
+        ]
+      },
+      {
+        "name": "Orioles",
+        "items": [
+          "Alec Burleson"
+        ]
+      },
+      {
+        "name": "Nationals",
+        "items": [
+          "Peter Fairbanks"
+        ]
+      }
+    ]
+  },
+  {
+    "leftDate": "1/30/2026",
+    "rightDate": "2/1/2026",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Royals",
+        "items": [
+          "Seth Lugo"
+        ]
+      },
+      {
+        "name": "Mets",
+        "items": [
+          "Jameson TaillonKCA DP (6th)"
+        ]
+      },
+      {
+        "name": "Indians",
+        "items": [
+          "JT Realmuto"
+        ]
+      },
+      {
+        "name": "Braves",
+        "items": [
+          "CLA DP (1st)"
         ]
       }
     ]
