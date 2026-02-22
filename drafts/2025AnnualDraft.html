@@ -248,7 +248,41 @@
     }
     .hidden{display:none !important;}
 
-  </style>
+  
+    /* --- Year / Draft selector --- */
+    .selectors{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+    .selectors .sel{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+      font-weight: 900;
+      color: rgba(0,0,0,.75);
+      white-space:nowrap;
+    }
+    .selectors select{
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 950;
+      color: var(--ink);
+      cursor:pointer;
+    }
+    @media print{
+      .selectors{display:none !important;}
+    }
+
+</style>
 </head>
 
 <body>
@@ -275,6 +309,45 @@
           <button class="btn" id="btn1to5" type="button">Rounds 1–5</button>
           <button class="btn" id="btn6to10" type="button">Rounds 6–10</button>
         </div>
+        <div class="selectors" aria-label="Draft navigation">
+          <div class="sel">
+            Year
+            <select id="yearSelect" aria-label="Select year">
+              <option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+            </select>
+          </div>
+          <div class="sel">
+            Draft
+            <select id="draftSelect" aria-label="Select draft type">
+              <option value="AnnualDraft">Annual Draft</option>
+              <option value="FreeAgentDraft">Free Agent Draft</option>
+            </select>
+          </div>
+        </div>
+
 
         <div class="search" style="margin:0; min-width:min(560px, 95vw);">
           🔎
@@ -427,6 +500,30 @@
 
     pillify(document.getElementById('t1'));
     pillify(document.getElementById('t2'));
-  </script>
+  
+    // --- Year / Draft selector wiring (2002–2025) ---
+    (function(){
+      const yearSel = document.getElementById('yearSelect');
+      const draftSel = document.getElementById('draftSelect');
+      if(!yearSel || !draftSel) return;
+
+      const file = (location.pathname.split('/').pop() || '').toLowerCase();
+      const yearMatch = file.match(/^(\d{4})/);
+      const year = yearMatch ? yearMatch[1] : '2025';
+      const isFA = file.includes('freeagent');
+
+      yearSel.value = year;
+      draftSel.value = isFA ? 'FreeAgentDraft' : 'AnnualDraft';
+
+      function go(){
+        const target = `/drafts/${yearSel.value}${draftSel.value}.html`;
+        location.href = target;
+      }
+
+      yearSel.addEventListener('change', go);
+      draftSel.addEventListener('change', go);
+    })();
+
+</script>
 </body>
 </html>
