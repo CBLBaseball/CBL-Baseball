@@ -518,9 +518,9 @@
       function go(){
         const y = yearSel.value;
         const t = draftSel.value;
-        const target = `${y}${t}.html`;
+        const target = `/drafts/${y}${t}.html`;
         const base = location.href.substring(0, location.href.lastIndexOf('/') + 1);
-        location.href = base + target;
+        location.href = target;
       }
 
       yearSel.addEventListener('change', go);
