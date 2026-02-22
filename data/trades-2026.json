@@ -1,7 +1,7 @@
 [
   {
     "leftDate": "2/18/2026",
-    "rightDate": "",
+    "rightDate": "2/20/2026",
     "phase": "",
     "teams": [
       {
@@ -19,12 +19,18 @@
         ]
       },
       {
-        "name": "",
-        "items": []
+        "name": "Dodgers",
+        "items": [
+          "Brandon Marsh",
+          "Josh Hader"
+        ]
       },
       {
-        "name": "",
-        "items": []
+        "name": "Padres",
+        "items": [
+          "Xander Bogaerts",
+          "Michael A. Taylor"
+        ]
       }
     ]
   },
