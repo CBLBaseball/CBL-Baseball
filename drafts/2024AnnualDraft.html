@@ -1,0 +1,536 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CBL 2024 Annual Draft</title>
+  <style>
+:root{
+      --ink:#111;
+      --muted:#555;
+      --bg:#f6f1e6;
+      --card:#ffffff;
+      --line:rgba(0,0,0,.10);
+      --accent:#7a1f1f;
+      --navy:#0b4a7d;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--ink);
+      background: linear-gradient(180deg,#fff 0%, #eef3f8 100%);
+      padding: 18px 14px 44px;
+    }
+    .page{
+      max-width: 1600px;
+      margin: 0 auto;
+      background: radial-gradient(circle at 20% 0%, rgba(122,31,31,.08), transparent 55%),
+                  linear-gradient(180deg, var(--bg), #efe7d3);
+      border: 2px solid #222;
+      border-radius: 20px;
+      box-shadow: 0 18px 46px rgba(0,0,0,.16);
+      overflow:hidden;
+    }
+    header{
+      padding: 18px 18px 14px;
+      border-bottom: 4px double rgba(0,0,0,.28);
+      display:flex;
+      flex-wrap:wrap;
+      align-items:flex-end;
+      justify-content:space-between;
+      gap:12px;
+    }
+    h1{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 40px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .sub{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-weight: 800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      font-size: 12px;
+    }
+    .actions a{
+      display:inline-flex;
+      gap:10px;
+      align-items:center;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.7);
+      text-decoration:none;
+      color: var(--navy);
+      font-weight: 900;
+      white-space:nowrap;
+    }
+    .wrap{padding: 16px 18px 22px;}
+    .note{
+      margin: 0 0 12px;
+      color: rgba(0,0,0,.68);
+      font-weight: 750;
+      line-height: 1.45;
+    }
+    .tools{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .search{
+      flex: 1 1 320px;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+    }
+    .search input{
+      width:100%;
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--ink);
+    }
+    .legend{
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+    }
+    .table-wrap{
+      overflow:auto;
+      border: 2px solid #222;
+      border-radius: 16px;
+      background: var(--card);
+      box-shadow: 0 10px 24px rgba(0,0,0,.10);
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout: auto;
+      
+    }
+    col.team{width: 260px;}
+    col.r{width: 110px;}
+    col.roster{width: 110px;}
+    thead th{border:1px solid #222;
+      position:sticky;
+      top:0;
+      z-index:2;
+      background: #f7f7f7;
+      border-bottom: 2px solid #222;
+      padding: 10px 10px;
+      font-size: 12px;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+      text-align:left;
+      color: rgba(0,0,0,.75);
+    }
+    tbody td{border:1px solid #222;
+      border-bottom: 1px solid #222;
+      padding: 10px 10px;
+      vertical-align:middle;
+      font-weight: 750;
+      }
+    tbody tr:hover{background:#fbfbfb}
+    td.team{font-weight: 950;}
+    td.pick{ text-align:center; font-weight:950; letter-spacing:.03em; white-space:nowrap; overflow:visible; }
+    td.pick.skip{color: var(--accent);}
+    td.roster{
+      text-align:right;
+      font-variant-numeric: tabular-nums;
+      font-weight: 900;
+      color: rgba(0,0,0,.70);
+    }
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.14);
+      background: rgba(11,74,125,.06);
+      color: var(--navy);
+      font-size: 12px;
+      font-weight: 950;
+      
+      white-space: nowrap;
+    }
+    .pill.skip{
+      background: rgba(122,31,31,.08);
+      color: var(--accent);
+      border-color: rgba(122,31,31,.22);
+    }
+    footer{
+      padding: 14px 18px 18px;
+      border-top: 1px solid rgba(0,0,0,.14);
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+      text-align:center;
+    }
+    @media (max-width: 720px){
+      h1{font-size: 32px;}
+      table{}
+    }
+    @media print{
+      body{background:#fff;padding:0;}
+      .page{box-shadow:none;border:none;border-radius:0;}
+      .tools,.actions{display:none;}
+      .table-wrap{box-shadow:none;border:1px solid #bbb;}
+    }
+
+    /* --- Draft page additions (navigation + sections) --- */
+    .split{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .btnrow{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+    .btn{
+      border:2px solid #222;
+      background: rgba(255,255,255,.75);
+      color: var(--navy);
+      font-weight: 900;
+      padding: 8px 10px;
+      border-radius: 999px;
+      cursor:pointer;
+    }
+    .btn.active{
+      background: rgba(11,74,125,.10);
+      box-shadow: inset 0 0 0 2px rgba(11,74,125,.25);
+    }
+
+    .selectors{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+    .selectors .sel{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+      font-weight: 900;
+      color: rgba(0,0,0,.75);
+      white-space:nowrap;
+    }
+    .selectors select{
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 950;
+      color: var(--ink);
+      cursor:pointer;
+    }
+
+    .section-title{
+      margin: 12px 0 10px;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 24px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .section-sub{
+      margin: -6px 0 10px;
+      color: rgba(0,0,0,.60);
+      font-weight: 800;
+      font-size: 12px;
+      letter-spacing:.08em;
+      text-transform: uppercase;
+    }
+
+    .pillcode{
+      display:inline-block;
+      padding:2px 8px;
+      border-radius:999px;
+      border:1px solid rgba(0,0,0,.25);
+      background: rgba(11,74,125,.08);
+      font-weight: 900;
+      letter-spacing:.04em;
+      font-size: 11px;
+      margin-right: 4px;
+      white-space:nowrap;
+    }
+    .mono{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-weight: 900;
+      font-size: 11px;
+    }
+    .hidden{display:none !important;}
+    @media print{
+      .btnrow,.selectors,.search span.mono{display:none !important;}
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <header>
+      <div>
+        <h1 id="pageTitle">CBL 2024 Annual Draft</h1>
+        <div class="sub">Continental Baseball League</div>
+      </div>
+      <div class="actions">
+        <a href="/index.html">← Back to Front Page</a>
+      </div>
+    </header>
+
+    <div class="wrap">
+      <p class="note">
+        Shown are the picks for each team. Use search to filter both tables.
+        Traded-from team codes like <span class="mono">(CIN)</span> are styled as pills.
+      </p>
+
+      <div class="split">
+        <div class="btnrow">
+          <button class="btn active" id="btnAll" type="button">Show All</button>
+          <button class="btn" id="btn1" type="button">Rounds 1–5</button>
+          <button class="btn" id="btn2" type="button">Rounds 6–10</button>
+        </div>
+
+        <div class="selectors" aria-label="Draft navigation">
+          <div class="sel">
+            Year
+            <select id="yearSelect" aria-label="Select year">
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option>
+            </select>
+          </div>
+          <div class="sel">
+            Draft
+            <select id="draftSelect" aria-label="Select draft type">
+              <option value="AnnualDraft">Annual Draft</option>
+              <option value="FreeAgentDraft">Free Agent Draft</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="search" style="margin:0; min-width:min(560px, 95vw);">
+          🔎
+          <input id="q" type="text" placeholder="Search team, player, or traded code..." autocomplete="off" />
+          <span class="mono">/</span>
+        </div>
+      </div>
+
+      <div id="sec1">
+        <div class="section-title">Rounds 1–5</div>
+        <div class="section-sub">Teams • Picks</div>
+        <div class="table-wrap">
+          <table id="t1">
+            <thead>
+              <tr>
+                <th style="width:52px">#</th>
+                <th style="min-width:220px">Team</th>
+                <th>Round 1</th><th>Round 2</th><th>Round 3</th><th>Round 4</th><th>Round 5</th>
+              </tr>
+            </thead>
+            <tbody>
+<tr><td>1</td><td>San Diego</td><td>Carter, Evan*</td><td>France, J.P.</td><td>Moreta, Dauri</td><td>(CIN) Teheran, Julio</td><td>(TOA) Bouchard, Sean</td></tr>
+<tr><td>2</td><td>Detroit</td><td>Caminero, Junior</td><td>Taylor, Tyrone</td><td>Littell, Zack</td><td>Miller, Shelby</td><td>Merryweather, Julian</td></tr>
+<tr><td>3</td><td>Washington</td><td>Perez, Eury</td><td>(SLN) Butler, Lawrence*</td><td>Hoffman, Jeff</td><td>(TOA) Blackmon, Charlie*</td><td>Thompson, Ryan</td></tr>
+<tr><td>4</td><td>Kansas City</td><td>Lawlar, Jordan</td><td>Varland, Louie</td><td>Stone, Gavin</td><td>Lange, Alex</td><td>(CHA) Miller, Owen</td></tr>
+<tr><td>5</td><td>St. Louis</td><td>(WAN) Pfaadt, Brandon</td><td>McKinstry, Zach*</td><td>Amaya, Jacob</td><td>Stephenson, Robert</td><td>Caratini, Victor+</td></tr>
+<tr><td>6</td><td>Pittsburgh</td><td>Doyle, Brenton</td><td>Bethancourt, Christian</td><td>Renfroe, Hunter</td><td>Holderman, Colin</td><td>Moustakas, Mike*</td></tr>
+<tr><td>7</td><td>Cincinnati</td><td>Frelick, Sal*</td><td>Jankowski, Travis*</td><td>Ortiz, Luis</td><td>(NYA) Ferguson, Caleb*</td><td>(CLA) Blanco, Dairon</td></tr>
+<tr><td>8</td><td>Colorado</td><td>Meadows, Parker*</td><td>Tauchman, Mike*</td><td>Kelly, Kevin</td><td>Megill, Tylor</td><td>Maldonado, Martin</td></tr>
+<tr><td>9</td><td>Minnesota</td><td>Mead, Curtis</td><td>Paddack, Chris</td><td>(BAA) Uribe, Abner</td><td>(NYN) Senzel, Nick</td><td>Urias, Ramon</td></tr>
+<tr><td>10</td><td>San Francisco</td><td>Bradley, Taj</td><td>Nelson, Ryne</td><td>Corbin, Patrick*</td><td>Margot, Manuel</td><td>Ray, Robbie*</td></tr>
+<tr><td>11</td><td>Philadelphia</td><td>Kremer, Dean</td><td>Schneider, Davis</td><td>Vazquez, Christian</td><td>Urquidy, Jose</td><td>Bird, Jake</td></tr>
+<tr><td>12</td><td>Chicago-AL</td><td>Olivares, Edward</td><td>Adam, Jason</td><td>Winckowski, Josh</td><td>Sabol, Blake*</td><td>Andrus, Elvis</td></tr>
+<tr><td>13</td><td>Seattle</td><td>Ortiz, Joey</td><td>Grandal, Yasmani+</td><td>Belt, Brandon*</td><td>Murphy, Tom</td><td>Bernardino, Brennan*</td></tr>
+<tr><td>14</td><td>Oakland</td><td>German, Domingo</td><td>Monasterio, Andruw</td><td>Lawrence, Justin</td><td>Ahmed, Nick</td><td>Avila, Pedro</td></tr>
+<tr><td>15</td><td>Chicago-NL</td><td>Desclafani, Anthony</td><td>Smyly, Drew*</td><td>Nardi, Andrew*</td><td>Tellez, Rowdy*</td><td>Toussaint, Touki</td></tr>
+<tr><td>16</td><td>Los Angeles-AL</td><td>Wiemer, Joey</td><td>Swanson, Erik</td><td>(CIN) Rodriguez, Endy+</td><td>(WAN) Anderson, Brian</td><td>(CIN) Maton, Phil</td></tr>
+<tr><td>17</td><td>New York-NL</td><td>(TOA) Turang, Brice*</td><td>(LAN) Biggio, Cavan*</td><td>(BOA) Whitlock, Garrett</td><td>(NYA) Peraza, Oswald</td><td>(ATN) Boyd, Matthew*</td></tr>
+<tr><td>18</td><td>New York-AL</td><td>Rafaela, Ceddanne</td><td>Rocchio, Brayan+</td><td>Davis, Henry</td><td>(NYN) Lopez, Reynaldo</td><td>Grove, Michael</td></tr>
+<tr><td>19</td><td>Baltimore</td><td>O'Hearn, Ryan*</td><td>Borucki, Ryan*</td><td>Chapman, Aroldis*</td><td>Leclerc, Jose</td><td>Triolo, Jared</td></tr>
+<tr><td>20</td><td>Boston</td><td>Rea, Colin</td><td>Martin, Chris</td><td>Jansen, Kenley</td><td>Coulombe, Danny*</td><td>(DEA) Rendon, Anthony</td></tr>
+<tr><td>21</td><td>Toronto</td><td>Beck, Tristan</td><td>Hampson, Garrett</td><td>Puk, A.J.*</td><td>Speier, Gabe*</td><td>(LAN) Donaldson, Josh</td></tr>
+<tr><td>22</td><td>Cleveland</td><td>Cano, Yennier</td><td>Henry, Tommy*</td><td>Bielak, Brandon</td><td>Slater, Austin</td><td>Adams, Riley</td></tr>
+<tr><td>23</td><td>Los Angeles-NL</td><td>(BAA) Caballero, Jose</td><td>(TOA) Armstrong, Shawn</td><td>Fairchild, Stuart</td><td>Kahnle, Tommy</td><td>Peguero, Elvis</td></tr>
+<tr><td>24</td><td>Atlanta</td><td>Woodruff, Brandon</td><td>Faedo, Alex</td><td>Soto, Gregory*</td><td>Anderson, Tyler*</td><td>Fujinami, Shintaro</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="sec2" style="margin-top:16px;">
+        <div class="section-title">Rounds 6–10</div>
+        <div class="section-sub">Teams • Picks</div>
+        <div class="table-wrap">
+          <table id="t2">
+            <thead>
+              <tr>
+                <th style="width:52px">#</th>
+                <th style="min-width:220px">Team</th>
+                <th>Round 6</th><th>Round 7</th><th>Round 8</th><th>Round 9</th><th>Round 10</th>
+              </tr>
+            </thead>
+            <tbody>
+<tr><td>1</td><td>San Diego</td><td>(SFN) Kemp, Tony*</td><td>Romero, JoJo*</td><td>Vasquez, Randy</td><td>Short, Zack</td><td>Brebbia, John</td></tr>
+<tr><td>2</td><td>Detroit</td><td>Cruz, Fernando</td><td>Sims, Lucas</td><td>Vargas, Ildemaro+</td><td>Thompson, Zack*</td><td>Rogers, Trevor*</td></tr>
+<tr><td>3</td><td>Washington</td><td>Sborz, Josh</td><td>Weaver, Luke</td><td>Jimenez, Joe</td><td>(NYN) Ford, Mike*</td><td>(NYN) Smith, Drew</td></tr>
+<tr><td>4</td><td>Kansas City</td><td>Waldichuk, Ken*</td><td>Espinal, Santiago</td><td>Walker, Ryan</td><td>(NYN) Perkins, Blake+</td><td>Priester, Quinn</td></tr>
+<tr><td>5</td><td>St. Louis</td><td>White, Owen</td><td>Hudson, Dakota</td><td>Goodman, Hunter</td><td>Gallegos, Giovanny</td><td>Estes, Joey</td></tr>
+<tr><td>6</td><td>Pittsburgh</td><td>Anderson, Chase</td><td>Yates, Kirby</td><td>Crawford, Brandon*</td><td>Haase, Eric</td><td>Syndergaard, Noah</td></tr>
+<tr><td>7</td><td>Cincinnati</td><td>Moore, Matt*</td><td>Ryu, Hyun*</td><td>(NYA) Herrera, Ivan</td><td>Mahle, Tyler</td><td>McGough, Scott</td></tr>
+<tr><td>8</td><td>Colorado</td><td>Lambert, Peter</td><td>Soroka, Michael</td><td>Stallings, Jacob</td><td>Contreras, Roansy</td><td>Flexen, Chris</td></tr>
+<tr><td>9</td><td>Minnesota</td><td>Dejong, Paul</td><td>(KCA) Phillips, Connor</td><td>Loftin, Nick</td><td>(NYN) Votto, Joey*</td><td>(CHA) Delay, Jason</td></tr>
+<tr><td>10</td><td>San Francisco</td><td>Pache, Cristian</td><td>Schmitt, Casey</td><td>Thaiss, Matt*</td><td>(OAA) Muller, Kyle*</td><td>(OAA) Martinez, AdriAn</td></tr>
+<tr><td>11</td><td>Philadelphia</td><td>Madrigal, Nick</td><td>Vesia, Alex*</td><td>Peguero, Liover</td><td>Dominguez, Seranthony</td><td>Hernandez, Jose*</td></tr>
+<tr><td>12</td><td>Chicago-AL</td><td>(KCA) Schreiber, John</td><td>Davies, Zach</td><td>Gibaut, Ian</td><td>Remillard, Zach</td><td>Bido, Osvaldo</td></tr>
+<tr><td>13</td><td>Seattle</td><td>Saucedo, Tayler*</td><td>Haniger, Mitch</td><td>Vientos, Mark</td><td>Pinto, Rene</td><td>Toro, Abraham+</td></tr>
+<tr><td>14</td><td>Oakland</td><td>Garcia, Yimi</td><td>Erceg, Lucas</td><td>Farmer, Buck</td><td>Butto, Jose</td><td>Jackson, Andre</td></tr>
+<tr><td>15</td><td>Chicago-NL</td><td>Hernandez, Enrique</td><td>Barrero, Jose</td><td>Fry, David</td><td>Bradford, Cody*</td><td>Palencia, Daniel</td></tr>
+<tr><td>16</td><td>Los Angeles-AL</td><td>Larnach, Trevor*</td><td>Raley, Brooks*</td><td>(NYA) Morgan, Eli</td><td>Stowers, Kyle*</td><td>Paris, Kyren</td></tr>
+<tr><td>17</td><td>New York-NL</td><td>(SFN) Junis, Jakob</td><td>Wood, Alex*</td><td>(CLA) Graveman, Kendall</td><td>Diaz, Aledmys</td><td>Lynch, Daniel*</td></tr>
+<tr><td>18</td><td>New York-AL</td><td>Canzone, Dominic*</td><td>(DEA) Brieske, Beau</td><td>(WAN) Wendle, Joey*</td><td>Aranda, Jonathan*</td><td>(NYN) Ottavino, Adam</td></tr>
+<tr><td>19</td><td>Baltimore</td><td>Peterson, Jace*</td><td>Baumann, Mike</td><td>Perez, Cionel*</td><td>Baker, Bryan</td><td>Trejo, Alan</td></tr>
+<tr><td>20</td><td>Boston</td><td>Lopez, Nicky*</td><td>Castro, Miguel</td><td>Campbell, Isaiah</td><td>McKenna, Ryan</td><td>Hamilton, David*</td></tr>
+<tr><td>21</td><td>Toronto</td><td>Francis, Bowden</td><td>Palacios, Josh*</td><td>Rivera, Emmanuel</td><td>(NYN) Law, Derek</td><td>(LAN) Castro, Rodolfo+</td></tr>
+<tr><td>22</td><td>Cleveland</td><td>(PHN) Freeman, Tyler</td><td>McCann, James</td><td>Lucchesi, Joey*</td><td>Gipson-Long, Sawyer</td><td>Fletcher, Dominic*</td></tr>
+<tr><td>23</td><td>Los Angeles-NL</td><td>Stewart, DJ*</td><td>Pillar, Kevin</td><td>Mlodzinski, Carmen</td><td>Knizner, Andrew</td><td>May, Trevor</td></tr>
+<tr><td>24</td><td>Atlanta</td><td>(NYN) Montas, Frankie</td><td>Reyes, Pablo</td><td>Wilson, Steven</td><td>Kerkering, Orion</td><td>McArthur, James</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>CBL • 2024 Annual Draft</footer>
+  </div>
+
+  <script>
+    const q = document.getElementById('q');
+    const sec1 = document.getElementById('sec1');
+    const sec2 = document.getElementById('sec2');
+    const btnAll = document.getElementById('btnAll');
+    const btn1 = document.getElementById('btn1');
+    const btn2 = document.getElementById('btn2');
+
+    function setActive(which){
+      [btnAll, btn1, btn2].forEach(b => b.classList.remove('active'));
+      sec1.classList.add('hidden');
+      sec2.classList.add('hidden');
+      if(which==='all'){ btnAll.classList.add('active'); sec1.classList.remove('hidden'); sec2.classList.remove('hidden'); }
+      if(which==='1'){ btn1.classList.add('active'); sec1.classList.remove('hidden'); }
+      if(which==='2'){ btn2.classList.add('active'); sec2.classList.remove('hidden'); }
+    }
+    btnAll.addEventListener('click', () => setActive('all'));
+    btn1.addEventListener('click', () => setActive('1'));
+    btn2.addEventListener('click', () => setActive('2'));
+
+    function filterTable(table, term){
+      const needle = (term || '').trim().toLowerCase();
+      const rows = table.tBodies[0].rows;
+      for(const r of rows){
+        const txt = r.innerText.toLowerCase();
+        r.style.display = (!needle || txt.includes(needle)) ? '' : 'none';
+      }
+    }
+    function applyFilter(){
+      const term = q.value || '';
+      filterTable(document.getElementById('t1'), term);
+      filterTable(document.getElementById('t2'), term);
+    }
+    q.addEventListener('input', applyFilter);
+
+    document.addEventListener('keydown', (e) => {
+      if(e.key === '/' && document.activeElement !== q){
+        e.preventDefault(); q.focus();
+      }
+      if(e.key === 'Escape' && document.activeElement === q){
+        q.value=''; applyFilter(); q.blur();
+      }
+    });
+
+    // Pillify traded-from codes like (CIN)
+    function pillify(tableEl){
+      const codeRe = /\(([A-Z]{3})\)/g;
+      tableEl.querySelectorAll('tbody td').forEach(td => {
+        if(!codeRe.test(td.textContent)) return;
+        td.innerHTML = td.innerHTML.replace(codeRe, (m, c) => `<span class="pillcode">(${c})</span>`);
+      });
+    }
+    pillify(document.getElementById('t1'));
+    pillify(document.getElementById('t2'));
+
+    // Dropdowns: year + draft type -> /drafts/
+    (function(){
+      const yearSel = document.getElementById('yearSelect');
+      const draftSel = document.getElementById('draftSelect');
+      const title = document.getElementById('pageTitle');
+      if(!yearSel || !draftSel) return;
+
+      const file = (location.pathname.split('/').pop() || '').toLowerCase();
+      const yearMatch = file.match(/^(\d{4})/);
+      const year = yearMatch ? yearMatch[1] : '2024';
+      const isFA = file.includes('freeagent');
+      yearSel.value = year;
+      draftSel.value = isFA ? 'FreeAgentDraft' : 'AnnualDraft';
+
+      function label(){
+        return draftSel.value === 'FreeAgentDraft' ? 'Free Agent Draft' : 'Annual Draft';
+      }
+      function updateTitle(){
+        if(title) title.textContent = `CBL ${yearSel.value} ${label()}`;
+      }
+      updateTitle();
+
+      function go(){
+        const target = `/drafts/${yearSel.value}${draftSel.value}.html`;
+        location.href = target;
+      }
+      yearSel.addEventListener('change', go);
+      draftSel.addEventListener('change', go);
+    })();
+
+    setActive('all');
+  </script>
+</body>
+</html>
