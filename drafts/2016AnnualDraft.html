@@ -1,0 +1,293 @@
+
+<!doctype html><html><head><meta charset="utf-8">
+<title>CBL 2016 Annual Draft</title>
+<style>
+    :root{
+      --ink:#111;
+      --muted:#555;
+      --bg:#f6f1e6;
+      --card:#ffffff;
+      --line:rgba(0,0,0,.10);
+      --accent:#7a1f1f;
+      --navy:#0b4a7d;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--ink);
+      background: linear-gradient(180deg,#fff 0%, #eef3f8 100%);
+      padding: 18px 14px 44px;
+    }
+    .page{
+      max-width: 1600px;
+      margin: 0 auto;
+      background: radial-gradient(circle at 20% 0%, rgba(122,31,31,.08), transparent 55%),
+                  linear-gradient(180deg, var(--bg), #efe7d3);
+      border: 2px solid #222;
+      border-radius: 20px;
+      box-shadow: 0 18px 46px rgba(0,0,0,.16);
+      overflow:hidden;
+    }
+    header{
+      padding: 18px 18px 14px;
+      border-bottom: 4px double rgba(0,0,0,.28);
+      display:flex;
+      flex-wrap:wrap;
+      align-items:flex-end;
+      justify-content:space-between;
+      gap:12px;
+    }
+    h1{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 40px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .sub{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-weight: 800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      font-size: 12px;
+    }
+    .actions a{
+      display:inline-flex;
+      gap:10px;
+      align-items:center;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.7);
+      text-decoration:none;
+      color: var(--navy);
+      font-weight: 900;
+      white-space:nowrap;
+    }
+    .wrap{padding: 16px 18px 22px;}
+    .note{
+      margin: 0 0 12px;
+      color: rgba(0,0,0,.68);
+      font-weight: 750;
+      line-height: 1.45;
+    }
+    .tools{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .search{
+      flex: 1 1 320px;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+    }
+    .search input{
+      width:100%;
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--ink);
+    }
+    .legend{
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+    }
+    .table-wrap{
+      overflow:auto;
+      border: 2px solid #222;
+      border-radius: 16px;
+      background: var(--card);
+      box-shadow: 0 10px 24px rgba(0,0,0,.10);
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout: auto;
+      
+    }
+    col.team{width: 260px;}
+    col.r{width: 110px;}
+    col.roster{width: 110px;}
+    thead th{border:1px solid #222;
+      position:sticky;
+      top:0;
+      z-index:2;
+      background: #f7f7f7;
+      border-bottom: 2px solid #222;
+      padding: 10px 10px;
+      font-size: 12px;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+      text-align:left;
+      color: rgba(0,0,0,.75);
+    }
+    tbody td{border:1px solid #222;
+      border-bottom: 1px solid #222;
+      padding: 10px 10px;
+      vertical-align:middle;
+      font-weight: 750;
+      }
+    tbody tr:hover{background:#fbfbfb}
+    td.team{font-weight: 950;}
+    td.pick{ text-align:center; font-weight:950; letter-spacing:.03em; white-space:nowrap; overflow:visible; }
+    td.pick.skip{color: var(--accent);}
+    td.roster{
+      text-align:right;
+      font-variant-numeric: tabular-nums;
+      font-weight: 900;
+      color: rgba(0,0,0,.70);
+    }
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.14);
+      background: rgba(11,74,125,.06);
+      color: var(--navy);
+      font-size: 12px;
+      font-weight: 950;
+      
+      white-space: nowrap;
+    }
+    .pill.skip{
+      background: rgba(122,31,31,.08);
+      color: var(--accent);
+      border-color: rgba(122,31,31,.22);
+    }
+    footer{
+      padding: 14px 18px 18px;
+      border-top: 1px solid rgba(0,0,0,.14);
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+      text-align:center;
+    }
+    @media (max-width: 720px){
+      h1{font-size: 32px;}
+      table{}
+    }
+    @media print{
+      body{background:#fff;padding:0;}
+      .page{box-shadow:none;border:none;border-radius:0;}
+      .tools,.actions{display:none;}
+      .table-wrap{box-shadow:none;border:1px solid #bbb;}
+    }
+  </style></head>
+<body>
+<h1 id="pageTitle">CBL 2016 Annual Draft</h1>
+
+<div>
+Year <select id="yearSelect"><option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+<option value="2015">2015</option>
+<option value="2016">2016</option>
+<option value="2017">2017</option>
+<option value="2018">2018</option>
+<option value="2019">2019</option>
+<option value="2020">2020</option>
+<option value="2021">2021</option>
+<option value="2022">2022</option>
+<option value="2023">2023</option>
+<option value="2024">2024</option>
+<option value="2025">2025</option></select>
+Draft <select id="draftSelect">
+<option value="AnnualDraft">Annual Draft</option>
+<option value="FreeAgentDraft">Free Agent Draft</option>
+</select>
+</div>
+
+<h2>Rounds 1–5</h2>
+<table border="1"><thead>
+<tr><th>#</th><th>Team</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>R5</th></tr>
+</thead><tbody><tr><td>1</td><td>Philadelphia</td><td>Correa, Carlos Early start and no suspense to serve as a reason to wait.  Good luck to all!</td><td>Velasquez, Vincent</td><td>(CIN) Difo, Wilmer+</td><td>Doolittle, Sean*</td><td>(SEA) Polanco, Jorge+</td></tr>
+<tr><td>2</td><td>Detroit</td><td>McCullers, Lance</td><td>Kela, Keone</td><td>Geltz, Steve</td><td>Aviles, Mike</td><td>Werth, Jayson</td></tr>
+<tr><td>3</td><td>Boston</td><td>Harris, Will</td><td>Fister, Doug</td><td>Layne, Tommy*</td><td>(OAA) Ellis, A.J.</td><td>Barnes, Matt</td></tr>
+<tr><td>4</td><td>Cincinnati</td><td>Gallo, Joey*</td><td>Perez, Martin*</td><td>(NYN) Blanton, Joe</td><td>Lamb, John*</td><td>(SFN) Martin, Leonys*</td></tr>
+<tr><td>5</td><td>Toronto</td><td>Bradley, Archie</td><td>Harang, Aaron</td><td>Simon, Alfredo</td><td>Kendrick, Kyle</td><td>Ruiz, Carlos</td></tr>
+<tr><td>6</td><td>Colorado</td><td>Deshields, Delino</td><td>Casali, Curt</td><td>Mahtook, Mikie</td><td>Cron, C.J.</td><td>Hamilton, Josh*</td></tr>
+<tr><td>7</td><td>Chicago-NL</td><td>(CIN) Ray, Robbie*</td><td>Hutchison, Drew</td><td>Rivera, Rene</td><td>(LAN) Maurer, Brandon</td><td>Crawford, Carl*</td></tr>
+<tr><td>8</td><td>Atlanta</td><td>Kepler, Max* Rebuild=engaged...</td><td>Duvall, Adam</td><td>Garcia, Adonis</td><td>Jeffress, Jeremy</td><td>Banuelos, Manny*</td></tr>
+<tr><td>9</td><td>Kansas City</td><td>(PHN) Tomas, Yasmany</td><td>Blazek, Michael</td><td>(WAN) Gonzalez, Miguel</td><td>Montgomery, Mike*</td><td>(PHN) Guthrie, Jeremy</td></tr>
+<tr><td>10</td><td>Los Angeles-AL</td><td>Marisnick, Jake</td><td>Conley, Adam*</td><td>Nicolino, Justin*</td><td>Rodriguez, Fernando</td><td>Gillespie, Cole</td></tr>
+<tr><td>11</td><td>Washington</td><td>(PHN) Jungmann, Taylor</td><td>(KCA) Rios, Alex</td><td>(TOA) Lohse, Kyle</td><td>Hanigan, Ryan</td><td>Morse, Mike</td></tr>
+<tr><td>12</td><td>San Diego</td><td>(CIN) Karns, Nate</td><td>(CIN) Drury, Brandon</td><td>(CIN) Robinson, Clint*</td><td>McKenry, Michael</td><td>Fields, Josh</td></tr>
+<tr><td>13</td><td>Cleveland</td><td>Zimmerman, Ryan</td><td>Chafin, Andrew*</td><td>Lowrie, Jed+</td><td>Navarro, Dioner+</td><td>Webb, Ryan</td></tr>
+<tr><td>14</td><td>New York-AL</td><td>(ATN) Valbuena, Luis*</td><td>Andriese, Matt</td><td>Murphy, John Ryan</td><td>(CLA) Butler, Joey</td><td>McAllister, Zach</td></tr>
+<tr><td>15</td><td>Seattle</td><td>Capps, Carter</td><td>Paulsen, Ben*</td><td>Davies, Zach</td><td>Morrison, Logan*</td><td>Urshela, Giovanny</td></tr>
+<tr><td>16</td><td>San Francisco</td><td>Kelly, Joe</td><td>(OAA) Rojas, Miguel</td><td>Robles, Hansel</td><td>Despaigne, Odrisamer</td><td>Suzuki, Ichiro*</td></tr>
+<tr><td>17</td><td>Oakland</td><td>Gonzalez, Marwin+</td><td>(SDN) Grimm, Justin</td><td>Beckham, Tim</td><td>Romo, Sergio</td><td>Neshek, Pat</td></tr>
+<tr><td>18</td><td>St. Louis</td><td>(DEA) Owings, Chris</td><td>Machado, Dixon</td><td>(WAN) Petit, Yusmeiro</td><td>Feliz, Michael</td><td>(WAN) Barnhart, Tucker+</td></tr>
+<tr><td>19</td><td>Chicago-AL</td><td>Blanco, Andres+</td><td>(WAN) Dyson, Sam</td><td>(BOA) Kelley, Shawn</td><td>Saltalamacchia, Jarrod+</td><td>Lopez, Jorge</td></tr>
+<tr><td>20</td><td>Minnesota</td><td>Gattis, Evan</td><td>(CIN) Owens, Henry*</td><td>(PHN) Cosart, Jarred</td><td>Tejada, Ruben</td><td>O&#x27;Brien, Peter</td></tr>
+<tr><td>21</td><td>Pittsburgh</td><td>Milone, Tommy*</td><td>Rogers, Jason</td><td>Raburn, Ryan</td><td>Clevenger, Steve*</td><td>Furbush, Charlie*</td></tr>
+<tr><td>22</td><td>Baltimore</td><td>(LAA) Sanchez, Carlos+</td><td>Tucker, Preston*</td><td>Pelfrey, Mike</td><td>Caminero, Arquimedes</td><td>(SDN) Gosselin, Philip</td></tr>
+<tr><td>23</td><td>New York-NL</td><td>(SEA) Bastardo, Antonio*</td><td>(DEA) Hoover, J.J.</td><td>(KCA) Pagan, Angel+ ...a return to KC</td><td>(SFN) Rea, Colin</td><td>(DEA) Villar, Jonathan+</td></tr>
+<tr><td>24</td><td>Los Angeles-NL</td><td>Gonzalez, Chi Chi</td><td>Francoeur, Jeff</td><td>(WAN) Fuld, Sam*</td><td>Gott, Trevor</td><td>(WAN) Barnes, Brandon</td></tr></tbody></table>
+
+<h2>Rounds 6–10</h2>
+<table border="1"><thead>
+<tr><th>#</th><th>Team</th><th>R6</th><th>R7</th><th>R8</th><th>R9</th><th>R10</th></tr>
+</thead><tbody><tr><td>1</td><td>Philadelphia</td><td>Hudson, Tim</td><td>Lincecum, Tim</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td>(CLA) Hatcher, Chris</td></tr>
+<tr><td>2</td><td>Detroit</td><td>Casilla, Santiago</td><td>Quackenbush, Kevin</td><td>Hand, Brad*</td><td>Godley, Zack</td><td>(NYN) Tazawa, Junichi</td></tr>
+<tr><td>3</td><td>Boston</td><td>Perez, Eury</td><td>Carrera, Ezequiel*</td><td>Ross, Robbie*</td><td>Perez, Hernan</td><td>Machi, Jean</td></tr>
+<tr><td>4</td><td>Cincinnati</td><td>(TOA) Drew, Stephen*</td><td>Paredes, Jimmy+</td><td>Hill, Aaron</td><td>Bethancourt, Christian</td><td>Rusin, Chris*</td></tr>
+<tr><td>5</td><td>Toronto</td><td>Vogelsong, Ryan</td><td>Maxwell, Justin</td><td>Rodriguez, Sean</td><td>Reimold, Nolan</td><td>Brown, Domonic*</td></tr>
+<tr><td>6</td><td>Colorado</td><td>Miller, Justin</td><td>Bass, Anthony</td><td>Descalso, Daniel*</td><td>Feliz, Neftali</td><td>Hale, David</td></tr>
+<tr><td>7</td><td>Chicago-NL</td><td>Saladino, Tyler</td><td>Cahill, Trevor</td><td>Lyles, Jordan</td><td>Shreve, Chasen*</td><td>Infante, Omar</td></tr>
+<tr><td>8</td><td>Atlanta</td><td>Beckham, Gordon</td><td>Snider, Travis*</td><td>Norris, Bud</td><td>Lavarnway, Ryan</td><td>Johnson, Jim</td></tr>
+<tr><td>9</td><td>Kansas City</td><td>Shuck, J.B.*</td><td>Nunez, Eduardo</td><td>Maldonado, Martin</td><td>Hochevar, Luke</td><td>Herrera, Jonathan+</td></tr>
+<tr><td>10</td><td>Los Angeles-AL</td><td>Shaw, Bryan</td><td>Vargas, Jason*</td><td>Treinen, Blake</td><td>Rodney, Fernando</td><td>Pennington, Cliff+</td></tr>
+<tr><td>11</td><td>Washington</td><td>Motte, Jason</td><td>Romine, Andrew+</td><td>(SFN) Reed, Addison</td><td>Robinson, Shane</td><td>Scribner, Evan</td></tr>
+<tr><td>12</td><td>San Diego</td><td>Lopez, Javier*</td><td>(SLN) Arcia, Oswaldo*</td><td><span class="skip">SKIP</span></td><td>(NYN) Hernandez, Roberto</td><td>Victorino, Shane</td></tr>
+<tr><td>13</td><td>Cleveland</td><td>Jennings, Dan*</td><td>Herrera, Dilson</td><td>Soto, Geovany</td><td>Guerrero, Alex</td><td>Cishek, Steve</td></tr>
+<tr><td>14</td><td>New York-AL</td><td>Refsnyder, Rob</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td>Amarista, Alexi*</td><td>Stewart, Chris</td></tr>
+<tr><td>15</td><td>Seattle</td><td>Johnson, Chris</td><td>Jankowski, Travis*</td><td>Nuno, Vidal*</td><td>Montero, Jesus</td><td>Sizemore, Grady*</td></tr>
+<tr><td>16</td><td>San Francisco</td><td>(OAA) Perez, Williams</td><td>Greene, Shane</td><td>Brito, Socrates*</td><td>Pearce, Steve</td><td>Perez, Oliver*</td></tr>
+<tr><td>17</td><td>Oakland</td><td>Schultz, Bo</td><td>Alvarez, R.J.</td><td>(BOA) Morneau, Justin*</td><td>Dull, Ryan</td><td>(NYN) Badenhop, Burke</td></tr>
+<tr><td>18</td><td>St. Louis</td><td>Duffy, Matt</td><td>Jennings, Desmond</td><td>Vargas, Kennys+</td><td>Ross, David</td><td>Mazzoni, Cory</td></tr>
+<tr><td>19</td><td>Chicago-AL</td><td>(SDN) Ruggiano, Justin</td><td>Cedeno, Xavier*</td><td>Delgado, Randall</td><td>Shaffer, Richie</td><td>Petricka, Jake</td></tr>
+<tr><td>20</td><td>Minnesota</td><td>Hudson, Daniel</td><td>Qualls, Chad</td><td>Avilan, Luis*</td><td>Morales, Franklin*</td><td>Bracho, Silvino</td></tr>
+<tr><td>21</td><td>Pittsburgh</td><td>Socolovich, Miguel</td><td>Morrow, Brandon</td><td>Ciriaco, Pedro</td><td>Hinojosa, Dalier</td><td>Narveson, Chris*</td></tr>
+<tr><td>22</td><td>Baltimore</td><td>Flaherty, Ryan*</td><td>Knebel, Corey</td><td>Matusz, Brian*</td><td>De Jesus, Ivan</td><td>Hunter, Tommy</td></tr>
+<tr><td>23</td><td>New York-NL</td><td>(CHN) Richard, Clayton*</td><td>(CHN) Frias, Carlos</td><td>Torres, Carlos</td><td>(BAA) Wright, Mike</td><td>Bourjos, Peter</td></tr>
+<tr><td>24</td><td>Los Angeles-NL</td><td>Gimenez, Chris</td><td>Den Dekker, Matt*</td><td>Worley, Vance</td><td>(CIN) Leon, Sandy+</td><td>Arencibia, J.P.</td></tr></tbody></table>
+
+<script>
+document.getElementById('yearSelect').value="2016";
+document.getElementById('draftSelect').value="AnnualDraft";
+document.getElementById('yearSelect').onchange=go;
+document.getElementById('draftSelect').onchange=go;
+function go(){
+ let y=yearSelect.value;
+ let d=draftSelect.value;
+ location.href="/drafts/"+y+d+".html";
+}
+</script>
+
+</body></html>

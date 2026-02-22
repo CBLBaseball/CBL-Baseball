@@ -1,0 +1,296 @@
+
+<!doctype html><html><head><meta charset="utf-8">
+<title>CBL 2016 Free Agent Draft</title>
+<style>
+    :root{
+      --ink:#111;
+      --muted:#555;
+      --bg:#f6f1e6;
+      --card:#ffffff;
+      --line:rgba(0,0,0,.10);
+      --accent:#7a1f1f;
+      --navy:#0b4a7d;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--ink);
+      background: linear-gradient(180deg,#fff 0%, #eef3f8 100%);
+      padding: 18px 14px 44px;
+    }
+    .page{
+      max-width: 1600px;
+      margin: 0 auto;
+      background: radial-gradient(circle at 20% 0%, rgba(122,31,31,.08), transparent 55%),
+                  linear-gradient(180deg, var(--bg), #efe7d3);
+      border: 2px solid #222;
+      border-radius: 20px;
+      box-shadow: 0 18px 46px rgba(0,0,0,.16);
+      overflow:hidden;
+    }
+    header{
+      padding: 18px 18px 14px;
+      border-bottom: 4px double rgba(0,0,0,.28);
+      display:flex;
+      flex-wrap:wrap;
+      align-items:flex-end;
+      justify-content:space-between;
+      gap:12px;
+    }
+    h1{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 40px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .sub{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-weight: 800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      font-size: 12px;
+    }
+    .actions a{
+      display:inline-flex;
+      gap:10px;
+      align-items:center;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.7);
+      text-decoration:none;
+      color: var(--navy);
+      font-weight: 900;
+      white-space:nowrap;
+    }
+    .wrap{padding: 16px 18px 22px;}
+    .note{
+      margin: 0 0 12px;
+      color: rgba(0,0,0,.68);
+      font-weight: 750;
+      line-height: 1.45;
+    }
+    .tools{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .search{
+      flex: 1 1 320px;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+    }
+    .search input{
+      width:100%;
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--ink);
+    }
+    .legend{
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+    }
+    .table-wrap{
+      overflow:auto;
+      border: 2px solid #222;
+      border-radius: 16px;
+      background: var(--card);
+      box-shadow: 0 10px 24px rgba(0,0,0,.10);
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout: auto;
+      
+    }
+    col.team{width: 260px;}
+    col.r{width: 110px;}
+    col.roster{width: 110px;}
+    thead th{border:1px solid #222;
+      position:sticky;
+      top:0;
+      z-index:2;
+      background: #f7f7f7;
+      border-bottom: 2px solid #222;
+      padding: 10px 10px;
+      font-size: 12px;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+      text-align:left;
+      color: rgba(0,0,0,.75);
+    }
+    tbody td{border:1px solid #222;
+      border-bottom: 1px solid #222;
+      padding: 10px 10px;
+      vertical-align:middle;
+      font-weight: 750;
+      }
+    tbody tr:hover{background:#fbfbfb}
+    td.team{font-weight: 950;}
+    td.pick{ text-align:center; font-weight:950; letter-spacing:.03em; white-space:nowrap; overflow:visible; }
+    td.pick.skip{color: var(--accent);}
+    td.roster{
+      text-align:right;
+      font-variant-numeric: tabular-nums;
+      font-weight: 900;
+      color: rgba(0,0,0,.70);
+    }
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.14);
+      background: rgba(11,74,125,.06);
+      color: var(--navy);
+      font-size: 12px;
+      font-weight: 950;
+      
+      white-space: nowrap;
+    }
+    .pill.skip{
+      background: rgba(122,31,31,.08);
+      color: var(--accent);
+      border-color: rgba(122,31,31,.22);
+    }
+    footer{
+      padding: 14px 18px 18px;
+      border-top: 1px solid rgba(0,0,0,.14);
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+      text-align:center;
+    }
+    @media (max-width: 720px){
+      h1{font-size: 32px;}
+      table{}
+    }
+    @media print{
+      body{background:#fff;padding:0;}
+      .page{box-shadow:none;border:none;border-radius:0;}
+      .tools,.actions{display:none;}
+      .table-wrap{box-shadow:none;border:1px solid #bbb;}
+    }
+  </style></head>
+<body>
+
+<h1>CBL 2016 Free Agent Draft</h1>
+<p class="subtitle">Shown is what each team selected (SKIP/PASS/TIME VIOLATION shown as recorded).</p>
+
+<section class="table-block">
+  <h2>Rounds 1–5</h2>
+  <div class="table-wrap">
+    <table class="draft">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Team</th>
+          <th>Round 1</th>
+          <th>Round 2</th>
+          <th>Round 3</th>
+          <th>Round 4</th>
+          <th>Round 5</th>
+        </tr>
+      </thead>
+      <tbody>
+<tr><td>1</td><td class='team'>Philadelphia</td><td>Rua, Ryan</td><td>De Fratus, Justin</td><td>Williams, Jerome</td><td>Buchanan, David</td><td>O&#x27;Sullivan, Sean</td></tr>
+<tr><td>2</td><td class='team'>Detroit</td><td>Marte, Jefry</td><td>Rondon, Bruce</td><td>Farmer, Buck</td><td>Stubbs, Drew</td><td>Cingrani, Tony*</td></tr>
+<tr><td>3</td><td class='team'>Boston</td><td>Masterson, Justin</td><td>Rutledge, Josh</td><td>Breslow, Craig*</td><td>Cunningham, Todd+</td><td>SKIP</td></tr>
+<tr><td>4</td><td class='team'>Cincinnati</td><td>Hedges, Austin</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>5</td><td class='team'>Toronto</td><td>Nava, Daniel+</td><td>Herrera, Elian+</td><td>Gomes, Brandon</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>6</td><td class='team'>Colorado</td><td>Barmes, Clint</td><td>Kozma, Pete</td><td>Bergman, Christian</td><td>Ramos, Cesar*</td><td>Germen, Gonzalez</td></tr>
+<tr><td>7</td><td class='team'>Chicago-NL</td><td>Alberto, Hanser</td><td>Taylor, Chris</td><td>Garcia, Luis</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>8</td><td class='team'>Atlanta</td><td>Sucre, Jesus</td><td>Moore, Tyler</td><td>Featherston, Taylor</td><td>Loup, Aaron*</td><td>SKIP</td></tr>
+<tr><td>9</td><td class='team'>Kansas City</td><td>Davis, Ike*</td><td>Bourgeois, Jason</td><td>Ynoa, Rafael+</td><td>Dunn, Mike*</td><td>Cruz, Tony</td></tr>
+<tr><td>10</td><td class='team'>Los Angeles-AL</td><td>Wallace, Brett*</td><td>Adames, Cristhian+</td><td>Osich, Josh*</td><td>Morin, Mike</td><td>SKIP</td></tr>
+<tr><td>11</td><td class='team'>Washington</td><td>Middlebrooks, Will</td><td>Rodriguez, Wandy*</td><td>PASS</td><td>PASS</td><td>SKIP</td></tr>
+<tr><td>12</td><td class='team'>San Diego</td><td>Vincent, Nick</td><td>Garces, Frank*</td><td>Garcia, Greg*</td><td>Diekman, Jake*</td><td>Thayer, Dale</td></tr>
+<tr><td>13</td><td class='team'>Cleveland</td><td>Barraclough, Kyle</td><td>Ryan, Kyle*</td><td>PASS</td><td>PASS</td><td>SKIP</td></tr>
+<tr><td>14</td><td class='team'>New York-AL</td><td>Ogando, Alexi</td><td>Holland, Greg</td><td>Dejesus, David*</td><td>Torres, Alex*</td><td>Franklin, Nick+</td></tr>
+<tr><td>15</td><td class='team'>Seattle</td><td>Doubront, Felix*</td><td>Axford, John</td><td>Urena, Jose</td><td>PASS</td><td>SKIP</td></tr>
+<tr><td>16</td><td class='team'>San Francisco</td><td>Peterson, Shane*</td><td>McGehee, Casey</td><td>Adrianza, Ehire+</td><td>Castro, Daniel</td><td>Oberholtzer, Brett*</td></tr>
+<tr><td>17</td><td class='team'>Oakland</td><td>Sardinas, Luis+</td><td>Graham, J.R.</td><td>Mujica, Edward</td><td>Rzepczynski, Marc*</td><td>PASS</td></tr>
+<tr><td>18</td><td class='team'>St. Louis</td><td>Verhagen, Drew</td><td>Gomes, Jonny</td><td>Peguero, Carlos*</td><td>Broxton, Jonathan</td><td>Harris, Mitch</td></tr>
+<tr><td>19</td><td class='team'>Chicago-AL</td><td>Blanks, Kyle</td><td>Callaspo, Alberto+</td><td>Olt, Mike</td><td>Johnson, Micah*</td><td>La Stella, Tommy*</td></tr>
+<tr><td>20</td><td class='team'>Minnesota</td><td>Lobaton, Jose+</td><td>Maness, Seth</td><td>Santana, Danny+</td><td>Howell, J.P.*</td><td>Nolasco, Ricky</td></tr>
+<tr><td>21</td><td class='team'>Pittsburgh</td><td>Tepera, Ryan</td><td>Liberatore, Adam*</td><td>Baker, Jeff</td><td>PASS</td><td>PASS</td></tr>
+<tr><td>22</td><td class='team'>Baltimore</td><td>Garcia, Jason</td><td>Hernandez, David</td><td>Parmelee, Chris*</td><td>Gosewisch, Tuffy</td><td>TIME VIOLATION</td></tr>
+<tr><td>23</td><td class='team'>New York-NL</td><td>Weber, Ryan</td><td>Wilson, Tyler</td><td>Diaz, Jumbo</td><td>Venditte, Pat*</td><td>SKIP</td></tr>
+<tr><td>24</td><td class='team'>Los Angeles-NL</td><td>Ellington, Brian</td><td>Cotts, Neal*</td><td>Sands, Jerry</td><td>Barrett, Aaron</td><td>Pressly, Ryan</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="table-block">
+  <h2>Rounds 6–9</h2>
+  <div class="table-wrap">
+    <table class="draft">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Team</th>
+          <th>Round 6</th>
+          <th>Round 7</th>
+          <th>Round 8</th>
+          <th>Round 9</th>
+        </tr>
+      </thead>
+      <tbody>
+<tr><td>1</td><td class='team'>Philadelphia</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>2</td><td class='team'>Detroit</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>3</td><td class='team'>Boston</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>4</td><td class='team'>Cincinnati</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>5</td><td class='team'>Toronto</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>6</td><td class='team'>Colorado</td><td>Mattheus, Ryan</td><td>PASS</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td></tr>
+<tr><td>7</td><td class='team'>Chicago-NL</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>8</td><td class='team'>Atlanta</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>9</td><td class='team'>Kansas City</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td></tr>
+<tr><td>10</td><td class='team'>Los Angeles-AL</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>11</td><td class='team'>Washington</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>12</td><td class='team'>San Diego</td><td>Pena, Ariel</td><td>PASS</td><td>PASS</td><td>TIME VIOLATION</td></tr>
+<tr><td>13</td><td class='team'>Cleveland</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>14</td><td class='team'>New York-AL</td><td>Farquhar, Danny</td><td>Freeman, Sam*</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>15</td><td class='team'>Seattle</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>16</td><td class='team'>San Francisco</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>17</td><td class='team'>Oakland</td><td>PASS</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>18</td><td class='team'>St. Louis</td><td>Choate, Randy*</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>19</td><td class='team'>Chicago-AL</td><td>Muncy, Max*</td><td>Morris, Bryan</td><td>Cravy, Tyler</td><td>SKIP</td></tr>
+<tr><td>20</td><td class='team'>Minnesota</td><td>Logan, Boone*</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td></tr>
+<tr><td>21</td><td class='team'>Pittsburgh</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>22</td><td class='team'>Baltimore</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>23</td><td class='team'>New York-NL</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>24</td><td class='team'>Los Angeles-NL</td><td>Belisle, Matt</td><td>PASS</td><td>PASS</td><td>PASS</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+<script>
+document.getElementById('yearSelect').value="2016";
+document.getElementById('draftSelect').value="FreeAgentDraft";
+document.getElementById('yearSelect').onchange=go;
+document.getElementById('draftSelect').onchange=go;
+function go(){
+ let y=yearSelect.value;
+ let d=draftSelect.value;
+ location.href="/drafts/"+y+d+".html";
+}
+</script>
+
+</body></html>
