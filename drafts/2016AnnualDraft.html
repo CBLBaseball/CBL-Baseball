@@ -249,7 +249,41 @@
     }
     .hidden{display:none !important;}
 
-  </style>
+  
+    /* --- Year / Draft selector --- */
+    .selectors{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:flex-end;
+    }
+    .selectors .sel{
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+      font-weight: 900;
+      color: rgba(0,0,0,.75);
+      white-space:nowrap;
+    }
+    .selectors select{
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 950;
+      color: var(--ink);
+      cursor:pointer;
+    }
+    @media print{
+      .selectors{display:none !important;}
+    }
+
+</style>
 </head>
 <body>
 <div class="page">
@@ -268,12 +302,12 @@
         <span class="mono">(ABC)</span> tags indicate traded-from team codes (styled as pills).
       </p>
 <div class="split">
-<div class="btnrow">
-<button class="btn active" id="btnAll" type="button">Show All</button>
-<button class="btn" id="btn1to5" type="button">Rounds 1–5</button>
-<button class="btn" id="btn6to10" type="button">Rounds 6–10</button>
-</div>
-<div class="selectors" aria-label="Draft navigation">
+        <div class="btnrow">
+          <button class="btn active" id="btnAll" type="button">Show All</button>
+          <button class="btn" id="btn1to5" type="button">Rounds 1–5</button>
+          <button class="btn" id="btn6to10" type="button">Rounds 6–10</button>
+        </div>
+        <div class="selectors" aria-label="Draft navigation">
           <div class="sel">
             Year
             <select id="yearSelect" aria-label="Select year">
@@ -291,7 +325,7 @@
 <option value="2013">2013</option>
 <option value="2014">2014</option>
 <option value="2015">2015</option>
-<option value="2016" selected>2016</option>
+<option value="2016">2016</option>
 <option value="2017">2017</option>
 <option value="2018">2018</option>
 <option value="2019">2019</option>
@@ -300,14 +334,13 @@
 <option value="2022">2022</option>
 <option value="2023">2023</option>
 <option value="2024">2024</option>
-<option value="2026">2026</option>
-              <option value="2025">2025</option>
+<option value="2025">2025</option>
             </select>
           </div>
           <div class="sel">
             Draft
             <select id="draftSelect" aria-label="Select draft type">
-              <option value="AnnualDraft" selected>Annual Draft</option>
+              <option value="AnnualDraft">Annual Draft</option>
               <option value="FreeAgentDraft">Free Agent Draft</option>
             </select>
           </div>
@@ -321,9 +354,7 @@
         </div>
       </div>
 
-      
-</div>
-<div id="sec1to5">
+      <div id="sec1to5">
 <div class="section-title">Rounds 1–5</div>
 <div class="section-sub">Teams • Picks</div>
 <div class="table-wrap">
@@ -335,14 +366,14 @@
 <th>Round 1</th><th>Round 2</th><th>Round 3</th><th>Round 4</th><th>Round 5</th>
 </tr>
 </thead>
-<tbody><tr><td>1</td><td>Philadelphia</td><td>Correa, Carlos</td><td>Velasquez, Vincent</td><td>(CIN) Difo, Wilmer+</td><td>Doolittle, Sean*</td><td>(SEA) Polanco, Jorge+</td></tr>
+<tbody><tr><td>1</td><td>Philadelphia</td><td>Correa, Carlos Early start and no suspense to serve as a reason to wait.  Good luck to all!</td><td>Velasquez, Vincent</td><td>(CIN) Difo, Wilmer+</td><td>Doolittle, Sean*</td><td>(SEA) Polanco, Jorge+</td></tr>
 <tr><td>2</td><td>Detroit</td><td>McCullers, Lance</td><td>Kela, Keone</td><td>Geltz, Steve</td><td>Aviles, Mike</td><td>Werth, Jayson</td></tr>
 <tr><td>3</td><td>Boston</td><td>Harris, Will</td><td>Fister, Doug</td><td>Layne, Tommy*</td><td>(OAA) Ellis, A.J.</td><td>Barnes, Matt</td></tr>
 <tr><td>4</td><td>Cincinnati</td><td>Gallo, Joey*</td><td>Perez, Martin*</td><td>(NYN) Blanton, Joe</td><td>Lamb, John*</td><td>(SFN) Martin, Leonys*</td></tr>
 <tr><td>5</td><td>Toronto</td><td>Bradley, Archie</td><td>Harang, Aaron</td><td>Simon, Alfredo</td><td>Kendrick, Kyle</td><td>Ruiz, Carlos</td></tr>
 <tr><td>6</td><td>Colorado</td><td>Deshields, Delino</td><td>Casali, Curt</td><td>Mahtook, Mikie</td><td>Cron, C.J.</td><td>Hamilton, Josh*</td></tr>
 <tr><td>7</td><td>Chicago-NL</td><td>(CIN) Ray, Robbie*</td><td>Hutchison, Drew</td><td>Rivera, Rene</td><td>(LAN) Maurer, Brandon</td><td>Crawford, Carl*</td></tr>
-<tr><td>8</td><td>Atlanta</td><td>Kepler, Max*</td><td>Duvall, Adam</td><td>Garcia, Adonis</td><td>Jeffress, Jeremy</td><td>Banuelos, Manny*</td></tr>
+<tr><td>8</td><td>Atlanta</td><td>Kepler, Max* Rebuild=engaged...</td><td>Duvall, Adam</td><td>Garcia, Adonis</td><td>Jeffress, Jeremy</td><td>Banuelos, Manny*</td></tr>
 <tr><td>9</td><td>Kansas City</td><td>(PHN) Tomas, Yasmany</td><td>Blazek, Michael</td><td>(WAN) Gonzalez, Miguel</td><td>Montgomery, Mike*</td><td>(PHN) Guthrie, Jeremy</td></tr>
 <tr><td>10</td><td>Los Angeles-AL</td><td>Marisnick, Jake</td><td>Conley, Adam*</td><td>Nicolino, Justin*</td><td>Rodriguez, Fernando</td><td>Gillespie, Cole</td></tr>
 <tr><td>11</td><td>Washington</td><td>(PHN) Jungmann, Taylor</td><td>(KCA) Rios, Alex</td><td>(TOA) Lohse, Kyle</td><td>Hanigan, Ryan</td><td>Morse, Mike</td></tr>
@@ -357,7 +388,7 @@
 <tr><td>20</td><td>Minnesota</td><td>Gattis, Evan</td><td>(CIN) Owens, Henry*</td><td>(PHN) Cosart, Jarred</td><td>Tejada, Ruben</td><td>O'Brien, Peter</td></tr>
 <tr><td>21</td><td>Pittsburgh</td><td>Milone, Tommy*</td><td>Rogers, Jason</td><td>Raburn, Ryan</td><td>Clevenger, Steve*</td><td>Furbush, Charlie*</td></tr>
 <tr><td>22</td><td>Baltimore</td><td>(LAA) Sanchez, Carlos+</td><td>Tucker, Preston*</td><td>Pelfrey, Mike</td><td>Caminero, Arquimedes</td><td>(SDN) Gosselin, Philip</td></tr>
-<tr><td>23</td><td>New York-NL</td><td>(SEA) Bastardo, Antonio*</td><td>(DEA) Hoover, J.J.</td><td>(KCA) Pagan, Angel+</td><td>(SFN) Rea, Colin</td><td>(DEA) Villar, Jonathan+</td></tr>
+<tr><td>23</td><td>New York-NL</td><td>(SEA) Bastardo, Antonio*</td><td>(DEA) Hoover, J.J.</td><td>(KCA) Pagan, Angel+ ...a return to KC</td><td>(SFN) Rea, Colin</td><td>(DEA) Villar, Jonathan+</td></tr>
 <tr><td>24</td><td>Los Angeles-NL</td><td>Gonzalez, Chi Chi</td><td>Francoeur, Jeff</td><td>(WAN) Fuld, Sam*</td><td>Gott, Trevor</td><td>(WAN) Barnes, Brandon</td></tr></tbody>
 </table>
 </div>
@@ -459,6 +490,30 @@
 
     pillify(document.getElementById('t1'));
     pillify(document.getElementById('t2'));
-  </script>
+  
+    // --- Year / Draft selector wiring (2002–2025) ---
+    (function(){
+      const yearSel = document.getElementById('yearSelect');
+      const draftSel = document.getElementById('draftSelect');
+      if(!yearSel || !draftSel) return;
+
+      const file = (location.pathname.split('/').pop() || '').toLowerCase();
+      const yearMatch = file.match(/^(\d{4})/);
+      const year = yearMatch ? yearMatch[1] : '2025';
+      const isFA = file.includes('freeagent');
+
+      yearSel.value = year;
+      draftSel.value = isFA ? 'FreeAgentDraft' : 'AnnualDraft';
+
+      function go(){
+        const target = `/drafts/${yearSel.value}${draftSel.value}.html`;
+        location.href = target;
+      }
+
+      yearSel.addEventListener('change', go);
+      draftSel.addEventListener('change', go);
+    })();
+
+</script>
 </body>
 </html>
