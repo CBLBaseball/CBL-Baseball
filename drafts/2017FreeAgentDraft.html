@@ -1,10 +1,11 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>2017 Free Agent Draft</title>
-  <style>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>CBL 2017 Free Agent Draft</title>
+<style>
 :root{
       --ink:#111;
       --muted:#555;
@@ -209,37 +210,33 @@
 
   </style>
 </head>
-
 <body>
-  <div class="page">
-    <header>
-      <div>
-        <h1>2017 Free Agent Draft</h1>
-        <div class="sub">Continental Baseball League</div>
-      </div>
-      <div class="actions">
-        <a href="/index.html">← Back to Front Page</a>
-      </div>
-    </header>
-
-    <div class="wrap">
-      <p class="note">
-        Shown are the picks for each team. Use search to filter the tables.
+<div class="page">
+<header>
+<div>
+<h1 id="pageTitle">2017 CBL Free Agent Draft</h1>
+<div class="sub">Continental Baseball League</div>
+</div>
+<div class="actions">
+<a href="/index.html">← Back to Front Page</a>
+</div>
+</header>
+<div class="wrap">
+<p class="note">
+        Shown are the picks for each team. Use search to filter both tables.
         Traded-from team codes like <span class="mono">(NYN)</span> are styled as pills.
       </p>
-
-      <div class="split">
-        <div class="btnrow">
-          <button class="btn active" id="btnAll" type="button">Show All</button>
-          <button class="btn" id="btn1" type="button">Rounds 1–5</button>
-          <button class="btn" id="btn2" type="button">Rounds 6–10</button>
-        </div>
-
-        <div class="selectors" aria-label="Draft navigation">
-          <div class="sel">
+<div class="split">
+<div class="btnrow">
+<button class="btn active" id="btnAll" type="button">Show All</button>
+<button class="btn" id="btn1" type="button">Rounds 1–5</button>
+<button class="btn" id="btn2" type="button">Rounds 6–10</button>
+</div>
+<div aria-label="Draft navigation" class="selectors">
+<div class="sel">
             Year
-            <select id="yearSelect" aria-label="Select year">
-              <option value="2002">2002</option>
+            <select aria-label="Select year" id="yearSelect">
+<option value="2002">2002</option>
 <option value="2003">2003</option>
 <option value="2004">2004</option>
 <option value="2005">2005</option>
@@ -254,7 +251,7 @@
 <option value="2014">2014</option>
 <option value="2015">2015</option>
 <option value="2016">2016</option>
-<option value="2017" selected="selected">2017</option>
+<option selected="selected" value="2017">2017</option>
 <option value="2018">2018</option>
 <option value="2019">2019</option>
 <option value="2020">2020</option>
@@ -263,100 +260,58 @@
 <option value="2023">2023</option>
 <option value="2024">2024</option>
 <option value="2025">2025</option>
-            </select>
-          </div>
-          <div class="sel">
+</select>
+</div>
+<div class="sel">
             Draft
-            <select id="draftSelect" aria-label="Select draft type">
-              <option value="AnnualDraft">Annual Draft</option>
-              <option value="FreeAgentDraft" selected="selected">Free Agent Draft</option>
-            </select>
-          </div>
-        </div>
-
-        <div class="search" style="margin:0; min-width:min(560px, 95vw);">
+            <select aria-label="Select draft type" id="draftSelect">
+<option value="AnnualDraft">Annual Draft</option>
+<option selected="selected" value="FreeAgentDraft">Free Agent Draft</option>
+</select>
+</div>
+</div>
+<div class="search" style="margin:0; min-width:min(560px, 95vw);">
           🔎
-          <input id="q" type="text" placeholder="Search team, player, or traded code..." autocomplete="off" />
-          <span class="mono">/</span>
-        </div>
-      </div>
-
-      <div id="sec1">
-      <div class="card">
-        <h2>Rounds 1–5</h2>
-        <table>
-<thead><tr><th>#</th><th>Team</th><th>Round 1</th><th>Round 2</th><th>Round 3</th><th>Round 4</th><th>Round 5</th></tr></thead>
-<tbody>
-<tr><td class="pick">1</td><td class="team">Minnesota</td><td>Kelly, Joe</td><td>McGee, Jake*</td><td>Soria, Joakim</td><td>Reynolds, Matt</td><td>Papelbon, Jonathan</td></tr>
-<tr><td class="pick">2</td><td class="team">Cincinnati</td><td>Gee, Dillon</td><td>Brito, Socrates*</td><td>Barnes, Jacob</td><td>Gant, John</td><td>SKIP</td></tr>
-<tr><td class="pick">3</td><td class="team">Philadelphia</td><td>Blanco, Andres+</td><td>Ohlendorf, Ross</td><td>Anderson, Cody</td><td>Milone, Tommy*</td><td>Niese, Jonathon*</td></tr>
-<tr><td class="pick">4</td><td class="team">Detroit</td><td>Moya, Steven*</td><td>Hardy, Blaine*</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">5</td><td class="team">Colorado</td><td>Delgado, Randall</td><td>Romero, Enny*</td><td>Ramirez, Jose</td><td>Hembree, Heath</td><td>SKIP</td></tr>
-<tr><td class="pick">6</td><td class="team">Atlanta</td><td>Tomlinson, Kelby</td><td>Collmenter, Josh</td><td>Bleier, Richard*</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">7</td><td class="team">San Diego</td><td>Lee, Dae-Ho</td><td>Quackenbush, Kevin</td><td>Godley, Zack</td><td>Alvarez, Jose*</td><td>Boyer, Blaine</td></tr>
-<tr><td class="pick">8</td><td class="team">New York-AL</td><td>Mitchell, Bryan</td><td>Floyd, Gavin</td><td>Van Slyke, Scott</td><td>Murphy, John Ryan</td><td>Rutledge, Josh</td></tr>
-<tr><td class="pick">9</td><td class="team">Chicago-AL</td><td>Byrd, Marlon</td><td>Vogelsong, Ryan</td><td>O&#x27;Rourke, Ryan*</td><td>Wood, Blake</td><td>Selsky, Steve</td></tr>
-<tr><td class="pick">10</td><td class="team">Boston</td><td>Perez, Williams</td><td>Tazawa, Junichi</td><td>De La Cruz, Joel</td><td>Hernandez, Marco*</td><td>TIME VIOLATION</td></tr>
-<tr><td class="pick">11</td><td class="team">Toronto</td><td>Pierzynski, A.J.*</td><td>Pressly, Ryan</td><td>Jennings, Desmond</td><td>De Aza, Alejandro*</td><td>SKIP</td></tr>
-<tr><td class="pick">12</td><td class="team">Seattle</td><td>Blash, Jabari</td><td>Whalen, Rob</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">13</td><td class="team">Washington</td><td>Robinson, Clint*</td><td>Perez, Oliver*</td><td>Ellis, A.J.</td><td>Howell, J.P.*</td><td>Beckham, Gordon</td></tr>
-<tr><td class="pick">14</td><td class="team">Los Angeles-AL</td><td>Boshers, Buddy*</td><td>Avilan, Luis*</td><td>Gose, Anthony*</td><td>Nuno, Vidal*</td><td>Scahill, Rob</td></tr>
-<tr><td class="pick">15</td><td class="team">Chicago-NL</td><td>O&#x27;Brien, Peter</td><td>Bailey, Andrew</td><td>Diaz, Jumbo</td><td>Tropeano, Nick</td><td>PASS</td></tr>
-<tr><td class="pick">16</td><td class="team">Baltimore</td><td>Smith, Chris</td><td>Hernandez, David</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">17</td><td class="team">San Francisco</td><td>Hutchison, Drew</td><td>White, Tyler</td><td>O&#x27;Malley, Shawn+</td><td>Jungmann, Taylor</td><td>Pina, Manny</td></tr>
-<tr><td class="pick">18</td><td class="team">Los Angeles-NL</td><td>Rodriguez, Fernando</td><td>Heisey, Chris</td><td>Lobstein, Kyle*</td><td>Sanchez, Hector+</td><td>Kahnle, Tommy</td></tr>
-<tr><td class="pick">19</td><td class="team">St. Louis</td><td>Ethier, Andre*</td><td>Lowe, Mark</td><td>Verrett, Logan</td><td>Turner, Jacob</td><td>Fielder, Prince*</td></tr>
-<tr><td class="pick">20</td><td class="team">New York-NL</td><td>Gillaspie, Conor*</td><td>Centeno, Juan*</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">21</td><td class="team">Kansas City</td><td>Colon, Christian</td><td>De Jesus, Ivan</td><td>Lobaton, Jose+</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td></tr>
-<tr><td class="pick">22</td><td class="team">Cleveland</td><td>Wilson, Bobby</td><td>Withrow, Chris</td><td>D&#x27;Arnaud, Chase</td><td>Yates, Kirby</td><td>SKIP</td></tr>
-<tr><td class="pick">23</td><td class="team">Oakland</td><td>Petit, Gregorio</td><td>Stewart, Chris</td><td>Bassitt, Chris</td><td>Wendle, Joey*</td><td>Wright, Mike</td></tr>
-<tr><td class="pick">24</td><td class="team">Pittsburgh</td><td>Coghlan, Chris*</td><td>Kemp, Tony*</td><td>Knebel, Corey</td><td>Plawecki, Kevin</td><td>SKIP</td></tr>
-</tbody>
-</table>
-      </div>
+          <input autocomplete="off" id="q" placeholder="Search team, player, or traded code..." type="text"/>
+<span class="mono">/</span>
 </div>
-
-      <div id="sec2" style="margin-top:16px;">
-      <div class="card">
-        <h2>Rounds 6–10</h2>
-        <table>
-<thead><tr><th>#</th><th>Team</th><th>Round 6</th><th>Round 7</th><th>Round 8</th><th>Round 9</th><th>Round 10</th></tr></thead>
-<tbody>
-<tr><td class="pick">1</td><td class="team">Minnesota</td><td>Pelfrey, Mike</td><td>Tonkin, Michael</td><td>Tolleson, Shawn</td><td>Bracho, Silvino We are now done !</td><td>TIME VIOLATION</td></tr>
-<tr><td class="pick">2</td><td class="team">Cincinnati</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">3</td><td class="team">Philadelphia</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">4</td><td class="team">Detroit</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">5</td><td class="team">Colorado</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">6</td><td class="team">Atlanta</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">7</td><td class="team">San Diego</td><td>Ellington, Brian</td><td>PASS</td><td>PASS</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">8</td><td class="team">New York-AL</td><td>Amarista, Alexi*</td><td>Sanchez, Carlos+</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">9</td><td class="team">Chicago-AL</td><td>Maness, Seth</td><td>Pena, Ramiro+</td><td>Kelly, Ty+</td><td>Roe, Chaz</td><td>SKIP</td></tr>
-<tr><td class="pick">10</td><td class="team">Boston</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">11</td><td class="team">Toronto</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">12</td><td class="team">Seattle</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">13</td><td class="team">Washington</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">14</td><td class="team">Los Angeles-AL</td><td>PASS</td><td>PASS</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">15</td><td class="team">Chicago-NL</td><td>PASS</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">16</td><td class="team">Baltimore</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">17</td><td class="team">San Francisco</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">18</td><td class="team">Los Angeles-NL</td><td>Motter, Taylor</td><td>Smith, Josh</td><td>Hernandez, Gorkys</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">19</td><td class="team">St. Louis</td><td>Sipp, Tony*</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">20</td><td class="team">New York-NL</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">21</td><td class="team">Kansas City</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>TIME VIOLATION</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">22</td><td class="team">Cleveland</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">23</td><td class="team">Oakland</td><td>Pinder, Chad</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-<tr><td class="pick">24</td><td class="team">Pittsburgh</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td><td>SKIP</td></tr>
-</tbody>
-</table>
-      </div>
 </div>
-
-    </div>
-
-    <footer>CBL • 2021 Free Agent Draft</footer>
-  </div>
-
-  <script>
+<div id="sec1">
+<div class="section-title">Rounds 1–5</div>
+<div class="section-sub">Teams • Picks</div>
+<div class="table-wrap">
+<table id="t1">
+<thead>
+<tr>
+<th style="width:52px">#</th>
+<th style="min-width:220px">Team</th>
+<th>Round 1</th><th>Round 2</th><th>Round 3</th><th>Round 4</th><th>Round 5</th>
+</tr>
+</thead>
+<tbody><tr><td>1</td><td>Minnesota</td><td>Kelly, Joe</td><td>McGee, Jake*</td><td>Soria, Joakim</td><td>Reynolds, Matt</td><td>Papelbon, Jonathan</td></tr><tr><td>2</td><td>Cincinnati</td><td>Gee, Dillon</td><td>Brito, Socrates*</td><td>Barnes, Jacob</td><td>Gant, John</td><td><span class="skip">SKIP</span></td></tr><tr><td>3</td><td>Philadelphia</td><td>Blanco, Andres+</td><td>Ohlendorf, Ross</td><td>Anderson, Cody</td><td>Milone, Tommy*</td><td>Niese, Jonathon*</td></tr><tr><td>4</td><td>Detroit</td><td>Moya, Steven*</td><td>Hardy, Blaine*</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>5</td><td>Colorado</td><td>Delgado, Randall</td><td>Romero, Enny*</td><td>Ramirez, Jose</td><td>Hembree, Heath</td><td><span class="skip">SKIP</span></td></tr><tr><td>6</td><td>Atlanta</td><td>Tomlinson, Kelby</td><td>Collmenter, Josh</td><td>Bleier, Richard*</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>7</td><td>San Diego</td><td>Lee, Dae-Ho</td><td>Quackenbush, Kevin</td><td>Godley, Zack</td><td>Alvarez, Jose*</td><td>Boyer, Blaine</td></tr><tr><td>8</td><td>New York-AL</td><td>Mitchell, Bryan</td><td>Floyd, Gavin</td><td>Van Slyke, Scott</td><td>Murphy, John Ryan</td><td>Rutledge, Josh</td></tr><tr><td>9</td><td>Chicago-AL</td><td>Byrd, Marlon</td><td>Vogelsong, Ryan</td><td>O'Rourke, Ryan*</td><td>Wood, Blake</td><td>Selsky, Steve</td></tr><tr><td>10</td><td>Boston</td><td>Perez, Williams</td><td>Tazawa, Junichi</td><td>De La Cruz, Joel</td><td>Hernandez, Marco*</td><td><span class="skip">TIME VIOLATION</span></td></tr><tr><td>11</td><td>Toronto</td><td>Pierzynski, A.J.*</td><td>Pressly, Ryan</td><td>Jennings, Desmond</td><td>De Aza, Alejandro*</td><td><span class="skip">SKIP</span></td></tr><tr><td>12</td><td>Seattle</td><td>Blash, Jabari</td><td>Whalen, Rob</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>13</td><td>Washington</td><td>Robinson, Clint*</td><td>Perez, Oliver*</td><td>Ellis, A.J.</td><td>Howell, J.P.*</td><td>Beckham, Gordon</td></tr><tr><td>14</td><td>Los Angeles-AL</td><td>Boshers, Buddy*</td><td>Avilan, Luis*</td><td>Gose, Anthony*</td><td>Nuno, Vidal*</td><td>Scahill, Rob</td></tr><tr><td>15</td><td>Chicago-NL</td><td>O'Brien, Peter</td><td>Bailey, Andrew</td><td>Diaz, Jumbo</td><td>Tropeano, Nick</td><td><span class="skip">PASS</span></td></tr><tr><td>16</td><td>Baltimore</td><td>Smith, Chris</td><td>Hernandez, David</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>17</td><td>San Francisco</td><td>Hutchison, Drew</td><td>White, Tyler</td><td>O'Malley, Shawn+</td><td>Jungmann, Taylor</td><td>Pina, Manny</td></tr><tr><td>18</td><td>Los Angeles-NL</td><td>Rodriguez, Fernando</td><td>Heisey, Chris</td><td>Lobstein, Kyle*</td><td>Sanchez, Hector+</td><td>Kahnle, Tommy</td></tr><tr><td>19</td><td>St. Louis</td><td>Ethier, Andre*</td><td>Lowe, Mark</td><td>Verrett, Logan</td><td>Turner, Jacob</td><td>Fielder, Prince*</td></tr><tr><td>20</td><td>New York-NL</td><td>Gillaspie, Conor*</td><td>Centeno, Juan*</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>21</td><td>Kansas City</td><td>Colon, Christian</td><td>De Jesus, Ivan</td><td>Lobaton, Jose+</td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">TIME VIOLATION</span></td></tr><tr><td>22</td><td>Cleveland</td><td>Wilson, Bobby</td><td>Withrow, Chris</td><td>D'Arnaud, Chase</td><td>Yates, Kirby</td><td><span class="skip">SKIP</span></td></tr><tr><td>23</td><td>Oakland</td><td>Petit, Gregorio</td><td>Stewart, Chris</td><td>Bassitt, Chris</td><td>Wendle, Joey*</td><td>Wright, Mike</td></tr><tr><td>24</td><td>Pittsburgh</td><td>Coghlan, Chris*</td><td>Kemp, Tony*</td><td>Knebel, Corey</td><td>Plawecki, Kevin</td><td><span class="skip">SKIP</span></td></tr></tbody>
+</table>
+</div>
+</div>
+<div id="sec2" style="margin-top:16px;">
+<div class="section-title">Rounds 6–10</div>
+<div class="section-sub">Teams • Picks</div>
+<div class="table-wrap">
+<table id="t2">
+<thead>
+<tr>
+<th style="width:52px">#</th>
+<th style="min-width:220px">Team</th>
+<th>Round 6</th><th>Round 7</th><th>Round 8</th><th>Round 9</th><th>Round 10</th>
+</tr>
+</thead>
+<tbody><tr><td>1</td><td>Minnesota</td><td>Pelfrey, Mike</td><td>Tonkin, Michael</td><td>Tolleson, Shawn</td><td>Bracho, Silvino We are now done !</td><td><span class="skip">TIME VIOLATION</span></td></tr><tr><td>2</td><td>Cincinnati</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>3</td><td>Philadelphia</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>4</td><td>Detroit</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>5</td><td>Colorado</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>6</td><td>Atlanta</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>7</td><td>San Diego</td><td>Ellington, Brian</td><td><span class="skip">PASS</span></td><td><span class="skip">PASS</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>8</td><td>New York-AL</td><td>Amarista, Alexi*</td><td>Sanchez, Carlos+</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>9</td><td>Chicago-AL</td><td>Maness, Seth</td><td>Pena, Ramiro+</td><td>Kelly, Ty+</td><td>Roe, Chaz</td><td><span class="skip">SKIP</span></td></tr><tr><td>10</td><td>Boston</td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>11</td><td>Toronto</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>12</td><td>Seattle</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>13</td><td>Washington</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>14</td><td>Los Angeles-AL</td><td><span class="skip">PASS</span></td><td><span class="skip">PASS</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>15</td><td>Chicago-NL</td><td><span class="skip">PASS</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>16</td><td>Baltimore</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>17</td><td>San Francisco</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>18</td><td>Los Angeles-NL</td><td>Motter, Taylor</td><td>Smith, Josh</td><td>Hernandez, Gorkys</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>19</td><td>St. Louis</td><td>Sipp, Tony*</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>20</td><td>New York-NL</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>21</td><td>Kansas City</td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">TIME VIOLATION</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>22</td><td>Cleveland</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>23</td><td>Oakland</td><td>Pinder, Chad</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr><tr><td>24</td><td>Pittsburgh</td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td><td><span class="skip">SKIP</span></td></tr></tbody>
+</table>
+</div>
+</div>
+</div>
+<footer>CBL • 2017 Free Agent Draft</footer>
+</div>
+<script>
     const q = document.getElementById('q');
     const sec1 = document.getElementById('sec1');
     const sec2 = document.getElementById('sec2');
@@ -416,7 +371,7 @@
 
       const file = (location.pathname.split('/').pop() || '').toLowerCase();
       const yearMatch = file.match(/^(\d{4})/);
-      const year = yearMatch ? yearMatch[1] : '2021';
+      const year = yearMatch ? yearMatch[1] : '2018';
       const isFA = file.includes('freeagent');
 
       yearSel.value = year;
