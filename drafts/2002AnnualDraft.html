@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CBL 2002 Annual Draft Results</title>
+  <style>
+:root{
+      --ink:#111;
+      --muted:#555;
+      --bg:#f6f1e6;
+      --card:#ffffff;
+      --line:rgba(0,0,0,.10);
+      --accent:#7a1f1f;
+      --navy:#0b4a7d;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--ink);
+      background: linear-gradient(180deg,#fff 0%, #eef3f8 100%);
+      padding: 18px 14px 44px;
+    }
+    .page{
+      max-width: 1600px;
+      margin: 0 auto;
+      background: radial-gradient(circle at 20% 0%, rgba(122,31,31,.08), transparent 55%),
+                  linear-gradient(180deg, var(--bg), #efe7d3);
+      border: 2px solid #222;
+      border-radius: 20px;
+      box-shadow: 0 18px 46px rgba(0,0,0,.16);
+      overflow:hidden;
+    }
+    header{
+      padding: 18px 18px 14px;
+      border-bottom: 4px double rgba(0,0,0,.28);
+      display:flex;
+      flex-wrap:wrap;
+      align-items:flex-end;
+      justify-content:space-between;
+      gap:12px;
+    }
+    h1{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 40px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .sub{
+      margin:6px 0 0;
+      color:var(--muted);
+      font-weight: 800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+      font-size: 12px;
+    }
+    .actions a{
+      display:inline-flex;
+      gap:10px;
+      align-items:center;
+      padding: 10px 12px;
+      border-radius: 999px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.7);
+      text-decoration:none;
+      color: var(--navy);
+      font-weight: 900;
+      white-space:nowrap;
+    }
+    .wrap{padding: 16px 18px 22px;}
+    .note{
+      margin: 0 0 12px;
+      color: rgba(0,0,0,.68);
+      font-weight: 750;
+      line-height: 1.45;
+    }
+    .tools{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .search{
+      flex: 1 1 320px;
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      border: 2px solid #222;
+      background: rgba(255,255,255,.75);
+    }
+    .search input{
+      width:100%;
+      border:none;
+      outline:none;
+      background:transparent;
+      font-size: 14px;
+      font-weight: 800;
+      color: var(--ink);
+    }
+    .legend{
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+    }
+    .table-wrap{
+      overflow:auto;
+      border: 2px solid #222;
+      border-radius: 16px;
+      background: var(--card);
+      box-shadow: 0 10px 24px rgba(0,0,0,.10);
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout: auto;
+      
+    }
+    col.team{width: 260px;}
+    col.r{width: 110px;}
+    col.roster{width: 110px;}
+    thead th{border:1px solid #222;
+      position:sticky;
+      top:0;
+      z-index:2;
+      background: #f7f7f7;
+      border-bottom: 2px solid #222;
+      padding: 10px 10px;
+      font-size: 12px;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+      text-align:left;
+      color: rgba(0,0,0,.75);
+    }
+    tbody td{border:1px solid #222;
+      border-bottom: 1px solid #222;
+      padding: 10px 10px;
+      vertical-align:middle;
+      font-weight: 750;
+      }
+    tbody tr:hover{background:#fbfbfb}
+    td.team{font-weight: 950;}
+    td.pick{ text-align:center; font-weight:950; letter-spacing:.03em; white-space:nowrap; overflow:visible; }
+    td.pick.skip{color: var(--accent);}
+    td.roster{
+      text-align:right;
+      font-variant-numeric: tabular-nums;
+      font-weight: 900;
+      color: rgba(0,0,0,.70);
+    }
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.14);
+      background: rgba(11,74,125,.06);
+      color: var(--navy);
+      font-size: 12px;
+      font-weight: 950;
+      
+      white-space: nowrap;
+    }
+    .pill.skip{
+      background: rgba(122,31,31,.08);
+      color: var(--accent);
+      border-color: rgba(122,31,31,.22);
+    }
+    footer{
+      padding: 14px 18px 18px;
+      border-top: 1px solid rgba(0,0,0,.14);
+      color: rgba(0,0,0,.55);
+      font-weight: 800;
+      font-size: 12px;
+      text-align:center;
+    }
+    @media (max-width: 720px){
+      h1{font-size: 32px;}
+      table{}
+    }
+    @media print{
+      body{background:#fff;padding:0;}
+      .page{box-shadow:none;border:none;border-radius:0;}
+      .tools,.actions{display:none;}
+      .table-wrap{box-shadow:none;border:1px solid #bbb;}
+    }
+
+    /* --- Draft Results additions (kept minimal to match Draft Order look) --- */
+    .section-title{
+      margin: 10px 0 10px;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 24px;
+      font-weight: 900;
+      letter-spacing:.01em;
+    }
+    .section-sub{
+      margin: -6px 0 10px;
+      color: rgba(0,0,0,.60);
+      font-weight: 800;
+      font-size: 12px;
+      letter-spacing:.08em;
+      text-transform: uppercase;
+    }
+    .split{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      align-items:center;
+      justify-content:space-between;
+      margin: 10px 0 12px;
+    }
+    .btnrow{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+    .btn{
+      border:2px solid #222;
+      background: rgba(255,255,255,.75);
+      color: var(--navy);
+      font-weight: 900;
+      padding: 8px 10px;
+      border-radius: 999px;
+      cursor:pointer;
+    }
+    .btn.active{
+      background: rgba(11,74,125,.10);
+      box-shadow: inset 0 0 0 2px rgba(11,74,125,.25);
+    }
+    .pillcode{
+      display:inline-block;
+      padding:2px 8px;
+      border-radius:999px;
+      border:1px solid rgba(0,0,0,.25);
+      background: rgba(11,74,125,.08);
+      font-weight: 900;
+      letter-spacing:.04em;
+      font-size: 11px;
+      margin-right: 4px;
+      white-space:nowrap;
+    }
+    .mono{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-weight: 900;
+      font-size: 11px;
+    }
+    .hidden{display:none !important;}
+
+  </style>
+</head>
+
+<body>
+  <div class="page">
+    <header>
+      <div>
+        <h1>CBL 2002 Annual Draft Results</h1>
+        <div class="sub">Continental Baseball League</div>
+      </div>
+      <div class="actions">
+        <a href="/index.html">← Back to Front Page</a>
+      </div>
+    </header>
+
+    <div class="wrap">
+      <p class="note">
+        Shown are the picks for each team. Use search to filter both tables.
+        <span class="mono">(ABC)</span> tags indicate traded-from team codes (styled as pills).
+      </p>
+
+      <div class="split">
+        <div class="btnrow">
+          <button class="btn active" id="btnAll" type="button">Show All</button>
+          <button class="btn" id="btn1to5" type="button">Rounds 1–5</button>
+          <button class="btn" id="btn6to10" type="button">Rounds 6–10</button>
+        </div>
+
+        <div class="search" style="margin:0; min-width:min(560px, 95vw);">
+          🔎
+          <input id="q" type="text" placeholder="Search team, player, or traded code..." autocomplete="off" />
+          <span class="mono">/</span>
+        </div>
+      </div>
+
+      <div id="sec1to5">
+        <div class="section-title">Rounds 1–5</div>
+        <div class="section-sub">Teams • Picks</div>
+        <div class="table-wrap">
+          <table id="t1">
+            <thead>
+              <tr>
+                <th style="width:52px">#</th>
+                <th style="min-width:260px">Team</th>
+                <th>Round 1</th><th>Round 2</th><th>Round 3</th><th>Round 4</th><th>Round 5</th>
+              </tr>
+            </thead>
+            <tbody>
+<tr><td>1</td><td>Stl</td><td>266 Beckett</td><td>684 Izturis</td><td>FORFEIT</td><td>320 Ibanez</td><td>310 Bailey</td></tr>
+<tr><td>2</td><td>Min</td><td>237 Uribe</td><td>539 Williams</td><td>256 Rivera</td><td>660 Michalak</td><td>14 Levine</td></tr>
+<tr><td>3</td><td>SD</td><td>377 Sheets</td><td>111 Crawford</td><td>40 Mantei</td><td>468 Byrnes</td><td>632 Sandberg</td></tr>
+<tr><td>4</td><td>Min</td><td>665 Pena</td><td>500 Pratt</td><td>626 Phelps</td><td>250 Patterson</td><td>584 Feliz</td></tr>
+<tr><td>5</td><td>Mtl</td><td>370 Neugebauer</td><td>152 Canseco</td><td>305 Truby</td><td>662 Moreno</td><td>149 Alomar</td></tr>
+<tr><td>6</td><td>Phi</td><td>578 Ainsworth</td><td>45 Prinz</td><td>577 Tomko</td><td>32 Dellucci</td><td>477 Myers</td></tr>
+<tr><td>7</td><td>SF</td><td>625 Kennedy</td><td>116 Hillenbrand</td><td>515 Brown</td><td>398 Thomas</td><td>596 Worrell</td></tr>
+<tr><td>8</td><td>Det</td><td>215 Chacon</td><td>670 Sierra</td><td>289 Cruz</td><td>236 Thomson</td><td>384 Cressend</td></tr>
+<tr><td>9</td><td>Hou</td><td>39 Lopez</td><td>192 Cabrera</td><td>528 Nunez</td><td>FORFEIT</td><td>337 Grissom</td></tr>
+<tr><td>10</td><td>KC</td><td>24 Batista</td><td>499 Perez</td><td>FORFEIT</td><td>522 Lincoln</td><td>57 Cabrera</td></tr>
+<tr><td>11</td><td>Sea</td><td>688 Phelps</td><td>613 Bierbrodt</td><td>464 Witasick</td><td>589 Jensen</td><td>572 Paniagua</td></tr>
+<tr><td>12</td><td>Cin</td><td>31 Cust</td><td>20 Rapp</td><td>146 Van Poppel</td><td>80 Bordick</td><td>672 Venafro</td></tr>
+<tr><td>13</td><td>Ana</td><td>114 Fossum</td><td>510 Anderson</td><td>159 Johnson</td><td>689 Plesac</td><td>83 Fordyce</td></tr>
+<tr><td>14</td><td>Min</td><td>103 Towers</td><td>131 Wakefield</td><td>156 Fogg</td><td>8 Gil</td><td>566 Franklin</td></tr>
+<tr><td>15</td><td>Phi</td><td>361 Fox</td><td>147 Zambrano</td><td>308 Alicea</td><td>258 Santos</td><td>397 Santana</td></tr>
+<tr><td>16</td><td>Phi</td><td>612 Abernathy</td><td>99 Raines Jr.</td><td>606 McGwire</td><td>68 Remlinger</td><td>631 Rupe</td></tr>
+<tr><td>17</td><td>KC</td><td>280 Nunez</td><td>475 Magnate</td><td>107 Beck</td><td>483 Vizcaino</td><td>378 Suzucki</td></tr>
+<tr><td>18</td><td>Mtl</td><td>595 VanderWal</td><td>640 Zambrano</td><td>389 Loshe</td><td>436 Perez</td><td>426 Thurman</td></tr>
+<tr><td>19</td><td>Det</td><td>120 Lowe</td><td>336 Goodwin</td><td>350 Blanco</td><td>481 Tam</td><td>162 Paul</td></tr>
+<tr><td>20</td><td>Oak</td><td>540 Wilson</td><td>49 Spivey</td><td>448 Choate</td><td>183 Reidling</td><td>123 O'Leary</td></tr>
+<tr><td>21</td><td>CHW</td><td>541 Wilson</td><td>347 Shaw</td><td>363 King</td><td>329 Ashby</td><td>158 Howry</td></tr>
+<tr><td>22</td><td>Forfeit</td><td>FORFEIT</td><td>615 Colome</td><td>460 Stanton</td><td>353 Casanova</td><td>163 Perry</td></tr>
+<tr><td>23</td><td>Det</td><td>315 Harvey</td><td>138 Fassero</td><td>618 Gomez</td><td>359 DeJean</td><td>668 Rogers</td></tr>
+<tr><td>24</td><td>Min</td><td>85 Gibbons</td><td>228 Little</td><td>87 Groom</td><td>89 Hentgen</td><td>44 Overbay</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div id="sec6to10" style="margin-top:16px;">
+        <div class="section-title">Rounds 6–10</div>
+        <div class="section-sub">Teams • Picks</div>
+        <div class="table-wrap">
+          <table id="t2">
+            <thead>
+              <tr>
+                <th style="width:52px">#</th>
+                <th style="min-width:260px">Team</th>
+                <th>Round 6</th><th>Round 7</th><th>Round 8</th><th>Round 9</th><th>Round 10</th>
+              </tr>
+            </thead>
+            <tbody>
+<tr><td>1</td><td>Stl</td><td>334 Cora</td><td>28 Cintron</td><td>629 Rolls</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>2</td><td>Min</td><td>4 Cooper</td><td>118 Lansing</td><td>282 Owens</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>3</td><td>SD</td><td>556 Middlebrook</td><td>303 Vizcaino</td><td>598 Benes</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>4</td><td>Min</td><td>411 Lloyd</td><td>82 Douglas</td><td>525 Mackowiak</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>5</td><td>Mtl</td><td>232 Norton</td><td>69 Seanez</td><td>157 Ginter</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>6</td><td>Phi</td><td>360 Echevarria</td><td>67 Reed</td><td>651 Haselman</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>7</td><td>SF</td><td>585 Fultz</td><td>366 Leskanic</td><td>284 Smith</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>8</td><td>Det</td><td>100 Ripken</td><td>345 Reboulet</td><td>59 Franco</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>9</td><td>Hou</td><td>269 Castro</td><td>263 Alfonseca</td><td>272 Grilli</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>10</td><td>KC</td><td>325 Reichert</td><td>617 Flaherty</td><td>624 Martinez</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>11</td><td>Sea</td><td>108 Bichette</td><td>580 Christiansen</td><td>490 Estrada</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>12</td><td>Cin</td><td>10 Hasagawa</td><td>38 Koplove</td><td>78 Bigbie</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>13</td><td>Ana</td><td>281 Olsen</td><td>75 Anderson</td><td>352 Buddie</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>14</td><td>Min</td><td>169 Castro</td><td>639 Yan</td><td>101 Roberts</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>15</td><td>Phi</td><td>170 Clark</td><td>663 Myette</td><td>254 Pineda</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>16</td><td>Phi</td><td>175 Guerrero</td><td>443 White</td><td>461 Williams</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>17</td><td>KC</td><td>248 Mohler</td><td>22 Weber</td><td>482 Valdez</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>18</td><td>Mtl</td><td>401 Blum</td><td>424 Stewart</td><td>267 Berg</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>19</td><td>Det</td><td>25 Bell</td><td>616 Creek</td><td>561 Serrano</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>20</td><td>Oak</td><td>328 Wilson</td><td>140 Machado</td><td>423 Smith</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>21</td><td>CHW</td><td>102 Roberts</td><td>235 Spier</td><td>191 Burba</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>22</td><td>Forfeit</td><td>298 Mlicki</td><td>657 Ledee</td><td>628 Rekar</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>23</td><td>Det</td><td>94 Madura</td><td>676 Castillo</td><td>641 Benoit</td><td>SKIP</td><td>SKIP</td></tr>
+<tr><td>24</td><td>Min</td><td>583 Dunston</td><td>321 MacDougal</td><td>225 Jennings</td><td>SKIP</td><td>SKIP</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>CBL • 2025 Annual Draft Results</footer>
+  </div>
+
+  <script>
+    const q = document.getElementById('q');
+    const sec1 = document.getElementById('sec1to5');
+    const sec2 = document.getElementById('sec6to10');
+    const btnAll = document.getElementById('btnAll');
+    const btn1 = document.getElementById('btn1to5');
+    const btn2 = document.getElementById('btn6to10');
+
+    function setActive(which){
+      [btnAll, btn1, btn2].forEach(b => b.classList.remove('active'));
+      if(which==='all'){ btnAll.classList.add('active'); sec1.classList.remove('hidden'); sec2.classList.remove('hidden'); }
+      if(which==='1'){ btn1.classList.add('active'); sec1.classList.remove('hidden'); sec2.classList.add('hidden'); }
+      if(which==='2'){ btn2.classList.add('active'); sec1.classList.add('hidden'); sec2.classList.remove('hidden'); }
+    }
+
+    btnAll.addEventListener('click', () => setActive('all'));
+    btn1.addEventListener('click', () => setActive('1'));
+    btn2.addEventListener('click', () => setActive('2'));
+
+    function filterTable(table, term){
+      const needle = (term || '').trim().toLowerCase();
+      const rows = table.tBodies[0].rows;
+      for(const r of rows){
+        const txt = r.innerText.toLowerCase();
+        r.style.display = (!needle || txt.includes(needle)) ? '' : 'none';
+      }
+    }
+
+    function applyFilter(){
+      const term = q.value || '';
+      filterTable(document.getElementById('t1'), term);
+      filterTable(document.getElementById('t2'), term);
+    }
+    q.addEventListener('input', applyFilter);
+
+    document.addEventListener('keydown', (e) => {
+      if(e.key === '/' && document.activeElement !== q){
+        e.preventDefault(); q.focus();
+      }
+      if(e.key === 'Escape' && document.activeElement === q){
+        q.value=''; applyFilter(); q.blur();
+      }
+    });
+
+    // Pillify traded-from codes like (DEA) anywhere in the table bodies
+    function pillify(tableEl){
+      const codeRe = /\(([A-Z]{3})\)/g;
+      tableEl.querySelectorAll('tbody td').forEach(td => {
+        if(!codeRe.test(td.textContent)) return;
+        td.innerHTML = td.innerHTML.replace(codeRe, (m, code) => `<span class="pillcode">(${code})</span>`);
+      });
+    }
+
+    pillify(document.getElementById('t1'));
+    pillify(document.getElementById('t2'));
+  </script>
+</body>
+</html>
