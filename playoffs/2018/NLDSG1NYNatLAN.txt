@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2018 New York (NL) Mets At 2018 Los Angeles(NL) Dodgers   10/3/2018
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  A.Presley RF        3  0  0  0 .000     D.Murphy 2B         4  1  1  0 .250  
+  J.Reyes SS          3  1  1  1 .333     Y.Puig RF           3  1  0  0 .000  
+C-W.Flores PH         1  0  1  01.000     C.Bellinger 1B      3  1  1  0 .333  
+D-A.Rosario SS        0  0  0  0 ----     J.Turner 3B         3  1  1  2 .333  
+  J.Lamb 3B           2  0  0  1 .000     J.Reddick CF        3  0  0  0 .000  
+  A.McCutchen CF      4  0  0  0 .000     E.Encarnacion DH    3  0  0  0 .000  
+  Y.Alonso 1B         4  0  2  0 .500     C.Seager SS         4  0  0  0 .000  
+  N.Walker DH         4  0  0  0 .000     C.Taylor LF         2  1  1  0 .500  
+  W.Castillo C        3  0  0  0 .000     A.Barnes C          1  0  0  0 .000  
+E-C.Granderson PH     1  0  0  0 .000   A-T.La Stella PH      1  1  1  11.000  
+  B.Zobrist 2B        2  1  0  0 .000   B-Y.Grandal C         0  0  0  0 ----  
+  G.Parra LF          2  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  2  4  2                 Totals      27  6  5  3
+
+A-Pinch Hit For Barnes In 7th Inning
+B-Subbed Defensively (C ) For La Stella In 8th Inning
+C-Pinch Hit For Reyes In 8th Inning
+D-Subbed Defensively (SS) For Flores In 8th Inning
+E-Pinch Hit For Castillo In 9th Inning
+
+Mets............ 1 0 1  0 0 0  0 0 0  -  2  4  0
+Dodgers......... 0 0 0  0 0 2  2 2    -  6  5  0
+
+[1]Mets (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom                     5 1/3   3   2   2   3   5   0   3.38  A1 C4
+B.Brach LOSS(0-1)            1 1/3   1   2   2   1   0   0  13.50  C5 D1
+D.Hudson                     0 1/3   1   2   2   0   0   0  54.00  D2 D4
+A.Ramos                      1       0   0   0   1   1   0   0.00  D5
+[1]Totals                    8       5   6   6   5   6   0
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Carrasco                   6 2/3   2   2   2   2   8   1   2.70  A1 C7
+D.Farquhar WIN(1-0)          1       0   0   0   0   2   0   0.00  C8 D1
+B.Morrow HOLD(1st)           1       2   0   0   0   1   0   0.00  D2 D6
+K.Jansen                     0 1/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       4   2   2   2  11   1
+
+ATTENDANCE- 52,471 DATE- Wednesday, October 3rd 2018 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:32
+LEFT ON BASE- Mets: 5  Dodgers: 5
+DOUBLE PLAYS- Mets: 1  Dodgers: 2
+DOUBLES- W.Flores(1st), C.Bellinger(1st), T.La Stella(1st)
+HOME RUNS- J.Reyes(1st)
+RBIs- J.Reyes(1st), J.Lamb(1st), J.Turner-2(2nd), T.La Stella(1st)
+STOLEN BASES- C.Taylor(1st)
+SACRIFICE HITS- A.Presley, G.Parra, J.Reddick
+WALKS- J.Lamb, B.Zobrist, Y.Puig, C.Bellinger, E.Encarnacion, C.Taylor-2
+HIT BY PITCH- J.Lamb, J.Turner, A.Barnes
+STRIKE OUTS- A.Presley-2, J.Reyes, J.Lamb, A.McCutchen-2, Y.Alonso,
+             W.Castillo-2, B.Zobrist, G.Parra, Y.Puig, C.Bellinger, J.Turner,
+             J.Reddick, C.Seager, A.Barnes
+GIDP- A.McCutchen, N.Walker, D.Murphy
+WILD PITCHES- J.Degrom, B.Brach, A.Ramos-2
+RLISP 2-out- Y.Alonso-2, Y.Puig, A.Barnes, J.Lamb, C.Taylor
+TEAM RISP- Mets: 0 for 4  Dodgers: 1 for 7
+
+At Dodger Stadium the Los Angeles(NL) Dodgers outdistanced the New York (NL)
+Mets by a final score of 6 to 2.
+
+Danny Farquhar(1-0) won the game with a masterful relief performance.  No one
+got on base in his perfect 1 inning.  Los Angeles(NL) had just 5 hits for the
+night.  
+
+Brad Brach(0-1) was tagged with the loss in relief.  He surrendered 1 hit and
+1 walk in 1 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2018 New York (NL) Mets at 2018 Los Angeles(NL) Dodgers
+A.Presle-A1  A1:F/7     B1:Sac+FC  C1:K       D1:K
+                        >23 12 b1             
+                                              
+J.Reyes-A1   A2:HR>b#   B2:K       C2:P/6     D2:Do
+W.Flores-D2                                   
+A.Rosari-D4                                   
+J.Lamb-A1    A3:F/7     B3:W>3# 2  *6*:HBP    D3:K
+                        3 12 b1               
+                                              
+A.McCutc-A1  A4:K       B4:K       C4:G-DP/6  *9*:G/3
+                                   43>1o      
+                                              
+Y.Alonso-A1  *2*:Si     B5:G/43    C5:K       D5:Si
+                                              
+                                              
+N.Walker-A1  A6:G-DP/1  *4*:F/9    *7*:L/4    D6:F/9
+             63>1o                            
+                                              
+W.Castil-A1  A7:K       B7:K       C7:G/13    D7:P/6
+C.Grande-D7                                   
+                                              
+B.Zobris-A1  *3*:W>b1   B8:K       C8:G/31
+                                   
+                                   
+G.Parra-A1   A9:Sac+FC  *5*:G/63   *8*:K
+             >12 b1                
+                                   
+
+D.Murphy-A1  A1:G/43    B1:G-DP/6  *6*:Si     D1:WP>3#
+                        43>23 1o              L/4
+                                              
+Y.Puig-A1    A2:K       B2:G/53    C2:W>12 b  D2:L/6
+                                   1          
+                                              
+C.Bellin-A1  A3:W>b1    *4*:G/31   C3:K       *8*:Do
+                                              
+                                              
+J.Turner-A1  A4:K       B4:L/6     C4:WP>23   D4:HBP
+                                   12 Si>3#   
+                                   2#         
+J.Reddic-A1  *2*:G/63   B5:K       C5:P/6     D5:Sac/34
+                                              >23 12
+                                              
+E.Encarn-A1  A6:L/6     *5*:G/63   C6:G/13    D6:IW>b1
+                                              
+                                              
+C.Seager-A1  A7:G/13    B7:G/43    *7*:L/4    D7:WP>3#
+                                              23 12 WP>
+                                              3# 23 K
+C.Taylor-A1  *3*:Si     B8:W>b1    C8:W>b1    D8:F/7
+                                              
+                                              
+A.Barnes-A1  A9:HBP>12  B9:SB>12   C9:Do>1#
+T.La Ste-C9             K          
+Y.Granda-D3                        
+
+

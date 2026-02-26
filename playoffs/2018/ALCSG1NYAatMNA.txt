@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2018 New York (AL) Yankees At 2018 Minnesota Twins       10/13/2018
+
+[1]  Yankees            AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  B.Gardner LF        5  2  1  0 .111     D.Span DH           5  0  1  0 .100  
+  G.Springer CF       5  1  1  0 .233     B.Dozier 2B         4  0  0  0 .125  
+  R.Cano 2B           4  2  2  3 .348     J.Bruce RF          4  0  1  0 .292  
+  A.Judge RF          5  3  4  5 .346     E.Rosario LF        4  0  0  0 .174  
+  J.Martinez DH       3  1  2  1 .522     S.Vogt C            2  0  0  0 .000  
+C-J.Ellsbury PH,DH    2  0  1  0 .250   E-R.Grichuk PH        1  0  0  0 .000  
+  Z.Cozart SS         1  0  0  1 .500   F-E.Gattis C          0  0  0  0 .333  
+D-R.Torreyes PH,SS    2  0  0  0 .125   I-M.Sano PH           1  0  0  0 .273  
+  E.Thames 1B         3  1  0  0 .353     T.Frazier 3B        2  0  1  0 .111  
+  C.Headley 3B        5  0  1  0 .333     J.Mauer 1B          4  1  1  0 .238  
+  B.McCann C          3  2  2  0 .500     B.Buxton CF         4  1  4  0 .250  
+G-G.Bird PH           0  0  0  1 .000     A.Hechavarria SS    1  0  0  0 .231  
+H-C.Rupp C            0  0  0  0 .000   A-R.Grossman PH       0  0  0  0 .000  
+                                        B-J.Mercer SS         1  0  1  1 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38 12 14 11                 Totals      33  2  9  1
+
+A-Pinch Hit For Hechavarria In 5th Inning
+B-Subbed Defensively (SS) For Grossman In 6th Inning
+C-Pinch Hit For Martinez In 6th Inning
+D-Pinch Hit For Cozart In 6th Inning
+E-Pinch Hit For Vogt In 6th Inning
+F-Subbed Defensively (C ) For Grichuk In 7th Inning
+G-Pinch Hit For McCann In 9th Inning
+H-Subbed Defensively (C ) For Bird In 9th Inning
+I-Pinch Hit For Gattis In 9th Inning
+
+Yankees......... 0 0 0  3 3 4  0 1 1  - 12 14  0
+Twins........... 0 0 0  0 1 0  0 0 1  -  2  9  0
+
+[1]Yankees (5-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Severino WIN(3-0)          8 2/3   9   2   2   3  10   0   1.57  A1 D9
+S.Oh                         0 1/3   0   0   0   0   0   0   6.00  E1
+[1]Totals                    9       9   2   2   3  10   0
+
+[1]Twins (4-2)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana LOSS(1-1)          4       6   6   6   1   3   1   4.26  A1 C2
+D.Coulombe                   0       0   0   0   1   0   0   0.00  C3 C3
+J.Berrios                    1 2/3   2   2   2   1   3   0   6.23  C4 D2
+J.McGee                      0       3   2   2   0   0   1   ----  D3 D5
+H.Rondon                     2 2/3   3   2   2   2   1   1   6.75  D6 E8
+B.Kintzler                   0 2/3   0   0   0   0   0   0   3.00  E9
+[1]Totals                    9      14  12  12   5   7   3
+
+ATTENDANCE- 38,734 DATE- Saturday, October 13th 2018 TIME- Night 
+UMPIRES- Doug Eddings, Marvin Hudson, Cory Blaser, Jim Joyce
+T- 3:03
+LEFT ON BASE- Yankees: 7  Twins: 8
+DOUBLE PLAYS- Yankees: 3  Twins: 1
+DOUBLES- J.Martinez-2(4th), B.McCann(1st), J.Bruce(2nd), T.Frazier(1st),
+         B.Buxton(2nd)
+HOME RUNS- R.Cano(2nd), A.Judge-2(4th)
+RBIs- R.Cano-3(4th), A.Judge-5(12th), J.Martinez(6th), Z.Cozart(17th),
+      G.Bird(1st), J.Mercer(1st)
+SACRIFICE FLIES- Z.Cozart, G.Bird
+WALKS- R.Cano, Z.Cozart, E.Thames-2, B.McCann, T.Frazier, R.Grossman, J.Mercer
+HIT BY PITCH- B.Gardner, T.Frazier
+STRIKE OUTS- G.Springer, A.Judge, J.Ellsbury, E.Thames-2, C.Headley-2,
+             B.Dozier-2, J.Bruce, E.Rosario-2, S.Vogt-2, R.Grichuk, T.Frazier,
+             J.Mauer
+GIDP- C.Headley, D.Span, J.Mauer-2
+WILD PITCHES- L.Severino, E.Santana
+2-out RBI- R.Cano, A.Judge-4, J.Mercer
+RLISP 2-out- E.Rosario, C.Headley, A.Hechavarria, E.Thames-2, B.Gardner,
+             D.Span-2
+TEAM RISP- Yankees: 4 for 11  Twins: 2 for 8
+
+Aaron Judge rocketed 2 homeruns and had 5 RBI and Luis Severino dominated
+striking out 10 Minnesota batters at Target Field as the New York (AL)
+Yankees belted the Minnesota Twins by the count of 12 to 2.
+
+Judge had a great evening at the plate.  He hit a single in the 4th inning,
+stroked a base-hit plating a run in the 5th inning, clubbed a three-run home
+run in the 6th inning and delivered a solo blast in the 8th inning.
+Minnesota was out-hit by New York (AL), 14 hits to 9.  
+
+Severino(3-0) got the win allowing 2 runs in 8 and 2/3 innings. Ervin
+Santana(1-1) was the loser.  He was knocked around, surrendering 6 runs in 4
+innings.  
+
+'He was really impressive tonight,' Santana said of his counterpart.  'Our
+guys were just swinging at air.'
+[2]
+[1]SCORESHEET: 2018 New York (AL) Yankees at 2018 Minnesota Twins
+B.Gardne-A1  A1:L/3     B1:F/8     C1:HBP>12  D1:Si>13   E1:G/43    F1:F/7
+                                                                    
+                                                                    
+G.Spring-A1  A2:G/43    B2:G/63    C2:Si>23   D2:K       *8*:G/63
+                                   12                    
+                                                         
+R.Cano-A1    A3:G/3     *4*:HR>b#  C3:W>3# 2  D3:Si>3#   E3:G/63
+                                   3 12 b1    12         
+                                                         
+A.Judge-A1   *2*:K      B4:Si      C4:Si>3#   D4:HR>2#   E4:HR>b#
+                                   23 12      1# b#      
+                                                         
+J.Martin-A1  A5:Do      B5:Do>13   C5:G/3>3#  D5:Si      E5:K
+J.Ellsbu-D5                        23 12                 
+                                                         
+Z.Cozart-A1  A6:W>b1    B6:WP>3#   C6:L/5     D6:G/31    *9*:FO/5
+R.Torrey-D6             23 SF/7>3                        
+                        #                                
+E.Thames-A1  A7:K       B7:P/6     C7:K       *7*:W>b1   E7:W>b1
+                                                         
+                                                         
+C.Headle-A1  A8:K       B8:F/8     *6*:K      D8:G-DP/5  E8:Si>13
+                                              43>1o      
+                                                         
+B.McCann-A1  *3*:G/43   *5*:Si     C9:W>b1    D9:Do      E9:SF/9>3
+G.Bird-E9                                                #
+C.Rupp-F2                                                
+
+D.Span-A1    A1:G/3     *3*:Si     C1:G-DP/6  D1:F/8     E1:F/7
+                                   43>23 1o              
+                                                         
+B.Dozier-A1  A2:K       B2:F/7     C2:WP>3#   *8*:L/6
+                                   K          
+                                              
+J.Bruce-A1   A3:Do      B3:K       *6*:P/5    D3:F/9
+                                              
+                                              
+E.Rosari-A1  A4:K       B4:K       C4:G/63    D4:G/43
+                                              
+                                              
+S.Vogt-A1    *2*:K      *4*:K      C5:K       *9*:G/53
+R.Grichu-C5                                   
+E.Gattis-C6+                                  
+T.Frazie-A1  A6:Do      B6:W>b1    *7*:HBP    D6:K
+                                              
+                                              
+J.Mauer-A1   A7:K       B7:G-DP/6  C7:G-DP/6  D7:Si
+                        43>1o      43>1o      
+                                              
+B.Buxton-A1  A8:Si>23   *5*:Si     C8:Do      D8:Si>13
+                                              
+                                              
+A.Hechav-A1  A9:G/13    B9:W>12 b  C9:W>b1    D9:Si>3#
+R.Grossm-B9             1                     12
+J.Mercer-C3                                   
+
+

@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2018 Chicago (NL) Cubs At 2018 Philadelphia Phillies      10/4/2018
+
+[1]  Cubs               AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  A.Almora Jr CF      5  0  0  0 .111     C.Hernandez 2B      5  1  3  0 .444  
+  J.Baez 2B,SS        5  1  3  0 .556     M.Haniger RF        3  1  1  2 .333  
+  D.Peralta LF        2  1  0  0 .000     N.Cruz DH           5  0  1  0 .286  
+  K.Bryant 3B         4  0  2  1 .429     G.Sanchez C         4  2  1  2 .250  
+  R.Zimmerman 1B      4  0  0  1 .250     M.Gonzalez LF       5  2  4  3 .444  
+  W.Contreras C       3  0  1  0 .286   H-A.Altherr LF        0  0  0  0 .000  
+  K.Schwarber DH      1  0  0  0 .250     Y.Gurriel 1B        4  1  1  0 .333  
+A-S.Castro PH,DH      2  0  1  0 .500     O.Herrera CF        4  0  2  2 .500  
+  A.Russell SS        2  0  0  0 .000     C.Correa SS         3  1  1  0 .250  
+B-N.Hundley PH        0  0  0  0 ----     Y.Sanchez 3B        1  1  1  0 .500  
+C-I.Happ PH,2B        2  0  0  0 .000   D-J.Alfaro PH         1  0  1  11.000  
+  J.Heyward RF        3  0  0  0 .000   E-P.Valaika 3B        0  0  0  01.000  
+I-E.Adrianza PH       1  0  0  0 .000   F-N.Williams PH       0  1  0  0 .000  
+                                        G-J.Crawford 3B       0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  7  2                 Totals      35 10 16 10
+
+A-Pinch Hit For Schwarber In 6th Inning
+B-Pinch Hit For Russell In 6th Inning
+C-Pinch Hit For Hundley In 6th Inning
+D-Pinch Hit For Sanchez In 6th Inning
+E-Subbed Defensively (3B) For Alfaro In 7th Inning
+F-Pinch Hit For Valaika In 8th Inning
+G-Subbed Defensively (3B) For Williams In 9th Inning
+H-Subbed Defensively (LF) For Gonzalez In 9th Inning
+I-Pinch Hit For Heyward In 9th Inning
+
+Cubs............ 2 0 0  0 0 0  0 0 0  -  2  7  0
+Phillies........ 0 1 1  1 1 2  0 4    - 10 16  0
+
+[1]Cubs (0-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Hendricks LOSS(0-1)        5      12   6   6   0   2   1  10.80  A1 C7
+P.Strop                      1 2/3   2   0   0   2   1   0   0.00  C8 D6
+T.Lyons                      0 1/3   0   0   0   0   1   0   0.00  D7 D7
+T.Clippard                   0 2/3   1   4   4   2   1   0  54.00  D8 E4
+J.Wilson                     0 1/3   1   0   0   0   1   0   0.00  E5
+[1]Totals                    8      16  10  10   4   6   1
+
+[1]Phillies (2-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cobb WIN(1-0)              5 2/3   3   2   2   4   3   0   3.18  A1 C6
+A.Miller                     0       1   0   0   0   0   0   ----  C7 C7
+P.Neshek HOLD(1st)           1 2/3   2   0   0   1   0   0   0.00  C8 D6
+D.Barnes                     1 2/3   1   0   0   0   0   0   0.00  D7
+[1]Totals                    9       7   2   2   5   3   0
+
+ATTENDANCE- 43,245 DATE- Thursday, October 4th 2018 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 3:23
+LEFT ON BASE- Cubs:10  Phillies: 8
+DOUBLE PLAYS- Cubs: 2  Phillies: 0
+DOUBLES- M.Gonzalez(1st)
+HOME RUNS- G.Sanchez(1st)
+RBIs- K.Bryant(1st), R.Zimmerman(1st), M.Haniger-2(2nd), G.Sanchez-2(2nd),
+      M.Gonzalez-3(3rd), O.Herrera-2(2nd), J.Alfaro(1st)
+SACRIFICE HITS- Y.Sanchez
+SACRIFICE FLIES- M.Haniger
+WALKS- D.Peralta-3, W.Contreras, K.Schwarber, M.Haniger, G.Sanchez, Y.Gurriel,
+       C.Correa
+HIT BY PITCH- N.Williams
+STRIKE OUTS- J.Baez, R.Zimmerman, K.Schwarber, M.Haniger, N.Cruz-3, Y.Gurriel,
+             O.Herrera
+GIDP- M.Haniger, G.Sanchez
+2-out RBI- G.Sanchez, M.Gonzalez-3
+RLISP 2-out- W.Contreras, G.Sanchez, I.Happ-2, K.Bryant, O.Herrera, Y.Gurriel
+TEAM RISP- Cubs: 2 for 6  Phillies: 6 for 14
+
+Left fielder Marwin Gonzalez had 4 hits and 3 RBI as the Philadelphia Phillies
+defeated the Chicago (NL) Cubs 10 to 2 at Citizens Bank Park.
+
+Chicago (NL) was unable to claim the lead after Philadelphia went ahead in the
+4th inning plating one baserunner on 2 hits.  Gonzalez lined a one-base hit.
+After an out was recorded, Odubel Herrera came to bat and singled scoring the
+run.  Philadelphia dominated offensively as they scored in 6 different
+innings.  
+
+Alex Cobb(1-0) allowed 2 runs in 5 and 2/3 innings, and picked up the victory.
+Kyle Hendricks(0-1) took the loss.  He was knocked around pretty good, giving
+up 6 runs in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2018 Chicago (NL) Cubs at 2018 Philadelphia Phillies
+A.Almora-A1  A1:G/63    B1:F/9     C1:G/63    D1:G/63    E1:L/6
+                                                         
+                                                         
+J.Baez-A1    A2:Si      *3*:K      C2:G/43    D2:Si      E2:Si
+                                                         
+                                                         
+D.Peralt-A1  A3:W>12 b  B3:W>b1    *6*:F/9    D3:W>12 b  E3:G/43
+             1                                1          
+                                                         
+K.Bryant-A1  A4:Si>2#   B4:F/9     C4:Si      D4:F/7
+             13                               
+                                              
+R.Zimmer-A1  A5:G/43>3  B5:G/63    C5:K       *8*:L/6
+             # 12                             
+                                              
+W.Contre-A1  A6:G/63    *4*:G/53   C6:W>12 b  D6:Si
+                                   1          
+                                              
+K.Schwar-A1  *2*:W>b1   B7:K       C7:Si>23   D7:L/5
+S.Castro-C7                        12         
+                                              
+A.Russel-A1  A8:L/6     B8:G/63    C8:F/9     D8:F/7
+N.Hundle-C8                                   
+I.Happ-C8                                     
+J.Heywar-A1  A9:F/7     *5*:F/8    *7*:G/3    *9*:P/4
+E.Adrian-D9                                   
+                                              
+
+C.Hernan-A1  A1:F/8     B1:Si>23   C1:Si>13   D1:L/4     E1:Si>12
+                                                         
+                                                         
+M.Hanige-A1  A2:K       B2:Si>3#   C2:SF/8>3  D2:G-DP/5  E2:W>23 1
+                        13         #          43>1o      2 b1
+                                                         
+N.Cruz-A1    A3:F/7     B3:K       C3:Si>13   *7*:K      E3:K
+                                                         
+                                                         
+G.Sanche-A1  *2*:HR>b#  B4:F/9     C4:G-DP/6  D4:L/6     E4:W>3# 2
+                                   43>1o                 3 12 b1
+                                                         
+M.Gonzal-A1  A5:G/43    *4*:Si     *6*:Si     D5:Si      E5:Do>3#
+A.Alther-E7                                              2# 1#
+                                                         
+Y.Gurrie-A1  A6:L/6     B6:G/43>1  C6:Si>12   D6:W>12 b  E6:K
+                        2                     1          
+                                                         
+O.Herrer-A1  A7:G/63    B7:Si>2#   C7:Si>2#   D7:K
+                                   13         
+                                              
+C.Correa-A1  *3*:Si     B8:G/31    C8:W>12 b  *8*:G/53
+                                   1          
+                                              
+Y.Sanche-A1  A9:Sac/24  *5*:Si     C9:Si>3#   D9:HBP
+J.Alfaro-C9  >12                   23 12      
+P.Valaik-D3+                                  
+
+

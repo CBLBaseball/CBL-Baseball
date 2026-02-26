@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2018 Philadelphia Phillies At 2018 Los Angeles(NL) Dodge 10/18/2018
+
+[1]  Phillies           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  C.Hernandez 2B      3  0  1  0 .294     D.Murphy 2B         4  1  2  0 .282  
+  A.Altherr LF        4  0  0  0 .105     Y.Puig RF           4  2  2  2 .162  
+  M.Haniger RF        4  0  0  0 .167     C.Bellinger 1B      4  0  1  0 .139  
+  N.Cruz DH           4  0  0  0 .278     C.Taylor CF         2  1  1  2 .281  
+  G.Sanchez C         4  0  0  0 .235     C.Rasmus LF         3  0  0  0 .100  
+  C.Correa SS         3  1  1  0 .250   A-J.Reddick PH,LF     1  0  0  0 .296  
+  Y.Gurriel 1B        3  0  0  0 .231     E.Encarnacion DH    3  0  0  0 .094  
+  O.Herrera CF        3  1  1  1 .314     C.Seager SS         3  0  1  0 .176  
+  Y.Sanchez 3B        3  0  1  1 .278     J.Turner 3B         3  0  1  0 .294  
+                                          Y.Grandal C         3  0  0  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  4  2                 Totals      30  4  8  4
+
+A-Pinch Hit For Rasmus In 8th Inning
+
+Phillies........ 0 2 0  0 0 0  0 0 0  -  2  4  0
+Dodgers......... 0 0 1  0 0 1  2 0    -  4  8  0
+
+[1]Phillies (7-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kluber LOSS(2-1)           8       8   4   4   2  11   2   3.12  A1
+[1]Totals                    8       8   4   4   2  11   2
+
+[1]Dodgers (6-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.McCarthy                   1 2/3   4   2   2   1   1   0  13.50  A1 B1
+K.Jansen                     3 1/3   0   0   0   0   3   0   1.93  B2 C2
+L.Garcia                     1 2/3   0   0   0   0   3   0   2.57  C3 C7
+D.Farquhar WIN(2-0)          1       0   0   0   0   3   0   0.00  C8 D1
+G.Infante HOLD(1st)          0 1/3   0   0   0   0   1   0   0.00  D2 D2
+B.Morrow SAVE(3rd)           1       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       4   2   2   1  12   0
+
+ATTENDANCE- 53,463 DATE- Thursday, October 18th 2018 TIME- Night 
+UMPIRES- Tony Randazzo, Jim Wolf, David Rackley, Brian Gorman
+T- 2:30
+LEFT ON BASE- Phillies: 3  Dodgers: 5
+DOUBLE PLAYS- Phillies: 1  Dodgers: 0
+DOUBLES- O.Herrera(5th), Y.Sanchez(2nd), Y.Puig(1st)
+HOME RUNS- Y.Puig(1st), C.Taylor(1st)
+RBIs- O.Herrera(4th), Y.Sanchez(1st), Y.Puig-2(2nd), C.Taylor-2(4th)
+STOLEN BASES- C.Hernandez(1st)
+SACRIFICE FLIES- C.Taylor
+WALKS- C.Hernandez, C.Taylor, E.Encarnacion
+STRIKE OUTS- C.Hernandez-2, A.Altherr-3, N.Cruz-2, G.Sanchez-2, Y.Gurriel,
+             O.Herrera, Y.Sanchez, Y.Puig, C.Bellinger, C.Taylor, C.Rasmus-2,
+             J.Reddick, E.Encarnacion-2, J.Turner, Y.Grandal-2
+GIDP- C.Seager
+WILD PITCHES- C.Kluber-3
+2-out RBI- O.Herrera, Y.Sanchez, Y.Puig-2
+RLISP 2-out- N.Cruz, C.Rasmus, A.Altherr, Y.Grandal
+TEAM RISP- Phillies: 1 for 5  Dodgers: 1 for 5
+
+Yasiel Puig went deep and had 2 RBI and Kenley Jansen had an impressive outing
+as the Los Angeles(NL) Dodgers defeated the Philadelphia Phillies 4 to 2 at
+Dodger Stadium.
+
+Los Angeles(NL) scored 2 runs in the 7th inning.  After two were out Daniel
+Murphy initiated the scoring spurt when he laced a single.  Puig stepped into
+the batter's box and he smashed a two-run homer.  Brandon Morrow was perfect
+in relief and gained credit for his 3rd save.  
+
+Danny Farquhar(2-0) was the winner allowing no runs in 1 inning. The losing
+pitcher was Corey Kluber(2-1).  By giving up 4 runs in 8 innings his ERA
+increased from 2.50 to 3.12.  
+
+[2]
+[1]SCORESHEET: 2018 Philadelphia Phillies at 2018 Los Angeles(NL) Dodgers
+C.Hernan-A1  A1:Si      B1:W>b1    C1:K       D1:K
+                                              
+                                              
+A.Alther-A1  A2:SB>12   B2:G/13    C2:K       D2:K
+             K                                
+                                              
+M.Hanige-A1  A3:G/43>2  *3*:L/6    *6*:G/63   *9*:L/6
+             3                                
+                                              
+N.Cruz-A1    A4:G/53    B4:K       C4:K       D4:G/63
+                                              
+                                              
+G.Sanche-A1  *2*:L/6    B5:G/63    C5:K       D5:K
+                                              
+                                              
+C.Correa-A1  A6:Si      *4*:G/3    *7*:F/8
+                                   
+                                   
+Y.Gurrie-A1  A7:F/9     B7:P/6     C7:K
+                                   
+                                   
+O.Herrer-A1  A8:Do>1#   B8:F/7     C8:K
+                                   
+                                   
+Y.Sanche-A1  A9:Do>3#   *5*:G/43   *8*:K
+                                   
+                                   
+
+D.Murphy-A1  A1:Si      *3*:L/6    *5*:F/9    D1:Si
+                                              
+                                              
+Y.Puig-A1    A2:WP>12   B2:Do      C2:L/6     D2:HR>1#
+             K                                b#
+                                              
+C.Bellin-A1  A3:K       B3:Si>23   C3:F/7     D3:F/8
+                                              
+                                              
+C.Taylor-A1  A4:W>b1    B4:SF/7>3  *6*:HR>b#  *8*:K
+                        #                     
+                                              
+C.Rasmus-A1  A5:K       B5:G/43    C5:K       D5:K
+J.Reddic-D5                                   
+                                              
+E.Encarn-A1  *2*:G/43   *4*:K      C6:W>b1    D6:K
+                                              
+                                              
+C.Seager-A1  A7:Si      B7:L/4     C7:G-DP/3
+                                   63>1o
+                                   
+J.Turner-A1  A8:Force/  B8:Si      *7*:K
+             54>1o b1              
+                                   
+Y.Granda-A1  A9:K       B9:WP>12   C9:G/53
+                        WP>23 K    
+                                   
+
+

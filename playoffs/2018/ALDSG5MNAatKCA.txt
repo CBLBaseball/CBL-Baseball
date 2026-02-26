@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2018 Minnesota Twins At 2018 Kansas City Royals           10/8/2018
+
+[1]  Twins              AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  B.Dozier 2B         3  1  1  1 .150     L.Cain CF           4  0  0  0 .053  
+  D.Span DH           3  0  0  0 .000     A.Escobar SS        4  0  0  0 .333  
+  E.Gattis C          3  0  1  1 .333     A.Rizzo 1B          3  1  2  1 .118  
+B-R.Grossman PH       1  0  0  0 .000     E.Nunez DH          4  0  2  0 .368  
+C-R.Chirinos C        0  0  0  0 .273     W.Merrifield 2B     2  0  0  0 .222  
+  J.Bruce RF          4  1  1  1 .300     J.Parker C          2  0  0  0 .000  
+  T.Frazier 3B        4  0  0  0 .063   A-J.Bonifacio PH,C    2  0  0  0 .000  
+  E.Rosario LF        4  0  1  0 .211     M.Moustakas 3B      4  0  0  0 .235  
+  B.Buxton CF         4  0  0  0 .063     G.Hernandez RF      4  0  1  0 .100  
+  J.Mauer 1B          3  0  1  0 .235     A.Gordon LF         1  0  0  0 .250  
+  A.Hechavarria SS    2  1  1  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  6  3                 Totals      30  1  5  1
+
+A-Pinch Hit For Parker In 6th Inning
+B-Pinch Hit For Gattis In 8th Inning
+C-Subbed Defensively (C ) For Grossman In 8th Inning
+
+Twins........... 1 0 0  0 0 0  0 1 1  -  3  6  2
+Royals.......... 0 0 0  0 0 1  0 0 0  -  1  5  1
+
+[1]Twins (4-1)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Gonzalez                   4 1/3   3   0   0   2   4   0   4.32  A1 B9
+J.Berrios                    1       2   1   1   0   1   1   3.38  C1 C5
+D.Coulombe                   0 2/3   0   0   0   0   0   0   0.00  C6 C7
+F.Rodney WIN(1-0)            3       0   0   0   2   2   0   0.00  C8
+[1]Totals                    9       5   1   1   4   7   1
+
+[1]Royals (1-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Greinke LOSS(0-1)          9       6   3   3   0  10   1   2.40  A1
+[1]Totals                    9       6   3   3   0  10   1
+
+ATTENDANCE- 38,009 DATE- Monday, October 8th 2018 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:32
+LEFT ON BASE- Twins: 4  Royals: 7
+DOUBLE PLAYS- Twins: 2  Royals: 0
+ERRORS- E.Gattis-2, M.Moustakas
+DOUBLES- E.Rosario(3rd), E.Nunez(2nd)
+TRIPLES- B.Dozier(1st)
+HOME RUNS- J.Bruce(2nd), A.Rizzo(1st)
+RBIs- B.Dozier(1st), E.Gattis(1st), J.Bruce(3rd), A.Rizzo(1st)
+STOLEN BASES- B.Dozier(1st), E.Nunez(2nd), W.Merrifield(1st), J.Parker(1st),
+              G.Hernandez(1st), A.Gordon(1st)
+SACRIFICE HITS- D.Span, A.Hechavarria
+WALKS- A.Rizzo, W.Merrifield-2, A.Gordon
+HIT BY PITCH- B.Dozier, A.Gordon
+STRIKE OUTS- R.Grossman, J.Bruce-2, E.Rosario-2, B.Buxton-4, A.Hechavarria,
+             L.Cain-2, M.Moustakas-2, G.Hernandez-2, A.Gordon
+GIDP- E.Nunez, J.Parker
+WILD PITCHES- Z.Greinke
+PASSED BALLS- E.Gattis
+RLISP 2-out- M.Moustakas-2, D.Span, E.Rosario, A.Escobar-3, B.Buxton,
+             R.Grossman
+TEAM RISP- Twins: 1 for 10  Royals: 0 for 10
+
+In a tight game it was the Minnesota Twins 3, the Kansas City Royals 1 at
+Kauffman Stadium.
+
+The game was won by Minnesota when they scored a run in the top of the 8th
+inning.  After an out was recorded, Adeiny Hechavarria laced a base-hit.
+Zack Greinke then let loose a wild pitch.  Brian Dozier then tripled scoring
+the run.  The Kansas City batters didn't put up a fight in the bottom of the
+9th.  
+
+Fernando Rodney(1-0) was the winner allowing no runs in 3 innings. The losing
+pitcher was Greinke(0-1).  He pitched 9 innings allowing only 6 hits and no
+walks.
+
+[2]
+[1]SCORESHEET: 2018 Minnesota Twins at 2018 Kansas City Royals
+B.Dozier-A1  A1:HBP     B1:G/3>23  *6*:P/3    D1:WP>12
+                                              Tr>2#
+                                              
+D.Span-A1    A2:SB>12   B2:F/8     C2:G/63    D2:G/43
+             Sac/24>23                        
+                                              
+E.Gattis-A1  A3:G/43>3  *4*:Si+E/  C3:P/6     D3:K
+R.Grossm-D3  #          5                     
+R.Chirin-D4                                   
+J.Bruce-A1   A4:G/43    B4:K       *7*:K      *9*:HR>b#
+                                              
+                                              
+T.Frazie-A1  *2*:G/43   B5:G/13    C5:G/53    D5:F/8
+                                              
+                                              
+E.Rosari-A1  A6:K       B6:F/8     C6:Do      D6:K
+                                              
+                                              
+B.Buxton-A1  A7:K       *5*:K      C7:K       D7:K
+                                              
+                                              
+J.Mauer-A1   *3*:Si     B8:G/43    *8*:G/43
+                                   
+                                   
+A.Hechav-A1  A9:Sac/24  B9:K       C9:Si
+             >12                   
+                                   
+
+L.Cain-A1    A1:K       B1:G/53    C1:PB>23   D1:SB>12
+                                   12 K       F/7
+                                              
+A.Escoba-A1  A2:F/9     *4*:F/7    C2:G/63    D2:F/7
+                                              
+                                              
+A.Rizzo-A1   A3:G/43    B3:Si      *6*:HR>b#  *8*:W>b1
+                                              
+                                              
+E.Nunez-A1   *2*:L/6    B4:Do>13   C4:Si      D4:G-DP/5
+                                              43>1o
+                                              
+W.Merrif-A1  A5:W>b1    B5:IW>b1   C5:SB>12   D5:F/8
+                                   G/3>23     
+                                              
+J.Parker-A1  A6:SB+E/2  B6:G-DP/3  C6:F/8     *9*:F/7
+J.Bonifa-C6  >13 FC/32  63>1o                 
+             >3o                              
+M.Mousta-A1  A7:SB+E/2  *5*:F/8    C7:F/8     D7:K
+             2>13 K                           
+                                              
+G.Hernan-A1  *3*:K      B8:Si      *7*:G/63   D8:K
+                                              
+                                              
+A.Gordon-A1  A9:K       B9:SB>12   C9:W>b1
+                        HBP        
+                                   
+
+

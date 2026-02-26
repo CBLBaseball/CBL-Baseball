@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2018 Los Angeles(NL) Dodgers At 2018 Philadelphia Philli 10/21/2018
+
+[1]  Dodgers            AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  D.Murphy 2B         4  0  1  0 .292     O.Herrera CF        5  1  4  0 .395  
+  C.Rasmus DH         2  0  0  0 .083     C.Hernandez 2B      4  1  1  0 .279  
+B-E.Encarnacion PH,DH 2  1  1  1 .154     M.Gonzalez 1B       5  2  2  1 .275  
+  Y.Puig RF           4  0  1  0 .217     N.Cruz DH           5  1  2  3 .289  
+  C.Bellinger 1B      4  0  1  0 .182     N.Williams LF       2  1  1  1 .273  
+  J.Turner 3B         4  0  1  0 .302   A-A.Altherr LF        3  0  0  0 .091  
+  J.Reddick LF        1  0  0  0 .313     J.Alfaro C          4  1  1  2 .286  
+C-E.Hernandez PH,LF   1  0  0  0 .000   E-G.Sanchez PH,C      1  0  0  0 .222  
+F-T.La Stella PH      1  0  0  0 .400     C.Correa SS         3  1  2  1 .281  
+  C.Taylor CF         3  0  0  0 .250     J.Crawford 3B       3  0  2  0 .667  
+  C.Seager SS         3  0  0  0 .171   D-Y.Sanchez PH,3B     1  0  0  0 .273  
+  A.Barnes C          2  0  0  0 .278     M.Haniger RF        3  0  0  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      39  8 15  8
+
+A-Subbed Defensively (LF) For Williams In 3rd Inning
+B-Pinch Hit For Rasmus In 6th Inning
+C-Pinch Hit For Reddick In 6th Inning
+D-Pinch Hit For Crawford In 7th Inning
+E-Pinch Hit For Alfaro In 8th Inning
+F-Pinch Hit For Hernandez In 9th Inning
+
+Dodgers......... 0 0 0  0 0 0  0 1 0  -  1  5  0
+Phillies........ 6 0 0  0 0 0  0 2    -  8 15  0
+
+[1]Dodgers (7-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Carrasco LOSS(0-3)         0       2   2   2   0   0   0   4.39  A1 A2
+A.Wood                       3       8   4   4   0   3   2   2.16  A3 C1
+D.Farquhar                   0 2/3   0   0   0   0   2   0   0.00  C2 C3
+T.Olson                      1 1/3   2   0   0   0   0   0   3.00  C4 C9
+K.Jansen                     2 1/3   3   2   2   2   2   1   3.52  D1 E4
+L.Garcia                     0 2/3   0   0   0   0   1   0   2.35  E5
+[1]Totals                    8      15   8   8   2   8   3
+
+[1]Phillies (8-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Nola                       4 2/3   2   0   0   3   4   0   1.76  A1 B9
+A.Claudio                    1       2   0   0   0   0   0   1.29  C1 C5
+P.Neshek WIN(1-1)            1 2/3   0   0   0   0   2   0   0.93  C6 D1
+H.Neris                      1       1   1   1   0   1   1   3.38  D2 D5
+A.Miller                     0 2/3   0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       5   1   1   3   8   1
+
+ATTENDANCE- 43,366 DATE- Sunday, October 21st 2018 TIME- Night 
+UMPIRES- Chad Fairchild, Vic Carapazza, Bill Miller, Mike Everitt
+T- 2:47
+LEFT ON BASE- Dodgers: 6  Phillies:10
+DOUBLE PLAYS- Dodgers: 0  Phillies: 1
+DOUBLES- Y.Puig(2nd), M.Gonzalez-2(5th)
+HOME RUNS- E.Encarnacion(4th), N.Cruz(5th), J.Alfaro(1st), C.Correa(2nd)
+RBIs- E.Encarnacion(7th), M.Gonzalez(8th), N.Cruz-3(9th), N.Williams(2nd),
+      J.Alfaro-2(3rd), C.Correa(5th)
+WALKS- J.Reddick, C.Taylor, A.Barnes, C.Correa, M.Haniger
+HIT BY PITCH- C.Hernandez
+STRIKE OUTS- C.Rasmus, C.Bellinger-2, C.Taylor-2, C.Seager-2, A.Barnes,
+             O.Herrera, C.Hernandez, M.Gonzalez, N.Cruz, G.Sanchez, J.Crawford,
+             M.Haniger-2
+GIDP- C.Seager
+RLISP 2-out- C.Bellinger, C.Hernandez, A.Altherr-2, E.Hernandez, O.Herrera
+TEAM RISP- Dodgers: 0 for 3  Phillies: 3 for 10
+
+Nelson Cruz went deep and had 3 RBI at Citizens Bank Park where the
+Philadelphia Phillies beat the Los Angeles(NL) Dodgers by the score of 8 to
+1.
+
+Los Angeles(NL) fell behind quickly as the Philadelphia offense came through
+in the first inning scoring 6 runners on 8 hits.  The big moment was provided
+by Jorge Alfaro who made the crowd happy when he popped a two-run clout over
+the fence.  Philadelphia had 15 hits for the game and Los Angeles(NL) had 5.
+
+Pat Neshek(1-1) got the win allowing no runs in 1 and 2/3 innings. Carlos
+Carrasco(0-3) suffered the loss.  He allowed 2 runs and 2 hits without
+retiring a batter.  
+
+[2]
+[1]SCORESHEET: 2018 Los Angeles(NL) Dodgers at 2018 Philadelphia Phillies
+D.Murphy-A1  A1:G/13    B1:Si      C1:G/43    *8*:L/4
+                                              
+                                              
+C.Rasmus-A1  A2:K       B2:Force/  *6*:G/63   D2:HR>b#
+E.Encarn-C2             16>1o b1              
+                                              
+Y.Puig-A1    A3:Do      B3:G/63    C3:F/8     D3:G/63
+                                              
+                                              
+C.Bellin-A1  A4:F/7     *4*:K      C4:Si      D4:K
+                                              
+                                              
+J.Turner-A1  *2*:G/43   B5:F/8     C5:Si>12   *9*:F/9
+                                              
+                                              
+J.Reddic-A1  A6:W>b1    B6:G/43    C6:G/63    D6:G/31
+E.Hernan-C6                                   
+T.La Ste-D6                                   
+C.Taylor-A1  A7:W>12 b  *5*:K      *7*:P/2    D7:K
+             1                                
+                                              
+C.Seager-A1  A8:G-DP/4  B8:K       C8:K
+             63>1o                 
+                                   
+A.Barnes-A1  *3*:F/9    B9:W>b1    C9:K
+                                   
+                                   
+
+O.Herrer-A1  A1:Si      B1:Si>12   *4*:Si     *6*:Si     E1:K
+                                                         
+                                                         
+C.Hernan-A1  A2:Si>13   B2:Force/  C2:K       D2:HBP>12  *8*:L/4
+                        54>1o b1                         
+                                                         
+M.Gonzal-A1  A3:Do>3#   *2*:P/6    C3:K       D3:Force/  E3:Do
+             13                               36>23 1o   
+                                              b1         
+N.Cruz-A1    A4:G/43>3  B4:F/8     C4:Si>12   D4:K       E4:HR>2#
+             # 23                                        b#
+                                                         
+N.Willia-A1  A5:Si>3#   B5:G/13    C5:F/8     D5:G/13    E5:G/53
+A.Alther-B6                                              
+                                                         
+J.Alfaro-A1  A6:HR>1#   *3*:G/43   *5*:L/6    *7*:G/53   E6:K
+G.Sanche-E6  b#                                          
+                                                         
+C.Correa-A1  A7:HR>b#   B7:Si      C7:L/5     D7:W>b1
+                                              
+                                              
+J.Crawfo-A1  A8:Si      B8:K       C8:Si      D8:F/7
+Y.Sanche-D8                                   
+                                              
+M.Hanige-A1  A9:K       B9:K       C9:G/63    D9:W>12 b
+                                              1
+                                              
+
+

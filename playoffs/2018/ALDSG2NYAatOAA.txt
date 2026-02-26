@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2018 New York (AL) Yankees At 2018 Oakland Athletics      10/4/2018
+
+[1]  Yankees            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  B.Gardner LF        4  0  0  1 .111     D.Gordon 2B         4  1  1  0 .125  
+  G.Springer CF       5  1  2  0 .300     J.Donaldson 3B      3  0  0  0 .000  
+  R.Cano 2B           5  0  3  0 .400     P.Goldschmidt 1B    2  0  0  0 .000  
+  A.Judge RF          3  1  0  1 .250     M.Olson RF          1  0  0  0 .500  
+  J.Martinez DH       3  2  1  0 .500   A-J.Segura PH         1  0  0  0 .333  
+C-G.Bird PH,DH        1  0  0  0 .000   B-J.Bradley Jr CF     1  0  0  0 .000  
+  E.Thames 1B         4  2  2  0 .500     M.Joyce CF,RF       3  1  0  1 .000  
+  Z.Cozart SS         3  2  1  4 .667     Y.Cespedes LF       4  0  0  0 .000  
+D-R.Torreyes PH,SS    1  0  0  0 .000     J.Lowrie DH         3  0  1  0 .333  
+  C.Headley 3B        4  1  2  2 .286     M.Pina C            3  0  1  0 .333  
+  A.Knapp C           3  0  1  1 .333     B.Crawford SS       3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  9 12  9                 Totals      28  2  3  1
+
+A-Pinch Hit For Olson In 7th Inning
+B-Subbed Defensively (CF) For Segura In 8th Inning
+C-Pinch Hit For Martinez In 9th Inning
+D-Pinch Hit For Cozart In 9th Inning
+
+Yankees......... 0 4 0  0 0 3  1 1 0  -  9 12  0
+Athletics....... 0 0 0  0 1 0  0 0 1  -  2  3  0
+
+[1]Yankees (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Tanaka WIN(1-0)            7       2   1   1   3   6   0   1.29  A1 C6
+K.Herrera                    1       1   1   1   2   1   0   9.00  C7 D3
+C.Green                      1       0   0   0   0   1   0   0.00  D4
+[1]Totals                    9       3   2   2   5   8   0
+
+[1]Athletics (0-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Gray LOSS(0-1)             7       9   8   8   5   3   1  10.29  A1 D7
+D.Otero                      1       3   1   1   0   0   0   3.00  D8 E4
+T.Hunter                     1       0   0   0   0   1   0   4.50  E5
+[1]Totals                    9      12   9   9   5   4   1
+
+ATTENDANCE- 31,811 DATE- Thursday, October 4th 2018 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:32
+LEFT ON BASE- Yankees: 7  Athletics: 4
+DOUBLE PLAYS- Yankees: 2  Athletics: 1
+DOUBLES- R.Cano(1st), C.Headley(1st), J.Lowrie(1st)
+HOME RUNS- Z.Cozart(3rd)
+RBIs- B.Gardner(1st), A.Judge(3rd), Z.Cozart-4(9th), C.Headley-2(2nd),
+      A.Knapp(1st), M.Joyce(1st)
+SACRIFICE FLIES- A.Judge, A.Knapp
+WALKS- B.Gardner, A.Judge, J.Martinez, E.Thames, Z.Cozart, J.Donaldson,
+       P.Goldschmidt-2, M.Olson, M.Joyce
+STRIKE OUTS- R.Cano, J.Martinez, E.Thames, C.Headley, J.Donaldson-2,
+             P.Goldschmidt, M.Olson, J.Bradley Jr, M.Joyce, J.Lowrie,
+             B.Crawford
+GIDP- G.Springer, Y.Cespedes, B.Crawford
+WILD PITCHES- M.Tanaka, S.Gray-2
+RLISP 2-out- E.Thames, B.Crawford, Z.Cozart-2, A.Judge, Y.Cespedes-2
+TEAM RISP- Yankees: 2 for 9  Athletics: 0 for 5
+
+Third baseman Chase Headley had 2 base hits and 2 RBI at O.co Coliseum as the
+New York (AL) Yankees beat the Oakland Athletics 9 to 2.
+
+New York (AL) scored 4 runs in the top of the 2nd inning.  That early run
+support was all that Masahiro Tanaka(1-0) required.  New York (AL) had 12
+hits for the night while Oakland had 3.  
+
+Sonny Gray(0-1) was the loser.  He allowed New York (AL) 8 runs in 7 innings
+of work.
+[2]
+[1]SCORESHEET: 2018 New York (AL) Yankees at 2018 Oakland Athletics
+B.Gardne-A1  A1:W>b1    B1:Force/  C1:F/9     D1:F/8     E1:G/43>3
+                        36>1o b1                         #
+                                                         
+G.Spring-A1  A2:G-DP/5  B2:G/63    *5*:G/43   *7*:Si     E2:Si
+             43>1o                                       
+                                                         
+R.Cano-A1    A3:K       *3*:Do     C3:F/7     D3:Si>13   E3:Si>12
+                                                         
+                                                         
+A.Judge-A1   *2*:W>b1   B4:G/53    C4:G/63    D4:SF/7>3  E4:G/43
+                                              #          
+                                                         
+J.Martin-A1  A5:Si>12   B5:WP>23   *6*:W>b1   D5:F/8     *9*:G/3
+G.Bird-E5               K                                
+                                                         
+E.Thames-A1  A6:W>23 1  B6:F/7     C6:Si>12   D6:Si>12   E6:K
+             2 b1                                        
+                                                         
+Z.Cozart-A1  A7:W>3# 2  *4*:G/63   C7:HR>2#   D7:WP>23   E7:F/9
+R.Torrey-E7  3 12 b1               1# b#      12 G/43    
+                                                         
+C.Headle-A1  A8:Si>3#   B8:G/3     C8:K       *8*:Do
+             2# 13                            
+                                              
+A.Knapp-A1   A9:SF/7>3  B9:Si      C9:G/31    D9:F/9>23
+             #                                
+                                              
+
+D.Gordon-A1  A1:G/53    *4*:F/7    *6*:G/43   *9*:Si
+                                              
+                                              
+J.Donald-A1  A2:K       B2:K       C2:F/7     D2:W>12 b
+                                              1
+                                              
+P.Goldsc-A1  A3:K       B3:W>b1    C3:F/9     D3:W>23 1
+                                              2 b1
+                                              
+M.Olson-A1   *2*:W>b1   B4:K       *7*:F/8    D4:K
+J.Segura-C4                                   
+J.Bradle-C7                                   
+M.Joyce-A1   A5:K       *5*:W>b1   C5:G/43    D5:G/3>3#
+                                              23 12 
+                                              
+Y.Cesped-A1  A6:G-DP/6  B6:L/6     C6:G/63    D6:F/7
+             43>1o                            
+                                              
+J.Lowrie-A1  *3*:F/8    B7:Do>13   *8*:K
+                                   
+                                   
+M.Pina-A1    A8:Si      B8:G/53    C8:F/7
+                                   
+                                   
+B.Crawfo-A1  A9:G-DP/3  B9:WP>3#   C9:F/7
+             63>1o      23 K       
+                                   
+
+

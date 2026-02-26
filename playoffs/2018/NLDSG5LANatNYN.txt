@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2018 Los Angeles(NL) Dodgers At 2018 New York (NL) Mets   10/8/2018
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Murphy 2B         6  1  3  3 .273     A.Presley RF        4  0  1  0 .182  
+  Y.Puig RF           5  0  2  0 .158     J.Reyes SS          3  0  0  0 .231  
+  C.Bellinger 1B      4  1  1  1 .222     A.McCutchen CF      3  0  1  0 .235  
+  J.Turner 3B         6  0  0  0 .118     A.Cabrera 2B        4  0  0  0 .300  
+  J.Reddick LF        4  2  2  0 .313     T.D'Arnaud C        2  0  1  0 .250  
+  C.Rasmus DH         4  1  1  2 .167   A-J.Lamb PH,3B        1  0  0  0 .455  
+C-E.Encarnacion PH,DH 1  0  0  0 .188     G.Parra LF          3  0  0  0 .077  
+  C.Taylor CF         5  1  3  1 .333     W.Flores 3B         2  0  0  0 .333  
+  C.Seager SS         4  2  2  2 .158   B-W.Castillo C        1  0  0  0 .154  
+  Y.Grandal C         4  2  1  1 .200     Y.Alonso 1B         3  0  0  0 .263  
+                                          C.Granderson DH     3  0  1  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43 10 15 10                 Totals      29  0  4  0
+
+A-Pinch Hit For D'Arnaud In 7th Inning
+B-Subbed Defensively (C ) For Flores In 8th Inning
+C-Pinch Hit For Rasmus In 9th Inning
+
+Dodgers......... 0 0 0  0 0 3  0 3 4  - 10 15  0
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  4  1
+
+[1]Dodgers (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wood WIN(1-0)           5 2/3   4   0   0   0   1   0   0.00  A1 C2
+L.Garcia                  0 2/3   0   0   0   0   1   0   4.91  C3 C4
+T.McFarland               0 2/3   0   0   0   0   1   0   0.00  C5 C6
+C.Bradford                2       0   0   0   2   3   0   0.00  C7
+[1]Totals                    9       4   0   0   2   6   0
+
+[1]Mets (1-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wainwright LOSS(0-1)    5 1/3   6   2   2   0   4   1   3.38  A1 C5
+D.Hudson                  1       1   1   1   3   0   1  20.25  C6 D3
+A.Ramos                   1       1   2   2   2   2   0   9.00  D4 D9
+P.Sewald                  1 2/3   7   5   5   1   0   3  27.00  E1
+[1]Totals                    9      15  10  10   6   6   5
+
+ATTENDANCE- 41,378 DATE- Monday, October 8th 2018 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 3:20
+LEFT ON BASE- Dodgers:12  Mets: 4
+DOUBLE PLAYS- Dodgers: 2  Mets: 0
+ERRORS- W.Flores
+DOUBLES- J.Reddick-2(2nd), T.D'Arnaud(1st)
+HOME RUNS- D.Murphy(1st), C.Bellinger(2nd), C.Rasmus(1st), C.Seager(1st),
+           Y.Grandal(1st)
+RBIs- D.Murphy-3(3rd), C.Bellinger(5th), C.Rasmus-2(2nd), C.Taylor(1st),
+      C.Seager-2(2nd), Y.Grandal(1st)
+STOLEN BASES- C.Bellinger(1st)
+WALKS- Y.Puig, C.Bellinger-2, J.Reddick, C.Seager, Y.Grandal, J.Reyes,
+       A.McCutchen
+STRIKE OUTS- J.Reddick, C.Rasmus-2, C.Taylor, C.Seager, Y.Grandal, J.Reyes,
+             A.McCutchen, J.Lamb, W.Castillo, Y.Alonso, C.Granderson
+GIDP- A.Cabrera
+BALKS- P.Sewald
+2-out RBI- C.Taylor, C.Seager-2, Y.Grandal
+RLISP 2-out- J.Turner-3, Y.Alonso, Y.Puig, C.Rasmus-2
+TEAM RISP- Dodgers: 3 for 9  Mets: 0 for 5
+
+What an evening for the Los Angeles(NL) Dodgers! They shellacked the New York
+(NL) Mets pitching for 10 runs while Alex Wood(1-0)with bullpen help
+constrained New York (NL).
+
+New York (NL) was unable to climb back into it after Los Angeles(NL) went
+ahead for good in the top of the 6th inning scoring 3 runners on 3 hits.  The
+critical plate appearance was by Colby Rasmus who silenced the stadium when
+he cracked a two-run shot.  New York (NL) was out-hit by Los Angeles(NL), 15
+hits to 4.  
+
+Adam Wainwright(0-1) suffered the loss.  He gave up 6 hits and no walks in 5
+and 1/3 innings.
+[2]
+[1]SCORESHEET: 2018 Los Angeles(NL) Dodgers at 2018 New York (NL) Mets
+D.Murphy-A1  A1:G/31    B1:G/43    C1:Si>13   *7*:L/4    E1:HR>2#   F1:Si
+                                                         1# b#      
+                                                                    
+Y.Puig-A1    A2:G/63    B2:Si      C2:F/7     D2:W>b1    E2:F/8     F2:Si>13
+                                                                    
+                                                                    
+C.Bellin-A1  A3:E/5     B3:L/4     *6*:HR>b#  D3:W>12 b  E3:F/9     F3:W>12 b
+                                              1                     1
+                                                                    
+J.Turner-A1  A4:SB>12   *4*:G/23   C4:G/63    D4:L/5     *9*:F/8    F4:F/7
+             G/63                                                   
+                                                                    
+J.Reddic-A1  *2*:K      B5:G/31    C5:Do      D5:W>23 1  E5:Do
+                                              2 b1       
+                                                         
+C.Rasmus-A1  A6:P/2     B6:K       C6:HR>2#   D6:K       E6:Bk>23
+E.Encarn-E6                        b#                    L/5
+                                                         
+C.Taylor-A1  A7:Si      *5*:Si     C7:G/43    *8*:K      E7:Si>3#
+                                                         
+                                                         
+C.Seager-A1  A8:F/9     B8:K       C8:W>b1    D8:Si      E8:HR>1#
+                                                         b#
+                                                         
+Y.Granda-A1  *3*:G/53   B9:K       C9:G/43    D9:W>12 b  E9:HR>b#
+                                              1          
+                                                         
+
+A.Presle-A1  A1:Si      B1:F/8     *6*:G/13   *9*:G/43
+                                              
+                                              
+J.Reyes-A1   A2:K       B2:F/9     C2:G/31    D2:W>b1
+                                              
+                                              
+A.McCutc-A1  A3:Si>12   B3:G/63    C3:K       D3:W>12 b
+                                              1
+                                              
+A.Cabrer-A1  A4:L-DP/6  *4*:F/9    *7*:G/63   D4:G-DP/3
+             4>2o                             63>1o
+                                              
+T.D'Arna-A1  *2*:Do     B5:G/63    C5:K
+J.Lamb-C5                          
+                                   
+G.Parra-A1   A6:F/9     B6:G/43    C6:G/43
+                                   
+                                   
+W.Flores-A1  A7:F/8     *5*:L/4    *8*:K
+W.Castil-C7                        
+                                   
+Y.Alonso-A1  A8:P/6     B8:F/7     C8:K
+                                   
+                                   
+C.Grande-A1  *3*:Si     B9:F/7     C9:K
+                                   
+                                   
+
+

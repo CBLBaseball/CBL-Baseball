@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2018 Chicago (NL) Cubs At 2018 Philadelphia Phillies      10/3/2018
+
+[1]  Cubs               AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  A.Almora Jr CF      4  1  1  0 .250     C.Hernandez 2B      4  1  1  1 .250  
+  J.Baez 2B           4  1  2  2 .500     C.Correa SS         5  1  1  2 .200  
+  D.Peralta LF        3  0  0  0 .000     M.Gonzalez LF       4  0  0  0 .000  
+  K.Bryant 3B         3  1  1  0 .333   E-M.Haniger RF        0  0  0  0 ----  
+  R.Zimmerman 1B      4  0  2  0 .500     N.Cruz DH           2  1  1  1 .500  
+  W.Contreras C       4  1  1  1 .250     G.Sanchez C         4  1  1  0 .250  
+  K.Schwarber DH      3  0  1  1 .333     A.Altherr RF,LF     2  0  0  0 .000  
+  A.Russell SS        3  0  0  0 .000     Y.Gurriel 1B        2  0  1  0 .500  
+F-I.Happ PH           1  0  0  0 .000   A-R.Hoskins PH,1B     1  0  0  0 .000  
+  J.Heyward RF        3  0  0  0 .000     O.Herrera CF        4  1  2  0 .500  
+G-D.Fowler PH         1  0  0  0 .000     Y.Sanchez 3B        1  0  0  0 .000  
+                                        B-P.Valaika PH,3B     1  0  1  11.000  
+                                        C-N.Williams PH       1  0  0  0 .000  
+                                        D-J.Crawford 3B       0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  8  4                 Totals      31  5  8  5
+
+A-Pinch Hit For Gurriel In 6th Inning
+B-Pinch Hit For Sanchez In 6th Inning
+C-Pinch Hit For Valaika In 8th Inning
+D-Subbed Defensively (3B) For Williams In 9th Inning
+E-Subbed Defensively (RF) For Gonzalez In 9th Inning
+F-Pinch Hit For Russell In 9th Inning
+G-Pinch Hit For Heyward In 9th Inning
+
+Cubs............ 0 1 0  0 2 0  0 0 1  -  4  8  1
+Phillies........ 0 0 3  0 0 1  1 0    -  5  8  0
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels LOSS(0-1)           6 2/3   7   5   5   4   3   2   6.75  A1 D4
+J.Kelly                      0 2/3   1   0   0   1   1   0   0.00  D5 D8
+T.Lyons                      0 1/3   0   0   0   1   0   0   0.00  D9 E1
+P.Strop                      0 1/3   0   0   0   0   0   0   0.00  E2
+[1]Totals                    8       8   5   5   6   4   2
+
+[1]Phillies (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kluber WIN(1-0)            9       8   4   4   1  12   2   4.00  A1
+[1]Totals                    9       8   4   4   1  12   2
+
+ATTENDANCE- 41,715 DATE- Wednesday, October 3rd 2018 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 3:05
+LEFT ON BASE- Cubs: 5  Phillies: 9
+DOUBLE PLAYS- Cubs: 1  Phillies: 1
+ERRORS- J.Heyward
+DOUBLES- A.Almora Jr(1st), R.Zimmerman(1st), G.Sanchez(1st), O.Herrera-2(2nd)
+HOME RUNS- J.Baez(1st), W.Contreras(1st), C.Correa(1st), N.Cruz(1st)
+RBIs- J.Baez-2(2nd), W.Contreras(1st), K.Schwarber(1st), C.Hernandez(1st),
+      C.Correa-2(2nd), N.Cruz(1st), P.Valaika(1st)
+SACRIFICE HITS- Y.Sanchez
+SACRIFICE FLIES- K.Schwarber
+WALKS- D.Peralta, C.Hernandez, N.Cruz-2, A.Altherr-2, R.Hoskins
+HIT BY PITCH- K.Bryant
+STRIKE OUTS- A.Almora Jr-2, J.Baez, D.Peralta-2, K.Bryant-2, R.Zimmerman,
+             W.Contreras-2, I.Happ, J.Heyward, C.Hernandez, G.Sanchez,
+             A.Altherr, Y.Sanchez
+GIDP- R.Zimmerman, G.Sanchez
+WILD PITCHES- C.Hamels, C.Kluber
+2-out RBI- J.Baez-2, P.Valaika, N.Cruz
+RLISP 2-out- Y.Gurriel, D.Peralta, K.Schwarber, C.Hernandez-2, A.Russell,
+             C.Correa-2
+TEAM RISP- Cubs: 1 for 6  Phillies: 2 for 11
+
+Corey Kluber struck out 12 batters as the Philadelphia Phillies outscored the
+Chicago (NL) Cubs 5 to 4.
+
+Kluber(1-0) pitched a fine game.  He went 9 innings and surrended up 8 hits
+and 1 walk and allowed 2 gopher balls.  Chicago (NL) had a chance to come
+back in the 9th but they came up short.  
+
+Cole Hamels(0-1) was tagged with the loss.  Pete Mackanin was asked about the
+performance of Kluber, 'He had his good stuff out there tonight.  The fans
+really get into it when the strikeouts start mounting up - and that seems to
+give him even more adrenalin.'
+[2]
+[1]SCORESHEET: 2018 Chicago (NL) Cubs at 2018 Philadelphia Phillies
+A.Almora-A1  A1:K       B1:K       C1:Do      D1:G/63
+                                              
+                                              
+J.Baez-A1    A2:F/9     B2:Si      C2:HR>2#   D2:K
+                                   b#         
+                                              
+D.Peralt-A1  A3:K       B3:WP>12   C3:G/63    *8*:W>b1
+                        K                     
+                                              
+K.Bryant-A1  *2*:HBP    *4*:K      *6*:Si     D4:K
+                                              
+                                              
+R.Zimmer-A1  A5:Si>13   B5:Do      C5:K       D5:G-DP/6
+                                              43>1o
+                                              
+W.Contre-A1  A6:K       B6:K       C6:L/6     *9*:HR>b#
+                                              
+                                              
+K.Schwar-A1  A7:SF/7>3  B7:F/9     C7:Si>13   D7:G/43
+             #                                
+                                              
+A.Russel-A1  A8:L/6     *5*:G/53   C8:G/23    D8:K
+I.Happ-D8                                     
+                                              
+J.Heywar-A1  *3*:F/9    B9:K       *7*:G/43   D9:L/4
+D.Fowler-D9                                   
+                                              
+
+C.Hernan-A1  A1:F/7     B1:Si>3#   C1:K       D1:G/63    E1:W>b1
+                                                         
+                                                         
+C.Correa-A1  A2:G/43    B2:HR>1#   *5*:F/8    *7*:G/63   E2:G/63
+                        b#                               
+                                                         
+M.Gonzal-A1  A3:G/53    B3:G/43    C3:F/9     D3:G/63
+M.Hanige-E3                                   
+                                              
+N.Cruz-A1    *2*:W>b1   B4:W>b1    C4:G/63    D4:HR>b#
+                                              
+                                              
+G.Sanche-A1  A5:G-DP/6  B5:K       *6*:Do     D5:L/6
+             43>1o                            
+                                              
+A.Alther-A1  A6:E/9>b2  *4*:W>b1   C6:W>b1    *8*:K
+                                              
+                                              
+Y.Gurrie-A1  A7:G/13    B7:Si>13   C7:WP>23   D7:W>b1
+R.Hoskin-C7                        12 G/43    
+                                              
+O.Herrer-A1  *3*:Do     B8:FC/32>  C8:G/43    D8:Do>13
+                        3o 12                 
+                                              
+Y.Sanche-A1  A9:Sac/54  B9:K       C9:Si>3#   D9:G/43
+P.Valaik-C9  >23                   23         
+N.Willia-D9+                                  
+
+

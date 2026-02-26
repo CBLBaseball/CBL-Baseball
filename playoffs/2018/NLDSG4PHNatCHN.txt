@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2018 Philadelphia Phillies At 2018 Chicago (NL) Cubs      10/7/2018
+
+[1]  Phillies           AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Hernandez 2B      3  0  0  0 .353     D.Fowler CF         2  1  1  0 .333  
+  M.Haniger RF        3  1  1  2 .333   A-A.Almora Jr CF      1  0  0  0 .091  
+  M.Gonzalez SS,LF    3  0  0  0 .353     R.Zimmerman 1B      4  0  1  0 .250  
+E-A.Altherr LF        0  0  0  0 .000     D.Peralta RF        4  0  1  1 .083  
+  N.Cruz DH           4  0  0  0 .188     K.Bryant 3B         4  0  0  0 .267  
+  G.Sanchez C         4  1  1  0 .267     W.Contreras C       4  0  1  0 .267  
+  N.Williams LF       3  0  1  0 .250     K.Schwarber DH      3  0  0  0 .222  
+B-C.Correa SS         1  0  0  0 .167     J.Baez 2B,SS        3  0  0  0 .375  
+  R.Hoskins 1B        3  1  2  2 .333     I.Happ LF           3  0  0  0 .000  
+D-J.Alfaro PH         1  0  0  0 .500     A.Russell SS        2  0  0  0 .000  
+F-J.Crawford 3B       0  0  0  0 ----   C-S.Castro PH,2B      1  0  1  0 .714  
+  O.Herrera CF        3  0  1  0 .375                                          
+  Y.Sanchez 3B        2  1  0  0 .286                                          
+G-Y.Gurriel 1B        0  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  4  6  4                 Totals      31  1  5  1
+
+A-Subbed Defensively (CF) For Fowler In 7th Inning
+B-Subbed Defensively (SS) For Williams In 7th Inning
+C-Pinch Hit For Russell In 8th Inning
+D-Pinch Hit For Hoskins In 9th Inning
+E-Subbed Defensively (LF) For Gonzalez In 9th Inning
+F-Subbed Defensively (3B) For Alfaro In 9th Inning
+G-Subbed Defensively (1B) For Sanchez In 9th Inning
+
+Phillies........ 0 2 0  0 0 0  0 2 0  -  4  6  0
+Cubs............ 0 0 0  1 0 0  0 0 0  -  1  5  0
+
+[1]Phillies (4-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Morton WIN(1-0)            5 2/3   4   1   1   0   7   0   1.59  A1 C3
+H.Neris HOLD(1st)            2 1/3   1   0   0   0   4   0   0.00  C4 D2
+A.Miller SAVE(1st)           1       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       5   1   1   0  12   0
+
+[1]Cubs (0-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Ramirez LOSS(0-1)          7 1/3   6   4   4   3   9   2   4.91  A1 D3
+D.Robertson                  1 2/3   0   0   0   0   3   0   2.45  D4
+[1]Totals                    9       6   4   4   3  12   2
+
+ATTENDANCE- 40,513 DATE- Sunday, October 7th 2018 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:38
+LEFT ON BASE- Phillies: 3  Cubs: 4
+DOUBLE PLAYS- Phillies: 0  Cubs: 2
+DOUBLES- N.Williams(1st), R.Hoskins(1st), R.Zimmerman(3rd), W.Contreras(1st)
+HOME RUNS- M.Haniger(1st), R.Hoskins(1st)
+RBIs- M.Haniger-2(4th), R.Hoskins-2(2nd), D.Peralta(2nd)
+SACRIFICE HITS- C.Hernandez
+WALKS- M.Haniger, M.Gonzalez, Y.Sanchez
+HIT BY PITCH- D.Fowler
+STRIKE OUTS- C.Hernandez-2, M.Haniger-2, M.Gonzalez, G.Sanchez-2, N.Williams,
+             C.Correa, R.Hoskins, J.Alfaro, O.Herrera, D.Fowler, R.Zimmerman-2,
+             D.Peralta, K.Bryant, W.Contreras, K.Schwarber, J.Baez-2, I.Happ-2,
+             A.Russell
+GIDP- N.Cruz
+RLISP 2-out- N.Cruz, K.Schwarber-2, C.Hernandez, O.Herrera
+TEAM RISP- Phillies: 2 for 7  Cubs: 1 for 3
+
+In an entertaining game at Wrigley Field the final score was the Philadelphia
+Phillies 4, the Chicago (NL) Cubs 1.
+
+Philadelphia took the lead for keeps in the 2nd inning scoring 2 runs using 2
+hits.  Gary Sanchez led off and he stroked a one-base hit.  Nick Williams was
+the next batter, but he struck out.  Rhys Hoskins then cleared the fences for
+a two-run home run.  That was all Charlie Morton(1-0) needed.  Morton got
+help from Andrew Miller who pitched great and earned his 1st save.  
+
+Erasmo Ramirez(0-1) was the loser.  He pitched 7 and 1/3 innings and
+surrendered 6 hits and 3 walks.
+[2]
+[1]SCORESHEET: 2018 Philadelphia Phillies at 2018 Chicago (NL) Cubs
+C.Hernan-A1  A1:K       *3*:G/63   C1:K       D1:Sac/34
+                                              >12
+                                              
+M.Hanige-A1  A2:W>b1    B2:K       *6*:K      D2:HR>2#
+                                              b#
+                                              
+M.Gonzal-A1  A3:G/53>1  B3:K       C3:F/9     D3:W>b1
+A.Alther-D8  2                                
+                                              
+N.Cruz-A1    A4:P/6     *4*:F/7    C4:G/13    D4:G-DP/6
+                                              43>1o
+                                              
+G.Sanche-A1  *2*:Si     B5:K       *7*:F/9    *9*:K
+                                              
+                                              
+N.Willia-A1  A6:K       B6:L/4     C6:Do      D6:K
+C.Correa-C9                                   
+                                              
+R.Hoskin-A1  A7:HR>1#   *5*:Do     C7:K       D7:K
+J.Alfaro-D7  b#                               
+J.Crawfo-D8                                   
+O.Herrer-A1  A8:L/4     B8:Si>23   C8:K
+                                   
+                                   
+Y.Sanche-A1  A9:L/4     B9:F-DP/8  *8*:W>b1
+Y.Gurrie-D8             2>3o 12    
+                                   
+
+D.Fowler-A1  A1:K       *4*:HBP    *6*:Si     D1:P/6
+A.Almora-C5                                   
+                                              
+R.Zimmer-A1  A2:K       B2:G/63>1  C2:Do>13   D2:K
+                        2                     
+                                              
+D.Peralt-A1  A3:K       B3:Si>2#   C3:FC/12>  *9*:G/53
+                                   3o         
+                                              
+K.Bryant-A1  *2*:F/8    B4:F/8     C4:G/53    D4:K
+                                              
+                                              
+W.Contre-A1  A5:K       B5:Do>13   *7*:F/9    D5:G/13
+                                              
+                                              
+K.Schwar-A1  A6:F/7     B6:G/63    C6:K
+                                   
+                                   
+J.Baez-A1    *3*:F/8    *5*:K      C7:K
+                                   
+                                   
+I.Happ-A1    A8:G/3     B8:K       *8*:K
+                                   
+                                   
+A.Russel-A1  A9:G/63    B9:K       C9:Si
+S.Castro-C9                        
+                                   
+
+

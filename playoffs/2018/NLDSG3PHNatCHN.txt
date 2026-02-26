@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2018 Philadelphia Phillies At 2018 Chicago (NL) Cubs      10/6/2018
+
+[1]  Phillies           AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Hernandez 2B      5  1  2  2 .429     S.Castro 2B         4  1  3  2 .667  
+  C.Correa SS         3  0  0  0 .182   B-A.Russell SS        1  0  0  0 .000  
+  M.Gonzalez LF       5  1  2  2 .429     J.Baez SS,2B        4  0  1  0 .462  
+E-M.Haniger RF        0  0  0  0 .333     D.Peralta LF        3  0  0  1 .000  
+  N.Cruz DH           5  1  1  1 .250     K.Bryant 3B         4  1  1  0 .364  
+  G.Sanchez C         3  0  1  0 .273     R.Zimmerman 1B      4  0  1  1 .250  
+  R.Hoskins 1B        2  0  0  0 .000     W.Contreras C       4  0  1  0 .273  
+  O.Herrera CF        5  1  1  0 .385     K.Schwarber DH      2  0  1  0 .333  
+  A.Altherr RF,LF     3  1  0  0 .000   A-N.Hundley PH,DH     0  0  0  0 ----  
+  Y.Sanchez 3B        3  0  1  0 .400   F-A.Almora Jr PH,DH   1  0  0  0 .100  
+                                          I.Happ RF           2  1  0  0 .000  
+                                        C-J.Heyward RF        1  0  0  0 .000  
+                                          D.Fowler CF         3  1  1  0 .250  
+                                        D-P.Bourjos CF        1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  8  5                 Totals      34  4  9  4
+
+A-Pinch Hit For Schwarber In 6th Inning
+B-Subbed Defensively (SS) For Castro In 8th Inning
+C-Subbed Defensively (RF) For Happ In 8th Inning
+D-Subbed Defensively (CF) For Fowler In 8th Inning
+E-Subbed Defensively (RF) For Gonzalez In 8th Inning
+F-Pinch Hit For Hundley In 8th Inning
+
+Phillies........ 3 0 0  0 0 0  0 2 0  -  5  8  0
+Cubs............ 0 0 2  0 0 1  1 0 0  -  4  9  2
+
+[1]Phillies (3-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Nola                       5 2/3   7   3   3   1  10   0   4.76  A1 C6
+A.Claudio WIN(1-0)           1 1/3   2   1   1   1   0   0   6.75  C7 D4
+P.Neshek SAVE(1st)           2       0   0   0   0   4   0   0.00  D5
+[1]Totals                    9       9   4   4   2  14   0
+
+[1]Cubs (0-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Happ                       7       7   4   3   4   9   2   3.86  A1 D7
+D.Robertson L(0-1)B(1st)     2       1   1   1   2   4   0   4.50  D8
+[1]Totals                    9       8   5   4   6  13   2
+
+ATTENDANCE- 40,135 DATE- Saturday, October 6th 2018 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:40
+LEFT ON BASE- Phillies:11  Cubs: 6
+DOUBLE PLAYS- Phillies: 0  Cubs: 1
+ERRORS- J.Happ-2
+DOUBLES- C.Hernandez-2(2nd), M.Gonzalez(2nd), G.Sanchez(2nd), O.Herrera(3rd),
+         Y.Sanchez(1st), K.Bryant(1st), R.Zimmerman(2nd), D.Fowler(1st)
+HOME RUNS- M.Gonzalez(1st), N.Cruz(2nd)
+RBIs- C.Hernandez-2(3rd), M.Gonzalez-2(5th), N.Cruz(2nd), S.Castro-2(2nd),
+      D.Peralta(1st), R.Zimmerman(2nd)
+SACRIFICE HITS- C.Correa, Y.Sanchez
+SACRIFICE FLIES- D.Peralta
+WALKS- C.Correa, G.Sanchez, R.Hoskins-3, A.Altherr, N.Hundley, I.Happ
+HIT BY PITCH- G.Sanchez
+STRIKE OUTS- C.Correa, M.Gonzalez-2, N.Cruz-2, R.Hoskins-2, O.Herrera-3,
+             A.Altherr-2, Y.Sanchez, S.Castro, A.Russell, J.Baez-2, D.Peralta,
+             K.Bryant, R.Zimmerman-2, W.Contreras-2, I.Happ, J.Heyward,
+             D.Fowler, P.Bourjos
+GIDP- O.Herrera
+RLISP 2-out- A.Altherr-2, M.Gonzalez, J.Baez, C.Correa, I.Happ, N.Cruz
+TEAM RISP- Phillies: 2 for 14  Cubs: 3 for 5
+
+Aaron Nola mowed down 10 Chicago (NL) batters as the Philadelphia Phillies
+defeated the Chicago (NL) Cubs by a score of 5 to 4 at Wrigley Field.
+
+Alex Claudio(1-0) was given credit for the win.  He surrendered 2 hits and 1
+walk in 1 and 1/3 innings.  Philadelphia banged out 8 hits on the night.
+
+Claudio was helped out by Pat Neshek who recorded his 1st save.  David
+Robertson(0-1) was given the loss in relief.  He gave up 1 hit and 2 walks in
+2 innings.
+[2]
+[1]SCORESHEET: 2018 Philadelphia Phillies at 2018 Chicago (NL) Cubs
+C.Hernan-A1  A1:E/1     B1:Do      C1:G/63    D1:G/53    E1:Do>3#
+                                                         2#
+                                                         
+C.Correa-A1  A2:Sac/34  B2:K       C2:G/63    D2:G/13    E2:W>b1
+             >12                                         
+                                                         
+M.Gonzal-A1  A3:HR>2#   B3:P/6     *5*:Do     *7*:K      E3:K
+M.Hanige-E5  b#                                          
+                                                         
+N.Cruz-A1    A4:HR>b#   *3*:G/63   C4:K       D4:G/43    E4:K
+                                                         
+                                                         
+G.Sanche-A1  A5:Do      B5:E/1     C5:HBP     D5:W>b1    *9*:G/53
+                                                         
+                                                         
+R.Hoskin-A1  A6:W>b1    B6:W>12 b  C6:W>23 1  D6:K       E6:K
+                        1          2 b1                  
+                                                         
+O.Herrer-A1  A7:K       B7:K       C7:G-DP/1  *8*:Do     E7:K
+                                   23>3o                 
+                                                         
+A.Alther-A1  A8:K       B8:F/8     *6*:K      D8:W>b1
+                                              
+                                              
+Y.Sanche-A1  *2*:G/63   *4*:K      C9:Do      D9:Sac/14
+                                              >23 12
+                                              
+
+S.Castro-A1  A1:K       B1:Si>3#   C1:Si>12   D1:Si      E1:K
+A.Russel-D5             2#                               
+                                                         
+J.Baez-A1    A2:G/63    B2:K       C2:K       D2:Si>13
+                                              
+                                              
+D.Peralt-A1  A3:K       B3:F/7     *6*:G/63   D3:SF/8>3
+                                              #
+                                              
+K.Bryant-A1  *2*:K      *4*:FO/2   C4:Do      D4:F/7
+                                              
+                                              
+R.Zimmer-A1  A5:K       B5:K       C5:Do>2#   *8*:G/63
+                                              
+                                              
+W.Contre-A1  A6:K       B6:G/63    C6:Si>2o   D6:K
+                                              
+                                              
+K.Schwar-A1  *3*:F/7    *5*:Si     C7:IW>b1   D7:G/13
+N.Hundle-C7                                   
+A.Almora-D7                                   
+I.Happ-A1    A8:W>b1    B8:K       C8:G/53    *9*:K
+J.Heywar-D5                                   
+                                              
+D.Fowler-A1  A9:Do>13   B9:K       *7*:G/53   D9:K
+P.Bourjo-D5                                   
+                                              
+
+

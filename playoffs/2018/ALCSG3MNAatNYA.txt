@@ -1,0 +1,143 @@
+[1]BOXSCORE: 2018 Minnesota Twins At 2018 New York (AL) Yankees       10/16/2018
+
+[1]  Twins              AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  B.Dozier 2B         5  0  1  0 .152     B.Gardner LF        5  1  1  2 .139  
+  J.Mauer 1B          4  1  2  0 .276     G.Springer CF       5  0  0  1 .231  
+  M.Sano DH           5  1  2  0 .300     R.Cano 2B           4  2  2  0 .323  
+  J.Bruce RF          5  0  1  0 .250     A.Judge RF          4  2  2  2 .400  
+  R.Chirinos C        2  0  1  0 .308     J.Martinez DH       3  1  0  0 .467  
+C-D.Span PH           1  0  1  1 .182     Z.Cozart SS         4  1  2  0 .500  
+D-E.Gattis C          0  0  0  0 .200     E.Thames 1B         3  0  1  0 .304  
+G-S.Vogt PH           0  0  0  1 .000   E-C.Rupp PH           0  1  0  0 .000  
+  T.Frazier 3B        4  1  1  0 .125   F-G.Bird 1B           0  0  0  0 .000  
+  E.Rosario LF        3  1  1  0 .207     C.Headley 3B        4  1  1  1 .313  
+  B.Buxton CF         3  0  0  1 .192     B.McCann C          4  1  2  3 .500  
+  A.Hechavarria SS    1  0  0  0 .200                                          
+A-R.Grossman PH       1  0  1  1 .333                                          
+B-J.Mercer SS         1  0  0  0 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4 11  4                 Totals      36 10 11  9
+
+A-Pinch Hit For Hechavarria In 4th Inning
+B-Subbed Defensively (SS) For Grossman In 4th Inning
+C-Pinch Hit For Chirinos In 7th Inning
+D-Subbed Defensively (C ) For Span In 7th Inning
+E-Pinch Hit For Thames In 8th Inning
+F-Subbed Defensively (1B) For Rupp In 9th Inning
+G-Pinch Hit For Gattis In 9th Inning
+
+Twins........... 0 1 0  1 0 0  1 0 1  -  4 11  1
+Yankees......... 0 0 2  0 0 3  0 5    - 10 11  1
+
+[1]Twins (4-4)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Bauer LOSS(1-1)            5       6   5   2   2   4   1   2.25  A1 C5
+T.Hildenberg                 2       1   0   0   0   0   0   0.00  C6 D4
+J.Berrios                    0 1/3   1   1   1   0   0   0  12.60  D5 D6
+D.Coulombe                   0       1   2   2   1   0   0  10.80  D7 D8
+F.Rodney                     0 2/3   2   2   2   0   1   0   3.38  D9
+[1]Totals                    8      11  10   7   3   5   1
+
+[1]Yankees (7-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Montgomery                 3 2/3   5   2   1   1   2   0   4.00  A1 B8
+C.Green                      1       2   0   0   1   3   0   2.70  B9 C6
+A.Warren WIN(1-0)            3 1/3   2   1   1   1   3   0   3.86  C7 E1
+S.Oh                         1       2   1   1   0   0   0   6.75  E2
+[1]Totals                    9      11   4   3   3   8   0
+
+ATTENDANCE- 46,104 DATE- Tuesday, October 16th 2018 TIME- Night 
+UMPIRES- Adrian Johnson, Larry Vanover, Angel Hernandez, Paul Nauert
+T- 3:14
+LEFT ON BASE- Twins:11  Yankees: 5
+DOUBLE PLAYS- Twins: 0  Yankees: 1
+ERRORS- B.Dozier, C.Headley
+DOUBLES- J.Mauer(1st), R.Cano(2nd), Z.Cozart(3rd), C.Headley(4th)
+TRIPLES- D.Span(1st), B.Gardner(1st)
+HOME RUNS- A.Judge(5th)
+RBIs- D.Span(1st), S.Vogt(1st), B.Buxton(2nd), R.Grossman(1st),
+      B.Gardner-2(8th), G.Springer(6th), A.Judge-2(17th), C.Headley(7th),
+      B.McCann-3(4th)
+SACRIFICE HITS- J.Mauer
+SACRIFICE FLIES- S.Vogt, B.Buxton
+WALKS- R.Chirinos, E.Rosario, J.Mercer, R.Cano, J.Martinez, C.Rupp
+HIT BY PITCH- T.Frazier
+STRIKE OUTS- B.Dozier, J.Mauer, M.Sano-3, J.Bruce, E.Rosario, B.Buxton,
+             G.Springer-2, R.Cano, J.Martinez, C.Headley
+GIDP- T.Frazier
+BALKS- J.Montgomery
+WILD PITCHES- J.Montgomery
+2-out RBI- A.Judge-2, R.Grossman, B.McCann-2, D.Span
+RLISP 2-out- J.Bruce-2, B.McCann, B.Dozier, E.Rosario-2, B.Gardner-2, T.Frazier
+TEAM RISP- Twins: 2 for 11  Yankees: 5 for 12
+
+Right fielder Aaron Judge connected with a 'big fly' and had 2 RBI at Yankee
+Stadium as the New York (AL) Yankees beat the Minnesota Twins 10 to
+4.
+
+Minnesota was unable to climb back into it after New York (AL) went ahead for
+good in the 6th inning when they scored 3 runs on 3 hits.  The biggest moment
+was provided by Brian McCann who thrilled the crowd when he delivered a
+base-hit scoring two baserunners.  Both teams finished the game with 11 hits.
+
+Adam Warren(1-0) got credit for the victory, pitching 3 and 1/3 innings and
+allowing 1 run. Trevor Bauer(1-1) was hit with the loss.  He surrendered 5
+runs and 6 hits in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2018 Minnesota Twins at 2018 New York (AL) Yankees
+B.Dozier-A1  A1:F/8     *3*:Si     C1:K       D1:G/53    E1:G/13
+                                                         
+                                                         
+J.Mauer-A1   A2:Si      B2:Sac/54  *5*:K      *7*:Do     *9*:F/8
+                        >12                              
+                                                         
+M.Sano-A1    A3:Bk>12   B3:K       C3:Si      D3:K       E3:Si
+             WP>23 K                                     
+                                                         
+J.Bruce-A1   A4:F/9     B4:F/8     C4:K       D4:G/13    E4:Si>13
+                                                         
+                                                         
+R.Chirin-A1  *2*:G/43   *4*:Si     C5:W>12 b  D5:Tr>2#   E5:SF/7>3
+D.Span-D5                          1                     #
+E.Gattis-D7+                                             
+T.Frazie-A1  A6:Si      B6:G-DP/5  C6:HBP>23  D6:F/8     E6:F/8
+                        43>1o      12                    
+                                                         
+E.Rosari-A1  A7:Si>13   B7:W>b1    C7:L/4     *8*:K
+                                              
+                                              
+B.Buxton-A1  A8:SF/7>3  B8:E/5>12  *6*:K      D8:G/63
+             #                                
+                                              
+A.Hechav-A1  A9:F/9     B9:Si>2#   C9:L/5     D9:W>b1
+R.Grossm-B9             13                    
+J.Mercer-C2                                   
+
+B.Gardne-A1  A1:G/43    *3*:F/7    C1:G/63    D1:F/7     E1:Tr>3#
+                                                         1#
+                                                         
+G.Spring-A1  A2:F/8     B2:K       C2:K       *7*:F/8    E2:G/63>3
+                                                         #
+                                                         
+R.Cano-A1    A3:W>b1    B3:Do      *6*:Si     D3:F/9     E3:K
+                                                         
+                                                         
+A.Judge-A1   A4:L/6     B4:HR>2#   C4:Si>13   D4:G/43
+                        b#                    
+                                              
+J.Martin-A1  *2*:K      B5:G/31    C5:W>12 b  *8*:L/6
+                                   1          
+                                              
+Z.Cozart-A1  A6:Si      *4*:L/5    C6:L/6     D6:Do
+                                              
+                                              
+E.Thames-A1  A7:Si>13   B7:G/63    C7:L/4     D7:IW>b1
+C.Rupp-D7                                     
+G.Bird-E4                                     
+C.Headle-A1  A8:K       B8:F/8     C8:E/4>3#  D8:Do>2#
+                                   23 12      13
+                                              
+B.McCann-A1  A9:G/63    *5*:L/4    C9:Si>3#   D9:Si>3#
+                                   2# 13      23
+                                              
+
+

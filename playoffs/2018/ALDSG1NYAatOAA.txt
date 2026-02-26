@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2018 New York (AL) Yankees At 2018 Oakland Athletics      10/3/2018
+
+[1]  Yankees            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  B.Gardner LF        5  0  1  0 .200     D.Gordon 2B         4  0  0  0 .000  
+  G.Springer CF       5  0  1  1 .200     M.Joyce LF          4  0  0  0 .000  
+  R.Cano 2B           5  1  1  0 .200     P.Goldschmidt 1B    4  0  0  0 .000  
+  A.Judge RF          5  2  2  2 .400     M.Olson RF          1  1  1  01.000  
+  J.Martinez DH       3  2  2  0 .667   A-J.Segura PH,C       2  0  1  0 .500  
+C-J.Ellsbury PH,DH    2  0  0  0 .000     J.Bradley Jr CF     3  0  0  0 .000  
+  E.Thames 1B         4  1  2  1 .500     J.Lowrie DH         3  0  1  0 .333  
+  Z.Cozart SS         3  3  3  51.000     B.Maxwell C         1  0  0  1 .000  
+D-R.Torreyes PH,SS    1  0  0  0 .000   B-J.Jay PH,RF         2  0  0  0 .000  
+  C.Headley 3B        3  0  0  0 .000     M.Chapman 3B        3  0  0  0 .000  
+  B.McCann C          3  0  2  0 .667     B.Crawford SS       3  0  0  0 .000  
+E-C.Rupp PH,C         1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  9 14  9                 Totals      30  1  3  1
+
+A-Pinch Hit For Olson In 6th Inning
+B-Pinch Hit For Maxwell In 6th Inning
+C-Pinch Hit For Martinez In 7th Inning
+D-Pinch Hit For Cozart In 7th Inning
+E-Pinch Hit For McCann In 8th Inning
+
+Yankees......... 5 0 3  0 0 1  0 0 0  -  9 14  1
+Athletics....... 0 1 0  0 0 0  0 0 0  -  1  3  1
+
+[1]Yankees (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Severino WIN(1-0)          6 1/3   2   1   1   3   8   0   1.42  A1 C8
+D.Betances                   2       1   0   0   0   4   0   0.00  C9 D6
+S.Oh                         0 2/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       3   1   1   3  12   0
+
+[1]Athletics (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Samardzija LOSS(0-1)       3       8   8   8   0   4   3  24.00  A1 B8
+D.Otero                      2       1   0   0   0   1   0   0.00  B9 C5
+T.Hunter                     1       3   1   1   1   2   0   9.00  C6 D3
+T.Cingrani                   1       1   0   0   0   2   0   0.00  D4 D7
+T.Zych                       1 1/3   1   0   0   0   1   0   0.00  D8 E3
+R.Madson                     0 2/3   0   0   0   0   1   0   0.00  E4
+[1]Totals                    9      14   9   9   1  11   3
+
+ATTENDANCE- 33,054 DATE- Wednesday, October 3rd 2018 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:47
+LEFT ON BASE- Yankees: 5  Athletics: 7
+DOUBLE PLAYS- Yankees: 0  Athletics: 1
+ERRORS- C.Headley, M.Joyce
+DOUBLES- E.Thames(1st), Z.Cozart(1st)
+HOME RUNS- A.Judge(1st), Z.Cozart-2(2nd)
+RBIs- G.Springer(1st), A.Judge-2(2nd), E.Thames(1st), Z.Cozart-5(5th),
+      B.Maxwell(1st)
+SACRIFICE FLIES- B.Maxwell
+WALKS- C.Headley, J.Bradley Jr, J.Lowrie, M.Chapman
+HIT BY PITCH- M.Olson
+STRIKE OUTS- B.Gardner, R.Cano, A.Judge-2, J.Martinez, J.Ellsbury, E.Thames-2,
+             C.Headley-3, D.Gordon-2, M.Joyce-3, P.Goldschmidt, J.Bradley Jr,
+             J.Lowrie, B.Maxwell, M.Chapman, B.Crawford-2
+GIDP- G.Springer
+2-out RBI- A.Judge-2, E.Thames, Z.Cozart-5, G.Springer
+RLISP 2-out- B.Crawford-3, R.Cano-2
+TEAM RISP- Yankees: 5 for 8  Athletics: 0 for 5
+
+Zack Cozart rocketed 2 homeruns and had 5 RBI as the New York (AL) Yankees
+topped the Oakland Athletics by a score of 9 to 1 at O.co Coliseum.
+
+Cozart was a source of great heartache for the Oakland faithful all evening.
+He just kept pounding out hits! He clubbed a two-run home run in the 1st
+inning, lofted a three-run bomb in the 3rd inning and doubled in the 6th
+inning.  Overall New York (AL) out-hit Oakland 14 to 3.  
+
+Luis Severino(1-0) allowed 1 run in 6 and 1/3 innings, and picked up the
+victory. Jeff Samardzija(0-1) ended up with the loss.  He served up 3
+homeruns in his 3 innings.  
+
+'It's almost like the ball was trying to hit my bat,' Cozart said. 'Whenever I
+would swing, the ball found the sweet spot.'
+[2]
+[1]SCORESHEET: 2018 New York (AL) Yankees at 2018 Oakland Athletics
+B.Gardne-A1  A1:K       B1:F/9     C1:L/4     D1:P/3     E1:Si
+                                                         
+                                                         
+G.Spring-A1  A2:F/7     B2:F/8     C2:G-DP/6  D2:Si>3#   E2:G/63
+                                   43>1o      23 12      
+                                                         
+R.Cano-A1    A3:Si      *3*:F/8    *5*:G/3    D3:K       *9*:L/4
+                                                         
+                                                         
+A.Judge-A1   A4:HR>1#   B4:Si      C4:L/6     *7*:K      E4:K
+             b#                                          
+                                                         
+J.Martin-A1  A5:Si+E/7  B5:Si>13   C5:K       D5:K       E5:G/63
+J.Ellsbu-D5                                              
+                                                         
+E.Thames-A1  A6:Do>2#   B6:K       *6*:K      D6:Si
+                                              
+                                              
+Z.Cozart-A1  A7:HR>2#   B7:HR>3#   C7:Do      D7:F/7
+R.Torrey-D7  b#         1# b#                 
+                                              
+C.Headle-A1  A8:K       B8:K       C8:W>b1    *8*:K
+                                              
+                                              
+B.McCann-A1  *2*:G/31   *4*:Si     C9:Si>23   D9:F/8
+C.Rupp-D9                          12         
+                                              
+
+D.Gordon-A1  A1:K       *3*:L/4    *5*:G/63   D1:K
+                                              
+                                              
+M.Joyce-A1   A2:K       B2:G/13    C2:K       *8*:K
+                                              
+                                              
+P.Goldsc-A1  A3:F/7     B3:F/9     C3:G/63    D3:K
+                                              
+                                              
+M.Olson-A1   *2*:HBP    *4*:Si     *6*:L/5    D4:Si
+J.Segura-C4                                   
+                                              
+J.Bradle-A1  A5:W>12 b  B5:K       C5:G/43    D5:G/43
+             1                                
+                                              
+J.Lowrie-A1  A6:E/5>23  B6:Si>12   C6:W>b1    *9*:K
+             12                               
+                                              
+B.Maxwel-A1  A7:SF/9>3  B7:K       C7:G/63    D7:G/31
+J.Jay-C7     # 23                             
+                                              
+M.Chapma-A1  A8:P/6     B8:W>23 1  *7*:K      D8:F/9
+                        2 b1                  
+                                              
+B.Crawfo-A1  A9:K       B9:K       C9:F/7
+                                   
+                                   
+
+

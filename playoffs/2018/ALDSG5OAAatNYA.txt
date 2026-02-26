@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2018 Oakland Athletics At 2018 New York (AL) Yankees      10/8/2018
+
+[1]  Athletics          AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  D.Gordon 2B         4  0  1  1 .238     B.Gardner LF        5  1  1  5 .091  
+  J.Lowrie DH         4  0  0  0 .471     G.Springer CF       6  1  1  1 .240  
+  P.Goldschmidt 1B    4  0  1  0 .158     R.Cano 2B           5  1  1  1 .316  
+  J.Donaldson 3B      4  0  1  0 .385     A.Judge RF          4  2  1  2 .238  
+  M.Joyce RF          4  1  2  0 .200     J.Martinez DH       5  3  3  3 .500  
+  Y.Cespedes LF       4  0  0  0 .000     E.Thames 1B         2  3  0  0 .429  
+  B.Maxwell C         1  0  0  0 .333     Z.Cozart SS         4  3  3  2 .526  
+A-M.Olson PH,C        3  1  1  2 .500     C.Headley 3B        5  2  2  2 .368  
+  J.Bradley Jr CF     4  0  0  0 .063     B.McCann C          2  1  1  1 .444  
+  B.Crawford SS       3  1  2  0 .294                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  3                 Totals      38 17 13 17
+
+A-Pinch Hit For Maxwell In 5th Inning
+
+Athletics....... 0 0 0  0 0 0  0 1 2  -  3  8  2
+Yankees......... 1 1 7  1 0 1  2 4    - 17 13  0
+
+[1]Athletics (1-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Cotton LOSS(0-1)           6       5  11   9   6   6   4  13.50  A1 D5
+D.Otero                      1       6   5   5   1   1   2  10.80  D6 E6
+S.Doolittle                  1       2   1   1   0   2   0   4.50  E7
+[1]Totals                    8      13  17  15   7   9   6
+
+[1]Yankees (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Severino WIN(2-0)          8       6   1   1   0  12   0   1.26  A1 D3
+S.Oh                         1       2   2   2   0   1   1   6.75  D4
+[1]Totals                    9       8   3   3   0  13   1
+
+ATTENDANCE- 48,258 DATE- Monday, October 8th 2018 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 3:00
+LEFT ON BASE- Athletics: 5  Yankees: 6
+DOUBLE PLAYS- Athletics: 1  Yankees: 0
+ERRORS- J.Donaldson-2
+DOUBLES- J.Donaldson(2nd), B.Crawford-2(2nd), J.Martinez(2nd), Z.Cozart(2nd),
+         C.Headley-2(3rd)
+HOME RUNS- M.Olson(2nd), B.Gardner(1st), R.Cano(1st), A.Judge(2nd),
+           J.Martinez-2(3rd), Z.Cozart(6th)
+RBIs- D.Gordon(1st), M.Olson-2(5th), B.Gardner-5(6th), G.Springer(3rd),
+      R.Cano(1st), A.Judge-2(7th), J.Martinez-3(5th), Z.Cozart-2(16th),
+      C.Headley-2(5th), B.McCann(1st)
+WALKS- B.Gardner, A.Judge, E.Thames-2, Z.Cozart, B.McCann-2
+HIT BY PITCH- E.Thames, B.McCann
+STRIKE OUTS- D.Gordon, J.Lowrie-4, P.Goldschmidt, J.Donaldson, M.Joyce,
+             Y.Cespedes, B.Maxwell, M.Olson, J.Bradley Jr-2, B.Gardner,
+             G.Springer-3, A.Judge-2, J.Martinez, C.Headley, B.McCann
+GIDP- B.Gardner
+WILD PITCHES- S.Doolittle, L.Severino-2
+PASSED BALLS- M.Olson
+2-out RBI- R.Cano, B.Gardner, G.Springer, M.Olson-2
+RLISP 2-out- G.Springer-3, J.Lowrie, Y.Cespedes, M.Olson, R.Cano
+TEAM RISP- Athletics: 1 for 7  Yankees: 5 for 15
+
+J.D. Martinez knocked 2 homeruns and had 3 RBI and Luis Severino struck out 12
+batters at Yankee Stadium as the New York (AL) Yankees, running on all
+cylinders, ripped the Oakland Athletics by a large 17 to 3 margin.
+
+Martinez enjoyed a fine evening at the plate.  He bombed a two-run dinger in
+the 3rd inning, hit a bases-empty home run in the 4th inning and doubled in
+the 8th inning.  New York (AL) kept the scorekeepers busy in the 3rd inning
+with 7 runs and the 8th inning which saw them plate 4 runs on 4 hits.  The
+New York (AL) offense poured it on, scoring in 7 of the 9 innings.
+
+Severino(2-0) went 8 innings allowing 1 run for the win. The losing pitcher
+was Jharel Cotton(0-1).  He served up 4 gopher balls in 6 innings.
+
+Severino was jubilant in the hometown clubhouse, 'It was a lot of fun out
+there.  The fans gave me a lot of support as did my teammates.  We got the
+victory and I'll sure take 12 strikeouts anytime!'
+[2]
+[1]SCORESHEET: 2018 Oakland Athletics at 2018 New York (AL) Yankees
+D.Gordon-A1  A1:F/7     B1:K       *6*:G/63   D1:WP>23
+                                              Si>3#
+                                              
+J.Lowrie-A1  A2:K       B2:K       C2:K       D2:K
+                                              
+                                              
+P.Goldsc-A1  A3:Si      *4*:G/43   C3:K       D3:G/43
+                                              
+                                              
+J.Donald-A1  A4:K       B4:Do      *7*:G/43   *9*:G/63
+                                              
+                                              
+M.Joyce-A1   *2*:L/4    B5:K       C5:Si      D5:Si
+                                              
+                                              
+Y.Cesped-A1  A6:F/8     B6:K       C6:WP>12   D6:F/8
+                                   G/63       
+                                              
+B.Maxwel-A1  A7:K       *5*:L/4    C7:K       D7:HR>1#
+M.Olson-B7                                    b#
+                                              
+J.Bradle-A1  *3*:G/3    B8:F/9     *8*:K      D8:K
+                                              
+                                              
+B.Crawfo-A1  A9:Do      B9:G/13    C9:Do
+                                   
+                                   
+
+B.Gardne-A1  A1:F/7     B1:W>3# 2  C1:HR>3#   D1:G-DP/5  E1:K       F1:F/8
+                        3 12 b1    2# 1# b#   43>1o                 
+                                                                    
+G.Spring-A1  A2:FO/2    B2:K       C2:K       *6*:E/5    E2:Si>3#   F2:WP>23
+                                                         12         K
+                                                                    
+R.Cano-A1    A3:HR>b#   *3*:F/8    C3:L/4     D3:PB>12   E3:G/31
+                                              G/63>23    
+                                                         
+A.Judge-A1   A4:K       B4:W>b1    *4*:K      D4:G/63>3  *8*:HR>b#
+                                              #          
+                                                         
+J.Martin-A1  *2*:K      B5:HR>1#   C5:HR>b#   D5:G/53    E5:Do
+                        b#                               
+                                                         
+E.Thames-A1  A6:W>b1    B6:HBP     C6:L/4     *7*:G/43   E6:W>b1
+                                                         
+                                                         
+Z.Cozart-A1  A7:Si>12   B7:W>12 b  C7:G/23    D7:HR>b#   E7:Do>2#
+                        1                                13
+                                                         
+C.Headle-A1  A8:K       B8:E/5>23  *5*:G/53   D8:Do      E8:Do>3#
+                        12                               2#
+                                                         
+B.McCann-A1  A9:HBP>23  B9:W>3# 2  C9:W>b1    D9:Si>23   E9:K
+             12         3 12 b1                          
+                                                         
+
+

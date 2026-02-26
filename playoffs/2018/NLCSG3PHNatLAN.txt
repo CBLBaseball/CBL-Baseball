@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2018 Philadelphia Phillies At 2018 Los Angeles(NL) Dodge 10/16/2018
+
+[1]  Phillies           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  O.Herrera CF        4  0  0  0 .321     J.Turner 3B         4  1  3  0 .286  
+  C.Hernandez 2B      4  0  0  0 .250     Y.Puig RF           2  0  0  0 .103  
+  C.Correa SS         3  0  0  0 .227     D.Murphy 2B         2  0  0  0 .258  
+  N.Cruz DH           3  0  1  0 .321   A-E.Hernandez PH,2B   1  0  0  0 .000  
+  R.Hoskins 1B        2  0  0  0 .167   E-T.La Stella PH,2B   1  0  0  0 .333  
+B-P.Valaika PH        1  0  0  0 .400     C.Taylor CF,2B,CF   4  0  2  1 .286  
+C-Y.Gurriel 1B        0  0  0  0 .333     C.Bellinger 1B      4  0  0  0 .133  
+  G.Sanchez C         3  0  0  0 .308     E.Encarnacion DH    2  0  0  0 .120  
+  M.Gonzalez LF       2  0  0  0 .296     J.Reddick LF        2  0  1  0 .364  
+  A.Altherr RF        3  0  0  0 .143     C.Seager SS         3  0  0  0 .179  
+  Y.Sanchez 3B        2  0  1  0 .333     A.Barnes C          2  0  0  0 .267  
+F-M.Haniger PH        1  0  0  0 .182   D-Y.Grandal PH,C      1  0  0  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  2  0                 Totals      28  1  6  1
+
+A-Pinch Hit For Murphy In 6th Inning
+B-Pinch Hit For Hoskins In 7th Inning
+C-Subbed Defensively (1B) For Valaika In 7th Inning
+D-Pinch Hit For Barnes In 7th Inning
+E-Pinch Hit For Hernandez In 8th Inning
+F-Pinch Hit For Sanchez In 9th Inning
+
+Phillies........ 0 0 0  0 0 0  0 0 0  -  0  2  0
+Dodgers......... 0 0 0  0 0 0  0 1    -  1  6  0
+
+[1]Phillies (6-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Nola                       5       4   0   0   1   5   0   2.53  A1 C2
+A.Claudio                    1 2/3   0   0   0   1   1   0   2.08  C3 C8
+P.Neshek LOSS(0-1)           1 1/3   2   1   1   0   3   0   1.80  C9
+[1]Totals                    8       6   1   1   2   9   0
+
+[1]Dodgers (5-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wood WIN(2-0)              8       2   0   0   1  11   0   0.00  A1 C8
+B.Morrow SAVE(2nd)           1       0   0   0   0   2   0   0.00  C9
+[1]Totals                    9       2   0   0   1  13   0
+
+ATTENDANCE- 52,014 DATE- Tuesday, October 16th 2018 TIME- Night 
+UMPIRES- Adrian Johnson, Larry Vanover, Angel Hernandez, Paul Nauert
+T- 2:33
+LEFT ON BASE- Phillies: 2  Dodgers: 7
+DOUBLE PLAYS- Phillies: 1  Dodgers: 1
+DOUBLES- N.Cruz(1st), C.Taylor(1st)
+TRIPLES- Y.Sanchez(1st)
+RBIs- C.Taylor(2nd)
+SACRIFICE HITS- J.Reddick
+WALKS- M.Gonzalez, Y.Puig, E.Encarnacion
+HIT BY PITCH- Y.Puig
+STRIKE OUTS- O.Herrera-2, C.Hernandez-2, C.Correa, N.Cruz, R.Hoskins, P.Valaika,
+             G.Sanchez-3, A.Altherr, M.Haniger, Y.Puig, T.La Stella,
+             C.Bellinger-2, E.Encarnacion, C.Seager-3, A.Barnes
+GIDP- A.Altherr, D.Murphy
+2-out RBI- C.Taylor
+RLISP 2-out- C.Taylor, O.Herrera, R.Hoskins, C.Bellinger-2, Y.Grandal
+TEAM RISP- Phillies: 0 for 2  Dodgers: 0 for 8
+
+Alex Wood mowed down 11 Philadelphia batters and Chris Taylor had 2 base hits
+at Dodger Stadium where the Los Angeles(NL) Dodgers beat the Philadelphia
+Phillies 1 to 0.
+
+Wood(2-0) pitched one of his finer games as he simply was too much for the
+Philadelphia batters.  He surrendered only 2 hits and 1 walk in 8 innings.
+Los Angeles(NL) finished with 6 hits while Philadelphia ended up with 2.
+
+Wood got help from Brandon Morrow who earned his 2nd save.  Pat Neshek(0-1)
+was the loser in relief.  He pitched 1 and 1/3 innings and surrendered 2 hits
+and no walks.
+
+Don Mattingly was asked about the performance of Wood, 'He had his good stuff
+out there tonight.  The fans really get into it when the strikeouts start
+mounting up - and that seems to give him even more adrenalin.'
+[2]
+[1]SCORESHEET: 2018 Philadelphia Phillies at 2018 Los Angeles(NL) Dodgers
+O.Herrer-A1  A1:K       B1:K       C1:L/4     D1:G/53
+                                              
+                                              
+C.Hernan-A1  A2:K       *4*:G/43   C2:G/43    D2:K
+                                              
+                                              
+C.Correa-A1  A3:K       B3:G/63    *7*:F/9
+                                   
+                                   
+N.Cruz-A1    *2*:F/8    B4:Do      C4:K
+                                   
+                                   
+R.Hoskin-A1  A5:G/53    B5:K       C5:K
+P.Valaik-C5                        
+Y.Gurrie-C6                        
+G.Sanche-A1  A6:K       *5*:K      *8*:K
+                                   
+                                   
+M.Gonzal-A1  *3*:G/63   B7:G/43    C7:W>b1
+                                   
+                                   
+A.Alther-A1  A8:K       B8:G/63    C8:G-DP/6
+                                   43>1o
+                                   
+Y.Sanche-A1  A9:Tr      *6*:FO/5   *9*:K
+M.Hanige-C9                        
+                                   
+
+J.Turner-A1  A1:Si      B1:G/63    *6*:Si     *8*:Si
+                                              
+                                              
+Y.Puig-A1    A2:W>12 b  B2:G/53    C2:HBP>12  D2:K
+             1                                
+                                              
+D.Murphy-A1  A3:G-DP/1  *4*:G/63   C3:F/8     D3:K
+E.Hernan-C3  63>23 1o                         
+T.La Ste-D3                                   
+C.Taylor-A1  A4:G/63    B4:Si      C4:Force/  D4:Do>1#
+                                   64>23 1o   
+                                   b1         
+C.Bellin-A1  *2*:G/43   B5:K       C5:G/43    D5:K
+                                              
+                                              
+E.Encarn-A1  A6:F/8     B6:K       *7*:W>b1
+                                   
+                                   
+J.Reddic-A1  A7:Si      *5*:F/7    C7:Sac/14
+                                   >12
+                                   
+C.Seager-A1  A8:K       B8:K       C8:K
+                                   
+                                   
+A.Barnes-A1  *3*:G/53   B9:K       C9:L/3
+Y.Granda-C9                        
+                                   
+
+

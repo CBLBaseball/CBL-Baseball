@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2018 New York (AL) Yankees At 2018 Philadelphia Phillies 10/23/2018
+
+[1]  Yankees            AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  B.Gardner LF        3  0  1  0 .140     O.Herrera CF        4  1  0  0 .362  
+  G.Springer CF       4  0  0  0 .234     C.Hernandez 2B      4  2  2  0 .298  
+  R.Cano 2B           4  0  0  0 .282     M.Haniger RF        2  1  1  0 .174  
+  A.Judge RF          4  2  2  0 .415     N.Cruz DH           3  0  2  2 .313  
+  J.Martinez DH       4  0  1  0 .421     M.Gonzalez LF,SS    4  0  1  2 .273  
+  Z.Cozart SS         3  0  2  2 .471     G.Sanchez C         4  0  0  0 .200  
+  E.Thames 1B         4  0  1  0 .300     C.Utley 1B          3  0  0  0 .250  
+  C.Headley 3B        4  1  2  0 .325     Y.Sanchez 3B        4  0  0  0 .231  
+  B.McCann C          3  0  0  0 .364     C.Correa SS         2  0  0  0 .265  
+B-C.Rupp PH           1  0  0  0 .000   A-N.Williams PH,LF    1  0  0  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  9  2                 Totals      31  4  6  4
+
+A-Pinch Hit For Correa In 8th Inning
+B-Pinch Hit For McCann In 9th Inning
+
+Yankees......... 0 0 0  1 0 1  1 0 0  -  3  9  1
+Phillies........ 0 0 0  0 0 1  0 3    -  4  6  2
+
+[1]Yankees (8-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Severino LOSS(3-1)         7 1/3   5   4   3   2  11   0   2.08  A1 D4
+C.Green BS(1st)              0 2/3   1   0   0   0   2   0   1.80  D5
+[1]Totals                    8       6   4   3   2  13   0
+
+[1]Phillies (9-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Morton                     5 1/3   7   2   2   0   6   0   1.69  A1 C5
+A.Miller                     1       1   1   0   1   1   0   0.00  C6 D1
+H.Neris WIN(1-0)             1 2/3   1   0   0   0   4   0   2.57  D2 D7
+A.Claudio SAVE(3rd)          1       0   0   0   0   0   0   1.13  D8
+[1]Totals                    9       9   3   2   1  11   0
+
+ATTENDANCE- 43,262 DATE- Tuesday, October 23rd 2018 TIME- Night 
+UMPIRES- Lance Barrett, Dana Demuth, Ron Kulpa, Ed Hickox
+T- 2:43
+LEFT ON BASE- Yankees: 6  Phillies: 7
+DOUBLE PLAYS- Yankees: 0  Phillies: 2
+ERRORS- R.Cano, O.Herrera, C.Hernandez
+DOUBLES- B.Gardner(1st), A.Judge(3rd), Z.Cozart(4th), C.Headley(5th)
+RBIs- Z.Cozart-2(22nd), N.Cruz-2(11th), M.Gonzalez-2(10th)
+SACRIFICE FLIES- Z.Cozart
+WALKS- B.Gardner, M.Haniger, N.Cruz
+HIT BY PITCH- M.Haniger, C.Utley
+STRIKE OUTS- G.Springer-2, R.Cano-2, J.Martinez-2, Z.Cozart, E.Thames-2,
+             B.McCann-2, O.Herrera-2, C.Hernandez, N.Cruz, M.Gonzalez-2,
+             G.Sanchez-2, C.Utley, Y.Sanchez-2, C.Correa-2
+GIDP- C.Headley, B.McCann
+2-out RBI- Z.Cozart, N.Cruz
+RLISP 2-out- E.Thames-2, G.Springer, M.Gonzalez, Y.Sanchez-2
+TEAM RISP- Yankees: 1 for 4  Phillies: 2 for 5
+
+Designated hitter Nelson Cruz had 2 base hits and 2 RBI at Citizens Bank Park
+as the Philadelphia Phillies beat the New York (AL) Yankees by the count of 4
+to 3.
+
+Hector Neris(1-0) did a nice job in relief and was credited with the win.  He
+allowed just 1 hit and no walks in 1 and 2/3 innings seeing his ERA drop from
+3.38 to 2.57.  New York (AL) had a chance to come back in the 9th but they
+came up short.  
+
+Alex Claudio earned his 3rd save.  Luis Severino(3-1) was charged with the
+loss.  He struck out 11 batters in 7 and 1/3 innings despite losing the game.
+
+'Thankfully we got ourselves a win', Neris said.  'It's great to be back on
+the winning side of things.'
+[2]
+[1]SCORESHEET: 2018 New York (AL) Yankees at 2018 Philadelphia Phillies
+B.Gardne-A1  A1:E/4     B1:G/43    C1:Do      D1:W>b1
+                                              
+                                              
+G.Spring-A1  A2:K       B2:L/6     C2:G/63    D2:K
+                                              
+                                              
+R.Cano-A1    A3:Force/  *4*:G/43   *6*:K      D3:K
+             54>1o b1                         
+                                              
+A.Judge-A1   A4:G/43    B4:Si      C4:Do      *8*:L/6
+                                              
+                                              
+J.Martin-A1  *2*:G/31   B5:K       C5:Si>23   D5:K
+                                              
+                                              
+Z.Cozart-A1  A6:Si      B6:Do>1#   C6:SF/8>3  D6:K
+                                   # 12       
+                                              
+E.Thames-A1  A7:K       B7:K       C7:F/8     *9*:Si
+                                              
+                                              
+C.Headle-A1  A8:G/43    *5*:Si     *7*:Do+E/  D8:G-DP/6
+                                   8>b#       43>1o
+                                              
+B.McCann-A1  *3*:K      B9:G-DP/6  C9:K       D9:G/63
+C.Rupp-D9               43>1o                 
+                                              
+
+O.Herrer-A1  A1:K       B1:K       C1:F/8     D1:E/4
+                                              
+                                              
+C.Hernan-A1  A2:K       *4*:G/31   C2:Si      D2:Si>13
+                                              
+                                              
+M.Hanige-A1  A3:Si      B3:F/7     C3:HBP>12  D3:W>12 b
+                                              1
+                                              
+N.Cruz-A1    A4:K       B4:Si      C4:Si>2#   D4:W>3# 2
+                                   13         3 12 b1
+                                              
+M.Gonzal-A1  *2*:G/43   B5:K       C5:K       D5:Si>3#
+                                              2# 13
+                                              
+G.Sanche-A1  A6:F/8     *5*:K      *7*:G/63   D6:K
+                                              
+                                              
+C.Utley-A1   A7:G/31    B7:K       C7:L/4     D7:HBP>12
+                                              
+                                              
+Y.Sanche-A1  *3*:K      B8:G/43    C8:F/8     D8:K
+                                              
+                                              
+C.Correa-A1  A9:K       *6*:K      *8*:G/53
+N.Willia-C9                        
+                                   
+
+

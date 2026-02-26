@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2018 Oakland Athletics At 2018 New York (AL) Yankees      10/7/2018
+
+[1]  Athletics          AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  J.Segura DH         5  0  0  0 .222     B.Gardner LF        4  0  0  0 .059  
+  C.Pinder RF         5  0  0  0 .000     G.Springer CF       5  0  1  0 .263  
+  P.Goldschmidt 1B    5  2  1  1 .133     R.Cano 2B           4  0  1  0 .357  
+  J.Donaldson 3B      3  2  3  2 .444     A.Judge RF          5  1  1  0 .235  
+A-J.Lowrie PH         1  1  1  1 .615     J.Martinez DH       5  2  3  0 .467  
+C-M.Chapman 3B        1  0  0  0 .000     E.Thames 1B         4  3  2  3 .500  
+  Y.Cespedes LF       2  0  0  0 .000     Z.Cozart SS         5  2  3  5 .467  
+B-M.Joyce PH          1  0  0  0 .091     C.Headley 3B        3  0  1  0 .357  
+D-J.Jay LF            1  0  0  0 .250     B.McCann C          4  0  1  0 .429  
+  J.Bradley Jr CF     3  0  0  0 .083                                          
+  D.Gordon 2B         4  1  1  0 .235                                          
+  M.Pina C            4  0  0  0 .143                                          
+  B.Crawford SS       4  0  2  1 .214                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  6  8  5                 Totals      39  8 13  8
+
+A-Pinch Hit For Donaldson In 8th Inning
+B-Pinch Hit For Cespedes In 8th Inning
+C-Subbed Defensively (3B) For Lowrie In 8th Inning
+D-Subbed Defensively (LF) For Joyce In 8th Inning
+
+Athletics....... 0 0 0  1 0 2  1 2 0  0 -  6  8  1
+Yankees......... 0 2 0  1 0 0  0 3 0  2 -  8 13  1
+
+[1]Athletics (1-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Samardzija                 6       8   3   3   3   5   2  11.00  A1 C9
+T.Zych HOLD(1st)             1       0   0   0   0   1   0   0.00  D1 D3
+R.Madson BS(1st)             1       3   3   2   0   2   1   6.75  D4 E1
+T.Hunter LOSS(0-1)           1 1/3   2   2   2   0   1   1   6.23  E2
+[1]Totals                    9 1/3  13   8   7   3   9   4
+
+[1]Yankees (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Montgomery                 5 1/3   4   3   3   1   4   3   5.06  A1 C4
+A.Warren                     3 2/3   4   3   2   0   2   0   4.91  C5 E2
+K.Giles WIN(1-0)             1       0   0   0   0   1   0   0.00  E3
+[1]Totals                   10       8   6   5   1   7   3
+
+ATTENDANCE- 45,766 DATE- Sunday, October 7th 2018 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:05
+LEFT ON BASE- Athletics: 5  Yankees: 7
+DOUBLE PLAYS- Athletics: 3  Yankees: 0
+ERRORS- B.Crawford, E.Thames
+DOUBLES- J.Lowrie(2nd), G.Springer(1st), A.Judge(1st), J.Martinez(1st)
+TRIPLES- J.Martinez(1st)
+HOME RUNS- P.Goldschmidt(1st), J.Donaldson-2(2nd), E.Thames-2(2nd),
+           Z.Cozart-2(5th)
+RBIs- P.Goldschmidt(1st), J.Donaldson-2(2nd), J.Lowrie(3rd), B.Crawford(1st),
+      E.Thames-3(4th), Z.Cozart-5(14th)
+STOLEN BASES- D.Gordon(2nd)
+WALKS- Y.Cespedes, B.Gardner, E.Thames, C.Headley
+HIT BY PITCH- J.Bradley Jr, R.Cano
+STRIKE OUTS- J.Segura, C.Pinder-2, P.Goldschmidt-2, J.Bradley Jr, M.Pina,
+             B.Gardner-2, G.Springer-2, J.Martinez-2, Z.Cozart, C.Headley,
+             B.McCann
+GIDP- A.Judge, B.McCann-2
+WILD PITCHES- A.Warren
+2-out RBI- J.Donaldson
+RLISP 2-out- G.Springer, D.Gordon, A.Judge
+TEAM RISP- Athletics: 2 for 5  Yankees: 4 for 12
+
+Zack Cozart rocketed 2 homeruns and had 5 RBI as the New York (AL) Yankees
+topped the Oakland Athletics in 10 innings by a score of 8 to 6 at Yankee
+Stadium.
+
+The score was tied at 6 after nine.  Finally, New York (AL) pulled the game
+out in the 10th inning.  J.D. Martinez led off and started the rally when he
+doubled.  After an out was recorded, Cozart stepped in and he smashed a
+two-run homer making New York (AL) the victors to the delight of the home
+town faithful.  New York (AL) finished with 13 hits while Oakland ended up
+with 8.  
+
+Ken Giles(1-0) allowed no runs in 1 inning, and picked up the victory. Tommy
+Hunter(0-1) was given the loss in relief.  'Everything seemed to click
+tonight,' Cozart said 'if it could only be this easy all the time!'
+[2]
+[1]SCORESHEET: 2018 Oakland Athletics at 2018 New York (AL) Yankees
+J.Segura-A1  A1:K       B1:F/9     C1:F/8     D1:L/6     E1:L/6
+                                                         
+                                                         
+C.Pinder-A1  A2:G/63    *4*:L/6    *6*:K      D2:G/53    E2:K
+                                                         
+                                                         
+P.Goldsc-A1  A3:K       B3:F/9     C3:HR>b#   *8*:E/3>b  *10*:K
+                                              2          
+                                                         
+J.Donald-A1  *2*:Si     B4:HR>b#   C4:HR>b#   D4:Do>2#   E4:G/13
+J.Lowrie-D4                                              
+M.Chapma-D8                                              
+Y.Cesped-A1  A5:F/8     B5:W>b1    C5:G/13    D5:G/43>2  E5:G/43
+M.Joyce-D5                                    3          
+J.Jay-D8                                                 
+J.Bradle-A1  A6:L/6     B6:HBP>12  C6:G/31    D6:WP>3#
+                                              K
+                                              
+D.Gordon-A1  A7:G/13    B7:P/4     *7*:Si     D7:L/4
+                                              
+                                              
+M.Pina-A1    *3*:F/8    *5*:K      C8:SB>12   *9*:L/6
+                                   F/9        
+                                              
+B.Crawfo-A1  A9:F/8     B9:G/31    C9:Si>2#   D9:Si
+                                              
+                                              
+
+B.Gardne-A1  A1:K       B1:W>12 b  *5*:G/43   *7*:K      E1:G/64>1
+                        1                                o
+                                                         
+G.Spring-A1  A2:L/6     B2:K       C2:Do      D2:FO/2    *9*:K
+                                                         
+                                                         
+R.Cano-A1    A3:Si      *3*:FO/2   C3:F/8     D3:G/63    E3:HBP
+                                                         
+                                                         
+A.Judge-A1   A4:G/31    B4:L/6     C4:G/43    *8*:Do     E4:G-DP/6
+                                                         43>1o
+                                                         
+J.Martin-A1  *2*:Tr     B5:K       *6*:Si     D5:K       *10*:Do
+                                                         
+                                                         
+E.Thames-A1  A6:HR>3#   *4*:HR>b#  C6:W>12 b  D6:E/6>23  E6:G/53
+             b#                    1                     
+                                                         
+Z.Cozart-A1  A7:Si      B7:F/7     C7:K       D7:HR>3#   E7:HR>2#
+                                              1# b#      b#
+                                                         
+C.Headle-A1  A8:L/3     B8:W>b1    C8:Si>23   D8:K
+                                   12         
+                                              
+B.McCann-A1  A9:K       B9:G-DP/6  C9:G-DP/6  D9:Si
+                        43>1o      43>1o      
+                                              
+
+

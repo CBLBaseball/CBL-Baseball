@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2018 Oakland Athletics At 2018 New York (AL) Yankees      10/6/2018
+
+[1]  Athletics          AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  D.Gordon 2B         5  2  2  0 .231     G.Springer CF       4  0  1  1 .286  
+  J.Lowrie DH         5  1  4  2 .583     C.Rupp C            2  1  0  0 .000  
+  P.Goldschmidt 1B    4  1  1  0 .100   F-R.Cano PH           0  0  0  0 .400  
+  J.Donaldson 3B      3  1  1  0 .167   G-B.McCann C          0  0  0  0 .667  
+B-J.Segura PH         1  0  1  0 .500     R.Torreyes 2B       4  1  1  0 .167  
+D-M.Chapman 3B        1  0  0  0 .000     A.Judge RF          4  1  1  2 .250  
+  M.Joyce RF,LF       3  2  1  1 .100     J.Martinez DH       4  1  1  2 .400  
+E-Y.Cespedes LF       1  0  0  0 .000     Z.Cozart SS         4  1  0  0 .400  
+  J.Jay LF            1  1  1  0 .333     G.Bird 1B           3  1  0  0 .000  
+A-M.Olson PH,RF       1  1  1  3 .667     C.Headley 3B        4  0  2  1 .364  
+C-C.Pinder PH,RF      2  0  0  0 .000     B.Gardner LF        4  0  0  0 .077  
+  B.Maxwell C         4  0  2  0 .400                                          
+  J.Bradley Jr CF     5  0  1  1 .111                                          
+  B.Crawford SS       4  0  1  0 .100                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  9 16  7                 Totals      33  6  6  6
+
+A-Pinch Hit For Jay In 5th Inning
+B-Pinch Hit For Donaldson In 6th Inning
+C-Pinch Hit For Olson In 6th Inning
+D-Subbed Defensively (3B) For Segura In 6th Inning
+E-Subbed Defensively (LF) For Joyce In 6th Inning
+F-Pinch Hit For Rupp In 7th Inning
+G-Subbed Defensively (C ) For Cano In 8th Inning
+
+Athletics....... 1 2 0  0 4 2  0 0 0  -  9 16  2
+Yankees......... 0 0 0  6 0 0  0 0 0  -  6  6  1
+
+[1]Athletics (1-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Manaea                     4       6   6   5   2   2   1  11.25  A1 C2
+D.Otero WIN(1-0)             1       0   0   0   0   0   0   2.25  C3 C5
+T.Cingrani HOLD(1st)         1       0   0   0   0   1   0   0.00  C6 C8
+T.Hunter HOLD(1st)           1       0   0   0   1   2   0   3.00  C9 D2
+R.Madson HOLD(1st)           1       0   0   0   0   1   0   0.00  D3 D6
+S.Doolittle SAVE(1st)        1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       6   6   5   3   7   1
+
+[1]Yankees (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+I.Nova                       4      10   5   5   0   3   1  11.25  A1 C4
+D.Betances LOSS(0-1)         0       1   2   2   2   0   1   9.00  C5 C7
+M.Belisle                    1       2   2   2   0   0   1  18.00  C8 D2
+S.Oh                         1       1   0   0   0   1   0   0.00  D3 D6
+C.Green                      1 1/3   0   0   0   0   2   0   3.86  D7 E1
+K.Herrera                    1 2/3   2   0   0   0   1   0   0.00  E2
+[1]Totals                    9      16   9   9   2   7   3
+
+ATTENDANCE- 45,595 DATE- Saturday, October 6th 2018 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:48
+LEFT ON BASE- Athletics: 8  Yankees: 3
+DOUBLE PLAYS- Athletics: 1  Yankees: 3
+ERRORS- J.Donaldson, B.Crawford, C.Rupp
+DOUBLES- J.Donaldson(1st), B.Maxwell(1st), R.Torreyes(1st)
+HOME RUNS- J.Lowrie(1st), M.Joyce(1st), M.Olson(1st), J.Martinez(1st)
+RBIs- J.Lowrie-2(2nd), M.Joyce(2nd), M.Olson-3(3rd), J.Bradley Jr(1st),
+      G.Springer(2nd), A.Judge-2(5th), J.Martinez-2(2nd), C.Headley(3rd)
+STOLEN BASES- D.Gordon(1st), P.Goldschmidt(1st)
+WALKS- M.Joyce, B.Maxwell, C.Rupp, R.Cano, G.Bird
+HIT BY PITCH- P.Goldschmidt, J.Jay
+STRIKE OUTS- D.Gordon, P.Goldschmidt, J.Donaldson-2, M.Joyce, C.Pinder,
+             J.Bradley Jr, G.Springer, R.Torreyes, J.Martinez, G.Bird-2,
+             C.Headley, B.Gardner
+GIDP- J.Lowrie, P.Goldschmidt, J.Bradley Jr
+WILD PITCHES- I.Nova-2, S.Oh
+RLISP 2-out- D.Gordon, B.Maxwell-2, C.Pinder, M.Chapman, Z.Cozart
+TEAM RISP- Athletics: 3 for 14  Yankees: 3 for 8
+
+Jed Lowrie had 4 hits and 2 RBI at Yankee Stadium as the Oakland Athletics
+beat the New York (AL) Yankees 9 to 6.
+
+In the top of the 5th inning Oakland scored 4 runs.  The biggest moment was
+provided by Matt Olson who silenced the crowd when he rifled a three-run
+blast.  For the game Oakland out-hit New York (AL) 16 to 6.  
+
+Dan Otero(1-0) went 1 inning allowing no runs for the victory. Otero got help
+from Sean Doolittle who earned his 1st save.  Dellin Betances(0-1) was hit
+with the loss in relief.  He gave up 1 hit and 2 walks without retiring a
+batter.  
+
+[2]
+[1]SCORESHEET: 2018 Oakland Athletics at 2018 New York (AL) Yankees
+D.Gordon-A1  A1:Si      B1:G/63    C1:F/7     *6*:Si     *8*:K
+                                                         
+                                                         
+J.Lowrie-A1  A2:Si>13   *3*:Si     C2:G-DP/4  D2:SB+E/2  E2:Si
+                                   63>1o      >13 HR>3#  
+                                              b#         
+P.Goldsc-A1  A3:G-DP/6  B3:WP>12   *5*:HBP    D3:K       E3:G/3>12
+             43>3# 1o   Si>23                            
+                                                         
+J.Donald-A1  A4:K       B4:SB>12   C4:Do>13   D4:Si      E4:G/43
+J.Segura-D4             K                                
+M.Chapma-D7                                              
+M.Joyce-A1   *2*:HR>b#  B5:K       C5:WP>3#   D5:G/3>12  *9*:FO/2
+Y.Cesped-D7                        23 W>b1               
+                                                         
+J.Jay-A1     A6:Si      B6:HBP     C6:HR>3#   D6:WP>23   E6:K
+M.Olson-C6                         1# b#      G/63       
+C.Pinder-D6                                              
+B.Maxwel-A1  A7:Do>13   B7:G/31    C7:W>b1    *7*:FO/2   E7:Si
+                                                         
+                                                         
+J.Bradle-A1  A8:G/43>3  *4*:Si     C8:G-DP/6  D8:K       E8:F/9
+             # 23                  43>1o                 
+                                                         
+B.Crawfo-A1  A9:F/2     B9:Si>12   C9:G/63    D9:G/63
+                                              
+                                              
+
+G.Spring-A1  A1:G/43    B1:G/54>1  C1:Si>3#   D1:K
+                        o          13         
+                                              
+C.Rupp-A1    A2:G/43    *4*:W>b1   C2:L-DP/5  D2:W>b1 P
+R.Cano-D2                          5>3o       kOff/13>1
+B.McCann-D3                                   o
+R.Torrey-A1  A3:K       B3:Do>13   *5*:G/43   *8*:E/6>b
+                                              2
+                                              
+A.Judge-A1   *2*:F/8    B4:Si>3#   C4:G/63    D4:G/63
+                        2#                    
+                                              
+J.Martin-A1  A5:L/5     B5:HR>1#   C5:F/8     D5:K
+                        b#                    
+                                              
+Z.Cozart-A1  A6:F/8     B6:E/5>b2  *6*:G/43   D6:L/6
+                                              
+                                              
+G.Bird-A1    *3*:K      B7:W>b1    C7:L/3     *9*:K
+                                              
+                                              
+C.Headle-A1  A8:Si      B8:Si>2#   C8:K       D8:F/7
+                        13                    
+                                              
+B.Gardne-A1  A9:F/7     B9:L/4     *7*:K      D9:G/63
+                                              
+                                              
+
+

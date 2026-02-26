@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2018 Philadelphia Phillies At 2018 New York (AL) Yankees 10/27/2018
+
+[1]  Phillies           AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  C.Hernandez 2B      4  1  2  1 .305     B.Gardner LF        6  0  1  2 .161  
+  O.Herrera CF        3  1  2  1 .351     G.Springer CF       3  2  1  2 .203  
+  M.Haniger RF        3  0  1  0 .185     R.Cano 2B           5  0  0  0 .250  
+  N.Cruz DH           4  0  0  0 .293     A.Judge RF          4  1  1  1 .407  
+  M.Gonzalez LF       4  0  0  0 .250     J.Martinez DH       2  1  0  0 .362  
+  G.Sanchez C         4  0  1  0 .212   A-G.Bird PH,DH        2  1  1  0 .143  
+  C.Correa SS         2  0  0  0 .237     Z.Cozart SS         3  1  1  0 .488  
+D-N.Williams PH       1  0  0  0 .294   B-C.Rupp PH,C         1  1  1  0 .111  
+  Y.Gurriel 1B        4  0  1  0 .217     E.Thames 1B         4  3  2  5 .275  
+  Y.Sanchez 3B        4  0  0  0 .158     C.Headley 3B        3  3  3  2 .380  
+                                          B.McCann C          3  1  1  0 .360  
+                                        C-R.Torreyes PH,SS    1  0  0  0 .091  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      37 14 12 12
+
+A-Pinch Hit For Martinez In 6th Inning
+B-Pinch Hit For Cozart In 8th Inning
+C-Pinch Hit For McCann In 8th Inning
+D-Pinch Hit For Correa In 9th Inning
+
+Phillies........ 0 0 0  0 0 0  0 2 0  -  2  7  1
+Yankees......... 0 1 0  0 6 1  2 4    - 14 12  1
+
+[1]Phillies (9-6)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Nola LOSS(0-1)             3 2/3   3   1   1   4   4   1   1.89  A1 B9
+A.Miller                     0 2/3   0   1   1   1   1   0   2.08  C1 C3
+H.Neris                      0 1/3   0   2   1   2   0   0   3.24  C4 C6
+D.Barnes                     0       1   3   0   2   0   0  18.00  C7 D1
+B.Cecil                      3 1/3   8   7   7   0   2   4  11.81  D2
+[1]Totals                    8      12  14  10   9   7   5
+
+[1]Yankees (11-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+I.Nova WIN(1-0)              6 2/3   4   0   0   2   5   0   3.68  A1 C8
+S.Oh                         2 1/3   3   2   2   0   0   2   7.11  C9
+[1]Totals                    9       7   2   2   2   5   2
+
+ATTENDANCE- 47,480 DATE- Saturday, October 27th 2018 TIME- Night 
+UMPIRES- Bill Miller, Mike Everitt, Chad Fairchild, Vic Carapazza
+T- 3:25
+LEFT ON BASE- Phillies: 7  Yankees: 8
+DOUBLE PLAYS- Phillies: 0  Yankees: 1
+ERRORS- O.Herrera, R.Cano
+DOUBLES- M.Haniger(2nd), B.Gardner(2nd), Z.Cozart(6th), C.Headley(6th)
+HOME RUNS- C.Hernandez(1st), O.Herrera(1st), G.Springer(3rd), A.Judge(7th),
+           E.Thames-2(5th), C.Headley(2nd)
+RBIs- C.Hernandez(6th), O.Herrera(5th), B.Gardner-2(12th), G.Springer-2(8th),
+      A.Judge(21st), E.Thames-5(12th), C.Headley-2(11th)
+SACRIFICE HITS- O.Herrera
+WALKS- M.Haniger, C.Correa, G.Springer-2, A.Judge, J.Martinez, Z.Cozart,
+       E.Thames, C.Headley-2, B.McCann
+STRIKE OUTS- N.Cruz-2, G.Sanchez, C.Correa, Y.Gurriel, B.Gardner, R.Cano,
+             A.Judge, J.Martinez, Z.Cozart, E.Thames-2
+GIDP- C.Hernandez
+WILD PITCHES- I.Nova
+2-out RBI- E.Thames, C.Headley, B.Gardner-2, G.Springer-2
+RLISP 2-out- N.Cruz-2, J.Martinez, G.Springer-2, M.Gonzalez, B.Gardner,
+             E.Thames, Y.Sanchez
+TEAM RISP- Phillies: 0 for 6  Yankees: 3 for 13
+
+Eric Thames ripped 2 homeruns and had 5 RBI at Yankee Stadium as the New York
+(AL) Yankees embarrassed the Philadelphia Phillies by the lopsided score of
+14 to 2.
+
+Thames was spectacular at the plate.  The hometown fans showed their
+appreciation with a standing ovation his last time at bat.  He smashed a
+bases-empty 'big-fly' in the 2nd inning and launched a three-run homer in the
+8th inning.  For the game New York (AL) out-hit Philadelphia 12 to 7.  
+
+Ivan Nova(1-0) allowed no runs in 6 and 2/3 innings, and picked up the
+victory. Aaron Nola(0-1) was the loser.  He pitched 3 and 2/3 innings and
+surrendered 3 hits and 4 walks.
+
+[2]
+[1]SCORESHEET: 2018 Philadelphia Phillies at 2018 New York (AL) Yankees
+C.Hernan-A1  A1:Si      B1:G/63    C1:G-DP/4  *8*:HR>b#
+                                   63>1o      
+                                              
+O.Herrer-A1  A2:Sac/24  *4*:G/63   C2:Si      D2:HR>b#
+             >12                              
+                                              
+M.Hanige-A1  A3:G/53    B3:Do      C3:W>12 b  D3:L/6
+                                   1          
+                                              
+N.Cruz-A1    A4:WP>23   B4:K       C4:K       D4:G/13
+             G/63                             
+                                              
+M.Gonzal-A1  *2*:G/43   B5:F/7     *7*:L/4    D5:G/43
+                                              
+                                              
+G.Sanche-A1  A6:L/4     *5*:F/8    C6:K       *9*:Si
+                                              
+                                              
+C.Correa-A1  A7:F/7     B7:K       C7:W>b1    D7:L/3
+N.Willia-D7                                   
+                                              
+Y.Gurrie-A1  *3*:K      B8:G/53    C8:Si>13   D8:L/6
+                                              
+                                              
+Y.Sanche-A1  A9:G/31    *6*:E/4    C9:F/8     D9:F/8
+                                              
+                                              
+
+B.Gardne-A1  A1:F/8     B1:F/8     C1:K       D1:Do>3#   E1:L/5     F1:G/63
+                                              2#                    
+                                                                    
+G.Spring-A1  A2:W>b1    B2:F/9     *5*:W>b1   D2:G/43    E2:HR>2#
+                                                         b#
+                                                         
+R.Cano-A1    A3:L/4     *3*:G/63   C3:G/43>1  *6*:K      E3:F/8
+                                   2                     
+                                                         
+A.Judge-A1   A4:W>12 b  B4:K       C4:F/7     D4:HR>b#   *8*:F/8
+             1                                           
+                                                         
+J.Martin-A1  A5:F/9     B5:K       C5:IW>b1   D5:G/43    E5:Si
+G.Bird-D5                                                
+                                                         
+Z.Cozart-A1  *2*:K      *4*:L/6    C6:W>23 1  D6:Do      E6:Si>12
+C.Rupp-E6                          2 b1                  
+                                                         
+E.Thames-A1  A7:HR>b#   B7:K       C7:W>3# 2  D7:K       E7:HR>2#
+                                   3 12 b1               1# b#
+                                                         
+C.Headle-A1  A8:Si      B8:W>b1    C8:W>3# 2  *7*:Do     E8:HR>b#
+                                   3 12 b1               
+                                                         
+B.McCann-A1  A9:Si>12   B9:W>12 b  C9:E/8>3#  D9:G/13    E9:F/8
+R.Torrey-E9             1          2# 13 b2              
+                                                         
+
+

@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2018 Minnesota Twins At 2018 New York (AL) Yankees       10/17/2018
+
+[1]  Twins              AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  J.Mauer 1B          5  0  2  0 .294     B.Gardner LF        4  0  0  0 .125  
+  D.Span DH           2  0  1  1 .231     G.Springer CF       4  2  2  0 .256  
+A-M.Sano PH,DH        2  0  0  0 .273     R.Cano 2B           4  1  1  2 .314  
+  B.Dozier 2B         4  1  2  1 .189     A.Judge RF          2  1  1  0 .405  
+  J.Bruce RF          5  0  0  0 .216     J.Martinez DH       4  1  1  1 .441  
+  E.Rosario LF        4  1  2  1 .242     E.Thames 1B         3  1  1  3 .308  
+  T.Frazier 3B        4  0  0  0 .107     Z.Cozart SS         3  0  0  0 .452  
+  S.Vogt C            2  0  1  0 .200     C.Headley 3B        4  0  1  0 .306  
+B-E.Gattis PH,C       2  0  0  0 .167     B.McCann C          3  0  0  0 .421  
+  B.Buxton CF         3  1  3  0 .276                                          
+  A.Hechavarria SS    1  0  0  0 .188                                          
+C-R.Grossman PH       1  0  0  0 .250                                          
+D-J.Mercer SS         1  0  0  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  3 11  3                 Totals      31  6  7  6
+
+A-Pinch Hit For Span In 5th Inning
+B-Pinch Hit For Vogt In 6th Inning
+C-Pinch Hit For Hechavarria In 6th Inning
+D-Subbed Defensively (SS) For Grossman In 6th Inning
+
+Twins........... 0 0 1  0 0 0  0 1 1  -  3 11  0
+Yankees......... 0 0 0  2 0 4  0 0    -  6  7  0
+
+[1]Twins (4-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana LOSS(1-2)          5 2/3   4   5   5   2   3   1   5.11  A1 C5
+T.Hildenberg                 1 1/3   2   1   1   0   3   1   1.17  C6 D2
+B.Kintzler                   0 2/3   1   0   0   1   0   0   2.45  D3 D6
+J.Berrios                    0       0   0   0   1   0   0  12.60  D7 D7
+J.McGee                      0 1/3   0   0   0   0   0   0   6.75  D8
+[1]Totals                    8       7   6   6   4   6   2
+
+[1]Yankees (8-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+I.Nova                       4       5   1   1   1   5   0   6.75  A1 B9
+D.Betances WIN(1-1)          1 1/3   1   0   0   1   2   0   5.40  C1 C6
+K.Herrera HOLD(1st)          0 1/3   1   0   0   0   0   0   0.00  C7 C8
+M.Belisle HOLD(1st)          1 1/3   2   1   1   0   2   1  11.57  C9 D5
+C.Green                      1       1   0   0   0   0   0   2.08  D6 D9
+K.Giles                      1       1   1   1   0   1   1   4.50  E1
+[1]Totals                    9      11   3   3   2  10   2
+
+ATTENDANCE- 49,518 DATE- Wednesday, October 17th 2018 TIME- Night 
+UMPIRES- Dana Demuth, Ron Kulpa, Ed Hickox, Lance Barrett
+T- 2:45
+LEFT ON BASE- Twins:10  Yankees: 5
+DOUBLE PLAYS- Twins: 0  Yankees: 0
+DOUBLES- J.Mauer(2nd), D.Span(1st), B.Buxton(3rd), G.Springer(2nd)
+HOME RUNS- B.Dozier(2nd), E.Rosario(2nd), R.Cano(3rd), E.Thames(3rd)
+RBIs- D.Span(2nd), B.Dozier(3rd), E.Rosario(2nd), R.Cano-2(6th),
+      J.Martinez(8th), E.Thames-3(7th)
+STOLEN BASES- D.Span(1st), B.Buxton(1st)
+CAUGHT STEALING- E.Rosario
+SACRIFICE HITS- A.Hechavarria
+WALKS- M.Sano, B.Dozier, A.Judge-2, E.Thames, Z.Cozart
+HIT BY PITCH- B.Buxton
+STRIKE OUTS- M.Sano, B.Dozier-2, J.Bruce-3, E.Rosario, T.Frazier, S.Vogt,
+             A.Hechavarria, G.Springer, E.Thames, Z.Cozart, C.Headley,
+             B.McCann-2
+PASSED BALLS- E.Gattis
+2-out RBI- J.Martinez, E.Thames-3, B.Dozier
+RLISP 2-out- J.Bruce-3, A.Hechavarria, E.Rosario, R.Grossman, G.Springer,
+             J.Mercer, C.Headley-2
+TEAM RISP- Twins: 1 for 13  Yankees: 3 for 6
+
+George Springer had 2 base hits as the New York (AL) Yankees beat the
+Minnesota Twins by a score of 6 to 3.
+
+Dellin Betances(1-1) was called upon to do the job and he was the winning
+pitcher.  He allowed 1 hit and 1 walk in 1 and 1/3 innings.  Minnesota
+out-hit New York (AL) 11 to 7, but New York (AL) ended up with more runs.
+
+Ervin Santana(1-2) was given the loss.  He gave up 5 runs and 4 hits in 5 and
+2/3 innings.
+[2]
+[1]SCORESHEET: 2018 Minnesota Twins at 2018 New York (AL) Yankees
+J.Mauer-A1   A1:F/8     B1:Si>23   *5*:G/31   *7*:Do     *9*:G/53
+                                                         
+                                                         
+D.Span-A1    A2:Do      B2:Force/  C2:W>b1    D2:F/7     E2:K
+M.Sano-C2               64>3# 1o                         
+                        b1                               
+B.Dozier-A1  A3:K       B3:SB>12   C3:Si>12   D3:K       E3:HR>b#
+                        W>b1                             
+                                                         
+J.Bruce-A1   A4:FO/2    B4:K       C4:K       D4:K       E4:F/8
+                                                         
+                                                         
+E.Rosari-A1  *2*:Si     *4*:P/4    C5:K       *8*:HR>b#
+                                              
+                                              
+T.Frazie-A1  A6:CS/24>  B6:G/53    *6*:G/43   D6:G/63
+             1o K                             
+                                              
+S.Vogt-A1    A7:K       B7:Si      C7:G/43    D7:G/63
+E.Gattis-C7                                   
+                                              
+B.Buxton-A1  *3*:HBP    B8:Si>13   C8:Si      D8:Do
+                                              
+                                              
+A.Hechav-A1  A9:Sac/34  B9:K       C9:SB>12   D9:G/13
+R.Grossm-C9  >12                   G/43       
+J.Mercer-D1                                   
+
+B.Gardne-A1  A1:F/7     B1:P/6     *6*:F/9    D1:G/43>1
+                                              2
+                                              
+G.Spring-A1  A2:G/43    *4*:Do     C2:Si      D2:K
+                                              
+                                              
+R.Cano-A1    A3:G/43    B3:HR>2#   C3:PB>12   *8*:G/43
+                        b#         G/63       
+                                              
+A.Judge-A1   *2*:W>b1   B4:G/63    C4:W>b1    D4:Si
+                                              
+                                              
+J.Martin-A1  A5:P/6     B5:G/43    C5:Si>2#   D5:L/6
+                                   13         
+                                              
+E.Thames-A1  A6:K       B6:G/63    C6:HR>3#   D6:W>12 b
+                                   1# b#      1
+                                              
+Z.Cozart-A1  A7:F/7     *5*:P/6    C7:K       D7:W>23 1
+                                              2 b1
+                                              
+C.Headle-A1  *3*:G/43   B8:K       *7*:Si     D8:F/9
+                                              
+                                              
+B.McCann-A1  A9:L/3     B9:K       C9:K
+                                   
+                                   
+
+

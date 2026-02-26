@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2018 Kansas City Royals At 2018 Minnesota Twins           10/3/2018
+
+[1]  Royals             AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  A.Rizzo 1B          5  0  0  0 .000     B.Dozier 2B         5  1  1  0 .200  
+  J.Dyson LF          4  1  2  1 .500     J.Mauer 1B          4  0  1  0 .250  
+  L.Cain CF           3  0  0  0 .000     T.Frazier 3B        3  0  0  0 .000  
+  E.Nunez DH          3  0  0  0 .000     J.Bruce RF          4  0  1  1 .250  
+  W.Merrifield 2B     3  0  1  0 .333     R.Grichuk DH        4  0  0  0 .000  
+  M.Moustakas 3B      4  0  1  0 .250     E.Rosario LF        4  0  1  0 .250  
+D-G.Urshela 3B        0  0  0  0 ----     E.Gattis C          2  0  1  0 .500  
+  N.Aoki RF           2  0  1  0 .500   C-R.Chirinos C        2  0  0  0 .000  
+A-G.Hernandez RF      2  0  0  0 .000     J.Mercer SS         2  0  0  0 .000  
+  A.Escobar SS        4  1  2  1 .500   B-A.Hechavarria SS    1  0  0  0 .000  
+  C.Joseph C          4  0  0  0 .000     B.Buxton CF         3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  7  2                 Totals      34  1  5  1
+
+A-Subbed Defensively (RF) For Aoki In 5th Inning
+B-Subbed Defensively (SS) For Mercer In 7th Inning
+C-Subbed Defensively (C ) For Gattis In 7th Inning
+D-Subbed Defensively (3B) For Moustakas In 10th Inning
+
+Royals.......... 0 0 0  0 0 0  0 0 1  1 -  2  7  0
+Twins........... 0 0 0  0 0 1  0 0 0  0 -  1  5  0
+
+[1]Royals (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Greinke                    6       5   1   1   0   7   0   1.50  A1 C5
+R.Buchter                    2       0   0   0   0   2   0   0.00  C6 D2
+W.Davis WIN(1-0)             2       0   0   0   3   3   0   0.00  D3
+[1]Totals                   10       5   1   1   3  12   0
+
+[1]Twins (0-1)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana                    8 1/3   6   1   1   2   3   1   1.08  A1 D4
+B.Kintzler LOSS(0-1)         1 2/3   1   1   1   0   1   1   5.40  D5
+[1]Totals                   10       7   2   2   2   4   2
+
+ATTENDANCE- 36,734 DATE- Wednesday, October 3rd 2018 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 3:12
+LEFT ON BASE- Royals: 5  Twins: 6
+DOUBLE PLAYS- Royals: 0  Twins: 0
+DOUBLES- B.Dozier(1st), E.Rosario(1st), E.Gattis(1st)
+HOME RUNS- J.Dyson(1st), A.Escobar(1st)
+RBIs- J.Dyson(1st), A.Escobar(1st), J.Bruce(1st)
+CAUGHT STEALING- J.Dyson, W.Merrifield
+SACRIFICE HITS- E.Nunez
+WALKS- L.Cain, W.Merrifield, T.Frazier, A.Hechavarria, B.Buxton
+STRIKE OUTS- J.Dyson, W.Merrifield, C.Joseph-2, B.Dozier-2, T.Frazier-2,
+             J.Bruce-2, R.Grichuk, R.Chirinos, J.Mercer, B.Buxton-3
+WILD PITCHES- E.Santana
+2-out RBI- J.Bruce
+RLISP 2-out- E.Gattis, R.Grichuk, B.Buxton, M.Moustakas, B.Dozier
+TEAM RISP- Royals: 0 for 2  Twins: 1 for 9
+
+Jarrod Dyson slammed a homerun as the Kansas City Royals defeated the
+Minnesota Twins in 10 innings by the score of 2 to 1 at Target Field.
+
+Both teams had scored 1 runs after nine full innings.  Finally, Kansas City
+pulled the game out in the 10th inning.  After an out was recorded, Alcides
+Escobar smashed a solo-shot out of the park.  The teams had been locked in a
+scoreless duel until the 6th inning.  
+
+The winning pitcher was Wade Davis(1-0) who allowed no runs in 2 innings.
+Brandon Kintzler(0-1) ended up with the loss in relief.  He pitched 1 and 2/3
+innings allowing 1 hit and no walks.
+[2]
+[1]SCORESHEET: 2018 Kansas City Royals at 2018 Minnesota Twins
+A.Rizzo-A1   A1:F/9     B1:F/9     C1:F/9     D1:L/3     E1:F/9
+                                                         
+                                                         
+J.Dyson-A1   A2:Si      *4*:K      C2:L/4     *9*:HR>b#
+                                              
+                                              
+L.Cain-A1    A3:CS/24>  B3:F/9     *7*:F/7    D3:W>b1
+             1o G/23                          
+                                              
+E.Nunez-A1   *2*:F/8    B4:G/53    C4:G/13    D4:Sac/54
+                                              >12
+                                              
+W.Merrif-A1  A5:K       *5*:Si     C5:W>b1    D5:WP>23
+                                              L/6
+                                              
+M.Mousta-A1  A6:Si      B6:CS/26>  C6:G/31    D6:G/53
+G.Urshel-E2             1o L/3                
+                                              
+N.Aoki-A1    A7:G/43    B7:Si      *8*:P/6    *10*:G/63
+G.Hernan-B9                                   
+                                              
+A.Escoba-A1  *3*:L/6    B8:G/3     C8:Si      D8:HR>b#
+                                              
+                                              
+C.Joseph-A1  A9:G/13    *6*:K      C9:Force/  D9:K
+                                   46>1o b1   
+                                              
+
+B.Dozier-A1  A1:G/53    B1:K       *6*:Do     D1:G/23    E1:K
+                                                         
+                                                         
+J.Mauer-A1   A2:L/4     *4*:Si     C2:F/9>23  D2:G/63
+                                              
+                                              
+T.Frazie-A1  A3:K       B3:G/43>1  C3:K       *9*:W>b1
+                        2                     
+                                              
+J.Bruce-A1   *2*:F/8    B4:K       C4:Si>3#   D4:PkOff/
+                                              13>1o K
+                                              
+R.Grichu-A1  A5:G/63    B5:L/4     C5:G/63    D5:K
+                                              
+                                              
+E.Rosari-A1  A6:Do      *5*:G/43   *7*:G/43   *10*:L/4
+                                              
+                                              
+E.Gattis-A1  A7:G/63    B7:Do      C7:K       D7:L/4
+R.Chirin-C6                                   
+                                              
+J.Mercer-A1  *3*:G/63   B8:K       C8:FO/2    D8:W>b1
+A.Hechav-C6                                   
+                                              
+B.Buxton-A1  A9:K       B9:K       *8*:K      D9:W>12 b
+                                              1
+                                              
+
+

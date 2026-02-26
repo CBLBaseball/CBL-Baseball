@@ -1,0 +1,139 @@
+[1]BOXSCORE: 2018 Los Angeles(NL) Dodgers At 2018 Philadelphia Philli 10/20/2018
+
+[1]  Dodgers            AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  J.Turner 3B         5  0  2  1 .308     C.Hernandez 2B      5  0  1  0 .282  
+  Y.Puig RF           5  0  3  0 .214     N.Williams RF,LF    5  0  1  1 .222  
+  D.Murphy 2B         5  1  2  0 .295     C.Correa SS         1  0  0  0 .241  
+  C.Taylor CF         5  2  1  0 .270   A-Y.Sanchez PH,SS     3  0  1  0 .286  
+  C.Bellinger 1B      4  1  2  3 .175     N.Cruz DH           4  1  1  0 .275  
+  E.Encarnacion DH    5  2  2  2 .135     G.Sanchez C         1  1  0  0 .229  
+  J.Reddick LF        4  2  2  2 .323     O.Herrera CF        3  1  2  0 .342  
+  C.Seager SS         4  1  1  1 .184     R.Hoskins 1B        1  1  0  0 .154  
+  Y.Grandal C         3  0  0  0 .133   B-C.Utley PH,1B       1  1  1  41.000  
+F-E.Hernandez PH      1  0  0  0 .000   C-Y.Gurriel PH,1B     1  0  0  0 .214  
+G-A.Barnes C          0  0  0  0 .313     P.Valaika 3B        3  0  0  0 .250  
+                                        D-J.Alfaro PH         1  0  0  0 .333  
+                                        E-M.Haniger RF        0  0  0  0 .167  
+                                          M.Gonzalez LF,3B    4  1  1  1 .257  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  9 15  9                 Totals      33  6  8  6
+
+A-Pinch Hit For Correa In 6th Inning
+B-Pinch Hit For Hoskins In 6th Inning
+C-Pinch Hit For Utley In 8th Inning
+D-Pinch Hit For Valaika In 8th Inning
+E-Subbed Defensively (RF) For Alfaro In 9th Inning
+F-Pinch Hit For Grandal In 9th Inning
+G-Subbed Defensively (C ) For Hernandez In 9th Inning
+
+Dodgers......... 0 2 0  0 3 4  0 0 0  -  9 15  0
+Phillies........ 0 0 2  0 0 4  0 0 0  -  6  8  0
+
+[1]Dodgers (7-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(2-1)           7       8   6   6   4   7   1   4.50  A1 D5
+D.Farquhar                   0       0   0   0   1   0   0   0.00  D6 D6
+K.Jansen HOLD(1st)           0 2/3   0   0   0   0   2   0   1.69  D7 D8
+T.Olson HOLD(1st)            0 1/3   0   0   0   0   0   0   5.40  D9 D9
+B.Morrow SAVE(4th)           1       0   0   0   0   0   0   0.00  E1
+[1]Totals                    9       8   6   6   5   9   1
+
+[1]Phillies (7-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cobb LOSS(2-1)             6      14   9   9   2   6   3   5.89  A1 D7
+D.Barnes                     0 1/3   0   0   0   1   0   0   0.00  D8 D9
+H.Neris                      0 2/3   0   0   0   0   1   0   2.08  E1 E2
+A.Miller                     1       1   0   0   0   1   0   0.00  E3 E6
+A.Claudio                    1       0   0   0   0   0   0   1.50  E7
+[1]Totals                    9      15   9   9   3   8   3
+
+ATTENDANCE- 41,305 DATE- Saturday, October 20th 2018 TIME- Night 
+UMPIRES- Laz Diaz, Mark Carlson, Scott Barry, Jeff Nelson
+T- 3:13
+LEFT ON BASE- Dodgers: 9  Phillies: 6
+DOUBLE PLAYS- Dodgers: 2  Phillies: 0
+DOUBLES- D.Murphy-2(3rd), E.Encarnacion(2nd), C.Seager(2nd), N.Cruz(2nd),
+         M.Gonzalez(3rd)
+TRIPLES- Y.Sanchez(2nd)
+HOME RUNS- C.Bellinger(3rd), E.Encarnacion(3rd), J.Reddick(1st), C.Utley(1st)
+RBIs- J.Turner(4th), C.Bellinger-3(8th), E.Encarnacion-2(6th), J.Reddick-2(5th),
+      C.Seager(4th), N.Williams(1st), C.Utley-4(4th), M.Gonzalez(7th)
+SACRIFICE HITS- Y.Grandal
+WALKS- C.Bellinger, J.Reddick, C.Seager, C.Correa, G.Sanchez-2, O.Herrera,
+       R.Hoskins
+HIT BY PITCH- G.Sanchez
+STRIKE OUTS- Y.Puig, C.Taylor, C.Bellinger-2, E.Encarnacion-3, J.Reddick,
+             N.Williams-2, N.Cruz, G.Sanchez, Y.Gurriel, P.Valaika-3, J.Alfaro
+GIDP- C.Correa, O.Herrera
+BALKS- C.Kershaw
+WILD PITCHES- A.Cobb
+2-out RBI- J.Turner, N.Williams, C.Bellinger-3, E.Encarnacion
+RLISP 2-out- C.Bellinger-2, D.Murphy, C.Seager, N.Cruz-2, Y.Puig, M.Gonzalez
+TEAM RISP- Dodgers: 4 for 12  Phillies: 4 for 11
+
+The Los Angeles(NL) Dodgers bested the Philadelphia Phillies by a 9 to 6 score
+at Citizens Bank Park.
+
+Clayton Kershaw(2-1) contributed a pedestrian performance to earn the win.  He
+surrendered 8 hits and 4 walks in 7 innings.  Brandon Morrow came throught
+with a perfect ninth inning to earn his 4th save.  
+
+Alex Cobb(2-1) was hit with the loss.  He surrended 3 homeruns in his 6
+innings.
+[2]
+[1]SCORESHEET: 2018 Los Angeles(NL) Dodgers at 2018 Philadelphia Phillies
+J.Turner-A1  A1:Si      B1:Si>2#   C1:G/63    *6*:F/8    E1:G/13
+                                                         
+                                                         
+Y.Puig-A1    A2:Force/  B2:Si>13   C2:Si      D2:Si      E2:K
+             46>1o b1                                    
+                                                         
+D.Murphy-A1  A3:Do>13   B3:F/8     C3:L/4     D3:Do>13   *8*:G/63
+                                                         
+                                                         
+C.Taylor-A1  A4:K       *3*:L/6    *5*:Si     D4:FC/52>  E4:F/7
+                                              3o 23      
+                                                         
+C.Bellin-A1  A5:K       B5:W>b1    C5:K       D5:HR>3#   E5:Si
+                                              1# b#      
+                                                         
+E.Encarn-A1  *2*:K      B6:K       C6:WP>12   D6:HR>b#   E6:K
+                                   Do>2#                 
+                                                         
+J.Reddic-A1  A7:Si      B7:W>12 b  C7:HR>2#   D7:K       *9*:G/3
+                        1          b#                    
+                                                         
+C.Seager-A1  A8:Do>1#   B8:G/31    C8:G/63    *7*:W>b1   E8:G/43
+                                                         
+                                                         
+Y.Granda-A1  A9:G/13    *4*:G/43   C9:G/31    D9:Sac/34  E9:F/7
+E.Hernan-E9                                   >12        
+A.Barnes-F1                                              
+
+C.Hernan-A1  A1:Si      B1:G/53    C1:FO/2    *7*:G/53   *9*:F/7
+                                                         
+                                                         
+N.Willia-A1  A2:K       B2:Si>2#   C2:K       D2:G/63    E2:F/8
+                                                         
+                                                         
+C.Correa-A1  A3:G-DP/6  B3:W>12 b  *6*:G/31   D3:Tr      E3:G/43
+Y.Sanche-C3  43>1o      1                                
+                                                         
+N.Cruz-A1    *2*:K      B4:G/63    C4:Do      D4:G/53
+                                              
+                                              
+G.Sanche-A1  A5:W>b1    *4*:K      C5:HBP     *8*:W>b1
+                                              
+                                              
+O.Herrer-A1  A6:G-DP/5  B6:Si      C6:Si>23   D6:W>12 b
+             43>1o                 12         1
+                                              
+R.Hoskin-A1  *3*:W>b1   B7:F/9     C7:HR>3#   D7:K
+C.Utley-C7                         2# 1# b#   
+Y.Gurrie-D7                                   
+P.Valaik-A1  A8:Bk>12   B8:K       C8:K       D8:K
+J.Alfaro-D8  K                                
+M.Hanige-E1                                   
+M.Gonzal-A1  A9:Do>2#   *5*:G/63   C9:G/13    D9:L/5
+                                              
+                                              
+
+

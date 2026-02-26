@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2018 New York (NL) Mets At 2018 Los Angeles(NL) Dodgers   10/4/2018
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Reyes SS          3  0  0  0 .167     D.Murphy 2B         4  1  1  0 .250  
+  A.McCutchen CF      4  1  2  1 .250     Y.Puig RF           4  1  1  0 .143  
+  A.Cabrera 2B        4  0  2  0 .500     C.Bellinger 1B      3  1  1  2 .333  
+  D.Robinson DH       3  0  0  0 .000     J.Turner 3B         3  0  0  0 .167  
+A-N.Walker PH,DH      2  0  0  0 .000     J.Reddick CF        4  0  1  2 .143  
+  W.Castillo C        4  0  1  1 .143     E.Encarnacion DH    4  1  1  1 .143  
+  Y.Alonso 1B         4  1  1  0 .375     C.Seager SS         3  0  1  0 .143  
+  W.Flores 3B         3  0  2  0 .750     C.Taylor LF         4  0  1  0 .333  
+B-J.Lamb PH           0  1  0  0 .000     A.Barnes C          3  1  1  0 .250  
+  G.Parra LF          4  0  0  0 .000                                          
+  C.Granderson RF     4  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  2                 Totals      32  5  8  5
+
+A-Pinch Hit For Robinson In 8th Inning
+B-Pinch Hit For Flores In 9th Inning
+
+Mets............ 0 0 0  0 1 1  0 0 1  -  3  8  0
+Dodgers......... 0 1 2  0 2 0  0 0    -  5  8  2
+
+[1]Mets (0-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cashner LOSS(0-1)       8       8   5   5   2   1   1   5.63  A1
+[1]Totals                    8       8   5   5   2   1   1
+
+[1]Dodgers (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)        7       7   2   1   2   6   0   1.29  A1 D3
+B.Morrow HOLD(2nd)        1       0   0   0   0   1   0   0.00  D4 D6
+K.Jansen SAVE(1st)        1       1   1   1   2   1   0   6.75  D7
+[1]Totals                    9       8   3   2   4   8   0
+
+ATTENDANCE- 51,739 DATE- Thursday, October 4th 2018 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:53
+LEFT ON BASE- Mets:10  Dodgers: 6
+DOUBLE PLAYS- Mets: 0  Dodgers: 2
+ERRORS- D.Murphy, C.Kershaw
+DOUBLES- D.Murphy(1st), C.Bellinger(2nd)
+HOME RUNS- E.Encarnacion(1st)
+RBIs- A.McCutchen(1st), W.Castillo(1st), C.Bellinger-2(2nd), J.Reddick-2(2nd),
+      E.Encarnacion(1st)
+WALKS- J.Reyes-2, A.McCutchen, J.Lamb, C.Bellinger, C.Seager
+HIT BY PITCH- A.Cabrera, J.Turner
+STRIKE OUTS- A.McCutchen, D.Robinson, N.Walker, W.Castillo-3, W.Flores, G.Parra,
+             C.Taylor
+GIDP- J.Reyes, D.Robinson
+WILD PITCHES- C.Kershaw
+2-out RBI- E.Encarnacion, C.Bellinger-2, J.Reddick-2, W.Castillo, A.McCutchen
+RLISP 2-out- J.Turner, E.Encarnacion, Y.Puig, Y.Alonso, N.Walker-2
+TEAM RISP- Mets: 2 for 12  Dodgers: 2 for 8
+WEB GEMS- Top 7th: Chris Taylor robbed Gerardo Parra of an extra base hit.
+
+In a two run game the Los Angeles(NL) Dodgers got by the New York (NL) Mets by
+the score of 5 to 3.
+
+Los Angeles(NL) took the lead for keeps in the bottom of the 2nd inning
+plating an isolated run.  Both teams totaled 8 hits on the night.  
+
+The winning pitcher was Clayton Kershaw(1-0) who allowed 2 runs in 7 innings.
+Kenley Jansen got the save, his 1st.  Andrew Cashner(0-1) absorbed the loss.
+He surrendered 5 runs and 8 hits in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2018 New York (NL) Mets at 2018 Los Angeles(NL) Dodgers
+J.Reyes-A1   A1:W>b1    B1:F/7     C1:G-DP/4  D1:F/9     E1:W>12 b
+                                   63>1o                 1
+                                                         
+A.McCutc-A1  A2:F/8     B2:K       *6*:W>b1   *8*:Si     E2:Si>2#
+                                                         13
+                                                         
+A.Cabrer-A1  A3:Si>13   *4*:G/31   C3:G/13>1  D3:Si>12   E3:HBP>12
+                                   2                     
+                                                         
+D.Robins-A1  A4:G-DP/2  B4:K       C4:G/43>2  D4:F/7     E4:K
+N.Walker-D4  63>1o                 3                     
+                                                         
+W.Castil-A1  *2*:K      B5:K       C5:Si>3#   D5:K
+                                              
+                                              
+Y.Alonso-A1  A6:G/3     *5*:Si     C6:F/9     D6:G/63
+                                              
+                                              
+W.Flores-A1  A7:Si      B7:WP>12   *7*:Si     *9*:W>b1
+J.Lamb-D7               K                     
+                                              
+G.Parra-A1   A8:K       B8:E/4>23  C8:F/7     D8:F/8
+                                              
+                                              
+C.Grande-A1  *3*:G/63   B9:E/1>3#  C9:F/9     D9:F/8
+                        12                    
+                                              
+
+D.Murphy-A1  A1:G/63    B1:Do>13   C1:G/13    D1:F/8
+                                              
+                                              
+Y.Puig-A1    A2:F/8     B2:G/53    C2:Si      D2:L/4
+                                              
+                                              
+C.Bellin-A1  A3:L/4     B3:Do>3#   C3:W>12 b  *7*:F/8
+                        2#         1          
+                                              
+J.Turner-A1  *2*:F/9    B4:P/6     C4:HBP>23  D4:F/8
+                                   12         
+                                              
+J.Reddic-A1  A5:L/5     *4*:G/43   C5:Si>3#   D5:F/7
+                                   2# 13      
+                                              
+E.Encarn-A1  A6:HR>b#   B6:L/6     C6:F/8     *8*:F/7
+                                              
+                                              
+C.Seager-A1  A7:F/9     B7:W>b1    *6*:Si     D7:G/31
+                                              
+                                              
+C.Taylor-A1  *3*:L/5    B8:F/8     C8:Si>12   D8:K
+                                              
+                                              
+A.Barnes-A1  A9:Si      *5*:F/7    C9:Force/
+                                   15>2o 12
+                                   b1
+
+
