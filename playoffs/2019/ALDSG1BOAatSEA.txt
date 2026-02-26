@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2019 Boston Red Sox At 2019 Seattle Mariners              10/3/2019
+
+[1]  Red Sox            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Benintendi LF     4  0  0  0 .000     D.Robertson 2B      2  1  0  0 .000  
+  E.Nunez 2B          2  0  1  0 .500   A-J.Wendle PH,2B      1  0  0  0 .000  
+D-B.Holt PH           1  0  0  0 .000     B.Nimmo LF          3  1  1  2 .333  
+  M.Betts RF          3  1  0  0 .000   B-B.Gamel PH          1  0  0  0 .000  
+  A.Jones CF          4  0  1  0 .250   C-L.Martin CF         0  0  0  0 ----  
+  X.Bogaerts SS       4  0  1  1 .250     K.Marte SS          4  0  2  0 .500  
+  C.Vazquez C         3  0  1  0 .333     J.Aguilar 1B        3  0  0  0 .000  
+E-T.Shaw PH           1  0  0  0 .000     S.Gennett DH        3  0  0  0 .000  
+  R.Devers 3B         3  0  0  0 .000     Y.Gomes C           3  1  1  1 .333  
+  V.Martinez DH       3  0  0  0 .000     M.Kepler RF         3  0  0  0 .000  
+  M.Moreland 1B       3  0  0  0 .000     G.Heredia CF,LF     3  0  1  0 .333  
+                                          K.Seager 3B         3  1  1  1 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      29  4  6  4
+
+A-Pinch Hit For Robertson In 7th Inning
+B-Pinch Hit For Nimmo In 8th Inning
+C-Subbed Defensively (CF) For Gamel In 9th Inning
+D-Pinch Hit For Nunez In 9th Inning
+E-Pinch Hit For Vazquez In 9th Inning
+
+Red Sox......... 0 0 0  0 0 0  0 0 1  -  1  4  0
+Mariners........ 0 0 2  0 0 0  2 0    -  4  6  0
+
+[1]Red Sox (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hill LOSS(0-1)             6       4   2   2   2   8   1   3.00  A1 C5
+N.Eovaldi                    2       2   2   2   0   0   2   9.00  C6
+[1]Totals                    8       6   4   4   2   8   3
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Paxton WIN(1-0)            8       3   0   0   1  10   0   0.00  A1 D1
+D.Floro                      1       1   1   1   1   0   0   9.00  D2
+[1]Totals                    9       4   1   1   2  10   0
+
+ATTENDANCE- 46,819 DATE- Thursday, October 3rd 2019 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:14
+LEFT ON BASE- Red Sox: 5  Mariners: 3
+DOUBLE PLAYS- Red Sox: 1  Mariners: 0
+DOUBLES- K.Marte-2(2nd)
+HOME RUNS- B.Nimmo(1st), Y.Gomes(1st), K.Seager(1st)
+RBIs- X.Bogaerts(1st), B.Nimmo-2(2nd), Y.Gomes(1st), K.Seager(1st)
+STOLEN BASES- A.Jones(1st)
+WALKS- E.Nunez, M.Betts, D.Robertson, J.Aguilar
+STRIKE OUTS- A.Benintendi, M.Betts-2, A.Jones-2, X.Bogaerts, R.Devers-3,
+             M.Moreland, B.Nimmo-2, J.Aguilar, S.Gennett, Y.Gomes-2, G.Heredia,
+             K.Seager
+GIDP- K.Seager
+2-out RBI- B.Nimmo-2, K.Seager
+RLISP 2-out- J.Aguilar-2, C.Vazquez, T.Shaw
+TEAM RISP- Red Sox: 0 for 3  Mariners: 0 for 2
+
+James Paxton struck out 10 batters as the Seattle Mariners topped the Boston
+Red Sox by a score of 4 to 1 at SAFECO Field.
+
+Paxton(1-0) was tremendous on the mound for Seattle.  He was stingy on the
+mound, allowing just 3 hits and 1 walk in 8 innings.  Seattle managed only 6
+hits on the night.  
+
+Rich Hill(0-1) was the loser.  Paxton was jubilant in the hometown clubhouse,
+'It was a lot of fun out there.  The fans gave me a lot of support as did my
+teammates.  We got the victory and I'll sure take 10 strikeouts anytime!'
+[2]
+[1]SCORESHEET: 2019 Boston Red Sox at 2019 Seattle Mariners
+A.Benint-A1  A1:K       B1:L/4     *6*:G/3    D1:G/43
+                                              
+                                              
+E.Nunez-A1   A2:Si      *4*:W>b1   C2:G/53    *9*:G/43
+B.Holt-D2                                     
+                                              
+M.Betts-A1   A3:K       B3:K       C3:L/6     D3:W>b1
+                                              
+                                              
+A.Jones-A1   A4:P/6     B4:K       *7*:K      D4:Si>13
+                                              
+                                              
+X.Bogaer-A1  *2*:L/5    B5:Si>13   C5:K       D5:SB>12
+                                              G/63>3# 2
+                                              3
+C.Vazque-A1  A6:G/13    B6:G/13    C6:Si      D6:F/8
+T.Shaw-D6                                     
+                                              
+R.Devers-A1  A7:K       *5*:K      C7:K
+                                   
+                                   
+V.Martin-A1  *3*:F/8    B8:P/6     *8*:G/43
+                                   
+                                   
+M.Morela-A1  A9:G/63    B9:K       C9:L/3
+                                   
+                                   
+
+D.Robert-A1  A1:F/9     B1:W>b1    C1:G/3     D1:G/53
+J.Wendle-D1                                   
+                                              
+B.Nimmo-A1   A2:K       B2:HR>1#   *6*:K      *8*:F/7
+B.Gamel-D2              b#                    
+L.Martin-D5                                   
+K.Marte-A1   A3:Do      B3:Do      C3:F/8     D3:F/7
+                                              
+                                              
+J.Aguila-A1  A4:G/13    B4:K       C4:W>b1    D4:L/4
+                                              
+                                              
+S.Gennet-A1  *2*:K      *4*:P/6    C5:P/6
+                                   
+                                   
+Y.Gomes-A1   A6:K       B6:K       *7*:HR>b#
+                                   
+                                   
+M.Kepler-A1  A7:F/8     B7:F/8     C7:G/43
+                                   
+                                   
+G.Heredi-A1  *3*:Si     *5*:K      C8:G/53
+                                   
+                                   
+K.Seager-A1  A9:G-DP/1  B9:K       C9:HR>b#
+             63>1o                 
+                                   
+
+

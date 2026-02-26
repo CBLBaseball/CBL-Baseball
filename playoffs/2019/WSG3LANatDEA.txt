@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2019 Los Angeles(NL) Dodgers At 2019 Detroit Tigers      10/26/2019
+
+[1]  Dodgers            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  J.Reddick RF        4  1  1  0 .348     J.Candelario 3B     4  0  0  0 .200  
+  C.Taylor SS         4  0  0  0 .226   G-A.Beltre 3B         0  0  0  0 .235  
+  J.Field LF          2  0  0  0 .313     N.Castellanos DH    4  0  4  0 .367  
+D-J.Pederson PH,LF    1  0  0  0 .269     M.Trout CF          3  0  1  0 .362  
+  C.Bellinger 1B,CF   4  1  3  1 .208     C.Gonzalez RF       4  0  0  0 .258  
+  C.Casali C          3  0  0  0 .000     D.Span LF           3  1  0  0 .167  
+E-Y.Grandal PH,C      1  0  0  0 .161     N.Goodrum 2B        3  1  1  0 .250  
+  I.Galloway CF       3  0  2  0 .400   B-T.Kemp PH           1  0  0  0 .174  
+  J.Soria P           0  0  0  0 ----   C-R.Urena 2B          0  0  0  0 .333  
+  T.McFarland P       0  0  0  0 ----     J.Hicks C           2  1  2  1 .214  
+  S.Casilla P         0  0  0  0 ----   F-I.Kiner-Falefa PH,C 1  0  0  0 .355  
+  K.Jansen P          0  0  0  0 ----     T.Austin 1B         4  1  1  3 .143  
+H-L.Duda PH           1  0  0  0 .267     J.Iglesias SS       4  0  1  0 .158  
+  M.Muncy DH,3B       3  0  0  0 .056                                          
+I-E.Encarnacion PH    1  0  1  0 .222                                          
+  E.Hernandez 2B      4  0  2  1 .375                                          
+  J.Turner 3B         2  0  0  0 .200                                          
+A-D.Murphy PH,1B      1  0  0  0 .160                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  9  2                 Totals      33  4 10  4
+
+A-Pinch Hit For Turner In 7th Inning
+B-Pinch Hit For Goodrum In 7th Inning
+C-Subbed Defensively (2B) For Kemp In 8th Inning
+D-Pinch Hit For Field In 8th Inning
+E-Pinch Hit For Casali In 8th Inning
+F-Pinch Hit For Hicks In 8th Inning
+G-Subbed Defensively (3B) For Candelario In 9th Inning
+H-Pinch Hit For Jansen In 9th Inning
+I-Pinch Hit For Muncy In 9th Inning
+
+Dodgers......... 0 0 0  0 0 0  1 1 0  -  2  9  0
+Tigers.......... 0 1 0  0 0 3  0 0    -  4 10  2
+
+[1]Dodgers (9-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw LOSS(2-1)          5 1/3   8   4   4   3   6   1   4.03  A1 C8
+J.Soria                      0 2/3   2   0   0   0   0   0   3.00  C9 D2 D3
+T.McFarland                  0 2/3   0   0   0   0   0   0   0.00  D4 D5
+S.Casilla                    0 1/3   0   0   0   0   0   0   4.91  D6 D6
+K.Jansen                     1       0   0   0   0   3   0   2.89  D7
+[1]Totals                    8      10   4   4   3   9   1
+
+[1]Tigers (10-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Boyd WIN(4-0)              6 2/3   6   1   1   1   6   0   1.85  A1 C8
+D.Verhagen HOLD(1st)         1 1/3   2   1   1   0   0   0   1.35  C9 D5
+A.Chapman SAVE(4th)          1       1   0   0   0   1   0   2.84  D6
+[1]Totals                    9       9   2   2   1   7   0
+
+ATTENDANCE- 38,962 DATE- Saturday, October 26th 2019 TIME- Night 
+UMPIRES- Marvin Hudson, Cory Blaser, Jim Joyce, Doug Eddings
+T- 2:58
+LEFT ON BASE- Dodgers: 6  Tigers: 8
+DOUBLE PLAYS- Dodgers: 1  Tigers: 3
+ERRORS- J.Candelario, N.Goodrum
+DOUBLES- N.Castellanos(7th), M.Trout(3rd), N.Goodrum(4th)
+HOME RUNS- T.Austin(3rd)
+RBIs- C.Bellinger(5th), E.Hernandez(7th), J.Hicks(3rd), T.Austin-3(7th)
+STOLEN BASES- J.Reddick(1st)
+WALKS- J.Field, M.Trout, D.Span, J.Hicks
+STRIKE OUTS- J.Reddick-2, J.Field, I.Galloway, L.Duda, M.Muncy-2,
+             J.Candelario-2, M.Trout, D.Span, I.Kiner-Falefa, T.Austin-3,
+             J.Iglesias
+GIDP- J.Reddick, E.Hernandez, J.Turner, C.Gonzalez
+WILD PITCHES- C.Kershaw
+2-out RBI- E.Hernandez, C.Bellinger
+RLISP 2-out- D.Span, J.Candelario-2, D.Murphy-2, T.Kemp-2
+TEAM RISP- Dodgers: 2 for 7  Tigers: 2 for 9
+WEB GEMS- Top 2nd: Denard Span robbed Max Muncy of an extra base hit.
+
+In a two run game the Detroit Tigers got by the Los Angeles(NL) Dodgers by the
+score of 4 to 2.
+
+Detroit took the lead for good in the bottom of the 2nd inning scoring one
+runner on 2 hits.  Detroit had a total of 10 hits for the game.  
+
+Matt Boyd(4-0) allowed 1 run in 6 and 2/3 innings, and picked up the victory.
+Boyd got help from Aroldis Chapman who was credited with his 4th save.  The
+loss was charged to Clayton Kershaw(2-1).  He allowed 8 hits and 3 walks in 5
+and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2019 Los Angeles(NL) Dodgers at 2019 Detroit Tigers
+J.Reddic-A1  A1:K       B1:G-DP/4  *6*:K      *8*:Si
+                        63>1o                 
+                                              
+C.Taylor-A1  A2:G/23    *4*:F/8    C2:L/6     D2:SB>12
+                                              F/7
+                                              
+J.Field-A1   A3:W>b1    B3:K       C3:L/5     D3:P/6
+J.Peders-D3                                   
+                                              
+C.Bellin-A1  A4:F/8     B4:Si      *7*:Si     D4:Si>2#
+                                              
+                                              
+C.Casali-A1  *2*:F/8    B5:F/8     C5:F/8     D5:L/4
+Y.Granda-D5                                   
+                                              
+I.Gallow-A1  A6:K       *5*:Si     C6:Si>13   *9*:K
+J.Soria-D1                                    
+T.McFarl-D1+                                  
+M.Muncy-A1   A7:F/7     B7:K       C7:K       D7:Si
+E.Encarn-D7                                   
+                                              
+E.Hernan-A1  *3*:Si     B8:E/5>12  C8:Si+E/4  D8:G-DP/6
+                                   >3# 13     43>1o
+                                              
+J.Turner-A1  A9:L/6     B9:G-DP/4  C9:L/4
+D.Murphy-C9             63>1o      
+                                   
+
+J.Candel-A1  A1:G/43    B1:K       C1:K       D1:G/43
+A.Beltre-E1                                   
+                                              
+N.Castel-A1  A2:Do      *3*:Si     *5*:Si     *7*:Si
+                                              
+                                              
+M.Trout-A1   A3:W>b1    B3:K       C3:F/7     D3:Do>13
+                                              
+                                              
+C.Gonzal-A1  A4:Force/  B4:Force/  C4:G-DP/6  D4:L/3
+             54>23 1o   64>1o b1   43>1o      
+             b1                               
+D.Span-A1    A5:K       B5:L/4     *6*:W>b1   D5:F/8
+                                              
+                                              
+N.Goodru-A1  *2*:Do     *4*:G/13   C6:F/8     D6:G/43
+T.Kemp-D6                                     
+R.Urena-D7                                    
+J.Hicks-A1   A7:WP>23   B7:Si      C7:W>12 b  *8*:K
+I.Kiner--D7  Si>3#                 1          
+                                              
+T.Austin-A1  A8:K       B8:K       C8:HR>2#   D8:K
+                                   1# b#      
+                                              
+J.Iglesi-A1  A9:G/43>1  B9:Si>12   C9:L/6     D9:K
+             2                                
+                                              
+
+

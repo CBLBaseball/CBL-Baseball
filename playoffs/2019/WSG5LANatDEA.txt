@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2019 Los Angeles(NL) Dodgers At 2019 Detroit Tigers      10/28/2019
+
+[1]  Dodgers            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  Y.Puig RF           4  1  1  2 .195     C.Gonzalez RF       5  0  0  0 .222  
+B-J.Reddick PH,RF     1  0  0  0 .308     N.Castellanos DH    5  2  2  1 .366  
+  E.Encarnacion DH    5  0  0  0 .148     M.Trout CF          2  1  0  0 .370  
+  C.Bellinger CF      3  1  0  0 .200     A.Beltre 3B         5  1  2  4 .256  
+  C.Taylor SS         4  1  1  0 .213     N.Goodrum 2B        4  0  1  1 .277  
+  Y.Grandal C         3  1  0  0 .184     T.Kemp LF           4  0  1  0 .185  
+  J.Pederson LF       2  0  0  0 .281     I.Kiner-Falefa C    3  1  0  0 .314  
+A-J.Field PH,LF       1  0  0  1 .294     M.Adams 1B          4  1  1  0 .182  
+  E.Hernandez 2B      4  0  1  1 .356     J.Iglesias SS       2  1  1  1 .186  
+  M.Muncy 1B          4  1  2  2 .122   C-C.Spangenberg PH    0  0  0  0 .120  
+  J.Turner 3B         4  1  1  0 .205   D-D.Span PH           1  0  0  0 .238  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  6  6  6                 Totals      35  7  8  7
+
+A-Pinch Hit For Pederson In 7th Inning
+B-Pinch Hit For Puig In 10th Inning
+C-Pinch Hit For Iglesias In 10th Inning
+D-Pinch Hit For Spangenberg In 10th Inning
+
+Dodgers......... 0 0 2  0 0 0  3 0 0  1 -  6  6  0
+Tigers.......... 0 0 5  0 0 0  0 0 0  2 -  7  8  0
+
+[1]Dodgers (9-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler                    5 1/3   5   5   5   3   4   1   2.82  A1 C5
+S.Casilla                    0 2/3   0   0   0   0   1   0   4.15  C6 C7
+K.Jansen                     0 2/3   0   0   0   1   1   0   2.70  C8 D1
+J.Soria                      2 1/3   0   0   0   1   2   0   2.16  D2 D8
+B.Morrow L(1-1) BS(1st)      0 2/3   3   2   2   1   1   0   4.50  D9
+[1]Totals                    9 2/3   8   7   7   6   9   1
+
+[1]Tigers (12-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Wacha                      6       3   5   5   2  10   1  11.42  A1 C5
+B.Hand BS(1st)               0 1/3   2   0   0   0   0   0   3.86  C6 C8
+A.Wilson                     3       1   1   1   0   1   1   2.25  C9 D9
+A.Chapman                    0 1/3   0   0   0   0   0   0   2.70  E1 E1
+D.Verhagen WIN(3-0)          0 1/3   0   0   0   0   1   0   1.29  E2
+[1]Totals                   10       6   6   6   2  12   2
+
+ATTENDANCE- 39,542 DATE- Monday, October 28th 2019 TIME- Night 
+UMPIRES- Larry Vanover, Angel Hernandez, Paul Nauert, Adrian Johnson
+T- 3:18
+LEFT ON BASE- Dodgers: 2  Tigers: 4
+DOUBLE PLAYS- Dodgers: 2  Tigers: 0
+DOUBLES- E.Hernandez(6th), J.Turner(2nd), N.Castellanos-2(10th)
+HOME RUNS- Y.Puig(5th), M.Muncy(3rd), A.Beltre(4th)
+RBIs- Y.Puig-2(9th), J.Field(3rd), E.Hernandez(8th), M.Muncy-2(6th),
+      N.Castellanos(8th), A.Beltre-4(13th), N.Goodrum(5th), J.Iglesias(5th)
+STOLEN BASES- J.Iglesias(1st)
+SACRIFICE FLIES- J.Field
+WALKS- C.Bellinger, Y.Grandal, M.Trout-3, N.Goodrum, I.Kiner-Falefa, J.Iglesias
+STRIKE OUTS- Y.Puig, E.Encarnacion-3, C.Bellinger, C.Taylor-2, Y.Grandal,
+             J.Pederson, E.Hernandez-2, M.Muncy, C.Gonzalez-2, N.Castellanos-2,
+             M.Trout, T.Kemp, I.Kiner-Falefa, M.Adams, D.Span
+GIDP- A.Beltre, I.Kiner-Falefa
+2-out RBI- Y.Puig-2, A.Beltre-4, N.Goodrum
+RLISP 2-out- I.Kiner-Falefa, Y.Puig, N.Castellanos
+TEAM RISP- Dodgers: 3 for 5  Tigers: 5 for 11
+
+Michael Wacha retired 10 batters on strikeouts as the Detroit Tigers defeated
+the Los Angeles(NL) Dodgers in 10 innings by a score of 7 to 6 at Comerica
+Park.
+
+The game was deadlocked at 5 after nine full innings.  Detroit won it in the
+10th inning.  After two were out Nicholas Castellanos jump-started the rally
+as he doubled.  Mike Trout next to the plate and he drew a walk.  Adrian
+Beltre then delivered a base-hit scoring a single run.  Niko Goodrum came up
+and he slapped a one-base hit giving Detroit the victory and sending the
+39,542 home-town fans home happy.  Detroit totaled 8 hits on the night.
+
+Drew Verhagen(3-0) went 1/3 of an inning allowing no runs for the win. Brandon
+Morrow(1-1) was charged with the loss in relief.  He allowed 3 hits and 1
+walk in 2/3 of an inning.  
+
+The Detroit ballclub's record now stands at a league leading 12-5.  Still in a
+bad slump, with this loss, Los Angeles(NL) is 1-9 lately and 9-7 on the year.
+[2]
+[1]SCORESHEET: 2019 Los Angeles(NL) Dodgers at 2019 Detroit Tigers
+Y.Puig-A1    A1:K       B1:HR>2#   C1:G/63    D1:G/13    E1:F/9
+J.Reddic-E1             b#                               
+                                                         
+E.Encarn-A1  A2:K       B2:G/53    C2:K       *8*:G/63   E2:K
+                                                         
+                                                         
+C.Bellin-A1  A3:F/9     *4*:K      *7*:W>b1   D3:G/43
+                                              
+                                              
+C.Taylor-A1  *2*:K      B4:K       C4:Si>12   D4:G/63
+                                              
+                                              
+Y.Granda-A1  A5:F/8     B5:G/43    C5:W>23 1  *9*:K
+                                   2 b1       
+                                              
+J.Peders-A1  A6:F/7     *5*:K      C6:SF/7>3  D6:G/63
+J.Field-C6                         #          
+                                              
+E.Hernan-A1  *3*:K      B7:K       C7:Do>2#   D7:F/8
+                                   13         
+                                              
+M.Muncy-A1   A8:K       B8:F/9     C8:Si>3#   *10*:HR>b
+                                   23         #
+                                              
+J.Turner-A1  A9:Do      *6*:L/5    C9:FC/52>  D9:P/6
+                                   3o 12      
+                                              
+
+C.Gonzal-A1  A1:K       B1:K       C1:G/43    D1:SB>12   E1:G/63
+                                              G/43>23    
+                                                         
+N.Castel-A1  A2:K       B2:Do>2#   C2:F/8     D2:K       E2:Do
+                        13                               
+                                                         
+M.Trout-A1   A3:F/7     B3:K       *6*:W>b1   *8*:W>b1   E3:W>b1
+                                                         
+                                                         
+A.Beltre-A1  *2*:G/13   B4:HR>3#   C4:G/43>1  D4:G-DP/5  E4:Si>2#
+                        2# b#      2          43>1o      13
+                                                         
+N.Goodru-A1  A5:F/7     B5:G/43    C5:W>b1    D5:G/43    E5:Si>3#
+                                                         12
+                                                         
+T.Kemp-A1    A6:F/8     *4*:Si     C6:K       *9*:G/63
+                                              
+                                              
+I.Kiner--A1  *3*:W>b1   B7:G-DP/6  C7:G/63    D7:K
+                        43>1o                 
+                                              
+M.Adams-A1   A8:Si>13   B8:G/43    *7*:K      D8:F/7
+                                              
+                                              
+J.Iglesi-A1  A9:Si>3#   *5*:F/7    C9:W>b1    *10*:K
+C.Spange-D9  12                               
+D.Span-D9                                     
+
+

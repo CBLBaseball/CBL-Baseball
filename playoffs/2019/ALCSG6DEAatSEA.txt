@@ -1,0 +1,146 @@
+[1]BOXSCORE: 2019 Detroit Tigers At 2019 Seattle Mariners             10/20/2019
+
+[1]  Tigers             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Candelario 3B     2  1  0  0 .233     D.Robertson 2B      2  0  0  0 .174  
+F-A.Beltre PH,3B      1  0  0  0 .231   A-K.Seager PH,3B      1  0  0  0 .273  
+  M.Trout CF          3  0  1  2 .395   C-M.Zunino PH         0  0  0  0 .333  
+  N.Castellanos DH    4  0  0  0 .319   D-C.Moran PH,3B       1  0  1  0 .118  
+  N.Goodrum 2B,1B     4  0  0  0 .242   I-B.Gamel PH          1  0  0  0 .143  
+  T.Austin 1B         2  0  0  0 .118     K.Marte SS          4  0  1  0 .172  
+B-M.Adams PH,1B       2  0  0  0 .174   J-J.Polanco PH        1  0  1  0 .278  
+H-R.Urena 2B          0  0  0  0 .250     J.Aguilar 1B        4  0  1  0 .209  
+  J.Iglesias SS       3  0  0  0 .129     S.Gennett DH        5  0  1  0 .255  
+  D.Span LF           3  0  0  0 .172     J.Wendle 3B,2B      3  0  0  0 .132  
+  J.Hicks C           2  1  1  0 .182     Y.Gomes C           1  0  0  0 .355  
+E-C.Spangenberg PH    0  0  0  0 .136     B.Nimmo LF          2  0  0  0 .182  
+G-I.Kiner-Falefa C    0  0  0  0 .385     G.Heredia CF        3  0  0  0 .261  
+  C.Gonzalez RF       3  1  1  0 .286     M.Kepler RF         4  1  1  1 .372  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  3  3  2                 Totals      32  1  6  1
+
+A-Pinch Hit For Robertson In 5th Inning
+B-Pinch Hit For Austin In 7th Inning
+C-Pinch Hit For Seager In 7th Inning
+D-Pinch Hit For Zunino In 7th Inning
+E-Pinch Hit For Hicks In 8th Inning
+F-Pinch Hit For Candelario In 8th Inning
+G-Subbed Defensively (C ) For Spangenberg In 8th Inning
+H-Subbed Defensively (2B) For Adams In 9th Inning
+I-Pinch Hit For Moran In 9th Inning
+J-Pinch Hit For Marte In 9th Inning
+
+Tigers.......... 0 0 0  0 0 3  0 0 0  -  3  3  1
+Mariners........ 0 0 0  0 0 0  0 0 1  -  1  6  0
+
+[1]Tigers (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Boyd WIN(3-0)              5       3   0   0   4   7   0   1.98  A1 C6
+J.Lyles HOLD(2nd)            1 1/3   0   0   0   0   0   0   0.00  C7 C9
+A.Wilson                     0 2/3   1   0   0   0   0   0   2.45  D1 D3
+B.Hand HOLD(2nd)             1 2/3   1   1   1   0   3   1   4.15  D4 E1
+V.Alcantara                  0       1   0   0   0   0   0   0.00  E2 E2
+A.Chapman SAVE(2nd)          0 1/3   0   0   0   1   1   0   4.15  E3
+[1]Totals                    9       6   1   1   5  11   1
+
+[1]Mariners (6-6)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gonzales LOSS(0-3)         5 1/3   2   3   3   1   8   0   9.18  A1 C1
+E.Diaz                       2       1   0   0   1   1   0   0.00  C2 C9
+E.Goeddel                    0 2/3   0   0   0   0   0   0   0.00  D1 D1
+D.Winkler                    0 1/3   0   0   0   1   0   0   1.59  D2 D3
+K.Barracloug                 0 2/3   0   0   0   0   0   0   1.80  D4
+[1]Totals                    9       3   3   3   3   9   0
+
+ATTENDANCE- 45,126 DATE- Sunday, October 20th 2019 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:00
+LEFT ON BASE- Tigers: 2  Mariners:12
+DOUBLE PLAYS- Tigers: 1  Mariners: 1
+ERRORS- T.Austin
+DOUBLES- J.Polanco(1st)
+HOME RUNS- M.Kepler(4th)
+RBIs- M.Trout-2(19th), M.Kepler(8th)
+SACRIFICE HITS- G.Heredia
+WALKS- J.Candelario, M.Trout, C.Spangenberg, J.Aguilar, J.Wendle, Y.Gomes-2,
+       B.Nimmo
+HIT BY PITCH- Y.Gomes, B.Nimmo
+STRIKE OUTS- M.Trout, N.Castellanos, T.Austin-2, M.Adams, D.Span-2, J.Hicks,
+             C.Gonzalez, D.Robertson, B.Gamel, K.Marte, J.Aguilar, S.Gennett-3,
+             J.Wendle-2, Y.Gomes, M.Kepler
+GIDP- A.Beltre
+WILD PITCHES- A.Wilson, E.Diaz
+RLISP 2-out- J.Wendle-2, D.Robertson-2, M.Kepler, N.Goodrum, G.Heredia,
+             J.Aguilar, S.Gennett
+TEAM RISP- Tigers: 1 for 3  Mariners: 0 for 9
+
+In a game for the baseball purist, Matt Boyd(3-0) and Marco Gonzales(0-3)
+squared off in a tense pitching duel, Detroit Tigers finally emerged
+victorious over Seattle Mariners, 3 to 1.
+
+Detroit delivered all the runs required in the 6th inning scoring 3 runs
+utilizing 3 base hits.  After an out was recorded, John Hicks got things
+going when he stroked a one-base hit.  Carlos Gonzalez followed and he laced
+a base-knock.  Jeimer Candelario then drew a walk to load the bases.  Mike
+Trout followed next and he ripped a base-knock scoring two baserunners.
+Trout took second on the throw.  Edwin Diaz then unleashed a wild pitch
+scoring the final run of the inning.  The game was a scoreless duel until the
+6th inning.  
+
+Boyd was helped out by Aroldis Chapman who recorded his 2nd save.
+[2]
+[1]SCORESHEET: 2019 Detroit Tigers at 2019 Seattle Mariners
+J.Candel-A1  A1:G/53    *4*:L/6    C1:W>23 1  D1:G-DP/5
+A.Beltre-D1                        2 b1       43>1o
+                                              
+M.Trout-A1   A2:K       B2:L/6     C2:Si>3#   *9*:W>b1
+                                   2# 13      
+                                              
+N.Castel-A1  A3:K       B3:P/2     C3:WP>3#   D3:F/7
+                                   23 P/6     
+                                              
+N.Goodru-A1  *2*:G/53   *5*:G/43   C4:G/43    D4:F/8
+                                              
+                                              
+T.Austin-A1  A5:K       B5:K       *7*:K      D5:G/43
+M.Adams-C5                                    
+R.Urena-D6                                    
+J.Iglesi-A1  A6:F/9     B6:P/4     C6:G/31
+                                   
+                                   
+D.Span-A1    *3*:K      *6*:K      C7:G/43
+                                   
+                                   
+J.Hicks-A1   A8:K       B8:Si      *8*:W>b1
+C.Spange-C8                        
+I.Kiner--D2                        
+C.Gonzal-A1  A9:K       B9:Si>12   C9:F/9
+                                   
+                                   
+
+D.Robert-A1  A1:K       B1:G/43    *5*:F/7    D1:Si      E1:K
+K.Seager-C1                                              
+M.Zunino-D1+                                             
+K.Marte-A1   A2:Si      *3*:K      C2:P/6     D2:G/63>1  E2:Do
+J.Polanc-E2                                   2          
+                                                         
+J.Aguila-A1  A3:Si>13   B3:K       C3:F/7     D3:WP>23   E3:IW>b1
+                                              L/6        
+                                                         
+S.Gennet-A1  A4:K       B4:E/3     *6*:Si     *8*:K      E4:K
+                                                         
+                                                         
+J.Wendle-A1  A5:K       B5:G/63    C5:W>12 b  D5:K
+                                   1          
+                                              
+Y.Gomes-A1   *2*:W>b1   *4*:K      C6:W>23 1  D6:HBP
+                                   2 b1       
+                                              
+B.Nimmo-A1   A7:HBP>12  B7:W>b1    C7:F-DP/8  D7:G/53
+                                   4>2o       
+                                              
+G.Heredi-A1  A8:Sac/34  B8:G/3>12  C8:G/63    *9*:F/7
+             >23 12                           
+                                              
+M.Kepler-A1  A9:K       B9:L/4     *7*:L/4    D9:HR>b#
+                                              
+                                              
+
+

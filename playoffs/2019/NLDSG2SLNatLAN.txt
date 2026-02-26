@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2019 St. Louis Cardinals At 2019 Los Angeles(NL) Dodgers  10/4/2019
+
+[1]  Cardinals          AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  A.McCutchen RF      4  0  0  0 .000     D.Murphy DH         3  0  0  0 .000  
+  Y.Munoz DH          3  1  2  1 .667   F-P.O'Brien PH,DH     1  0  1  01.000  
+I-W.Astudillo PH      1  0  0  0 .000     Y.Puig RF           3  0  0  0 .000  
+  M.Machado SS,3B     4  0  1  0 .125   G-E.Encarnacion PH,1B 1  0  0  0 .000  
+  M.Carpenter 1B      4  0  0  0 .143     M.Muncy 1B          4  0  0  0 .000  
+  M.Andujar 3B        2  0  0  0 .000   H-J.Reddick RF        0  0  0  0 ----  
+A-G.Parra PH,LF       1  0  0  0 .333     J.Turner 3B         3  0  0  0 .333  
+  Y.Molina C          3  0  0  0 .000     C.Bellinger CF      3  0  0  0 .167  
+  J.Jones CF          2  0  0  0 .000     C.Taylor SS         3  1  1  0 .167  
+C-C.Granderson PH     0  0  0  0 .333     J.Pederson LF       1  2  0  0 .250  
+D-M.Prado PH          1  0  0  0 .000     E.Hernandez 2B      3  0  2  2 .667  
+E-A.Engel CF          0  0  0  0 .000     Y.Grandal C         2  0  0  0 .000  
+  R.Davis LF          2  0  0  0 .000                                          
+B-A.Hechavarria SS    0  0  0  0 ----                                          
+  K.Wong 2B           3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  3  1                 Totals      27  3  4  2
+
+A-Pinch Hit For Andujar In 7th Inning
+B-Subbed Defensively (SS) For Davis In 7th Inning
+C-Pinch Hit For Jones In 8th Inning
+D-Pinch Hit For Granderson In 8th Inning
+E-Subbed Defensively (CF) For Prado In 8th Inning
+F-Pinch Hit For Murphy In 8th Inning
+G-Pinch Hit For Puig In 8th Inning
+H-Subbed Defensively (RF) For Muncy In 9th Inning
+I-Pinch Hit For Munoz In 9th Inning
+
+Cardinals....... 0 0 0  1 0 0  0 0 0  -  1  3  0
+Dodgers......... 0 0 1  0 2 0  0 0    -  3  4  0
+
+[1]Cardinals (0-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kluber LOSS(0-1)           7 1/3   3   3   3   2   4   0   3.68  A1 C9
+A.Gomber                     0       1   0   0   0   0   0   ----  D1 D1
+J.Jeffress                   0 2/3   0   0   0   0   2   0   0.00  D2
+[1]Totals                    8       4   3   3   2   6   0
+
+[1]Dodgers (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)           6       3   1   1   0   2   1   1.50  A1 C3
+T.McFarland HOLD(1st)        0 1/3   0   0   0   0   1   0   0.00  C4 C4
+J.Soria HOLD(1st)            0 2/3   0   0   0   0   1   0   0.00  C5 C6
+K.Jansen HOLD(1st)           0 2/3   0   0   0   1   1   0   0.00  C7 C9
+S.Casilla HOLD(1st)          0 1/3   0   0   0   0   0   0   0.00  D1 D1
+B.Morrow SAVE(1st)           1       0   0   0   0   1   0   0.00  D2
+[1]Totals                    9       3   1   1   1   6   1
+
+ATTENDANCE- 54,980 DATE- Friday, October 4th 2019 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:33
+LEFT ON BASE- Cardinals: 3  Dodgers: 3
+DOUBLE PLAYS- Cardinals: 1  Dodgers: 0
+DOUBLES- C.Taylor(1st), E.Hernandez(1st)
+HOME RUNS- Y.Munoz(1st)
+RBIs- Y.Munoz(1st), E.Hernandez-2(2nd)
+WALKS- A.Hechavarria, J.Pederson-2
+HIT BY PITCH- Y.Grandal
+STRIKE OUTS- A.McCutchen, M.Carpenter-2, M.Andujar, Y.Molina, M.Prado, Y.Puig,
+             E.Encarnacion, M.Muncy, C.Taylor, J.Pederson, E.Hernandez
+GIDP- Y.Grandal
+RLISP 2-out- D.Murphy, Y.Molina, M.Muncy
+TEAM RISP- Cardinals: 0 for 3  Dodgers: 1 for 6
+
+Clayton Kershaw had a strong outing as the Los Angeles(NL) Dodgers defeated
+the St. Louis Cardinals 3 to 1 at Dodger Stadium.
+
+Los Angeles(NL) scored 2 runs in the bottom of the 5th inning.  After an out
+was recorded, Chris Taylor kicked off the action when he doubled.  Joc
+Pederson was next and he drew a walk.  Enrique Hernandez then doubled which
+was good for two runs.  Brandon Morrow pitched a perfect ninth and was
+credited with his 1st save.  
+
+The victory went to Kershaw(1-0) who went 6 innings, allowing 1 run. Corey
+Kluber(0-1) was charged with the loss.  He pitched 7 and 1/3 innings and
+surrendered just 3 hits and 2 walks.
+
+[2]
+[1]SCORESHEET: 2019 St. Louis Cardinals at 2019 Los Angeles(NL) Dodgers
+A.McCutc-A1  A1:K       *4*:G/63   C1:F/7     D1:G/53
+                                              
+                                              
+Y.Munoz-A1   A2:L/6     B2:HR>b#   *7*:Si     *9*:G/53
+W.Astudi-D2                                   
+                                              
+M.Machad-A1  A3:G/43    B3:G/53    C3:Si>12   D3:F/8
+                                              
+                                              
+M.Carpen-A1  *2*:L/4    B4:G/43    C4:K       D4:K
+                                              
+                                              
+M.Anduja-A1  A5:G/63    *5*:K      C5:Force/
+G.Parra-C5                         64>23 1o
+                                   b1
+Y.Molina-A1  A6:G/63    B6:G/13    C6:K
+                                   
+                                   
+J.Jones-A1   *3*:F/7    B7:G/63    *8*:K
+C.Grande-C7                        
+M.Prado-C7+                        
+R.Davis-A1   A8:FO/2    *6*:G/13   C8:W>b1
+A.Hechav-C7                        
+                                   
+K.Wong-A1    A9:L/4     B9:G/53    C9:Force/
+                                   64>1o b1
+                                   
+
+D.Murphy-A1  A1:G/43    B1:F/8     C1:G/43    D1:Si>13
+P.O'Brie-D1                                   
+                                              
+Y.Puig-A1    A2:F/7     *4*:K      *6*:G/31   D2:K
+E.Encarn-D2                                   
+                                              
+M.Muncy-A1   A3:L/4     B3:G/43    C3:L/4     D3:K
+J.Reddic-D4                                   
+                                              
+J.Turner-A1  *2*:G/43   B4:L/5     C4:F/8
+                                   
+                                   
+C.Bellin-A1  A5:FanInt  *5*:F/8    *7*:G/63
+             /2>bo                 
+                                   
+C.Taylor-A1  A6:G/63    B6:Do      C6:K
+                                   
+                                   
+J.Peders-A1  *3*:W>b1   B7:W>b1    C7:K
+                                   
+                                   
+E.Hernan-A1  A8:Si>13   B8:Do>2#   *8*:K
+                        1#         
+                                   
+Y.Granda-A1  A9:G-DP/4  B9:F/8>23  C9:HBP
+             63>3# 1o              
+                                   
+
+

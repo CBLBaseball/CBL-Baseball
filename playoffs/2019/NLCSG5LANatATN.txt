@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2019 Los Angeles(NL) Dodgers At 2019 Atlanta Braves      10/18/2019
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  C.Bellinger CF      4  1  1  1 .190     M.Smith CF          3  0  0  0 .125  
+  Y.Puig RF           4  0  0  0 .133   A-R.Acuna PH,LF       1  0  0  0 .273  
+  J.Pederson LF       3  1  1  1 .286     N.Markakis RF       4  0  1  0 .348  
+  J.Turner 3B         4  0  1  1 .185     F.Freeman 1B        3  0  0  0 .324  
+  M.Muncy 1B          4  0  0  0 .000     C.Yelich LF,CF      3  0  1  0 .235  
+  C.Taylor SS         4  0  1  0 .279     J.Realmuto C        4  0  1  0 .217  
+  D.Murphy DH         2  0  0  0 .200     C.Blackmon DH       4  0  0  0 .294  
+B-E.Encarnacion PH,DH 1  1  1  0 .133     O.Albies 2B         4  0  1  0 .171  
+  Y.Grandal C         2  0  0  0 .154     A.Simmons SS        3  0  1  0 .290  
+  E.Hernandez 2B      3  0  0  0 .333     J.Camargo 3B        3  0  0  0 .192  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  5  3                 Totals      32  0  5  0
+
+A-Pinch Hit For Smith In 8th Inning
+B-Pinch Hit For Murphy In 9th Inning
+
+Dodgers......... 0 0 0  0 0 0  0 2 1  -  3  5  1
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Dodgers (8-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler                    6 1/3   5   0   0   0   3   0   2.08  A1 C7
+K.Maeda WIN(1-0)             0 2/3   0   0   0   0   1   0   6.75  C8 C9
+T.McFarland HOLD(4th)        1 2/3   0   0   0   0   1   0   0.00  D1 D6
+B.Morrow                     0 1/3   0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       5   0   0   0   6   0
+
+[1]Braves (5-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Foltynewic LOSS(1-2)       7 1/3   3   2   2   6  10   0   3.38  A1 D4
+T.Watson                     1 2/3   2   1   1   2   0   0   6.00  D5
+[1]Totals                    9       5   3   3   8  10   0
+
+ATTENDANCE- 47,062 DATE- Friday, October 18th 2019 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:43
+LEFT ON BASE- Dodgers:10  Braves: 7
+DOUBLE PLAYS- Dodgers: 0  Braves: 0
+ERRORS- J.Turner
+DOUBLES- J.Pederson(3rd), C.Taylor(5th), E.Encarnacion(1st), J.Realmuto(1st)
+RBIs- C.Bellinger(4th), J.Pederson(10th), J.Turner(7th)
+STOLEN BASES- A.Simmons(1st)
+SACRIFICE HITS- Y.Grandal
+WALKS- C.Bellinger, Y.Puig, J.Pederson-2, J.Turner, D.Murphy, Y.Grandal,
+       E.Hernandez
+HIT BY PITCH- F.Freeman, C.Yelich
+STRIKE OUTS- C.Bellinger-3, Y.Puig-2, J.Turner, M.Muncy, C.Taylor-2, Y.Grandal,
+             C.Yelich, J.Realmuto, C.Blackmon, O.Albies-2, J.Camargo
+PASSED BALLS- Y.Grandal
+2-out RBI- C.Bellinger
+RLISP 2-out- D.Murphy, C.Blackmon-3, N.Markakis-2, M.Muncy, J.Turner-2
+TEAM RISP- Dodgers: 2 for 6  Braves: 0 for 6
+
+Kenta Maeda(1-0) was the winner as Los Angeles(NL) Dodgers shutout the Atlanta
+Braves by a 3 to 0 score at Turner Field.
+
+Los Angeles(NL) scored the decisive runs in a big 8th inning scoring 2 runs on
+2 hits.  Cody Bellinger started the inning off right when he drew a walk.
+Yasiel Puig was the next batter, but he struck out.  Joc Pederson then
+doubled driving in a run.  Justin Turner followed and he ripped a single
+scoring the final run of the inning.  Atlanta was set down quietly in the
+bottom of the 9th.  
+
+Mike Foltynewicz(1-2) was charged with the loss. Despite losing, he struckout
+10 Los Angeles(NL) batters in 7 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2019 Los Angeles(NL) Dodgers at 2019 Atlanta Braves
+C.Bellin-A1  A1:K       B1:K       *6*:K      *8*:W>b1   E1:Si>3#
+                                                         
+                                                         
+Y.Puig-A1    A2:G/43    B2:G/53    C2:K       D2:K       E2:IW>12
+                                                         b1
+                                                         
+J.Peders-A1  A3:L/3     *4*:G/31   C3:W>b1    D3:Do>1#   E3:IW>23
+                                                         12 b1
+                                                         
+J.Turner-A1  *2*:G/43   B4:K       C4:W>12 b  D4:Si>3#   E4:F/9
+                                   1                     
+                                                         
+M.Muncy-A1   A5:K       B5:G/43    C5:G/63    D5:F/7
+                                              
+                                              
+C.Taylor-A1  A6:Do      *5*:K      *7*:K      D6:F/9
+                                              
+                                              
+D.Murphy-A1  A7:FO/2    B7:FO/2    C7:W>b1    *9*:Do
+E.Encarn-D7                                   
+                                              
+Y.Granda-A1  *3*:F/8    B8:W>b1    C8:K       D8:Sac/54
+                                              >23
+                                              
+E.Hernan-A1  A9:W>b1    B9:L/5     C9:F/8     D9:L/6
+                                              
+                                              
+
+M.Smith-A1   A1:F/8     B1:F/8     C1:G/43    *8*:F/9
+R.Acuna-D1                                    
+                                              
+N.Markak-A1  A2:E/5     *4*:Si     C2:G/13    D2:G/43
+                                              
+                                              
+F.Freema-A1  A3:L/4     B3:F/8     *6*:F/9    D3:HBP
+                                              
+                                              
+C.Yelich-A1  A4:L/4     B4:HBP>12  C4:Si      D4:K
+                                              
+                                              
+J.Realmu-A1  *2*:K      B5:L/6     C5:PkOff/  *9*:F/8
+                                   13>1o Do   
+                                              
+C.Blackm-A1  A6:K       B6:PB>23   C6:G/43    D6:G/63
+                        12 P/4                
+                                              
+O.Albies-A1  A7:F/8     *5*:Si     *7*:K      D7:K
+                                              
+                                              
+A.Simmon-A1  *3*:F/8    B8:Si>13   C8:G/43
+                                   
+                                   
+J.Camarg-A1  A9:F/9     B9:SB>12   C9:K
+                        P/6        
+                                   
+
+

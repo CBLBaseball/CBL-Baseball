@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2019 Atlanta Braves At 2019 Los Angeles(NL) Dodgers      10/14/2019
+
+[1]  Braves             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  C.Yelich LF         4  0  0  0 .174     C.Bellinger CF      4  1  2  0 .226  
+  N.Markakis RF       3  0  0  0 .417     J.Field RF          3  1  1  2 .429  
+  F.Freeman 1B        4  0  1  0 .360   D-Y.Puig PH,RF        1  0  0  0 .143  
+  J.Realmuto C        3  0  1  0 .211     J.Reddick LF        4  1  1  1 .333  
+E-K.Suzuki PH         1  0  0  0 .500     C.Taylor SS         3  0  0  0 .250  
+  C.Blackmon DH       3  0  0  0 .273     E.Hernandez 2B      3  0  1  0 .500  
+  J.Camargo 3B        3  0  1  0 .250     C.Casali C          2  0  0  0 .000  
+  A.Simmons SS        3  0  0  0 .238   A-L.Duda PH           1  0  0  0 .200  
+  O.Albies 2B         3  0  0  0 .174   B-Y.Grandal C         0  0  0  0 .150  
+  E.Inciarte CF       3  0  0  0 .158     M.Muncy 1B          2  0  0  0 .000  
+                                          J.Turner 3B         3  0  0  0 .200  
+                                          P.O'Brien DH        2  0  1  0 .500  
+                                        C-E.Encarnacion PH,DH 1  0  0  0 .083  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  3  0                 Totals      29  3  6  3
+
+A-Pinch Hit For Casali In 6th Inning
+B-Subbed Defensively (C ) For Duda In 7th Inning
+C-Pinch Hit For O'Brien In 7th Inning
+D-Pinch Hit For Field In 7th Inning
+E-Pinch Hit For Realmuto In 9th Inning
+
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  3  0
+Dodgers......... 2 0 0  0 0 1  0 0    -  3  6  1
+
+[1]Braves (4-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price LOSS(1-1)            5 1/3   5   3   3   3   6   2   3.48  A1 C5
+S.Carle                      1 1/3   1   0   0   0   2   0   1.93  C6 D1
+A.Minter                     1 1/3   0   0   0   0   2   0   0.00  D2
+[1]Totals                    8       6   3   3   3  10   2
+
+[1]Dodgers (6-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Carrasco WIN(1-1)          6       3   0   0   1   7   0   2.77  A1 C4
+K.Jansen HOLD(2nd)           1 1/3   0   0   0   0   0   0   1.80  C5 C8
+T.McFarland HOLD(3rd)        1 1/3   0   0   0   0   2   0   0.00  C9 D3
+J.Soria                      0 1/3   0   0   0   0   0   0   0.00  D4
+[1]Totals                    9       3   0   0   1   9   0
+
+ATTENDANCE- 53,861 DATE- Monday, October 14th 2019 TIME- Night 
+UMPIRES- Vic Carapazza, Bill Miller, Mike Everitt, Chad Fairchild
+T- 2:50
+LEFT ON BASE- Braves: 4  Dodgers: 5
+DOUBLE PLAYS- Braves: 1  Dodgers: 1
+ERRORS- M.Muncy
+DOUBLES- C.Bellinger(1st), P.O'Brien(1st)
+HOME RUNS- J.Field(1st), J.Reddick(4th)
+RBIs- J.Field-2(2nd), J.Reddick(5th)
+STOLEN BASES- E.Inciarte(1st)
+WALKS- N.Markakis, C.Taylor, E.Hernandez, M.Muncy
+STRIKE OUTS- C.Yelich-3, F.Freeman, J.Realmuto, C.Blackmon, J.Camargo,
+             A.Simmons, O.Albies, C.Bellinger, J.Field, Y.Puig, C.Taylor-2,
+             E.Hernandez, M.Muncy-2, J.Turner, E.Encarnacion
+GIDP- F.Freeman, J.Turner
+RLISP 2-out- C.Blackmon, E.Inciarte, C.Yelich, C.Bellinger, M.Muncy
+TEAM RISP- Braves: 0 for 3  Dodgers: 1 for 4
+
+In a game for the baseball purist, Carlos Carrasco(1-1) and David Price(1-1)
+squared off in a tense pitching duel, Los Angeles(NL) Dodgers finally emerged
+victorious over Atlanta Braves, 3 to 0.
+
+Carrasco put on a good performance. He surrendered only 3 hits and 1 walk in 6
+innings.  Carrasco mowed down 7 Atlanta batters reducing his ERA from 5.14 to
+2.77.  Los Angeles(NL) had 6 hits for the game and Atlanta had 3.  
+
+[2]
+[1]SCORESHEET: 2019 Atlanta Braves at 2019 Los Angeles(NL) Dodgers
+C.Yelich-A1  A1:K       *3*:F/9    C1:SB>12   D1:K
+                                   K          
+                                              
+N.Markak-A1  A2:P/2     B2:W>b1    *6*:G/53   *9*:F/7
+                                              
+                                              
+F.Freema-A1  A3:Si      B3:G-DP/6  C3:G/43    D3:K
+                        43>1o                 
+                                              
+J.Realmu-A1  A4:Si>13   *4*:K      C4:P/6     D4:F/8
+K.Suzuki-D4                                   
+                                              
+C.Blackm-A1  A5:K       B5:G/43    *7*:L/4
+                                   
+                                   
+J.Camarg-A1  *2*:Si     B6:K       C6:L/4
+                                   
+                                   
+A.Simmon-A1  A7:F/8     *5*:K      C7:G/43
+                                   
+                                   
+O.Albies-A1  A8:G/3>12  B8:K       *8*:F/9
+                                   
+                                   
+E.Inciar-A1  A9:G/43    B9:E/3     C9:G/63
+                                   
+                                   
+
+C.Bellin-A1  A1:Do      B1:K       C1:G/63    D1:Si
+                                              
+                                              
+J.Field-A1   A2:HR>2#   B2:L/6     *6*:K      D2:K
+Y.Puig-D2    b#                               
+                                              
+J.Reddic-A1  A3:L/4     *4*:P/3    C3:HR>b#   *8*:F/8
+                                              
+                                              
+C.Taylor-A1  A4:K       B4:G/63    C4:W>b1    D4:K
+                                              
+                                              
+E.Hernan-A1  A5:K       B5:W>b1    C5:Si>13   D5:P/2
+                                              
+                                              
+C.Casali-A1  *2*:L/6    B6:G/63    C6:F/8
+L.Duda-C6                          
+Y.Granda-C8                        
+M.Muncy-A1   A7:K       *5*:W>b1   C7:K
+                                   
+                                   
+J.Turner-A1  A8:K       B8:G-DP/1  *7*:F/7
+                        63>1o      
+                                   
+P.O'Brie-A1  *3*:F/8    B9:Do      C9:K
+E.Encarn-C9                        
+                                   
+
+

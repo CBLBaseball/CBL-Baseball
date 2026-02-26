@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2019 Detroit Tigers At 2019 Seattle Mariners             10/13/2019
+
+[1]  Tigers             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Candelario 3B     5  0  1  0 .353     G.Heredia CF        3  0  0  0 .308  
+G-A.Beltre 3B         0  0  0  0 .333   C-K.Seager PH,3B      1  0  0  0 .273  
+  N.Castellanos DH    4  1  1  0 .481     B.Nimmo LF          3  0  0  0 .200  
+  M.Trout CF          4  1  2  2 .350   D-B.Gamel PH,LF       1  0  0  0 .000  
+  D.Span LF           3  1  0  0 .200     J.Aguilar 1B        4  0  1  0 .143  
+  I.Kiner-Falefa C    3  2  1  2 .294     S.Gennett DH        4  0  1  0 .259  
+  C.Gonzalez RF       4  1  1  0 .313     J.Polanco SS        3  1  1  0 .200  
+  T.Austin 1B         4  0  0  0 .143   I-K.Marte PH          1  0  1  0 .235  
+B-N.Goodrum 1B,2B     0  0  0  0 .250     J.Wendle 2B         4  1  1  1 .172  
+  R.Urena 2B          3  1  1  3 .333     M.Kepler RF         4  1  1  2 .308  
+F-C.Spangenberg PH    1  0  0  0 .077     Y.Gomes C           2  0  0  0 .421  
+H-J.Hicks 1B          0  0  0  0 .167   A-M.Zunino PH,C       1  0  0  0 .333  
+  J.Iglesias SS       4  0  1  0 .095     C.Moran 3B          2  0  0  0 .125  
+                                        E-L.Martin CF         0  0  0  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  7  8  7                 Totals      33  3  6  3
+
+A-Pinch Hit For Gomes In 7th Inning
+B-Subbed Defensively (1B) For Austin In 8th Inning
+C-Pinch Hit For Heredia In 8th Inning
+D-Pinch Hit For Nimmo In 8th Inning
+E-Subbed Defensively (CF) For Moran In 9th Inning
+F-Pinch Hit For Urena In 9th Inning
+G-Subbed Defensively (3B) For Candelario In 9th Inning
+H-Subbed Defensively (1B) For Spangenberg In 9th Inning
+I-Pinch Hit For Polanco In 9th Inning
+
+Tigers.......... 0 0 0  2 0 5  0 0 0  -  7  8  0
+Mariners........ 0 0 0  3 0 0  0 0 0  -  3  6  1
+
+[1]Tigers (5-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander WIN(1-0)         7 2/3   4   3   3   1  11   1   4.79  A1 D2
+A.Wilson                     0 1/3   0   0   0   0   0   0   0.00  D3 D3
+B.Hardy                      1       2   0   0   0   2   0   0.00  D4
+[1]Totals                    9       6   3   3   1  13   1
+
+[1]Mariners (4-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Paxton LOSS(2-1)           8       7   7   7   2  10   3   3.00  A1 D7
+D.Winkler                    1       1   0   0   0   1   0   2.08  D8
+[1]Totals                    9       8   7   7   2  11   3
+
+ATTENDANCE- 45,850 DATE- Sunday, October 13th 2019 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 2:48
+LEFT ON BASE- Tigers: 4  Mariners: 5
+DOUBLE PLAYS- Tigers: 0  Mariners: 0
+ERRORS- J.Polanco
+DOUBLES- J.Iglesias(2nd), J.Aguilar(1st), J.Wendle(2nd)
+HOME RUNS- M.Trout(4th), I.Kiner-Falefa(2nd), R.Urena(1st), M.Kepler(1st)
+RBIs- M.Trout-2(14th), I.Kiner-Falefa-2(6th), R.Urena-3(3rd), J.Wendle(1st),
+      M.Kepler-2(4th)
+WALKS- D.Span, I.Kiner-Falefa, C.Moran
+HIT BY PITCH- N.Castellanos, M.Zunino
+STRIKE OUTS- J.Candelario, N.Castellanos, D.Span-2, C.Gonzalez-2, T.Austin-3,
+             R.Urena-2, G.Heredia, K.Seager, B.Nimmo-2, S.Gennett-3, J.Polanco,
+             J.Wendle-2, M.Kepler, Y.Gomes, M.Zunino
+WILD PITCHES- J.Paxton
+2-out RBI- I.Kiner-Falefa-2, J.Wendle, M.Kepler-2, R.Urena-3
+RLISP 2-out- D.Span-2, S.Gennett, J.Candelario, M.Zunino
+TEAM RISP- Tigers: 2 for 6  Mariners: 1 for 5
+WEB GEMS- Top 6th: Joey Wendle robbed Denard Span of a base hit.
+
+Justin Verlander struck out 11 batters at SAFECO Field where the Detroit
+Tigers beat the Seattle Mariners by the score of 7 to 3.
+
+Verlander(1-0) looked very much in control throughout the night.  He didn't
+give up much, just 4 hits and 1 walk in 7 and 2/3 innings reducing his ERA
+from 5.54 to 4.79.  Detroit had 8 hits for the night.  
+
+James Paxton(2-1) was the loser.  He served up 3 homeruns in his 8 innings.
+Verlander was humble when questioned about his performance, 'Well, I felt
+pretty confident in my pitches tonight.  But, I had great support behind me
+and I just threw what was called.  That was an extremely well called game!'
+[2]
+[1]SCORESHEET: 2019 Detroit Tigers at 2019 Seattle Mariners
+J.Candel-A1  A1:F/7     B1:F/9     C1:F/8     *7*:K      E1:Si
+A.Beltre-E3                                              
+                                                         
+N.Castel-A1  A2:F/8     *4*:G/13   *6*:Si     D2:HBP     E2:K
+                                                         
+                                                         
+M.Trout-A1   A3:Si+E/6  B3:G/53    C3:WP>12   D3:G/63>1
+                                   HR>2# b#   2
+                                              
+D.Span-A1    A4:K       B4:W>b1    C4:G/43    D4:K
+                                              
+                                              
+I.Kiner--A1  *2*:F/9    B5:HR>1#   C5:W>b1    *8*:F/7
+                        b#                    
+                                              
+C.Gonzal-A1  A6:G/63    B6:K       C6:Si>13   D6:K
+                                              
+                                              
+T.Austin-A1  A7:F/8     *5*:K      C7:K       D7:K
+N.Goodru-D8                                   
+                                              
+R.Urena-A1   *3*:K      B8:K       C8:HR>3#   *9*:F/8
+C.Spange-D8                        1# b#      
+J.Hicks-E3                                    
+J.Iglesi-A1  A9:G/43    B9:Do      C9:F/7     D9:G/53
+                                              
+                                              
+
+G.Heredi-A1  A1:G/63    B1:K       C1:G/53    *8*:K
+K.Seager-D1                                   
+                                              
+B.Nimmo-A1   A2:G/63    B2:K       C2:K       D2:F/9
+B.Gamel-D2                                    
+                                              
+J.Aguila-A1  A3:Do      *4*:G/13   *6*:G/63   D3:G/63
+                                              
+                                              
+S.Gennet-A1  A4:K       B4:K       C4:K       *9*:Si
+                                              
+                                              
+J.Polanc-A1  *2*:G/13   B5:Si      C5:K       D5:Si>13
+K.Marte-D5                                    
+                                              
+J.Wendle-A1  A6:F/8     B6:Do>1#   *7*:K      D6:K
+                                              
+                                              
+M.Kepler-A1  A7:K       B7:HR>2#   C7:F/7     D7:L/4
+                        b#                    
+                                              
+Y.Gomes-A1   *3*:K      B8:G/63    C8:HBP     D8:K
+M.Zunino-C8                                   
+                                              
+C.Moran-A1   A9:W>b1    *5*:F/9    C9:G/31
+L.Martin-D4                        
+                                   
+
+

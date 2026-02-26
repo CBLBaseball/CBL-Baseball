@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2019 Colorado Rockies At 2019 Atlanta Braves              10/4/2019
+
+[1]  Rockies            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  D.Lemahieu 2B       4  0  1  0 .125     O.Albies 2B         5  0  1  1 .111  
+  E.Andrus DH         3  0  0  0 .000     A.Simmons SS        3  2  2  1 .333  
+  N.Arenado 3B        4  0  0  0 .250     C.Yelich RF         3  0  1  0 .167  
+  T.Story SS          3  1  0  0 .000     C.Blackmon DH       4  0  1  1 .286  
+  G.Stanton RF        4  0  1  0 .286     R.Acuna LF          2  0  0  0 .000  
+  C.Dickerson LF      3  0  1  0 .333     F.Freeman 1B        4  1  1  0 .429  
+  A.Pollock CF        3  0  0  0 .000     J.Camargo 3B        4  0  1  0 .286  
+  I.Desmond 1B        2  0  0  0 .000     K.Suzuki C          3  0  2  0 .600  
+  C.Joseph C          2  0  0  0 .000   C-J.Realmuto PH,C     1  0  0  0 .000  
+A-D.Deshields PR      0  0  0  0 ----     E.Inciarte CF       4  0  0  0 .000  
+B-W.Castillo C        0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  1  3  0                 Totals      33  3  9  3
+
+A-Pinch Ran For Joseph In 8th Inning
+B-Subbed Defensively (C ) For Deshields In 8th Inning
+C-Pinch Hit For Suzuki In 8th Inning
+
+Rockies......... 0 1 0  0 0 0  0 0 0  -  1  3  1
+Braves.......... 0 0 1  0 1 1  0 0    -  3  9  0
+
+[1]Rockies (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Freeland LOSS(0-1)         5 2/3   7   3   3   4   3   1   4.76  A1 D1
+J.Brebbia                    0 1/3   0   0   0   0   0   0   0.00  D2 D2
+T.Olson                      1       1   0   0   0   3   0   0.00  D3 D6
+S.Oberg                      1       1   0   0   0   2   0   0.00  D7
+[1]Totals                    8       9   3   3   4   8   1
+
+[1]Braves (2-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price WIN(1-0)             5       1   1   1   3   3   0   1.80  A1 B9
+K.Crick HOLD(2nd)            1 2/3   1   0   0   0   3   0   0.00  C1 C6
+T.Watson HOLD(1st)           0 1/3   0   0   0   0   0   0   0.00  C7 C7
+S.Carle HOLD(1st)            1       1   0   0   2   1   0   0.00  C8 D3
+T.Hunter SAVE(1st)           1       0   0   0   0   1   0   0.00  D4
+[1]Totals                    9       3   1   1   5   8   0
+
+ATTENDANCE- 45,252 DATE- Friday, October 4th 2019 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:48
+LEFT ON BASE- Rockies: 5  Braves:10
+DOUBLE PLAYS- Rockies: 1  Braves: 1
+ERRORS- T.Story
+DOUBLES- A.Simmons(1st)
+TRIPLES- C.Dickerson(1st)
+HOME RUNS- A.Simmons(1st)
+RBIs- O.Albies(1st), A.Simmons(1st), C.Blackmon(2nd)
+WALKS- E.Andrus, T.Story, C.Dickerson, I.Desmond, C.Joseph, A.Simmons, C.Yelich,
+       R.Acuna-2
+STRIKE OUTS- D.Lemahieu, N.Arenado, T.Story-2, G.Stanton, A.Pollock,
+             I.Desmond-2, C.Blackmon-2, R.Acuna-2, F.Freeman, J.Camargo,
+             J.Realmuto, E.Inciarte
+GIDP- C.Dickerson, E.Inciarte
+2-out RBI- O.Albies
+RLISP 2-out- F.Freeman-2, J.Camargo-2, C.Joseph, A.Simmons, A.Pollock,
+             N.Arenado
+TEAM RISP- Rockies: 0 for 4  Braves: 2 for 8
+
+In a game for the baseball purist, David Price(1-0) and Kyle Freeland(0-1)
+squared off in a tense pitching duel, Atlanta Braves finally emerged
+victorious over Colorado Rockies, 3 to 1.
+
+Atlanta jumped on top to stay in the 5th inning scoring one runner.  Andrelton
+Simmons hit a bases-empty home run.  Tommy Hunter relieved and was untouched
+by Colorado as he recorded the save, his 1st.  
+
+[2]
+[1]SCORESHEET: 2019 Colorado Rockies at 2019 Atlanta Braves
+D.Lemahi-A1  A1:FO/5    B1:F/7     *6*:K      D1:Si>13
+                                              
+                                              
+E.Andrus-A1  A2:F/8     *4*:G/63   C2:G/13    D2:W>b1
+                                              
+                                              
+N.Arenad-A1  A3:G/63    B3:L/5     C3:K       D3:F/9
+                                              
+                                              
+T.Story-A1   *2*:W>b1   B4:K       *7*:G/53   *9*:K
+                                              
+                                              
+G.Stanto-A1  A5:Si>13   *5*:F/7    C5:K       D5:F/9
+                                              
+                                              
+C.Dicker-A1  A6:G-DP/6  B6:W>b1    C6:Tr      D6:G/63
+             43>3# 1o                         
+                                              
+A.Polloc-A1  A7:K       B7:F/8     C7:G/63
+                                   
+                                   
+I.Desmon-A1  *3*:K      B8:W>12 b  *8*:K
+                        1          
+                                   
+C.Joseph-A1  A9:F/7     B9:L/5     C9:W>b1
+D.Deshie-D1                        
+W.Castil-D4                        
+
+O.Albies-A1  A1:FO/2    *3*:F/7    C1:G/63    D1:Si>2#   E1:F/9
+                                              13         
+                                                         
+A.Simmon-A1  A2:W>b1    B2:Do      *5*:HR>b#  D2:G/63
+                                              
+                                              
+C.Yelich-A1  A3:E/6>12  B3:W>b1    C3:L/4     *7*:Si
+                                              
+                                              
+C.Blackm-A1  A4:L/4     B4:Si>2#   C4:K       D4:K
+                        13                    
+                                              
+R.Acuna-A1   A5:W>23 1  B5:IW>b1   C5:K       D5:K
+             2 b1                             
+                                              
+F.Freema-A1  A6:Force/  B6:L/4     *6*:Si     D6:K
+             46>1o b1                         
+                                              
+J.Camarg-A1  *2*:F/8    B7:F/9     C7:K       *8*:Si
+                                              
+                                              
+K.Suzuki-A1  A8:Si      *4*:G/43   C8:Si>12   D8:K
+J.Realmu-D8                                   
+                                              
+E.Inciar-A1  A9:G-DP/4  B9:G/63    C9:F/7     D9:K
+             63>1o                            
+                                              
+
+

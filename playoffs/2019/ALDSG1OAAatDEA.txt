@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2019 Oakland Athletics At 2019 Detroit Tigers             10/3/2019
+
+[1]  Athletics          AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  J.Segura SS,LF      5  0  2  1 .400     C.Gonzalez RF       4  0  0  0 .000  
+  P.Goldschmidt 1B    4  0  0  0 .000     N.Castellanos DH    4  1  2  0 .500  
+  M.Chapman 3B        3  1  1  0 .333     M.Trout CF          2  0  0  0 .000  
+  M.Olson DH          4  1  1  0 .250     A.Beltre 3B         3  1  1  2 .333  
+  Y.Cespedes LF       3  1  1  3 .333     D.Span LF           4  1  1  0 .250  
+A-C.Pinder LF         0  0  0  0 ----     I.Kiner-Falefa C ,2 4  1  2  2 .500  
+B-N.Martini PH        0  0  0  0 ----     N.Goodrum 2B,1B     3  0  1  0 .333  
+C-B.Crawford PH,SS    0  0  0  0 ----   E-M.Adams PH          0  0  0  0 ----  
+  J.Bradley Jr CF     4  0  0  0 .000   F-T.Austin PH         1  1  1  11.000  
+  M.Pina C            3  1  2  0 .667     J.Hicks 1B,C        3  0  0  0 .000  
+D-A.Barnes PH,C       1  0  0  0 .000     J.Iglesias SS       3  0  0  0 .000  
+  D.Gordon 2B         4  0  0  0 .000                                          
+  J.Jay RF            3  0  1  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  4  8  4                 Totals      31  5  8  5
+
+A-Subbed Defensively (LF) For Cespedes In 6th Inning
+B-Pinch Hit For Pinder In 8th Inning
+C-Pinch Hit For Martini In 8th Inning
+D-Pinch Hit For Pina In 8th Inning
+E-Pinch Hit For Goodrum In 9th Inning
+F-Pinch Hit For Adams In 9th Inning
+
+Athletics....... 3 0 0  0 0 0  1 0 0  -  4  8  0
+Tigers.......... 2 0 0  0 0 2  0 0 1  -  5  8  0
+
+[1]Athletics (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Mengden                    6       7   4   4   1   5   2   6.00  A1 C8
+C.Bassitt                    1       0   0   0   0   0   0   0.00  C9 D2
+R.Stanek                     1 1/3   0   0   0   1   1   0   0.00  D3 D6
+S.Brault LOSS(0-1)           0       1   1   1   0   0   1   ----  D7
+[1]Totals                    8 1/3   8   5   5   2   6   3
+
+[1]Tigers (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander                  6 1/3   7   4   4   1   7   1   5.68  A1 D2
+A.Wilson                     1       0   0   0   0   1   0   0.00  D3 D4
+B.Hand                       1 1/3   1   0   0   1   1   0   0.00  D5 E1
+D.Verhagen WIN(1-0)          0 1/3   0   0   0   0   1   0   0.00  E2
+[1]Totals                    9       8   4   4   2  10   1
+
+ATTENDANCE- 39,411 DATE- Thursday, October 3rd 2019 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 3:00
+LEFT ON BASE- Athletics: 7  Tigers: 4
+DOUBLE PLAYS- Athletics: 2  Tigers: 1
+DOUBLES- J.Segura(1st), N.Castellanos(1st), N.Goodrum(1st)
+HOME RUNS- Y.Cespedes(1st), A.Beltre(1st), I.Kiner-Falefa(1st), T.Austin(1st)
+RBIs- J.Segura(1st), Y.Cespedes-3(3rd), A.Beltre-2(2nd), I.Kiner-Falefa-2(2nd),
+      T.Austin(1st)
+WALKS- P.Goldschmidt, B.Crawford, M.Trout, A.Beltre
+HIT BY PITCH- M.Chapman, J.Jay, M.Trout
+STRIKE OUTS- J.Segura-2, P.Goldschmidt, M.Chapman, M.Olson-2, J.Bradley Jr,
+             D.Gordon, J.Jay-2, C.Gonzalez-2, N.Castellanos, A.Beltre,
+             J.Hicks-2
+GIDP- M.Chapman, A.Beltre, D.Span
+2-out RBI- Y.Cespedes-3, A.Beltre-2
+RLISP 2-out- P.Goldschmidt-3, C.Gonzalez, J.Bradley Jr
+TEAM RISP- Athletics: 2 for 7  Tigers: 1 for 5
+WEB GEMS- Top 4th: Carlos Gonzalez robbed Manny Pina of an extra base hit.
+
+Isiah Kiner-Falefa homered and had 2 RBI as the Detroit Tigers won a dandy at
+Comerica Park over the Oakland Athletics, 5 to 4.
+
+The game was decided in the 9th inning.  After an out was recorded, Tyler
+Austin lofted a solo-blast 'downtown' giving Detroit the win and sending the
+home town fans into a frenzy.  Both teams totaled 8 hits on the night.  
+
+The winning pitcher was Drew Verhagen(1-0) who allowed no runs in 1/3 of an
+inning. Steven Brault(0-1) ended up with the loss in relief.  He was unable
+to retire a batter allowing 1 hit and no walks.
+[2]
+[1]SCORESHEET: 2019 Oakland Athletics at 2019 Detroit Tigers
+J.Segura-A1  A1:K       B1:G/53>1  *5*:K      D1:Si>2#   E1:Do
+                        2                     13         
+                                                         
+P.Goldsc-A1  A2:G/53    B2:G/63    C2:G/63    D2:W>12 b  E2:K
+                                              1          
+                                                         
+M.Chapma-A1  A3:Si      *3*:HBP    C3:K       D3:G-DP/6
+                                              23>3o
+                                              
+M.Olson-A1   A4:Si>12   B4:L/4     *6*:K      *8*:K
+                                              
+                                              
+Y.Cesped-A1  A5:HR>2#   B5:G/43>1  C5:G/63    D5:W>b1
+C.Pinder-C7  1# b#      2                     
+N.Martin-D5+                                  
+J.Bradle-A1  A6:K       B6:L/4     C6:P/4     D6:Force/
+                                              36>1o b1
+                                              
+M.Pina-A1    *2*:Si     *4*:F/9    *7*:Si     D7:F/9
+A.Barnes-D7                                   
+                                              
+D.Gordon-A1  A8:Force/  B8:G/63    C8:K       *9*:G/3
+             46>1o b1                         
+                                              
+J.Jay-A1     A9:Si>13   B9:K       C9:HBP>12  D9:K
+                                              
+                                              
+
+C.Gonzal-A1  A1:K       B1:F/8     C1:K       D1:G/13
+                                              
+                                              
+N.Castel-A1  A2:Do      *3*:K      C2:Si      D2:L/5
+                                              
+                                              
+M.Trout-A1   A3:F/8>23  B3:HBP     C3:G/31    *8*:W>b1
+                                              
+                                              
+A.Beltre-A1  A4:HR>3#   B4:G-DP/6  *6*:W>b1   D4:K
+             b#         43>1o                 
+                                              
+D.Span-A1    A5:Si      *4*:F/8    C5:Force/  D5:G-DP/6
+                                   14>1o b1   43>1o
+                                              
+I.Kiner--A1  A6:FO/2    B6:Si      C6:HR>1#   *9*:G/31
+                                   b#         
+                                              
+N.Goodru-A1  *2*:Do     B7:L/4     C7:F/8     D7:HR>b#
+M.Adams-D7                                    
+T.Austin-D7                                   
+J.Hicks-A1   A8:P/5     B8:K       C8:K
+                                   
+                                   
+J.Iglesi-A1  A9:F/8     *5*:F/8    *7*:G/43
+                                   
+                                   
+
+

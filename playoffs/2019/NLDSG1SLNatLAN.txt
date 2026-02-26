@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2019 St. Louis Cardinals At 2019 Los Angeles(NL) Dodgers  10/3/2019
+
+[1]  Cardinals          AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  G.Parra LF          2  0  1  1 .500     Y.Grandal C         3  1  0  0 .000  
+  M.Machado SS        4  0  0  0 .000     M.Muncy 1B          3  1  0  0 .000  
+  M.Carpenter 1B      3  0  1  0 .333     Y.Puig RF           4  0  0  0 .000  
+  A.McCutchen RF      4  0  0  0 .000     J.Pederson LF       3  1  1  2 .333  
+  C.Granderson DH     3  0  1  0 .333     J.Turner 3B         3  1  2  3 .667  
+F-Y.Munoz PH          0  0  0  0 ----     D.Murphy DH         2  0  0  0 .000  
+  M.Andujar 3B        4  0  0  0 .000   A-E.Encarnacion PH,DH 1  0  0  0 .000  
+  Y.Molina C          4  0  0  0 .000     C.Bellinger CF      3  0  1  0 .333  
+  K.Wong 2B           2  1  0  0 .000     C.Taylor 2B,SS      3  0  0  0 .000  
+  A.Engel CF          1  0  0  0 .000     C.Seager SS         2  1  2  01.000  
+D-R.Davis PH          1  0  0  0 .000   B-L.Duda PH           1  0  0  0 .000  
+E-J.Jones CF          0  0  0  0 ----   C-E.Hernandez 2B      0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  1  3  1                 Totals      28  5  6  5
+
+A-Pinch Hit For Murphy In 6th Inning
+B-Pinch Hit For Seager In 7th Inning
+C-Subbed Defensively (2B) For Duda In 8th Inning
+D-Pinch Hit For Engel In 8th Inning
+E-Subbed Defensively (CF) For Davis In 8th Inning
+F-Pinch Hit For Granderson In 9th Inning
+
+Cardinals....... 0 0 1  0 0 0  0 0 0  -  1  3  0
+Dodgers......... 0 1 0  0 0 4  0 0    -  5  6  1
+
+[1]Cardinals (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Scherzer LOSS(0-1)         8       6   5   5   2   9   1   5.63  A1
+[1]Totals                    8       6   5   5   2   9   1
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler WIN(1-0)           7       3   1   1   2   3   0   1.29  A1 C8
+S.Casilla                    1       0   0   0   0   0   0   0.00  C9 D2
+T.McFarland                  0 1/3   0   0   0   0   0   0   0.00  D3 D4
+J.Soria                      0 2/3   0   0   0   1   1   0   0.00  D5
+[1]Totals                    9       3   1   1   3   4   0
+
+ATTENDANCE- 53,236 DATE- Thursday, October 3rd 2019 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:40
+LEFT ON BASE- Cardinals: 6  Dodgers: 1
+DOUBLE PLAYS- Cardinals: 2  Dodgers: 2
+ERRORS- J.Turner
+DOUBLES- J.Pederson(1st), C.Seager(1st)
+HOME RUNS- J.Turner(1st)
+RBIs- G.Parra(1st), J.Pederson-2(2nd), J.Turner-3(3rd)
+SACRIFICE HITS- A.Engel
+WALKS- M.Carpenter, Y.Munoz, K.Wong, Y.Grandal, M.Muncy
+HIT BY PITCH- G.Parra-2
+STRIKE OUTS- G.Parra, Y.Molina-2, K.Wong, Y.Grandal-3, M.Muncy-2, Y.Puig-2,
+             C.Bellinger, C.Taylor
+GIDP- M.Machado, M.Andujar, E.Encarnacion, L.Duda
+RLISP 2-out- A.McCutchen, Y.Molina
+TEAM RISP- Cardinals: 1 for 4  Dodgers: 2 for 3
+
+Third baseman Justin Turner went yard and had 3 RBI at Dodger Stadium as the
+Los Angeles(NL) Dodgers beat the St. Louis Cardinals by the count of 5 to
+1.
+
+Los Angeles(NL) came up with 4 runs in the 6th inning when they had 3 base
+hits.  The key offensive moment was provided by Joc Pederson who came through
+for the home fans when he doubled scoring two baserunners.  St. Louis was
+out-hit by Los Angeles(NL), 6 hits to 3.  
+
+The winning pitcher was Walker Buehler(1-0) who allowed 1 run in 7 innings.
+The loss was charged to Max Scherzer(0-1).  He surrendered 5 runs and 6 hits
+in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2019 St. Louis Cardinals at 2019 Los Angeles(NL) Dodgers
+G.Parra-A1   A1:K       B1:Si>2#   C1:HBP     D1:HBP
+                                              
+                                              
+M.Machad-A1  A2:F/7     B2:F/7     C2:L/6     D2:G-DP/6
+                                              43>1o
+                                              
+M.Carpen-A1  A3:W>b1    B3:Si>12   *6*:G/43   *9*:F/8
+                                              
+                                              
+A.McCutc-A1  A4:G/63    B4:F/8     C4:L/6     D4:E/5
+                                              
+                                              
+C.Grande-A1  *2*:G/43   *4*:Si     C5:F/7     D5:W>12 b
+Y.Munoz-D5                                    1
+                                              
+M.Anduja-A1  A6:G/63    B6:G-DP/4  *7*:G/43   D6:Force/
+                        63>1o                 54>23 1o
+                                              b1
+Y.Molina-A1  A7:F/9     B7:L/5     C7:K       D7:K
+                                              
+                                              
+K.Wong-A1    *3*:W>b1   *5*:K      C8:F/7
+                                   
+                                   
+A.Engel-A1   A9:Sac/14  B9:F/9     *8*:F/7
+R.Davis-C9   >12                   
+J.Jones-D3                         
+
+Y.Granda-A1  A1:K       B1:K       C1:W>b1    *8*:K
+                                              
+                                              
+M.Muncy-A1   A2:K       B2:K       C2:W>23 1  D2:F/9
+                                   2 b1       
+                                              
+Y.Puig-A1    A3:K       *4*:G/63   C3:L/4     D3:K
+                                              
+                                              
+J.Peders-A1  *2*:L/4    B4:G/13    C4:Do>3#
+                                   2# 13
+                                   
+J.Turner-A1  A5:HR>b#   B5:L/4     C5:Si>3#
+                                   2#
+                                   
+D.Murphy-A1  A6:F/8     *5*:L/4    C6:G-DP/6
+E.Encarn-C6                        43>1o
+                                   
+C.Bellin-A1  A7:K       B7:G/13    *7*:Si
+                                   
+                                   
+C.Taylor-A1  *3*:L/6    B8:G/63    C8:K
+                                   
+                                   
+C.Seager-A1  A9:Si      *6*:Do     C9:G-DP/1
+L.Duda-C9                          63>1o
+E.Hernan-D1                        
+
+

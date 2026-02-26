@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2019 Seattle Mariners At 2019 Boston Red Sox              10/8/2019
+
+[1]  Mariners           AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  J.Wendle 2B         5  1  1  0 .150     A.Benintendi LF     3  0  1  0 .238  
+  K.Marte SS          3  0  1  0 .200     X.Bogaerts SS       3  0  1  0 .368  
+A-J.Polanco PH,SS     1  0  0  0 .143     M.Betts RF          4  0  0  0 .286  
+  J.Aguilar 1B        4  1  0  0 .143     A.Jones CF          4  0  1  0 .364  
+  S.Gennett DH        3  0  0  1 .158     R.Devers 3B         2  0  0  0 .250  
+  K.Seager 3B         4  0  1  0 .294     E.Nunez 2B          3  0  0  0 .231  
+  Y.Gomes C           3  1  2  0 .500     V.Martinez DH       3  0  0  0 .143  
+B-C.Moran PH          0  0  0  1 .167     M.Moreland 1B       3  1  1  1 .167  
+C-M.Zunino C          0  0  0  0 .500     S.Leon C            2  0  0  0 .286  
+  M.Kepler RF         2  0  1  0 .278   E-A.Garcia PH         1  0  0  0 .333  
+  G.Heredia CF        1  0  0  0 .333                                          
+D-L.Martin PH,CF      1  0  0  0 .250                                          
+  B.Gamel LF          4  0  0  1 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  6  3                 Totals      28  1  4  1
+
+A-Pinch Hit For Marte In 7th Inning
+B-Pinch Hit For Gomes In 8th Inning
+C-Subbed Defensively (C ) For Moran In 8th Inning
+D-Pinch Hit For Heredia In 9th Inning
+E-Pinch Hit For Leon In 9th Inning
+
+Mariners........ 0 0 0  0 0 1  1 1 0  -  3  6  0
+Red Sox......... 0 0 0  0 0 1  0 0 0  -  1  4  2
+
+[1]Mariners (3-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Paxton WIN(2-0)            8       4   1   1   1   3   1   0.56  A1 C8
+E.Goeddel HOLD(2nd)          0 1/3   0   0   0   1   1   0   0.00  C9 D1
+D.Winkler SAVE(1st)          0 2/3   0   0   0   1   2   0   3.86  D2
+[1]Totals                    9       4   1   1   3   6   1
+
+[1]Red Sox (2-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hill LOSS(0-2)             6 1/3   5   2   2   2   7   0   2.92  A1 C8
+J.Gant                       1 2/3   1   1   1   1   2   0   2.45  C9 D7
+W.Harris                     1       0   0   0   1   2   0   0.00  D8
+[1]Totals                    9       6   3   3   4  11   0
+
+ATTENDANCE- 35,740 DATE- Tuesday, October 8th 2019 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:41
+LEFT ON BASE- Mariners: 9  Red Sox: 3
+DOUBLE PLAYS- Mariners: 2  Red Sox: 1
+ERRORS- X.Bogaerts, E.Nunez
+DOUBLES- K.Seager(2nd)
+HOME RUNS- M.Moreland(1st)
+RBIs- S.Gennett(4th), C.Moran(1st), B.Gamel(1st), M.Moreland(2nd)
+STOLEN BASES- J.Wendle(1st)
+SACRIFICE HITS- G.Heredia-2
+SACRIFICE FLIES- S.Gennett, C.Moran
+WALKS- J.Polanco, J.Aguilar, M.Kepler-2, A.Benintendi, X.Bogaerts, R.Devers
+STRIKE OUTS- J.Wendle, J.Aguilar-2, S.Gennett-3, K.Seager-2, G.Heredia,
+             L.Martin, B.Gamel, A.Benintendi, X.Bogaerts, M.Betts-2, A.Jones,
+             A.Garcia
+GIDP- J.Aguilar, X.Bogaerts, E.Nunez
+RLISP 2-out- G.Heredia, B.Gamel, K.Seager, J.Polanco, M.Kepler, J.Aguilar,
+             A.Jones
+TEAM RISP- Mariners: 0 for 9  Red Sox: 0 for 2
+
+James Paxton pitched 8 strong innings as the Seattle Mariners topped the
+Boston Red Sox by a score of 3 to 1 at Fenway Park.
+
+Seattle took the lead for good in the top of the 7th inning scoring one
+runner.  The game was a scoreless duel until the 6th inning.  
+
+Paxton(2-0) got credit for the victory, pitching 8 innings and allowing 1 run.
+Paxton got relief help from Daniel Winkler who gained credit for his 1st
+save.  Rich Hill(0-2) took the loss.  
+
+[2]
+[1]SCORESHEET: 2019 Seattle Mariners at 2019 Boston Red Sox
+J.Wendle-A1  A1:G/63    B1:G/13    *6*:Si     D1:K       E1:E/4
+                                                         
+                                                         
+K.Marte-A1   A2:E/6     B2:F/8     C2:Si>12   D2:G/43    E2:SB>12
+J.Polanc-D2                                              IW>b1
+                                                         
+J.Aguila-A1  A3:G-DP/5  *4*:K      C3:G/43>2  *8*:W>b1   E3:K
+             43>1o                 3 12                  
+                                                         
+S.Gennet-A1  *2*:K      B4:K       C4:SF/9>3  D4:K
+                                   # 23       
+                                              
+K.Seager-A1  A5:K       B5:L/3     C5:K       D5:Do>13
+                                              
+                                              
+Y.Gomes-A1   A6:Si      *5*:G/43   *7*:Si     D6:SF/7>3
+C.Moran-D6                                    #
+M.Zunino-D8                                   
+M.Kepler-A1  A7:W>12 b  B7:Si      C7:W>12 b  D7:G/63
+             1                     1          
+                                              
+G.Heredi-A1  A8:K       B8:Sac/34  C8:Sac/24  *9*:K
+L.Martin-D8             >12        >23 12     
+                                              
+B.Gamel-A1   *3*:K      B9:L/3     C9:FC/12>  D9:G/43
+                                   3# 23      
+                                              
+
+A.Benint-A1  A1:G/31    *4*:Si     C1:K       D1:W>b1
+                                              
+                                              
+X.Bogaer-A1  A2:Si      B2:G-DP/6  *7*:K      D2:W>12 b
+                        43>1o                 1
+                                              
+M.Betts-A1   A3:F/7 Pk  B3:G/13    C3:K       D3:K
+             Off/13>1o                        
+                                              
+A.Jones-A1   *2*:G/53   *5*:L/6    C4:Si      D4:K
+                                              
+                                              
+R.Devers-A1  A5:W>b1    B5:G/53    C5:L/4
+                                   
+                                   
+E.Nunez-A1   A6:G-DP/1  B6:G/13    *8*:P/6
+             63>1o                 
+                                   
+V.Martin-A1  *3*:L/6    *6*:L/4    C7:G/31
+                                   
+                                   
+M.Morela-A1  A8:P/2     B8:HR>b#   C8:F/9
+                                   
+                                   
+S.Leon-A1    A9:G/13    B9:G/53    *9*:K
+A.Garcia-C9                        
+                                   
+
+

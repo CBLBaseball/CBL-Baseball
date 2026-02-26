@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2019 Seattle Mariners At 2019 Detroit Tigers             10/17/2019
+
+[1]  Mariners           AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  D.Robertson 2B      2  0  0  0 .211     C.Spangenberg SS    3  0  0  0 .136  
+A-J.Wendle PH,2B      2  1  0  0 .147   H-J.Iglesias SS       1  0  0  0 .083  
+  B.Nimmo LF          2  0  0  0 .192     M.Trout CF          4  1  2  1 .375  
+E-B.Gamel PH,LF       2  0  1  0 .154     C.Gonzalez RF       4  0  0  0 .310  
+  J.Aguilar 1B        4  0  2  0 .216     A.Beltre 3B         4  0  0  0 .240  
+  S.Gennett DH        4  1  2  1 .263     M.Adams 1B          2  0  1  0 .190  
+  J.Polanco SS        3  1  1  0 .235     N.Castellanos DH    3  0  0  0 .385  
+F-K.Marte PH,SS       1  0  0  0 .182     N.Goodrum 2B        3  0  0  0 .280  
+  L.Martin CF         4  0  1  0 .214     J.Hicks C           1  0  0  0 .125  
+  Y.Gomes C           2  1  1  3 .385   B-J.Candelario PH,C   2  0  0  0 .231  
+C-M.Zunino PH,C       2  1  1  1 .273     T.Kemp LF           2  0  0  0 .211  
+  C.Moran 3B          2  0  0  0 .063   G-D.Span PH,LF        1  0  0  0 .174  
+D-K.Seager PH,3B      2  0  0  0 .276                                          
+  M.Kepler RF         4  0  1  0 .361                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 10  5                 Totals      30  1  3  1
+
+A-Pinch Hit For Robertson In 5th Inning
+B-Pinch Hit For Hicks In 5th Inning
+C-Pinch Hit For Gomes In 6th Inning
+D-Pinch Hit For Moran In 6th Inning
+E-Pinch Hit For Nimmo In 7th Inning
+F-Pinch Hit For Polanco In 7th Inning
+G-Pinch Hit For Kemp In 8th Inning
+H-Subbed Defensively (SS) For Spangenberg In 9th Inning
+
+Mariners........ 0 0 0  3 1 1  0 0 0  -  5 10  0
+Tigers.......... 0 0 0  0 0 1  0 0 0  -  1  3  0
+
+[1]Mariners (6-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Eflin WIN(2-0)             9       3   1   1   1  12   1   4.91  A1
+[1]Totals                    9       3   1   1   1  12   1
+
+[1]Tigers (6-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander LOSS(1-1)        6       7   5   5   2   9   2   5.40  A1 C9
+D.Verhagen                   3       3   0   0   0   3   0   0.00  D1
+[1]Totals                    9      10   5   5   2  12   2
+
+ATTENDANCE- 40,476 DATE- Thursday, October 17th 2019 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:32
+LEFT ON BASE- Mariners: 6  Tigers: 3
+DOUBLE PLAYS- Mariners: 0  Tigers: 0
+DOUBLES- J.Aguilar(2nd), M.Adams(2nd)
+HOME RUNS- Y.Gomes(3rd), M.Zunino(1st), M.Trout(5th)
+RBIs- S.Gennett(6th), Y.Gomes-3(6th), M.Zunino(2nd), M.Trout(16th)
+STOLEN BASES- B.Gamel(1st), J.Aguilar(1st)
+CAUGHT STEALING- L.Martin
+WALKS- J.Wendle, B.Nimmo, M.Adams
+STRIKE OUTS- D.Robertson-2, B.Nimmo, B.Gamel, J.Aguilar-2, S.Gennett, J.Polanco,
+             L.Martin, C.Moran, M.Kepler-2, C.Spangenberg, J.Iglesias, M.Trout,
+             C.Gonzalez-3, A.Beltre, M.Adams, N.Castellanos, N.Goodrum,
+             J.Candelario, T.Kemp
+2-out RBI- Y.Gomes-3, S.Gennett, M.Trout
+RLISP 2-out- S.Gennett, N.Goodrum, J.Polanco, K.Marte-2
+TEAM RISP- Mariners: 2 for 8  Tigers: 0 for 2
+
+Zach Eflin allowed just 3 hits as the Seattle Mariners bested the Detroit
+Tigers 5 to 1 at Comerica Park.
+
+Seattle brought 3 runs across the plate in the 4th inning with the help of 3
+hits.  The big moment was provided by Yan Gomes who deflated the crowd as he
+smacked a three-run homer.  Seattle banged out 10 hits on the night.  
+
+The victory was credited to Eflin(2-0) who went the distance, allowing 1 run.
+Justin Verlander(1-1) suffered the loss.  Despite losing, he struckout 9
+Seattle batters in 6 innings.  
+
+'He was really impressive tonight,' Verlander said of his counterpart.  'Our
+guys were just swinging at air.'
+[2]
+[1]SCORESHEET: 2019 Seattle Mariners at 2019 Detroit Tigers
+D.Robert-A1  A1:K       B1:K       C1:W>b1    *7*:F/7    E1:L/4
+J.Wendle-C1                                              
+                                                         
+B.Nimmo-A1   A2:FO/2    B2:K       C2:W>12 b  D2:Si      E2:K
+B.Gamel-D2                         1                     
+                                                         
+J.Aguila-A1  A3:Do      *4*:K      C3:K       D3:Si>12
+                                              
+                                              
+S.Gennet-A1  A4:G/43    B4:Si      C4:Si>2#   D4:K
+                                   12         
+                                              
+J.Polanc-A1  *2*:K      B5:Si>13   C5:G/63    D5:SB>23
+K.Marte-D5                                    12 G/43
+                                              
+L.Martin-A1  A6:K       B6:L/3     *6*:L/4    *8*:Si
+                                              
+                                              
+Y.Gomes-A1   A7:L/5     B7:HR>3#   C7:HR>b#   D7:CS/24>
+M.Zunino-C7             1# b#                 1o F/7
+                                              
+C.Moran-A1   *3*:K      B8:F/9     C8:P/6     D8:P/6
+K.Seager-C8                                   
+                                              
+M.Kepler-A1  A9:Si      *5*:K      C9:L/4     *9*:K
+                                              
+                                              
+
+C.Spange-A1  A1:F/8     B1:F/8     C1:K       *9*:K
+J.Iglesi-D1                                   
+                                              
+M.Trout-A1   A2:K       *4*:G/63   C2:HR>b#   D2:Si
+                                              
+                                              
+C.Gonzal-A1  A3:K       B3:K       C3:F/8     D3:K
+                                              
+                                              
+A.Beltre-A1  *2*:K      B4:L/6     *7*:G/43   D4:G/63
+                                              
+                                              
+M.Adams-A1   A5:Do      *5*:W>b1   C5:K
+                                   
+                                   
+N.Castel-A1  A6:FO/2    B6:K       C6:F/8
+                                   
+                                   
+N.Goodru-A1  A7:K       B7:L/4     *8*:F/7
+                                   
+                                   
+J.Hicks-A1   *3*:L/4    B8:G/43    C8:K
+J.Candel-B8                        
+                                   
+T.Kemp-A1    A9:G/3     *6*:K      C9:F/7
+D.Span-C9                          
+                                   
+
+

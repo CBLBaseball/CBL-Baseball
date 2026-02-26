@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2019 Los Angeles(NL) Dodgers At 2019 St. Louis Cardinals  10/7/2019
+
+[1]  Dodgers            AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  C.Bellinger CF      5  0  1  0 .133     G.Parra LF          3  0  0  0 .167  
+  Y.Grandal C         2  0  2  0 .182   E-Y.Munoz PH          1  0  0  0 .429  
+C-C.Casali PH,C       2  0  0  0 .000   F-J.Jones LF          0  0  0  0 .333  
+  C.Taylor SS         5  0  0  0 .133     M.Machado SS,3B     4  0  1  1 .133  
+  D.Murphy DH         2  0  0  0 .000     M.Carpenter 1B      4  0  0  0 .133  
+A-E.Encarnacion PH,DH 1  1  0  0 .200     A.McCutchen RF      3  0  0  0 .067  
+  E.Hernandez 2B      3  0  2  0 .625   G-R.Davis RF          0  0  0  0 .000  
+D-L.Duda PH,1B        1  0  0  0 .200     C.Granderson DH     3  0  1  0 .429  
+  J.Pederson LF       4  1  1  2 .250     M.Andujar 3B        3  1  1  0 .154  
+  Y.Puig RF           3  0  1  0 .091   B-A.Hechavarria SS    0  0  0  0 .750  
+  M.Muncy 1B,2B       3  0  0  0 .000     Y.Molina C          3  1  1  1 .200  
+  J.Turner 3B         4  1  1  1 .300     K.Wong 2B           3  2  2  2 .250  
+                                          A.Engel CF          3  1  1  1 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  3                 Totals      30  5  7  5
+
+A-Pinch Hit For Murphy In 6th Inning
+B-Subbed Defensively (SS) For Andujar In 7th Inning
+C-Pinch Hit For Grandal In 7th Inning
+D-Pinch Hit For Hernandez In 8th Inning
+E-Pinch Hit For Parra In 8th Inning
+F-Subbed Defensively (LF) For Munoz In 9th Inning
+G-Subbed Defensively (RF) For McCutchen In 9th Inning
+
+Dodgers......... 0 0 0  0 0 2  1 0 0  -  3  8  2
+Cardinals....... 0 0 2  3 0 0  0 0    -  5  7  0
+
+[1]Dodgers (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Carrasco LOSS(0-1)         7       7   5   4   0   4   1   5.14  A1 C9
+T.McFarland                  1       0   0   0   0   0   0   0.00  D1
+[1]Totals                    8       7   5   4   0   4   1
+
+[1]Cardinals (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Scherzer WIN(1-1)          6       6   3   3   3   7   2   5.14  A1 C9
+A.Miller                     0       1   0   0   0   0   0   ----  D1 D1
+C.McHugh HOLD(1st)           1       0   0   0   0   2   0   0.00  D2 D4
+J.Hicks HOLD(1st)            0 2/3   1   0   0   0   1   0   5.40  D5 D7
+C.Knebel HOLD(1st)           0 1/3   0   0   0   1   0   0   0.00  D8 D9
+J.Jeffress SAVE(1st)         1       0   0   0   0   1   0   0.00  E1
+[1]Totals                    9       8   3   3   4  11   2
+
+ATTENDANCE- 42,790 DATE- Monday, October 7th 2019 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:32
+LEFT ON BASE- Dodgers: 9  Cardinals: 1
+DOUBLE PLAYS- Dodgers: 1  Cardinals: 0
+ERRORS- Y.Grandal-2
+DOUBLES- Y.Grandal(1st), E.Hernandez(2nd), Y.Puig(1st), M.Andujar(1st)
+HOME RUNS- J.Pederson(1st), J.Turner(2nd), K.Wong(1st)
+RBIs- J.Pederson-2(4th), J.Turner(4th), M.Machado(1st), Y.Molina(2nd),
+      K.Wong-2(2nd), A.Engel(3rd)
+STOLEN BASES- Y.Molina(1st), K.Wong(1st), A.Engel(1st)
+WALKS- Y.Grandal, E.Encarnacion, Y.Puig, M.Muncy
+STRIKE OUTS- C.Bellinger-2, C.Casali, C.Taylor-4, E.Hernandez, L.Duda, M.Muncy,
+             J.Turner, M.Carpenter-2, A.McCutchen-2
+2-out RBI- M.Machado, Y.Molina, K.Wong-2
+RLISP 2-out- D.Murphy, J.Turner-2, M.Muncy
+TEAM RISP- Dodgers: 0 for 8  Cardinals: 4 for 5
+
+Kolten Wong jacked one out of the ballyard and had 2 RBI as the St. Louis
+Cardinals topped the Los Angeles(NL) Dodgers by a score of 5 to 3 at Busch
+Stadium.
+
+Max Scherzer(1-1) was solid if not spectacular.  He went 6 innings and
+surrended up 6 hits and 3 walks.  Scherzer whiffed an impressive total of 7
+Los Angeles(NL) batters and surrendered 2 'long-bombs'.  St. Louis finished
+with 7 hits in the victory.  
+
+Jeremy Jeffress preserved the game for Scherzer, recording his his 1st save.
+Carlos Carrasco(0-1) was given the loss.  He gave up 7 hits and no walks in 7
+innings.
+[2]
+[1]SCORESHEET: 2019 Los Angeles(NL) Dodgers at 2019 St. Louis Cardinals
+C.Bellin-A1  A1:K       *3*:F/8    C1:K       D1:Si      *9*:F/9
+                                                         
+                                                         
+Y.Granda-A1  A2:Do      B2:Si      C2:W>b1    D2:K       E2:G/43
+C.Casali-D2                                              
+                                                         
+C.Taylor-A1  A3:G/63    B3:K       C3:K       D3:K       E3:K
+                                                         
+                                                         
+D.Murphy-A1  A4:P/3     B4:FO/2    *6*:W>b1   D4:F/8
+E.Encarn-C4                                   
+                                              
+E.Hernan-A1  *2*:Si     *4*:Do     C5:K       *8*:K
+L.Duda-D5                                     
+                                              
+J.Peders-A1  A6:F/9     B6:FO/2    C6:HR>1#   D6:F/8
+                                   b#         
+                                              
+Y.Puig-A1    A7:W>12 b  B7:G/53    C7:G/3     D7:Do
+             1                                
+                                              
+M.Muncy-A1   A8:L/4     B8:G/43    C8:K       D8:W>b1
+                                              
+                                              
+J.Turner-A1  A9:G/63    *5*:K      *7*:HR>b#  D9:F/7
+                                              
+                                              
+
+G.Parra-A1   A1:G/43    B1:SB+E/2  *5*:G/43   *8*:G/63
+Y.Munoz-D1              >13 F/8               
+J.Jones-D4                                    
+M.Machad-A1  A2:F/8     B2:Si>3#   C2:G/63    D2:F/7
+                                              
+                                              
+M.Carpen-A1  A3:K       B3:G/31    C3:K       D3:G/63
+                                              
+                                              
+A.McCutc-A1  *2*:F/7    *4*:K      *6*:K
+R.Davis-D4                         
+                                   
+C.Grande-A1  A5:Si      B5:G/43    C5:F/9
+                                   
+                                   
+M.Anduja-A1  A6:L-DP/5  B6:Do      C6:G/31
+A.Hechav-C7  3>1o                  
+                                   
+Y.Molina-A1  *3*:G/43   B7:Si>2#   *7*:G/63
+                                   
+                                   
+K.Wong-A1    A8:Si      B8:SB+E/2  C8:F/9
+                        >13 HR>3#  
+                        b#         
+A.Engel-A1   A9:SB>12   B9:F/8     C9:F/8
+             Si>2#                 
+                                   
+
+

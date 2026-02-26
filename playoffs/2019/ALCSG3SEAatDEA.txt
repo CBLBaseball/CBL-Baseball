@@ -1,0 +1,158 @@
+[1]BOXSCORE: 2019 Seattle Mariners At 2019 Detroit Tigers             10/16/2019
+
+[1]  Mariners           AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  D.Robertson 2B,LF,1 4  1  0  0 .235     C.Spangenberg SS    4  2  2  3 .158  
+  B.Nimmo LF,RF,LF    2  2  1  2 .208   F-J.Iglesias SS       1  0  0  0 .087  
+  J.Aguilar 1B        2  2  2  2 .182     N.Castellanos DH    4  0  0  0 .417  
+G-J.Wendle PH,2B      0  0  0  0 .156   E-J.Candelario PH,DH  2  0  0  0 .250  
+  Y.Gomes C           3  1  1  0 .375     M.Trout CF          5  1  3  1 .357  
+B-K.Marte PH,2B       2  0  0  0 .190     C.Gonzalez RF       3  0  1  0 .342  
+H-L.Martin CF         1  0  0  0 .200     M.Adams 1B          5  1  3  1 .158  
+  B.Gamel RF          2  0  1  1 .091   I-T.Austin 1B         0  0  0  0 .133  
+C-M.Zunino C          1  0  0  0 .222     A.Beltre 3B         4  1  1  0 .286  
+L-K.Seager PH,3B      1  1  1  1 .296     T.Kemp LF           5  2  2  1 .235  
+  J.Polanco SS        4  1  1  0 .214   J-R.Urena 2B          0  0  0  0 .333  
+  S.Gennett DH        5  1  1  1 .235     N.Goodrum 2B        3  1  2  2 .318  
+  G.Heredia CF        2  0  1  1 .313   D-J.Hicks PH,C        1  0  0  0 .133  
+A-M.Kepler PH,CF,RF   2  1  2  2 .375   K-D.Span LF           0  0  0  0 .182  
+  C.Moran 3B,C        5  0  0  0 .071     I.Kiner-Falefa C ,2 4  1  2  1 .364  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36 10 11 10                 Totals      41  9 16  9
+
+A-Pinch Hit For Heredia In 6th Inning
+B-Pinch Hit For Gomes In 6th Inning
+C-Subbed Defensively (C ) For Gamel In 6th Inning
+D-Pinch Hit For Goodrum In 7th Inning
+E-Pinch Hit For Castellanos In 7th Inning
+F-Subbed Defensively (SS) For Spangenberg In 8th Inning
+G-Pinch Hit For Aguilar In 8th Inning
+H-Subbed Defensively (CF) For Marte In 8th Inning
+I-Subbed Defensively (1B) For Adams In 9th Inning
+J-Subbed Defensively (2B) For Kemp In 9th Inning
+K-Subbed Defensively (LF) For Hicks In 9th Inning
+L-Pinch Hit For Zunino In 9th Inning
+
+Mariners........ 0 0 0  4 3 0  0 0 3  - 10 11  1
+Tigers.......... 0 2 1  4 1 0  1 0 0  -  9 16  0
+
+[1]Mariners (5-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Leake                      6      14   9   8   2   3   2  12.00  A1 D7
+E.Goeddel                    0 2/3   1   0   0   0   1   0   0.00  D8 E1
+D.Winkler                    0 1/3   1   0   0   0   1   0   1.69  E2 E3
+J.Venters WIN(1-0)           1       0   0   0   1   0   0   0.00  E4 E7
+E.Diaz SAVE(2nd)             1       0   0   0   1   2   0   0.00  E8
+[1]Totals                    9      16   9   8   4   7   2
+
+[1]Tigers (6-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Wacha                      4       6   7   7   4   4   2  13.50  A1 C3
+V.Alcantara                  1 2/3   2   0   0   0   1   0   0.00  C4 D1
+B.Hand HOLD(1st)             0 2/3   0   0   0   3   1   0   4.50  D2 D6
+J.Lyles HOLD(1st)            1 1/3   0   0   0   2   1   0   0.00  D7 E2
+A.Wilson HOLD(1st)           0 1/3   1   1   1   0   0   1   3.86  E3 E5
+A.Chapman L(0-1) BS(1st)     1       2   2   2   3   0   1   5.40  E6
+[1]Totals                    9      11  10  10  12   7   4
+
+ATTENDANCE- 41,602 DATE- Wednesday, October 16th 2019 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 4:19
+LEFT ON BASE- Mariners:12  Tigers:11
+DOUBLE PLAYS- Mariners: 0  Tigers: 0
+ERRORS- D.Robertson
+DOUBLES- B.Gamel(1st), M.Kepler(3rd), M.Adams(1st), A.Beltre(2nd),
+         N.Goodrum(2nd)
+HOME RUNS- B.Nimmo(2nd), J.Aguilar(1st), K.Seager(4th), M.Kepler(3rd),
+           C.Spangenberg(1st), T.Kemp(1st)
+RBIs- B.Nimmo-2(5th), J.Aguilar-2(2nd), B.Gamel(2nd), K.Seager(8th),
+      S.Gennett(5th), G.Heredia(3rd), M.Kepler-2(7th), C.Spangenberg-3(3rd),
+      M.Trout(15th), M.Adams(2nd), T.Kemp(3rd), N.Goodrum-2(3rd),
+      I.Kiner-Falefa(9th)
+STOLEN BASES- D.Robertson(1st)
+CAUGHT STEALING- B.Gamel, J.Polanco
+SACRIFICE HITS- C.Gonzalez, I.Kiner-Falefa
+WALKS- D.Robertson-2, B.Nimmo-4, J.Aguilar-2, J.Wendle, B.Gamel, J.Polanco,
+       M.Kepler, C.Spangenberg, C.Gonzalez, A.Beltre, D.Span
+HIT BY PITCH- J.Wendle
+STRIKE OUTS- D.Robertson-4, Y.Gomes, M.Zunino, C.Moran, J.Iglesias,
+             N.Castellanos-2, J.Candelario-2, M.Adams, J.Hicks
+WILD PITCHES- E.Goeddel
+PASSED BALLS- Y.Gomes
+2-out RBI- N.Goodrum-2, G.Heredia, M.Adams
+RLISP 2-out- I.Kiner-Falefa, A.Beltre-3, S.Gennett, N.Castellanos, K.Marte-4,
+             J.Candelario-2, T.Kemp, L.Martin-2
+TEAM RISP- Mariners: 4 for 12  Tigers: 5 for 18
+
+In a startling finish the Seattle Mariners staged a comeback then held on to
+win over the Detroit Tigers by a score of 10 to 9 at Comerica Park.
+
+Seattle won the game with a rally in the top of the 9th inning with 3 runs on
+3 base hits.  Kyle Seager got things rolling when he ripped a solo home run.
+Jorge Polanco stepped into the batter's box and he laced a one-base hit.
+After an out was recorded, Max Kepler then smashed a two-run homer.  This was
+a game of many highs and lows for the home town fans, as the lead kept
+changing - 5 times in all.  
+
+Jonny Venters(1-0) got the win allowing no runs in 1 inning. Edwin Diaz
+preserved the game for Venters, recording his his 2nd save.  The losing
+pitcher was Aroldis Chapman(0-1) in relief.  
+
+'Lloyd McClendon was estatic following the game, 'You love stealing one on the
+road like this.  We just kept plugging away until we pulled it out!'
+[2]
+[1]SCORESHEET: 2019 Seattle Mariners at 2019 Detroit Tigers
+D.Robert-A1  A1:K       B1:K       *5*:W>b1   D1:K       E1:K       F1:W>b1
+                                                                    
+                                                                    
+B.Nimmo-A1   A2:F/8     *4*:W>b1   C2:HR>1#   D2:W>b1    E2:W>12 b  F2:SB>12
+                                   b#                    1          W>b1
+                                                                    
+J.Aguila-A1  A3:W>b1    B3:HR>1#   C3:Si      D3:W>12 b  E3:HBP>23  F3:W>23 1
+J.Wendle-E3             b#                    1          12         2 b1
+                                                                    
+Y.Gomes-A1   A4:K       B4:Si      C4:G/3>12  D4:P/2     E4:F/7     F4:F/8
+K.Marte-D4                                                          
+L.Martin-E5                                                         
+B.Gamel-A1   *2*:G/53   B5:W>12 b  C5:Do>2#   *7*:K      *9*:HR>b#
+M.Zunino-D5             1                                
+K.Seager-E5                                              
+J.Polanc-A1  A6:F/8     B6:P/2     C6:G/3>23  D6:W>b1    E6:Si
+                                                         
+                                                         
+S.Gennet-A1  A7:G/43    B7:Si>2#   C7:F/8     D7:CS/26>  E7:G/3>12
+                        13                    1o G/43    
+                                                         
+G.Heredi-A1  *3*:FO/5   B8:CS/2>3  *6*:Do     *8*:W>b1   E8:HR>2#
+M.Kepler-C8             o 12 Si>2                        b#
+                        #                                
+C.Moran-A1   A9:F/7     B9:K       C9:G/63>2  D9:L/3     E9:G/13
+                                   3                     
+                                                         
+
+C.Spange-A1  A1:G/43    *3*:W>b1   C1:HR>3#   D1:Si      E1:G/43    F1:K
+J.Iglesi-E3                        1# b#                            
+                                                                    
+N.Castel-A1  A2:K       B2:G/43>1  C2:K       D2:PB>12   E2:K       F2:K
+J.Candel-E2             2                     G/53                  
+                                                                    
+M.Trout-A1   A3:G/3     B3:Si>2#   C3:Si      *6*:G/3    *8*:Si
+                                                         
+                                                         
+C.Gonzal-A1  *2*:G/43   B4:W>12 b  C4:Si>13   D4:G/63    E4:Sac/24
+                        1                                >12
+                                                         
+M.Adams-A1   A5:Si      B5:K       C5:Do>3#   D5:Si      E5:P/6
+T.Austin-E8                        13                    
+                                                         
+A.Beltre-A1  A6:Do>13   B6:G/63    C6:G/53    D6:G/43    E6:IW>b1
+                                                         
+                                                         
+T.Kemp-A1    A7:G/43    *4*:F/8    *5*:HR>b#  *7*:Si     E7:G/3
+R.Urena-E8                                               
+                                                         
+N.Goodru-A1  A8:Do>3#   B8:Si      C8:G/43    D8:WP>12   *9*:W>b1
+J.Hicks-D8   2#                               K          
+D.Span-E8                                                
+I.Kiner--A1  A9:F/8     B9:Si>13   C9:F/9     D9:Si+E/7  E9:Sac/14
+                                              >2#        >12
+                                                         
+
+

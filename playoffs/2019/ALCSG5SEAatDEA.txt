@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2019 Seattle Mariners At 2019 Detroit Tigers             10/18/2019
+
+[1]  Mariners           AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  B.Nimmo LF          5  0  1  0 .194     J.Candelario 3B     2  2  1  0 .250  
+  D.Robertson 2B      2  0  0  0 .190   A-R.Urena PH          1  0  0  0 .250  
+C-J.Wendle PH,2B      1  0  0  0 .143   B-A.Beltre   ,3B      0  0  0  0 .240  
+  K.Marte SS          3  0  0  0 .160     N.Castellanos DH    4  0  0  0 .349  
+D-M.Zunino PH         1  0  1  0 .333     M.Trout CF          3  1  2  1 .400  
+E-J.Polanco SS        0  0  0  0 .235     N.Goodrum 1B        4  0  1  1 .276  
+  J.Aguilar 1B        2  0  0  0 .205     J.Hicks C           4  0  1  1 .150  
+  S.Gennett DH        4  0  1  0 .262     J.Iglesias SS       4  1  2  1 .143  
+  Y.Gomes C           4  0  1  0 .367     D.Span LF           3  0  1  0 .192  
+  M.Kepler RF         3  0  2  0 .385     I.Kiner-Falefa 2B   4  0  2  0 .385  
+  K.Seager 3B         3  0  1  0 .281     C.Gonzalez RF       4  0  0  0 .283  
+  G.Heredia CF        4  0  1  0 .300                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  0  8  0                 Totals      33  4 10  4
+
+A-Pinch Hit For Candelario In 6th Inning
+B-Subbed Defensively (  ) For Urena In 7th Inning
+C-Pinch Hit For Robertson In 8th Inning
+D-Pinch Hit For Marte In 8th Inning
+E-Subbed Defensively (SS) For Zunino In 8th Inning
+
+Mariners........ 0 0 0  0 0 0  0 0 0  -  0  8  0
+Tigers.......... 1 1 1  0 0 0  1 0    -  4 10  0
+
+[1]Mariners (6-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Paxton LOSS(2-2)           8      10   4   4   3   8   2   3.38  A1
+[1]Totals                    8      10   4   4   3   8   2
+
+[1]Tigers (7-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Hardy WIN(1-0)             7       5   0   0   4   4   0   0.00  A1 C9
+B.Hand                       0 2/3   0   0   0   0   0   0   3.38  D1 D2
+J.Lyles                      0       1   0   0   0   0   0   0.00  D3 D3
+A.Wilson                     0 2/3   1   0   0   0   0   0   3.00  D4 D6
+A.Chapman                    0 2/3   1   0   0   1   2   0   4.50  D7
+[1]Totals                    9       8   0   0   5   6   0
+
+ATTENDANCE- 41,369 DATE- Friday, October 18th 2019 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:48
+LEFT ON BASE- Mariners:10  Tigers: 8
+DOUBLE PLAYS- Mariners: 1  Tigers: 3
+DOUBLES- M.Zunino(1st), M.Trout(1st), J.Iglesias(3rd)
+HOME RUNS- M.Trout(6th), J.Iglesias(1st)
+RBIs- M.Trout(17th), N.Goodrum(4th), J.Hicks(2nd), J.Iglesias(2nd)
+WALKS- D.Robertson, J.Aguilar-2, M.Kepler, K.Seager, J.Candelario, M.Trout,
+       D.Span
+STRIKE OUTS- B.Nimmo-2, J.Aguilar, Y.Gomes-2, G.Heredia, R.Urena, N.Castellanos,
+             M.Trout, J.Hicks, D.Span, C.Gonzalez-3
+GIDP- K.Marte, S.Gennett, K.Seager, C.Gonzalez
+2-out RBI- N.Goodrum, J.Hicks
+RLISP 2-out- K.Marte-2, J.Iglesias, J.Candelario, Y.Gomes, R.Urena, J.Aguilar,
+             B.Nimmo-2
+TEAM RISP- Mariners: 1 for 7  Tigers: 3 for 12
+
+Center fielder Mike Trout hit a homerun as the Detroit Tigers beat the Seattle
+Mariners by a score of 4 to 0.
+
+Blaine Hardy(1-0) delivered a fine performance for Detroit.  He surrendered 5
+hits and 4 walks in 7 innings.  Detroit managed 10 hits in their victory.
+
+James Paxton(2-2) was the losing pitcher.  He pitched 8 innings giving up 10
+hits and 3 walks.
+[2]
+[1]SCORESHEET: 2019 Seattle Mariners at 2019 Detroit Tigers
+B.Nimmo-A1   A1:Si      B1:K       C1:L/4     *8*:G/63   E1:K
+                                                         
+                                                         
+D.Robert-A1  A2:F/7     B2:W>23 1  *6*:F/7    D2:F/8
+J.Wendle-D2             2 b1                  
+                                              
+K.Marte-A1   A3:G-DP/6  B3:P/6     C3:P/6     D3:Do
+M.Zunino-D3  43>1o                            
+J.Polanc-D5                                   
+J.Aguila-A1  *2*:W>b1   *4*:K      C4:W>b1    D4:G/43
+                                              
+                                              
+S.Gennet-A1  A5:G-DP/6  B5:P/3     C5:Si>13   *9*:L/4
+             43>1o                            
+                                              
+Y.Gomes-A1   A6:K       B6:P/6     C6:K       D6:Si
+                                              
+                                              
+M.Kepler-A1  *3*:Si     *5*:P/3    *7*:Si     D7:W>12 b
+                                              1
+                                              
+K.Seager-A1  A8:L/4     B8:W>b1    C8:G-DP/5  D8:Si>23
+                                   43>1o      12
+                                              
+G.Heredi-A1  A9:Si>12   B9:Force/  C9:L/6     D9:K
+                        14>1o b1              
+                                              
+
+J.Candel-A1  A1:Si      *3*:W>b1   C1:L/5     D1:K
+R.Urena-D1                                    
+A.Beltre-D2                                   
+N.Castel-A1  A2:G/43>1  B2:L/5     *5*:K      *7*:F/8
+             2                                
+                                              
+M.Trout-A1   A3:K       B3:Do>13   C3:W>b1    D3:HR>b#
+                                              
+                                              
+N.Goodru-A1  A4:Si>2#   B4:L/6     C4:F/7     D4:F/8
+                                              
+                                              
+J.Hicks-A1   A5:G/13    B5:Si>3#   C5:K       D5:G/63
+                        23                    
+                                              
+J.Iglesi-A1  *2*:HR>b#  B6:P/4     *6*:Do     *8*:G/63
+                                              
+                                              
+D.Span-A1    A7:F/8     *4*:Si     C7:K       D7:W>b1
+                                              
+                                              
+I.Kiner--A1  A8:F/8     B8:G/43>1  C8:Si>23   D8:Si>13
+                        2                     
+                                              
+C.Gonzal-A1  A9:K       B9:K       C9:K       D9:G-DP/6
+                                              43>1o
+                                              
+
+
