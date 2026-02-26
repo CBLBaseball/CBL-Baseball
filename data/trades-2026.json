@@ -1,5 +1,37 @@
 [
   {
+    "leftDate": "2/25/2026",
+    "rightDate": "2/25/2026",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Mets",
+        "items": [
+          "Taylor Walls",
+          "Nationals DP (10th)"
+        ]
+      },
+      {
+        "name": "Nationals",
+        "items": [
+          "Mets DP (9th)"
+        ]
+      },
+      {
+        "name": "Giants",
+        "items": [
+          "Randy Rodriguez"
+        ]
+      },
+      {
+        "name": "Twins",
+        "items": [
+          "Spencer Arrighetti"
+        ]
+      }
+    ]
+  },
+  {
     "leftDate": "2/18/2026",
     "rightDate": "2/20/2026",
     "phase": "",
@@ -19,17 +51,15 @@
         ]
       },
       {
-        "name": "Dodgers",
+        "name": "Padres",
         "items": [
-          "Brandon Marsh",
-          "Josh Hader"
+          "Xander BogaertsMichael Taylor"
         ]
       },
       {
-        "name": "Padres",
+        "name": "Dodgers",
         "items": [
-          "Xander Bogaerts",
-          "Michael A. Taylor"
+          "Brandon MarshJosh Hader"
         ]
       }
     ]
