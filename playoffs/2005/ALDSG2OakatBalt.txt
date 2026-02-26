@@ -1,0 +1,113 @@
+[1]BOXSCORE: 2005 Oakland Athletics At 2005 Baltimore Orioles          10/5/2005
+
+[1]  Athletics          AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  R.Freel CF          4  0  0  0 .000     J.Kendall C         4  0  1  0 .111  
+  J.Davanon LF        3  0  0  0 .000     M.Mora DH           4  0  2  0 .429  
+A-E.Byrnes PH,LF      1  0  0  0 .400     A.Beltre 3B         4  0  0  0 .375  
+  T.Hollandsworth RF  4  0  2  0 .500     V.Guerrero RF       4  0  0  0 .250  
+  E.Chavez 3B         4  0  0  0 .167     C.Beltran CF        4  0  1  0 .286  
+  M.Tejada DH         3  1  1  0 .125     R.Palmeiro 1B       2  0  1  0 .200  
+  S.Hatteberg 1B      3  0  1  0 .333     B.Roberts 2B        3  0  0  0 .000  
+  A.Melhuse C         3  0  0  0 .000     L.Bigbie LF         3  0  0  0 .571  
+  L.Gonzalez 2B       3  0  2  1 .429     C.Guzman SS         3  0  0  0 .333  
+  B.Crosby SS         3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  6  1                 Totals      31  0  5  0
+
+A-Pinch Hit For Davanon In 9th Inning
+
+Athletics....... 0 0 0  0 1 0  0 0 0  -  1  6  0
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Athletics (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Pavano WIN(1-0)            6 2/3   4   0   0   1   7   0   0.00  A1 C6
+O.Dotel HOLD(1st)            1 1/3   0   0   0   0   2   0   0.00  C7 D1
+J.Isringhaus SAVE(1st)       1       1   0   0   0   1   0   0.00  D2
+[1]Totals                    9       5   0   0   1  10   0
+
+[1]Orioles (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens LOSS(0-1)          8       5   1   1   0   8   0   1.13  A1 D1
+B.Wagner                     1       1   0   0   0   0   0   0.00  D2
+[1]Totals                    9       6   1   1   0   8   0
+
+ATTENDANCE- 45,635 DATE-  TIME- Night 
+T- 2:06
+LEFT ON BASE- Athletics: 3  Orioles: 5
+DOUBLE PLAYS- Athletics: 0  Orioles: 2
+DOUBLES- M.Tejada(1st), L.Gonzalez-2(3rd)
+CAUGHT STEALING- J.Kendall
+WALKS- R.Palmeiro
+STRIKE OUTS- J.Davanon-2, E.Chavez-2, A.Melhuse, B.Crosby-3, J.Kendall,
+             A.Beltre, V.Guerrero, C.Beltran, B.Roberts-3, L.Bigbie-3
+GIDP- E.Chavez, A.Melhuse
+
+At Camden Yards, the Baltimore fans witnessed a great pitcher's duel.  Carl
+Pavano(1-0) finally bested his Baltimore opposite, Roger Clemens(0-1), by the
+score of 1 to 0.
+
+The game's lone run was scored in the top of the 5th inning.  Baltimore had a
+chance in the 9th but they came up short.  
+
+Jason Isringhausen earned the save, his 1st.  Clemens suffered the loss.  He
+was stingy with the baserunners, allowing just 5 hits and no walks in 8
+innings.
+
+[2]
+[1]SCORESHEET: 2005 Oakland Athletics at 2005 Baltimore Orioles
+R.Freel-A1   A1:G/31    B1:F/8     *6*:G/63   D1:G/43
+                                              
+                                              
+J.Davano-A1  A2:K       *4*:FO/3   C2:K       *9*:G/43
+E.Byrnes-D2                                   
+                                              
+T.Hollan-A1  A3:G/63    B3:F/8     C3:Si      D3:Si
+                                              
+                                              
+E.Chavez-A1  *2*:G/13   B4:K       C4:K       D4:G-DP/6
+                                              43>1o
+                                              
+M.Tejada-A1  A5:P/2     *5*:Do     *7*:P/4
+                                   
+                                   
+S.Hatteb-A1  A6:P/6     B6:G/63    C6:Si
+                                   
+                                   
+A.Melhus-A1  *3*:K      B7:F/8     C7:G-DP/4
+                                   63>1o
+                                   
+L.Gonzal-A1  A8:Do      B8:Do>2#   *8*:G/43
+                                   
+                                   
+B.Crosby-A1  A9:K       B9:K       C9:K
+                                   
+                                   
+
+J.Kendal-A1  A1:F/7     *4*:Si     C1:K       D1:G/53
+                                              
+                                              
+M.Mora-A1    A2:F/7     B2:CS/24>  *7*:Si     *9*:Si
+                        1o L/6                
+                                              
+A.Beltre-A1  A3:G/43    B3:F/8     C3:K       D3:FO/2
+                                              
+                                              
+V.Guerre-A1  *2*:F/8    *5*:F/7    C4:K       D4:P/3
+                                              
+                                              
+C.Beltra-A1  A5:G/63    B5:G/53    C5:Si>13   D5:K
+                                              
+                                              
+R.Palmei-A1  A6:F/8     B6:Si      C6:W>12 b
+                                   1
+                                   
+B.Robert-A1  *3*:K      B7:K       C7:K
+                                   
+                                   
+L.Bigbie-A1  A8:K       *6*:K      *8*:K
+                                   
+                                   
+C.Guzman-A1  A9:G/31    B9:G/43    C9:G/13
+                                   
+                                   
+
+

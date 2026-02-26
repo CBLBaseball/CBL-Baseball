@@ -1,0 +1,371 @@
+[1]BOXSCORE: 2005 Chicago (NL) Cubs At 2005 San Diego Padres           10/8/2005
+
+[1]  Cubs               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Bautista RF       7  0  2  1 .263     R.Winn CF           8  2  3  0 .375  
+E-D.Glanville RF      0  0  0  0 ----     R.Klesko LF         6  0  2  0 .156  
+  R.Clayton SS        6  0  0  0 .200     P.Nevin DH          3  0  0  0 .458  
+  J.Estrada C         5  0  3  0 .313   C-S.Burroughs PH      1  0  1  01.000  
+  V.Castilla 3B       7  0  2  0 .158   D-T.Linden PH         2  0  0  0 .000  
+  D.Lee 1B            6  0  1  0 .176   F-X.Nady PH           1  0  1  1 .667  
+  S.Sosa DH           5  0  0  0 .125     M.Teixeira 1B       8  0  1  1 .194  
+  L.Ford LF           5  0  1  0 .267     J.Lopez C           6  1  3  0 .389  
+  C.Patterson CF      7  0  0  0 .000     H.Blalock 3B        5  0  1  0 .219  
+  T.Graffanino 2B     6  2  1  1 .167     D.Jimenez 2B        5  0  1  1 .292  
+                                          K.Greene SS         7  0  0  0 .167  
+                                          E.Valent RF         1  0  0  0 .000  
+                                        A-A.Sanchez PH        1  0  0  0 .150  
+                                        B-T.Long RF           4  0  0  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      54  2 10  2                 Totals      58  3 13  3
+
+A-Pinch Hit For Valent In 7th Inning
+B-Subbed Defensively (RF) For Sanchez In 8th Inning
+C-Pinch Hit For Nevin In 8th Inning
+D-Pinch Hit For Burroughs In 10th Inning
+E-Subbed Defensively (RF) For Bautista In 14th Inning
+F-Pinch Hit For Linden In 14th Inning
+
+Cubs............ 0 0 0  0 0 0  1 0 0  0 0 0  0 1 0  0 -  2 10  0
+Padres.......... 0 0 0  0 0 0  1 0 0  0 0 0  0 1 0  1 -  3 13  2
+
+[1]Cubs (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano                   6       4   1   1   4   6   0   4.50  A1 C7
+J.Nathan                     3       2   0   0   0   2   0   1.29  C8 D9
+C.Young                      1 1/3   0   0   0   0   1   0   0.00  E1 E4
+K.Mercker                    2 1/3   2   0   0   2   2   0   1.59  E5 F6
+J.Speier                     1       3   1   1   0   3   0   9.00  F7 G3
+B.Koch LOSS(0-1)             1 2/3   2   1   1   3   2   0   5.40  G4
+[1]Totals                   15 1/3  13   3   3   9  16   0
+
+[1]Padres (5-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets                     9       6   1   1   6   8   1   1.08  A1 E3
+T.Hoffman                    3       1   0   0   0   2   0   0.93  E4 F2
+A.Otsuka                     1       1   0   0   1   0   0   2.45  F3 F7
+S.Linebrink WIN(1-0)         3       2   1   1   1   1   0   1.08  F8
+[1]Totals                   16      10   2   2   8  11   1
+
+ATTENDANCE- 46,827 DATE-  TIME- Day 
+T- 5:12
+LEFT ON BASE- Cubs:13  Padres:17
+DOUBLE PLAYS- Cubs: 1  Padres: 5
+ERRORS- J.Lopez, T.Long
+DOUBLES- D.Bautista(2nd), J.Estrada(2nd), D.Lee(2nd)
+TRIPLES- R.Winn(1st)
+HOME RUNS- T.Graffanino(1st)
+WALKS- R.Clayton, J.Estrada-2, S.Sosa-2, L.Ford-2, T.Graffanino, R.Klesko-2,
+       X.Nady, J.Lopez, H.Blalock-2, D.Jimenez-2, E.Valent
+HIT BY PITCH- D.Lee
+STRIKE OUTS- D.Bautista, R.Clayton-3, V.Castilla-3, S.Sosa, L.Ford,
+             T.Graffanino-2, R.Winn, R.Klesko, P.Nevin-2, M.Teixeira-4, J.Lopez,
+             H.Blalock-3, D.Jimenez, K.Greene-2, T.Long
+GIDP- V.Castilla, D.Lee, C.Patterson-2, R.Klesko
+WEB GEMS- Top 15th: Javy Lopez blocked the plate, saving a run!
+
+One run was the difference at Petco Park as the San Diego Padres defeated the
+Chicago (NL) Cubs in 16 innings 3 to 2.
+
+Both teams were tied at 1 runs apiece after nine innings.  San Diego came out
+the victor in the 16th inning.  After an out was recorded, Randy Winn
+tripled.  Ryan Klesko was next and he was walked intentionally.  Xavier Nady
+then drew a walk to load the bases.  Mark Teixeira was up next and he lined a
+base-hit resulting in an exciting win for San Diego and a raucous post-game
+celebration by the home town fans.  The game was a scoreless duel until the
+7th inning.  
+
+Scott Linebrink(1-0) got credit for the victory, pitching 3 innings and
+allowing 1 run. The losing pitcher was Billy Koch(0-1) in relief.  
+
+[2]
+[1]SCORESHEET: 2005 Chicago (NL) Cubs at 2005 San Diego Padres
+D.Bautis-A1  A1:Si      *3*:L/6    C1:G/31    D1:F/8     E1:L/6     F1:K
+D.Glanvi-G3                                                         
+                                                                    
+R.Clayto-A1  A2:G/43>1  B2:K       C2:K       D2:G/53    *10*:W>b1  F2:K
+             2                                                      
+                                                                    
+J.Estrad-A1  A3:F/9     B3:W>b1    *6*:Do     *8*:Si     E3:W>12 b  *13*:Si
+                                                         1          
+                                                                    
+V.Castil-A1  A4:K       B4:K       C4:K       D4:Si>12   E4:G-DP/5  F4:G/63>1
+                                                         43>23 1o   2
+                                                                    
+D.Lee-A1     *2*:F/7    *4*:Do     C5:F/7     D5:G-DP/6  E5:L/6     F5:L/6
+                                              43>23 1o              
+                                                                    
+S.Sosa-A1    A6:W>b1    B6:F/8>23  C6:W>b1    D6:K       *11*:G/63  F6:P/6
+                                                                    
+                                                                    
+L.Ford-A1    A7:E/2>12  B7:FC/12>  C7:L/6     *9*:W>b1   E7:Si      *14*:W>b1
+                        3o                                          
+                                                                    
+C.Patter-A1  A8:Force/  B8:G/53    *7*:F/9    D8:F/8     E8:G-DP/5  F8:G-DP/4
+             14>23 1o                                    43>1o      63>1o
+             b1                                                     
+T.Graffa-A1  A9:K       *5*:K      C9:HR>b#   D9:FO/5    *12*:L/5   F9:W>b1
+                                                                    
+                                                                    
+
+R.Winn-A1    A1:Si      B1:G/3>12  C1:K       D1:F/8     *10*:G/43  F1:F/7
+                                                                    
+                                                                    
+R.Klesko-A1  A2:G-DP/4  B2:W>b1    *6*:F/8    *8*:F/8    E2:K       *13*:Si
+             63>1o                                                  
+                                                                    
+P.Nevin-A1   A3:K       B3:K       C3:G/13    D3:Si      E3:P/4     F3:P/3
+S.Burrou-D3                                                         
+T.Linden-E3+                                                        
+M.Teixei-A1  *2*:P/4    B4:K       C4:K       D4:P/4     *11*:G/43  F4:K
+                                                                    
+                                                                    
+J.Lopez-A1   A5:K       *4*:G/63   *7*:Si     D5:Si>13   E5:P/4     F5:Si>13
+                                                                    
+                                                                    
+H.Blaloc-A1  A6:W>b1    B6:F/9     C6:Si>13   D6:K       E6:K       F6:W>12 b
+                                                                    1
+                                                                    
+D.Jimene-A1  A7:W>12 b  B7:F/8     C7:Si>3#   *9*:F/8    *12*:W>b1  F7:K
+             1                     12                               
+                                                                    
+K.Greene-A1  A8:F/7     *5*:G/63   C8:G/43>2  D8:K       E8:G/43>1  *14*:K
+                                   3 12                  2          
+                                                                    
+E.Valent-A1  *3*:W>b1   B9:G/53    C9:FC/32>  D9:G/63    E9:F/7     F9:K
+A.Sanche-C9                        3o 23                            
+T.Long-D2                                                           
+
+
+[2]
+[1]SCORESHEET: 2005 Chicago (NL) Cubs at 2005 San Diego Padres
+D.Bautis-A1  G1:Do>1#
+D.Glanvi-G3  
+             
+R.Clayto-A1  G2:G/63
+             
+             
+J.Estrad-A1  *15*:G/13
+             
+             
+V.Castil-A1  G4:Si+E/9
+             
+             
+D.Lee-A1     G5:HBP
+             
+             
+S.Sosa-A1    G6:F-DP/8
+             2>3o 12
+             
+L.Ford-A1    *16*:K
+             
+             
+C.Patter-A1  G8:F/9
+             
+             
+T.Graffa-A1  G9:G/31
+             
+             
+
+R.Winn-A1    G1:Si      H1:Tr
+                        
+                        
+R.Klesko-A1  G2:Si>13   H2:IW>b1
+                        
+                        
+P.Nevin-A1   G3:Si>3#   H3:W>12 b
+S.Burrou-D3  12         1
+T.Linden-E3+            
+M.Teixei-A1  G4:K       H4:Si>3#
+                        23 12
+                        
+J.Lopez-A1   *15*:W>b1
+             
+             
+H.Blaloc-A1  G6:K
+             
+             
+D.Jimene-A1  G7:F/8
+             
+             
+K.Greene-A1  G8:G/13
+             
+             
+E.Valent-A1  *16*:G/63
+A.Sanche-C9  
+T.Long-D2    
+
+
+[1]*** TOP OF INNING 1 ***
+0     D.Bautista           0 Single                         b-1 
+0 1   R.Clayton            0 Ground Out                     1-2 b-0 
+1  2  J.Estrada            0 Fly Out                        b-0 
+2  2  V.Castilla           0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     R.Winn               0 Single                         b-1 
+0 1   R.Klesko             0 Ground Out Double Play         1-o b-0 
+2     P.Nevin              0 Strike Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     D.Lee                0 Fly Out                        b-0 
+1     S.Sosa               0 Walk                           b-1 
+1 1   L.Ford               0 1 Base Error - C               1-2 b-1 
+1 12  C.Patterson          0 Force Play                     2-3 1-o b-1 
+2 1 3 T.Graffanino         0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     M.Teixeira           0 Pop Out                        b-0 
+1     J.Lopez              0 Strike Out                     b-0 
+2     H.Blalock            0 Walk                           b-1 
+2 1   D.Jimenez            0 Walk                           1-2 b-1 
+2 12  K.Greene             0 Fly Out                        b-0 
+[1]*** TOP OF INNING 3 ***
+0     D.Bautista           0 Line Out                       b-0 
+1     R.Clayton            0 Strike Out                     b-0 
+2     J.Estrada            0 Walk                           b-1 
+2 1   V.Castilla           0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     E.Valent             0 Walk                           b-1 
+0 1   R.Winn               0 Ground Out                     1-2 b-0 
+1  2  R.Klesko             0 Walk                           b-1 
+1 12  P.Nevin              0 Strike Out                     b-0 
+2 12  M.Teixeira           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     D.Lee                0 Double                         b-2 
+0  2  S.Sosa               0 Fly Out                        2-3 b-0 
+1   3 L.Ford               0 Fielders Choice                3-o b-1 
+2 1   C.Patterson          0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     J.Lopez              0 Ground Out                     b-0 
+1     H.Blalock            0 Fly Out                        b-0 
+2     D.Jimenez            0 Fly Out                        b-0 
+[1]*** TOP OF INNING 5 ***
+0     T.Graffanino         0 Strike Out                     b-0 
+1     D.Bautista           0 Ground Out                     b-0 
+2     R.Clayton            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     K.Greene             0 Ground Out                     b-0 
+1     E.Valent             0 Ground Out                     b-0 
+2     R.Winn               0 Strike Out                     b-0 
+[1]*** TOP OF INNING 6 ***
+0     J.Estrada            0 Double                         b-2 
+0  2  V.Castilla           0 Strike Out                     b-0 
+1  2  D.Lee                0 Fly Out                        b-0 
+2  2  S.Sosa               0 Walk                           b-1 
+2 12  L.Ford               0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     R.Klesko             0 Fly Out                        b-0 
+1     P.Nevin              0 Ground Out                     b-0 
+2     M.Teixeira           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+0     C.Patterson          0 Fly Out                        b-0 
+1     T.Graffanino         0 Home Run                       b-H 
+1     D.Bautista           0 Fly Out                        b-0 
+2     R.Clayton            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     J.Lopez              0 Single                         b-1 
+0 1   H.Blalock            0 Single                         1-3 b-1 
+0 1 3 D.Jimenez            0 Single                         3-H 1-2 b-1 
+                             SUBSTITUTE P - Joe Nathan
+0 12  K.Greene             0 Ground Out                     2-3 1-2 b-0 
+                             SUBSTITUTE PH- Alex Sanchez
+1  23 A.Sanchez            0 Fielders Choice                3-o 2-3 b-1 
+2 1 3 R.Winn               0 Fly Out                        b-0 
+[1]*** TOP OF INNING 8 ***
+                             SUBSTITUTE RF- Terrence Long
+0     J.Estrada            0 Single                         b-1 
+0 1   V.Castilla           0 Single                         1-2 b-1 
+0 12  D.Lee                0 Ground Out Double Play         2-3 1-o b-0 
+2   3 S.Sosa               0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+0     R.Klesko             0 Fly Out                        b-0 
+                             SUBSTITUTE PH- Sean Burroughs
+1     S.Burroughs          0 Single                         b-1 
+1 1   M.Teixeira           0 Pop Out                        b-0 
+2 1   J.Lopez              0 Single                         1-3 b-2 
+2  23 H.Blalock            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+0     L.Ford               0 Walk                           b-1 
+0 1   C.Patterson          0 Fly Out                        b-0 
+1 1   T.Graffanino         0 Foul Out                       b-0 
+2 1   D.Bautista           0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 9 ***
+0     D.Jimenez            0 Fly Out                        b-0 
+1     K.Greene             0 Strike Out                     b-0 
+2     T.Long               0 Ground Out                     b-0 
+[1]*** TOP OF INNING 10 ***
+0     R.Clayton            0 Walk                           b-1 
+0 1   J.Estrada            0 Walk                           1-2 b-1 
+                             SUBSTITUTE P - Trevor Hoffman
+0 12  V.Castilla           0 Ground Out Double Play         2-3 1-o b-0 
+2   3 D.Lee                0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 10 ***
+                             SUBSTITUTE P - Chris Young
+0     R.Winn               0 Ground Out                     b-0 
+1     R.Klesko             0 Strike Out                     b-0 
+                             SUBSTITUTE PH- Todd Linden
+2     T.Linden             0 Pop Out                        b-0 
+[1]*** TOP OF INNING 11 ***
+0     S.Sosa               0 Ground Out                     b-0 
+1     L.Ford               0 Single                         b-1 
+1 1   C.Patterson          0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 11 ***
+0     M.Teixeira           0 Ground Out                     b-0 
+                             SUBSTITUTE P - Kent Mercker
+1     J.Lopez              0 Pop Out                        b-0 
+2     H.Blalock            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 12 ***
+0     T.Graffanino         0 Line Out                       b-0 
+1     D.Bautista           0 Strike Out                     b-0 
+2     R.Clayton            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 12 ***
+0     D.Jimenez            0 Walk                           b-1 
+0 1   K.Greene             0 Ground Out                     1-2 b-0 
+1  2  T.Long               0 Fly Out                        b-0 
+2  2  R.Winn               0 Fly Out                        b-0 
+[1]*** TOP OF INNING 13 ***
+                             SUBSTITUTE P - Akinori Otsuka
+0     J.Estrada            0 Single                         b-1 
+0 1   V.Castilla           0 Ground Out                     1-2 b-0 
+1  2  D.Lee                0 Line Out                       b-0 
+2  2  S.Sosa               0 Pop Out                        b-0 
+[1]*** BOTTOM OF INNING 13 ***
+0     R.Klesko             0 Single                         b-1 
+0 1   T.Linden             0 Pop Out                        b-0 
+1 1   M.Teixeira           0 Strike Out                     b-0 
+2 1   J.Lopez              0 Single                         1-3 b-1 
+2 1 3 H.Blalock            0 Walk                           1-2 b-1 
+                             SUBSTITUTE P - Justin Speier
+2 123 D.Jimenez            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 14 ***
+0     L.Ford               0 Walk                           b-1 
+                             SUBSTITUTE P - Scott Linebrink
+0 1   C.Patterson          0 Ground Out Double Play         1-o b-0 
+2     T.Graffanino         0 Walk                           b-1 
+2 1   D.Bautista           0 Double                         1-H b-2 
+2  2  R.Clayton            0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 14 ***
+                             SUBSTITUTE RF- Doug Glanville
+0     K.Greene             0 Strike Out                     b-0 
+1     T.Long               0 Strike Out                     b-0 
+2     R.Winn               0 Single                         b-1 
+2 1   R.Klesko             0 Single                         1-3 b-1 
+                             SUBSTITUTE PH- Xavier Nady
+2 1 3 X.Nady               0 Single                         3-H 1-2 b-1 
+                             SUBSTITUTE P - Billy Koch
+2 12  M.Teixeira           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 15 ***
+0     J.Estrada            0 Ground Out                     b-0 
+1     V.Castilla           0 Single & Error - RF            b-3 
+1   3 D.Lee                0 HBP                            b-1 
+1 1 3 S.Sosa               0 Fly Out Double Play            3-o 1-2 b-0 
+[1]*** BOTTOM OF INNING 15 ***
+0     J.Lopez              0 Walk                           b-1 
+0 1   H.Blalock            0 Strike Out                     b-0 
+1 1   D.Jimenez            0 Fly Out                        b-0 
+2 1   K.Greene             0 Ground Out                     b-0 
+[1]*** TOP OF INNING 16 ***
+0     L.Ford               0 Strike Out                     b-0 
+1     C.Patterson          0 Fly Out                        b-0 
+2     T.Graffanino         0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 16 ***
+0     T.Long               0 Ground Out                     b-0 
+1     R.Winn               0 Triple                         b-3 
+1   3 R.Klesko             0 Int Walk                       b-1 
+1 1 3 X.Nady               0 Walk                           1-2 b-1 
+1 123 M.Teixeira           0 Single                         3-H 2-3 1-2 b-1 

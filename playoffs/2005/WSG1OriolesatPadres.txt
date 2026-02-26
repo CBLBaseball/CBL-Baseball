@@ -1,0 +1,111 @@
+[1]BOXSCORE: 2005 Baltimore Orioles At 2005 San Diego Padres          10/16/2005
+
+[1]  Orioles            AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Kendall C         5  0  1  0 .200     A.Sanchez CF        4  0  0  0 .125  
+  M.Mora DH           4  0  1  1 .250     X.Nady RF           4  0  1  0 .429  
+  A.Beltre 3B         4  0  0  0 .000     P.Nevin DH          4  1  1  1 .429  
+  V.Guerrero RF       3  2  1  1 .333     M.Teixeira 1B       4  0  0  0 .171  
+  C.Beltran CF        4  1  2  2 .500     J.Lopez C           2  0  0  0 .368  
+  R.Palmeiro 1B       4  0  1  0 .250     R.Klesko LF         3  0  0  0 .143  
+  B.Roberts 2B        3  0  0  0 .000     H.Blalock 3B        3  0  0  0 .200  
+  L.Bigbie LF         3  2  2  0 .667     K.Greene SS         3  0  0  0 .152  
+  C.Guzman SS         4  0  1  1 .250     D.Jimenez 2B        2  0  1  0 .308  
+                                        A-F.Lopez PH,2B       1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  9  5                 Totals      30  1  3  1
+
+A-Pinch Hit For Jimenez In 8th Inning
+
+Orioles......... 0 0 1  1 0 0  1 2 0  -  5  9  0
+Padres.......... 0 0 0  0 0 0  1 0 0  -  1  3  0
+
+[1]Orioles (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           9       3   1   1   1  12   1   1.00  A1
+[1]Totals                    9       3   1   1   1  12   1
+
+[1]Padres (5-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets LOSS(1-2)           9       9   5   5   2  11   2   2.12  A1
+[1]Totals                    9       9   5   5   2  11   2
+
+ATTENDANCE- 49,262 DATE-  TIME- Day 
+T- 2:46
+LEFT ON BASE- Orioles: 6  Padres: 3
+DOUBLE PLAYS- Orioles: 0  Padres: 0
+DOUBLES- L.Bigbie(1st)
+HOME RUNS- V.Guerrero(1st), C.Beltran(1st), P.Nevin(4th)
+CAUGHT STEALING- M.Mora
+SACRIFICE HITS- B.Roberts
+WALKS- M.Mora, L.Bigbie, J.Lopez
+HIT BY PITCH- V.Guerrero
+STRIKE OUTS- J.Kendall-2, M.Mora-2, A.Beltre-2, V.Guerrero, C.Beltran,
+             R.Palmeiro-2, B.Roberts, A.Sanchez, P.Nevin, M.Teixeira-3, J.Lopez,
+             R.Klesko-2, H.Blalock-2, K.Greene, F.Lopez
+
+Randy Johnson hurled a 3 hitter at Petco Park as the Baltimore Orioles beat
+the San Diego Padres by the count of 5 to 1.
+
+Baltimore jumped on top to stay in the 3rd inning scoring one runner utilizing
+3 base hits.  Baltimore rapped out 9 hits for the afternoon.  
+
+The winning pitcher was Johnson(1-0) who allowed 1 run for the game. Ben
+Sheets(1-2) was charged with the loss.  'Johnson pitched a gem of a game',
+Brian Ballou recounted.  'He kept our batters off balance the entire game.'
+[2]
+[1]SCORESHEET: 2005 Baltimore Orioles at 2005 San Diego Padres
+J.Kendal-A1  A1:G/63    B1:Si>13   C1:K       D1:G/43>1  E1:K
+                                              2          
+                                                         
+M.Mora-A1    A2:K       B2:K       *5*:W>b1   D2:Si>2#   E2:F/7
+                                                         
+                                                         
+A.Beltre-A1  A3:F/7     B3:K       C3:CS/24>  D3:F/8
+                                   1o K       
+                                              
+V.Guerre-A1  *2*:K      *4*:HR>b#  C4:G/43    *8*:HBP
+                                              
+                                              
+C.Beltra-A1  A5:K       B5:Si      *6*:F/8    D5:HR>1#
+                                              b#
+                                              
+R.Palmei-A1  A6:L/4     B6:Si>12   C6:K       D6:K
+                                              
+                                              
+B.Robert-A1  *3*:K      B7:Sac/14  C7:G/13    D7:F/7
+                        >23 12                
+                                              
+L.Bigbie-A1  A8:Do      B8:W>b1    *7*:Si     D8:G/31
+                                              
+                                              
+C.Guzman-A1  A9:Si>2#   B9:Force/  C9:P/2     *9*:F/8
+                        52>3o 23              
+                        12 b1                 
+
+A.Sanche-A1  A1:K       B1:F/7     C1:P/3     D1:F/7
+                                              
+                                              
+X.Nady-A1    A2:G/63    *4*:Si     C2:F/8     *9*:L/6
+                                              
+                                              
+P.Nevin-A1   A3:K       B3:F/7     *7*:HR>b#  D3:G/43
+                                              
+                                              
+M.Teixei-A1  *2*:K      B4:P/2     C4:K       D4:K
+                                              
+                                              
+J.Lopez-A1   A5:K       B5:F/9     C5:W>b1
+                                   
+                                   
+R.Klesko-A1  A6:K       *5*:K      C6:F/8
+                                   
+                                   
+H.Blaloc-A1  *3*:K      B7:L/4     C7:K
+                                   
+                                   
+K.Greene-A1  A8:K       B8:P/6     *8*:G/63
+                                   
+                                   
+D.Jimene-A1  A9:Si      *6*:L/6    C9:K
+F.Lopez-C9                         
+                                   
+
+

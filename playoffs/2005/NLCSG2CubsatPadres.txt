@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2005 Chicago (NL) Cubs At 2005 San Diego Padres          10/28/2005
+
+[1]  Cubs               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Bautista LF,RF    4  0  0  0 .250     R.Winn CF           4  1  1  1 .357  
+  M.Grudzielanek 2B   4  0  0  0 .000     R.Klesko LF         4  0  0  0 .063  
+  J.Estrada C         3  0  1  0 .143     P.Nevin DH          3  1  1  0 .444  
+  V.Castilla 3B       4  0  0  0 .125     M.Teixeira 1B       4  0  1  1 .231  
+  D.Lee 1B            4  0  1  0 .143     J.Lopez C           4  0  2  0 .375  
+  M.Stairs RF         2  2  1  1 .500     H.Blalock 3B        4  0  0  0 .200  
+A-D.Glanville CF      0  0  0  0 ----     D.Jimenez 2B        2  0  0  0 .182  
+C-C.Patterson PH,CF   1  0  0  0 .000     K.Greene SS         3  0  1  0 .273  
+  S.Sosa DH           4  1  1  2 .143     E.Valent RF         2  0  0  0 .000  
+  L.Ford CF,LF        4  0  2  0 .429   B-X.Nady PH,RF        1  0  0  0 .000  
+  R.Clayton SS        3  0  1  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  7  3                 Totals      31  2  6  2
+
+A-Subbed Defensively (CF) For Stairs In 7th Inning
+B-Pinch Hit For Valent In 7th Inning
+C-Pinch Hit For Glanville In 9th Inning
+
+Cubs............ 0 2 0  0 0 0  1 0 0  -  3  7  1
+Padres.......... 1 0 0  1 0 0  0 0 0  -  2  6  1
+
+[1]Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior WIN(1-0)             6       4   2   2   0   9   1   3.00  A1 C4
+J.Nathan HOLD(1st)           0 2/3   2   0   0   1   0   0   0.00  C5 C8
+K.Mercker SAVE(1st)          2 1/3   0   0   0   0   1   0   0.00  C9
+[1]Totals                    9       6   2   2   1  10   1
+
+[1]Padres (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy LOSS(0-1)            6 2/3   6   3   3   0   5   2   4.05  A1 C8
+T.Hoffman                    1 1/3   1   0   0   0   1   0   2.45  C9 D5
+S.Linebrink                  0 1/3   0   0   0   0   0   0   0.00  D6 D6
+A.Otsuka                     0 2/3   0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       7   3   3   0   7   2
+
+ATTENDANCE- 45,470 DATE-  TIME- Day 
+T- 2:36
+LEFT ON BASE- Cubs: 5  Padres: 4
+DOUBLE PLAYS- Cubs: 2  Padres: 1
+ERRORS- L.Ford, K.Greene
+DOUBLES- J.Estrada(1st), M.Teixeira(1st)
+HOME RUNS- M.Stairs(1st), S.Sosa(1st), R.Winn(1st)
+STOLEN BASES- L.Ford(1st)
+WALKS- D.Jimenez
+HIT BY PITCH- J.Estrada, M.Stairs, P.Nevin
+STRIKE OUTS- D.Bautista, M.Grudzielanek, J.Estrada-2, D.Lee, S.Sosa-2, R.Winn-2,
+             R.Klesko, J.Lopez, H.Blalock, D.Jimenez-2, K.Greene-2, E.Valent
+GIDP- V.Castilla, R.Winn, M.Teixeira
+
+45,470 fans were treated to a fine game at Petco Park as only one run
+separated the combatants at game's end.  The Chicago (NL) Cubs won by the
+slimmest of margins, 3 to 2.
+
+San Diego never recovered after Chicago (NL) took the lead in the 7th inning
+scoring a single run on 3 hits.  After an out was recorded, Matt Stairs
+blasted a solo shot (his 1st of the season).  The San Diego offense proved no
+trouble in the bottom of the 9th.  
+
+The victory went to Mark Prior(1-0) who went 6 innings, allowing 2 runs. Kent
+Mercker earned the save, his 1st.  Jake Peavy(0-1) was the losing pitcher.
+
+[2]
+[1]SCORESHEET: 2005 Chicago (NL) Cubs at 2005 San Diego Padres
+D.Bautis-A1  A1:L/6     B1:G/43    C1:K       D1:P/6
+                                              
+                                              
+M.Grudzi-A1  A2:K       B2:F/7     *6*:G/63   *8*:G/63
+                                              
+                                              
+J.Estrad-A1  A3:K       *4*:Do     C3:HBP     D3:K
+                                              
+                                              
+V.Castil-A1  *2*:G/31   B4:L/6     C4:G-DP/1  D4:G/53
+                                   63>1o      
+                                              
+D.Lee-A1     A5:Si      B5:G/53    *7*:K      *9*:E/6
+                                              
+                                              
+M.Stairs-A1  A6:PkOff/  B6:F/9     C6:HR>b#   D6:F/8
+D.Glanvi-D2  13>1o HBP                        
+C.Patter-D6                                   
+S.Sosa-A1    A7:HR>1#   *5*:F/7    C7:K       D7:K
+             b#                               
+                                              
+L.Ford-A1    A8:L/5     B8:Si      C8:Si      D8:G/63
+                                              
+                                              
+R.Clayto-A1  *3*:F/7    B9:SB>12   C9:Si>13
+                        FC/65>2o   
+                                   
+
+R.Winn-A1    A1:HR>b#   B1:K       C1:G-DP/4  *8*:K
+                                   63>1o      
+                                              
+R.Klesko-A1  A2:G/43    B2:L/4     *6*:K      D2:F/7
+                                              
+                                              
+P.Nevin-A1   A3:HBP     *4*:Si     C3:G/43    D3:G/3
+                                              
+                                              
+M.Teixei-A1  A4:G-DP/3  B4:Do>1#   C4:G/43    *9*:F/7
+             63>1o                            
+                                              
+J.Lopez-A1   *2*:Si     B5:K       *7*:Si     D5:P/4
+                                              
+                                              
+H.Blaloc-A1  A6:K       B6:L/4     C6:PkOff/  D6:G/43
+                                   23>1o G/1  
+                                   3          
+D.Jimene-A1  A7:K       B7:K       C7:W>b1
+                                   
+                                   
+K.Greene-A1  A8:K       *5*:K      C8:Si>12
+                                   
+                                   
+E.Valent-A1  *3*:K      B9:E/8     C9:G/13
+X.Nady-C9                          
+                                   
+
+

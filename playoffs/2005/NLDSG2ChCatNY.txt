@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2005 Chicago (NL) Cubs At 2005 New York (NL) Mets         10/6/2005
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Bautista RF       5  1  1  0 .400     J.Drew CF           5  1  3  1 .444  
+F-D.Glanville LF      0  0  0  0 ----     D.Easley 1B         4  0  0  0 .000  
+  M.Grudzielanek 2B   5  1  4  0 .714   D-J.Reyes SS          1  0  0  0 .000  
+  J.Estrada C         5  1  2  0 .333     B.Bonds DH          2  0  0  0 .000  
+  V.Castilla 3B       4  0  2  0 .375     M.Piazza C          5  0  0  0 .100  
+  M.Stairs DH         3  0  1  1 .500     L.Walker LF,RF      4  0  1  0 .444  
+E-S.Sosa PH           1  0  0  0 .000     J.Hernandez 2B      2  1  1  1 .500  
+  D.Lee 1B            5  0  0  0 .200   A-W.Harris PH,2B      0  0  0  0 .167  
+  L.Ford LF,RF        3  0  0  0 .143     R.Hidalgo RF        2  0  0  0 .000  
+  C.Patterson CF      3  0  1  0 .250   B-C.Floyd PH,LF       1  0  0  0 .333  
+  R.Clayton SS        4  0  1  0 .125     C.Jones 3B          3  0  1  0 .167  
+                                          R.Sanchez SS        3  0  1  0 .333  
+                                        C-J.Olerud PH,1B      1  0  0  0 .400  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  3 12  1                 Totals      33  2  7  2
+
+A-Pinch Hit For Hernandez In 8th Inning
+B-Pinch Hit For Hidalgo In 8th Inning
+C-Pinch Hit For Sanchez In 8th Inning
+D-Subbed Defensively (SS) For Easley In 9th Inning
+E-Pinch Hit For Stairs In 9th Inning
+F-Subbed Defensively (LF) For Bautista In 9th Inning
+
+Cubs............ 1 0 0  0 1 0  0 0 1  -  3 12  1
+Mets............ 0 0 1  1 0 0  0 0 0  -  2  7  2
+
+[1]Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Young                   6 1/3   4   2   2   3   8   2   2.84  A1 D1
+J.Nathan WIN(1-0)         2 2/3   3   0   0   1   3   0   2.45  D2
+[1]Totals                    9       7   2   2   4  11   2
+
+[1]Mets (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Brown                   5       8   2   2   2   2   0   3.60  A1 C6
+T.Gordon LOSS(0-1)        3       3   1   1   1   2   0   5.68  C7 E2
+R.Choate                  0 1/3   1   0   0   0   1   0   0.00  E3 E4
+J.Smoltz                  0 2/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    9      12   3   3   3   6   0
+
+ATTENDANCE- 164 DATE-  TIME- Night 
+T- 2:44
+LEFT ON BASE- Cubs:12  Mets:11
+DOUBLE PLAYS- Cubs: 1  Mets: 1
+ERRORS- R.Clayton, D.Easley, M.Piazza
+DOUBLES- D.Bautista(2nd), C.Patterson(1st)
+HOME RUNS- J.Drew(1st), J.Hernandez(1st)
+STOLEN BASES- L.Ford(1st), C.Patterson(1st), R.Clayton(1st)
+SACRIFICE HITS- W.Harris
+WALKS- M.Stairs, L.Ford, C.Patterson, B.Bonds, J.Hernandez, R.Hidalgo, C.Jones
+HIT BY PITCH- V.Castilla, B.Bonds-2
+STRIKE OUTS- J.Estrada-2, V.Castilla, S.Sosa, L.Ford-2, J.Drew-2, D.Easley-3,
+             M.Piazza, L.Walker, J.Hernandez, R.Hidalgo, C.Jones, J.Olerud
+GIDP- V.Castilla, M.Piazza
+BALKS- R.Choate
+WILD PITCHES- J.Nathan, T.Gordon
+
+Second baseman Mark Grudzielanek had 4 hits as the Chicago (NL) Cubs topped
+the New York (NL) Mets by a score of 3 to 2 at Shea Stadium.
+
+The game was won by Chicago (NL) with a run in the 9th inning.  Grudzielanek
+laced a one-base hit.  Johnny Estrada came next and he delivered a base-hit.
+A balk was called scoring the run.  Chicago (NL) had 12 hits for the night
+while New York (NL) had 7.  
+
+The win went to Joe Nathan(1-0) who allowed no runs in 2 and 2/3 innings. Tom
+Gordon(0-1) suffered the loss in relief.  He gave up 1 run and 3 hits in 3
+innings.  
+
+[2]
+[1]SCORESHEET: 2005 Chicago (NL) Cubs at 2005 New York (NL) Mets
+D.Bautis-A1  A1:F/8     B1:SB>12   *5*:Do     *7*:F/8    E1:G/43
+D.Glanvi-E7             F/9                              
+                                                         
+M.Grudzi-A1  A2:F/8     *3*:Si     C2:Si+E/3  D2:Si      *9*:Si
+                                   >2#                   
+                                                         
+J.Estrad-A1  A3:Si      B3:K       C3:G/63    D3:WP>12   E3:Si>13
+                                              K          
+                                                         
+V.Castil-A1  A4:Si>12   B4:G-DP/5  C4:Si>23   D4:HBP     E4:Bk>3#
+                        43>1o                            12 K
+                                                         
+M.Stairs-A1  A5:Si>2#   *4*:F/8    C5:G/13>1  D5:W>23 1  E5:K
+S.Sosa-E5    13                    2          2 b1       
+                                                         
+D.Lee-A1     A6:P/6     B6:G/13    C6:F/7     D6:F/9     E6:F/8
+                                                         
+                                                         
+L.Ford-A1    *2*:K      B7:W>b1    *6*:F/7    *8*:K
+                                              
+                                              
+C.Patter-A1  A8:P/6     B8:SB+E/2  C8:P/6     D8:Do
+                        >13 W>b1              
+                                              
+R.Clayto-A1  A9:Si      B9:SB>12   C9:F/8     D9:F/9>23
+                        F/7                   
+                                              
+
+J.Drew-A1    A1:K       *3*:HR>b#  C1:Si      D1:K       *9*:Si
+                                                         
+                                                         
+D.Easley-A1  A2:K       B2:G/43    C2:K       D2:K       E2:P/3
+J.Reyes-E1                                               
+                                                         
+B.Bonds-A1   A3:L/3     B3:F/7     C3:HBP>12  D3:WP>12   E3:HBP>12
+                                              IW>b1      
+                                                         
+M.Piazza-A1  *2*:L/6    B4:F/9     C4:Force/  D4:K       E4:G-DP/6
+                                   54>1o b1              43>1o
+                                                         
+L.Walker-A1  A5:G/63    *4*:K      *6*:E/6    *8*:Si
+                                              
+                                              
+J.Hernan-A1  A6:W>b1    B6:HR>b#   C6:K       D6:Sac/24
+W.Harris-D6                                   >12
+                                              
+R.Hidalg-A1  A7:W>12 b  B7:K       C7:G/43>1  D7:F/7
+C.Floyd-D7   1                     2          
+                                              
+C.Jones-A1   A8:W>23 1  B8:K       C8:F/9     D8:Si>23
+             2 b1                             
+                                              
+R.Sanche-A1  A9:G/63    *5*:F/7    *7*:Si     D9:K
+J.Olerud-D9                                   
+                                              
+
+

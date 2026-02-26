@@ -1,0 +1,197 @@
+[1]BOXSCORE: 2005 Philadelphia Phillies At 2005 San Diego Padres      10/27/2005
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  B.Abreu RF          4  0  1  0 .250     A.Sanchez RF        4  0  1  0 .250  
+  J.Rollins SS        3  0  0  0 .000   A-T.Goodwin CF        0  0  0  0 ----  
+  S.Rolen 3B          3  0  0  0 .000     R.Klesko LF         3  0  0  0 .000  
+  B.Jacobsen DH       4  0  0  0 .000     P.Nevin DH          2  0  1  0 .500  
+  M.Lieberthal C      3  0  0  0 .000     M.Teixeira 1B       3  0  0  0 .000  
+  J.Edmonds CF        3  0  2  0 .667     J.Lopez C           3  0  1  0 .333  
+  J.Hammonds LF       3  0  0  0 .000     H.Blalock 3B        3  0  0  0 .000  
+  B.Boone 2B          2  0  0  0 .000     K.Greene SS         3  0  0  0 .000  
+  B.Broussard 1B      3  0  0  0 .000     R.Winn CF,RF        3  1  1  1 .333  
+                                          D.Jimenez 2B        3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  3  0                 Totals      27  1  4  1
+
+A-Subbed Defensively (CF) For Sanchez In 9th Inning
+
+Phillies........ 0 0 0  0 0 0  0 0 0  -  0  3  0
+Padres.......... 0 0 0  0 1 0  0 0    -  1  4  1
+
+[1]Phillies (0-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wolf LOSS(0-1)             5       4   1   1   1   3   1   1.80  A1 C1
+G.Mota                       3       0   0   0   0   2   0   0.00  C2
+[1]Totals                    8       4   1   1   1   5   1
+
+[1]Padres (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+O.Perez WIN(1-0)             7       3   0   0   3   6   0   0.00  A1 C7
+S.Linebrink HOLD(1st)        1       0   0   0   0   2   0   0.00  C8 D1
+A.Otsuka SAVE(1st)           1       0   0   0   0   2   0   0.00  D2
+[1]Totals                    9       3   0   0   3  10   0
+
+ATTENDANCE- 49,158 DATE-  TIME- Day 
+T- 2:39
+LEFT ON BASE- Phillies: 4  Padres: 3
+DOUBLE PLAYS- Phillies: 1  Padres: 2
+ERRORS- K.Greene
+DOUBLES- J.Edmonds-2(2nd)
+HOME RUNS- R.Winn(1st)
+STOLEN BASES- A.Sanchez(1st)
+WALKS- J.Rollins, S.Rolen, B.Boone, P.Nevin
+STRIKE OUTS- B.Abreu-2, J.Rollins, B.Jacobsen-2, J.Edmonds, B.Boone-2,
+             B.Broussard-2, A.Sanchez, R.Klesko, M.Teixeira-2, K.Greene
+GIDP- J.Rollins, B.Jacobsen, M.Teixeira
+
+At Petco Park, the San Diego fans witnessed a great pitcher's duel.  Oliver
+Perez(1-0) finally bested his Philadelphia opposite, Randy Wolf(0-1), by the
+score of 1 to 0.
+
+San Diego scored what proved to be the only run of the contest in the bottom
+of the 5th inning.  San Diego managed only 4 on the afternoon.  
+
+Perez got help from Akinori Otsuka who was credited with his 1st save.  The
+losing pitcher was Wolf.  He pitched 5 innings allowing 4 hits and 1 walk.
+
+[2]
+[1]SCORESHEET: 2005 Philadelphia Phillies at 2005 San Diego Padres
+B.Abreu-A1   A1:F/7     B1:Si>13   *6*:K      D1:K
+                                              
+                                              
+J.Rollin-A1  A2:E/6     B2:G-DP/6  C2:W>b1    *9*:K
+                        43>1o                 
+                                              
+S.Rolen-A1   A3:W>12 b  *4*:F/9    C3:PkOff/  D3:G/13
+             1                     13>1o G/6  
+                                   3          
+B.Jacobs-A1  A4:G-DP/6  B4:G/63    *7*:K      D4:K
+             43>1o                            
+                                              
+M.Lieber-A1  *2*:F/8    B5:G/63    C5:G/43
+                                   
+                                   
+J.Edmond-A1  A6:K       *5*:Do     C6:Do
+                                   
+                                   
+J.Hammon-A1  A7:G/43    B7:F/7     C7:G/13
+                                   
+                                   
+B.Boone-A1   *3*:W>b1   B8:K       *8*:K
+                                   
+                                   
+B.Brouss-A1  A9:K       B9:K       C9:F/7
+                                   
+                                   
+
+A.Sanche-A1  A1:F/9     B1:Si      C1:K       D1:G/53
+T.Goodwi-D2                                   
+                                              
+R.Klesko-A1  A2:K       B2:SB>12   *6*:G/63
+                        F/8        
+                                   
+P.Nevin-A1   A3:W>b1    *4*:Si     C3:L/6
+                                   
+                                   
+M.Teixei-A1  A4:K       B4:G-DP/1  C4:K
+                        63>1o      
+                                   
+J.Lopez-A1   *2*:L/5    B5:Si      *7*:G/43
+                                   
+                                   
+H.Blaloc-A1  A6:G/43    B6:FO/2    C6:L/4
+                                   
+                                   
+K.Greene-A1  A7:L/6     *5*:L/6    C7:K
+                                   
+                                   
+R.Winn-A1    *3*:G/43   B8:HR>b#   *8*:G/43
+                                   
+                                   
+D.Jimene-A1  A9:G/63    B9:F/7     C9:F/7
+                                   
+                                   
+
+
+[1]*** TOP OF INNING 1 ***
+0     B.Abreu              0 Fly Out                        b-0 
+1     J.Rollins            0 1 Base Error - SS              b-1 
+1 1   S.Rolen              0 Walk                           1-2 b-1 
+1 12  B.Jacobsen           0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     A.Sanchez            0 Fly Out                        b-0 
+1     R.Klesko             0 Strike Out                     b-0 
+2     P.Nevin              0 Walk                           b-1 
+2 1   M.Teixeira           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     M.Lieberthal         0 Fly Out                        b-0 
+1     J.Edmonds            0 Strike Out                     b-0 
+2     J.Hammonds           0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     J.Lopez              0 Line Out                       b-0 
+1     H.Blalock            0 Ground Out                     b-0 
+2     K.Greene             0 Line Out                       b-0 
+[1]*** TOP OF INNING 3 ***
+0     B.Boone              0 Walk                           b-1 
+0 1   B.Broussard          0 Strike Out                     b-0 
+1 1   B.Abreu              0 Single                         1-3 b-1 
+1 1 3 J.Rollins            0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     R.Winn               0 Ground Out                     b-0 
+1     D.Jimenez            0 Ground Out                     b-0 
+2     A.Sanchez            0 Single                         b-1 
+2 1                        0 Stolen Base                    1-2 
+2  2  R.Klesko             0 Fly Out                        b-0 
+[1]*** TOP OF INNING 4 ***
+0     S.Rolen              0 Fly Out                        b-0 
+1     B.Jacobsen           0 Ground Out                     b-0 
+2     M.Lieberthal         0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     P.Nevin              0 Single                         b-1 
+0 1   M.Teixeira           0 Ground Out Double Play         1-o b-0 
+2     J.Lopez              0 Single                         b-1 
+2 1   H.Blalock            0 Foul Out                       b-0 
+[1]*** TOP OF INNING 5 ***
+0     J.Edmonds            0 Double                         b-2 
+0  2  J.Hammonds           0 Fly Out                        b-0 
+1  2  B.Boone              0 Strike Out                     b-0 
+2  2  B.Broussard          0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     K.Greene             0 Line Out                       b-0 
+1     R.Winn               0 Home Run                       b-H 
+1     D.Jimenez            0 Fly Out                        b-0 
+2     A.Sanchez            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 6 ***
+0     B.Abreu              0 Strike Out                     b-0 
+1     J.Rollins            0 Walk                           b-1 
+1 1                          Pickoff                        1-o 
+2     S.Rolen              0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 6 ***
+                             SUBSTITUTE P - Guillermo Mota
+0     R.Klesko             0 Ground Out                     b-0 
+1     P.Nevin              0 Line Out                       b-0 
+2     M.Teixeira           0 Strike Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+0     B.Jacobsen           0 Strike Out                     b-0 
+1     M.Lieberthal         0 Ground Out                     b-0 
+2     J.Edmonds            0 Double                         b-2 
+2  2  J.Hammonds           0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     J.Lopez              0 Ground Out                     b-0 
+1     H.Blalock            0 Line Out                       b-0 
+2     K.Greene             0 Strike Out                     b-0 
+[1]*** TOP OF INNING 8 ***
+                             SUBSTITUTE P - Scott Linebrink
+0     B.Boone              0 Strike Out                     b-0 
+1     B.Broussard          0 Fly Out                        b-0 
+2     B.Abreu              0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+0     R.Winn               0 Ground Out                     b-0 
+1     D.Jimenez            0 Fly Out                        b-0 
+2     A.Sanchez            0 Ground Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+                             SUBSTITUTE CF- Tom Goodwin
+                             SUBSTITUTE RF- Randy Winn
+                             SUBSTITUTE P - Akinori Otsuka
+0     J.Rollins            0 Strike Out                     b-0 
+1     S.Rolen              0 Ground Out                     b-0 
+2     B.Jacobsen           0 Strike Out                     b-0 

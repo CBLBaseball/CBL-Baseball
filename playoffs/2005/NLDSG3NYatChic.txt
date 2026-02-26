@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2005 New York (NL) Mets At 2005 Chicago (NL) Cubs         10/6/2005
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  W.Harris 2B         4  1  2  1 .300     L.Ford LF,RF,LF     6  1  2  1 .231  
+D-J.Hernandez PH,2B   1  0  0  0 .333     M.Grudzielanek 2B   5  1  1  0 .500  
+  G.Matthews Jr CF    4  0  2  1 .400     J.Estrada C         5  1  3  1 .429  
+B-R.Hidalgo PH,RF     1  0  0  0 .000     V.Castilla 3B       5  1  4  1 .538  
+  B.Bonds DH          2  1  0  0 .000     D.Lee 1B            3  1  2  0 .308  
+  J.Drew RF,CF        4  1  0  0 .308     M.Stairs RF         3  0  1  2 .429  
+  C.Floyd LF          4  2  2  2 .429   A-D.Glanville LF      0  0  0  0 ----  
+  M.Piazza C          3  0  0  1 .077   C-D.Bautista PH,RF    1  0  0  0 .364  
+  C.Jones 3B          5  0  0  0 .091     S.Sosa DH           4  0  0  0 .000  
+  J.Olerud 1B         3  1  1  1 .375     C.Patterson CF      4  1  0  0 .167  
+  R.Sanchez SS        3  0  1  0 .333     R.Clayton SS        4  1  1  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  6  8  6                 Totals      40  7 14  5
+
+A-Subbed Defensively (LF) For Stairs In 8th Inning
+B-Pinch Hit For Matthews Jr In 8th Inning
+C-Pinch Hit For Glanville In 9th Inning
+D-Pinch Hit For Harris In 10th Inning
+
+Mets............ 0 0 0  2 1 1  1 0 1  0 -  6  8  1
+Cubs............ 2 4 0  0 0 0  0 0 0  1 -  7 14  0
+
+[1]Mets (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+V.Zambrano                   1 2/3   6   6   5   4   3   0  27.00  A1 B5
+J.Smoltz                     3       3   0   0   0   3   0   0.00  B6 C8
+O.Moreno                     1 1/3   3   0   0   0   1   0   0.00  C9 D5
+T.Gordon LOSS(0-2)           3 1/3   2   1   1   1   3   0   4.66  D6
+[1]Totals                    9 1/3  14   7   6   5  10   0
+
+[1]Cubs (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Wood                       6       4   4   4   6   3   1   6.00  A1 C9
+J.Nathan HOLD(1st)           1 2/3   3   1   1   2   1   0   3.37  D1 E1
+K.Mercker W(1-0) BS(1st)     2 1/3   1   1   1   1   0   0  10.12  E2
+[1]Totals                   10       8   6   6   9   4   1
+
+ATTENDANCE- 35,798 DATE-  TIME- Night 
+T- 3:50
+LEFT ON BASE- Mets:10  Cubs:10
+DOUBLE PLAYS- Mets: 1  Cubs: 1
+ERRORS- V.Zambrano
+DOUBLES- W.Harris-2(2nd), G.Matthews Jr(1st), C.Floyd(1st), L.Ford-2(2nd),
+         J.Estrada(1st), D.Lee(1st)
+HOME RUNS- C.Floyd(1st)
+STOLEN BASES- R.Clayton(2nd)
+SACRIFICE HITS- R.Sanchez-2
+SACRIFICE FLIES- M.Piazza
+WALKS- W.Harris, B.Bonds-3, J.Drew, C.Floyd, M.Piazza, J.Olerud-2, D.Lee-2,
+       M.Stairs, S.Sosa, R.Clayton
+HIT BY PITCH- C.Patterson
+STRIKE OUTS- G.Matthews Jr, J.Drew, C.Floyd, M.Piazza, L.Ford-2, M.Grudzielanek,
+             J.Estrada, M.Stairs-2, S.Sosa, C.Patterson-2, R.Clayton
+GIDP- C.Jones, V.Castilla
+WILD PITCHES- K.Wood
+
+The Chicago (NL) Cubs nipped the New York (NL) Mets in 10 innings 7 to 6 at
+Wrigley Field in a hard fought contest.
+
+The score was tied at 6 after nine. Chicago (NL) came out the victor in the
+10th inning.  Corey Patterson was hit by a pitch.  After an out was recorded,
+Lew Ford came up and he doubled making Chicago (NL) the winners and sending
+the 35,798 fans home happy.  Chicago (NL) had 14 hits overall, while New York
+(NL) had 8.  
+
+Kent Mercker(1-0) got the win allowing 1 run in 2 and 1/3 innings. Tom
+Gordon(0-2) was hit with the loss in relief.  He gave up 1 run and 2 hits in
+3 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2005 New York (NL) Mets at 2005 Chicago (NL) Cubs
+W.Harris-A1  A1:F/7     B1:G/43>2  C1:Do>2#   *7*:Do     E1:W>12 b  F1:F/9
+J.Hernan-F1             3                                1          
+                                                                    
+G.Matthe-A1  A2:Si      B2:K       C2:L/4     D2:Do>2#   E2:P/6
+R.Hidalg-E2                                              
+                                                         
+B.Bonds-A1   A3:L/4     *4*:W>b1   C3:IW>b1   D3:IW>b1   *9*:L/4
+                                                         
+                                                         
+J.Drew-A1    A4:L/4     B4:F/9     C4:K       D4:F/8     E4:W>b1
+                                                         
+                                                         
+C.Floyd-A1   *2*:F/9    B5:HR>1#   *6*:W>b1   D5:K       E5:Do>13
+                        b#                               
+                                                         
+M.Piazza-A1  A6:G/23    B6:W>b1    C6:K       D6:P/6     E6:SF/7>3
+                                                         #
+                                                         
+C.Jones-A1   A7:G/3     B7:G-DP/4  C7:WP>12   *8*:G/43   E7:G/53
+                        63>1o      G/3>23                
+                                                         
+J.Olerud-A1  *3*:W>b1   *5*:W>b1   C8:Si>3#   D8:L/4     *10*:F/7
+                                                         
+                                                         
+R.Sanche-A1  A9:Sac/54  B9:Sac/34  C9:L/4     D9:Si      E9:F/9
+             >12        >12                              
+                                                         
+
+L.Ford-A1    A1:Do      B1:K       C1:SB>12   *6*:L/6    E1:K       F1:Do>1#
+                                   G/63                             
+                                                                    
+M.Grudzi-A1  A2:Si>23   B2:K       C2:G/43    D2:G/63    E2:P/6
+                                                         
+                                                         
+J.Estrad-A1  A3:Si>3#   B3:Si>13   *4*:K      D3:Do      *9*:L/4
+             13                                          
+                                                         
+V.Castil-A1  A4:G-DP/6  B4:Si>3#   C4:Si      D4:Si>2o   E4:Si
+             43>3# 1o   12                               
+                                                         
+D.Lee-A1     A5:W>b1    B5:Si+E/1  C5:Force/  *7*:Do     E5:W>12 b
+                        >2# 13     16>1o b1              1
+                                                         
+M.Stairs-A1  A6:W>12 b  B6:Si>3#   C6:K       D6:K       E6:F/7
+D.Glanvi-D9  1          2#                               
+D.Bautis-E6                                              
+S.Sosa-A1    A7:W>23 1  B7:G/53    *5*:G/63   D7:L/6     E7:K
+             2 b1                                        
+                                                         
+C.Patter-A1  A8:K       *3*:K      C8:F/7     D8:L/3     *10*:HBP
+                                                         
+                                                         
+R.Clayto-A1  *2*:W>b1   B9:Si      C9:K       *8*:G/43   E9:F/9
+                                                         
+                                                         
+
+

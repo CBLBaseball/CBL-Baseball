@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2005 Baltimore Orioles At 2005 Detroit Tigers            10/16/2005
+
+[1]  Orioles            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  J.Kendall C         4  0  0  0 .000     R.Belliard 2B       4  0  1  0 .304  
+  L.Merloni 1B        4  0  0  0 .286     J.Cantu DH          3  0  1  0 .250  
+  M.Mora DH           4  1  2  1 .286     M.Ordonez RF        4  0  0  0 .350  
+  V.Guerrero RF       3  0  0  0 .000   A-B.Higginson RF      0  0  0  0 .000  
+  C.Beltran CF        2  0  0  0 .000     K.Mench LF          2  1  0  0 .067  
+  A.Beltre 3B         4  1  2  1 .556     B.Inge 3B           2  2  2  2 .429  
+  F.Menechino 2B      4  0  1  0 .375   B-O.Infante 3B        0  0  0  0 .429  
+  G.Kapler LF         4  0  0  0 .250     J.Larue C           3  0  0  0 .250  
+  C.Guzman SS         3  0  0  0 .200     A.Jones CF          3  0  1  1 .091  
+                                          L.Overbay 1B        3  0  0  0 .400  
+                                          O.Vizquel SS        3  0  0  0 .304  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  5  2                 Totals      27  3  5  3
+
+A-Subbed Defensively (RF) For Ordonez In 9th Inning
+B-Subbed Defensively (3B) For Inge In 9th Inning
+
+Orioles......... 0 0 0  0 0 0  0 1 1  -  2  5  0
+Tigers.......... 0 1 0  0 0 2  0 0    -  3  5  0
+
+[1]Orioles (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson LOSS(0-1)          8       5   3   3   3   8   1   3.38  A1
+[1]Totals                    8       5   3   3   3   8   1
+
+[1]Tigers (5-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Santana WIN(3-0)           9       5   2   2   2  11   2   2.13  A1
+[1]Totals                    9       5   2   2   2  11   2
+
+ATTENDANCE- 45,268 DATE-  TIME- Day 
+T- 2:49
+LEFT ON BASE- Orioles: 6  Tigers: 3
+DOUBLE PLAYS- Orioles: 2  Tigers: 0
+DOUBLES- A.Beltre(1st), R.Belliard(1st), B.Inge(1st), A.Jones(2nd)
+HOME RUNS- M.Mora(1st), A.Beltre(2nd), B.Inge(1st)
+WALKS- C.Beltran-2, J.Cantu, K.Mench, B.Inge
+HIT BY PITCH- V.Guerrero
+STRIKE OUTS- L.Merloni-4, V.Guerrero-2, A.Beltre, F.Menechino-2, G.Kapler,
+             C.Guzman, J.Cantu, M.Ordonez, K.Mench, J.Larue, A.Jones-2,
+             L.Overbay, O.Vizquel
+GIDP- M.Ordonez, J.Larue
+
+Johan Santana reeled off a total of 11 strikeouts at Comerica Park as the
+Detroit Tigers beat the Baltimore Orioles 3 to 2.
+
+Santana(3-0) had a strong outing.  He allowed just 5 hits and 2 walks in 9
+innings and gave up 2 homeruns.  Baltimore had a chance in the 9th but they
+came up short.  
+
+Randy Johnson(0-1) was charged with the loss.  Everyone seemed to enjoy the
+performance of Santana - except Baltimore.  Kevin Gordon lamented, 'He just
+was 'on' this afternoon.  He was keeping our guys off balance all game.  A
+fine game by a good strikeout pitcher - makes it a fun game for the hometown
+fans - unfortunately we were the visitors!'
+[2]
+[1]SCORESHEET: 2005 Baltimore Orioles at 2005 Detroit Tigers
+J.Kendal-A1  A1:G/3     B1:G/53    C1:G/63    *8*:G/63
+                                              
+                                              
+L.Merlon-A1  A2:K       B2:K       *6*:K      D2:K
+                                              
+                                              
+M.Mora-A1    A3:G/43    *4*:Si     C3:F/9     D3:HR>b#
+                                              
+                                              
+V.Guerre-A1  *2*:K      B4:K       C4:HBP     D4:G/63
+                                              
+                                              
+C.Beltra-A1  A5:W>b1    B5:W>12 b  C5:F/8     *9*:F/7
+                        1                     
+                                              
+A.Beltre-A1  A6:P/2     B6:K       *7*:Do     D6:HR>b#
+                                              
+                                              
+F.Menech-A1  A7:Si>13   B7:K       C7:K       D7:G/31
+                                              
+                                              
+G.Kapler-A1  A8:K       *5*:G/63   C8:F/8     D8:G/63
+                                              
+                                              
+C.Guzman-A1  *3*:G/63   B9:F/7     C9:K
+                                   
+                                   
+
+R.Bellia-A1  A1:F/8     B1:Do      C1:G/53    *8*:FO/2
+                                              
+                                              
+J.Cantu-A1   A2:Si      B2:W>b1    *6*:K      D2:L/6
+                                              
+                                              
+M.Ordone-A1  A3:G-DP/1  B3:Force/  C3:F/7     D3:K
+B.Higgin-D4  63>1o      36>23 1o              
+                        b1                    
+K.Mench-A1   *2*:K      B4:G/3     C4:W>b1
+                                   
+                                   
+B.Inge-A1    A5:Do      *4*:W>b1   C5:HR>1#
+O.Infant-D4                        b#
+                                   
+J.Larue-A1   A6:G/43>2  B6:G-DP/5  C6:K
+             3          43>1o      
+                                   
+A.Jones-A1   A7:Do>3#   B7:K       *7*:K
+                                   
+                                   
+L.Overba-A1  A8:F/8     *5*:K      C8:P/3
+                                   
+                                   
+O.Vizque-A1  *3*:L/5    B9:F/8     C9:K
+                                   
+                                   
+
+

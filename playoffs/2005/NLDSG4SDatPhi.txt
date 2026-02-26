@@ -1,0 +1,223 @@
+[1]BOXSCORE: 2005 San Diego Padres At 2005 Philadelphia Phillies      10/22/2005
+[1]Padres@Phillies;NLDS Game4
+
+[1]  Padres             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  R.Winn CF,LF        5  2  3  5 .600     B.Abreu RF          4  0  0  0 .125  
+  R.Klesko LF         3  0  0  0 .286     J.Rollins SS        4  0  2  0 .375  
+A-P.Nevin PH          0  0  0  0 .000     J.Edmonds CF        3  1  0  0 .143  
+B-T.Goodwin CF        1  0  0  0 .000     S.Rolen 3B          4  1  2  2 .500  
+  K.Stinnett DH       4  1  1  1 .429     E.Durazo DH         2  0  0  0 .167  
+  M.Teixeira 1B       4  1  1  1 .125     M.Lieberthal C      4  0  0  0 .000  
+  J.Lopez C           4  0  1  0 .222     B.Broussard 1B      4  0  0  0 .286  
+  H.Blalock 3B        4  0  0  0 .250     L.Gonzalez LF       4  0  0  0 .143  
+  D.Jimenez 2B        4  1  2  0 .222     B.Boone 2B          3  0  0  0 .000  
+  K.Greene SS         4  1  1  0 .286   C-C.Utley PH          1  0  0  0 .000  
+  T.Long RF           3  1  1  0 .400                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  7 10  7                 Totals      33  2  4  2
+
+A-Pinch Hit For Klesko In 7th Inning
+B-Subbed Defensively (CF) For Nevin In 7th Inning
+C-Pinch Hit For Boone In 9th Inning
+
+Padres.......... 0 0 0  3 4 0  0 0 0  -  7 10  2
+Phillies........ 0 0 0  0 0 2  0 0 0  -  2  4  0
+
+[1]Padres (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets WIN(1-0)            9       4   2   2   3   7   1   2.00  A1
+[1]Totals                    9       4   2   2   3   7   1
+
+[1]Phillies (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Morris LOSS(0-1)           4       5   6   6   1   3   3  13.50  A1 B9
+R.Cormier                    2 2/3   3   1   1   0   2   1   3.37  C1 D1
+G.Mota                       2       2   0   0   1   4   0   0.00  D2 E1
+J.Franco                     0 1/3   0   0   0   0   0   0   0.00  E2
+[1]Totals                    9      10   7   7   2   9   4
+
+ATTENDANCE- 49,938 DATE-  TIME- Day 
+T- 2:35
+LEFT ON BASE- Padres: 4  Phillies: 7
+DOUBLE PLAYS- Padres: 0  Phillies: 1
+ERRORS- R.Winn, B.Sheets
+DOUBLES- K.Greene(1st), J.Rollins-2(3rd), S.Rolen(1st)
+HOME RUNS- R.Winn-2(2nd), K.Stinnett(2nd), M.Teixeira(1st), S.Rolen(2nd)
+WALKS- P.Nevin, T.Long, J.Edmonds, E.Durazo-2
+STRIKE OUTS- R.Winn-2, K.Stinnett-3, J.Lopez, H.Blalock, D.Jimenez-2, B.Abreu,
+             J.Rollins, J.Edmonds, S.Rolen, B.Broussard, B.Boone, C.Utley
+GIDP- H.Blalock
+WEB GEMS- Top 2nd: Jimmy Rollins robbed Javy Lopez of a base hit.
+
+Center fielder Randy Winn smashed 2 homeruns and Ben Sheets pitched a complete
+game at Citizen's Bank Park as the San Diego Padres beat the Philadelphia
+Phillies 7 to 2.
+
+Winn was unconscious all day.  The Philadelphia fans hated to see him
+approaching the batter's box as he just kept delivering base hits! He ripping
+a solo home run in the 4th inning, cleared the bases with a Grand Slam
+homerun (his 2nd of the season) in the 5th inning and stroked a one-base hit
+in the 7th inning.  San Diego managed 10 in their victory.  
+
+Sheets(1-0) picked up the complete game victory, allowing 2 runs. Matt
+Morris(0-1) was tagged with the loss.  He served up 3 gopher balls in 4
+innings.  
+
+'Winn led the way - we just jumped on his back and let him take us,' Sheets
+said. 'I'm glad I don't have to face him. I'm glad he's on my team.'
+[2]
+[1]SCORESHEET: 2005 San Diego Padres at 2005 Philadelphia Phillies
+R.Winn-A1    A1:K       *4*:HR>b#  C1:HR>3#   D1:Si      E1:K
+                                   2# 1# b#              
+                                                         
+R.Klesko-A1  A2:G/63    B2:L/4     C2:G/13    D2:W>12 b  E2:Force/
+P.Nevin-D2                                    1          64>1o b1
+T.Goodwi-D4                                              
+K.Stinne-A1  A3:K       B3:HR>b#   C3:K       D3:K
+                                              
+                                              
+M.Teixei-A1  *2*:G/43   B4:HR>b#   C4:G/53    *8*:F/8
+                                              
+                                              
+J.Lopez-A1   A5:G/63    B5:G/43    *6*:Si     D5:K
+                                              
+                                              
+H.Blaloc-A1  A6:FO/2    B6:F/9     C6:G-DP/1  D6:K
+                                   63>1o      
+                                              
+D.Jimene-A1  *3*:K      *5*:Si     C7:K       *9*:Si
+                                              
+                                              
+K.Greene-A1  A8:G/63    B8:Do>13   *7*:P/4    D8:L/6
+                                              
+                                              
+T.Long-A1    A9:G/43    B9:W>b1    C9:F/9     D9:Si>13
+                                              
+                                              
+
+B.Abreu-A1   A1:K       B1:G/43    C1:L/4     D1:G/31
+                                              
+                                              
+J.Rollin-A1  A2:K       B2:Do      *6*:F/9    *8*:Do
+                                              
+                                              
+J.Edmond-A1  A3:F/8     B3:F/9     C3:W>b1    D3:K
+                                              
+                                              
+S.Rolen-A1   *2*:Do     *4*:K      C4:HR>1#   D4:P/2
+                                   b#         
+                                              
+E.Durazo-A1  A5:W>b1    B5:E/1     C5:W>b1    D5:G/43
+                                              
+                                              
+M.Lieber-A1  A6:Force/  B6:P/6     C6:L/6     *9*:L/5
+             15>2o 12                         
+             b1                               
+B.Brouss-A1  A7:F/9     B7:G/3     C7:G/43    D7:K
+                                              
+                                              
+L.Gonzal-A1  A8:L/4     *5*:G/43   *7*:F/7    D8:E/7>b2
+                                              
+                                              
+B.Boone-A1   *3*:G/63   B9:G/63    C9:K       D9:K
+C.Utley-D9                                    
+                                              
+
+
+[1]*** TOP OF INNING 1 ***
+0     R.Winn               0 Strike Out                     b-0 
+1     R.Klesko             0 Ground Out                     b-0 
+2     K.Stinnett           0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     B.Abreu              0 Strike Out                     b-0 
+1     J.Rollins            0 Strike Out                     b-0 
+2     J.Edmonds            0 Fly Out                        b-0 
+[1]*** TOP OF INNING 2 ***
+0     M.Teixeira           0 Ground Out                     b-0 
+1     J.Lopez              0 Ground Out                     b-0 
+2     H.Blalock            0 Foul Out                       b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     S.Rolen              0 Double                         b-2 
+0  2  E.Durazo             0 Walk                           b-1 
+0 12  M.Lieberthal         0 Force Play                     2-o 1-2 b-1 
+1 12  B.Broussard          0 Fly Out                        b-0 
+2 12  L.Gonzalez           0 Line Out                       b-0 
+[1]*** TOP OF INNING 3 ***
+0     D.Jimenez            0 Strike Out                     b-0 
+1     K.Greene             0 Ground Out                     b-0 
+2     T.Long               0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     B.Boone              0 Ground Out                     b-0 
+1     B.Abreu              0 Ground Out                     b-0 
+2     J.Rollins            0 Double                         b-2 
+2  2  J.Edmonds            0 Fly Out                        b-0 
+[1]*** TOP OF INNING 4 ***
+0     R.Winn               0 Home Run                       b-H 
+0     R.Klesko             0 Line Out                       b-0 
+1     K.Stinnett           0 Home Run                       b-H 
+1     M.Teixeira           0 Home Run                       b-H 
+1     J.Lopez              0 Ground Out                     b-0 
+2     H.Blalock            0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     S.Rolen              0 Strike Out                     b-0 
+1     E.Durazo             0 1 Base Error - P               b-1 
+1 1   M.Lieberthal         0 Pop Out                        b-0 
+2 1   B.Broussard          0 Ground Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     D.Jimenez            0 Single                         b-1 
+0 1   K.Greene             0 Double                         1-3 b-2 
+0  23 T.Long               0 Walk                           b-1 
+                             SUBSTITUTE P - Rheal Cormier
+0 123 R.Winn               0 Home Run                       3-H 2-H 1-H b-H 
+0     R.Klesko             0 Ground Out                     b-0 
+1     K.Stinnett           0 Strike Out                     b-0 
+2     M.Teixeira           0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     L.Gonzalez           0 Ground Out                     b-0 
+1     B.Boone              0 Ground Out                     b-0 
+2     B.Abreu              0 Line Out                       b-0 
+[1]*** TOP OF INNING 6 ***
+0     J.Lopez              0 Single                         b-1 
+0 1   H.Blalock            0 Ground Out Double Play         1-o b-0 
+2     D.Jimenez            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     J.Rollins            0 Fly Out                        b-0 
+1     J.Edmonds            0 Walk                           b-1 
+1 1   S.Rolen              0 Home Run                       1-H b-H 
+1     E.Durazo             0 Walk                           b-1 
+1 1   M.Lieberthal         0 Line Out                       b-0 
+2 1   B.Broussard          0 Ground Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+0     K.Greene             0 Pop Out                        b-0 
+1     T.Long               0 Fly Out                        b-0 
+2     R.Winn               0 Single                         b-1 
+                             SUBSTITUTE PH- Phil Nevin
+                             SUBSTITUTE P - Guillermo Mota
+2 1   P.Nevin              0 Walk                           1-2 b-1 
+2 12  K.Stinnett           0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+                             SUBSTITUTE LF- Randy Winn
+                             SUBSTITUTE CF- Tom Goodwin
+0     L.Gonzalez           0 Fly Out                        b-0 
+1     B.Boone              0 Strike Out                     b-0 
+2     B.Abreu              0 Ground Out                     b-0 
+[1]*** TOP OF INNING 8 ***
+0     M.Teixeira           0 Fly Out                        b-0 
+1     J.Lopez              0 Strike Out                     b-0 
+2     H.Blalock            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+0     J.Rollins            0 Double                         b-2 
+0  2  J.Edmonds            0 Strike Out                     b-0 
+1  2  S.Rolen              0 Pop Out                        b-0 
+2  2  E.Durazo             0 Ground Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+0     D.Jimenez            0 Single                         b-1 
+0 1   K.Greene             0 Line Out                       b-0 
+1 1   T.Long               0 Single                         1-3 b-1 
+1 1 3 R.Winn               0 Strike Out                     b-0 
+                             SUBSTITUTE P - John Franco
+2 1 3 T.Goodwin            0 Force Play                     1-o b-1 
+[1]*** BOTTOM OF INNING 9 ***
+0     M.Lieberthal         0 Line Out                       b-0 
+1     B.Broussard          0 Strike Out                     b-0 
+2     L.Gonzalez           0 2 Base Error - LF              b-2 
+                             SUBSTITUTE PH- Chase Utley
+2  2  C.Utley              0 Strike Out                     b-0 

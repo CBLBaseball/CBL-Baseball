@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2005 Baltimore Orioles At 2005 San Diego Padres          10/22/2005
+
+[1]  Orioles            AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Kendall C         5  1  2  2 .300     R.Winn CF           4  0  1  0 .361  
+  L.Merloni 1B        2  0  1  1 .500     R.Klesko LF         2  0  0  1 .135  
+A-R.Palmeiro PH,1B    2  0  0  0 .167     P.Nevin DH          4  0  1  0 .406  
+  M.Mora DH           4  0  0  0 .125     M.Teixeira 1B       4  0  2  0 .205  
+  V.Guerrero RF       2  0  1  0 .400     J.Lopez C           4  0  0  0 .333  
+  C.Beltran CF        4  0  0  0 .250     H.Blalock 3B        3  0  0  0 .184  
+  A.Beltre 3B         2  1  0  0 .000     D.Jimenez 2B        4  0  0  0 .267  
+  F.Menechino 2B      4  1  1  0 .250     K.Greene SS         2  1  0  0 .143  
+  G.Kapler LF         4  1  1  0 .250   B-E.Valent PH         0  0  0  0 .000  
+  C.Guzman SS         3  0  1  1 .286     T.Long RF           4  0  1  0 .182  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  7  4                 Totals      31  1  5  1
+
+A-Pinch Hit For Merloni In 6th Inning
+B-Pinch Hit For Greene In 9th Inning
+
+Orioles......... 0 3 0  1 0 0  0 0 0  -  4  7  0
+Padres.......... 0 0 0  0 1 0  0 0 0  -  1  5  0
+
+[1]Orioles (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens WIN(1-0)           9       5   1   1   2   9   0   1.00  A1
+[1]Totals                    9       5   1   1   2   9   0
+
+[1]Padres (5-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+O.Perez LOSS(3-1)            5 2/3   5   4   4   6   5   0   5.61  A1 D1
+T.Hoffman                    3       2   0   0   0   3   0   0.71  D2 E2
+A.Otsuka                     0 1/3   0   0   0   0   0   0   2.25  E3
+[1]Totals                    9       7   4   4   6   8   0
+
+ATTENDANCE- 48,855 DATE-  TIME- Day 
+T- 3:18
+LEFT ON BASE- Orioles: 8  Padres: 9
+DOUBLE PLAYS- Orioles: 0  Padres: 2
+DOUBLES- J.Kendall(1st), G.Kapler(1st), M.Teixeira(2nd)
+SACRIFICE FLIES- R.Klesko
+WALKS- L.Merloni, M.Mora, V.Guerrero, A.Beltre-2, C.Guzman, R.Klesko, E.Valent
+HIT BY PITCH- V.Guerrero, R.Winn, H.Blalock, K.Greene
+STRIKE OUTS- L.Merloni, M.Mora, C.Beltran-2, A.Beltre, F.Menechino, C.Guzman-2,
+             R.Winn, P.Nevin, M.Teixeira, J.Lopez-2, H.Blalock, D.Jimenez-2,
+             K.Greene
+GIDP- J.Kendall, R.Palmeiro
+WILD PITCHES- R.Clemens
+
+Catcher Jason Kendall had 2 base hits and 2 RBI and Roger Clemens tossed a
+complete game at Petco Park as the Baltimore Orioles beat the San Diego
+Padres 4 to 1.
+
+Baltimore brought 3 runs across the plate in the 2nd inning with the help of 3
+hits.  That early run support was enough for Clemens(1-0) and Baltimore.
+Baltimore totaled 7 on the afternoon.  
+
+The loss was charged to Oliver Perez(3-1).  He surrendered 4 runs and 5 hits
+in 5 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2005 Baltimore Orioles at 2005 San Diego Padres
+J.Kendal-A1  A1:F/8     B1:Do>2#   C1:G-DP/6  D1:F/7     *9*:Si
+                        1#         43>1o                 
+                                                         
+L.Merlon-A1  A2:K       B2:Si>2#   C2:W>b1    D2:L/4     E2:G-DP/4
+R.Palmei-D2                                              63>1o
+                                                         
+M.Mora-A1    A3:W>b1    B3:G/43    C3:F/9     *7*:K      E3:F/8
+                                                         
+                                                         
+V.Guerre-A1  A4:W>12 b  *3*:F/8    *5*:HBP    D4:Si
+             1                                
+                                              
+C.Beltra-A1  A5:G/63    B5:K       C5:L/4     D5:K
+                                              
+                                              
+A.Beltre-A1  *2*:W>b1   B6:W>b1    C6:K       D6:G/63
+                                              
+                                              
+F.Menech-A1  A7:Si>12   B7:K       C7:G/53    *8*:L/5
+                                              
+                                              
+G.Kapler-A1  A8:F/8     *4*:Do     *6*:G/13   D8:F/7
+                                              
+                                              
+C.Guzman-A1  A9:K       B9:Si>2#   C9:W>b1    D9:K
+                                              
+                                              
+
+R.Winn-A1    A1:HBP     B1:Si      C1:G/13>1  D1:G/53    E1:K
+                                   2                     
+                                                         
+R.Klesko-A1  A2:F/7     B2:F/9     C2:SF/9>3  D2:W>b1
+                                   #          
+                                              
+P.Nevin-A1   A3:K       B3:F/7     C3:Si>23   D3:L/5
+                                              
+                                              
+M.Teixei-A1  A4:Si>12   *4*:Do     C4:G/3     *8*:K
+                                              
+                                              
+J.Lopez-A1   A5:F/9     B5:G/63    *6*:K      D5:K
+                                              
+                                              
+H.Blaloc-A1  *2*:G/63   B6:K       C6:HBP     D6:F/8
+                                              
+                                              
+D.Jimene-A1  A7:G/13    B7:K       C7:F/9     *9*:K
+                                              
+                                              
+K.Greene-A1  A8:P/6     *5*:HBP    C8:K       D8:W>b1
+E.Valent-D8                                   
+                                              
+T.Long-A1    *3*:G/63   B9:Si>13   *7*:G/31   D9:WP>12
+                                              G/43>23
+                                              
+
+

@@ -1,0 +1,108 @@
+[1]BOXSCORE: 2005 Chicago (NL) Cubs At 2005 San Diego Padres          10/30/2005
+
+[1]  Cubs               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Bautista RF       4  0  2  0 .500     R.Winn CF           4  1  2  0 .400  
+  M.Grudzielanek 2B   4  0  0  0 .000     R.Klesko LF         4  0  0  0 .083  
+  J.Estrada C         4  0  0  0 .000     K.Stinnett DH       4  1  1  2 .167  
+  V.Castilla 3B       4  0  1  0 .250     M.Teixeira 1B       3  1  1  0 .222  
+  D.Lee 1B            3  0  0  0 .000     J.Lopez C           4  1  1  0 .333  
+  S.Sosa DH           3  0  0  0 .000     H.Blalock 3B        4  1  2  3 .273  
+  L.Ford LF           3  1  1  0 .333     D.Jimenez 2B        4  0  1  0 .222  
+  R.Clayton SS        3  0  0  0 .000     K.Greene SS         2  0  0  0 .250  
+  C.Patterson CF      2  0  0  1 .000     T.Long RF           3  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  4  1                 Totals      32  5  9  5
+
+
+Cubs............ 0 0 1  0 0 0  0 0 0  -  1  4  0
+Padres.......... 2 0 0  3 0 0  0 0    -  5  9  0
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano LOSS(0-1)         6       8   5   5   3   8   2   7.50  A1 D2
+J.Nathan                     2       1   0   0   0   3   0   0.00  D3
+[1]Totals                    8       9   5   5   3  11   2
+
+[1]Padres (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets WIN(1-1)            9       4   1   1   0  10   0   1.13  A1
+[1]Totals                    9       4   1   1   0  10   0
+
+ATTENDANCE- 45,131 DATE-  TIME- Day 
+T- 2:25
+LEFT ON BASE- Cubs: 3  Padres: 6
+DOUBLE PLAYS- Cubs: 1  Padres: 0
+DOUBLES- D.Bautista(1st), V.Castilla(1st), L.Ford(1st), R.Winn-2(2nd)
+HOME RUNS- K.Stinnett(1st), H.Blalock(1st)
+SACRIFICE FLIES- C.Patterson
+WALKS- M.Teixeira, K.Greene-2
+STRIKE OUTS- D.Bautista, M.Grudzielanek-2, J.Estrada-2, V.Castilla, S.Sosa-2,
+             R.Clayton-2, R.Winn-2, R.Klesko-2, K.Stinnett-3, J.Lopez-2,
+             H.Blalock, T.Long
+GIDP- K.Greene
+
+Ben Sheets reeled off a total of 10 strikeouts as the San Diego Padres topped
+the Chicago (NL) Cubs by a score of 5 to 1 at Petco Park.
+
+Sheets(1-1) simply dominated Chicago (NL).  He gave up just 4 hits and no
+walks in 9 innings.  Neither team managed to score after the 4th inning.
+
+Carlos Zambrano(0-1) was the loser.  'He came out with good stuff,' Brian
+Ballou said about Sheets. 'He threw the ball good from the first pitch on.'
+[2]
+[1]SCORESHEET: 2005 Chicago (NL) Cubs at 2005 San Diego Padres
+D.Bautis-A1  A1:G/13    B1:K       C1:Si      *9*:Do
+                                              
+                                              
+M.Grudzi-A1  A2:G/3     *4*:K      C2:F/8     D2:K
+                                              
+                                              
+J.Estrad-A1  A3:K       B3:G/43    *7*:L/4    D3:K
+                                              
+                                              
+V.Castil-A1  *2*:G/53   B4:K       C4:Do      D4:L/6
+                                              
+                                              
+D.Lee-A1     A5:G/43    *5*:G/63   C5:G/13
+                                   
+                                   
+S.Sosa-A1    A6:K       B6:L/5     C6:K
+                                   
+                                   
+L.Ford-A1    *3*:Do     B7:F/8     *8*:F/8
+                                   
+                                   
+R.Clayto-A1  A8:G/43>2  *6*:K      C8:K
+             3                     
+                                   
+C.Patter-A1  A9:SF/8>3  B9:G/13    C9:G/43
+             #                     
+                                   
+
+R.Winn-A1    A1:Do      *3*:K      C1:Do>13   D1:K
+                                              
+                                              
+R.Klesko-A1  A2:G/43>2  B2:K       C2:F/9     D2:K
+             3                                
+                                              
+K.Stinne-A1  A3:HR>3#   B3:K       *5*:K      *7*:K
+             b#                               
+                                              
+M.Teixei-A1  A4:F/8     *4*:W>b1   C4:Si      D4:F/9
+                                              
+                                              
+J.Lopez-A1   A5:K       B5:Si>13   C5:F/8     D5:K
+                                              
+                                              
+H.Blaloc-A1  *2*:G/63   B6:HR>3#   C6:Si>13   *8*:K
+                        1# b#                 
+                                              
+D.Jimene-A1  A7:L/4     B7:L/4     C7:L/4     D7:Si
+                                              
+                                              
+K.Greene-A1  A8:W>b1    B8:W>b1    *6*:F/8    D8:G-DP/6
+                                              43>1o
+                                              
+T.Long-A1    A9:P/2     B9:K       C9:Si
+                                   
+                                   
+
+

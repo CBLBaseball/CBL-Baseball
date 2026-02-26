@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2005 Baltimore Orioles At 2005 Oakland Athletics          10/5/2005
+
+[1]  Orioles            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  J.Kendall C         4  0  1  0 .111     R.Freel CF          3  1  0  0 .286  
+  L.Merloni 1B        3  0  0  0 .000     E.Young LF          3  0  0  0 .000  
+C-B.Roberts 2B        1  0  0  0 .200     E.Byrnes RF         4  0  0  0 .000  
+  M.Mora DH           3  1  0  0 .125     M.Tejada SS         3  1  2  1 .333  
+  V.Guerrero RF       3  0  0  0 .167     R.Hernandez C       4  1  2  1 .500  
+  C.Beltran CF        3  1  1  1 .250     K.Ginter 2B         4  0  1  1 .250  
+  A.Beltre 3B         4  0  0  0 .333     E.Chavez 3B         4  0  1  0 .125  
+  F.Menechino 2B      1  0  0  0 .000     J.Giambi 1B         4  0  0  0 .000  
+A-R.Palmeiro PH,1B    2  1  1  2 .200     C.Snyder DH         3  0  0  0 .000  
+  G.Kapler LF         2  0  1  0 .500                                          
+B-L.Bigbie PH,LF      2  1  1  1 .429                                          
+  C.Guzman SS         4  0  0  0 .143                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  5  4                 Totals      32  3  6  3
+
+A-Pinch Hit For Menechino In 7th Inning
+B-Pinch Hit For Kapler In 7th Inning
+C-Subbed Defensively (2B) For Merloni In 7th Inning
+
+Orioles......... 0 0 0  0 0 0  3 1 0  -  4  5  0
+Athletics....... 0 0 0  0 0 1  0 0 2  -  3  6  0
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           8 1/3   5   3   3   1  11   0   3.24  A1 D5
+J.Rincon                     0       1   0   0   0   0   0   0.00  D6 D6
+B.Wagner SAVE(1st)           0 2/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       6   3   3   1  11   0
+
+[1]Athletics                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Zito                       6       2   0   0   2   3   0   0.00  A1 C4
+O.Dotel LOSS(0-1) BS         0 1/3   2   3   3   1   0   2  81.00  C5 C8
+T.Harikkala                  2 2/3   1   1   1   0   0   0   3.37  C9
+[1]Totals                    9       5   4   4   3   3   2
+
+ATTENDANCE- 47,514 DATE-  TIME- Night 
+T- 3:12
+LEFT ON BASE- Orioles: 5  Athletics: 5
+DOUBLE PLAYS- Orioles: 0  Athletics: 0
+DOUBLES- C.Beltran(2nd), G.Kapler(1st), M.Tejada(1st), R.Hernandez(1st)
+HOME RUNS- R.Palmeiro(1st), L.Bigbie(1st)
+SACRIFICE HITS- E.Young
+WALKS- V.Guerrero, C.Beltran, F.Menechino, R.Freel
+HIT BY PITCH- M.Mora, M.Tejada
+STRIKE OUTS- M.Mora, C.Beltran-2, R.Freel, E.Young-2, E.Byrnes-2, R.Hernandez,
+             K.Ginter-3, E.Chavez, C.Snyder
+WEB GEMS- Top 8th: Miguel Tejada robbed Vladimir Guerrero of a base hit.
+
+Randy Johnson dominated striking out 11 Oakland batters as the Baltimore
+Orioles defeated the Oakland Athletics by a score of 4 to 3 at Network Asc
+Coliseum.
+
+Johnson(1-0) contributed a very nicely pitched game.  He gave up just 5 hits
+and 1 walk in 8 and 1/3 innings.  The game was a scoreless duel until the 6th
+inning.  
+
+Billy Wagner earned the save, his 1st.  Octavio Dotel(0-1) ended up with the
+loss in relief.  He surrendered 3 runs and 2 hits in 1/3 of an inning.
+
+Chris Speer was impressed with Johnson and his 11 strikeouts.  'It's tough to
+generate runs if you can't make contact with the ball.'
+[2]
+[1]SCORESHEET: 2005 Baltimore Orioles at 2005 Oakland Athletics
+J.Kendal-A1  A1:Si      B1:G/63    C1:G/63    D1:F/9
+                                              
+                                              
+L.Merlon-A1  A2:L/5     B2:G/63    *6*:L/6    *8*:G/43
+B.Robert-D2                                   
+                                              
+M.Mora-A1    A3:K       *4*:G/63   C3:L/6     D3:HBP
+                                              
+                                              
+V.Guerre-A1  A4:W>12 b  B4:L/6     C4:F/9     D4:G/63>1
+             1                                2
+                                              
+C.Beltra-A1  A5:K       B5:K       *7*:W>b1   D5:Do>2#
+                                              
+                                              
+A.Beltre-A1  *2*:L/5    *5*:F/9    C6:G/43>1  D6:F/8
+                                   2          
+                                              
+F.Menech-A1  A7:G/13    B7:W>b1    C7:HR>2#   *9*:G/63
+R.Palmei-C7                        b#         
+                                              
+G.Kapler-A1  A8:F/9     B8:Do>13   C8:HR>b#   D8:G/31
+L.Bigbie-C8                                   
+                                              
+C.Guzman-A1  *3*:L/6    B9:FC/32>  C9:G/43    D9:G/3
+                        3o 23                 
+                                              
+
+R.Freel-A1   A1:K       B1:F/8     *6*:W>b1   D1:F/8
+                                              
+                                              
+E.Young-A1   A2:G/43    *4*:K      C2:Sac/14  D2:K
+                                   >12        
+                                              
+E.Byrnes-A1  A3:F/9     B3:K       C3:L/6     *9*:K
+                                              
+                                              
+M.Tejada-A1  *2*:G/43   B4:HBP     C4:Si>2#   D4:Do
+                                              
+                                              
+R.Hernan-A1  A5:Si      B5:K       C5:G/63    D5:Do>2#
+                                              
+                                              
+K.Ginter-A1  A6:K       *5*:K      *7*:K      D6:Si>2#
+                                              
+                                              
+E.Chavez-A1  A7:F/9     B7:Si      C7:K       D7:P/4
+                                              
+                                              
+J.Giambi-A1  *3*:F/9    B8:L/4     C8:F/8     D8:P/4
+                                              
+                                              
+C.Snyder-A1  A9:K       B9:L/5     *8*:G/43
+                                   
+                                   
+
+

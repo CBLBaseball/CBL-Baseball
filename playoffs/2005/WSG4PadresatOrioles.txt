@@ -1,0 +1,111 @@
+[1]BOXSCORE: 2005 San Diego Padres At 2005 Baltimore Orioles          11/20/2005
+
+[1]  Padres             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  A.Sanchez RF        4  0  0  0 .105     J.Kendall C         4  0  0  0 .204  
+  R.Klesko LF         4  0  1  0 .157     M.Mora DH           4  0  1  0 .267  
+  P.Nevin DH          4  0  1  0 .278     A.Beltre 3B         4  1  1  0 .319  
+  M.Teixeira 1B       4  0  0  0 .118     V.Guerrero RF       4  1  0  0 .200  
+  J.Lopez C           2  0  0  0 .360     C.Beltran CF        4  1  2  1 .227  
+  H.Blalock 3B        3  0  0  0 .184     R.Palmeiro 1B       4  0  2  2 .433  
+  K.Greene SS         3  0  0  0 .222     B.Roberts 2B        3  0  0  0 .308  
+  R.Winn CF           3  0  0  0 .278     L.Bigbie LF         3  0  0  0 .346  
+  D.Jimenez 2B        3  0  1  0 .225     C.Guzman SS         3  0  1  0 .235  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  3  0                 Totals      33  3  7  3
+
+
+Padres.......... 0 0 0  0 0 0  0 0 0  -  0  3  2
+Orioles......... 0 0 0  1 0 2  0 0    -  3  7  0
+
+[1]Padres (7-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets LOSS(2-2)           7 2/3   7   3   1   0   7   0   0.86  A1 D5
+O.Perez                      0 1/3   0   0   0   0   0   0   0.00  D6
+[1]Totals                    8       7   3   1   0   7   0
+
+[1]Orioles (9-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-2)           9       3   0   0   1  11   0   3.13  A1
+[1]Totals                    9       3   0   0   1  11   0
+
+ATTENDANCE- 48,541 DATE-  TIME- Day 
+T- 2:46
+LEFT ON BASE- Padres: 4  Orioles: 6
+DOUBLE PLAYS- Padres: 0  Orioles: 0
+ERRORS- A.Sanchez, B.Sheets
+DOUBLES- C.Beltran(3rd), R.Palmeiro(4th)
+STOLEN BASES- C.Beltran(3rd)
+WALKS- J.Lopez
+STRIKE OUTS- A.Sanchez-3, R.Klesko, M.Teixeira-3, J.Lopez, H.Blalock, K.Greene,
+             R.Winn, J.Kendall-2, M.Mora, A.Beltre, L.Bigbie-3
+
+Randy Johnson pitched a 3 hit shutout at Camden Yards as the Baltimore Orioles
+beat the San Diego Padres by the count of 3 to 0.
+
+Johnson(1-2) escaped virtually unscathed against the San Diego hitters.  He
+allowed just 3 hits and 1 walk in 9 innings.  Johnson whiffed an impressive
+total of 11 San Diego batters improving his ERA from 4.37 to 3.13.  Baltimore
+managed 7 in their victory.  
+
+Ben Sheets(2-2) suffered the loss.  Everyone seemed to enjoy the performance
+of Johnson - except San Diego.  Brian Ballou lamented, 'He just was 'on' this
+afternoon.  He was keeping our guys off balance all game.  A fine game by a
+good strikeout pitcher - makes it a fun game for the hometown fans -
+unfortunately we were the visitors!'
+[2]
+[1]SCORESHEET: 2005 San Diego Padres at 2005 Baltimore Orioles
+A.Sanche-A1  A1:K       B1:G/43    C1:K       *9*:K
+                                              
+                                              
+R.Klesko-A1  A2:G/63    *4*:K      *7*:Si     D2:G/43
+                                              
+                                              
+P.Nevin-A1   A3:F/9     B3:F/9     C3:F/7     D3:Si
+                                              
+                                              
+M.Teixei-A1  *2*:G/43   B4:K       C4:K       D4:K
+                                              
+                                              
+J.Lopez-A1   A5:K       *5*:P/4    C5:W>12 b
+                                   1
+                                   
+H.Blaloc-A1  A6:K       B6:G/13    C6:F/9
+                                   
+                                   
+K.Greene-A1  *3*:G/63   B7:L/5     *8*:K
+                                   
+                                   
+R.Winn-A1    A8:F/8     *6*:G/53   C8:K
+                                   
+                                   
+D.Jimene-A1  A9:Si      B9:F/9     C9:G/43
+                                   
+                                   
+
+J.Kendal-A1  A1:K       B1:K       C1:G/3>12  D1:F/7
+                                              
+                                              
+M.Mora-A1    A2:Si      B2:L/5     C2:F/8     D2:K
+                                              
+                                              
+A.Beltre-A1  A3:Si>12   *4*:E/1>b  *6*:F/7    *8*:K
+                        2                     
+                                              
+V.Guerre-A1  A4:F/8     B4:P/3     C4:E/9>b2  D4:F/8
+                                              
+                                              
+C.Beltra-A1  A5:F/8     B5:G/43>2  C5:Do>2#   D5:Si
+                        3                     
+                                              
+R.Palmei-A1  *2*:G/43   B6:Si>3#   C6:Do>2#   D6:SB>12
+                                              P/2
+                                              
+B.Robert-A1  A7:G/13    B7:L/4     C7:F/7
+                                   
+                                   
+L.Bigbie-A1  A8:K       *5*:K      C8:K
+                                   
+                                   
+C.Guzman-A1  *3*:F/8    B9:Si      *7*:G/3
+                                   
+                                   
+
+

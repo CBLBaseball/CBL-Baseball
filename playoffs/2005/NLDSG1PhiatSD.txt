@@ -1,0 +1,215 @@
+[1]BOXSCORE: 2005 Philadelphia Phillies At 2005 San Diego Padres      10/20/2005
+[1]Playoff Series 1 Philadelphia at San Diego.  Phils roll
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  B.Abreu RF          4  1  1  0 .250     R.Winn CF           3  0  0  0 .000  
+  J.Rollins SS        2  0  0  0 .000     R.Klesko LF         4  0  0  0 .000  
+  J.Edmonds CF        4  1  0  0 .000     K.Stinnett DH       2  0  0  0 .000  
+  S.Rolen 3B          4  0  0  0 .000   A-P.Nevin PH          2  0  0  0 .000  
+  E.Durazo DH         4  2  1  3 .250     M.Teixeira 1B       3  0  0  0 .000  
+  M.Lieberthal C      4  0  2  0 .500     J.Lopez C           3  0  1  0 .333  
+  L.Gonzalez LF       1  1  1  11.000     H.Blalock 3B        3  0  0  0 .000  
+B-K.Robinson LF       1  0  0  0 .000     D.Jimenez 2B        3  0  1  0 .333  
+  B.Broussard 1B      4  0  0  0 .000     K.Greene SS         2  0  1  0 .500  
+  B.Boone 2B          4  0  0  0 .000     A.Sanchez RF        2  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  5  5  4                 Totals      27  0  3  0
+
+A-Pinch Hit For Stinnett In 6th Inning
+B-Subbed Defensively (LF) For Gonzalez In 8th Inning
+
+Phillies........ 0 1 0  0 1 0  0 3 0  -  5  5  0
+Padres.......... 0 0 0  0 0 0  0 0 0  -  0  3  3
+
+[1]Phillies (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Morris WIN(1-0)            5       2   0   0   2   4   0   0.00  A1 B9
+R.Cormier HOLD(1st)          2       0   0   0   0   0   0   0.00  C1 C6
+R.Madson                     2       1   0   0   0   3   0   0.00  C7
+[1]Totals                    9       3   0   0   2   7   0
+
+[1]Padres (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets LOSS(0-1)           7       4   3   1   2   4   0   1.29  A1 D1
+A.Otsuka                     0 1/3   0   1   0   0   0   0   0.00  D2 D3
+T.Hoffman                    1 2/3   1   1   1   0   3   1   5.40  D4
+[1]Totals                    9       5   5   1   2   7   1
+
+ATTENDANCE- 46,164 DATE-  TIME- Day 
+T- 2:25
+LEFT ON BASE- Phillies: 4  Padres: 3
+DOUBLE PLAYS- Phillies: 2  Padres: 0
+ERRORS- H.Blalock, K.Greene-2
+DOUBLES- B.Abreu(1st), L.Gonzalez(1st)
+HOME RUNS- E.Durazo(1st)
+CAUGHT STEALING- J.Rollins
+SACRIFICE HITS- J.Rollins, A.Sanchez
+SACRIFICE FLIES- L.Gonzalez
+WALKS- J.Rollins, L.Gonzalez, R.Winn, K.Greene
+STRIKE OUTS- J.Rollins, J.Edmonds, S.Rolen, B.Broussard-2, B.Boone-2, R.Winn,
+             P.Nevin, H.Blalock, D.Jimenez-2, A.Sanchez-2
+GIDP- H.Blalock, K.Greene
+WILD PITCHES- B.Sheets-2
+
+Matt Morris(1-0)with the help of the bullpen blanked the San Diego Padres at
+Petco Park.  The Philadelphia Phillies scored scored 5 runs for the
+victory.
+
+San Diego never recovered after Philadelphia took the lead in the top of the
+2nd inning scoring a single run.  Erubiel Durazo reached on an error.  Mike
+Lieberthal came to the plate and delivered a single.  Luis Gonzalez then hit
+a sacrifice fly scoring the run.  That was all the offense they were to need.
+Philadelphia had only 5 hits for the afternoon.  
+
+Ben Sheets(0-1) was the losing pitcher.  He surrendered 4 hits and 2 walks in
+7 innings.
+[2]
+[1]SCORESHEET: 2005 Philadelphia Phillies at 2005 San Diego Padres
+B.Abreu-A1   A1:Do      *3*:G/43   C1:WP>3#   *8*:E/6
+                                   G/63       
+                                              
+J.Rollin-A1  A2:WP>23   B2:W>b1    *6*:G/43   D2:Sac/34
+             K                                >12
+                                              
+J.Edmond-A1  A3:K       B3:F/7 CS  C3:F/8     D3:E/5>23
+                        /24>1o                
+                                              
+S.Rolen-A1   A4:F/8     *4*:F/7    C4:L/6     D4:K
+                                              
+                                              
+E.Durazo-A1  *2*:E/6    B5:G/43    *7*:FO/2   D5:HR>3#
+                                              1# b#
+                                              
+M.Lieber-A1  A6:Si>13   B6:L/6     C6:Si      D6:G/53
+                                              
+                                              
+L.Gonzal-A1  A7:SF/9>3  *5*:Do     C7:W>12 b  *9*:G/3
+K.Robins-D7  #                     1          
+                                              
+B.Brouss-A1  A8:K       B8:G/43>2  C8:Force/  D8:K
+                        3          54>23 1o   
+                                   b1         
+B.Boone-A1   A9:K       B9:F/8     C9:P/6     D9:K
+                                              
+                                              
+
+R.Winn-A1    A1:W>b1    B1:G/53    *6*:F/7    *9*:K
+                                              
+                                              
+R.Klesko-A1  A2:F/9     B2:G/13    C2:F/8     D2:F/7
+                                              
+                                              
+K.Stinne-A1  A3:F/7     *4*:F/8    C3:F/9     D3:K
+P.Nevin-C3                                    
+                                              
+M.Teixei-A1  A4:G/13    B4:G/43    *7*:G/63
+                                   
+                                   
+J.Lopez-A1   *2*:Si     B5:G/53    C5:F/7
+                                   
+                                   
+H.Blaloc-A1  A6:G-DP/6  *5*:K      C6:G/13
+             43>1o                 
+                                   
+D.Jimene-A1  A7:K       B7:K       *8*:Si
+                                   
+                                   
+K.Greene-A1  *3*:Si     B8:W>b1    C8:G-DP/6
+                                   43>1o
+                                   
+A.Sanche-A1  A9:Sac/54  B9:K       C9:K
+             >12                   
+                                   
+
+
+[1]*** TOP OF INNING 1 ***
+0     B.Abreu              0 Double                         b-2 
+0  2  J.Rollins            0 Wild Pitch                     2-3 
+0   3 J.Rollins            0 Strike Out                     b-0 
+1   3 J.Edmonds            0 Strike Out                     b-0 
+2   3 S.Rolen              0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     R.Winn               0 Walk                           b-1 
+0 1   R.Klesko             0 Fly Out                        b-0 
+1 1   K.Stinnett           0 Fly Out                        b-0 
+2 1   M.Teixeira           0 Ground Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     E.Durazo             0 1 Base Error - SS              b-1 
+0 1   M.Lieberthal         0 Single                         1-3 b-1 
+0 1 3 L.Gonzalez           0 Sac Fly                        3-H b-0 
+1 1   B.Broussard          0 Strike Out                     b-0 
+2 1   B.Boone              0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     J.Lopez              0 Single                         b-1 
+0 1   H.Blalock            0 Ground Out Double Play         1-o b-0 
+2     D.Jimenez            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 3 ***
+0     B.Abreu              0 Ground Out                     b-0 
+1     J.Rollins            0 Walk                           b-1 
+1 1   J.Edmonds            0 Fly Out                        b-0 
+2 1                        0 Caught Stealing                1-o 
+[1]*** BOTTOM OF INNING 3 ***
+0     K.Greene             0 Single                         b-1 
+0 1   A.Sanchez            0 Sac Bunt                       1-2 b-0 
+1  2  R.Winn               0 Ground Out                     b-0 
+2  2  R.Klesko             0 Ground Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     S.Rolen              0 Fly Out                        b-0 
+1     E.Durazo             0 Ground Out                     b-0 
+2     M.Lieberthal         0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     K.Stinnett           0 Fly Out                        b-0 
+1     M.Teixeira           0 Ground Out                     b-0 
+2     J.Lopez              0 Ground Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     L.Gonzalez           0 Double                         b-2 
+0  2  B.Broussard          0 Ground Out                     2-3 b-0 
+1   3 B.Boone              0 Fly Out                        b-0 
+2   3 B.Abreu              0 Wild Pitch                     3-H 
+2     B.Abreu              0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     H.Blalock            0 Strike Out                     b-0 
+1     D.Jimenez            0 Strike Out                     b-0 
+2     K.Greene             0 Walk                           b-1 
+2 1   A.Sanchez            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 6 ***
+0     J.Rollins            0 Ground Out                     b-0 
+1     J.Edmonds            0 Fly Out                        b-0 
+2     S.Rolen              0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 6 ***
+                             SUBSTITUTE P - Rheal Cormier
+0     R.Winn               0 Fly Out                        b-0 
+1     R.Klesko             0 Fly Out                        b-0 
+                             SUBSTITUTE PH- Phil Nevin
+2     P.Nevin              0 Fly Out                        b-0 
+[1]*** TOP OF INNING 7 ***
+0     E.Durazo             0 Foul Out                       b-0 
+1     M.Lieberthal         0 Single                         b-1 
+1 1   L.Gonzalez           0 Walk                           1-2 b-1 
+1 12  B.Broussard          0 Force Play                     2-3 1-o b-1 
+2 1 3 B.Boone              0 Pop Out                        b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     M.Teixeira           0 Ground Out                     b-0 
+1     J.Lopez              0 Fly Out                        b-0 
+2     H.Blalock            0 Ground Out                     b-0 
+[1]*** TOP OF INNING 8 ***
+0     B.Abreu              0 1 Base Error - SS              b-1 
+                             SUBSTITUTE P - Akinori Otsuka
+0 1   J.Rollins            0 Sac Bunt                       1-2 b-0 
+1  2  J.Edmonds            0 1 Base Error - 3B              2-3 b-1 
+                             SUBSTITUTE P - Trevor Hoffman
+1 1 3 S.Rolen              0 Strike Out                     b-0 
+2 1 3 E.Durazo             0 Home Run                       3-H 1-H b-H 
+2     M.Lieberthal         0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+                             SUBSTITUTE P - Ryan Madson
+                             SUBSTITUTE LF- Kerry Robinson
+0     D.Jimenez            0 Single                         b-1 
+0 1   K.Greene             0 Ground Out Double Play         1-o b-0 
+2     A.Sanchez            0 Strike Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+0     K.Robinson           0 Ground Out                     b-0 
+1     B.Broussard          0 Strike Out                     b-0 
+2     B.Boone              0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 9 ***
+0     R.Winn               0 Strike Out                     b-0 
+1     R.Klesko             0 Fly Out                        b-0 
+2     P.Nevin              0 Strike Out                     b-0 
