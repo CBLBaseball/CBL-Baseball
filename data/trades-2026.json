@@ -1,5 +1,43 @@
 [
   {
+    "leftDate": "2/26/2006",
+    "rightDate": "2/26/2026",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Mets",
+        "items": [
+          "Freddy Peralta",
+          "Ryan O'Hearn",
+          "Devin Williams"
+        ]
+      },
+      {
+        "name": "Orioles",
+        "items": [
+          "Pete Alonso",
+          "Corbin Burnes",
+          "Jameson Taillon"
+        ]
+      },
+      {
+        "name": "Mets",
+        "items": [
+          "Luis Robert Jr.",
+          "Nick Castellanos"
+        ]
+      },
+      {
+        "name": "White Sox",
+        "items": [
+          "Luisangel Acuna",
+          "Brandon Sproat",
+          "Mets DP (2nd) (2027)"
+        ]
+      }
+    ]
+  },
+  {
     "leftDate": "2/25/2026",
     "rightDate": "2/25/2026",
     "phase": "",
