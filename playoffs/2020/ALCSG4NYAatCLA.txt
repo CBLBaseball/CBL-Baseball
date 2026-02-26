@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2020 New York (AL) Yankees At 2020 Cleveland Indians     10/17/2020
+
+[1]  Yankees            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  G.Urshela 3B        1  0  0  0 .355     F.Lindor SS         4  1  0  0 .149  
+A-E.Thames PH,1B      2  1  1  2 .154     J.Ramirez 3B        4  1  2  2 .163  
+  B.Gardner LF        3  1  1  1 .303     M.Brantley LF,RF    5  1  2  0 .368  
+  G.Springer RF       4  0  1  0 .318     J.Davis DH          2  1  2  1 .250  
+  N.Cruz DH           3  0  0  0 .359   E-J.Luplow PH,DH      1  0  0  0 .000  
+  A.Hicks CF          4  0  0  0 .364     J.Osich P           1  0  0  0 .000  
+  G.Torres SS         4  0  1  0 .250     M.Canha 1B          2  1  0  0 .160  
+  Y.Gurriel 1B,3B     4  0  0  0 .190   F-E.Adrianza PH,1B    2  1  1  0 .214  
+  R.Cano 2B           1  0  0  0 .364     Y.Puig RF,CF        4  2  2  4 .250  
+B-E.Sogard PH,2B      3  0  0  0 .167     O.Mercado CF        3  1  1  1 .172  
+  G.Sanchez C         2  0  0  0 .250   G-G.Garcia PH,LF      1  0  0  0 .333  
+H-J.Martinez PH,C     1  1  1  0 .353     J.Kipnis 2B         4  1  2  2 .265  
+                                          T.Murphy C          2  0  1  0 .278  
+                                        C-J.Martinez PH       1  0  0  0 .273  
+                                        D-F.Mejia C           1  0  0  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  5  3                 Totals      37 10 13 10
+
+A-Pinch Hit For Urshela In 3rd Inning
+B-Pinch Hit For Cano In 5th Inning
+C-Pinch Hit For Murphy In 5th Inning
+D-Subbed Defensively (C ) For Martinez In 6th Inning
+E-Pinch Hit For Davis In 6th Inning
+F-Pinch Hit For Canha In 6th Inning
+G-Pinch Hit For Mercado In 6th Inning
+H-Pinch Hit For Sanchez In 8th Inning
+
+Yankees......... 1 0 0  0 0 0  0 2 0  -  3  5  1
+Indians......... 6 0 0  0 1 2  1 0    - 10 13  0
+
+[1]Yankees (7-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Bailey LOSS(0-2)           8      13  10   9   3   6   2   8.64  A1
+[1]Totals                    8      13  10   9   3   6   2
+
+[1]Indians (5-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Bieber WIN(2-0)            6       2   1   1   3   7   1   1.88  A1 C5
+J.Osich SAVE(1st)            3       3   2   2   0   1   1   3.68  C6
+[1]Totals                    9       5   3   3   3   8   2
+
+ATTENDANCE- 36,734 DATE- Saturday, October 17th 2020 TIME- Night 
+UMPIRES- Alfonso Marquez, Paul Schrieber, Will Little, Ted Barrett
+T- 2:49
+LEFT ON BASE- Yankees: 5  Indians: 8
+DOUBLE PLAYS- Yankees: 0  Indians: 0
+ERRORS- G.Torres
+DOUBLES- G.Torres(1st), J.Ramirez(1st), M.Brantley(6th), Y.Puig(1st)
+HOME RUNS- E.Thames(1st), B.Gardner(4th), Y.Puig(6th), J.Kipnis(3rd)
+RBIs- E.Thames-2(2nd), B.Gardner(8th), J.Ramirez-2(6th), J.Davis(2nd),
+      Y.Puig-4(10th), O.Mercado(1st), J.Kipnis-2(5th)
+SACRIFICE HITS- J.Davis, Y.Puig
+WALKS- E.Thames, B.Gardner, N.Cruz, F.Lindor, J.Ramirez, M.Canha
+STRIKE OUTS- G.Urshela, E.Thames, B.Gardner, G.Springer, A.Hicks, G.Torres-2,
+             G.Sanchez, F.Lindor, J.Ramirez, M.Brantley, J.Osich, M.Canha,
+             T.Murphy
+WILD PITCHES- J.Osich
+2-out RBI- J.Ramirez-2, Y.Puig-2
+RLISP 2-out- M.Brantley-3, G.Springer, Y.Gurriel, O.Mercado-2, A.Hicks
+TEAM RISP- Yankees: 0 for 3  Indians: 4 for 9
+
+In a lop-sided win the Cleveland Indians ended a long winless drought and
+ripped the New York (AL) Yankees by a 10 to 3 count.
+
+Yasiel Puig had a good evening at the plate.  He doubled plating two runs in
+the 1st inning and smashed a two-run homer in the 6th inning.  Cleveland
+finished with 13 hits while New York (AL) ended up with 5.  
+
+Shane Bieber(2-0) got the win allowing 1 run in 6 innings. Josh Osich was
+credited with his 1st save.  Homer Bailey(0-2) was the losing pitcher.  He
+got hit hard, allowing 13 hits and 3 walks in 8 innings.  
+
+'After the stretch we have been through lately, this victory is especially
+sweet' offered Gary Bringhurst.  Now, we just have to make this the norm -
+not the exception!'
+[2]
+[1]SCORESHEET: 2020 New York (AL) Yankees at 2020 Cleveland Indians
+G.Urshel-A1  A1:K       B1:W>b1    C1:K       D1:HR>1#
+E.Thames-B1                                   b#
+                                              
+B.Gardne-A1  A2:HR>b#   B2:W>12 b  *6*:K      D2:F/7
+                        1                     
+                                              
+G.Spring-A1  A3:G/31    B3:P/6     C3:K       D3:Si
+                                              
+                                              
+N.Cruz-A1    A4:G/53    *4*:L/6    C4:W>b1    D4:F/8
+                                              
+                                              
+A.Hicks-A1   *2*:F/8    B5:G/43    C5:K       D5:WP>12
+                                              F/9
+                                              
+G.Torres-A1  A6:K       B6:Do      *7*:K      *9*:G/63
+                                              
+                                              
+Y.Gurrie-A1  A7:G/63    B7:F/9     C7:L/3     D7:P/6
+                                              
+                                              
+R.Cano-A1    *3*:L/4    *5*:G/43   C8:G/43    D8:L/4
+E.Sogard-B8                                   
+                                              
+G.Sanche-A1  A9:K       B9:G/63    *8*:Si
+J.Martin-C9                        
+                                   
+
+F.Lindor-A1  A1:G/31    B1:W>12 b  C1:K       D1:G/63    E1:E/6
+                        1                                
+                                                         
+J.Ramire-A1  A2:Si      B2:W>3# 2  C2:P/4     D2:K       E2:Do>1#
+                        3 12 b1                          
+                                                         
+M.Brantl-A1  A3:Si>13   B3:G/53    *4*:Do     *6*:G/43   E3:K
+                                                         
+                                                         
+J.Davis-A1   A4:Si>3#   *2*:Si     C4:Sac+FC  D4:G/63    *8*:K
+J.Luplow-D4  13                    >23 b1                
+J.Osich-D8                                               
+M.Canha-A1   A5:W>12 b  B5:K       C5:Force/  D5:Si      E5:G/31
+E.Adrian-D5  1                     36>1o b1              
+                                                         
+Y.Puig-A1    A6:Do>3#   B6:F/9     C6:Sac/14  D6:HR>1#   E6:G/63
+             2# 13                 >12        b#         
+                                                         
+O.Mercad-A1  A7:Si>3#   B7:FO/3    C7:G/43    D7:L/4
+G.Garcia-D7  23                               
+                                              
+J.Kipnis-A1  A8:Si>3#   *3*:P/6    *5*:HR>b#  *7*:G/63
+             13                               
+                                              
+T.Murphy-A1  A9:K       B9:Si      C9:G/43    D9:F/8
+J.Martin-C9                                   
+F.Mejia-D3                                    
+
+

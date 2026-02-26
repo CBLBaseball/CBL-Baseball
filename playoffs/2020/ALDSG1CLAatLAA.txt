@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2020 Cleveland Indians At 2020 Los Angeles(AL) Angels     10/3/2020
+
+[1]  Indians            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  F.Lindor SS         4  1  1  1 .250     D.Peralta LF        2  0  0  0 .000  
+  J.Kipnis 2B         4  0  0  0 .000   A-P.Ervin PH,LF       1  0  0  0 .000  
+  J.Davis DH          4  0  1  0 .250     J.Choi 1B           2  0  0  0 .000  
+  M.Brantley LF       3  0  0  0 .000   C-C.Cron PH           1  1  1  11.000  
+B-J.Luplow PH,LF      1  0  0  0 .000     T.La Stella 2B      4  0  0  0 .000  
+  M.Canha 1B          4  0  0  0 .000     S.Ohtani DH         4  0  0  0 .000  
+  Y.Puig RF           3  1  1  1 .333     D.Santana CF        4  0  1  0 .250  
+  O.Mercado CF        3  1  1  0 .333     K.Calhoun RF        3  0  0  0 .000  
+  J.Ramirez 3B        3  1  1  2 .333     E.Escobar 3B        3  2  2  1 .667  
+  T.Murphy C          3  0  1  0 .333     N.Ahmed SS          3  0  1  0 .333  
+                                          A.Romine C          3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  6  4                 Totals      30  3  5  2
+
+A-Pinch Hit For Peralta In 8th Inning
+B-Pinch Hit For Brantley In 9th Inning
+C-Pinch Hit For Choi In 9th Inning
+
+Indians......... 0 3 0  0 0 0  0 1 0  -  4  6  0
+Angels.......... 0 0 1  0 0 0  0 1 1  -  3  5  0
+
+[1]Indians (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Bieber WIN(1-0)            7 2/3   4   2   2   2  10   1   2.35  A1 C9
+J.Osich HOLD(1st)            0 1/3   0   0   0   0   0   0   0.00  D1 D1
+S.Cishek SAVE(1st)           1       1   1   1   0   1   1   9.00  D2
+[1]Totals                    9       5   3   3   2  11   2
+
+[1]Angels (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Giolito LOSS(0-1)          8       6   4   4   1   7   3   4.50  A1 D3
+T.Webb                       1       0   0   0   0   2   0   0.00  D4
+[1]Totals                    9       6   4   4   1   9   3
+
+ATTENDANCE- 43,784 DATE- Saturday, October 3rd 2020 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:36
+LEFT ON BASE- Indians: 2  Angels: 2
+DOUBLE PLAYS- Indians: 2  Angels: 1
+TRIPLES- O.Mercado(1st)
+HOME RUNS- F.Lindor(1st), Y.Puig(1st), J.Ramirez(1st), C.Cron(1st),
+           E.Escobar(1st)
+RBIs- F.Lindor(1st), Y.Puig(1st), J.Ramirez-2(2nd), C.Cron(1st), E.Escobar(1st)
+WALKS- Y.Puig, D.Peralta, J.Choi
+STRIKE OUTS- F.Lindor, J.Davis-2, M.Brantley, J.Luplow, M.Canha, Y.Puig,
+             O.Mercado, J.Ramirez, D.Peralta, J.Choi-2, T.La Stella, S.Ohtani-2,
+             D.Santana-2, K.Calhoun, N.Ahmed-2
+GIDP- J.Ramirez, K.Calhoun, A.Romine
+RLISP 2-out- T.La Stella
+TEAM RISP- Indians: 1 for 1  Angels: 0 for 2
+
+Shane Bieber mowed down 10 Los Angeles(AL) batters as the Cleveland Indians
+outscored the Los Angeles(AL) Angels 4 to 3.
+
+Bieber(1-0) pitched a solid game.  He didn't give up much, just 4 hits and 2
+walks in 7 and 2/3 innings.  Los Angeles(AL) threatened in the 9th but
+Cleveland was able to put down the rally.  
+
+Steve Cishek recorded the save, his 1st.  Lucas Giolito(0-1) was tagged with
+the loss.  He was touched for 3 homeruns in his 8 innings of work.  
+
+'I had my good stuff tonight.' Bieber said. 'As the game went along I started
+to get the feeling that I was going to strike out a bunch of hitters.'
+[2]
+[1]SCORESHEET: 2020 Cleveland Indians at 2020 Los Angeles(AL) Angels
+F.Lindor-A1  A1:G/13    B1:G/43    C1:K       D1:HR>b#
+                                              
+                                              
+J.Kipnis-A1  A2:FO/2    *3*:P/6    C2:G/43    D2:L/4
+                                              
+                                              
+J.Davis-A1   A3:Si      B3:K       *6*:K      D3:G/63
+                                              
+                                              
+M.Brantl-A1  A4:F/8     B4:G/13    C4:K       *9*:K
+J.Luplow-D4                                   
+                                              
+M.Canha-A1   *2*:G/63   *4*:K      C5:F/8     D5:P/6
+                                              
+                                              
+Y.Puig-A1    A6:HR>b#   B6:G/63    *7*:W>b1   D6:K
+                                              
+                                              
+O.Mercad-A1  A7:Tr      B7:K       C7:F/7
+                                   
+                                   
+J.Ramire-A1  A8:HR>3#   *5*:K      C8:G-DP/4
+             b#                    63>1o
+                                   
+T.Murphy-A1  A9:L/6     B9:Si      *8*:L/5
+                                   
+                                   
+
+D.Peralt-A1  A1:G/63    B1:K       C1:W>b1    D1:F/9
+P.Ervin-D1                                    
+                                              
+J.Choi-A1    A2:K       *4*:K      C2:W>12 b  *9*:HR>b#
+C.Cron-D2                          1          
+                                              
+T.La Ste-A1  A3:G/43    B3:K       C3:G/31    D3:F/8
+                                              
+                                              
+S.Ohtani-A1  *2*:L/4    B4:K       *7*:K      D4:L/4
+                                              
+                                              
+D.Santan-A1  A5:Si      *5*:K      C5:G/43    D5:K
+                                              
+                                              
+K.Calhou-A1  A6:G-DP/6  B6:K       C6:F/8
+             43>1o                 
+                                   
+E.Escoba-A1  *3*:Si     B7:G/31    *8*:HR>b#
+                                   
+                                   
+N.Ahmed-A1   A8:Si>13   *6*:K      C8:K
+                                   
+                                   
+A.Romine-A1  A9:G-DP/5  B9:G/43    C9:L/4
+             43>3# 1o              
+                                   
+
+

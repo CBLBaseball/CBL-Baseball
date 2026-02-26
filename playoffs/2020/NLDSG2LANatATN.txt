@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2020 Los Angeles(NL) Dodgers At 2020 Atlanta Braves       10/4/2020
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  J.Turner 3B         4  2  2  1 .286     R.Acuna CF          4  0  2  0 .286  
+  W.Smith C           4  2  2  3 .500     F.Freeman 1B        4  0  0  0 .250  
+  E.Encarnacion 1B    4  0  0  0 .000     J.Realmuto C        3  1  0  0 .286  
+  C.Bellinger RF      4  0  0  0 .143     C.Yelich RF         4  1  1  0 .143  
+  C.Taylor SS         3  0  1  0 .333     N.Markakis LF       1  2  1  0 .400  
+C-C.Seager PH,SS      1  0  1  0 .250   D-A.Riley PH          0  0  0  0 ----  
+  J.Pederson LF       4  1  1  1 .143   E-A.Dickerson PH,LF   1  0  0  0 .000  
+  T.Beckham DH        3  0  1  0 .250     C.Blackmon DH       4  1  2  5 .250  
+F-M.Muncy PH,DH       1  0  0  0 .000     O.Albies 2B         4  0  1  0 .143  
+  E.Hernandez 2B      3  0  0  0 .000     A.Simmons SS        4  0  0  0 .000  
+G-M.Beaty PH          1  0  1  0 .500     P.Sandoval 3B       4  0  1  0 .286  
+H-A.Hechavarria 2B    0  0  0  0 .000                                          
+  J.Marisnick CF      2  1  1  1 .250                                          
+A-Y.Grandal PH        1  0  0  0 .000                                          
+B-A.Engel CF          1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6 10  6                 Totals      33  5  8  5
+
+A-Pinch Hit For Marisnick In 7th Inning
+B-Subbed Defensively (CF) For Grandal In 7th Inning
+C-Pinch Hit For Taylor In 8th Inning
+D-Pinch Hit For Markakis In 8th Inning
+E-Pinch Hit For Riley In 8th Inning
+F-Pinch Hit For Beckham In 9th Inning
+G-Pinch Hit For Hernandez In 9th Inning
+H-Subbed Defensively (2B) For Beaty In 9th Inning
+
+Dodgers......... 0 0 3  1 2 0  0 0 0  -  6 10  0
+Braves.......... 4 0 1  0 0 0  0 0 0  -  5  8  0
+
+[1]Dodgers (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler WIN(1-0)           6       8   5   5   3   7   1   7.50  A1 D1
+J.Urias HOLD(1st)            1 1/3   0   0   0   0   0   0   0.00  D2 D4
+S.Crichton HOLD(1st)         0 2/3   0   0   0   0   2   0   0.00  D5 D6
+T.Gonsolin SAVE(1st)         1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       8   5   5   3  10   1
+
+[1]Braves (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Foltynewic LOSS(0-1)       6 1/3   8   6   6   0   8   5   8.53  A1 C8
+T.Gott                       1 2/3   1   0   0   1   2   0   0.00  C9 D6
+S.Gaviglio                   1       1   0   0   1   1   0   0.00  D7
+[1]Totals                    9      10   6   6   2  11   5
+
+ATTENDANCE- 47,569 DATE- Sunday, October 4th 2020 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 3:05
+LEFT ON BASE- Dodgers: 5  Braves: 4
+DOUBLE PLAYS- Dodgers: 2  Braves: 1
+DOUBLES- J.Turner(1st), C.Seager(1st), P.Sandoval(1st)
+HOME RUNS- J.Turner(1st), W.Smith-2(2nd), J.Pederson(1st), J.Marisnick(1st),
+           C.Blackmon(1st)
+RBIs- J.Turner(1st), W.Smith-3(3rd), J.Pederson(1st), J.Marisnick(1st),
+      C.Blackmon-5(5th)
+STOLEN BASES- N.Markakis(1st)
+WALKS- J.Turner, W.Smith, J.Realmuto, N.Markakis-2
+STRIKE OUTS- J.Turner, W.Smith-2, E.Encarnacion-3, J.Pederson-2, T.Beckham,
+             E.Hernandez, J.Marisnick, R.Acuna, F.Freeman, J.Realmuto, C.Yelich,
+             A.Dickerson, C.Blackmon, O.Albies-3, P.Sandoval
+GIDP- E.Hernandez, F.Freeman, C.Blackmon
+2-out RBI- C.Blackmon-5, J.Marisnick, W.Smith-3, J.Pederson, J.Turner
+RLISP 2-out- A.Simmons, J.Realmuto, J.Pederson-2, W.Smith
+TEAM RISP- Dodgers: 1 for 3  Braves: 2 for 6
+
+Will Smith ripped 2 homeruns and had 3 RBI at Turner Field where the Los
+Angeles(NL) Dodgers beat the Atlanta Braves 6 to 5.
+
+Smith enjoyed a fine evening at the plate.  He popped a two-run clout over the
+fence in the 3rd inning and blasted a solo shot in the 5th inning.  Los
+Angeles(NL) banged out 10 hits on the night.  
+
+Walker Buehler(1-0) got the win allowing 5 runs in 6 innings. Tony Gonsolin
+recorded his 1st save.  Mike Foltynewicz(0-1) was hit with the loss.  He
+served up 5 homeruns in his 6 and 1/3 innings.  
+
+'I didn't have my best stuff but sometimes you just get lucky,' Buehler said,
+'this was one of those times.'
+[2]
+[1]SCORESHEET: 2020 Los Angeles(NL) Dodgers at 2020 Atlanta Braves
+J.Turner-A1  A1:F/9     B1:Do      C1:HR>b#   D1:K       E1:W>b1
+                                                         
+                                                         
+W.Smith-A1   A2:K       B2:HR>2#   C2:HR>b#   *8*:W>b1   E2:K
+                        b#                               
+                                                         
+E.Encarn-A1  A3:K       B3:K       C3:K       D3:P/2
+                                              
+                                              
+C.Bellin-A1  *2*:P/6    *4*:F/8    *6*:F/8    D4:L/4
+                                              
+                                              
+C.Taylor-A1  A5:F/9     B5:FO/2    C5:Si      D5:Do>13
+C.Seager-D5                                   
+                                              
+J.Peders-A1  A6:K       B6:HR>b#   C6:F/8     D6:K
+                                              
+                                              
+T.Beckha-A1  *3*:Si     B7:K       C7:F/7     *9*:G/43
+M.Muncy-D7                                    
+                                              
+E.Hernan-A1  A8:G-DP/4  *5*:K      *7*:G/43   D8:Si
+M.Beaty-D8   63>1o                            
+A.Hechav-E3                                   
+J.Marisn-A1  A9:HR>b#   B9:K       C9:G/43    D9:G/43>1
+Y.Granda-C9                                   2
+A.Engel-D2                                    
+
+R.Acuna-A1   A1:K       B1:Si      C1:G/43>2  *7*:Si
+                                   3          
+                                              
+F.Freema-A1  A2:F/8     B2:F/9     C2:K       D2:G-DP/4
+                                              63>1o
+                                              
+J.Realmu-A1  A3:W>b1    *3*:K      C3:F/8     D3:L/6
+                                              
+                                              
+C.Yelich-A1  A4:Si>13   B4:F/7     *5*:K      *8*:F/8
+                                              
+                                              
+N.Markak-A1  A5:W>12 b  B5:Si      C5:W>b1    D5:K
+A.Riley-D5   1                                
+A.Dicker-D5                                   
+C.Blackm-A1  A6:HR>3#   B6:SB>12   C6:G-DP/6  D6:K
+             2# 1# b#   Si>2#      43>1o      
+                                              
+O.Albies-A1  A7:K       B7:Si>12   *6*:K      *9*:K
+                                              
+                                              
+A.Simmon-A1  *2*:L/6    B8:P/6     C8:G/63    D8:G/43
+                                              
+                                              
+P.Sandov-A1  A9:K       *4*:Do     C9:L/4     D9:G/63
+                                              
+                                              
+
+

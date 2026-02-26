@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2020 Seattle Mariners At 2020 New York (AL) Yankees       10/3/2020
+
+[1]  Mariners           AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  B.Nimmo LF          2  1  2  01.000     G.Torres SS         4  1  1  0 .250  
+A-B.Gamel PH,LF,RF    2  0  0  0 .000     E.Sogard 2B         3  0  0  1 .000  
+  Y.Diaz 1B           5  1  2  2 .400   B-R.Cano PH,2B        2  0  2  01.000  
+  K.Marte CF,2B       4  1  1  0 .250     J.Martinez LF       4  0  1  0 .250  
+  K.Seager 3B         4  1  2  0 .500   D-B.Gardner LF        0  0  0  0 ----  
+  H.Pence DH          4  1  2  2 .500     N.Cruz DH           5  1  1  1 .200  
+  M.Kepler RF,CF      4  0  2  0 .500     A.Judge RF          4  0  1  1 .250  
+  D.Robertson 2B      3  0  1  1 .333     E.Thames 1B         4  0  1  0 .250  
+C-S.Long PH,LF        1  0  0  0 .000     G.Springer CF       3  1  1  0 .333  
+  Y.Gomes C           4  0  0  0 .000     G.Sanchez C         3  0  0  0 .000  
+  J.Polanco SS        4  0  2  0 .500     Y.Gurriel 3B        4  0  1  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 14  5                 Totals      36  3  9  3
+
+A-Pinch Hit For Nimmo In 7th Inning
+B-Pinch Hit For Sogard In 7th Inning
+C-Pinch Hit For Robertson In 8th Inning
+D-Subbed Defensively (LF) For Martinez In 9th Inning
+
+Mariners........ 1 0 2  0 0 1  0 1 0  -  5 14  0
+Yankees......... 0 0 1  1 0 0  1 0 0  -  3  9  0
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gonzales WIN(1-0)          6       7   3   3   2   5   0   4.50  A1 D1
+B.Kintzler HOLD(1st)         1       1   0   0   1   1   0   0.00  D2 D6
+B.Martin HOLD(1st)           1 1/3   1   0   0   0   1   0   0.00  D7 E2
+E.Diaz HOLD(1st)             0 1/3   0   0   0   1   0   0   0.00  E3 E4
+Z.Eflin SAVE(1st)            0 1/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    9       9   3   3   4   8   0
+
+[1]Yankees (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Yarbrough LOSS(0-1)        8      13   5   5   1   7   2   5.63  A1 D8
+M.Morin                      1       1   0   0   0   0   0   0.00  D9
+[1]Totals                    9      14   5   5   1   7   2
+
+ATTENDANCE- 48,269 DATE- Saturday, October 3rd 2020 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:56
+LEFT ON BASE- Mariners: 7  Yankees:11
+DOUBLE PLAYS- Mariners: 0  Yankees: 2
+DOUBLES- Y.Diaz(1st), H.Pence(1st), M.Kepler(1st), R.Cano(1st), N.Cruz(1st)
+HOME RUNS- Y.Diaz(1st), H.Pence(1st)
+RBIs- Y.Diaz-2(2nd), H.Pence-2(2nd), D.Robertson(1st), E.Sogard(1st),
+      N.Cruz(1st), A.Judge(1st)
+WALKS- B.Nimmo, G.Torres, B.Gardner, A.Judge, G.Sanchez
+HIT BY PITCH- K.Marte, G.Springer
+STRIKE OUTS- B.Gamel, Y.Diaz, H.Pence, M.Kepler, D.Robertson, S.Long, Y.Gomes,
+             G.Torres-2, J.Martinez, A.Judge, E.Thames, G.Springer, G.Sanchez-2
+GIDP- Y.Diaz-2
+2-out RBI- H.Pence, D.Robertson
+RLISP 2-out- J.Polanco, M.Kepler, J.Martinez, Y.Gurriel-2, Y.Gomes-2, E.Thames,
+             K.Marte, A.Judge
+TEAM RISP- Mariners: 3 for 10  Yankees: 2 for 12
+
+In a two run game the Seattle Mariners got by the New York (AL) Yankees by the
+score of 5 to 3.
+
+Seattle wasted no time and took the lead in the first inning plating an
+isolated run on 3 base hits.  Seattle had 14 hits for the night while New
+York (AL) had 9.  
+
+Marco Gonzales(1-0) went 6 innings allowing 3 runs for the win. Zach Eflin was
+credited with his 1st save.  The loss was charged to Ryan Yarbrough(0-1).  
+
+[2]
+[1]SCORESHEET: 2020 Seattle Mariners at 2020 New York (AL) Yankees
+B.Nimmo-A1   A1:Si      *3*:W>b1   *5*:Si     D1:K       E1:F/8
+B.Gamel-D1                                               
+                                                         
+Y.Diaz-A1    A2:G-DP/5  B2:HR>1#   C2:G-DP/6  D2:K       E2:Do
+             43>1o      b#         43>1o                 
+                                                         
+K.Marte-A1   A3:HBP     B3:Si      C3:F/8     D3:FO/2    E3:G/43
+                                                         
+                                                         
+K.Seager-A1  A4:Si>13   B4:G/43>1  *6*:Si     *8*:G/53
+                        2                     
+                                              
+H.Pence-A1   A5:Do>3#   B5:K       C5:G/13>1  D5:HR>b#
+             1o                    2          
+                                              
+M.Kepler-A1  *2*:Si     B6:G/43    C6:K       D6:Do
+                                              
+                                              
+D.Robert-A1  A7:K       *4*:L/4    C7:Si>2#   D7:K
+S.Long-D7                                     
+                                              
+Y.Gomes-A1   A8:G/63>1  B8:K       C8:G/63    D8:G/63
+             2                                
+                                              
+J.Polanc-A1  A9:Si>2o   B9:G/43    *7*:Si     *9*:F/8
+                                              
+                                              
+
+G.Torres-A1  A1:K       B1:Si>23   *5*:K      *7*:W>b1   *9*:F/9
+                        12                               
+                                                         
+E.Sogard-A1  A2:G/63    B2:Force/  C2:P/4     D2:Do>13   E2:Si
+R.Cano-D2               26>3# 23                         
+                        1o b1                            
+J.Martin-A1  A3:G/63    B3:F/7     C3:Si      D3:K       E3:W>12 b
+B.Gardne-E1                                              1
+                                                         
+N.Cruz-A1    *2*:G/13   *4*:Do     C4:L/6     D4:G/63>3  E4:F/7
+                                              # 23       
+                                                         
+A.Judge-A1   A5:G/63    B5:Si>2#   *6*:F/8    D5:W>b1    E5:K
+                                                         
+                                                         
+E.Thames-A1  A6:G/43    B6:K       C6:Si      D6:F/8
+                                              
+                                              
+G.Spring-A1  *3*:HBP    B7:K       C7:Si>12   *8*:G/3
+                                              
+                                              
+G.Sanche-A1  A8:F/7     B8:W>12 b  C8:K       D8:K
+                        1                     
+                                              
+Y.Gurrie-A1  A9:Si>12   B9:G/31    C9:F/9     D9:G/31
+                                              
+                                              
+
+

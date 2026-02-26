@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2020 New York (NL) Mets At 2020 Atlanta Braves           10/14/2020
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  S.Choo LF           4  0  0  0 .250     N.Markakis LF       5  0  0  0 .269  
+A-W.Myers LF          1  0  1  1 .364     R.Acuna CF          4  0  1  0 .184  
+  C.Santana 1B        5  0  2  1 .214     F.Freeman 1B        3  0  1  0 .147  
+  P.Alonso DH         5  1  1  1 .188     J.Realmuto C        3  0  0  0 .135  
+  J.McNeil 2B         3  0  1  0 .371     C.Yelich RF         3  1  1  0 .250  
+  E.Longoria 3B       4  0  1  0 .226     C.Blackmon DH       4  0  2  1 .306  
+  J.Reddick RF        4  0  2  0 .324     O.Albies 2B         4  0  2  0 .303  
+  A.Rosario SS        4  0  1  0 .286     D.Swanson SS        3  0  0  0 .333  
+C-J.Berti SS          0  0  0  0 .250   E-A.Dickerson PH      1  0  0  0 .000  
+  J.Bradley Jr CF     4  2  3  0 .217     P.Sandoval 3B       4  0  0  0 .143  
+  T.Flowers C         3  0  0  0 .111                                          
+B-T.France PH         1  0  0  0 .750                                          
+D-W.Astudillo C       0  0  0  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  3 12  3                 Totals      34  1  7  1
+
+A-Subbed Defensively (LF) For Choo In 7th Inning
+B-Pinch Hit For Flowers In 9th Inning
+C-Subbed Defensively (SS) For Rosario In 9th Inning
+D-Subbed Defensively (C ) For France In 9th Inning
+E-Pinch Hit For Swanson In 9th Inning
+
+Mets............ 1 0 0  0 0 0  1 0 1  -  3 12  0
+Braves.......... 0 0 0  0 0 0  0 0 1  -  1  7  0
+
+[1]Mets (5-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Morton WIN(2-1)            8       5   0   0   2   9   0   2.78  A1 D4
+S.Lugo SAVE(3rd)             1       2   1   1   1   2   0   6.43  D5
+[1]Totals                    9       7   1   1   3  11   0
+
+[1]Braves (5-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Soroka LOSS(1-1)           8       9   2   2   1   3   1   2.61  A1 D7
+M.Fried                      1       3   1   1   0   0   0  14.14  D8
+[1]Totals                    9      12   3   3   1   3   1
+
+ATTENDANCE- 46,341 DATE- Wednesday, October 14th 2020 TIME- Night 
+UMPIRES- Dana Demuth, Ron Kulpa, Ed Hickox, Lance Barrett
+T- 2:47
+LEFT ON BASE- Mets: 9  Braves: 9
+DOUBLE PLAYS- Mets: 0  Braves: 1
+DOUBLES- C.Santana(2nd), C.Blackmon(1st)
+HOME RUNS- P.Alonso(3rd)
+RBIs- W.Myers(2nd), C.Santana(3rd), P.Alonso(7th), C.Blackmon(14th)
+STOLEN BASES- R.Acuna(2nd), C.Yelich(5th)
+WALKS- J.McNeil, F.Freeman, J.Realmuto, C.Yelich
+STRIKE OUTS- P.Alonso-3, N.Markakis-3, F.Freeman, C.Yelich-2, C.Blackmon,
+             O.Albies, P.Sandoval-3
+GIDP- P.Alonso
+WILD PITCHES- S.Lugo
+2-out RBI- P.Alonso, C.Santana
+RLISP 2-out- J.Reddick, C.Yelich, P.Alonso, P.Sandoval, J.Realmuto,
+             N.Markakis-2
+TEAM RISP- Mets: 2 for 6  Braves: 2 for 9
+
+In a game for the baseball purist, Charlie Morton(2-1) and Mike Soroka(1-1)
+squared off in a tense pitching duel, New York (NL) Mets finally emerged
+victorious over Atlanta Braves, 3 to 1.
+
+New York (NL) started with a bang, jumping out to an early lead in their half
+of the first scoring one runner on 3 hits.  New York (NL) had 12 hits for the
+night while Atlanta had 7.  
+
+Morton got help from Seth Lugo who was credited with his 3rd save.
+[2]
+[1]SCORESHEET: 2020 New York (NL) Mets at 2020 Atlanta Braves
+S.Choo-A1    A1:F/8     B1:P/2     *5*:G/31   D1:G/43>2  E1:Si>2#
+W.Myers-D4                                    3          
+                                                         
+C.Santan-A1  A2:G/3     *3*:F/8    C2:G/43    D2:Do>3#   E2:Si>12
+                                                         
+                                                         
+P.Alonso-A1  A3:HR>b#   B3:K       C3:K       D3:K       E3:G-DP/5
+                                                         43>1o
+                                                         
+J.McNeil-A1  A4:Si      B4:W>b1    *6*:FO/2   *8*:G/53
+                                              
+                                              
+E.Longor-A1  A5:Si>12   B5:Force/  C5:G/53    D5:FO/2
+                        46>1o b1              
+                                              
+J.Reddic-A1  A6:G/63    *4*:L/4    C6:Si      D6:Si
+                                              
+                                              
+A.Rosari-A1  *2*:Si     B7:G/63    C7:FO/2    D7:G/53
+J.Berti-E4                                    
+                                              
+J.Bradle-A1  A8:P/2     B8:Si      *7*:Si     *9*:Si
+                                              
+                                              
+T.Flower-A1  A9:Force/  B9:G/63    C9:F/7>12  D9:G/63>1
+T.France-D9  54>1o b1                         2
+W.Astudi-E4                                   
+
+N.Markak-A1  A1:K       B1:K       *6*:F/8    *8*:G/43   E1:K
+                                                         
+                                                         
+R.Acuna-A1   A2:G/43    *4*:L/6    C2:G/53    D2:Si
+                                              
+                                              
+F.Freema-A1  A3:G/13    B3:W>b1    C3:Si      D3:SB>12
+                                              K
+                                              
+J.Realmu-A1  *2*:G/53   B4:F/7     C4:W>12 b  D4:G/53
+                                   1          
+                                              
+C.Yelich-A1  A5:Si      B5:K       C5:K       *9*:W>b1
+                                              
+                                              
+C.Blackm-A1  A6:K       *5*:Si     *7*:G/53   D6:SB>12
+                                              WP>23 Do>
+                                              3#
+O.Albies-A1  A7:K       B7:F/9     C7:Si      D7:Si>23
+                                              
+                                              
+D.Swanso-A1  *3*:G/63   B8:Force/  C8:G/43>1  D8:G/13>1
+A.Dicker-D8             54>1o b1   2          2
+                                              
+P.Sandov-A1  A9:K       B9:K       C9:F/8     D9:K
+                                              
+                                              
+
+

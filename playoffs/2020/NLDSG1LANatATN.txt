@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2020 Los Angeles(NL) Dodgers At 2020 Atlanta Braves       10/3/2020
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  M.Muncy 2B          4  0  0  0 .000     R.Acuna CF          3  1  0  0 .000  
+  C.Bellinger RF      3  0  1  0 .333     F.Freeman 1B        4  0  2  0 .500  
+  J.Pederson LF       3  0  0  0 .000     J.Realmuto C        4  1  2  1 .500  
+E-E.Encarnacion PH    1  0  0  0 .000     C.Yelich RF         3  0  0  0 .000  
+  D.Freese 1B         1  0  0  0 .000     N.Markakis LF       4  0  1  1 .250  
+  C.Seager SS         3  0  0  0 .000     C.Blackmon DH       4  0  0  0 .000  
+F-A.Hechavarria PH    1  0  0  0 .000     O.Albies 2B         3  0  0  0 .000  
+  M.Beaty DH          3  0  1  0 .333     D.Swanson SS        3  0  1  0 .333  
+  Y.Grandal C         3  0  0  0 .000   A-A.Simmons SS        0  0  0  0 ----  
+  J.Turner 3B         3  0  0  0 .000     P.Sandoval 3B       3  0  1  0 .333  
+  J.Marisnick CF      2  0  0  0 .000   B-R.Ruiz 3B           0  0  0  0 ----  
+C-T.Beckham PH        1  0  0  0 .000                                          
+D-A.Engel CF          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  2  0                 Totals      31  2  7  2
+
+A-Subbed Defensively (SS) For Swanson In 8th Inning
+B-Subbed Defensively (3B) For Sandoval In 8th Inning
+C-Pinch Hit For Marisnick In 8th Inning
+D-Subbed Defensively (CF) For Beckham In 8th Inning
+E-Pinch Hit For Pederson In 9th Inning
+F-Pinch Hit For Seager In 9th Inning
+
+Dodgers......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Braves.......... 1 0 0  0 0 1  0 0    -  2  7  1
+
+[1]Dodgers (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander LOSS(0-1)        8       7   2   2   2  14   0   2.25  A1
+[1]Totals                    8       7   2   2   2  14   0
+
+[1]Braves (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Soroka WIN(1-0)            8       2   0   0   3   2   0   0.00  A1 D2
+Z.Britton SAVE(1st)          1       0   0   0   1   0   0   0.00  D3
+[1]Totals                    9       2   0   0   4   2   0
+
+ATTENDANCE- 46,934 DATE- Saturday, October 3rd 2020 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:23
+LEFT ON BASE- Dodgers: 5  Braves: 7
+DOUBLE PLAYS- Dodgers: 1  Braves: 2
+ERRORS- N.Markakis
+DOUBLES- F.Freeman(1st)
+TRIPLES- J.Realmuto(1st)
+RBIs- J.Realmuto(1st), N.Markakis(1st)
+WALKS- C.Bellinger, D.Freese-3, R.Acuna, C.Yelich
+STRIKE OUTS- C.Seager, J.Turner, R.Acuna, F.Freeman-2, J.Realmuto, C.Yelich,
+             N.Markakis, C.Blackmon-2, O.Albies-2, D.Swanson-2, P.Sandoval-2
+GIDP- A.Hechavarria, Y.Grandal, C.Yelich
+PASSED BALLS- Y.Grandal
+RLISP 2-out- N.Markakis, R.Acuna, C.Seager-3, C.Blackmon
+TEAM RISP- Dodgers: 0 for 3  Braves: 2 for 9
+
+Mike Soroka had a strong outing as the Atlanta Braves defeated the Los
+Angeles(NL) Dodgers by a score of 2 to 0 at Turner Field.
+
+The game started off with Atlanta taking the lead in the first scoring one
+runner using 2 hits.  The early run support proved sufficient for Soroka(1-0)
+and Atlanta.  That was all the run support Soroka required.  Atlanta ended up
+with 7 hits for the game while Los Angeles(NL) had 2.  
+
+Soroka got help from Zack Britton who was credited with his 1st save.  The
+losing pitcher was Justin Verlander(0-1).  Despite taking the loss, he
+whiffed 14 batters in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2020 Los Angeles(NL) Dodgers at 2020 Atlanta Braves
+M.Muncy-A1   A1:F/9     B1:F/7     C1:E/7>b2  D1:L/4
+                                              
+                                              
+C.Bellin-A1  A2:P/6     *4*:Si     C2:W>b1    D2:FO/2
+                                              
+                                              
+J.Peders-A1  A3:G/31    B3:F/8     C3:L/4     *9*:G/53
+E.Encarn-D3                                   
+                                              
+D.Freese-A1  *2*:W>b1   B4:G/43>1  C4:W>23 1  D4:W>b1
+                        2          2 b1       
+                                              
+C.Seager-A1  A5:K       B5:G/63    C5:G/31    D5:G-DP/6
+A.Hechav-D5                                   43>1o
+                                              
+M.Beaty-A1   A6:Force/  *5*:Si     *7*:F/7
+             36>1o b1              
+                                   
+Y.Granda-A1  A7:L/4     B7:G-DP/4  C7:F/9
+                        63>1o      
+                                   
+J.Turner-A1  *3*:K      B8:G/53    C8:G/63
+                                   
+                                   
+J.Marisn-A1  A9:F/8     *6*:G/63   *8*:G/43
+T.Beckha-C9                        
+A.Engel-D3                         
+
+R.Acuna-A1   A1:W>b1    B1:L/6     C1:G/63    D1:K
+                                              
+                                              
+F.Freema-A1  A2:Si>13   *3*:K      C2:K       *8*:Do
+                                              
+                                              
+J.Realmu-A1  A3:Si>3#   B3:K       *6*:Tr     D3:F/8
+             12                               
+                                              
+C.Yelich-A1  A4:G-DP/4  B4:G/43    C4:K       D4:IW>b1
+             63>23 1o                         
+                                              
+N.Markak-A1  A5:G/43    *4*:F/8    C5:Si>3#   D5:K
+                                              
+                                              
+C.Blackm-A1  *2*:F/7    B6:PB+K    C6:K       D6:G/43
+                                              
+                                              
+O.Albies-A1  A7:K       B7:K       C7:G/63
+                                   
+                                   
+D.Swanso-A1  A8:Si      B8:K       *7*:K
+A.Simmon-D2                        
+                                   
+P.Sandov-A1  A9:Si>13   *5*:K      C9:K
+R.Ruiz-D2                          
+                                   
+
+

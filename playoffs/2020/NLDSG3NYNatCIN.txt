@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2020 Cincinnati Reds At 2020 New York (NL) Mets           10/7/2020
+
+[1]  Reds               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  A.Mondesi SS        5  0  1  0 .333     S.Choo LF           2  0  0  0 .273  
+  A.Bregman 3B        3  1  0  0 .143   A-W.Myers PH,LF       2  1  2  1 .333  
+  M.Conforto CF       4  1  1  1 .294     J.McNeil 2B         5  1  1  2 .278  
+  J.Soler RF          4  1  1  2 .133     P.Alonso DH         3  0  1  1 .154  
+  J.Votto 1B          4  0  0  0 .267     C.Santana 1B        3  0  0  1 .077  
+  E.Suarez DH         4  0  2  0 .353     J.Reddick RF        4  1  1  0 .250  
+  W.Calhoun LF        2  0  0  0 .308     E.Longoria 3B       4  1  2  0 .333  
+B-N.Senzel PH,LF      2  0  0  0 .000     T.Flowers C         3  1  1  3 .250  
+  J.Peraza 2B         4  0  2  0 .333     J.Bradley Jr CF     3  1  0  0 .083  
+  T.Barnhart C        2  0  1  0 .273     A.Rosario SS        4  2  1  0 .214  
+C-C.Walker PH         1  0  0  0 .000                                          
+D-C.Casali C          1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  3  8  3                 Totals      33  8  9  8
+
+A-Pinch Hit For Choo In 5th Inning
+B-Pinch Hit For Calhoun In 7th Inning
+C-Pinch Hit For Barnhart In 7th Inning
+D-Subbed Defensively (C ) For Walker In 7th Inning
+
+Reds............ 2 0 0  0 0 0  0 1 0  -  3  8  2
+Mets............ 0 1 0  2 1 4  0 0    -  8  9  1
+
+[1]Reds (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Stripling LOSS(0-1)        4       4   4   3   0   4   1   6.75  A1 B9
+A.Kolarek                    0 1/3   0   0   0   1   0   0   0.00  C1 C3
+A.Ottavino                   0 2/3   0   0   0   1   0   0   1.93  C4 C5
+C.Stammen                    2       4   4   4   1   2   0  20.25  C6 D7
+C.Sadler                     1       1   0   0   0   0   0  18.00  D8
+[1]Totals                    8       9   8   7   3   6   1
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom WIN(2-0)            6       4   2   2   1   8   1   3.65  A1 C5
+S.Dyson                      1 2/3   4   1   1   0   2   1   3.86  C6 D6
+J.Soria                      1 1/3   0   0   0   0   0   0   3.38  D7
+[1]Totals                    9       8   3   3   1  10   2
+
+ATTENDANCE- 40,525 DATE- Wednesday, October 7th 2020 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:30
+LEFT ON BASE- Reds: 7  Mets: 6
+DOUBLE PLAYS- Reds: 1  Mets: 0
+ERRORS- A.Mondesi, R.Stripling, W.Myers
+DOUBLES- J.McNeil(3rd), J.Reddick(1st)
+TRIPLES- E.Longoria(1st)
+HOME RUNS- M.Conforto(4th), J.Soler(1st), T.Flowers(1st)
+RBIs- M.Conforto(8th), J.Soler-2(2nd), W.Myers(1st), J.McNeil-2(6th),
+      P.Alonso(3rd), C.Santana(1st), T.Flowers-3(3rd)
+SACRIFICE FLIES- T.Flowers
+WALKS- A.Bregman, W.Myers, C.Santana, J.Bradley Jr
+HIT BY PITCH- P.Alonso
+STRIKE OUTS- A.Mondesi-2, A.Bregman, M.Conforto, J.Soler, J.Votto, E.Suarez-2,
+             J.Peraza, C.Walker, P.Alonso, C.Santana-2, T.Flowers-2,
+             J.Bradley Jr
+GIDP- J.Reddick
+2-out RBI- J.Soler-2, T.Flowers-2, W.Myers, J.McNeil-2, P.Alonso
+RLISP 2-out- A.Bregman, A.Mondesi, N.Senzel
+TEAM RISP- Reds: 0 for 4  Mets: 3 for 8
+
+At Citi Field the Cincinnati Reds were battered 8 to 3 by the New York (NL)
+Mets.
+
+New York (NL) jumped on top to stay in the 4th inning scoring 2 runners on 2
+hits.  The key at-bat was by Tyler Flowers who brought a roar from the
+partisan Citi Field fans when he bombed a two-run dinger.  New York (NL)
+totaled 9 hits on the night.  
+
+The victory was credited to Jacob Degrom(2-0) who went 6 innings, allowing 2
+runs. Ross Stripling(0-1) was hit with the loss.  He pitched 4 innings
+allowing 4 hits and no walks.
+
+[2]
+[1]SCORESHEET: 2020 Cincinnati Reds at 2020 New York (NL) Mets
+A.Mondes-A1  A1:G/31    *3*:K      C1:Si>12   D1:K       E1:G/43
+                                                         
+                                                         
+A.Bregma-A1  A2:W>b1    B2:K       C2:F/9     *8*:L/6
+                                              
+                                              
+M.Confor-A1  A3:FO/2    B3:F/8     *6*:K      D3:HR>b#
+                                              
+                                              
+J.Soler-A1   A4:HR>1#   *4*:K      C4:G/31    D4:G/13
+             b#                               
+                                              
+J.Votto-A1   A5:F/9     B5:L/4     C5:K       D5:E/7
+                                              
+                                              
+E.Suarez-A1  *2*:K      B6:K       *7*:Si     D6:Si>12
+                                              
+                                              
+W.Calhou-A1  A7:F/9     *5*:G/3    C7:L/6     D7:F/8
+N.Senzel-C7                                   
+                                              
+J.Peraza-A1  A8:Si      B8:K       C8:Si>12   *9*:G/31
+                                              
+                                              
+T.Barnha-A1  A9:G/31    B9:Si      C9:K       D9:G/63
+C.Walker-C9                                   
+C.Casali-D2                                   
+
+S.Choo-A1    A1:L/4     *3*:G/43   C1:W>12 b  D1:Si>2#   E1:Si
+W.Myers-C1                         1          12         
+                                                         
+J.McNeil-A1  A2:E/6     B2:F/7     C2:F/9     D2:Do>2#   E2:G/13
+                                              1#         
+                                                         
+P.Alonso-A1  A3:K       B3:G/53    C3:HBP>23  D3:Si>2#
+                                   12         
+                                              
+C.Santan-A1  A4:K       *4*:K      C4:W>3# 2  D4:G/3
+                                   3 12 b1    
+                                              
+J.Reddic-A1  *2*:Do     B5:L/4     C5:G-DP/6  *7*:L/4
+                                   43>1o      
+                                              
+E.Longor-A1  A6:E/1>23  B6:Si      *6*:Tr     D6:G/63
+                                              
+                                              
+T.Flower-A1  A7:SF/7>3  B7:HR>1#   C7:K       D7:K
+             #          b#                    
+                                              
+J.Bradle-A1  A8:Force/  B8:K       C8:IW>b1   *8*:F/8
+             54>1o b1                         
+                                              
+A.Rosari-A1  A9:F/7     *5*:Si     C9:FC/12>  D9:F/7
+                                   3o 12      
+                                              
+
+

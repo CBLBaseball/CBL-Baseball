@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2020 New York (AL) Yankees At 2020 Cleveland Indians     10/18/2020
+
+[1]  Yankees            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  B.Gardner LF        3  0  1  1 .306     F.Lindor SS         4  0  1  0 .157  
+  G.Springer RF       4  0  0  0 .292     J.Ramirez 3B        4  0  0  0 .149  
+  E.Thames 1B         4  0  2  1 .235     M.Brantley LF       4  0  0  0 .333  
+D-G.Urshela 3B        1  0  0  0 .344     M.Canha CF          2  0  0  0 .148  
+  N.Cruz DH           2  1  0  0 .341     J.Kipnis 2B         3  0  1  0 .270  
+  A.Hicks CF          4  2  2  3 .400     J.Davis DH          3  0  1  0 .261  
+  G.Torres SS         4  0  0  0 .227     G.Garcia 1B         1  0  0  0 .308  
+  R.Cano 2B           4  1  0  0 .308   A-J.Luplow PH         1  0  0  0 .000  
+  Y.Gurriel 3B,1B     4  0  1  0 .196   B-E.Adrianza 1B       1  0  0  0 .200  
+  B.McCann C          2  0  0  0 .182     Y.Puig RF           3  0  0  0 .233  
+C-J.Martinez PH       0  1  0  0 .353     T.Murphy C          3  0  0  0 .238  
+E-G.Sanchez C         1  0  0  0 .241                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  5  6  5                 Totals      29  0  3  0
+
+A-Pinch Hit For Garcia In 5th Inning
+B-Subbed Defensively (1B) For Luplow In 6th Inning
+C-Pinch Hit For McCann In 7th Inning
+D-Subbed Defensively (3B) For Thames In 7th Inning
+E-Subbed Defensively (C ) For Martinez In 7th Inning
+
+Yankees......... 0 1 0  0 0 0  1 1 2  -  5  6  0
+Indians......... 0 0 0  0 0 0  0 0 0  -  0  3  1
+
+[1]Yankees (8-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Green                      3       1   0   0   0   6   0   1.69  A1 B2
+R.Yarbrough WIN(1-1)         5       1   0   0   0   5   0   3.12  B3 C9
+K.Giles                      1       1   0   0   0   0   0   0.00  D1
+[1]Totals                    9       3   0   0   0  11   0
+
+[1]Indians (5-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Civale LOSS(1-1)           5 1/3   3   1   1   5   5   1   0.82  A1 C6
+B.Parker                     0 2/3   0   0   0   0   1   0   2.35  C7 C8
+J.Osich                      1       1   1   1   3   1   0   4.32  C9 D5
+J.Leclerc                    0 1/3   0   1   0   3   0   0   1.50  D6 E1
+R.Stephenson                 1 2/3   2   2   2   1   4   1  15.43  E2
+[1]Totals                    9       6   5   4  12  11   2
+
+ATTENDANCE- 34,448 DATE- Sunday, October 18th 2020 TIME- Night 
+UMPIRES- Marvin Hudson, Cory Blaser, Jim Joyce, Doug Eddings
+T- 2:30
+LEFT ON BASE- Yankees:13  Indians: 3
+DOUBLE PLAYS- Yankees: 1  Indians: 1
+ERRORS- J.Ramirez
+DOUBLES- B.Gardner(4th), E.Thames(1st), Y.Gurriel(2nd)
+HOME RUNS- A.Hicks-2(4th)
+RBIs- B.Gardner(9th), E.Thames(3rd), A.Hicks-3(7th)
+STOLEN BASES- M.Canha(1st)
+WALKS- B.Gardner-2, G.Springer, N.Cruz-3, A.Hicks, G.Torres, R.Cano, Y.Gurriel,
+       J.Martinez, G.Sanchez
+HIT BY PITCH- M.Canha
+STRIKE OUTS- B.Gardner, G.Springer-2, E.Thames, A.Hicks-2, G.Torres, R.Cano-3,
+             G.Sanchez, F.Lindor-3, J.Ramirez, M.Canha, J.Davis-2, G.Garcia,
+             T.Murphy-3
+GIDP- G.Springer, M.Brantley
+2-out RBI- E.Thames
+RLISP 2-out- Y.Puig, A.Hicks-2, Y.Gurriel-2, G.Urshela-2, G.Sanchez
+TEAM RISP- Yankees: 1 for 12  Indians: 1 for 4
+
+Center fielder Aaron Hicks blasted 2 homeruns and had 3 RBI and Ryan Yarbrough
+had an impressive outing at Progressive Field where the New York (AL) Yankees
+beat the Cleveland Indians 5 to 0.
+
+Hicks enjoyed a big evening at the plate.  He ripped a solo home run in the
+2nd inning and clubbed a two-run home run in the 9th inning.  New York (AL)
+out-hit Cleveland for the game, 6 hits to 3.  
+
+The victory was credited to Yarbrough(1-1) who went 5 innings, allowing no
+runs. Aaron Civale(1-1) was the losing pitcher.  He gave up 3 hits and 5
+walks in 5 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2020 New York (AL) Yankees at 2020 Cleveland Indians
+B.Gardne-A1  A1:K       *3*:Do     C1:F/9     D1:W>12 b  E1:W>3# 2
+                                              1          3 12 b1
+                                                         
+G.Spring-A1  A2:W>b1    B2:F/8     C2:K       D2:G-DP/5  E2:K
+                                              43>23 1o   
+                                                         
+E.Thames-A1  A3:K       B3:G/13    *6*:Do     D3:Si>3#   E3:G/63
+G.Urshel-D6                                              
+                                                         
+N.Cruz-A1    A4:G/63    B4:IW>b1   C4:G/43>2  D4:W>12 b  *9*:W>b1
+                                   3          1          
+                                                         
+A.Hicks-A1   *2*:HR>b#  B5:K       C5:W>b1    D5:K       E5:HR>1#
+                                                         b#
+                                                         
+G.Torres-A1  A6:G/43    *4*:G/31   C6:W>12 b  *8*:G/13   E6:K
+                                   1                     
+                                                         
+R.Cano-A1    A7:K       B7:G/31    C7:K       D7:W>b1    E7:K
+                                                         
+                                                         
+Y.Gurrie-A1  A8:W>b1    B8:F/8     C8:G/13    D8:E/5>12  E8:Do
+                                                         
+                                                         
+B.McCann-A1  A9:G/63    *5*:G/63   *7*:IW>b1  D9:W>23 1  E9:K
+J.Martin-C9                                   2 b1       
+G.Sanche-D6                                              
+
+F.Lindor-A1  A1:K       B1:K       *6*:K      *9*:Si
+                                              
+                                              
+J.Ramire-A1  A2:G/43    B2:K       C2:F/8     D2:P/4
+                                              
+                                              
+M.Brantl-A1  A3:F/8     *4*:G/3    C3:G/43    D3:G-DP/3
+                                              63>1o
+                                              
+M.Canha-A1   *2*:HBP    B4:K       *7*:F/7
+                                   
+                                   
+J.Kipnis-A1  A5:SB>12   B5:F/7     C5:F/9
+             Si>23                 
+                                   
+J.Davis-A1   A6:K       *5*:Si     C6:K
+                                   
+                                   
+G.Garcia-A1  A7:K       B7:L/6     *8*:F/7
+J.Luplow-B7                        
+E.Adrian-C1                        
+Y.Puig-A1    A8:F/9     B8:L/5     C8:F/8
+                                   
+                                   
+T.Murphy-A1  *3*:K      B9:K       C9:K
+                                   
+                                   
+
+

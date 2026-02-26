@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2020 New York (AL) Yankees At 2020 Atlanta Braves        10/26/2020
+
+[1]  Yankees            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  G.Urshela 3B        1  0  1  0 .333     N.Markakis LF       5  1  2  2 .313  
+A-E.Thames PH,1B      2  2  2  0 .316     J.Realmuto C        5  1  1  0 .131  
+  B.Gardner LF        4  1  2  0 .289     C.Yelich RF         4  1  1  0 .259  
+  G.Springer RF       3  1  1  1 .288     R.Acuna CF          4  3  2  3 .188  
+  N.Cruz DH           3  0  1  2 .288     F.Freeman 1B        4  2  3  5 .185  
+  A.Hicks CF          3  0  0  1 .333     C.Blackmon DH       4  1  1  0 .328  
+  G.Torres SS         4  0  0  0 .204     O.Albies 2B         4  1  1  0 .259  
+  Y.Gurriel 1B,3B     3  0  0  0 .236     R.Ruiz 3B           4  1  1  1 .139  
+  G.Sanchez C         3  0  0  0 .229     D.Swanson SS        4  1  1  1 .308  
+  D.Solano 2B         3  0  0  0 .400                                          
+B-E.Sogard PH         1  0  0  0 .172                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  4  7  4                 Totals      38 12 13 12
+
+A-Pinch Hit For Urshela In 7th Inning
+B-Pinch Hit For Solano In 9th Inning
+
+Yankees......... 0 0 0  0 0 0  1 0 3  -  4  7  2
+Braves.......... 0 0 0  0 0 9  0 3    - 12 13  0
+
+[1]Yankees (10-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Tanaka LOSS(2-1)           5       5   3   3   2   4   1   4.05  A1 C6
+C.Green                      1       4   6   6   2   1   1   6.17  C7 D6
+R.Cano                       2       4   3   3   0   1   1         D7
+[1]Totals                    8      13  12  12   4   6   3
+
+[1]Braves (9-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Teheran WIN(2-1)           9       7   4   4  10   7   0   2.25  A1
+[1]Totals                    9       7   4   4  10   7   0
+
+ATTENDANCE- 47,060 DATE- Monday, October 26th 2020 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 3:24
+LEFT ON BASE- Yankees:11  Braves: 7
+DOUBLE PLAYS- Yankees: 1  Braves: 2
+ERRORS- G.Urshela, G.Torres
+DOUBLES- E.Thames(2nd), G.Springer(3rd), N.Markakis(1st), R.Acuna(2nd),
+         O.Albies(1st)
+TRIPLES- C.Blackmon(1st)
+HOME RUNS- R.Acuna(4th), F.Freeman-2(5th)
+RBIs- G.Springer(8th), N.Cruz-2(12th), A.Hicks(8th), N.Markakis-2(6th),
+      R.Acuna-3(7th), F.Freeman-5(9th), R.Ruiz(1st), D.Swanson(6th)
+STOLEN BASES- O.Albies(3rd), D.Swanson(1st)
+SACRIFICE FLIES- G.Springer, A.Hicks
+WALKS- G.Urshela-2, B.Gardner, G.Springer, N.Cruz-2, A.Hicks, G.Torres,
+       Y.Gurriel, G.Sanchez, C.Yelich, R.Acuna, F.Freeman, O.Albies
+HIT BY PITCH- C.Blackmon
+STRIKE OUTS- B.Gardner, N.Cruz-2, A.Hicks, G.Torres, Y.Gurriel, D.Solano,
+             N.Markakis-2, J.Realmuto-2, C.Yelich, O.Albies
+GIDP- G.Springer, G.Sanchez, C.Blackmon
+2-out RBI- F.Freeman-3
+RLISP 2-out- A.Hicks-2, D.Swanson-2, G.Torres-2, R.Acuna
+TEAM RISP- Yankees: 1 for 11  Braves: 6 for 13
+
+First baseman Freddie Freeman blasted 2 homeruns and had 5 RBI and Julio
+Teheran was able to finish what he started and was credited with a complete
+game at Turner Field where the Atlanta Braves beat the New York (AL) Yankees
+12 to 4.
+
+Freeman had a great evening at the plate.  He had the crowd cheering his every
+move.  He lifted one out of the park for a two run home run in the 6th
+inning, belted a three-run homer in the 6th inning and lined a one-base hit
+in the 8th inning.  Neither team was able to score until the 6th inning.
+
+Teheran(2-1) got the victory, allowing 4 runs for the game. Masahiro
+Tanaka(2-1) ended up with the loss.  He gave up 3 runs and 5 hits in 5
+innings.  
+
+'After the stretch we have been through lately, this victory is especially
+sweet' offered Don Decker.  Now, we just have to make this the norm - not the
+exception!'
+[2]
+[1]SCORESHEET: 2020 New York (AL) Yankees at 2020 Atlanta Braves
+G.Urshel-A1  A1:Si      *3*:W>b1   *5*:W>b1   *7*:Do     E1:Si
+E.Thames-D1                                              
+                                                         
+B.Gardne-A1  A2:W>12 b  B2:K       C2:Si>12   D2:F/9>23  E2:Si>12
+             1                                           
+                                                         
+G.Spring-A1  A3:G-DP/4  B3:Do>13   C3:Force/  D3:SF/7>3  E3:W>23 1
+             63>23 1o              36>23 1o   #          2 b1
+                                   b1                    
+N.Cruz-A1    A4:IW>b1   B4:IW>b1   C4:K       D4:K       E4:Si>3#
+                                                         2# 13
+                                                         
+A.Hicks-A1   A5:Force/  B5:K       C5:F/8     *8*:W>b1   E5:SF/8>3
+             64>1o b1                                    #
+                                                         
+G.Torres-A1  *2*:P/4    B6:K       *6*:F/9    D6:W>12 b  E6:F/7
+                                              1          
+                                                         
+Y.Gurrie-A1  A7:K       *4*:G/31   C7:W>b1    D7:F/8
+                                              
+                                              
+G.Sanche-A1  A8:W>b1    B8:F/8     C8:L/5     D8:G-DP/5
+                                              4>2o 1o
+                                              
+D.Solano-A1  A9:K       B9:F/9     C9:G/43    *9*:F/7
+E.Sogard-D9                                   
+                                              
+
+N.Markak-A1  A1:K       *3*:G/43   *5*:K      D1:SB>12   *8*:Do
+                                              Si>3# 2#   
+                                                         
+J.Realmu-A1  A2:K       B2:E/5>b2  C2:G/63    D2:Si      E2:K
+                                                         
+                                                         
+C.Yelich-A1  A3:W>b1    B3:G/43>2  C3:L/4     D3:K       E3:Si>23
+                        3                                
+                                                         
+R.Acuna-A1   A4:L/6     B4:F/9     *6*:Do     D4:W>12 b  E4:HR>3#
+                                              1          1# b#
+                                                         
+F.Freema-A1  *2*:G/43   *4*:W>b1   C5:HR>2#   D5:HR>2#   E5:Si
+                                   b#         1# b#      
+                                                         
+C.Blackm-A1  A6:HBP     B6:G-DP/4  C6:Tr      D6:G/63    E6:L/4
+                        63>1o                            
+                                                         
+O.Albies-A1  A7:K       B7:Do      C7:W>b1    *7*:F/7    E7:G/31
+                                                         
+                                                         
+R.Ruiz-A1    A8:Si>12   B8:E/6>23  C8:SB>12   D8:G/43
+                                   FC/62>3#   
+                                   23         
+D.Swanso-A1  A9:F/8     B9:G/3     C9:Si>3#   D9:P/2
+                                   13         
+                                              
+
+

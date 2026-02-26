@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2020 Los Angeles(AL) Angels At 2020 Cleveland Indians     10/6/2020
+
+[1]  Angels             AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  D.Peralta LF        2  0  0  0 .143     F.Lindor SS         4  0  1  0 .154  
+E-P.Ervin PH          1  0  0  0 .000     J.Ramirez 3B        4  0  0  0 .182  
+F-M.Maldonado C       0  0  0  0 .000     J.Luplow LF         3  0  0  0 .000  
+  J.Choi 1B           3  0  1  0 .143   I-M.Brantley PH,LF    1  0  1  0 .429  
+G-C.Cron PH,1B        2  0  0  0 .333     J.Martinez DH       2  0  0  0 .000  
+  T.La Stella 2B      3  0  1  0 .091   A-G.Garcia PH,DH      0  0  0  0 .000  
+H-N.Ahmed PH,SS       1  0  1  0 .429   J-J.Davis PH,DH       1  0  0  0 .250  
+  S.Ohtani DH         4  0  0  0 .083     O.Mercado CF        4  0  0  0 .111  
+  D.Santana CF        3  0  1  0 .200     Y.Puig RF           4  0  1  0 .300  
+  K.Calhoun RF        4  1  2  1 .182     M.Ford 1B           2  0  0  0 .000  
+  E.Escobar 3B        3  0  0  0 .333     T.Murphy C          2  2  2  1 .375  
+  D.Fletcher SS,2B    3  0  0  0 .000   B-J.Kipnis PH         1  0  0  0 .222  
+  A.Romine C          2  0  0  0 .000   C-F.Mejia C           0  0  0  0 ----  
+D-C.Maybin PH,LF      1  0  0  0 .000     E.Adrianza 2B       3  1  1  2 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  6  1                 Totals      31  3  6  3
+
+A-Pinch Hit For Martinez In 6th Inning
+B-Pinch Hit For Murphy In 6th Inning
+C-Subbed Defensively (C ) For Kipnis In 7th Inning
+D-Pinch Hit For Romine In 7th Inning
+E-Pinch Hit For Peralta In 7th Inning
+F-Subbed Defensively (C ) For Ervin In 7th Inning
+G-Pinch Hit For Choi In 8th Inning
+H-Pinch Hit For La Stella In 8th Inning
+I-Pinch Hit For Luplow In 8th Inning
+J-Pinch Hit For Garcia In 8th Inning
+
+Angels.......... 0 0 0  0 0 0  0 0 1  -  1  6  1
+Indians......... 0 0 1  0 2 0  0 0    -  3  6  0
+
+[1]Angels (0-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Skaggs LOSS(0-1)           4 1/3   5   3   3   0   2   2   6.23  A1 C1
+F.Pena                       2 2/3   0   0   0   2   3   0   0.00  C2 D2
+R.Pressly                    1       1   0   0   0   2   0   0.00  D3
+[1]Totals                    8       6   3   3   2   7   2
+
+[1]Indians (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Civale WIN(1-0)            5 2/3   3   0   0   2   3   0   0.00  A1 C5
+B.Parker                     0 1/3   1   0   0   0   0   0   0.00  C6 C7
+R.Stephenson                 0 2/3   0   0   0   0   0   0   0.00  C8 C9
+J.Osich HOLD(2nd)            1 1/3   2   1   1   0   3   1   5.40  D1 D6
+S.Cishek SAVE(2nd)           1       0   0   0   2   1   0   4.50  D7
+[1]Totals                    9       6   1   1   4   7   1
+
+ATTENDANCE- 35,855 DATE- Tuesday, October 6th 2020 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:43
+LEFT ON BASE- Angels:10  Indians: 6
+DOUBLE PLAYS- Angels: 0  Indians: 1
+ERRORS- E.Escobar
+DOUBLES- D.Santana(1st)
+HOME RUNS- K.Calhoun(1st), T.Murphy(1st), E.Adrianza(1st)
+RBIs- K.Calhoun(1st), T.Murphy(1st), E.Adrianza-2(2nd)
+WALKS- D.Peralta, M.Maldonado, D.Fletcher, C.Maybin, G.Garcia, M.Ford
+HIT BY PITCH- D.Santana, E.Escobar
+STRIKE OUTS- C.Cron-2, S.Ohtani-2, D.Santana, K.Calhoun, E.Escobar, F.Lindor,
+             J.Ramirez, J.Luplow, J.Martinez, J.Davis, Y.Puig-2
+RLISP 2-out- K.Calhoun-2, A.Romine-2, J.Kipnis, C.Cron
+TEAM RISP- Angels: 0 for 5  Indians: 0 for 1
+
+Aaron Civale(1-0) and Tyler Skaggs(0-1) locked horns in a pitcher's duel with
+Civale and the Cleveland Indians coming out on top of the Los Angeles(AL)
+Angels 3 to 1.
+
+Civale pitched well for Cleveland in their victory.  He was reached for 3 hits
+and 2 walks in 5 and 2/3 innings.  Both teams ended up with 6 hits on the
+night.  
+
+Steve Cishek earned his 2nd save.
+[2]
+[1]SCORESHEET: 2020 Los Angeles(AL) Angels at 2020 Cleveland Indians
+D.Peralt-A1  A1:G/63    *3*:F/8    *5*:W>b1   D1:G/63    E1:W>12 b
+P.Ervin-D1                                               1
+M.Maldon-D2                                              
+J.Choi-A1    A2:Si      B2:G/43    C2:L-DP/3  *8*:K      E2:K
+C.Cron-D2                          >1o                   
+                                                         
+T.La Ste-A1  A3:Si>13   B3:G/13    C3:L/3     D3:Si
+N.Ahmed-D3                                    
+                                              
+S.Ohtani-A1  A4:L/3     *4*:G/63   *6*:K      D4:K
+                                              
+                                              
+D.Santan-A1  A5:HBP>12  B5:Do      C5:F/9     D5:K
+                                              
+                                              
+K.Calhou-A1  A6:F/9     B6:K       C6:Si      *9*:HR>b#
+                                              
+                                              
+E.Escoba-A1  *2*:K      B7:HBP     C7:G/43    D7:F/8
+                                              
+                                              
+D.Fletch-A1  A8:G/63    B8:W>23 1  *7*:F/9    D8:L/5
+                        2 b1                  
+                                              
+A.Romine-A1  A9:L/6     B9:L/5     C9:F/7     D9:W>b1
+C.Maybin-C9                                   
+                                              
+
+F.Lindor-A1  A1:G/13    B1:G/63    C1:Si      D1:K
+                                              
+                                              
+J.Ramire-A1  A2:L/6     B2:G/53    C2:K       D2:L/4
+                                              
+                                              
+J.Luplow-A1  A3:G/53    *4*:FO/2   C3:K       *8*:Si
+M.Brantl-D3                                   
+                                              
+J.Martin-A1  *2*:G/43   B4:K       *6*:W>b1   D4:K
+G.Garcia-C4                                   
+J.Davis-D4                                    
+O.Mercad-A1  A5:L/6     B5:E/5     C5:Force/  D5:F/9
+                                   26>1o b1   
+                                              
+Y.Puig-A1    A6:Si      B6:K       C6:G/43>1  D6:K
+                                   2          
+                                              
+M.Ford-A1    A7:G/53    *5*:G/13   C7:IW>b1
+                                   
+                                   
+T.Murphy-A1  *3*:HR>b#  B8:Si      C8:G/3
+J.Kipnis-C8                        
+F.Mejia-C9                         
+E.Adrian-A1  A9:G/13    B9:HR>1#   *7*:G/13
+                        b#         
+                                   
+
+

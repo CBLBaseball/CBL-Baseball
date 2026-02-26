@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2020 Cincinnati Reds At 2020 New York (NL) Mets           10/8/2020
+
+[1]  Reds               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  J.Votto 1B          4  0  0  0 .211     S.Choo LF           3  1  1  0 .286  
+  A.Bregman SS        2  1  0  0 .125   A-W.Myers LF          1  0  0  0 .286  
+  M.Conforto CF       4  0  0  0 .238     J.McNeil 2B         4  2  3  2 .364  
+  E.Suarez 3B         4  2  2  2 .381     P.Alonso DH         4  0  1  1 .176  
+  N.Senzel LF         3  0  0  0 .000     C.Santana 1B        3  0  2  0 .188  
+  J.Soler DH          4  0  0  1 .105     J.Reddick RF        4  0  0  0 .200  
+  J.Peraza 2B         4  0  1  0 .308     E.Longoria 3B       3  0  0  0 .278  
+  D.Santana RF        4  0  1  0 .250     W.Astudillo C       4  2  2  2 .500  
+  C.Casali C          3  0  0  0 .000     J.Bradley Jr CF     4  0  0  0 .063  
+                                          A.Rosario SS        4  0  1  0 .222  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  4  3                 Totals      34  5 10  5
+
+A-Subbed Defensively (LF) For Choo In 8th Inning
+
+Reds............ 2 0 0  0 0 1  0 0 0  -  3  4  0
+Mets............ 2 0 0  1 1 0  0 1    -  5 10  1
+
+[1]Reds (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish LOSS(0-1)          3       5   3   3   2   4   2   5.63  A1 B7
+M.Lorenzen                   1       3   1   1   0   1   0   9.00  B8 C4
+A.Kolarek                    0 1/3   0   0   0   0   0   0   0.00  C5 C5
+J.Webb                       0 2/3   0   0   0   0   0   0   7.71  C6 C7
+C.Sadler                     1       1   0   0   0   1   0   9.00  C8 D2
+H.Wood                       1       1   1   1   1   1   1   9.00  D3 D7
+J.Gustave                    1       0   0   0   0   1   0   0.00  D8
+[1]Totals                    8      10   5   5   3   8   3
+
+[1]Mets (3-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Morton WIN(1-1)            8       4   3   2   2   9   1   4.30  A1 D5
+S.Lugo SAVE(2nd)             1       0   0   0   0   2   0   6.00  D6
+[1]Totals                    9       4   3   2   2  11   1
+
+ATTENDANCE- 40,101 DATE- Thursday, October 8th 2020 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:46
+LEFT ON BASE- Reds: 5  Mets: 8
+DOUBLE PLAYS- Reds: 0  Mets: 0
+ERRORS- A.Rosario
+DOUBLES- E.Suarez(1st), J.Peraza(1st), J.McNeil(4th), C.Santana(1st)
+TRIPLES- J.McNeil(1st)
+HOME RUNS- E.Suarez(3rd), J.McNeil(2nd), W.Astudillo-2(2nd)
+RBIs- E.Suarez-2(4th), J.Soler(3rd), J.McNeil-2(8th), P.Alonso(4th),
+      W.Astudillo-2(2nd)
+WALKS- A.Bregman, N.Senzel, S.Choo, C.Santana, E.Longoria
+HIT BY PITCH- A.Bregman
+STRIKE OUTS- J.Votto-2, A.Bregman, M.Conforto-3, E.Suarez, J.Soler-2,
+             D.Santana-2, S.Choo, P.Alonso-3, J.Reddick, E.Longoria,
+             J.Bradley Jr, A.Rosario
+2-out RBI- E.Suarez-2
+RLISP 2-out- W.Astudillo-3, P.Alonso-2, D.Santana-2
+TEAM RISP- Reds: 0 for 3  Mets: 1 for 6
+
+In a two run game the New York (NL) Mets got by the Cincinnati Reds by the
+score of 5 to 3.
+
+Jeff McNeil had a good evening at the plate.  He popped a two-run clout over
+the fence in the 1st inning, doubled in the 2nd inning and tripled in the 5th
+inning.  New York (NL) ended up with 10 hits for the game while Cincinnati
+had 4.  
+
+Charlie Morton(1-1) was the winner allowing 3 runs in 8 innings. Seth Lugo
+earned his 2nd save.  Yu Darvish(0-1) absorbed the loss.  He allowed 3 runs
+and 5 hits in 3 innings.  
+
+[2]
+[1]SCORESHEET: 2020 Cincinnati Reds at 2020 New York (NL) Mets
+J.Votto-A1   A1:G/63    *3*:K      C1:G/3     D1:K
+                                              
+                                              
+A.Bregma-A1  A2:W>b1    B2:K       C2:P/4     *8*:HBP
+                                              
+                                              
+M.Confor-A1  A3:K       B3:K       *6*:G/63   D3:K
+                                              
+                                              
+E.Suarez-A1  A4:HR>1#   *4*:G/3    C4:Do      D4:K
+             b#                               
+                                              
+N.Senzel-A1  A5:F/8     B5:W>b1    C5:E/6>23  D5:L/6
+                                              
+                                              
+J.Soler-A1   *2*:G/63   B6:K       C6:Force/  *9*:K
+                                   54>3# 1o   
+                                   b1         
+J.Peraza-A1  A7:G/43    B7:Do>13   C7:F/9     D7:FO/3
+                                              
+                                              
+D.Santan-A1  A8:Si      B8:K       *7*:L/4    D8:K
+                                              
+                                              
+C.Casali-A1  A9:G/43    *5*:L/6    C9:G/43
+                                   
+                                   
+
+S.Choo-A1    A1:W>b1    B1:Si      C1:G/23    D1:K       E1:G/63
+W.Myers-D7                                               
+                                                         
+J.McNeil-A1  A2:HR>1#   B2:Do>13   *5*:Tr     D2:F/8
+             b#                               
+                                              
+P.Alonso-A1  A3:K       B3:K       C3:Si>3#   *7*:K
+                                              
+                                              
+C.Santan-A1  A4:Si      *3*:FO/2   C4:Do>13   D4:W>b1
+                                              
+                                              
+J.Reddic-A1  A5:K       B5:G/53    C5:FO/2    D5:P/4
+                                              
+                                              
+E.Longor-A1  A6:W>12 b  B6:K       C6:G/13    D6:F/7
+             1                                
+                                              
+W.Astudi-A1  A7:G/53    *4*:HR>b#  C7:F/8     *8*:HR>b#
+                                              
+                                              
+J.Bradle-A1  *2*:G/43   B8:K       *6*:G/3    D8:G/43
+                                              
+                                              
+A.Rosari-A1  A9:G/63    B9:G/53    C9:Si      D9:K
+                                              
+                                              
+
+

@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2020 Atlanta Braves At 2020 Los Angeles(NL) Dodgers       10/7/2020
+
+[1]  Braves             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  F.Freeman 1B        4  0  1  0 .200     J.Turner 3B         4  0  1  0 .214  
+  R.Acuna CF          4  0  0  0 .143     C.Bellinger RF      3  0  0  0 .231  
+  C.Blackmon DH       3  1  1  1 .214     E.Encarnacion 1B    3  0  0  0 .083  
+  J.Realmuto C        4  0  0  0 .143     W.Smith C           3  0  0  0 .286  
+  C.Yelich RF         4  0  1  0 .200     J.Pederson LF       3  1  1  0 .200  
+  A.Dickerson LF      3  0  0  0 .000     C.Seager SS         1  1  0  0 .167  
+A-A.Riley PH          0  0  0  0 .333     C.Taylor CF         2  0  0  0 .125  
+B-N.Markakis PH       1  0  1  0 .500     M.Muncy DH          3  0  0  0 .000  
+  R.Ruiz 3B           3  0  0  0 .000     E.Hernandez 2B      3  0  1  1 .125  
+  O.Albies 2B         2  0  0  0 .308                                          
+  A.Simmons SS        3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      25  2  3  1
+
+A-Pinch Hit For Dickerson In 9th Inning
+B-Pinch Hit For Riley In 9th Inning
+
+Braves.......... 0 0 0  1 0 0  0 0 0  -  1  4  1
+Dodgers......... 0 0 0  0 0 0  0 2    -  2  3  0
+
+[1]Braves (1-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Teheran LOSS(0-1)          7       2   2   2   2   5   0   2.57  A1 C6
+D.Hudson BS(1st)             1       1   0   0   0   0   0   0.00  C7
+[1]Totals                    8       3   2   2   2   5   0
+
+[1]Dodgers (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander                  7 2/3   3   1   1   2  14   1   1.72  A1 D1
+S.Crichton WIN(1-0)          0 1/3   0   0   0   0   1   0   0.00  D2 D2
+A.Chapman HOLD(2nd)          0 2/3   0   0   0   1   1   0   0.00  D3 D5
+T.Gonsolin SAVE(3rd)         0 1/3   1   0   0   0   0   0   0.00  D6
+[1]Totals                    9       4   1   1   3  16   1
+
+ATTENDANCE- 51,394 DATE- Wednesday, October 7th 2020 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:04
+LEFT ON BASE- Braves: 6  Dodgers: 2
+DOUBLE PLAYS- Braves: 2  Dodgers: 0
+ERRORS- F.Freeman
+DOUBLES- E.Hernandez(1st)
+HOME RUNS- C.Blackmon(2nd)
+RBIs- C.Blackmon(6th), E.Hernandez(1st)
+SACRIFICE HITS- C.Taylor
+WALKS- C.Blackmon, R.Ruiz, O.Albies, C.Seager-2
+STRIKE OUTS- F.Freeman-3, R.Acuna-3, C.Blackmon, J.Realmuto-3, C.Yelich-2,
+             A.Dickerson-2, R.Ruiz, O.Albies, C.Bellinger, J.Pederson, C.Taylor,
+             M.Muncy, E.Hernandez
+GIDP- C.Bellinger, C.Taylor
+WILD PITCHES- D.Hudson
+2-out RBI- E.Hernandez
+RLISP 2-out- F.Freeman, R.Acuna, J.Turner, R.Ruiz
+TEAM RISP- Braves: 0 for 5  Dodgers: 1 for 3
+
+Justin Verlander retired 14 batters on strikeouts at Dodger Stadium where the
+Los Angeles(NL) Dodgers beat the Atlanta Braves by the score of 2 to
+1.
+
+Stefan Crichton(1-0) came on to close the door tight in relief.  He was
+flawless in relief in his 1/3 of an inning.  Atlanta had a chance to come
+back in the 9th but they came up short.  
+
+Tony Gonsolin earned his 3rd save.  Julio Teheran(0-1) absorbed the loss.  He
+pitched 7 innings allowing only 2 hits and 2 walks. 'Some losses are harder
+to take than others' Don Decker lamented after the game.  'This was one of
+them.'
+[2]
+[1]SCORESHEET: 2020 Atlanta Braves at 2020 Los Angeles(NL) Dodgers
+F.Freema-A1  A1:K       B1:K       *6*:Si     D1:K
+                                              
+                                              
+R.Acuna-A1   A2:K       *4*:K      C2:F/7     D2:K
+                                              
+                                              
+C.Blackm-A1  A3:F/9     B3:HR>b#   C3:K       *9*:W>b1
+                                              
+                                              
+J.Realmu-A1  *2*:G/13   B4:K       C4:K       D4:K
+                                              
+                                              
+C.Yelich-A1  A5:K       B5:Si      *7*:K      D5:F/8
+                                              
+                                              
+A.Dicker-A1  A6:L/4     B6:K       C6:K       D6:Si>12
+A.Riley-D6                                    
+N.Markak-D6                                   
+R.Ruiz-A1    *3*:W>b1   *5*:K      C7:G/63    D7:P/4
+                                              
+                                              
+O.Albies-A1  A8:G/13>1  B8:K       *8*:W>b1
+             2                     
+                                   
+A.Simmon-A1  A9:F/9     B9:G/13    C9:G/3>12
+                                   
+                                   
+
+J.Turner-A1  A1:Si      B1:P/3     C1:G/53    D1:P/6
+                                              
+                                              
+C.Bellin-A1  A2:G-DP/6  *4*:K      *7*:P/6
+             43>1o                 
+                                   
+E.Encarn-A1  A3:L/5     B3:P/6     C3:F/8
+                                   
+                                   
+W.Smith-A1   *2*:L/6    B4:G/13    C4:L/6
+                                   
+                                   
+J.Peders-A1  A5:K       *5*:F/7    *8*:Si
+                                   
+                                   
+C.Seager-A1  A6:L/4     B6:W>b1    C6:W>12 b
+                                   1
+                                   
+C.Taylor-A1  *3*:K      B7:G-DP/6  C7:Sac/34
+                        43>1o      >23 12
+                                   
+M.Muncy-A1   A8:K       *6*:G/53   C8:G/43
+                                   
+                                   
+E.Hernan-A1  A9:E/3     B9:K       C9:WP>3#
+                                   23 Do>3#
+                                   
+
+

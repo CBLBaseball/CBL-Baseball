@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2020 New York (NL) Mets At 2020 Cincinnati Reds           10/3/2020
+
+[1]  Mets               AB  R  H RBI AVG     Reds               AB  R  H RBI AVG
+  S.Choo LF           4  1  2  2 .500     J.Votto 1B          3  0  1  0 .333  
+A-W.Myers LF          1  0  0  0 .000   E-C.Walker PH,1B      1  0  0  0 .000  
+  J.McNeil 2B         5  0  2  1 .400     A.Bregman SS        4  0  1  0 .250  
+  P.Alonso DH         4  0  0  0 .000     M.Conforto CF       4  1  1  1 .250  
+  C.Santana 1B        3  0  0  0 .000     J.Gallo RF          4  1  1  1 .250  
+  J.Reddick RF        4  2  2  0 .500     E.Suarez 3B         4  0  0  0 .000  
+  E.Longoria 3B       4  1  2  3 .500     W.Calhoun LF        4  2  3  1 .750  
+  T.Flowers C         3  1  1  0 .333     J.Soler DH          3  0  0  0 .000  
+C-J.Berti PH          1  0  0  0 .000     J.Peraza 2B         2  0  1  0 .500  
+D-W.Astudillo C       0  0  0  0 ----   B-R.Odor PH,2B        2  0  0  0 .000  
+  J.Bradley Jr CF     3  2  1  1 .333     T.Barnhart C        2  0  0  1 .000  
+  A.Rosario SS        4  0  1  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  7 11  7                 Totals      33  4  8  4
+
+A-Subbed Defensively (LF) For Choo In 7th Inning
+B-Pinch Hit For Peraza In 7th Inning
+C-Pinch Hit For Flowers In 8th Inning
+D-Subbed Defensively (C ) For Berti In 8th Inning
+E-Pinch Hit For Votto In 8th Inning
+
+Mets............ 0 0 0  0 2 0  5 0 0  -  7 11  0
+Reds............ 0 0 0  0 1 1  1 0 1  -  4  8  0
+
+[1]Mets (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom WIN(1-0)            6 1/3   6   3   3   1   7   2   4.26  A1 C7
+S.Dyson                      0 2/3   0   0   0   0   1   0   0.00  C8 C9
+P.Baez                       1       1   1   1   0   1   1   9.00  D1 D4
+S.Lugo SAVE(1st)             1       1   0   0   0   2   0   0.00  D5
+[1]Totals                    9       8   4   4   1  11   3
+
+[1]Reds (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish                    5       5   2   2   1   6   1   3.60  A1 C1
+A.Kolarek                    0 1/3   0   0   0   0   0   0   0.00  C2 C2
+J.Webb LOSS(0-1)             0 2/3   2   2   2   0   1   1  27.00  C3 C6
+C.Sadler                     0       1   2   2   1   0   0   ----  C7 C8
+A.Ottavino                   2       2   1   1   0   3   0   4.50  C9 D7
+J.Gustave                    1       1   0   0   0   1   0   0.00  D8
+[1]Totals                    9      11   7   7   2  11   2
+
+ATTENDANCE- 41,338 DATE- Saturday, October 3rd 2020 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:48
+LEFT ON BASE- Mets: 4  Reds: 4
+DOUBLE PLAYS- Mets: 1  Reds: 2
+DOUBLES- J.McNeil-2(2nd), J.Votto(1st), A.Bregman(1st)
+HOME RUNS- E.Longoria(1st), J.Bradley Jr(1st), M.Conforto(1st), J.Gallo(1st),
+           W.Calhoun(1st)
+RBIs- S.Choo-2(2nd), J.McNeil(1st), E.Longoria-3(3rd), J.Bradley Jr(1st),
+      M.Conforto(1st), J.Gallo(1st), W.Calhoun(1st), T.Barnhart(1st)
+STOLEN BASES- J.Reddick(1st)
+SACRIFICE FLIES- T.Barnhart
+WALKS- C.Santana, J.Bradley Jr, J.Soler
+STRIKE OUTS- J.McNeil, P.Alonso-3, J.Reddick, E.Longoria, T.Flowers, J.Berti,
+             J.Bradley Jr-2, A.Rosario, C.Walker, A.Bregman, M.Conforto,
+             J.Gallo, E.Suarez-3, W.Calhoun, J.Soler, J.Peraza, R.Odor
+GIDP- E.Longoria, T.Flowers, J.Votto
+BALKS- A.Ottavino
+2-out RBI- J.Bradley Jr
+RLISP 2-out- J.Gallo, C.Santana-2, E.Suarez, J.McNeil
+TEAM RISP- Mets: 2 for 8  Reds: 1 for 8
+
+Evan Longoria connected with a 'big fly' and had 3 RBI as the New York (NL)
+Mets defeated the Cincinnati Reds by the score of 7 to 4 at Great American
+Bpk.
+
+Jacob Degrom(1-0) gave New York (NL) a solid outing.  He went 6 and 1/3
+innings allowing 6 hits and 1 walk.  Degrom whiffed an impressive total of 7
+Cincinnati batters and served up 2 'big flies'.  New York (NL) out-hit
+Cincinnati for the game, 11 hits to 8.  
+
+Seth Lugo was credited with his 1st save.  Jacob Webb(0-1) took the loss in
+relief.  He pitched 2/3 of an inning and surrendered 2 hits and no walks.
+[2]
+[1]SCORESHEET: 2020 New York (NL) Mets at 2020 Cincinnati Reds
+S.Choo-A1    A1:G/43    *4*:F/9    *6*:Si     D1:Si>3#   E1:G/43>1
+W.Myers-D5                                    2#         2
+                                                         
+J.McNeil-A1  A2:K       B2:Do      C2:Force/  D2:Do>1#   E2:P/4
+                                   54>1o b1              
+                                                         
+P.Alonso-A1  A3:G/53    B3:K       C3:K       D3:K
+                                              
+                                              
+C.Santan-A1  *2*:W>b1   B4:G/43    C4:G/43    D4:P/4
+                                              
+                                              
+J.Reddic-A1  A5:K       *5*:Si     *7*:Si     *8*:F/7
+                                              
+                                              
+E.Longor-A1  A6:G-DP/6  B6:SB>12   C6:HR>1#   D6:K
+             43>1o      Si>2#      b#         
+                                              
+T.Flower-A1  *3*:K      B7:G-DP/3  C7:Si      D7:K
+J.Berti-D7              63>1o                 
+W.Astudi-D8                                   
+J.Bradle-A1  A8:K       B8:HR>b#   C8:W>12 b  *9*:K
+                                   1          
+                                              
+A.Rosari-A1  A9:K       B9:G/63    C9:Bk>23   D9:Si
+                                   12 G/63    
+                                              
+
+J.Votto-A1   A1:Do      B1:G/63    C1:G-DP/4  *8*:K
+C.Walker-D1                        63>1o      
+                                              
+A.Bregma-A1  A2:K       *4*:Do     *6*:F/9    D2:L/6
+                                              
+                                              
+M.Confor-A1  A3:G/63    B3:K       C3:HR>b#   D3:L/4
+                                              
+                                              
+J.Gallo-A1   A4:L/3     B4:K       C4:G/23    *9*:HR>b#
+                                              
+                                              
+E.Suarez-A1  *2*:K      B5:K       C5:G/63    D5:K
+                                              
+                                              
+W.Calhou-A1  A6:K       *5*:Si     *7*:HR>b#  D6:Si
+                                              
+                                              
+J.Soler-A1   A7:G/63    B7:W>12 b  C7:G/63    D7:K
+                        1                     
+                                              
+J.Peraza-A1  *3*:K      B8:Si>23   C8:K       D8:FO/2
+R.Odor-C8               12                    
+                                              
+T.Barnha-A1  A9:L/4     B9:SF/9>3  C9:F/8
+                        #          
+                                   
+
+

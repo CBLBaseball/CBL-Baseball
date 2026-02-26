@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2020 New York (AL) Yankees At 2020 Cleveland Indians     10/16/2020
+
+[1]  Yankees            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  G.Urshela 3B        4  1  1  0 .367     F.Lindor SS         5  0  2  0 .163  
+  B.Gardner LF        5  1  2  1 .300     J.Ramirez 3B        4  0  1  1 .128  
+  G.Springer CF       4  2  1  1 .325     M.Brantley LF       3  0  1  0 .364  
+  N.Cruz DH           3  1  2  2 .389     M.Canha CF          4  0  0  0 .174  
+  A.Judge RF          4  0  1  1 .179     M.Ford 1B           3  0  0  0 .000  
+  G.Torres SS         4  0  0  0 .250     G.Garcia DH         4  0  1  0 .364  
+  Y.Gurriel 1B        4  0  1  0 .211     Y.Puig RF           3  0  0  0 .222  
+  R.Cano 2B           3  0  0  0 .381     J.Kipnis 2B         3  2  2  1 .233  
+A-E.Sogard 2B         0  0  0  0 .190   B-E.Adrianza PH       1  0  0  0 .167  
+  G.Sanchez C         3  0  1  0 .269     F.Mejia C           4  0  0  0 .308  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  9  5                 Totals      34  2  7  2
+
+A-Subbed Defensively (2B) For Cano In 8th Inning
+B-Pinch Hit For Kipnis In 9th Inning
+
+Yankees......... 1 0 2  0 2 0  0 0 0  -  5  9  0
+Indians......... 0 0 0  0 1 0  1 0 0  -  2  7  0
+
+[1]Yankees (7-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.German WIN(2-1)            6 2/3   7   2   2   0   7   1   3.26  A1 D1
+A.Adams HOLD(2nd)            1 1/3   0   0   0   1   3   0   0.00  D2 D6
+K.Giles SAVE(2nd)            1       0   0   0   1   1   0   0.00  D7
+[1]Totals                    9       7   2   2   2  11   1
+
+[1]Indians (4-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Plesac LOSS(0-1)           7       9   5   5   3   5   2   4.91  A1 D5
+N.Wittgren                   2       0   0   0   1   1   0   0.00  D6
+[1]Totals                    9       9   5   5   4   6   2
+
+ATTENDANCE- 37,539 DATE- Friday, October 16th 2020 TIME- Night 
+UMPIRES- Bill Miller, Mike Everitt, Chad Fairchild, Vic Carapazza
+T- 2:47
+LEFT ON BASE- Yankees: 7  Indians: 8
+DOUBLE PLAYS- Yankees: 0  Indians: 2
+DOUBLES- B.Gardner(3rd), F.Lindor-2(3rd), M.Brantley(5th), J.Kipnis(2nd)
+TRIPLES- G.Urshela(1st)
+HOME RUNS- B.Gardner(3rd), N.Cruz(3rd), J.Kipnis(2nd)
+RBIs- B.Gardner(7th), G.Springer(5th), N.Cruz-2(10th), A.Judge(3rd),
+      J.Ramirez(4th), J.Kipnis(3rd)
+WALKS- G.Urshela, G.Springer, N.Cruz, R.Cano, M.Brantley, Y.Puig
+HIT BY PITCH- G.Sanchez, M.Ford
+STRIKE OUTS- B.Gardner-2, A.Judge, G.Torres, R.Cano-2, F.Lindor, J.Ramirez-2,
+             M.Brantley, M.Canha, M.Ford, G.Garcia-2, Y.Puig, F.Mejia-2
+GIDP- G.Urshela, G.Torres
+WILD PITCHES- D.German
+2-out RBI- J.Ramirez
+RLISP 2-out- M.Canha, Y.Puig, A.Judge, J.Ramirez, F.Lindor
+TEAM RISP- Yankees: 2 for 8  Indians: 1 for 12
+
+In an entertaining game at Progressive Field the final score was the New York
+(AL) Yankees 5, the Cleveland Indians 2.
+
+New York (AL) promptly took the lead in their half of the first scoring one
+runner.  New York (AL) banged out 9 hits on the night.  
+
+Domingo German(2-1) allowed 2 runs in 6 and 2/3 innings, and picked up the
+victory. Ken Giles recorded his 2nd save.  Zach Plesac(0-1) took the loss.
+
+[2]
+[1]SCORESHEET: 2020 New York (AL) Yankees at 2020 Cleveland Indians
+G.Urshel-A1  A1:F/9     *3*:Tr     C1:G/63    D1:G-DP/6  E1:W>b1
+                                              43>1o      
+                                                         
+B.Gardne-A1  A2:HR>b#   B2:K       *5*:K      *7*:Do     E2:F/9
+                                                         
+                                                         
+G.Spring-A1  A3:L/6     B3:Si>3#   C3:W>b1    D3:G/43>2  E3:G/63
+                                              3          
+                                                         
+N.Cruz-A1    A4:W>b1    B4:Si>13   C4:HR>1#   D4:G/53
+                                   b#         
+                                              
+A.Judge-A1   A5:K       B5:Si>3#   C5:G/63    D5:F/8
+                        12                    
+                                              
+G.Torres-A1  *2*:FO/2   B6:G-DP/4  C6:K       *8*:L/6
+                        63>1o                 
+                                              
+Y.Gurrie-A1  A7:G/53    *4*:F/8    *6*:Si     D7:P/5
+                                              
+                                              
+R.Cano-A1    A8:W>b1    B8:G/63    C8:K       D8:K
+E.Sogard-D9                                   
+                                              
+G.Sanche-A1  A9:G/43    B9:Si      C9:HBP>12  *9*:G/43
+                                              
+                                              
+
+F.Lindor-A1  A1:Do      B1:G/43    C1:K       D1:Do      E1:G/53
+                                                         
+                                                         
+J.Ramire-A1  A2:L/4     B2:K       C2:Si>3#   D2:K
+                                              
+                                              
+M.Brantl-A1  A3:G/63    *4*:Do     C3:K       *8*:W>b1
+                                              
+                                              
+M.Canha-A1   A4:G/53    B4:WP>23   *6*:G/43   D4:K
+                        P/5                   
+                                              
+M.Ford-A1    *2*:G/63   B5:HBP     C5:L/4     D5:K
+                                              
+                                              
+G.Garcia-A1  A6:Si      B6:K       C6:K       D6:G/43
+                                              
+                                              
+Y.Puig-A1    A7:F/8     B7:K       *7*:L/6    *9*:W>b1
+                                              
+                                              
+J.Kipnis-A1  A8:G/53    *5*:Do     C8:HR>b#   D8:G/43>1
+E.Adrian-D8                                   2
+                                              
+F.Mejia-A1   *3*:K      B9:G/43>2  C9:G/31    D9:K
+                        3                     
+                                              
+
+
