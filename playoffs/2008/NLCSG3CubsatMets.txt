@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2008 Chicago (NL) Cubs At 2008 New York (NL) Mets        11/20/2008
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Byrd CF           5  1  1  1 .200     J.Reyes SS          5  1  3  0 .348  
+  J.Vidro DH          5  0  0  0 .000     A.Rowand CF         5  1  2  2 .222  
+  D.Lee 1B            4  1  1  0 .250     J.Thome DH          4  0  0  0 .222  
+  B.Hawpe RF          3  1  0  0 .000     D.Wright 3B         2  1  0  0 .300  
+  A.Soriano LF        4  1  3  1 .750     M.Alou LF           3  0  1  0 .286  
+  A.Ramirez 3B        4  0  1  1 .250   A-D.Roberts LF        0  0  0  0 .000  
+  M.Fontenot 2B       3  0  0  0 .000     R.Castro C          4  0  0  0 .300  
+  R.Theriot SS        4  0  2  1 .500   B-J.Varitek C         0  0  0  0 .000  
+  P.Lo Duca C         2  0  0  0 .000     A.Ojeda 2B          3  1  2  1 .462  
+C-M.Murton PH         1  1  1  11.000     K.Millar 1B         3  1  1  0 .188  
+                                          M.Cameron RF        4  1  1  3 .158  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  9  5                 Totals      33  6 10  6
+
+A-Subbed Defensively (LF) For Alou In 8th Inning
+B-Subbed Defensively (C ) For Castro In 8th Inning
+C-Pinch Hit For Lo Duca In 9th Inning
+
+Cubs............ 0 1 0  1 0 0  0 1 2  -  5  9  0
+Mets............ 0 0 0  0 6 0  0 0    -  6 10  1
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Lopez LOSS(0-1)            4       5   4   4   3   2   1   9.00  A1 C1
+B.Howry                      0 1/3   1   2   2   2   1   1  54.00  C2 C5
+R.Seanez                     3 2/3   4   0   0   0   4   0   0.00  C6
+[1]Totals                    8      10   6   6   5   7   2
+
+[1]Mets (5-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Redding WIN(1-0)           5 1/3   3   2   2   2   1   0   1.69  A1 C4
+A.Heilman                    2 2/3   4   1   1   0   2   0   2.45  C5 D6
+J.Valverde SAVE(2nd)         1       2   2   2   0   1   2   2.84  D7
+[1]Totals                    9       9   5   5   2   4   2
+
+ATTENDANCE- 1,214 DATE-  TIME- Day 
+UMPIRES- Mark Farrell, Dave Kirby, Bob Holman, Terry Ringen
+T- 2:55
+LEFT ON BASE- Cubs: 6  Mets: 8
+DOUBLE PLAYS- Cubs: 1  Mets: 1
+ERRORS- M.Alou
+DOUBLES- A.Soriano(1st), A.Ramirez(1st)
+HOME RUNS- M.Byrd(1st), M.Murton(1st), A.Rowand(1st), M.Cameron(1st)
+STOLEN BASES- M.Byrd(1st), A.Soriano(1st), R.Theriot(1st), J.Reyes-3(7th)
+WALKS- B.Hawpe, M.Fontenot, D.Wright-2, M.Alou, A.Ojeda, K.Millar
+HIT BY PITCH- P.Lo Duca
+STRIKE OUTS- B.Hawpe-2, M.Fontenot-2, J.Thome-3, D.Wright, R.Castro,
+             M.Cameron-2
+GIDP- A.Ramirez, M.Alou
+WILD PITCHES- R.Seanez, A.Heilman
+
+Aaron Rowand hit a homerun and had 2 RBI as the New York (NL) Mets defeated
+the Chicago (NL) Cubs by a score of 6 to 5 at Shea Stadium.
+
+New York (NL) did all of it's offensive work in the 5th inning scoring 6
+runners on 4 hits.  The critical plate appearance was by Mike Cameron who
+elicited a roar from the hometown fans when he lofted a three-run bomb (his
+1st of the season).  Chicago (NL) had a chance to come back in the 9th but
+they came up short.  
+
+The winning pitcher was Tim Redding(1-0) who allowed 2 runs in 5 and 1/3
+innings. Jose Valverde recorded his 2nd save.  The losing pitcher was Rodrigo
+Lopez(0-1).  
+
+'We won because we did the little things right.' Gary Carter said after the
+game.  'This is why we practice things over and over and over, so when we get
+in close games we don't make mistakes.'
+[2]
+[1]SCORESHEET: 2008 Chicago (NL) Cubs at 2008 New York (NL) Mets
+M.Byrd-A1    A1:F/7     B1:Force/  *5*:P/6    D1:F/8     E1:HR>b#
+                        36>1o b1                         
+                                                         
+J.Vidro-A1   A2:G/43    B2:SB>12   C2:P/4     D2:F/9     E2:G/63
+                        F/9                              
+                                                         
+D.Lee-A1     A3:L/4     B3:G/3     C3:G/63    *8*:Si
+                                              
+                                              
+B.Hawpe-A1   *2*:W>b1   *4*:K      *6*:G/13   D4:WP>12
+                                              K
+                                              
+A.Sorian-A1  A5:Si>13   B5:Do      C5:F/8     D5:Si>2#
+                                              
+                                              
+A.Ramire-A1  A6:SB>12   B6:F/9>23  C6:Do      D6:G-DP/6
+             G/63>3# 2                        43>1o
+             3                                
+M.Fonten-A1  A7:L/3     B7:W>b1    C7:K       *9*:K
+                                              
+                                              
+R.Therio-A1  A8:G/53    B8:Si>3#   *7*:Si+E/  D8:FO/5
+                        13         7          
+                                              
+P.Lo Duc-A1  *3*:HBP    B9:SB>12   C9:FC/12>  D9:HR>b#
+M.Murton-D9             G/43       3o         
+                                              
+
+J.Reyes-A1   A1:G/43    *3*:G/31   C1:Si      D1:Si      E1:Si>13
+                                                         
+                                                         
+A.Rowand-A1  A2:Si      B2:G/23    C2:SB>12   D2:SB>12   E2:SB>12
+                                   HR>2# b#   F/9        G/63
+                                                         
+J.Thome-A1   A3:Force/  B3:K       C3:K       D3:WP>23
+             36>1o b1                         K
+                                              
+D.Wright-A1  A4:F/7     *4*:W>b1   C4:W>b1    *7*:K
+                                              
+                                              
+M.Alou-A1    *2*:Si     B5:G-DP/6  C5:W>12 b  D5:G/63
+D.Robert-D7             43>1o      1          
+                                              
+R.Castro-A1  A6:F/8     B6:F/8     C6:F/9>23  D6:K
+J.Varite-D7                                   
+                                              
+A.Ojeda-A1   A7:Si>13   *5*:W>b1   C7:Si>3#   *8*:G/43
+                                   13         
+                                              
+K.Millar-A1  A8:P/6     B8:W>12 b  C8:G/43    D8:Si
+                        1                     
+                                              
+M.Camero-A1  A9:K       B9:HR>2#   *6*:L/6    D9:K
+                        1# b#                 
+                                              
+
+

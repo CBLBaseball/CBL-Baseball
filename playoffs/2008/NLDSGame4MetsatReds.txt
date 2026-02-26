@@ -1,0 +1,211 @@
+[1]BOXSCORE: 2008 New York (NL) Mets At 2008 Cincinnati Reds           11/1/2008
+
+[1]  Mets               AB  R  H RBI AVG     Reds               AB  R  H RBI AVG
+  J.Reyes SS          4  1  2  0 .333     J.Pierre CF         4  0  2  0 .278  
+  A.Rowand CF         4  1  1  0 .118     S.Hatteberg 1B      4  0  1  0 .250  
+  M.Alou LF           4  1  2  2 .357     E.Encarnacion 3B    4  0  0  0 .176  
+A-D.Roberts LF        0  0  0  0 .000     A.Dunn DH           4  0  0  0 .125  
+  J.Thome DH          4  0  2  1 .364     J.Hamilton RF       4  1  3  0 .308  
+  D.Wright 3B         3  0  0  0 .214     J.Valentin C        4  0  2  0 .182  
+  J.Varitek C         3  0  0  0 .000     G.Anderson LF       4  0  1  0 .214  
+  K.Millar 1B         4  0  0  0 .182     B.Phillips 2B       2  0  0  1 .154  
+  A.Ojeda 2B          3  0  2  0 .400     J.Bartlett SS       3  0  0  0 .500  
+  M.Cameron RF        4  0  1  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3 10  3                 Totals      33  1  9  1
+
+A-Subbed Defensively (LF) For Alou In 8th Inning
+
+Mets............ 0 0 0  0 0 2  0 1 0  -  3 10  0
+Reds............ 0 0 0  1 0 0  0 0 0  -  1  9  0
+
+[1]Mets (3-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz WIN(1-0)            7       8   1   1   0   3   0   1.29  A1 C9
+A.Embree HOLD(3rd)           0 2/3   0   0   0   0   0   0   4.91  D1 D2
+J.Miller HOLD(2nd)           0 1/3   0   0   0   0   0   0  10.80  D3 D3
+B.Wagner SAVE(1st)           1       1   0   0   0   1   0   0.00  D4
+[1]Totals                    9       9   1   1   0   4   0
+
+[1]Reds (1-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Harang LOSS(0-1)           7       8   3   3   3   4   0   3.46  A1 D2
+J.Burton                     2       2   0   0   0   2   0   0.00  D3
+[1]Totals                    9      10   3   3   3   6   0
+
+ATTENDANCE- 151 DATE-  TIME- Day 
+UMPIRES- Tom Devries, Steve Sprague, Tony Childers, Larry Spencer
+T- 2:34
+LEFT ON BASE- Mets: 6  Reds: 6
+DOUBLE PLAYS- Mets: 0  Reds: 4
+DOUBLES- J.Reyes(1st), A.Rowand(1st), J.Thome(2nd)
+STOLEN BASES- J.Reyes(3rd)
+CAUGHT STEALING- J.Pierre
+SACRIFICE FLIES- B.Phillips
+WALKS- D.Wright, J.Varitek, A.Ojeda
+STRIKE OUTS- A.Rowand, J.Varitek, K.Millar-2, M.Cameron-2, E.Encarnacion,
+             A.Dunn, J.Valentin, B.Phillips
+GIDP- J.Reyes, D.Wright, K.Millar
+
+John Smoltz(1-0) and Aaron Harang(0-1) locked horns in a pitcher's duel with
+Smoltz and the New York (NL) Mets coming out on top of the Cincinnati Reds 3
+to 1.
+
+New York (NL) brought 2 runs across the plate in the top of the 6th inning
+with the help of 3 hits.  They would be enough to earn the win.  New York
+(NL) banged out 10 on the afternoon.  
+
+Billy Wagner got the save, his 1st.
+[2]
+[1]SCORESHEET: 2008 New York (NL) Mets at 2008 Cincinnati Reds
+J.Reyes-A1   A1:Si      B1:FO/3    C1:Do      D1:G-DP/4
+                                              63>1o
+                                              
+A.Rowand-A1  A2:SB>12   B2:G/43    C2:G/63>2  *8*:Do
+             K                     3          
+                                              
+M.Alou-A1    A3:F/7     *4*:F/8    C3:Si>3#   D3:Si>2#
+D.Robert-D6                                   
+                                              
+J.Thome-A1   A4:F/8     B4:Si      C4:Do>1#   D4:L-DP/4
+                                              3>1o
+                                              
+D.Wright-A1  *2*:G/63   B5:G-DP/3  C5:IW>b1   D5:L/6
+                        63>1o                 
+                                              
+J.Varite-A1  A6:W>b1    *5*:K      C6:F/7     *9*:F/7
+                                              
+                                              
+K.Millar-A1  A7:G-DP/6  B7:L/6     *7*:K      D7:K
+             43>1o                            
+                                              
+A.Ojeda-A1   *3*:Si     B8:G/63    C8:W>b1    D8:Si
+                                              
+                                              
+M.Camero-A1  A9:L/6     *6*:K      C9:Si>12   D9:K
+                                              
+                                              
+
+J.Pierre-A1  A1:F/7     *3*:Si     *5*:Si     *8*:F/7
+                                              
+                                              
+S.Hatteb-A1  A2:Si      B2:FO/2    C2:CS/26>  D2:F/8
+                                   1o G/43    
+                                              
+E.Encarn-A1  A3:K       B3:F/7     C3:L/6     D3:P/4
+                                              
+                                              
+A.Dunn-A1    A4:K       B4:G/3     *6*:F/9    *9*:G/53
+                                              
+                                              
+J.Hamilt-A1  *2*:Si     *4*:Si     C5:G/43    D5:Si
+                                              
+                                              
+J.Valent-A1  A6:Si>13   B6:Si>12   C6:F/7     D6:K
+                                              
+                                              
+G.Anders-A1  A7:L/4     B7:Force/  *7*:Si     D7:F/7
+                        46>23 1o              
+                        b1                    
+B.Philli-A1  A8:L/6     B8:SF/8>3  C8:PkOff/
+                        #          13>1o K
+                                   
+J.Bartle-A1  A9:P/5     B9:F/9     C9:F/7
+                                   
+                                   
+
+
+[1]*** TOP OF INNING 1 ***
+0     J.Reyes              0 Single                         b-1 
+0 1                        0 Stolen Base                    1-2 
+0  2  A.Rowand             0 Strike Out                     b-0 
+1  2  M.Alou               0 Fly Out                        b-0 
+2  2  J.Thome              0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     J.Pierre             0 Fly Out                        b-0 
+1     S.Hatteberg          0 Single                         b-1 
+1 1   E.Encarnacion        0 Strike Out                     b-0 
+2 1   A.Dunn               0 Strike Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     D.Wright             0 Ground Out                     b-0 
+1     J.Varitek            0 Walk                           b-1 
+1 1   K.Millar             0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     J.Hamilton           0 Single                         b-1 
+0 1   J.Valentin           0 Single                         1-3 b-1 
+0 1 3 G.Anderson           0 Line Out                       b-0 
+1 1 3 B.Phillips           0 Line Out                       b-0 
+2 1 3 J.Bartlett           0 Pop Out                        b-0 
+[1]*** TOP OF INNING 3 ***
+0     A.Ojeda              0 Single                         b-1 
+0 1   M.Cameron            0 Line Out                       b-0 
+1 1   J.Reyes              0 Foul Out                       b-0 
+2 1   A.Rowand             0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     J.Pierre             0 Single                         b-1 
+0 1   S.Hatteberg          0 Foul Out                       b-0 
+1 1   E.Encarnacion        0 Fly Out                        b-0 
+2 1   A.Dunn               0 Ground Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     M.Alou               0 Fly Out                        b-0 
+1     J.Thome              0 Single                         b-1 
+1 1   D.Wright             0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     J.Hamilton           0 Single                         b-1 
+0 1   J.Valentin           0 Single                         1-2 b-1 
+0 12  G.Anderson           0 Force Play                     2-3 1-o b-1 
+1 1 3 B.Phillips           0 Sac Fly                        3-H b-0 
+2 1   J.Bartlett           0 Fly Out                        b-0 
+[1]*** TOP OF INNING 5 ***
+0     J.Varitek            0 Strike Out                     b-0 
+1     K.Millar             0 Line Out                       b-0 
+2     A.Ojeda              0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     J.Pierre             0 Single                         b-1 
+0 1                        0 Caught Stealing                1-o 
+1     S.Hatteberg          0 Ground Out                     b-0 
+2     E.Encarnacion        0 Line Out                       b-0 
+[1]*** TOP OF INNING 6 ***
+0     M.Cameron            0 Strike Out                     b-0 
+1     J.Reyes              0 Double                         b-2 
+1  2  A.Rowand             0 Ground Out                     2-3 b-0 
+2   3 M.Alou               0 Single                         3-H b-1 
+2 1   J.Thome              0 Double                         1-H b-2 
+2  2  D.Wright             0 Int Walk                       b-1 
+2 12  J.Varitek            0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     A.Dunn               0 Fly Out                        b-0 
+1     J.Hamilton           0 Ground Out                     b-0 
+2     J.Valentin           0 Fly Out                        b-0 
+[1]*** TOP OF INNING 7 ***
+0     K.Millar             0 Strike Out                     b-0 
+1     A.Ojeda              0 Walk                           b-1 
+1 1   M.Cameron            0 Single                         1-2 b-1 
+1 12  J.Reyes              0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     G.Anderson           0 Single                         b-1 
+0 1                          Pickoff                        1-o 
+1     B.Phillips           0 Strike Out                     b-0 
+2     J.Bartlett           0 Fly Out                        b-0 
+[1]*** TOP OF INNING 8 ***
+0     A.Rowand             0 Double                         b-2 
+                             SUBSTITUTE P - Jared Burton
+0  2  M.Alou               0 Single                         2-H b-1 
+0 1   J.Thome              0 Line Out Double Play           1-o b-0 
+2     D.Wright             0 Line Out                       b-0 
+[1]*** BOTTOM OF INNING 8 ***
+                             SUBSTITUTE LF- Dave Roberts
+                             SUBSTITUTE P - Alan Embree
+0     J.Pierre             0 Fly Out                        b-0 
+1     S.Hatteberg          0 Fly Out                        b-0 
+                             SUBSTITUTE P - Justin Miller
+2     E.Encarnacion        0 Pop Out                        b-0 
+[1]*** TOP OF INNING 9 ***
+0     J.Varitek            0 Fly Out                        b-0 
+1     K.Millar             0 Strike Out                     b-0 
+2     A.Ojeda              0 Single                         b-1 
+2 1   M.Cameron            0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 9 ***
+                             SUBSTITUTE P - Billy Wagner
+0     A.Dunn               0 Ground Out                     b-0 
+1     J.Hamilton           0 Single                         b-1 
+1 1   J.Valentin           0 Strike Out                     b-0 
+2 1   G.Anderson           0 Fly Out                        b-0 

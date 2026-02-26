@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 New York (NL) Mets        11/20/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  B.Roberts 2B        5  0  0  0 .250     J.Reyes SS          5  1  4  1 .361  
+  F.Thomas DH         5  0  0  0 .000     A.Rowand CF         5  0  2  1 .282  
+  N.Markakis LF,RF    5  2  3  0 .333     M.Alou DH           4  0  1  0 .259  
+  V.Guerrero RF       5  1  3  1 .333     D.Wright 3B         3  0  0  0 .333  
+D-L.Scott LF          0  0  0  0 ----     D.Easley 2B         3  0  0  0 .200  
+  A.Gonzalez 1B       5  0  3  2 .333   A-J.Thome PH          1  0  0  0 .217  
+  C.Beltran CF        5  0  0  0 .125   B-A.Ojeda 2B          1  0  0  0 .471  
+  M.Mora 3B           4  0  0  0 .143     B.Wilkerson 1B      3  0  0  0 .000  
+  J.Hardy SS          3  0  1  0 .333   C-K.Millar PH,1B      2  0  0  0 .167  
+  M.Olivo C           4  1  1  1 .143     M.Cameron RF        5  0  0  0 .111  
+                                          J.Varitek C         3  0  0  0 .043  
+                                          L.Ford LF           4  1  1  0 .125  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  4 11  4                 Totals      39  2  8  2
+
+A-Pinch Hit For Easley In 8th Inning
+B-Subbed Defensively (2B) For Thome In 9th Inning
+C-Pinch Hit For Wilkerson In 9th Inning
+D-Subbed Defensively (LF) For Guerrero In 11th Inning
+
+Orioles......... 1 0 1  0 0 0  0 0 0  0 2 -  4 11  0
+Mets............ 1 0 0  0 1 0  0 0 0  0 0 -  2  8  1
+
+[1]Orioles (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson                    7       6   2   2   2  10   0   2.57  A1 C9
+E.Gagne                      0       1   0   0   0   0   0   ----  D1 D1
+R.Springer                   0 2/3   0   0   0   1   0   0   0.00  D2 D4
+P.Feliciano                  0 1/3   0   0   0   0   1   0   0.00  D5 D5
+J.Isringhaus                 1 1/3   1   0   0   2   0   0   0.00  D6 E3
+L.Gardner WIN(1-0)           1 2/3   0   0   0   0   0   0   0.00  E4
+[1]Totals                   11       8   2   2   5  11   0
+
+[1]Mets (6-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz LOSS(2-1)          10 1/3  10   4   4   1  12   1   1.62  A1 E4
+B.Wagner                     0 2/3   1   0   0   0   1   0   0.00  E5
+[1]Totals                   11      11   4   4   1  13   1
+
+ATTENDANCE- 593 DATE-  TIME- Night 
+UMPIRES- Arthur Svec, Bob Reibel, Dave Johns, Mike Brue
+T- 3:38
+LEFT ON BASE- Orioles: 6  Mets: 9
+DOUBLE PLAYS- Orioles: 2  Mets: 2
+ERRORS- A.Ojeda
+DOUBLES- V.Guerrero(1st), J.Hardy(1st), J.Reyes(2nd), L.Ford(1st)
+HOME RUNS- M.Olivo(1st)
+SACRIFICE HITS- J.Hardy
+WALKS- M.Mora, M.Alou, D.Wright-2, J.Varitek-2
+STRIKE OUTS- B.Roberts, F.Thomas-2, N.Markakis, V.Guerrero, A.Gonzalez,
+             C.Beltran-4, M.Mora, J.Hardy, M.Olivo, A.Rowand, M.Alou, D.Wright,
+             D.Easley-2, J.Thome, B.Wilkerson-2, M.Cameron-2, J.Varitek
+GIDP- V.Guerrero, M.Mora, A.Rowand, M.Alou
+WILD PITCHES- J.Smoltz, B.Wagner
+WEB GEMS- Top 6th: Aaron Rowand robbed Adrian Gonzalez of an extra base hit.
+
+Randy Johnson whiffed 10 batters as the Baltimore Orioles outscored the New
+York (NL) Mets in 11 innings 4 to 2.
+
+The game was deadlocked at 2 after nine full innings.  Baltimore won the hard
+fought contest in the 11th inning.  After an out was recorded, Nick Markakis
+opened up the rally as he singled.  Vladimir Guerrero came to the plate and
+slapped a one-base hit, and an error was also committed.  Adrian Gonzalez
+then lined a base-hit bringing in two baserunners.  The New York (NL) batters
+went down meekly in the bottom of the 11th.  
+
+Lee Gardner(1-0) picked up the victory, allowing no runs in 1 and 2/3 innings.
+John Smoltz(2-1) was the losing pitcher.  He surrendered 10 hits and 1 walk
+in 10 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 New York (NL) Mets
+B.Robert-A1  A1:K       B1:L/3     C1:G/63    D1:G/43    E1:L/4
+                                                         
+                                                         
+F.Thomas-A1  A2:F/8     B2:K       C2:G/63    *8*:G/63   *11*:K
+                                                         
+                                                         
+N.Markak-A1  A3:Si      B3:K       *6*:L/4    D3:Si      E3:Si
+                                                         
+                                                         
+V.Guerre-A1  A4:Do>1#   *4*:K      C4:Si      D4:G-DP/1  E4:Si+E/4
+L.Scott-E8                                    63>1o      >13
+                                                         
+A.Gonzal-A1  A5:K       B5:Si      C5:WP>12   *9*:Si     E5:Si>3#
+                                   F/8                   2#
+                                                         
+C.Beltra-A1  *2*:K      B6:K       C6:L/4     D6:K       E6:K
+                                                         
+                                                         
+M.Mora-A1    A7:F/8     B7:K       *7*:W>b1   D7:G-DP/1  E7:WP>12
+                                              63>1o      L/6
+                                                         
+J.Hardy-A1   A8:K       *5*:Do     C8:Sac/14  *10*:F/7
+                                   >12        
+                                              
+M.Olivo-A1   *3*:HR>b#  B9:FO/5    C9:FO/5    D9:K
+                                              
+                                              
+
+J.Reyes-A1   A1:Do      *3*:Si     C1:Si>2#   *8*:Si     *10*:G/63
+                                                         
+                                                         
+A.Rowand-A1  A2:Si>2#   B2:G-DP/3  C2:K       D2:F/9     E2:Si
+                        63>1o                            
+                                                         
+M.Alou-A1    A3:G-DP/6  B3:Si      C3:K       D3:G/3>12  E3:W>12 b
+             43>1o                                       1
+                                                         
+D.Wright-A1  A4:W>b1    B4:F/8     *6*:K      D4:IW>b1   E4:F/8
+                                                         
+                                                         
+D.Easley-A1  A5:F/9     *4*:K      C5:K       D5:K       E5:F/8
+J.Thome-D5                                               
+A.Ojeda-D6                                               
+B.Wilker-A1  *2*:K      B6:K       C6:F/9     *9*:L/4    *11*:L/6
+K.Millar-D6                                              
+                                                         
+M.Camero-A1  A7:K       B7:K       *7*:G/43   D7:G/43    E7:FO/2
+                                                         
+                                                         
+J.Varite-A1  A8:W>b1    *5*:K      C8:G/3     D8:W>b1    E8:F/9
+                                                         
+                                                         
+L.Ford-A1    A9:L/6     B9:Do      C9:L/4     D9:P/2
+                                              
+                                              
+
+

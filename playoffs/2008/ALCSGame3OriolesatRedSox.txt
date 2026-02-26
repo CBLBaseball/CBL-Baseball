@@ -1,0 +1,209 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 Boston Red Sox             11/2/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  B.Roberts 2B        7  2  3  2 .429     J.Ellsbury CF,RF    8  0  2  1 .214  
+  F.Thomas DH         6  0  1  0 .167     D.Pedroia 2B        8  2  3  3 .278  
+  N.Markakis LF       6  2  1  0 .167     T.Glaus 3B          3  1  1  0 .333  
+  V.Guerrero RF       7  2  5  4 .714   A-R.Gotay PH          1  0  0  0 .333  
+  A.Gonzalez 1B       7  2  2  1 .286   B-M.Lowell 3B         3  1  2  0 .231  
+  C.Beltran CF        7  1  1  1 .143     J.Posada C          8  2  3  0 .500  
+  M.Mora 3B           5  1  2  0 .400     D.Ortiz DH          5  2  1  3 .250  
+G-W.Helms PH          0  0  0  0 ----     K.Youkilis 1B       6  1  2  2 .176  
+H-O.Infante PR,3B     1  0  1  11.000     B.Giles RF          3  2  2  0 .300  
+  J.Hardy SS          7  1  2  2 .286   E-W.Harris LF         1  0  1  0 .167  
+  M.Olivo C           3  0  0  0 .000   I-W.Pena PH,LF        1  0  0  0 .000  
+C-L.Scott PH          1  1  1  11.000     E.Renteria SS       5  1  2  0 .308  
+D-R.Hernandez C       2  0  0  0 .000     F.Lewis LF          3  1  2  4 .714  
+                                        F-C.Crisp CF          3  0  0  0 .143  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      59 12 19 12                 Totals      58 13 21 13
+
+A-Pinch Hit For Glaus In 6th Inning
+B-Subbed Defensively (3B) For Gotay In 7th Inning
+C-Pinch Hit For Olivo In 8th Inning
+D-Subbed Defensively (C ) For Scott In 8th Inning
+E-Subbed Defensively (LF) For Giles In 9th Inning
+F-Subbed Defensively (CF) For Lewis In 9th Inning
+G-Pinch Hit For Mora In 12th Inning
+H-Pinch Ran For Helms In 12th Inning
+I-Pinch Hit For Harris In 13th Inning
+
+Orioles......... 1 0 2  0 0 0  0 6 1  0 0 0  0 2 - 12 19  0
+Red Sox......... 3 1 0  0 0 2  4 0 0  0 0 0  0 3 - 13 21  0
+
+[1]Orioles (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Bedard                     5       9   6   6   2  10   1  10.80  A1 C9
+T.Tankersley                 0 1/3   0   0   0   0   0   0   0.00  D1 D1
+L.Gardner                    0 2/3   0   0   0   0   0   0   0.00  D2 D3
+P.Feliciano                  0 1/3   1   3   3   2   0   0  81.00  D4 D7
+R.Springer                   1       2   1   1   0   0   0   9.00  D8 E3
+E.Gagne                      0       1   0   0   1   0   0   ----  E4 E5
+J.Isringhaus                 3       2   0   0   0   1   0   0.00  E6 F5
+J.Colome                     1 1/3   2   0   0   0   1   0   0.00  F6 G3
+S.Kazmir LOSS(0-1)           1 2/3   4   3   3   3   1   1  16.20  G4
+[1]Totals                   13 1/3  21  13  13   8  13   2
+
+[1]Red Sox (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling                  6       8   3   3   0   3   1   3.27  A1 C7
+H.Okajima HOLD(1st)          1       1   0   0   0   1   0   2.45  C8 D2
+J.Accardo                    0 2/3   2   3   3   1   1   0  81.00  D3 D7
+J.Papelbon                   0       3   3   3   0   0   1  11.57  D8 E1
+M.Timlin BS(1st)             3       2   1   1   1   4   1   2.45  E2 F4
+B.Shouse                     0 1/3   0   0   0   0   0   0   0.00  F5 F5
+J.Lopez WIN(1-0)             3       3   2   2   2   2   0   6.00  F6
+[1]Totals                   14      19  12  12   4  11   3
+
+ATTENDANCE- -89 DATE-  TIME- Day 
+UMPIRES- Kevin Stafford, Shannon Hall, Rob Hamilton, Brian Alexander
+T- 5:43
+LEFT ON BASE- Orioles: 9  Red Sox:15
+DOUBLE PLAYS- Orioles: 2  Red Sox: 2
+DOUBLES- B.Roberts(1st), N.Markakis(1st), A.Gonzalez(1st), C.Beltran(1st),
+         O.Infante(1st), J.Hardy(1st), L.Scott(1st), T.Glaus(1st),
+         J.Posada(5th), K.Youkilis(1st), F.Lewis(4th)
+HOME RUNS- B.Roberts(1st), V.Guerrero-2(2nd), D.Pedroia(1st), D.Ortiz(1st)
+SACRIFICE HITS- E.Renteria
+WALKS- F.Thomas, N.Markakis, W.Helms, R.Hernandez, M.Lowell, D.Ortiz-3,
+       K.Youkilis, B.Giles, E.Renteria, F.Lewis
+HIT BY PITCH- K.Youkilis, W.Harris
+STRIKE OUTS- B.Roberts-2, F.Thomas, N.Markakis, C.Beltran-3, M.Mora, M.Olivo-3,
+             D.Pedroia, T.Glaus, J.Posada-4, D.Ortiz-2, K.Youkilis-2,
+             E.Renteria-2, F.Lewis
+GIDP- A.Gonzalez, J.Hardy, K.Youkilis
+WILD PITCHES- J.Isringhausen
+
+Second baseman Dustin Pedroia went deep and had 3 RBI at Fenway Park where the
+Boston Red Sox beat the Baltimore Orioles in 14 innings by the score of 13 to
+12.
+
+The score was tied at 10 after nine.  Boston won the hard fought contest in
+the 14th inning.  After an out was recorded, Pedroia kicked off the action
+when he hit a bases-empty home run (his 1st of the season).  Mike Lowell next
+to the plate and he drew a walk.  Jorge Posada then singled.  David Ortiz
+stepped in and he drew a walk to load the bases.  Kevin Youkilis stepped into
+the box and stroked a base-hit resulting in an exciting win for Boston and a
+wild post-game celebration by the home town fans.  Boston provided plenty of
+action in the 7th inning when they had 4 runs on 3 hits.  Boston rapped out
+21 hits for the afternoon.  
+
+Javier Lopez(1-0) got credit for the victory, pitching 3 innings and allowing
+2 runs. Scott Kazmir(0-1) absorbed the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 Boston Red Sox
+B.Robert-A1  A1:Do      B1:K       *5*:P/4    D1:Si>12   E1:HR>2#   F1:L/5
+                                                         b#         
+                                                                    
+F.Thomas-A1  A2:Si>23   *3*:P/5    C2:G/63    D2:G/31    E2:G/53    F2:K
+                                                                    
+                                                                    
+N.Markak-A1  A3:F/7     B3:Do      C3:F/7     *8*:W>b1   *9*:K      *11*:G/43
+                                                                    
+                                                                    
+V.Guerre-A1  A4:Si>3#   B4:HR>2#   *6*:Si     D4:Si>13   E4:HR>b#   F4:G/43
+             12         b#                                          
+                                                                    
+A.Gonzal-A1  A5:Si>23   B5:L/3     C5:G-DP/4  D5:Force/  E5:P/3     F5:G/43
+             12                    63>1o      46>3# 1o              
+                                              b1                    
+C.Beltra-A1  A6:L/6     B6:L/4     C6:G/43    D6:K       E6:K       *12*:K
+                                                                    
+                                                                    
+M.Mora-A1    A7:G/53    *4*:G/13   *7*:Si     D7:Si>13   *10*:K     F7:W>b1
+W.Helms-F7                                                          
+O.Infant-F8                                                         
+J.Hardy-A1   *2*:F/7    B8:P/5     C8:Force/  D8:Do>3#   E8:Si      F8:G-DP/3
+                                   36>1o b1   1#                    63>1o
+                                                                    
+M.Olivo-A1   A9:K       B9:K       C9:K       D9:Do>2#   E9:W>12 b  *13*:G/63
+L.Scott-D9                                               1          
+R.Hernan-E3                                                         
+
+J.Ellsbu-A1  A1:G/43    B1:Si>13   C1:Force/  D1:Force/  E1:Si>3#   *10*:F/9
+                                   46>23 1o   42>3o 23              
+                                   b1         12 b1                 
+D.Pedroi-A1  A2:Si      B2:Si>3#   C2:K       D2:G/43>3  E2:G/63    F2:G/53
+                        12                    # 23 12               
+                                                                    
+T.Glaus-A1   A3:Do>13   B3:P/2     *5*:K      D3:F/8     *8*:G/31   F3:Si
+R.Gotay-D3                                                          
+M.Lowell-D4                                                         
+J.Posada-A1  A4:K       *3*:K      C4:K       *7*:Si     E4:Do      F4:K
+                                                                    
+                                                                    
+D.Ortiz-A1   A5:HR>3#   B5:K       C5:G/13    D5:W>12 b  E5:IW>b1   *11*:F/9
+             2# b#                            1                     
+                                                                    
+K.Youkil-A1  A6:K       B6:K       *6*:HBP    D6:F/8     E6:G-DP/1  F6:Do
+                                                         63>1o      
+                                                                    
+B.Giles-A1   *2*:Si     *4*:G/43   C7:Si>12   D7:W>23 1  *9*:Si     F7:HBP
+W.Harris-E7                                   2 b1                  
+W.Pena-G7                                                           
+E.Renter-A1  A8:K       B8:Si      C8:W>23 1  D8:L/6     E8:WP>12   F8:K
+                                   2 b1                  Sac/24>23  
+                                                                    
+F.Lewis-A1   A9:K       B9:Si>12   C9:W>3# 2  D9:Do>3#   E9:P-DP/1  F9:G/43
+C.Crisp-E7                         3 12 b1    2# 1#      5>3o       
+                                                                    
+
+
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 Boston Red Sox
+B.Robert-A1  G1:K
+             
+             
+F.Thomas-A1  G2:W>b1
+             
+             
+N.Markak-A1  G3:G/63
+             
+             
+V.Guerre-A1  *14*:F/7
+             
+             
+A.Gonzal-A1  G5:Do
+             
+             
+C.Beltra-A1  G6:Do>2#
+             
+             
+M.Mora-A1    G7:Do>2#
+W.Helms-F7   
+O.Infant-F8  
+J.Hardy-A1   G8:G/63
+             
+             
+M.Olivo-A1   G9:F/7
+L.Scott-D9   
+R.Hernan-E3  
+
+J.Ellsbu-A1  *12*:G/63  *14*:F/7
+                        
+                        
+D.Pedroi-A1  G2:G/43    H2:HR>b#
+                        
+                        
+T.Glaus-A1   G3:Si      H3:W>b1
+R.Gotay-D3              
+M.Lowell-D4             
+J.Posada-A1  G4:G/63    H4:Si>13
+                        
+                        
+D.Ortiz-A1   *13*:K     H5:W>12 b
+                        1
+                        
+K.Youkil-A1  G6:W>b1    H6:Si>3#
+                        2# 13
+                        
+B.Giles-A1   G7:F/8
+W.Harris-E7  
+W.Pena-G7    
+E.Renter-A1  G8:Si>12
+             
+             
+F.Lewis-A1   G9:G/63
+C.Crisp-E7   
+             
+
+

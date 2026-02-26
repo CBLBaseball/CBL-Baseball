@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2008 Anaheim Angels At 2008 Baltimore Orioles            10/27/2008
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  C.Figgins 3B        5  0  0  0 .000     B.Roberts 2B        4  1  1  0 .250  
+  H.Ramirez SS        4  2  2  0 .500     F.Thomas DH         3  2  1  2 .333  
+  H.Kendrick 2B       4  0  2  2 .500     N.Markakis LF       4  0  2  0 .500  
+  C.Lee LF            4  0  0  0 .000     V.Guerrero RF       3  0  0  0 .000  
+  M.Holliday RF       4  0  0  0 .000     A.Gonzalez 1B       4  1  1  1 .250  
+  P.Fielder 1B        3  0  2  0 .667     C.Beltran CF        2  0  0  1 .000  
+  G.Atkins DH         2  0  0  0 .000     M.Mora 3B           3  0  1  0 .333  
+  T.Hunter CF         4  0  0  0 .000     J.Hardy SS          3  0  0  0 .000  
+  B.Molina C          3  0  1  0 .333     M.Olivo C           3  0  0  0 .000  
+A-R.Willits PH        1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  7  2                 Totals      29  4  6  4
+
+A-Pinch Hit For Molina In 9th Inning
+
+Angels.......... 0 0 1  0 1 0  0 0 0  -  2  7  0
+Orioles......... 2 0 0  1 0 1  0 0    -  4  6  1
+
+[1]Angels (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lackey LOSS(0-1)           8       6   4   4   2   7   2   4.50  A1
+[1]Totals                    8       6   4   4   2   7   2
+
+[1]Orioles (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guthrie WIN(1-0)           5 2/3   6   2   1   3   5   0   1.59  A1 C9
+E.Gagne HOLD(1st)            0 1/3   0   0   0   0   1   0   0.00  D1 D1
+R.Springer HOLD(1st)         2 1/3   1   0   0   0   3   0   0.00  D2 D8
+J.Isringhaus SAVE(1st)       0 2/3   0   0   0   0   1   0   0.00  D9
+[1]Totals                    9       7   2   1   3  10   0
+
+ATTENDANCE- 75 DATE-  TIME- Night 
+UMPIRES- Larry Huck, Jeff Hammerlund, Rich Denny, Ed Glass
+T- 2:53
+LEFT ON BASE- Angels: 8  Orioles: 4
+DOUBLE PLAYS- Angels: 0  Orioles: 1
+ERRORS- M.Olivo
+DOUBLES- H.Kendrick(1st), P.Fielder-2(2nd)
+HOME RUNS- F.Thomas(1st), A.Gonzalez(1st)
+SACRIFICE FLIES- C.Beltran
+WALKS- P.Fielder, G.Atkins-2, F.Thomas, V.Guerrero
+STRIKE OUTS- C.Figgins-4, H.Kendrick, C.Lee, M.Holliday-2, G.Atkins, B.Molina,
+             B.Roberts-3, V.Guerrero, A.Gonzalez, M.Mora, J.Hardy
+GIDP- H.Kendrick
+WILD PITCHES- J.Guthrie-2
+
+In a good matchup it was the Baltimore Orioles 4, the Anaheim Angels 2 at
+Camden Yards.
+
+The game started off with Baltimore taking the lead in the first as they
+scored 2 runs on 2 base hits.  The key offensive moment was provided by Frank
+Thomas who brought the crowd to their feet when he cleared the fences for a
+two-run home run (his 1st of the season).  Anaheim was set down quietly in
+the 9th.  
+
+The winning pitcher was Jeremy Guthrie(1-0) who allowed 2 runs in 5 and 2/3
+innings. Jason Isringhausen gained credit for his 1st save.  John Lackey(0-1)
+was the loser.  
+
+[2]
+[1]SCORESHEET: 2008 Anaheim Angels at 2008 Baltimore Orioles
+C.Figgin-A1  A1:K       B1:G/43    C1:K       D1:K       E1:K
+                                                         
+                                                         
+H.Ramire-A1  A2:G/63    B2:Si      C2:E/2     *7*:Si
+                                              
+                                              
+H.Kendri-A1  A3:K       B3:WP>12   C3:WP>12   D3:G-DP/4
+                        Do>2#      Si>2#      63>1o
+                                              
+C.Lee-A1     *2*:L/6    B4:L/6     C4:F/9     D4:K
+                                              
+                                              
+M.Hollid-A1  A5:G/53    *4*:K      *6*:G/63   *8*:K
+                                              
+                                              
+P.Fielde-A1  A6:Do      B6:W>b1    C6:Do      D6:F/8
+                                              
+                                              
+G.Atkins-A1  A7:W>b1    B7:F/8     C7:W>b1    D7:K
+                                              
+                                              
+T.Hunter-A1  A8:P/6     B8:G/63    C8:P/5     *9*:F/8
+                                              
+                                              
+B.Molina-A1  *3*:K      *5*:P/4    C9:Si>23   D9:G/43
+R.Willit-D9                        12         
+                                              
+
+B.Robert-A1  A1:Si      *3*:K      C1:K       D1:K
+                                              
+                                              
+F.Thomas-A1  A2:HR>1#   B2:G/43    *6*:W>b1   *8*:L/6
+             b#                               
+                                              
+N.Markak-A1  A3:F/8     B3:F/8     C3:Si>12   D3:Si
+                                              
+                                              
+V.Guerre-A1  A4:K       *4*:G/3    C4:W>23 1  D4:G/43>1
+                                   2 b1       2
+                                              
+A.Gonzal-A1  A5:F/9     B5:HR>b#   C5:K       D5:G/43
+                                              
+                                              
+C.Beltra-A1  *2*:G/53   B6:G/63    C6:SF/8>3
+                                   #
+                                   
+M.Mora-A1    A7:Si      B7:P/6     C7:K
+                                   
+                                   
+J.Hardy-A1   A8:G/3>12  *5*:P/6    *7*:K
+                                   
+                                   
+M.Olivo-A1   A9:F/7     B9:G/53    C9:L/6
+                                   
+                                   
+
+

@@ -1,0 +1,212 @@
+[1]BOXSCORE: 2008 San Francisco Giants At 2008 Chicago (NL) Cubs       11/2/2008
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  D.Eckstein SS       3  0  0  0 .167     J.Jones CF,LF       1  1  0  0 .000  
+  L.Castillo 2B       4  0  0  0 .227     J.Vidro 2B          3  0  2  1 .385  
+  T.Helton 1B         2  0  1  0 .176   A-N.Punto 2B          1  0  0  0 .000  
+  B.Upton CF          4  0  0  0 .333     D.Lee 1B            4  0  0  0 .158  
+  M.Bradley RF        4  0  1  0 .167     B.Hawpe RF          4  0  1  0 .353  
+  G.Jenkins LF        3  1  0  0 .125     A.Soriano LF        3  1  1  1 .176  
+  R.Winn DH           4  0  1  0 .444   B-F.Pie CF            1  0  0  0 .500  
+  P.Feliz 3B          3  0  1  1 .235     A.Ramirez 3B        4  1  2  1 .211  
+  G.Laird C           3  0  0  0 .000     M.Murton DH         4  0  0  0 .200  
+                                          R.Theriot SS        2  0  0  0 .188  
+                                          P.Lo Duca C         3  0  0  0 .188  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  4  1                 Totals      30  3  6  3
+
+A-Subbed Defensively (2B) For Vidro In 7th Inning
+B-Subbed Defensively (CF) For Soriano In 7th Inning
+
+Giants.......... 0 0 0  0 0 0  1 0 0  -  1  4  0
+Cubs............ 0 1 1  0 0 1  0 0    -  3  6  0
+
+[1]Giants (2-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Lincecum LOSS(0-2)         6       5   3   3   2  10   2   5.06  A1 C8
+K.Gregg                      1       0   0   0   1   0   0   0.00  C9 D3
+T.Miller                     0 1/3   1   0   0   0   0   0   0.00  D4 D5
+F.Cordero                    0 2/3   0   0   0   0   0   0   4.50  D6
+[1]Totals                    8       6   3   3   3  10   2
+
+[1]Cubs (3-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(2-0)          6 1/3   4   1   1   4   9   0   1.35  A1 C8
+C.Marmol SAVE(3rd)           2 2/3   0   0   0   0   5   0   0.00  C9
+[1]Totals                    9       4   1   1   4  14   0
+
+ATTENDANCE- 38,194 DATE-  TIME- Day 
+UMPIRES- Larry Huck, Jeff Hammerlund, Rich Denny, Ed Glass
+T- 2:36
+LEFT ON BASE- Giants: 6  Cubs: 7
+DOUBLE PLAYS- Giants: 0  Cubs: 1
+DOUBLES- R.Winn(3rd), J.Vidro(1st), B.Hawpe(3rd), A.Ramirez(1st)
+HOME RUNS- A.Soriano(1st), A.Ramirez(1st)
+STOLEN BASES- R.Theriot(3rd)
+WALKS- D.Eckstein, T.Helton-2, G.Jenkins, J.Jones-2, R.Theriot
+HIT BY PITCH- J.Jones
+STRIKE OUTS- D.Eckstein, T.Helton, B.Upton-3, M.Bradley-3, G.Jenkins-3, R.Winn,
+             P.Feliz, G.Laird, D.Lee, B.Hawpe-2, A.Soriano-2, M.Murton-3,
+             R.Theriot, P.Lo Duca
+GIDP- B.Upton
+WEB GEMS- Top 4th: Brad Hawpe robbed Randy Winn of an extra base hit.
+
+Carlos Zambrano(2-0) and Tim Lincecum(0-2) treated the Chicago (NL) fans to a
+fine pitching duel at Wrigley Field.  The Chicago (NL) Cubs eventually
+emerged as victors over the San Francisco Giants by the score of 3 to
+1.
+
+Zambrano delivered a fine performance for Chicago (NL).  He surrendered 4 hits
+and 4 walks in 6 and 1/3 innings.  Zambrano got help from Carlos Marmol who
+pitched great and earned his 3rd save.  
+
+[2]
+[1]SCORESHEET: 2008 San Francisco Giants at 2008 Chicago (NL) Cubs
+D.Eckste-A1  A1:K       B1:W>b1    C1:G/63    D1:G/63
+                                              
+                                              
+L.Castil-A1  A2:G/43    B2:G/13    *6*:G/43   *8*:F/7
+                                              
+                                              
+T.Helton-A1  A3:W>b1    *4*:W>b1   C3:Si      D3:K
+                                              
+                                              
+B.Upton-A1   A4:K       B4:K       C4:G-DP/6  D4:K
+                                   43>1o      
+                                              
+M.Bradle-A1  *2*:K      B5:Si>13   *7*:K      *9*:K
+                                              
+                                              
+G.Jenkin-A1  A6:K       B6:K       C6:W>b1    D6:K
+                                              
+                                              
+R.Winn-A1    A7:G/13    B7:F/9     C7:Do>13   D7:K
+                                              
+                                              
+P.Feliz-A1   *3*:P/6    *5*:K      C8:Si>3#
+                                   23
+                                   
+G.Laird-A1   A9:K       B9:G/63    C9:P/6
+                                   
+                                   
+
+J.Jones-A1   A1:G/43    B1:W>b1    C1:HBP     D1:W>b1
+                                              
+                                              
+J.Vidro-A1   A2:F/7     B2:Do>1#   C2:Si>12   D2:FC/32>
+N.Punto-C8                                    3o 12
+                                              
+D.Lee-A1     A3:G/63    B3:G/63    C3:K       D3:F/9
+                                              
+                                              
+B.Hawpe-A1   *2*:F/7    *4*:K      *6*:K      *8*:Do
+                                              
+                                              
+A.Sorian-A1  A5:K       B5:K       C5:HR>b#   D5:F/8
+F.Pie-C8                                      
+                                              
+A.Ramire-A1  A6:HR>b#   B6:Do      C6:G/63    D6:F/9
+                                              
+                                              
+M.Murton-A1  A7:K       B7:K       C7:K       D7:G/13
+                                              
+                                              
+R.Therio-A1  *3*:P/4    *5*:K      *7*:W>b1
+                                   
+                                   
+P.Lo Duc-A1  A9:K       B9:F/7     C9:SB>12
+                                   G/3>23
+                                   
+
+
+[1]*** TOP OF INNING 1 ***
+0     D.Eckstein  5- 7     0 Strike Out                     b-0 
+1     L.Castillo  6- 6     0 Ground Out                     b-0 
+2     T.Helton    1- 7     0 Walk                           b-1 
+2 1   B.Upton     3- 5     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     J.Jones     3- 7     0 Ground Out                     b-0 
+1     J.Vidro     5- 7 16  0 Fly Out                        b-0 
+2     D.Lee       4- 5     0 Ground Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     M.Bradley   3- 8     0 Strike Out                     b-0 
+1     G.Jenkins   6- 8     0 Strike Out                     b-0 
+2     R.Winn      4- 3     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     B.Hawpe     6- 3     0 Fly Out                        b-0 
+1     A.Soriano   1- 7     0 Strike Out                     b-0 
+2     A.Ramirez   3- 4  8  0 Home Run                       b-H 
+2     M.Murton    5- 6     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 3 ***
+0     P.Feliz     3- 8     0 Pop Out                        b-0 
+1     G.Laird     1- 5     0 Strike Out                     b-0 
+2     D.Eckstein  4- 7     0 Walk                           b-1 
+2 1   L.Castillo  3- 8     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     R.Theriot   2- 6     0 Pop Out                        b-0 
+1     P.Lo Duca   6- 6     0 Strike Out                     b-0 
+2     J.Jones     4- 7     0 Walk                           b-1 
+2 1   J.Vidro     2- 4  3  0 Double                         1-H b-3 
+2   3 D.Lee       3- 7     0 Ground Out                     b-0 
+[1]*** TOP OF INNING 4 ***
+0     T.Helton    4-11     0 Walk                           b-1 
+0 1   B.Upton     5- 7     0 Strike Out                     b-0 
+1 1   M.Bradley   6- 7     0 Single                         1-3 b-1 
+1 1 3 G.Jenkins   1- 8     0 Strike Out                     b-0 
+2 1 3 R.Winn      6- 3     0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     B.Hawpe     6- 5     0 Strike Out                     b-0 
+1     A.Soriano   3- 8     0 Strike Out                     b-0 
+2     A.Ramirez   3- 6     0 Double                         b-2 
+2  2  M.Murton    6- 6     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     P.Feliz     5- 7     0 Strike Out                     b-0 
+1     G.Laird     5- 6     0 Ground Out                     b-0 
+2     D.Eckstein  6- 5     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     R.Theriot   5- 9     0 Strike Out                     b-0 
+1     P.Lo Duca   6- 3     0 Fly Out                        b-0 
+2     J.Jones     2-12     0 HBP                            b-1 
+2 1   J.Vidro     1- 3  4  0 Single                         1-2 b-1 
+2 12  D.Lee       3- 6     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 6 ***
+0     L.Castillo  6- 6     0 Ground Out                     b-0 
+1     T.Helton    6- 9 19  0 Single                         b-1 
+1 1   B.Upton     2- 9     0 Ground Out Double Play         1-o b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     B.Hawpe     2- 5     0 Strike Out                     b-0 
+1     A.Soriano   1- 9  6  0 Home Run                       b-H 
+1     A.Ramirez   4-12     0 Ground Out                     b-0 
+2     M.Murton    4- 8     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+                             SUBSTITUTE LF- Jacque Jones
+                             SUBSTITUTE 2B- Nick Punto
+                             SUBSTITUTE CF- Felix Pie
+0     M.Bradley   4- 5     0 Strike Out                     b-0 
+1     G.Jenkins   4- 7     0 Walk                           b-1 
+1 1   R.Winn      2- 4 17  0 Double                         1-3 b-2 
+1  23 P.Feliz     4- 9  1  0 Single                         3-H 2-3 b-1 
+                             SUBSTITUTE P - Carlos Marmol
+1 1 3 G.Laird     1-11     0 Pop Out                        b-0 
+2 1 3 D.Eckstein  2- 8     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     R.Theriot   5-11     0 Walk                           b-1 
+                             SUBSTITUTE P - Kevin Gregg
+0 1                        0 Stolen Base                    1-2 
+0  2  P.Lo Duca   6- 8     0 Ground Out                     2-3 b-0 
+1   3 J.Jones     1- 2     0 Walk                           b-1 
+1 1 3 N.Punto              0 Fielders Choice                3-o 1-2 b-1 
+2 12  D.Lee       5- 7     0 Fly Out                        b-0 
+[1]*** TOP OF INNING 8 ***
+0     L.Castillo  3- 4     0 Fly Out                        b-0 
+1     T.Helton    6- 6     0 Strike Out                     b-0 
+2     B.Upton     3- 6     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+                             SUBSTITUTE P - Trever Miller
+0     B.Hawpe     3- 6  4  0 Double                         b-2 
+0  2  F.Pie       2- 7     0 Fly Out                        b-0 
+                             SUBSTITUTE P - Francisco Cordero
+1  2  A.Ramirez   2-10     0 Fly Out                        b-0 
+2  2  M.Murton    2- 8     0 Ground Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+0     M.Bradley   5- 6     0 Strike Out                     b-0 
+1     G.Jenkins   3- 9     0 Strike Out                     b-0 
+2     R.Winn      2- 9     0 Strike Out                     b-0 

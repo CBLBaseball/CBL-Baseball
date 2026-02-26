@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 Anaheim Angels            10/28/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  B.Roberts 2B        4  0  1  0 .278     C.Figgins 3B        4  0  0  0 .071  
+  F.Thomas DH         4  0  2  1 .333     R.Willits DH        4  0  1  1 .143  
+  N.Markakis LF       5  2  3  0 .611   A-G.Atkins PH         1  0  0  1 .100  
+  V.Guerrero RF       5  0  1  1 .176     H.Ramirez SS        4  1  1  0 .471  
+  A.Gonzalez 1B       5  1  3  0 .278     C.Lee LF            4  0  2  0 .286  
+  C.Beltran CF        5  1  1  2 .250     M.Holliday RF       4  1  1  0 .250  
+  M.Mora 3B           4  1  0  1 .154     P.Fielder 1B        4  0  2  0 .462  
+  J.Hardy SS          4  1  3  0 .313     T.Hunter CF         4  0  0  0 .063  
+  M.Olivo C           4  0  0  0 .188     H.Kendrick 2B       3  1  1  1 .235  
+                                          M.Napoli C          3  1  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  6 14  5                 Totals      35  4  8  3
+
+A-Pinch Hit For Willits In 9th Inning
+
+Orioles......... 0 3 0  0 1 0  1 1 0  -  6 14  1
+Angels.......... 0 0 1  1 0 0  0 1 1  -  4  8  1
+
+[1]Orioles (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           7 1/3   8   3   2   2  10   0   2.45  A1 D4
+L.Gardner HOLD(1st)          0 1/3   0   0   0   0   0   0   0.00  D5 D5
+P.Feliciano HOLD(1st)        0 2/3   0   1   0   2   1   0   0.00  D6 E1
+J.Isringhaus SAVE(2nd)       0 2/3   0   0   0   0   0   0   6.75  E2
+[1]Totals                    9       8   4   2   4  11   0
+
+[1]Angels (1-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lackey LOSS(0-2)           7 1/3  13   6   6   1   8   0   5.87  A1 E1
+B.Fuentes                    1 2/3   1   0   0   0   0   0   0.00  E2
+[1]Totals                    9      14   6   6   1   8   0
+
+ATTENDANCE- -78 DATE-  TIME- Night 
+UMPIRES- Kevin Stafford, Shannon Hall, Rob Hamilton, Brian Alexander
+T- 3:09
+LEFT ON BASE- Orioles:10  Angels: 8
+DOUBLE PLAYS- Orioles: 1  Angels: 1
+ERRORS- M.Mora, M.Napoli
+DOUBLES- J.Hardy(3rd), P.Fielder(3rd)
+TRIPLES- C.Beltran(1st)
+STOLEN BASES- N.Markakis-2(2nd)
+SACRIFICE HITS- M.Mora
+WALKS- B.Roberts, C.Figgins, H.Ramirez, H.Kendrick, M.Napoli
+HIT BY PITCH- F.Thomas
+STRIKE OUTS- B.Roberts, F.Thomas, V.Guerrero-2, C.Beltran, M.Olivo-3, C.Figgins,
+             R.Willits-2, H.Ramirez-2, C.Lee, T.Hunter-3, H.Kendrick, M.Napoli
+GIDP- V.Guerrero, M.Holliday
+WILD PITCHES- R.Johnson, P.Feliciano, J.Lackey
+PASSED BALLS- M.Olivo
+
+Randy Johnson whiffed 10 batters at Angels Stadium as the Baltimore Orioles
+beat the Anaheim Angels 6 to 4.
+
+Johnson(1-0) gave Baltimore a solid outing. He allowed 8 hits and 2 walks in 7
+and 1/3 innings.  For the game Baltimore out-hit Anaheim 14 to 8.  
+
+Johnson got help from Jason Isringhausen who was credited with his 2nd save.
+John Lackey(0-2) was tagged with the loss.  Johnson was asked about his big
+strikeout performance, 'Well, it's a little odd when you rack up these
+numbers on the road - instead of cheers and a running tally in the stands,
+everything gets real still and quiet.  Just strange - but it's nice to be
+able to take the crowd out of the game.'
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 Anaheim Angels
+B.Robert-A1  A1:K       B1:L/3     C1:Si>1o   D1:L/4     E1:W>12 b
+                                                         1
+                                                         
+F.Thomas-A1  A2:Si      B2:HBP     C2:K       D2:F/7     E2:Si>2#
+                                                         13
+                                                         
+N.Markak-A1  A3:Si>12   B3:F/8     *5*:Si     *7*:Si     E3:P/6
+                                                         
+                                                         
+V.Guerre-A1  A4:G-DP/6  *3*:K      C4:SB>12   D4:SB>12   E4:L/6
+             43>1o                 Si>2#      K          
+                                                         
+A.Gonzal-A1  *2*:Si     B5:Si      C5:G/3>12  D5:Si>23   *9*:G/43
+                                                         
+                                                         
+C.Beltra-A1  A6:Tr>1#   B6:F/8     C6:K       D6:G/43>3  E6:P/6
+                                              # 12       
+                                                         
+M.Mora-A1    A7:Sac+FC  B7:F/8     C7:F/9     D7:F/7     E7:G/63
+             >3# b1                                      
+                                                         
+J.Hardy-A1   A8:Do>13   *4*:Si     *6*:E/2    *8*:Si
+                                              
+                                              
+M.Olivo-A1   A9:WP>3#   B9:K       C9:Force/  D9:K
+             23 K                  16>1o b1   
+                                              
+
+C.Figgin-A1  A1:F/8     B1:WP>12   *5*:K      D1:L/6     E1:W>23 1
+                        G/63                             2 b1
+                                                         
+R.Willit-A1  A2:K       B2:Si>2#   C2:K       *8*:G/63   E2:Force/
+G.Atkins-E2                                              64>3# 23
+                                                         1o b1
+H.Ramire-A1  A3:K       B3:K       C3:W>b1    D3:Si      E3:P/6
+                                                         
+                                                         
+C.Lee-A1     *2*:Si     *4*:K      C4:G/63    D4:Si>12
+                                              
+                                              
+M.Hollid-A1  A5:G-DP/1  B5:Si      *6*:G/31   D5:F/8
+             63>1o                            
+                                              
+P.Fielde-A1  A6:Si      B6:Do>13   C6:G/3     D6:WP>23
+                                              12 PB>3#
+                                              23 G/43
+T.Hunter-A1  A7:K       B7:K       C7:G/63    *9*:K
+                                              
+                                              
+H.Kendri-A1  *3*:K      B8:Si>3#   *7*:L/6    D8:W>b1
+                        23                    
+                                              
+M.Napoli-A1  A9:W>b1    B9:G/53    C9:K       D9:E/5>12
+                                              
+                                              
+
+

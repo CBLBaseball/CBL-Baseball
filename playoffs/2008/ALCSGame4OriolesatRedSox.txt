@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 Boston Red Sox             11/2/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  B.Roberts 2B        5  2  3  1 .500     D.Pedroia 2B        4  0  0  0 .227  
+  F.Thomas DH         4  0  1  0 .200     E.Renteria SS       3  0  1  0 .313  
+  N.Markakis LF       4  1  2  1 .300     J.Posada C          4  0  1  0 .455  
+  V.Guerrero RF       3  0  1  1 .600     T.Glaus DH          3  0  1  0 .333  
+  A.Gonzalez 1B       4  1  2  1 .364     K.Youkilis 1B       4  0  0  0 .143  
+  C.Beltran CF        4  0  0  0 .091     M.Lowell 3B         4  0  0  0 .176  
+  M.Mora 3B           4  0  0  0 .222     W.Pena LF           2  0  1  0 .200  
+  J.Hardy SS          4  1  2  0 .364     J.Payton RF         3  0  0  0 .429  
+  M.Olivo C           4  0  0  0 .000     C.Crisp CF          3  0  0  0 .100  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 11  4                 Totals      30  0  4  0
+
+
+Orioles......... 3 0 0  0 1 0  0 0 1  -  5 11  0
+Red Sox......... 0 0 0  0 0 0  0 0 0  -  0  4  1
+
+[1]Orioles (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           9       4   0   0   3  18   0   0.00  A1
+[1]Totals                    9       4   0   0   3  18   0
+
+[1]Red Sox (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett LOSS(1-1)          9      11   5   4   1   6   0   3.31  A1
+[1]Totals                    9      11   5   4   1   6   0
+
+ATTENDANCE- -23 DATE-  TIME- Day 
+UMPIRES- Shannon Hall, Rob Hamilton, Brian Alexander, Kevin Stafford
+T- 2:43
+LEFT ON BASE- Orioles: 6  Red Sox: 6
+DOUBLE PLAYS- Orioles: 1  Red Sox: 2
+ERRORS- M.Lowell
+DOUBLES- N.Markakis(2nd), V.Guerrero(1st), J.Hardy(2nd)
+TRIPLES- A.Gonzalez(1st)
+STOLEN BASES- B.Roberts(1st)
+SACRIFICE FLIES- V.Guerrero
+WALKS- F.Thomas, E.Renteria, T.Glaus, W.Pena
+STRIKE OUTS- B.Roberts, F.Thomas, N.Markakis, V.Guerrero, A.Gonzalez, M.Olivo,
+             D.Pedroia, E.Renteria-2, J.Posada-2, T.Glaus-2, K.Youkilis-3,
+             M.Lowell-3, W.Pena, J.Payton-2, C.Crisp-2
+GIDP- N.Markakis, M.Olivo, J.Posada
+
+Randy Johnson whiffed 18 batters at Fenway Park where the Baltimore Orioles
+beat the Boston Red Sox 5 to 0.
+
+Johnson(1-0) was tremendous on the mound for Baltimore.  He didn't allow much,
+just 4 hits and 3 walks in 9 innings.  Baltimore finished with 11 hits in the
+victory.  
+
+Josh Beckett(1-1) was the loser.  He gave up 5 runs and 11 hits in 9 innings.
+Johnson was humble when questioned about his performance, 'Well, I felt
+pretty confident in my pitches this afternoon.  But, I had great support
+behind me and I just threw what was called.  That was an extremely well
+called game!'
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 Boston Red Sox
+B.Robert-A1  A1:Si      B1:K       *5*:Si     *7*:G/63   E1:Si>2#
+                                                         
+                                                         
+F.Thomas-A1  A2:L/6     *3*:W>b1   C2:SB>12   D2:Si      E2:L/6
+                                   K                     
+                                                         
+N.Markak-A1  A3:Si>13   B3:K       C3:Do>2#   D3:G-DP/6
+                                              43>1o
+                                              
+V.Guerre-A1  A4:SF/7>3  B4:Do>13   C4:K       *8*:G/13
+             #                                
+                                              
+A.Gonzal-A1  A5:Tr>1#   B5:G/43    C5:Si>23   D5:K
+                                              
+                                              
+C.Beltra-A1  A6:E/5>3#  B6:G/43    C6:G/43    D6:F/8
+             b2                               
+                                              
+M.Mora-A1    A7:G/63    *4*:G/23   *6*:G/53   *9*:G/31
+                                              
+                                              
+J.Hardy-A1   *2*:Si     B8:P/6     C8:F/8     D8:Do
+                                              
+                                              
+M.Olivo-A1   A9:G-DP/6  B9:G/53    C9:F/8     D9:K
+             43>1o                            
+                                              
+
+D.Pedroi-A1  A1:G/43    B1:K       *6*:F/8    D1:FO/5
+                                              
+                                              
+E.Renter-A1  A2:K       *4*:K      C2:Si      *9*:W>b1
+                                              
+                                              
+J.Posada-A1  A3:K       B3:K       C3:G-DP/6  D3:Si>13
+                                   43>1o      
+                                              
+T.Glaus-A1   *2*:Si     B4:W>b1    *7*:K      D4:K
+                                              
+                                              
+K.Youkil-A1  A5:F/7     B5:K       C5:K       D5:K
+                                              
+                                              
+M.Lowell-A1  A6:K       *5*:K      C6:G/63    D6:K
+                                              
+                                              
+W.Pena-A1    A7:K       B7:Si      *8*:W>b1
+                                   
+                                   
+J.Payton-A1  *3*:K      B8:Force/  C8:K
+                        46>1o b1   
+                                   
+C.Crisp-A1   A9:L/6     B9:K       C9:K
+                                   
+                                   
+
+

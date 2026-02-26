@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2008 New York (NL) Mets At 2008 Chicago (NL) Cubs         11/8/2008
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  J.Reyes SS          4  2  3  0 .455     M.Byrd CF,LF        4  1  1  0 .208  
+  A.Rowand CF         4  0  0  0 .077     J.Vidro 2B          2  1  0  0 .263  
+  J.Thome DH          5  1  1  1 .250   A-E.Aybar 2B          0  0  0  0 .333  
+  D.Wright 3B         3  1  2  1 .455   B-D.Johnson PH        1  0  0  0 .000  
+  J.Varitek C         4  0  2  1 .222   C-N.Punto 2B,SS       0  0  0  0 .000  
+  K.Millar 1B         4  0  1  2 .273     D.Lee 1B            4  1  2  1 .222  
+  B.Wilkerson RF      4  0  0  0 .000     B.Hawpe RF          3  2  1  3 .333  
+  T.Graffanino 2B     5  1  1  0 .200   E-F.Pie CF            0  0  0  0 .500  
+  D.Roberts LF        4  1  1  0 .200     A.Soriano LF        4  0  0  0 .125  
+                                        F-M.Fontenot 2B       0  0  0  0 .154  
+                                          A.Ramirez 3B        4  2  2  1 .259  
+                                          M.Murton DH         3  1  2  0 .500  
+                                          R.Theriot SS        3  0  0  0 .217  
+                                        D-J.Jones PH,RF       1  0  1  3 .333  
+                                          P.Lo Duca C         4  0  1  0 .261  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  6 11  5                 Totals      33  8 10  8
+
+A-Subbed Defensively (2B) For Vidro In 7th Inning
+B-Pinch Hit For Aybar In 7th Inning
+C-Subbed Defensively (2B) For Johnson In 8th Inning
+D-Pinch Hit For Theriot In 8th Inning
+E-Subbed Defensively (CF) For Hawpe In 9th Inning
+F-Subbed Defensively (2B) For Soriano In 9th Inning
+
+Mets............ 0 0 4  0 0 0  0 2 0  -  6 11  0
+Cubs............ 2 0 0  1 2 0  0 3    -  8 10  1
+
+[1]Mets (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz                     6 2/3   8   5   5   1   6   2   3.95  A1 D1
+A.Embree                     0 2/3   0   1   1   1   0   0   6.75  D2 D4
+J.Valverde L(0-1) BS(1st)    0 1/3   2   2   2   1   0   0   3.86  D5 D8
+A.Heilman                    0 1/3   0   0   0   0   0   0   0.00  D9
+[1]Totals                    8      10   8   8   3   6   2
+
+[1]Cubs (5-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano                   6       8   4   4   6   7   0   2.79  A1 D4
+C.Marmol BS(1st)             1 1/3   2   2   2   1   3   0   2.16  D5 E2
+C.Wilson                     0 1/3   0   0   0   0   0   0   0.00  E3 E3
+R.Seanez WIN(1-0)            1 1/3   1   0   0   1   2   0   3.72  E4
+[1]Totals                    9      11   6   6   8  12   0
+
+ATTENDANCE- 36,461 DATE-  TIME- Day 
+UMPIRES- Jim Robbins, Randy Shavis, Rick Mras, Jesus Gonzalez
+T- 3:23
+LEFT ON BASE- Mets:12  Cubs: 4
+DOUBLE PLAYS- Mets: 1  Cubs: 0
+ERRORS- R.Theriot
+DOUBLES- K.Millar(2nd), T.Graffanino(1st), J.Jones(1st)
+HOME RUNS- B.Hawpe(2nd), A.Ramirez(2nd)
+STOLEN BASES- J.Reyes(3rd)
+CAUGHT STEALING- J.Reyes
+WALKS- J.Reyes, A.Rowand, D.Wright-2, J.Varitek, K.Millar, B.Wilkerson,
+       D.Roberts, J.Vidro, B.Hawpe, M.Murton
+STRIKE OUTS- A.Rowand-3, J.Thome-3, J.Varitek, K.Millar-2, T.Graffanino,
+             D.Roberts-2, J.Vidro, B.Hawpe, A.Soriano-2, A.Ramirez, P.Lo Duca
+GIDP- M.Byrd
+WILD PITCHES- J.Smoltz, C.Marmol-2
+
+Aramis Ramirez blasted a homerun as the Chicago (NL) Cubs beat the New York
+(NL) Mets by a score of 8 to 6.
+
+Chicago (NL) won the game with a rally in the 8th inning scoring 3 runs
+utilizing 2 base hits.  After an out was recorded, Brad Hawpe initiated the
+scoring spurt when he drew a walk.  After another out, Ramirez stepped in and
+he lined a single.  Matt Murton then drew a walk to load the bases.  Jacque
+Jones came up and he doubled emptying the bases.  This was the kind of game
+that many fans love as the lead changed hands 5 times.  
+
+Rudy Seanez(1-0) picked up the victory, allowing no runs in 1 and 1/3 innings.
+Jose Valverde(0-1) ended up with the loss in relief.  He surrendered 2 runs
+and 2 hits in 1/3 of an inning.
+[2]
+[1]SCORESHEET: 2008 New York (NL) Mets at 2008 Chicago (NL) Cubs
+J.Reyes-A1   A1:W>b1    B1:Si>13   C1:Force/  D1:Si      E1:WP>3#
+                                   14>1o b1              Si
+                                                         
+A.Rowand-A1  A2:CS/24>  B2:K       C2:K       D2:K       E2:SB>12
+             1o F/8                                      W>b1
+                                                         
+J.Thome-A1   A3:K       B3:Si>3#   *5*:K      D3:K       E3:Force/
+                        12                               64>23 1o
+                                                         b1
+D.Wright-A1  *2*:G/63   B4:W>23 1  C4:W>b1    *7*:Si     E4:Si>3#
+                        2 b1                             12
+                                                         
+J.Varite-A1  A5:Si+E/6  B5:G/3>3#  C5:Si>12   D5:K       E5:W>23 1
+                        23 12                            2 b1
+                                                         
+K.Millar-A1  A6:G/43>2  B6:Do>3#   C6:W>23 1  D6:K       E6:K
+             3          2#         2 b1                  
+                                                         
+B.Wilker-A1  A7:W>b1    B7:P/2     C7:L/4     D7:G/13    *9*:L/4
+                                                         
+                                                         
+T.Graffa-A1  A8:F/8     *4*:K      C8:G/63    *8*:Do     E8:G/13
+                                                         
+                                                         
+D.Robert-A1  *3*:W>b1   B9:Si      *6*:F/7    D9:WP>23   E9:K
+                                              K          
+                                                         
+
+M.Byrd-A1    A1:G/63    *3*:G/43   C1:Si      D1:G-DP/6
+                                              43>1o
+                                              
+J.Vidro-A1   A2:K       B2:G/31    C2:W>12 b  D2:G/43
+E.Aybar-C9                         1          
+D.Johnso-D2+                                  
+D.Lee-A1     A3:Si      B3:P/2     C3:Si>2#   *8*:G/53
+                                   13         
+                                              
+B.Hawpe-A1   A4:HR>1#   *4*:K      C4:G/63>3  D4:W>b1
+F.Pie-E1     b#                    # 12       
+                                              
+A.Sorian-A1  A5:K       B5:G/43    C5:K       D5:F/7
+M.Fonten-E1                                   
+                                              
+A.Ramire-A1  *2*:G/43   B6:HR>b#   *6*:K      D6:Si>13
+                                              
+                                              
+M.Murton-A1  A7:Si      B7:Si      C7:L/6     D7:W>12 b
+                                              1
+                                              
+R.Therio-A1  A8:G/3>12  B8:WP>12   C8:F/9     D8:Do>3#
+J.Jones-D8              F/9                   2# 1#
+                                              
+P.Lo Duc-A1  A9:K       *5*:G/43   *7*:Si     D9:G/13
+                                              
+                                              
+
+

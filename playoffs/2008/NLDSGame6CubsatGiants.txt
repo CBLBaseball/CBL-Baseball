@@ -1,0 +1,235 @@
+[1]BOXSCORE: 2008 Chicago (NL) Cubs At 2008 San Francisco Giants      11/12/2008
+
+[1]  Cubs               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  M.Byrd CF,LF        4  0  0  0 .200     L.Castillo 2B       4  0  1  0 .231  
+  J.Vidro DH          4  0  0  0 .294     T.Helton 1B         3  0  0  0 .150  
+  D.Lee 1B            4  1  1  1 .174     J.Guillen DH        4  0  1  0 .250  
+  A.Ramirez 3B        4  1  1  0 .217     B.Upton CF          4  0  1  0 .320  
+  M.Murton RF         4  1  3  2 .444     R.Winn RF           4  0  0  0 .364  
+B-J.Jones RF          0  0  0  0 .000     S.Stewart LF        3  0  1  0 .429  
+  A.Soriano LF        3  0  0  1 .150   E-D.Ortmeier PH       0  0  0  0 .000  
+C-F.Pie CF            0  0  0  0 .500   F-G.Jenkins PH        0  0  0  0 .125  
+  P.Lo Duca C         3  1  2  0 .263     G.Laird C           4  0  0  0 .000  
+  E.Aybar 2B          3  0  1  0 .333     P.Feliz 3B          3  0  1  0 .250  
+A-B.Hawpe PH          1  0  0  0 .333     J.McDonald SS       2  0  0  0 .364  
+D-N.Punto 2B          0  0  0  0 .000                                          
+  R.Theriot SS        4  1  2  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5 10  4                 Totals      31  0  5  0
+
+A-Pinch Hit For Aybar In 8th Inning
+B-Subbed Defensively (RF) For Murton In 8th Inning
+C-Subbed Defensively (CF) For Soriano In 8th Inning
+D-Subbed Defensively (2B) For Hawpe In 8th Inning
+E-Pinch Hit For Stewart In 9th Inning
+F-Pinch Hit For Ortmeier In 9th Inning
+
+Cubs............ 2 1 0  0 0 0  0 1 1  -  5 10  0
+Giants.......... 0 0 0  0 0 0  0 0 0  -  0  5  2
+
+[1]Cubs (4-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Marshall WIN(1-0)          8 2/3   5   0   0   1   4   0   0.00  A1 D5
+C.Marmol                     0 1/3   0   0   0   1   1   0   0.00  D6
+[1]Totals                    9       5   0   0   2   5   0
+
+[1]Giants (2-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Zito LOSS(0-1)             5       6   3   2   3   6   0   3.60  A1 C5
+T.Wellemeyer                 1       2   0   0   0   1   0   0.00  C6 D1
+O.Dotel                      1       1   1   1   0   1   0   5.40  D2 D5
+B.Hennessey                  0 2/3   0   0   0   0   0   0   0.00  D6 D7
+T.Miller                     0 1/3   0   0   0   0   1   0   0.00  D8 D8
+F.Cordero                    1       1   1   0   0   1   0   3.60  D9
+[1]Totals                    9      10   5   3   3  10   0
+
+ATTENDANCE- 128 DATE-  TIME- Day 
+UMPIRES- Rob Hamilton, Brian Alexander, Kevin Stafford, Shannon Hall
+T- 2:26
+LEFT ON BASE- Cubs: 7  Giants: 7
+DOUBLE PLAYS- Cubs: 1  Giants: 2
+ERRORS- R.Winn, G.Laird
+DOUBLES- M.Murton(1st), R.Theriot(1st), P.Feliz(1st)
+TRIPLES- M.Murton(1st)
+SACRIFICE FLIES- A.Soriano
+WALKS- M.Byrd, D.Lee, P.Lo Duca, T.Helton, G.Jenkins
+HIT BY PITCH- J.McDonald
+STRIKE OUTS- M.Byrd-3, J.Vidro, D.Lee, A.Ramirez, M.Murton, A.Soriano, E.Aybar,
+             B.Hawpe, B.Upton-2, G.Laird-2, J.McDonald
+GIDP- A.Soriano, R.Theriot, J.Guillen
+CATCHERS INTERFERENCE- J.Vidro
+WILD PITCHES- T.Wellemeyer
+
+Sean Marshall(1-0), with relief help from Carlos Marmol, shut down the San
+Francisco Giants hitters at SBC Park.  The Chicago (NL) Cubs came away with a
+5 to 0 victory.
+
+Chicago (NL) set the tone of the game in the first inning when they scored 2
+runs on 3 hits.  The early run support proved sufficient for Marshall and
+Chicago (NL).  That was all the run support Marshall required.  Overall
+Chicago (NL) out-hit San Francisco 10 to 5.  
+
+The losing pitcher was Barry Zito(0-1).  He allowed 6 hits and 3 walks in 5
+innings.
+[2]
+[1]SCORESHEET: 2008 Chicago (NL) Cubs at 2008 San Francisco Giants
+M.Byrd-A1    A1:K       B1:W>b1    C1:K       D1:F/9     E1:K
+                                                         
+                                                         
+J.Vidro-A1   A2:F/8     B2:CatInt  C2:K       *7*:G/3    E2:G/63
+                        /2>12 b1                         
+                                                         
+D.Lee-A1     A3:Si      B3:W>3# 2  *5*:G/13   D3:K       E3:G/63
+                        3 12 b1                          
+                                                         
+A.Ramire-A1  A4:Si>13   B4:F/7     C4:K       D4:G/63
+                                              
+                                              
+M.Murton-A1  A5:Do>3#   *3*:Si     C5:K       *8*:Tr
+J.Jones-D9   2#                               
+                                              
+A.Sorian-A1  A6:G/43    B6:G-DP/3  *6*:K      D6:SF/7>3
+F.Pie-D9                63>1o                 #
+                                              
+P.Lo Duc-A1  *2*:W>b1   B7:Si      C7:Si      D7:L/5
+                                              
+                                              
+E.Aybar-A1   A8:Si>12   B8:K       C8:F/7     D8:K
+B.Hawpe-D8                                    
+N.Punto-D9                                    
+R.Therio-A1  A9:G-DP/4  *4*:F/7    C9:WP>12   *9*:Do+E/
+             63>23 1o              Si>23      9>b#
+                                              
+
+L.Castil-A1  A1:Si      B1:FO/2    C1:L/6     D1:G/53
+                                              
+                                              
+T.Helton-A1  A2:F/8     *4*:P/3    *6*:W>b1   *9*:G/43
+                                              
+                                              
+J.Guille-A1  A3:F/7     B3:G/43    C3:G-DP/1  D3:Si
+                                   63>1o      
+                                              
+B.Upton-A1   A4:K       B4:K       C4:G/23    D4:Si>12
+                                              
+                                              
+R.Winn-A1    *2*:G/63   *5*:G/53   *7*:G/53   D5:G/43>2
+                                              3 12
+                                              
+S.Stewar-A1  A6:G/63    B6:Si      C6:G/53    D6:W>b1
+D.Ortmei-D6                                   
+G.Jenkin-D6                                   
+G.Laird-A1   A7:K       B7:L/6     C7:L/5     D7:K
+                                              
+                                              
+P.Feliz-A1   *3*:P/6    B8:Do>13   *8*:L/3
+                                   
+                                   
+J.McDona-A1  A9:G/63    B9:HBP     C9:K
+                                   
+                                   
+
+
+[1]*** TOP OF INNING 1 ***
+0     M.Byrd      3- 8     0 Strike Out                     b-0 
+1     J.Vidro     6- 8     0 Fly Out                        b-0 
+2     D.Lee       1- 6     0 Single                         b-1 
+2 1   A.Ramirez   2- 6     0 Single                         1-3 b-2 
+2  23 M.Murton    2- 6 15  0 Double                         3-H 2-H b-2 
+2  2  A.Soriano   6- 7     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 1 ***
+0     L.Castillo  6- 7     0 Single                         b-1 
+0 1   T.Helton    5- 7 13  0 Fly Out                        b-0 
+1 1   J.Guillen   6- 3     0 Fly Out                        b-0 
+2 1   B.Upton     3- 9     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 2 ***
+0     P.Lo Duca   4- 7     0 Walk                           b-1 
+0 1   E.Aybar     2- 5     0 Single                         1-2 b-1 
+0 12  R.Theriot   1- 6     0 Ground Out Double Play         2-3 1-o b-0 
+2   3 M.Byrd      4- 6     0 Walk                           b-1 
+2 1 3 J.Vidro     5-10     0 Catchers Interference - C      1-2 b-1 
+2 123 D.Lee       1- 7     0 Walk                           3-H 2-3 1-2 b-1 
+2 123 A.Ramirez   3- 8 10  0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 2 ***
+0     R.Winn      1- 7     0 Ground Out                     b-0 
+1     S.Stewart   2- 7     0 Ground Out                     b-0 
+2     G.Laird     3- 4     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 3 ***
+0     M.Murton    2- 5     0 Single                         b-1 
+0 1   A.Soriano   4-12     0 Ground Out Double Play         1-o b-0 
+2     P.Lo Duca   2- 7     0 Single                         b-1 
+2 1   E.Aybar     3- 5     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 3 ***
+0     P.Feliz     1- 6     0 Pop Out                        b-0 
+1     J.McDonald  1- 4     0 Ground Out                     b-0 
+2     L.Castillo  6- 4     0 Foul Out                       b-0 
+[1]*** TOP OF INNING 4 ***
+0     R.Theriot   5-11 12  0 Fly Out                        b-0 
+1     M.Byrd      5- 5     0 Strike Out                     b-0 
+2     J.Vidro     5- 7     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 4 ***
+0     T.Helton    5- 6     0 Pop Out                        b-0 
+1     J.Guillen   1- 9     0 Ground Out                     b-0 
+2     B.Upton     3- 8     0 Strike Out                     b-0 
+[1]*** TOP OF INNING 5 ***
+0     D.Lee       4- 3     0 Ground Out                     b-0 
+1     A.Ramirez   6-10     0 Strike Out                     b-0 
+2     M.Murton    3- 9     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 5 ***
+0     R.Winn      4- 8     0 Ground Out                     b-0 
+1     S.Stewart   6- 8 17  0 Single                         b-1 
+1 1   G.Laird     5- 7 20  0 Line Out                       b-0 
+2 1   P.Feliz     2-10  9  0 Double                         1-3 b-2 
+2  23 J.McDonald  1-12     0 HBP                            b-1 
+2 123 L.Castillo  2- 4 20  0 Line Out                       b-0 
+[1]*** TOP OF INNING 6 ***
+                             SUBSTITUTE P - Todd Wellemeyer
+0     A.Soriano   3- 8     0 Strike Out                     b-0 
+1     P.Lo Duca   2- 4  6  0 Single                         b-1 
+1 1   E.Aybar     3- 6     0 Fly Out                        b-0 
+2 1   R.Theriot            0 Wild Pitch                     1-2 
+2  2  R.Theriot   1- 4 10  0 Single                         2-3 b-1 
+2 1 3 M.Byrd      4- 3     0 Fly Out                        b-0 
+[1]*** BOTTOM OF INNING 6 ***
+0     T.Helton    4- 7     0 Walk                           b-1 
+0 1   J.Guillen   3-11     0 Ground Out Double Play         1-o b-0 
+2     B.Upton     6- 4     0 Ground Out                     b-0 
+[1]*** TOP OF INNING 7 ***
+                             SUBSTITUTE P - Octavio Dotel
+0     J.Vidro     1- 4     0 Ground Out                     b-0 
+1     D.Lee       5- 9     0 Strike Out                     b-0 
+2     A.Ramirez   2- 9     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 7 ***
+0     R.Winn      3- 3     0 Ground Out                     b-0 
+1     S.Stewart   2- 9     0 Ground Out                     b-0 
+2     G.Laird     1-12     0 Line Out                       b-0 
+[1]*** TOP OF INNING 8 ***
+0     M.Murton    5- 7  6  0 Triple                         b-3 
+                             SUBSTITUTE P - Brad Hennessey
+0   3 A.Soriano   3- 4     0 Sac Fly                        3-H b-0 
+1     P.Lo Duca   1-12     0 Line Out                       b-0 
+                             SUBSTITUTE PH- Brad Hawpe
+                             SUBSTITUTE P - Trever Miller
+2     B.Hawpe     6- 6     0 Strike Out                     b-0 
+[1]*** BOTTOM OF INNING 8 ***
+                             SUBSTITUTE LF- Marlon Byrd
+                             SUBSTITUTE RF- Jacque Jones
+                             SUBSTITUTE CF- Felix Pie
+                             SUBSTITUTE 2B- Nick Punto
+0     P.Feliz     2- 6     0 Line Out                       b-0 
+1     J.McDonald  2- 5     0 Strike Out                     b-0 
+2     L.Castillo  1- 9     0 Ground Out                     b-0 
+[1]*** TOP OF INNING 9 ***
+                             SUBSTITUTE P - Francisco Cordero
+0     R.Theriot   6-11     0 Double & Error - RF            b-H 
+0     M.Byrd      4- 7     0 Strike Out                     b-0 
+1     J.Vidro     3- 9     0 Ground Out                     b-0 
+2     D.Lee       3-11     0 Ground Out                     b-0 
+[1]*** BOTTOM OF INNING 9 ***
+0     T.Helton    4-11     0 Ground Out                     b-0 
+1     J.Guillen   5- 7  9  0 Single                         b-1 
+1 1   B.Upton     2- 6     0 Single                         1-2 b-1 
+1 12  R.Winn      6- 7     0 Ground Out                     2-3 1-2 b-0 
+                             SUBSTITUTE PH- Dan Ortmeier
+                             SUBSTITUTE P - Carlos Marmol
+                             SUBSTITUTE PH- Geoff Jenkins
+2  23 G.Jenkins   4- 9     0 Walk                           b-1 
+2 123 G.Laird     3- 6     0 Strike Out                     b-0 

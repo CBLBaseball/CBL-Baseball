@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2008 Cincinnati Reds At 2008 New York (NL) Mets          10/30/2008
+
+[1]  Reds               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  J.Pierre CF,RF      4  0  1  0 .300     J.Reyes SS          3  0  0  0 .286  
+  S.Hatteberg 1B      1  0  0  0 .250     A.Rowand CF         4  0  0  0 .111  
+A-S.Casey PH,1B       2  0  1  0 .500     M.Alou LF           3  0  1  0 .250  
+  E.Encarnacion 3B    4  0  0  0 .100   F-D.Roberts PH,LF     1  0  0  0 .000  
+  A.Dunn DH           3  0  0  0 .250     J.Thome DH          4  1  2  0 .286  
+  J.Hamilton RF       2  0  1  0 .200     D.Wright 3B         3  1  1  0 .375  
+B-M.Prado PH          1  0  1  0 .500     R.Castro C          4  1  1  3 .250  
+D-S.Finley CF         0  0  0  0 ----   G-J.Varitek C         0  0  0  0 .000  
+H-A.Kearns PH         1  0  0  0 .333     A.Ojeda 2B          2  0  0  0 .286  
+  G.Anderson LF       4  0  0  0 .143     K.Millar 1B         2  0  2  0 .286  
+  J.Valentin C        2  0  0  0 .000   E-G.Norton PH,1B      1  0  1  01.000  
+C-D.Ross PH,C         1  0  0  0 .000     M.Cameron RF        2  0  0  0 .000  
+  B.Phillips 2B       3  0  0  0 .125                                          
+  J.Keppinger SS      3  0  1  0 .143                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  0  5  0                 Totals      29  3  8  3
+
+A-Pinch Hit For Hatteberg In 6th Inning
+B-Pinch Hit For Hamilton In 7th Inning
+C-Pinch Hit For Valentin In 7th Inning
+D-Subbed Defensively (CF) For Prado In 7th Inning
+E-Pinch Hit For Millar In 7th Inning
+F-Pinch Hit For Alou In 7th Inning
+G-Subbed Defensively (C ) For Castro In 9th Inning
+H-Pinch Hit For Finley In 9th Inning
+
+Reds............ 0 0 0  0 0 0  0 0 0  -  0  5  0
+Mets............ 0 3 0  0 0 0  0 0    -  3  8  0
+
+[1]Reds (0-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Lohse LOSS(0-1)            5       7   3   3   2   2   1   5.40  A1 C5
+B.Wolfe                      1 2/3   1   0   0   1   0   0   0.00  C6 D2
+A.Otsuka                     1 1/3   0   0   0   0   3   0   0.00  D3
+[1]Totals                    8       8   3   3   3   5   1
+
+[1]Mets (2-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Maine WIN(1-0)             5 1/3   2   0   0   1   4   0   0.00  A1 C1
+A.Embree HOLD(2nd)           1 1/3   1   0   0   0   1   0   4.50  C2 C6
+J.Miller HOLD(1st)           1       0   0   0   0   1   0   0.00  C7 C9
+J.Valverde SAVE(1st)         1 1/3   2   0   0   0   2   0   0.00  D1
+[1]Totals                    9       5   0   0   1   8   0
+
+ATTENDANCE- 549 DATE-  TIME- Night 
+UMPIRES- Tony Childers, Larry Spencer, Tom Devries, Steve Sprague
+T- 2:58
+LEFT ON BASE- Reds: 6  Mets: 6
+DOUBLE PLAYS- Reds: 2  Mets: 0
+DOUBLES- J.Hamilton(1st), J.Thome(1st), K.Millar(1st)
+HOME RUNS- R.Castro(1st)
+STOLEN BASES- J.Pierre(2nd)
+CAUGHT STEALING- J.Pierre
+SACRIFICE HITS- M.Cameron
+WALKS- S.Hatteberg, J.Reyes, D.Wright, A.Ojeda
+HIT BY PITCH- A.Dunn
+STRIKE OUTS- E.Encarnacion, A.Dunn-3, G.Anderson-2, J.Valentin, B.Phillips,
+             J.Thome-2, D.Wright, R.Castro, M.Cameron
+GIDP- J.Reyes, A.Ojeda
+WEB GEMS- Top 7th: Mike Cameron robbed Garret Anderson of an extra base hit.
+
+In a game for the baseball purist, John Maine(1-0) and Kyle Lohse(0-1) squared
+off in a tense pitching duel, New York (NL) Mets finally emerged victorious
+over Cincinnati Reds, 3 to 0.
+
+New York (NL) came up with all the runs they needed in the 2nd inning as they
+scored 3 runs on 3 base hits.  That was all the offense they were to need.
+Neither team managed to score after the 2nd inning.  
+
+Maine got relief help from Jose Valverde who gained credit for his 1st save.
+[2]
+[1]SCORESHEET: 2008 Cincinnati Reds at 2008 New York (NL) Mets
+J.Pierre-A1  A1:G/13    B1:F/9     C1:Force/  D1:Si
+                                   46>1o b1   
+                                              
+S.Hatteb-A1  A2:W>b1    B2:F/9     C2:CS/26>  D2:SB>12
+S.Casey-C2                         1o F/8     Si>23
+                                              
+E.Encarn-A1  A3:P/4     *4*:G/63   *7*:K      D3:G/13
+                                              
+                                              
+A.Dunn-A1    A4:K       B4:K       C4:HBP     *9*:K
+                                              
+                                              
+J.Hamilt-A1  *2*:Do     B5:F/8     C5:Si>12   D5:G/23
+M.Prado-C5                                    
+S.Finley-C8+                                  
+G.Anders-A1  A6:P/3     *5*:K      C6:F/9     D6:K
+                                              
+                                              
+J.Valent-A1  A7:L/4     B7:K       C7:G/43
+D.Ross-C7                          
+                                   
+B.Philli-A1  A8:P/6     B8:G/63    *8*:K
+                                   
+                                   
+J.Keppin-A1  *3*:G/43   *6*:Si     C9:F/8
+                                   
+                                   
+
+J.Reyes-A1   A1:F/7     B1:G-DP/4  *5*:G/3    D1:IW>b1
+                        63>1o                 
+                                              
+A.Rowand-A1  A2:F/7     *3*:G/43   C2:F/8     D2:Force/
+                                              36>23 1o
+                                              b1
+M.Alou-A1    A3:F/7     B3:G/31    C3:Si      D3:P/4
+D.Robert-D3                                   
+                                              
+J.Thome-A1   *2*:Do     B4:Si      C4:K       *8*:K
+                                              
+                                              
+D.Wright-A1  A5:IW>b1   B5:P/6     *6*:Si     D5:K
+                                              
+                                              
+R.Castro-A1  A6:HR>2#   *4*:G/13   C6:Force/  D6:K
+J.Varite-D7  1# b#                 64>1o b1   
+                                              
+A.Ojeda-A1   A7:W>b1    B7:G/43    C7:G-DP/4
+                                   63>1o
+                                   
+K.Millar-A1  A8:Si>12   B8:Do      *7*:Si
+G.Norton-C8                        
+                                   
+M.Camero-A1  A9:P/6     B9:K       C9:Sac/54
+                                   >12
+                                   
+
+

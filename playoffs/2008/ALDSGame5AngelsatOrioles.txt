@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2008 Anaheim Angels At 2008 Baltimore Orioles            10/29/2008
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  R.Willits LF        3  0  3  0 .400     B.Roberts 2B        3  0  0  0 .238  
+  C.Figgins 3B        4  0  0  0 .056     F.Thomas DH         3  0  1  1 .333  
+  H.Ramirez SS        4  0  1  0 .429     N.Markakis LF       3  0  0  0 .524  
+  M.Holliday RF       2  0  1  0 .278     V.Guerrero RF       2  1  0  0 .158  
+  P.Fielder 1B        2  0  0  0 .400     A.Gonzalez 1B       2  1  1  2 .300  
+A-C.Lee PH            1  0  0  0 .267     C.Beltran CF        3  0  0  0 .211  
+B-C.Kotchman 1B       0  0  0  0 .333     M.Mora 3B           3  0  0  0 .125  
+  G.Atkins DH         4  0  2  0 .214     J.Hardy SS          3  0  0  0 .263  
+  T.Hunter CF         3  0  1  0 .105     M.Olivo C           3  2  1  1 .211  
+C-H.Kendrick PH       1  0  0  0 .222                                          
+  D.Uggla 2B          4  0  0  0 .000                                          
+  B.Molina C          3  0  0  0 .111                                          
+D-M.Napoli PH         1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  0  8  0                 Totals      25  4  3  4
+
+A-Pinch Hit For Fielder In 8th Inning
+B-Subbed Defensively (1B) For Lee In 8th Inning
+C-Pinch Hit For Hunter In 9th Inning
+D-Pinch Hit For Molina In 9th Inning
+
+Angels.......... 0 0 0  0 0 0  0 0 0  -  0  8  1
+Orioles......... 0 0 0  0 2 1  0 1    -  4  3  0
+
+[1]Angels (1-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Escobar LOSS(0-1)          8       3   4   3   2   7   2   3.60  A1
+[1]Totals                    8       3   4   3   2   7   2
+
+[1]Orioles (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guthrie WIN(2-0)           5       6   0   0   3   5   0   0.84  A1 C4
+T.Tankersley HOLD(1st)       0 2/3   0   0   0   0   0   0   0.00  C5 C5
+L.Gardner HOLD(2nd)          1 1/3   0   0   0   0   2   0   0.00  C6 C9
+E.Gagne                      0 1/3   1   0   0   0   0   0   0.00  D1 D2
+R.Springer HOLD(3rd)         0 1/3   0   0   0   1   1   0   1.59  D3 D4
+P.Feliciano SAVE(1st)        1 1/3   1   0   0   0   0   0   0.00  D5
+[1]Totals                    9       8   0   0   4   8   0
+
+ATTENDANCE- -61 DATE-  TIME- Night 
+UMPIRES- Paul Granillo, George Lytle, Mickey Bauchan, Jeff Weinke
+T- 2:23
+LEFT ON BASE- Angels: 9  Orioles: 1
+DOUBLE PLAYS- Angels: 2  Orioles: 3
+ERRORS- C.Figgins
+DOUBLES- F.Thomas(1st)
+HOME RUNS- A.Gonzalez(3rd), M.Olivo(2nd)
+SACRIFICE HITS- B.Roberts
+WALKS- R.Willits, M.Holliday-2, P.Fielder, F.Thomas, A.Gonzalez
+HIT BY PITCH- V.Guerrero
+STRIKE OUTS- C.Figgins-2, H.Ramirez, P.Fielder, T.Hunter, D.Uggla-3, B.Roberts,
+             F.Thomas, N.Markakis, C.Beltran, M.Mora-3
+GIDP- H.Ramirez, P.Fielder, B.Molina, N.Markakis, C.Beltran
+WILD PITCHES- J.Guthrie
+
+At Camden Yards, the Baltimore fans witnessed a great pitcher's duel.  Jeremy
+Guthrie(2-0) finally bested his Anaheim opposite, Kelvim Escobar(0-1), by the
+score of 4 to 0.
+
+Baltimore brought 2 runs across the plate in the bottom of the 5th inning.
+The key at-bat was by Adrian Gonzalez who made the crowd come alive when he
+smashed a two-run homer (his 3rd of the season).  Although they lost, Anaheim
+did out-hit Baltimore 8 to 3.  
+
+Pedro Feliciano recorded his 1st save. Escobar was charged with the loss.  He
+surrendered only 4 runs and 3 hits in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2008 Anaheim Angels at 2008 Baltimore Orioles
+R.Willit-A1  A1:W>b1    *3*:Si     C1:Si      *8*:Si
+                                              
+                                              
+C.Figgin-A1  A2:K       B2:K       C2:WP>12   D2:G/3>12
+                                   F/7        
+                                              
+H.Ramire-A1  A3:P/5     B3:G-DP/6  *6*:Si     D3:K
+                        43>1o                 
+                                              
+M.Hollid-A1  A4:Si>12   *4*:G/63   C4:W>12 b  D4:W>b1
+                                   1          
+                                              
+P.Fielde-A1  A5:K       B5:W>b1    C5:G-DP/6  D5:F/8
+C.Lee-D5                           43>23 1o   
+C.Kotchm-D6                                   
+G.Atkins-A1  *2*:Si     B6:L/6     C6:G/31    *9*:Si
+                                              
+                                              
+T.Hunter-A1  A7:Si>12   B7:L/6     *7*:K      D7:F/7
+H.Kendri-D7                                   
+                                              
+D.Uggla-A1   A8:K       *5*:K      C8:K       D8:P/6
+                                              
+                                              
+B.Molina-A1  A9:G-DP/6  B9:P/6     C9:G/43    D9:G/63
+M.Napoli-D9  43>1o                            
+                                              
+
+B.Robert-A1  A1:K       *4*:F/7    C1:Sac/14  D1:G/63
+                                   >12        
+                                              
+F.Thomas-A1  A2:K       B2:W>b1    C2:Do>2#   D2:G/31
+                                              
+                                              
+N.Markak-A1  A3:G/43    B3:G-DP/3  C3:K
+                        63>1o      
+                                   
+V.Guerre-A1  *2*:F/9    *5*:HBP    C4:G/3
+                                   
+                                   
+A.Gonzal-A1  A5:G/23    B5:HR>1#   *7*:W>b1
+                        b#         
+                                   
+C.Beltra-A1  A6:K       B6:F/7     C6:G-DP/4
+                                   63>1o
+                                   
+M.Mora-A1    *3*:K      B7:K       C7:K
+                                   
+                                   
+J.Hardy-A1   A8:F/8     B8:F/8     *8*:G/63
+                                   
+                                   
+M.Olivo-A1   A9:G/43    *6*:E/5    C9:HR>b#
+                                   
+                                   
+
+

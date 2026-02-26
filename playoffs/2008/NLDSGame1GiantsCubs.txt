@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2008 San Francisco Giants At 2008 Chicago (NL) Cubs       11/6/2008
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  L.Castillo 2B       5  1  2  1 .400     M.Byrd CF           4  0  0  0 .000  
+  T.Helton 1B         5  0  1  1 .200     J.Vidro DH          3  0  1  0 .333  
+  J.Guillen RF        3  1  1  1 .333     D.Lee 1B            3  0  0  0 .000  
+A-G.Jenkins PH,RF,LF  0  0  0  0 ----     B.Hawpe RF          4  1  2  1 .500  
+C-D.Ortmeier PH       0  0  0  0 ----     A.Soriano LF        4  0  0  0 .000  
+D-S.Stewart PH,LF     1  0  1  01.000     A.Ramirez 3B        3  0  0  0 .000  
+  B.Upton CF          5  0  2  0 .400     M.Fontenot 2B       2  0  0  0 .000  
+  M.Bradley DH        3  0  0  0 .000     R.Theriot SS        2  0  1  0 .500  
+  R.Winn LF,RF        5  1  2  1 .400     P.Lo Duca C         3  0  0  0 .000  
+  J.Burke C           4  0  1  0 .250                                          
+B-G.Laird C           0  0  0  0 ----                                          
+  P.Feliz 3B          3  0  0  0 .000                                          
+  J.McDonald SS       4  1  2  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  4 12  4                 Totals      28  1  4  1
+
+A-Pinch Hit For Guillen In 7th Inning
+B-Subbed Defensively (C ) For Burke In 8th Inning
+C-Pinch Hit For Jenkins In 9th Inning
+D-Pinch Hit For Ortmeier In 9th Inning
+
+Giants.......... 0 0 2  1 1 0  0 0 0  -  4 12  0
+Cubs............ 0 0 0  1 0 0  0 0 0  -  1  4  0
+
+[1]Giants (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain WIN(1-0)              7       2   1   1   4   4   1   1.29  A1 C6
+F.Cordero SAVE(1st)          2       2   0   0   0   3   0   0.00  C7
+[1]Totals                    9       4   1   1   4   7   1
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hill LOSS(0-1)             6 1/3   9   4   4   0   5   2   5.68  A1 D2
+R.Dempster                   1 2/3   1   0   0   1   0   0   0.00  D3 E1
+C.Wilson                     0 1/3   0   0   0   0   1   0   0.00  E2 E2
+B.Howry                      0 2/3   2   0   0   0   0   0   0.00  E3
+[1]Totals                    9      12   4   4   1   6   2
+
+ATTENDANCE- 36,203 DATE-  TIME- Day 
+UMPIRES- Scott Clineman, Jack Sebesta, Jim Bennett, Chris Gager
+T- 3:05
+LEFT ON BASE- Giants:11  Cubs: 4
+DOUBLE PLAYS- Giants: 2  Cubs: 1
+DOUBLES- L.Castillo(1st), J.McDonald(1st), B.Hawpe(1st)
+HOME RUNS- J.Guillen(1st), R.Winn(1st), B.Hawpe(1st)
+STOLEN BASES- L.Castillo(1st), M.Bradley(1st), R.Theriot(1st)
+CAUGHT STEALING- M.Fontenot
+WALKS- P.Feliz, J.Vidro, D.Lee, M.Fontenot, R.Theriot
+HIT BY PITCH- G.Jenkins, M.Bradley-2
+STRIKE OUTS- T.Helton, J.Guillen, B.Upton, M.Bradley, R.Winn, P.Feliz, M.Byrd-2,
+             D.Lee-2, B.Hawpe, A.Soriano, M.Fontenot
+GIDP- R.Winn, D.Lee, B.Hawpe
+WILD PITCHES- F.Cordero
+WEB GEMS- Bot 4th: B.J. Upton robbed Jose Vidro of an extra base hit.
+
+The San Francisco Giants defeated the Chicago (NL) Cubs by a score of 4 to 1
+at Wrigley Field.
+
+San Francisco tallied 2 runs in the top of the 3rd inning with the help of 3
+hits.  That was all the runs Matt Cain(1-0) needed.  San Francisco ended up
+with 12 hits for the game while Chicago (NL) had 4.  
+
+Francisco Cordero got the save, his 1st.  Rich Hill(0-1) suffered the loss.
+He allowed 4 runs and 9 hits in 6 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2008 San Francisco Giants at 2008 Chicago (NL) Cubs
+L.Castil-A1  A1:Si      B1:Do>2#   C1:L/6     D1:G/43    E1:G/63
+                                                         
+                                                         
+T.Helton-A1  A2:SB>12   B2:Si>2#   *5*:L/4    *7*:L/4    *9*:K
+             G/63                                        
+                                                         
+J.Guille-A1  A3:F/7     B3:K       C3:HR>b#   D3:HBP     E3:Si
+G.Jenkin-D3                                              
+D.Ortmei-E3+                                             
+B.Upton-A1   A4:G/63    B4:G/53    C4:K       D4:Si>12   E4:Si>12
+                                                         
+                                                         
+M.Bradle-A1  *2*:K      *4*:L/6    C5:HBP     D5:L/4     E5:HBP>23
+                                                         12 
+                                                         
+R.Winn-A1    A6:K       B6:HR>b#   C6:SB>12   D6:G/43    E6:G-DP/4
+                                   Si>23                 63>1o
+                                                         
+J.Burke-A1   A7:F/9     B7:Si      C7:F/9     *8*:G/43
+G.Laird-E2                                    
+                                              
+P.Feliz-A1   *3*:K      B8:L/6     *6*:F/9    D8:W>b1
+                                              
+                                              
+J.McDona-A1  A9:Do      B9:Si>13   C9:P/6     D9:G/43>1
+                                              2
+                                              
+
+M.Byrd-A1    A1:F/7     B1:G/63    *6*:K      D1:K
+                                              
+                                              
+J.Vidro-A1   A2:W>b1    *4*:F/8    C2:Si      *9*:G/63
+                                              
+                                              
+D.Lee-A1     A3:W>12 b  B3:K       C3:G-DP/5  D3:K
+             1                     43>1o      
+                                              
+B.Hawpe-A1   A4:G-DP/3  B4:HR>b#   *7*:K      D4:Do
+             63>1o                            
+                                              
+A.Sorian-A1  *2*:K      B5:F/8     C5:G/43    D5:G/43
+                                              
+                                              
+A.Ramire-A1  A6:L/6     *5*:L/5    C6:P/4
+                                   
+                                   
+M.Fonten-A1  A7:F/7     B7:W>b1    *8*:K
+                                   
+                                   
+R.Therio-A1  *3*:G/43   B8:CS/24>  C8:Si
+                        1o W>b1    
+                                   
+P.Lo Duc-A1  A9:P/6     B9:SB>12   C9:WP>12
+                        P/6        G/13
+                                   
+
+

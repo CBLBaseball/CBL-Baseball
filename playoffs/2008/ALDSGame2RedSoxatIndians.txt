@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2008 Boston Red Sox At 2008 Cleveland Indians             11/1/2008
+
+[1]  Red Sox            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  J.Ellsbury CF       4  0  1  1 .250     G.Sizemore CF       3  2  1  0 .200  
+  E.Renteria SS       4  0  2  0 .286     C.Hart RF           4  1  3  2 .429  
+  D.Ortiz DH          4  0  0  0 .000     C.Jones 3B          3  1  0  0 .000  
+  J.Posada C          4  0  1  0 .250     M.Ramirez LF        3  0  1  1 .250  
+  M.Lowell 3B         4  0  0  0 .125   D-N.Hopper PR,LF      0  0  0  0 ----  
+  K.Youkilis 1B       4  0  0  0 .125     V.Martinez C        4  0  1  2 .143  
+  B.Giles RF          3  1  0  0 .000     R.Garko 1B          2  0  1  0 .200  
+G-T.Glaus PH          0  0  0  01.000   A-J.Giambi PH         1  0  0  0 .000  
+H-C.Crisp PH          1  0  0  0 .000   B-C.Blake   ,1B       0  0  0  0 ----  
+  W.Harris LF         2  0  0  0 .000     M.Stairs DH         4  0  0  0 .000  
+C-W.Pena PH,LF        1  0  0  0 .250     J.Kent 2B           3  0  0  0 .167  
+  R.Gotay 2B          2  1  2  11.000   E-A.Cabrera 2B        1  0  0  0 .000  
+F-D.Pedroia PH,2B     1  0  0  0 .000     J.Peralta SS        2  1  1  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  6  2                 Totals      30  5  8  5
+
+A-Pinch Hit For Garko In 5th Inning
+B-Subbed Defensively (  ) For Giambi In 6th Inning
+C-Pinch Hit For Harris In 7th Inning
+D-Pinch Ran For Ramirez In 7th Inning
+E-Subbed Defensively (2B) For Kent In 8th Inning
+F-Pinch Hit For Gotay In 8th Inning
+G-Pinch Hit For Giles In 9th Inning
+H-Pinch Hit For Glaus In 9th Inning
+
+Red Sox......... 0 0 1  0 1 0  0 0 0  -  2  6  0
+Indians......... 0 0 1  0 4 0  0 0    -  5  8  2
+
+[1]Red Sox (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Matsuzaka LOSS(0-1)        5       6   5   5   3   6   0   9.00  A1 C6
+J.Lopez                      0 2/3   0   0   0   1   0   0   0.00  C7 C9
+M.Timlin                     0 1/3   0   0   0   0   1   0   0.00  D1 D1
+H.Okajima                    2       2   0   0   1   2   0   0.00  D2
+[1]Totals                    8       8   5   5   5   9   0
+
+[1]Indians (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Carmona WIN(1-0)           6 1/3   5   2   1   0   1   0   1.42  A1 C6
+R.Perez HOLD(1st)            2 1/3   1   0   0   0   0   0   0.00  C7 D6
+R.Betancourt SAVE(1st)       0 1/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       6   2   1   0   1   0
+
+ATTENDANCE- 57,121 DATE-  TIME- Night 
+UMPIRES- Jack Sebesta, Jim Bennett, Chris Gager, Scott Clineman
+T- 2:53
+LEFT ON BASE- Red Sox: 5  Indians: 6
+DOUBLE PLAYS- Red Sox: 0  Indians: 1
+ERRORS- J.Peralta-2
+DOUBLES- J.Ellsbury(1st), E.Renteria-2(2nd), R.Gotay(1st), G.Sizemore(1st),
+         C.Hart(1st), R.Garko(1st), J.Peralta(1st)
+TRIPLES- R.Gotay(1st), C.Hart(1st)
+CAUGHT STEALING- C.Hart, N.Hopper
+WALKS- G.Sizemore, C.Jones, M.Ramirez, C.Blake, J.Peralta
+STRIKE OUTS- M.Lowell, G.Sizemore-2, C.Jones-3, M.Ramirez, R.Garko, M.Stairs,
+             J.Kent
+GIDP- M.Lowell
+
+The Cleveland Indians defeated the Boston Red Sox by a score of 5 to 2 at
+Jacobs Field.
+
+Fausto Carmona(1-0) gave Cleveland a solid outing.  He surrendered 5 hits and
+no walks in 6 and 1/3 innings.  Cleveland finished with 8 hits in the
+victory.  
+
+Rafael Betancourt was credited with his 1st save.  The loss was charged to
+Daisuke Matsuzaka(0-1).  He gave up 6 hits and 3 walks in 5 innings.
+[2]
+[1]SCORESHEET: 2008 Boston Red Sox at 2008 Cleveland Indians
+J.Ellsbu-A1  A1:G/43    B1:Do>2#   C1:G/43    D1:F/7
+                                              
+                                              
+E.Renter-A1  A2:Do      B2:G/53    C2:P/6     D2:Do
+                                              
+                                              
+D.Ortiz-A1   A3:G/43>2  B3:F/7     *6*:F/7    D3:F/8
+             3                                
+                                              
+J.Posada-A1  A4:F/9     *4*:F/8    C4:Si      *9*:G/53
+                                              
+                                              
+M.Lowell-A1  *2*:G/63   B5:K       C5:G-DP/5  D5:L/5
+                                   43>1o      
+                                              
+K.Youkil-A1  A6:G/63    B6:F/9     *7*:L/6    D6:E/6
+                                              
+                                              
+B.Giles-A1   A7:L/4     *5*:E/6    C7:G/43    D7:P/3
+T.Glaus-D7                                    
+C.Crisp-D7                                    
+W.Harris-A1  *3*:G/43   B8:F/9     C8:F/8
+W.Pena-C8                          
+                                   
+R.Gotay-A1   A9:Do      B9:Tr>1#   *8*:F/8
+D.Pedroi-C9                        
+                                   
+
+G.Sizemo-A1  A1:K       B1:Do      C1:W>b1    D1:K
+                                              
+                                              
+C.Hart-A1    A2:F/9     B2:Tr>2#   C2:Do>2#   *7*:Si
+                                   13         
+                                              
+C.Jones-A1   A3:K       B3:K       C3:W>b1    D3:CS/24>
+                                              1o K
+                                              
+M.Ramire-A1  *2*:G/31   *4*:K      C4:W>3# 2  D4:Si CS/
+N.Hopper-D5                        3 12 b1    24>1o
+                                              
+V.Martin-A1  A5:L/4     B5:G/43    C5:Si>3#   *8*:F/9
+                                   2# 13      
+                                              
+R.Garko-A1   A6:Do      B6:K       C6:G/13    D6:W>b1
+J.Giambi-C6                                   
+C.Blake-C7                                    
+M.Stairs-A1  A7:G/43    *5*:P/4    *6*:G/31   D7:K
+                                              
+                                              
+J.Kent-A1    *3*:K      B8:F/9     C8:G/43    D8:G/63
+A.Cabrer-D5                                   
+                                              
+J.Peralt-A1  A9:G/63    B9:Do      C9:W>b1
+                                   
+                                   
+
+

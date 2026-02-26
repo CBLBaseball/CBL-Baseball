@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2008 Boston Red Sox At 2008 Cleveland Indians             11/1/2008
+
+[1]  Red Sox            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  W.Harris LF         2  0  2  0 .400     N.Hopper CF,RF      4  1  1  0 .250  
+A-W.Pena PH,LF        1  0  0  0 .200     D.Murphy LF         4  0  2  1 .500  
+F-F.Lewis PH          1  0  0  0 .000     J.Kent 2B           4  0  0  0 .100  
+  E.Renteria SS       5  0  0  0 .167     M.Ramirez DH        3  0  0  0 .143  
+  D.Ortiz DH          2  0  0  0 .000     R.Garko 1B          3  0  2  0 .375  
+  J.Posada C          3  0  1  0 .273   B-G.Sizemore PR,CF    0  0  0  0 .200  
+  M.Lowell 3B         3  1  0  0 .091     C.Jones 3B          3  0  0  0 .000  
+  K.Youkilis 1B       3  0  0  0 .091     C.Hart RF           2  0  0  0 .333  
+  B.Giles RF          3  0  1  1 .167   C-C.Blake 1B          0  0  0  0 ----  
+  D.Pedroia 2B        4  0  1  0 .125     J.Peralta SS        2  0  0  0 .143  
+  C.Crisp CF          3  0  0  0 .000     V.Martinez C        3  1  1  1 .200  
+D-T.Glaus PH          0  0  0  01.000                                          
+E-R.Gotay PH          1  0  0  0 .667                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      28  2  6  2
+
+A-Pinch Hit For Harris In 6th Inning
+B-Pinch Ran For Garko In 7th Inning
+C-Subbed Defensively (1B) For Hart In 8th Inning
+D-Pinch Hit For Crisp In 9th Inning
+E-Pinch Hit For Glaus In 9th Inning
+F-Pinch Hit For Pena In 9th Inning
+
+Red Sox......... 0 1 0  0 0 0  0 0 0  -  1  5  0
+Indians......... 0 0 0  0 0 1  0 1    -  2  6  0
+
+[1]Red Sox (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Washburn                   5 1/3   3   1   1   2   2   1   1.69  A1 C2
+H.Okajima LOSS(0-1)          2 1/3   2   1   1   0   1   0   2.08  C3 D1
+J.Accardo                    0 1/3   1   0   0   0   0   0   0.00  D2
+[1]Totals                    8       6   2   2   2   3   1
+
+[1]Indians (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Carmona                    5       4   1   1   5   5   0   1.59  A1 C6
+R.Perez WIN(1-0)             3       1   0   0   1   3   0   0.00  C7 D8
+R.Betancourt SAVE(2nd)       1       0   0   0   0   0   0   0.00  D9
+[1]Totals                    9       5   1   1   6   8   0
+
+ATTENDANCE- 57,146 DATE-  TIME- Night 
+UMPIRES- Jim Robbins, Randy Shavis, Rick Mras, Jesus Gonzalez
+T- 2:36
+LEFT ON BASE- Red Sox:10  Indians: 4
+DOUBLE PLAYS- Red Sox: 0  Indians: 1
+DOUBLES- D.Murphy(1st), R.Garko(2nd)
+TRIPLES- W.Harris(1st)
+HOME RUNS- V.Martinez(1st)
+STOLEN BASES- N.Hopper(1st)
+CAUGHT STEALING- G.Sizemore, C.Hart
+WALKS- D.Ortiz-2, J.Posada, M.Lowell, K.Youkilis, B.Giles, C.Hart, J.Peralta
+HIT BY PITCH- W.Harris
+STRIKE OUTS- E.Renteria-4, D.Ortiz-2, K.Youkilis, C.Crisp, R.Garko, J.Peralta,
+             V.Martinez
+GIDP- J.Posada
+
+Left fielder David Murphy had 2 base hits at Jacobs Field where the Cleveland
+Indians beat the Boston Red Sox by the score of 2 to 1.
+
+The game was decided in the bottom of the 8th inning.  After two were out
+Norris Hopper laced a single.  Hopper was running on the next pitch and he
+stole second.  Murphy then lined a one-base hit scoring the run.  Cleveland
+finished with just 6 hits in the victory.  
+
+Rafael Perez(1-0) was the winner allowing no runs in 3 innings. Rafael
+Betancourt recorded his 2nd save.  Hideki Okajima(0-1) was the losing pitcher
+in relief.  He pitched 2 and 1/3 innings allowing 2 hits and no walks.
+
+[2]
+[1]SCORESHEET: 2008 Boston Red Sox at 2008 Cleveland Indians
+W.Harris-A1  A1:Tr      B1:HBP>23  C1:Si      D1:P/6     E1:G/53
+W.Pena-D1               12                               
+F.Lewis-E1                                               
+E.Renter-A1  A2:K       B2:K       C2:K       *7*:K      E2:G/53
+                                                         
+                                                         
+D.Ortiz-A1   A3:IW>b1   *3*:K      *5*:W>b1   D3:K
+                                              
+                                              
+J.Posada-A1  A4:G-DP/4  B4:W>b1    C4:F/9     D4:Si
+             63>1o                            
+                                              
+M.Lowell-A1  *2*:W>b1   B5:L/5     C5:F/9     D5:L/5
+                                              
+                                              
+K.Youkil-A1  A6:G/43>1  B6:W>12 b  C6:K       *8*:L/4
+             2          1                     
+                                              
+B.Giles-A1   A7:Si>2#   B7:G/43    *6*:W>b1   D7:G/63
+                                              
+                                              
+D.Pedroi-A1  A8:Si>12   *4*:P/6    C8:G/43>1  D8:G/63
+                                   2          
+                                              
+C.Crisp-A1   A9:F/7     B9:G/43    C9:K       *9*:F/9
+T.Glaus-D9                                    
+R.Gotay-D9                                    
+
+N.Hopper-A1  A1:F/7     B1:P/6     C1:L/5     D1:Si
+                                              
+                                              
+D.Murphy-A1  A2:G/43    B2:G/43    C2:Do      D2:SB>12
+                                              Si>2#
+                                              
+J.Kent-A1    A3:G/53    *4*:L/6    C3:G/43>2  D3:FO/5
+                                   3          
+                                              
+M.Ramire-A1  *2*:F/7    B4:L/6     C4:F/8
+                                   
+                                   
+R.Garko-A1   A5:Do      B5:K       *7*:Si
+G.Sizemo-C6                        
+                                   
+C.Jones-A1   A6:G/43>2  *5*:F/8    C6:CS/24>
+             3                     1o F/9
+                                   
+C.Hart-A1    A7:F/8     B7:W>b1    C7:F/9
+C.Blake-C8                         
+                                   
+J.Peralt-A1  *3*:W>b1   B8:K CS/2  *8*:F/7
+                        4>1o       
+                                   
+V.Martin-A1  A9:P/6     *6*:HR>b#  C9:K
+                                   
+                                   
+
+

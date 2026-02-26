@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2008 San Francisco Giants At 2008 Chicago (NL) Cubs       11/6/2008
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  D.Eckstein SS       4  0  0  0 .000     M.Byrd CF,LF        4  2  2  0 .250  
+E-J.Burke C           0  0  0  0 .250     J.Vidro DH          2  2  1  0 .400  
+  L.Castillo 2B       3  0  1  0 .375     D.Lee 1B            3  0  1  0 .167  
+  T.Helton 1B         2  0  0  0 .143     B.Hawpe RF          2  0  0  1 .333  
+  B.Upton CF          4  0  0  0 .222   A-J.Jones RF          0  0  0  0 ----  
+  M.Bradley RF        3  0  0  0 .000     A.Soriano LF        3  0  1  1 .143  
+  G.Jenkins LF        3  0  0  0 .000   B-F.Pie CF            0  0  0  0 ----  
+  R.Winn DH           3  1  1  1 .375     A.Ramirez 3B        4  0  1  1 .143  
+  P.Feliz 3B          2  0  0  0 .000     M.Fontenot 2B       4  0  1  0 .167  
+  G.Laird C           2  0  0  0 .000     R.Theriot SS        4  0  0  0 .167  
+D-J.McDonald PH,SS    1  0  0  0 .400     P.Lo Duca C         3  0  0  0 .000  
+                                        C-D.Johnson PR        0  0  0  0 ----  
+                                        F-G.Soto C            0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      27  1  2  1                 Totals      29  4  7  3
+
+A-Subbed Defensively (RF) For Hawpe In 8th Inning
+B-Subbed Defensively (CF) For Soriano In 8th Inning
+C-Pinch Ran For Lo Duca In 8th Inning
+D-Pinch Hit For Laird In 8th Inning
+E-Subbed Defensively (C ) For Eckstein In 8th Inning
+F-Subbed Defensively (C ) For Johnson In 9th Inning
+
+Giants.......... 0 0 0  0 0 0  0 1 0  -  1  2  1
+Cubs............ 2 0 1  0 0 0  1 0    -  4  7  0
+
+[1]Giants (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Lincecum LOSS(0-1)         4 2/3   5   3   3   4   2   0   5.79  A1 C3
+T.Miller                     0 1/3   0   0   0   0   1   0   0.00  C4 C4
+B.Hennessey                  1 1/3   2   1   0   0   0   0   0.00  C5 D1
+K.Gregg                      1 2/3   0   0   0   1   4   0   0.00  D2
+[1]Totals                    8       7   4   3   5   7   0
+
+[1]Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(1-0)          7       2   1   1   3   7   1   1.29  A1 C7
+C.Marmol SAVE(1st)           2       0   0   0   1   1   0   0.00  C8
+[1]Totals                    9       2   1   1   4   8   1
+
+ATTENDANCE- 38,355 DATE-  TIME- Day 
+UMPIRES- Tony Childers, Larry Spencer, Tom Devries, Steve Sprague
+T- 2:12
+LEFT ON BASE- Giants: 3  Cubs: 7
+DOUBLE PLAYS- Giants: 1  Cubs: 1
+ERRORS- M.Bradley
+DOUBLES- M.Byrd(1st)
+HOME RUNS- R.Winn(2nd)
+CAUGHT STEALING- P.Feliz
+SACRIFICE FLIES- B.Hawpe
+WALKS- L.Castillo, T.Helton-2, P.Feliz, J.Vidro-2, D.Lee, B.Hawpe, A.Soriano
+STRIKE OUTS- T.Helton-2, B.Upton-2, M.Bradley-2, G.Jenkins, G.Laird, M.Byrd,
+             D.Lee, B.Hawpe, A.Ramirez, M.Fontenot, R.Theriot, P.Lo Duca
+GIDP- M.Bradley, A.Ramirez
+
+Carlos Zambrano took a no-hitter into the 6th inning at Wrigley Field as the
+Chicago (NL) Cubs beat the San Francisco Giants by the count of 4 to
+1.
+
+Zambrano(1-0) pitched well for Chicago (NL) in their victory.  He went 7
+innings surrendering 2 hits and 3 walks.  The right-handed Zambrano lost his
+chance for a no-hitter when Luis Castillo singled with two outs in the 6th
+inning.  Chicago (NL) ended up with 7 hits for the game while San Francisco
+had 2.  
+
+Carlos Marmol recorded the save, his 1st.  The losing pitcher was Tim
+Lincecum(0-1).  He pitched 4 and 2/3 innings allowing 5 hits and 4 walks.
+[2]
+[1]SCORESHEET: 2008 San Francisco Giants at 2008 Chicago (NL) Cubs
+D.Eckste-A1  A1:G/13    B1:F/8     C1:G/13    D1:CS/25>
+J.Burke-D2                                    2o G/63
+                                              
+L.Castil-A1  A2:W>b1    B2:G/31    C2:Si      *9*:G/63
+                                              
+                                              
+T.Helton-A1  A3:W>12 b  *4*:W>b1   C3:K       D3:K
+             1                                
+                                              
+B.Upton-A1   A4:K       B4:K       *7*:L/6    D4:G/63
+                                              
+                                              
+M.Bradle-A1  A5:K       B5:G-DP/3  C5:K
+                        63>1o      
+                                   
+G.Jenkin-A1  *2*:L/4    *5*:K      C6:G/43
+                                   
+                                   
+R.Winn-A1    A7:G/13    B7:G/13    *8*:HR>b#
+                                   
+                                   
+P.Feliz-A1   A8:G/63    B8:G/63    C8:W>b1
+                                   
+                                   
+G.Laird-A1   *3*:G/31   *6*:K      C9:G/3>12
+J.McDona-C9                        
+                                   
+
+M.Byrd-A1    A1:Si      B1:K       *5*:G/43   D1:Do
+                                              
+                                              
+J.Vidro-A1   A2:Si>12   *3*:W>b1   C2:G/13    D2:W>b1
+                                              
+                                              
+D.Lee-A1     A3:G/43>2  B3:Si>13   C3:W>b1    D3:K
+             3 12                             
+                                              
+B.Hawpe-A1   A4:IW>b1   B4:SF/9>3  C4:K       D4:E/9>2#
+J.Jones-D6              #                     13 b2 
+                                              
+A.Sorian-A1  A5:Si>3#   B5:W>12 b  *6*:G/13   D5:G/43
+F.Pie-D6     23 12      1                     
+                                              
+A.Ramire-A1  A6:Si>3#   B6:G-DP/1  C6:F/7     *8*:K
+             2o 13      63>1o                 
+                                              
+M.Fonten-A1  A7:F/8     *4*:F/8    C7:Si      D7:K
+                                              
+                                              
+R.Therio-A1  *2*:G/43   B8:F/7     C8:G/31    D8:K
+                                              
+                                              
+P.Lo Duc-A1  A9:K       B9:G/13    *7*:L/5
+D.Johnso-D6                        
+G.Soto-D9                          
+
+

@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2008 Cleveland Indians At 2008 Boston Red Sox             11/1/2008
+
+[1]  Indians            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  G.Sizemore CF       5  1  1  0 .231     W.Harris LF         5  0  0  0 .000  
+  C.Hart RF           5  1  1  2 .308     J.Ellsbury CF       3  2  1  1 .167  
+  C.Jones 3B          2  0  1  0 .333     D.Ortiz DH          4  1  1  0 .286  
+  M.Ramirez LF        3  0  1  0 .143     J.Posada C          3  2  3  3 .600  
+  V.Martinez C        3  0  0  0 .250     M.Lowell 3B         4  1  1  1 .100  
+  R.Garko 1B          3  0  0  0 .111     B.Giles RF          4  1  1  0 .143  
+C-A.Cabrera SS        1  0  0  0 .000     K.Youkilis 1B       4  0  1  1 .091  
+  M.Stairs DH         3  0  0  0 .250     R.Gotay SS          2  0  1  0 .400  
+  J.Kent 2B           4  0  2  0 .545   D-E.Renteria PH,SS    2  0  0  0 .250  
+  J.Peralta SS        2  0  1  0 .300     D.Pedroia 2B        4  0  1  1 .200  
+A-J.Giambi PH         0  0  0  0 .000                                          
+B-C.Blake PH,1B       2  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      35  7 10  7
+
+A-Pinch Hit For Peralta In 6th Inning
+B-Pinch Hit For Giambi In 6th Inning
+C-Subbed Defensively (SS) For Garko In 6th Inning
+D-Pinch Hit For Gotay In 7th Inning
+
+Indians......... 0 0 2  0 0 0  0 0 0  -  2  7  1
+Red Sox......... 1 0 0  0 0 2  0 4    -  7 10  0
+
+[1]Indians (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+O.Hernandez LOSS(1-1)        6       5   3   3   1   5   2   4.15  A1 C7
+M.Delcarmen                  1 1/3   2   3   3   1   1   0  10.80  C8 D5
+J.Westbrook                  0 1/3   3   1   1   0   0   0  27.00  D6 D9
+B.Lyon                       0 1/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    8      10   7   7   2   6   2
+
+[1]Red Sox (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Matsuzaka                  5 1/3   6   2   2   4   5   1   3.37  A1 C8
+M.Timlin WIN(1-0)            2 1/3   1   0   0   0   1   0   2.08  C9 D7
+J.Papelbon SAVE(1st)         1 1/3   0   0   0   0   3   0   0.00  D8
+[1]Totals                    9       7   2   2   4   9   1
+
+ATTENDANCE- 23 DATE-  TIME- Day 
+UMPIRES- Jim Robbins, Randy Shavis, Rick Mras, Jesus Gonzalez
+T- 3:23
+LEFT ON BASE- Indians: 9  Red Sox: 6
+DOUBLE PLAYS- Indians: 0  Red Sox: 1
+ERRORS- J.Kent
+DOUBLES- G.Sizemore(1st), J.Kent(2nd), J.Posada-2(4th)
+HOME RUNS- C.Hart(2nd), J.Ellsbury(1st), J.Posada(1st)
+WALKS- C.Jones-2, V.Martinez, M.Stairs, J.Ellsbury, J.Posada
+HIT BY PITCH- M.Ramirez
+STRIKE OUTS- G.Sizemore-3, M.Ramirez, V.Martinez, R.Garko, M.Stairs, J.Kent,
+             C.Blake, D.Ortiz-2, K.Youkilis, R.Gotay, E.Renteria, D.Pedroia
+WEB GEMS- Bot 5th: Orlando Hernandez robbed Willie Harris of a base hit.
+
+The Boston Red Sox easily topped the Cleveland Indians; the final score was 7
+to 2.
+
+Jorge Posada helped send the fans home happy.  He doubled in the 1st inning,
+lifted one out of the park for a two run home run (his 1st of the season) in
+the 6th inning and doubled resulting in a run in the 8th inning.  Mike
+Timlin(1-0) got help from Jonathan Papelbon who pitched great and earned his
+1st save.  
+
+Orlando Hernandez(1-1) suffered the loss.  He pitched 6 innings and
+surrendered 5 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2008 Cleveland Indians at 2008 Boston Red Sox
+G.Sizemo-A1  A1:K       B1:Do      C1:G/43    D1:K       E1:K
+                                                         
+                                                         
+C.Hart-A1    A2:F/7     B2:HR>2#   *5*:F/7    *7*:FO/2   E2:F/7
+                        b#                               
+                                                         
+C.Jones-A1   A3:W>b1    B3:Si      C3:W>b1    D3:F/9
+                                              
+                                              
+M.Ramire-A1  A4:G/43    B4:K       C4:HBP>12  D4:Si
+                                              
+                                              
+V.Martin-A1  *2*:W>b1   B5:G/53    C5:K       D5:F/9
+                                              
+                                              
+R.Garko-A1   A6:L-DP/6  *4*:G/43   C6:K       *8*:G/43
+A.Cabrer-D2  3>1o                             
+                                              
+M.Stairs-A1  A7:W>b1    B7:K       *6*:G/63   D7:P/2
+                                              
+                                              
+J.Kent-A1    A8:F/8     B8:Si      C8:Do      D8:K
+                                              
+                                              
+J.Peralt-A1  *3*:G/31   B9:Si>12   C9:F/8     *9*:K
+J.Giambi-C9                                   
+C.Blake-C9                                    
+
+W.Harris-A1  A1:G/43    *3*:P/4    C1:G/13    D1:F/8     E1:L/3
+                                                         
+                                                         
+J.Ellsbu-A1  A2:HR>b#   B2:F/8     *6*:G/43   *8*:W>b1
+                                              
+                                              
+D.Ortiz-A1   A3:K       B3:K       C3:Si      D3:F/8
+                                              
+                                              
+J.Posada-A1  A4:Do      *4*:W>b1   C4:HR>1#   D4:Do>1#
+                                   b#         
+                                              
+M.Lowell-A1  A5:G/53    B5:F/8     C5:G/13    D5:Si>3#
+                                              
+                                              
+B.Giles-A1   *2*:G/3    B6:L/4     C6:E/4     D6:Si>12
+                                              
+                                              
+K.Youkil-A1  A7:F/8     B7:L/4     C7:K       D7:Si>2#
+                                              13
+                                              
+R.Gotay-A1   A8:Si      *5*:K      *7*:K      D8:L/6
+E.Renter-C8                                   
+                                              
+D.Pedroi-A1  A9:K       B9:F/9     C9:G/63    D9:Si>3#
+                                              13
+                                              
+
+

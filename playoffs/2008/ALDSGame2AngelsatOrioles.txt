@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2008 Anaheim Angels At 2008 Baltimore Orioles            10/27/2008
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  H.Ramirez SS        4  1  2  0 .500     B.Roberts 2B        5  0  1  0 .222  
+C-J.Uribe SS          0  0  0  0 ----     F.Thomas DH         4  1  2  1 .429  
+  H.Kendrick 2B       5  0  0  0 .222   D-O.Infante PR        0  0  0  0 ----  
+  C.Lee LF            3  0  1  0 .143     N.Markakis LF       5  0  3  1 .556  
+A-R.Willits LF        1  1  0  0 .000     V.Guerrero RF       5  0  0  0 .000  
+  M.Holliday RF       4  0  1  1 .125     A.Gonzalez 1B       4  0  0  0 .125  
+  P.Fielder DH        3  2  1  2 .500     C.Beltran CF        4  0  0  0 .000  
+  G.Atkins 3B         3  1  1  1 .200     M.Mora 3B           2  1  1  1 .400  
+B-C.Figgins 3B        1  0  0  0 .000     J.Hardy SS          4  0  0  0 .000  
+  C.Kotchman 1B       5  0  1  0 .200     M.Olivo C           4  1  1  0 .143  
+  T.Hunter CF         4  0  1  1 .125                                          
+  B.Molina C          3  0  0  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5  8  5                 Totals      37  3  8  3
+
+A-Subbed Defensively (LF) For Lee In 6th Inning
+B-Subbed Defensively (3B) For Atkins In 6th Inning
+C-Subbed Defensively (SS) For Ramirez In 10th Inning
+D-Pinch Ran For Thomas In 10th Inning
+
+Angels.......... 0 2 1  0 0 0  0 0 0  2 -  5  8  0
+Orioles......... 0 0 1  0 0 0  1 1 0  0 -  3  8  0
+
+[1]Angels (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Escobar                    7       7   3   3   3   7   2   3.86  A1 D3
+M.Guerrier WIN(1-0)          2       0   0   0   0   2   0   0.00  D4 D9
+B.Fuentes HOLD(1st)          0 1/3   0   0   0   0   0   0   0.00  E1 E1
+F.Rodriguez SAVE(1st)        0 2/3   1   0   0   0   1   0   0.00  E2
+[1]Totals                   10       8   3   3   3  10   2
+
+[1]Orioles (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+U.Jimenez                    7       6   3   3   3   8   0   3.86  A1 D2
+E.Gagne                      0 1/3   0   0   0   1   0   0   0.00  D3 D4
+P.Feliciano                  0 2/3   0   0   0   1   0   0   0.00  D5 D7
+J.Isringhaus LOSS(0-1)       1 1/3   2   2   2   1   1   1   9.00  D8 E5
+T.Tankersley                 0 2/3   0   0   0   0   2   0   0.00  E6
+[1]Totals                   10       8   5   5   6  11   1
+
+ATTENDANCE- 18 DATE-  TIME- Night 
+UMPIRES- Jack Sebesta, Jim Bennett, Chris Gager, Scott Clineman
+T- 3:11
+LEFT ON BASE- Angels: 8  Orioles: 7
+DOUBLE PLAYS- Angels: 1  Orioles: 1
+DOUBLES- M.Holliday(1st), G.Atkins(1st), M.Olivo(1st)
+HOME RUNS- P.Fielder(1st), F.Thomas(2nd), M.Mora(1st)
+STOLEN BASES- H.Ramirez-2(2nd), T.Hunter(1st)
+CAUGHT STEALING- H.Ramirez
+WALKS- H.Ramirez, R.Willits, M.Holliday, P.Fielder-2, C.Figgins, F.Thomas,
+       M.Mora-2
+HIT BY PITCH- B.Molina
+STRIKE OUTS- H.Kendrick, C.Lee, M.Holliday, P.Fielder, G.Atkins-2, C.Figgins,
+             C.Kotchman, T.Hunter-2, B.Molina, F.Thomas-2, N.Markakis,
+             V.Guerrero-2, A.Gonzalez, C.Beltran-2, M.Mora, M.Olivo
+GIDP- B.Molina, N.Markakis
+
+Shortstop Hanley Ramirez had 2 base hits at Camden Yards as the Anaheim Angels
+beat the Baltimore Orioles in 10 innings 5 to 3.
+
+The game was deadlocked at 3 after nine full innings.  Anaheim came out on top
+in the 10th inning.  Reggie Willits got things going when he drew a walk.
+After an out was recorded, Prince Fielder came up and he blasted a two-run
+home run (his 1st of the season).  Both teams totaled 8 on the night.  
+
+Matt Guerrier(1-0) got the win allowing no runs in 2 innings. Francisco
+Rodriguez earned his 1st save.  Jason Isringhausen(0-1) was hit with the loss
+in relief.  
+
+[2]
+[1]SCORESHEET: 2008 Anaheim Angels at 2008 Baltimore Orioles
+H.Ramire-A1  A1:Si      *3*:W>b1   *5*:L/5    D1:F/8     E1:Si
+J.Uribe-E8                                               
+                                                         
+H.Kendri-A1  A2:SB>12   B2:SB>12   C2:F/7     D2:L/6     E2:Force/
+             CS/25>2o   K                                64>1o b1
+             G/13                                        
+C.Lee-A1     A3:K       B3:P/4     C3:Si      *8*:L/3    *10*:W>b1
+R.Willit-C8                                              
+                                                         
+M.Hollid-A1  *2*:K      B4:Do>2#   C4:G/53    D4:W>b1    E4:F/9
+                                                         
+                                                         
+P.Fielde-A1  A5:W>b1    B5:IW>b1   *6*:K      D5:Force/  E5:HR>1#
+                                              64>1o b1   b#
+                                                         
+G.Atkins-A1  A6:Do>1#   B6:K       C6:K       D6:W>12 b  E6:K
+C.Figgin-C8                                   1          
+                                                         
+C.Kotchm-A1  A7:G/3>23  *4*:Si     C7:F/9     D7:F/7     E7:K
+                                                         
+                                                         
+T.Hunter-A1  A8:Si>3#   B8:F/8     *7*:K      *9*:K
+                                              
+                                              
+B.Molina-A1  A9:SB>12   B9:G-DP/5  C9:HBP     D9:P/6
+             K          43>1o                 
+                                              
+
+B.Robert-A1  A1:G/31    B1:F/7     C1:Si      D1:F/7     *10*:F/9
+                                                         
+                                                         
+F.Thomas-A1  A2:K       B2:K       C2:W>12 b  *8*:HR>b#  E2:Si
+O.Infant-E3                        1                     
+                                                         
+N.Markak-A1  A3:Si      B3:Si>2#   C3:G-DP/4  D3:Si      E3:K
+                                   63>1o                 
+                                                         
+V.Guerre-A1  A4:K       B4:G/63    *6*:G/63   D4:K       E4:P/6
+                                                         
+                                                         
+A.Gonzal-A1  *2*:K      *4*:G/43   C5:F/7     D5:Force/
+                                              46>1o b1
+                                              
+C.Beltra-A1  A6:F/8     B6:K       C6:K       D6:P/3
+                                              
+                                              
+M.Mora-A1    A7:W>b1    B7:W>b1    *7*:HR>b#  *9*:K
+                                              
+                                              
+J.Hardy-A1   A8:L/5     B8:G/43    C8:F/7     D8:F/8
+                                              
+                                              
+M.Olivo-A1   *3*:Do     *5*:F/7    C9:K       D9:L/4
+                                              
+                                              
+
+

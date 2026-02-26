@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 New York (NL) Mets        11/19/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  B.Roberts 2B        3  1  2  0 .667     J.Reyes SS          4  0  0  0 .290  
+  F.Thomas DH         2  0  0  1 .000     A.Rowand CF         4  0  1  0 .265  
+  N.Markakis LF,RF    4  0  0  0 .000     M.Alou DH           2  0  0  0 .261  
+  V.Guerrero RF       4  0  0  0 .000     D.Wright 3B         4  0  2  0 .370  
+A-L.Scott LF          0  0  0  0 ----     D.Easley 2B         4  0  0  0 .286  
+  A.Gonzalez 1B       4  0  0  0 .000     B.Wilkerson 1B      2  0  0  0 .000  
+  C.Beltran CF        3  1  1  0 .333     M.Cameron RF        3  0  0  0 .136  
+  M.Mora 3B           3  1  1  0 .333     J.Varitek C         3  0  0  0 .050  
+  J.Hardy SS          3  1  1  3 .333     L.Ford LF           2  0  0  0 .000  
+  M.Olivo C           3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  4  5  4                 Totals      28  0  3  0
+
+A-Subbed Defensively (LF) For Guerrero In 9th Inning
+
+Orioles......... 0 0 0  0 3 0  0 1 0  -  4  5  0
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  3  0
+
+[1]Orioles (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Bedard WIN(1-0)            9       3   0   0   4   5   0   0.00  A1
+[1]Totals                    9       3   0   0   4   5   0
+
+[1]Mets (6-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Redding LOSS(1-1)          5       4   3   3   3   5   1   2.87  A1 C2
+A.Heilman                    4       1   1   1   1   4   0   2.35  C3
+[1]Totals                    9       5   4   4   4   9   1
+
+ATTENDANCE- 2,604 DATE-  TIME- Day 
+UMPIRES- Mike Brue, Arthur Svec, Bob Reibel, Dave Johns
+T- 2:38
+LEFT ON BASE- Orioles: 3  Mets: 5
+DOUBLE PLAYS- Orioles: 2  Mets: 0
+DOUBLES- A.Rowand(3rd), D.Wright(2nd)
+TRIPLES- B.Roberts(1st)
+HOME RUNS- J.Hardy(1st)
+STOLEN BASES- C.Beltran(1st), M.Mora(1st)
+CAUGHT STEALING- B.Roberts, N.Markakis
+SACRIFICE FLIES- F.Thomas
+WALKS- B.Roberts, F.Thomas, C.Beltran, M.Mora, M.Alou-2, B.Wilkerson, L.Ford
+STRIKE OUTS- B.Roberts, F.Thomas, N.Markakis-2, A.Gonzalez-3, J.Hardy, M.Olivo,
+             J.Reyes, A.Rowand, D.Wright, M.Cameron, J.Varitek
+GIDP- A.Rowand, D.Easley
+
+Brian Roberts had 2 base hits and Erik Bedard allowed only 3 hits resulting in
+a big goose egg on the scoreboard for New York (NL) as the Baltimore Orioles
+beat the New York (NL) Mets by a score of 4 to 0.
+
+Bedard(1-0) pitched one of his finer games as he simply was too much for the
+New York (NL) batters.  He didn't allow much, just 3 hits and 4 walks in 9
+innings.  Baltimore had only 5 hits for the game.  
+
+The loss was charged to Tim Redding(1-1).  He surrendered 3 runs and 4 hits in
+5 innings.
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 New York (NL) Mets
+B.Robert-A1  A1:Si      B1:K       C1:W>b1    *8*:Tr
+                                              
+                                              
+F.Thomas-A1  A2:W>12 b  B2:K       C2:CS/24>  D2:SF/9>3
+             1                     1o P/6     #
+                                              
+N.Markak-A1  A3:Force/  *4*:K      *6*:L/4    D3:K
+             46>23 1o                         
+             b1                               
+V.Guerre-A1  A4:CS/24>  B4:F/8     C4:F/8     D4:L/6
+L.Scott-D8   1o G/63                          
+                                              
+A.Gonzal-A1  *2*:K      B5:G/3     C5:K       *9*:K
+                                              
+                                              
+C.Beltra-A1  A6:W>b1    *5*:Si     *7*:G/63   D6:F/8
+                                              
+                                              
+M.Mora-A1    A7:SB>12   B7:Si>13   C7:W>b1    D7:G/53
+             P/6                              
+                                              
+J.Hardy-A1   A8:L/6     B8:SB>12   C8:K
+                        HR>3# 2#   
+                        b#         
+M.Olivo-A1   *3*:K      B9:G/63    C9:F/8
+                                   
+                                   
+
+J.Reyes-A1   A1:K       *3*:G/63   *6*:G/43   D1:F/7
+                                              
+                                              
+A.Rowand-A1  A2:K       B2:F/7     C2:Do      D2:G-DP/3
+                                              63>1o
+                                              
+M.Alou-A1    A3:W>b1    B3:L/6     C3:W>b1    *9*:G/43
+                                              
+                                              
+D.Wright-A1  A4:Do>13   *4*:Si     C4:P/3     D4:K
+                                              
+                                              
+D.Easley-A1  A5:L/6     B5:G-DP/6  C5:G/43    D5:F/7
+                        43>1o                 
+                                              
+B.Wilker-A1  *2*:W>b1   B6:F/9     *7*:P/4
+                                   
+                                   
+M.Camero-A1  A7:Force/  *5*:L/6    C7:K
+             54>1o b1              
+                                   
+J.Varite-A1  A8:F/7     B8:K       C8:G/63
+                                   
+                                   
+L.Ford-A1    A9:Force/  B9:FO/2    *8*:W>b1
+             64>1o b1              
+                                   
+
+

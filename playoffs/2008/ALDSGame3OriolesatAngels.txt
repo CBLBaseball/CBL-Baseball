@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2008 Baltimore Orioles At 2008 Anaheim Angels            10/28/2008
+
+[1]  Orioles            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  B.Roberts 2B        5  1  2  2 .286     C.Figgins 3B        4  0  1  0 .100  
+  F.Thomas DH         4  0  0  0 .273     H.Kendrick 2B       5  0  1  0 .214  
+  N.Markakis LF       4  2  3  0 .615     H.Ramirez SS        5  2  3  1 .538  
+  V.Guerrero RF       4  1  2  2 .167     C.Lee LF            3  1  1  1 .200  
+  A.Gonzalez 1B       5  1  1  3 .154   B-C.Kotchman 1B       1  1  1  0 .333  
+  C.Beltran CF        5  2  3  0 .273     M.Holliday RF       4  1  2  3 .250  
+  M.Mora 3B           4  0  0  0 .222     P.Fielder 1B        3  0  1  0 .444  
+  J.Hardy SS          5  2  2  0 .167   A-R.Willits PR,LF     1  0  0  0 .000  
+  M.Olivo C           5  1  2  3 .250     G.Atkins DH         4  0  0  0 .111  
+                                          T.Hunter CF         4  0  0  0 .083  
+                                          M.Napoli C          4  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 10 15 10                 Totals      38  5 10  5
+
+A-Pinch Ran For Fielder In 6th Inning
+B-Subbed Defensively (1B) For Lee In 7th Inning
+
+Orioles......... 0 0 2  2 1 1  4 0 0  - 10 15  2
+Angels.......... 0 0 0  2 0 2  0 1 0  -  5 10  2
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Bedard WIN(1-0)            5 1/3   7   4   4   1   2   3   6.75  A1 C6
+R.Springer HOLD(2nd)         3       2   1   1   0   4   0   1.69  C7 D9
+E.Gagne                      0 2/3   1   0   0   0   0   0   0.00  E1
+[1]Totals                    9      10   5   5   1   6   3
+
+[1]Angels (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Garland LOSS(0-1)          6      10   8   7   3   1   1  10.50  A1 D4
+D.Oliver                     0 2/3   3   2   2   0   0   1  27.00  D5 D9
+D.Moseley                    2 1/3   2   0   0   0   4   0   0.00  E1
+[1]Totals                    9      15  10   9   3   5   2
+
+ATTENDANCE- 59 DATE-  TIME- Night 
+UMPIRES- Jim Robbins, Randy Shavis, Rick Mras, Jesus Gonzalez
+T- 3:47
+LEFT ON BASE- Orioles: 8  Angels: 7
+DOUBLE PLAYS- Orioles: 1  Angels: 1
+ERRORS- A.Gonzalez, J.Hardy, C.Lee, C.Kotchman
+DOUBLES- N.Markakis(1st), C.Beltran(1st), J.Hardy-2(2nd), H.Ramirez(1st),
+         C.Kotchman(1st), M.Holliday(2nd)
+HOME RUNS- A.Gonzalez(2nd), M.Olivo(1st), H.Ramirez(1st), C.Lee(1st),
+           M.Holliday(1st)
+SACRIFICE HITS- M.Mora
+WALKS- F.Thomas, N.Markakis, V.Guerrero, C.Figgins
+STRIKE OUTS- B.Roberts, F.Thomas, M.Mora-2, M.Olivo, H.Ramirez, P.Fielder,
+             T.Hunter-2, M.Napoli-2
+GIDP- A.Gonzalez, H.Kendrick
+BALKS- D.Oliver
+
+Catcher Miguel Olivo connected with a 'big fly' and had 3 RBI as the Baltimore
+Orioles defeated the Anaheim Angels 10 to 5 at Angels Stadium.
+
+Baltimore took the lead for good in the top of the 3rd inning as they scored 2
+runs on 4 base hits.  Baltimore out-hit Anaheim for the game, 15 hits to 10.
+
+Erik Bedard(1-0) picked up the victory, allowing 4 runs in 5 and 1/3 innings.
+Jon Garland(0-1) ended up with the loss.  He got hit hard, allowing 10 hits
+and 3 walks in 6 innings.  
+
+[2]
+[1]SCORESHEET: 2008 Baltimore Orioles at 2008 Anaheim Angels
+B.Robert-A1  A1:F/8     B1:Si>2#   C1:G/31    D1:Si>2#   E1:K
+                                                         
+                                                         
+F.Thomas-A1  A2:W>b1    B2:G/43>1  *5*:F/7    D2:L/5     *8*:K
+                        2                                
+                                                         
+N.Markak-A1  A3:F/8     B3:Si>23   C3:Do+E/7  *7*:W>b1   E3:Si
+                                   >b3                   
+                                                         
+V.Guerre-A1  A4:F/8     B4:Si>3#   C4:Si>3#   D4:W>12 b  E4:E/3>12
+                        13                    1          
+                                                         
+A.Gonzal-A1  *2*:L/4    B5:G/43    C5:F/7     D5:HR>2#   E5:G-DP/3
+                                              1# b#      63>1o
+                                                         
+C.Beltra-A1  A6:L/6     *4*:Si     C6:G/43    D6:Si      *9*:Do
+                                                         
+                                                         
+M.Mora-A1    A7:K       B7:Sac/34  *6*:L/6    D7:Bk>12   E7:K
+                        >12                   G/43>23    
+                                                         
+J.Hardy-A1   *3*:Do     B8:F/8     C8:Do      D8:P/4     E8:G/53
+                                                         
+                                                         
+M.Olivo-A1   A9:F/8     B9:HR>2#   C9:F/8     D9:Si>3#   E9:K
+                        b#                               
+                                                         
+
+C.Figgin-A1  A1:W>b1    B1:F/9     C1:Si>12   D1:F/9     E1:P/2
+                                                         
+                                                         
+H.Kendri-A1  A2:G-DP/1  *4*:G/3    C2:G/53    D2:F/7     E2:Si
+             63>1o                                       
+                                                         
+H.Ramire-A1  A3:Si      B3:HR>b#   *6*:Do     *8*:K      E3:G/63
+                                                         
+                                                         
+C.Lee-A1     A4:G/23    B4:HR>b#   C4:L/6     D4:Do
+C.Kotchm-C9                                   
+                                              
+M.Hollid-A1  *2*:G/53   B5:L/6     C5:HR>2#   D5:Do>2#
+                                   b#         
+                                              
+P.Fielde-A1  A6:K       B6:L/4     C6:Si      D6:F/8
+R.Willit-C7                                   
+                                              
+G.Atkins-A1  A7:F/7     *5*:F/8    C7:F/7     D7:E/3>23
+                                              
+                                              
+T.Hunter-A1  *3*:K      B8:G/13    C8:G/63    D8:K
+                                              
+                                              
+M.Napoli-A1  A9:G/53    B9:E/6     *7*:K      *9*:K
+                                              
+                                              
+
+

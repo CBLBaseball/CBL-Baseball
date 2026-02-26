@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2008 New York (NL) Mets At 2008 Chicago (NL) Cubs         11/3/2008
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  J.Reyes SS          5  1  3  0 .409     M.Murton DH         4  0  0  0 .350  
+  A.Rowand CF         4  0  1  2 .200     J.Vidro 2B          3  0  1  0 .269  
+  M.Alou DH           5  1  2  0 .250     D.Lee 1B            4  0  1  0 .235  
+  D.Wright 3B         4  2  3  1 .444     B.Hawpe RF          4  1  1  1 .276  
+  D.Easley 2B         4  0  2  0 .429     A.Ramirez 3B        3  0  0  0 .242  
+A-J.Thome PH          1  0  0  0 .231     A.Soriano LF        3  0  1  0 .129  
+B-A.Ojeda 2B          0  0  0  0 .250     M.Byrd CF           3  0  0  0 .161  
+  R.Castro C          4  1  1  1 .154     P.Lo Duca C         3  0  0  0 .231  
+C-J.Varitek C         1  0  0  0 .200     R.Theriot SS        3  0  0  0 .214  
+  B.Wilkerson 1B      4  0  0  0 .154                                          
+  M.Cameron RF        3  0  1  2 .231                                          
+  L.Ford LF           4  2  1  1 .286                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  7 14  7                 Totals      30  1  4  1
+
+A-Pinch Hit For Easley In 8th Inning
+B-Subbed Defensively (2B) For Thome In 8th Inning
+C-Subbed Defensively (C ) For Castro In 8th Inning
+
+Mets............ 0 3 0  1 2 0  1 0 0  -  7 14  0
+Cubs............ 0 1 0  0 0 0  0 0 0  -  1  4  0
+
+[1]Mets (4-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Maine WIN(3-0)             5       2   1   1   1   7   1   0.57  A1 B8
+A.Heilman SAVE(1st)          4       2   0   0   0   5   0   4.05  B9
+[1]Totals                    9       4   1   1   1  12   1
+
+[1]Cubs (5-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Marshall LOSS(1-1)         4       8   6   6   1   3   2   4.26  A1 C4
+C.Marmol                     2 2/3   4   1   1   0   5   0   2.25  C5 D8
+R.Seanez                     2 1/3   2   0   0   1   2   0   2.35  D9
+[1]Totals                    9      14   7   7   2  10   2
+
+ATTENDANCE- 36,228 DATE-  TIME- Day 
+UMPIRES- Rick Mras, Jesus Gonzalez, Jim Robbins, Randy Shavis
+T- 2:55
+LEFT ON BASE- Mets:11  Cubs: 3
+DOUBLE PLAYS- Mets: 0  Cubs: 1
+DOUBLES- A.Rowand(2nd), M.Alou(1st), D.Wright(1st), M.Cameron(1st)
+HOME RUNS- R.Castro(2nd), L.Ford(1st), B.Hawpe(3rd)
+STOLEN BASES- J.Reyes(5th)
+CAUGHT STEALING- A.Soriano
+SACRIFICE FLIES- M.Cameron
+WALKS- D.Wright, M.Cameron, J.Vidro
+HIT BY PITCH- A.Rowand, B.Wilkerson, L.Ford
+STRIKE OUTS- J.Reyes, A.Rowand-2, D.Easley, J.Thome, R.Castro-2, B.Wilkerson,
+             M.Cameron, L.Ford, M.Murton-2, J.Vidro, D.Lee-3, B.Hawpe,
+             A.Ramirez-2, A.Soriano, M.Byrd, R.Theriot
+GIDP- M.Alou
+
+Third baseman David Wright had 3 base hits as the New York (NL) Mets outscored
+the Chicago (NL) Cubs 7 to 1.
+
+New York (NL) tallied 3 runs in the 2nd inning when they had 3 base hits.
+That early scoring was all that John Maine(3-0) needed.  For the game New
+York (NL) out-hit Chicago (NL) 14 to 4.  
+
+Aaron Heilman earned the save, his 1st.  Sean Marshall(1-1) was the losing
+pitcher.  He was knocked around pretty good, giving up 6 runs in 4 innings.
+
+[2]
+[1]SCORESHEET: 2008 New York (NL) Mets at 2008 Chicago (NL) Cubs
+J.Reyes-A1   A1:Si      B1:Si>12   C1:Si      *6*:K      *8*:G/43
+                                                         
+                                                         
+A.Rowand-A1  A2:SB>12   B2:Do>2#   C2:G/63    D2:HBP     E2:K
+             K          1#                               
+                                                         
+M.Alou-A1    A3:G/63    B3:G/63    *5*:Do     D3:G-DP/6  E3:Si
+                                              43>1o      
+                                                         
+D.Wright-A1  A4:W>b1    *3*:F/9    C4:Do>2#   *7*:Si     E4:Si>13
+                                                         
+                                                         
+D.Easley-A1  A5:K       B5:G/53    C5:Si>23   D5:Si>12   E5:K
+J.Thome-E5                                               
+A.Ojeda-E6                                               
+R.Castro-A1  *2*:HR>b#  B6:L/6     C6:K       D6:K       *9*:G/3
+J.Varite-E6                                              
+                                                         
+B.Wilker-A1  A7:F/8     *4*:F/8    C7:HBP>12  D7:K       E7:L/4
+                                                         
+                                                         
+M.Camero-A1  A8:K       B8:G/63    C8:SF/8>3  D8:Do>2#   E8:W>b1
+                                   #          13         
+                                                         
+L.Ford-A1    A9:HBP     B9:HR>b#   C9:K       D9:G/53    E9:G/13
+                                                         
+                                                         
+
+M.Murton-A1  A1:G/63    B1:K       C1:G/53    *9*:K
+                                              
+                                              
+J.Vidro-A1   A2:G/63    *4*:W>b1   C2:Si      D2:K
+                                              
+                                              
+D.Lee-A1     A3:K       B3:K       C3:K       D3:Si
+                                              
+                                              
+B.Hawpe-A1   *2*:HR>b#  B4:L/4     *7*:F/8    D4:K
+                                              
+                                              
+A.Ramire-A1  A5:P/6     B5:K       C5:K
+                                   
+                                   
+A.Sorian-A1  A6:K       *5*:Si     C6:G/43
+                                   
+                                   
+M.Byrd-A1    A7:K       B7:CS/24>  *8*:FO/2
+                        1o P/6     
+                                   
+P.Lo Duc-A1  *3*:P/4    B8:F/8     C8:G/3
+                                   
+                                   
+R.Therio-A1  A9:K       *6*:G/43   C9:G/63
+                                   
+                                   
+
+

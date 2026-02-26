@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2008 Cleveland Indians At 2008 Boston Red Sox             11/1/2008
+
+[1]  Indians            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  G.Sizemore CF       5  1  2  0 .400     J.Ellsbury CF       3  0  0  0 .000  
+  D.Murphy LF         3  0  0  0 .000   F-D.Pedroia PH        1  0  0  0 .000  
+A-M.Ramirez PH        0  1  0  0 ----     R.Gotay 2B          3  1  1  1 .333  
+C-A.Cabrera 2B        1  0  0  0 .000   G-T.Glaus PH          1  0  0  0 .000  
+  C.Jones 3B          4  1  1  1 .250     D.Ortiz DH          3  1  1  0 .333  
+  J.Kent 2B           4  1  2  1 .500     J.Posada C          3  1  1  1 .333  
+B-N.Hopper PR,LF      0  1  0  0 ----     M.Lowell 3B         2  0  0  1 .000  
+  M.Stairs DH         5  0  2  1 .400     K.Youkilis 1B       4  0  0  0 .000  
+  C.Hart RF           5  1  3  3 .600     F.Lewis LF          4  1  3  1 .750  
+  V.Martinez C        5  0  1  0 .200     B.Giles RF          3  0  0  0 .000  
+  R.Garko 1B          4  0  0  0 .000     A.Cora SS           2  0  0  0 .000  
+D-C.Blake 1B          1  0  0  0 .000   E-E.Renteria PH       1  0  0  0 .000  
+  J.Peralta SS        4  0  2  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  6 13  6                 Totals      30  4  6  4
+
+A-Pinch Hit For Murphy In 7th Inning
+B-Pinch Ran For Kent In 7th Inning
+C-Subbed Defensively (2B) For Ramirez In 7th Inning
+D-Subbed Defensively (1B) For Garko In 7th Inning
+E-Pinch Hit For Cora In 9th Inning
+F-Pinch Hit For Ellsbury In 9th Inning
+G-Pinch Hit For Gotay In 9th Inning
+
+Indians......... 0 0 0  0 0 1  5 0 0  -  6 13  0
+Red Sox......... 0 0 1  0 0 0  0 3 0  -  4  6  1
+
+[1]Indians (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+O.Hernandez WIN(1-0)         7       4   3   3   5   5   0   3.86  A1 D3
+R.Betancourt                 1       2   1   1   0   1   0   9.00  D4 D8
+R.Perez SAVE(1st)            1       0   0   0   0   2   0   0.00  D9
+[1]Totals                    9       6   4   4   5   8   0
+
+[1]Red Sox (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling                  5       8   1   1   0   4   0   1.80  A1 C6
+H.Okajima LOSS(0-1)          1       1   1   1   0   2   0   9.00  C7 D1
+J.Accardo                    0       2   3   3   1   0   0   ----  D2 D4
+M.Timlin                     2       2   1   1   2   0   1   4.50  D5 E5
+J.Papelbon                   1       0   0   0   0   2   0   0.00  E6
+[1]Totals                    9      13   6   6   3   8   1
+
+ATTENDANCE- 217 DATE-  TIME- Day 
+UMPIRES- Larry Huck, Jeff Hammerlund, Rich Denny, Ed Glass
+T- 3:25
+LEFT ON BASE- Indians:11  Red Sox: 7
+DOUBLE PLAYS- Indians: 0  Red Sox: 0
+ERRORS- A.Cora
+DOUBLES- C.Jones(1st), J.Kent(1st), J.Peralta(1st), J.Posada(1st),
+         F.Lewis-3(3rd)
+HOME RUNS- C.Hart(1st)
+STOLEN BASES- G.Sizemore(1st), C.Hart(1st)
+SACRIFICE HITS- M.Lowell, A.Cora
+SACRIFICE FLIES- M.Lowell
+WALKS- M.Ramirez, C.Jones, N.Hopper, J.Ellsbury, R.Gotay, D.Ortiz, J.Posada,
+       B.Giles
+STRIKE OUTS- G.Sizemore, D.Murphy, C.Jones, C.Hart, V.Martinez, R.Garko,
+             C.Blake, J.Peralta, J.Ellsbury, T.Glaus, J.Posada, M.Lowell-2,
+             K.Youkilis-2, E.Renteria
+
+In a tight game it was the Cleveland Indians 6, the Boston Red Sox 4 at Fenway
+Park.
+
+Orlando Hernandez(1-0) gave Cleveland a solid outing.  He allowed 4 hits and 5
+walks in 7 innings.  Hernandez got help from Rafael Perez who pitched great
+and earned his 1st save.  
+
+Hideki Okajima(0-1) suffered the loss in relief. He surrendered 1 run and 1
+hit in 1 inning.
+[2]
+[1]SCORESHEET: 2008 Cleveland Indians at 2008 Boston Red Sox
+G.Sizemo-A1  A1:Si      B1:F/8     C1:K       *7*:Si     *8*:F/8
+                                                         
+                                                         
+D.Murphy-A1  A2:F/7     *3*:L/3    C2:K       D2:SB>12   E2:F/7
+M.Ramire-D2                                   W>b1       
+A.Cabrer-E1                                              
+C.Jones-A1   A3:F/9     B3:E/6     C3:K       D3:Do>2#   E3:W>b1
+                                              13         
+                                                         
+J.Kent-A1    A4:F/8     B4:P/6     *6*:Do     D4:Si>3#   E4:W>12 b
+N.Hopper-D6                                   23         1
+                                                         
+M.Stairs-A1  *2*:Si     B5:F/8     C5:Si>2#   D5:L/4     E5:P/6
+                                                         
+                                                         
+C.Hart-A1    A6:Si>12   *4*:F/9    C6:Si>13   D6:HR>3#   *9*:K
+                                              1# b#      
+                                                         
+V.Martin-A1  A7:L/4     B7:FO/2    C7:SB>12   D7:Si      E7:F/8
+                                   K                     
+                                                         
+R.Garko-A1   A8:P/6     B8:K       C8:FC/52>  D8:G/43>1  E8:K
+C.Blake-E1                         3o 23      2          
+                                                         
+J.Peralt-A1  A9:Si>23   *5*:Do     C9:K       D9:P/6
+             12                               
+                                              
+
+J.Ellsbu-A1  A1:F/7     B1:W>b1    C1:K       D1:G/63    E1:L/4
+D.Pedroi-E1                                              
+                                                         
+R.Gotay-A1   A2:L/4     B2:Si>3#   C2:P/3     *8*:W>b1   E2:K
+T.Glaus-E2              12                               
+                                                         
+D.Ortiz-A1   A3:F/8     B3:G/3     *6*:Si     D3:W>12 b
+                                              1
+                                              
+J.Posada-A1  *2*:K      *4*:L/4    C4:W>12 b  D4:Do>2#
+                                   1          13
+                                              
+M.Lowell-A1  A5:K       B5:K       C5:Sac/24  D5:SF/7>3
+                                   >23 12     #
+                                              
+K.Youkil-A1  A6:K       B6:F/7     C6:G/13    D6:K
+                                              
+                                              
+F.Lewis-A1   *3*:Do     *5*:Do     C7:P/4     D7:Do>2#
+                                              
+                                              
+B.Giles-A1   A8:G/13    B8:W>b1    *7*:G/43   D8:L/4
+                                              
+                                              
+A.Cora-A1    A9:G/43>2  B9:Sac/54  C9:L/4     *9*:K
+E.Renter-D9  3          >23 12                
+                                              
+
+
