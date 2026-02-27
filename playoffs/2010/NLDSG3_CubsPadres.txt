@@ -1,0 +1,112 @@
+BOXSCORE: 2010 Chicago (NL) Cubs At 2010 San Diego Padres           10/6/2010
+
+  Cubs               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  K.Fukudome RF       4  1  1  0 .385     T.Gwynn Jr CF       4  1  1  0 .286  
+  R.Theriot SS        4  0  1  0 .200     J.Carroll 2B        4  0  0  0 .000  
+  D.Lee 1B            3  0  0  0 .000     E.Longoria 3B       4  0  0  0 .077  
+  A.Ramirez 3B        4  0  1  1 .250     R.Branyan 1B        2  0  1  1 .333  
+A-M.Fontenot 3B       0  0  0  0 .250     N.Cruz RF           4  0  0  0 .250  
+  M.Byrd LF           4  0  0  0 .250     M.Ramirez DH        4  0  0  0 .250  
+E-G.Soto C            0  0  0  0 .286     C.Headley LF        3  0  0  0 .308  
+  A.Soriano DH        4  1  3  0 .545     E.Cabrera SS        2  0  0  0 .143  
+  Y.Torrealba C       2  1  1  0 .500     N.Hundley C         3  0  1  0 .333  
+C-R.Ruiz PH           1  0  1  1 .333                                          
+D-J.Anderson PR,LF    0  0  0  0 .250                                          
+  J.Baker 2B          3  1  1  2 .500                                          
+B-A.Iwamura 2B        1  0  0  0 .000                                          
+  C.Gomez CF          4  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+         Totals      34  4  9  4                 Totals      30  1  3  1
+
+A-Subbed Defensively (3B) For Ramirez In 8th Inning
+B-Subbed Defensively (2B) For Baker In 8th Inning
+C-Pinch Hit For Torrealba In 9th Inning
+D-Pinch Ran For Ruiz In 9th Inning
+E-Subbed Defensively (C ) For Byrd In 9th Inning
+
+Cubs............ 0 0 3  0 0 0  0 0 1  -  4  9  0
+Padres.......... 0 0 0  1 0 0  0 0 0  -  1  3  0
+
+Cubs (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dempster WIN(1-0)       8       3   1   1   2   5   0   1.13  A1 D2
+F.Francisco SAVE(1st)     1       0   0   0   1   2   0   0.00  D3
+Totals                    9       3   1   1   3   7   0
+
+Padres (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Jackson LOSS(0-1)       8       8   4   4   2   4   1   4.50  A1 D6
+J.Valverde                1       1   0   0   0   0   0   0.00  D7
+Totals                    9       9   4   4   2   4   1
+
+ATTENDANCE- 45,404 DATE- Wednesday, October 6th 2010 TIME- Night 
+UMPIRES- Dan Iassogna, Chad Fairchild, Larry Vanover, Sam Holbrook
+T- 2:59
+LEFT ON BASE- Cubs: 5  Padres: 5
+DOUBLE PLAYS- Cubs: 0  Padres: 0
+DOUBLES- A.Soriano-3(4th)
+TRIPLES- Y.Torrealba(1st)
+HOME RUNS- J.Baker(1st)
+STOLEN BASES- R.Theriot(1st), T.Gwynn Jr(2nd)
+CAUGHT STEALING- J.Anderson
+WALKS- D.Lee, Y.Torrealba, R.Branyan-2, E.Cabrera
+STRIKE OUTS- R.Theriot, M.Byrd, A.Soriano, J.Baker, R.Branyan, N.Cruz-3,
+             M.Ramirez, C.Headley, E.Cabrera
+WILD PITCHES- E.Jackson
+[2]
+SCORESHEET: 2010 Chicago (NL) Cubs at 2010 San Diego Padres
+K.Fukudo-A1  A1:L/4     B1:Si      C1:G/63    D1:G/63
+                                              
+                                              
+R.Therio-A1  A2:K       B2:Si>13   *5*:G/63   D2:F/7
+                                              
+                                              
+D.Lee-A1     A3:G/3     B3:SB>12   C3:L/3     *8*:G/63
+                        W>b1                  
+                                              
+A.Ramire-A1  *2*:G/43   B4:Si>3#   C4:P/5     D4:P/5
+M.Fonten-D6             2o 12                 
+                                              
+M.Byrd-A1    A5:K       B5:G/53    *6*:P/5    D5:F/8
+G.Soto-E1                                     
+                                              
+A.Sorian-A1  A6:K       *4*:Do     C6:Do      *9*:Do
+                                              
+                                              
+Y.Torrea-A1  *3*:Tr     B7:W>b1    C7:WP>23   D7:Si>2#
+R.Ruiz-D7                          G/43       
+J.Anders-D8                                   
+J.Baker-A1   A8:HR>3#   B8:K       C8:F/7     D8:CS/26>
+A.Iwamur-D6  b#                               1o L/4
+                                              
+C.Gomez-A1   A9:G/13    B9:P/6     *7*:G/53   D9:G/63
+                                              
+                                              
+
+T.Gwynn -A1  A1:L/4     *4*:Si     *6*:G/63   D1:Force/
+                                              64>1o b1
+                                              
+J.Carrol-A1  A2:G/63    B2:SB>12   C2:G/63    D2:L/6
+                        G/63                  
+                                              
+E.Longor-A1  A3:F/7     B3:F/8     C3:G/43    *9*:G/43
+                                              
+                                              
+R.Branya-A1  *2*:K      B4:Si>2#   *7*:W>b1   D4:W>b1
+                                              
+                                              
+N.Cruz-A1    A5:K       B5:F/7     C5:K       D5:K
+                                              
+                                              
+M.Ramire-A1  A6:G/63    *5*:F/7    C6:F/7     D6:K
+                                              
+                                              
+C.Headle-A1  *3*:L/4    B7:K       C7:G/63
+                                   
+                                   
+E.Cabrer-A1  A8:G/43    B8:W>b1    *8*:K
+                                   
+                                   
+N.Hundle-A1  A9:F/9     B9:G/63    C9:Si
+                                   
+                                   
+
+

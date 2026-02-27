@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2010 Los Angeles(AL) Angels At 2010 New York (AL) Yankee 10/17/2010
+
+[1]  Angels             AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  C.Figgins 3B        4  0  0  0 .225     D.Jeter SS          4  1  1  0 .282  
+  H.Ramirez SS        5  0  0  0 .233     B.Abreu RF          4  0  1  0 .263  
+  M.Holliday LF       4  2  2  0 .216     M.Teixeira 1B       4  0  0  0 .256  
+  D.Uggla 2B          4  2  2  0 .259     H.Matsui DH         3  1  1  1 .172  
+B-H.Kendrick 2B       1  0  0  0 .500     M.Derosa 3B         2  0  0  0 .100  
+  T.Hunter CF         5  1  4  2 .405   D-K.Griffey Jr PH     1  1  1  2 .700  
+  R.Winn RF           3  0  0  0 .250     M.Cabrera LF        3  0  0  0 .214  
+  C.Lee DH            3  0  2  1 .238   E-J.Damon PH          1  0  0  0 .192  
+A-C.Jones PH          1  0  0  0 .167     R.Paulino C         3  0  0  0 .250  
+  R.Gload 1B          3  0  0  1 .211   F-C.McGehee PH        0  0  0  0 .421  
+  M.Napoli C          4  0  0  0 .321     C.Crisp CF          2  0  2  0 .400  
+C-B.Molina C          0  0  0  0 .000   G-B.Gardner PH        1  0  0  0 .333  
+                                          R.Cano 2B           4  0  0  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 10  4                 Totals      32  3  6  3
+
+A-Pinch Hit For Lee In 7th Inning
+B-Subbed Defensively (2B) For Uggla In 7th Inning
+C-Subbed Defensively (C ) For Napoli In 8th Inning
+D-Pinch Hit For Derosa In 9th Inning
+E-Pinch Hit For Cabrera In 9th Inning
+F-Pinch Hit For Paulino In 9th Inning
+G-Pinch Hit For Crisp In 9th Inning
+
+Angels.......... 2 0 2  1 0 0  0 0 0  -  5 10  0
+Yankees......... 1 0 0  0 0 0  0 0 2  -  3  6  1
+
+[1]Angels (7-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez WIN(2-2)         7       5   1   1   2   4   0   3.38  A1 C9
+M.Palmer                     1       0   1   1   1   0   0   6.97  D1 D4
+J.Mijares                    0       1   1   1   0   0   1   8.44  D5 D5
+F.Rodriguez SAVE(3rd)        1       0   0   0   1   2   0   1.59  D6
+[1]Totals                    9       6   3   3   4   6   1
+
+[1]Yankees (5-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Feldman LOSS(1-1)          6 2/3   9   5   3   4   4   0   4.97  A1 D6
+R.Madson                     2 1/3   1   0   0   0   3   0   0.00  D7
+[1]Totals                    9      10   5   3   4   7   0
+
+ATTENDANCE- 50,245 DATE- Sunday, October 17th 2010 TIME- Night 
+UMPIRES- Dale Scott, Jerry Meals, Adrian Johnson, Mike Dimuro
+T- 2:57
+LEFT ON BASE- Angels: 9  Yankees: 6
+DOUBLE PLAYS- Angels: 1  Yankees: 0
+ERRORS- M.Teixeira
+DOUBLES- M.Holliday-2(2nd), H.Matsui(2nd)
+HOME RUNS- K.Griffey Jr(4th)
+STOLEN BASES- T.Hunter-2(3rd)
+CAUGHT STEALING- T.Hunter
+WALKS- C.Figgins, M.Holliday, R.Winn, R.Gload, H.Matsui, M.Derosa, C.McGehee,
+       C.Crisp
+STRIKE OUTS- C.Figgins, H.Ramirez-3, H.Kendrick, R.Winn, M.Napoli, M.Derosa-2,
+             M.Cabrera-2, B.Gardner, R.Cano
+GIDP- R.Cano
+[2]
+[1]SCORESHEET: 2010 Los Angeles(AL) Angels at 2010 New York (AL) Yankees
+C.Figgin-A1  A1:G/43    B1:W>12 b  *4*:G/63   D1:K       E1:L/4
+                        1                                
+                                                         
+H.Ramire-A1  A2:K       B2:K       C2:G/63    D2:G/53    *9*:K
+                                                         
+                                                         
+M.Hollid-A1  A3:Do      B3:G/53    C3:W>b1    *7*:G/63   E3:Do
+                                                         
+                                                         
+D.Uggla-A1   A4:E/3>2#  *3*:Si     C4:Si>12   D4:F/7     E4:K
+H.Kendri-D8  b2                                          
+                                                         
+T.Hunter-A1  A5:Si>2#   B5:Si>13   C5:Si>2#1  D5:Si      E5:G/43
+                                   3 CS/26>1             
+                                   o                     
+R.Winn-A1    A6:F/9     B6:SB>12   *5*:L/4    D6:SB>12
+                        K                     W>b1
+                                              
+C.Lee-A1     *2*:Si     B7:Si>3#   C7:G/53    D7:G/43
+C.Jones-D7              23                    
+                                              
+R.Gload-A1   A8:W>12 b  B8:G/3>3#  C8:G/53    *8*:L/4
+             1          12                    
+                                              
+M.Napoli-A1  A9:Force/  B9:L/6     *6*:G/43   D9:K
+B.Molina-E2  46>23 1o                         
+             b1                               
+
+D.Jeter-A1   A1:Si      B1:L/6     C1:G/43    *8*:G/3
+                                              
+                                              
+B.Abreu-A1   A2:F/9     *3*:G/53   *6*:Si     D2:FO/2
+                                              
+                                              
+M.Teixei-A1  A3:G/43>1  B3:F/8     C3:F/8     D3:G/63
+             2                                
+                                              
+H.Matsui-A1  A4:Do>2#   B4:L/4     C4:P/4     *9*:W>b1
+                                              
+                                              
+M.Derosa-A1  A5:IW>b1   *4*:K      C5:K       D5:HR>1#
+K.Griffe-D5                                   b#
+                                              
+M.Cabrer-A1  A6:F/9     B6:K       *7*:K      D6:FO/2
+J.Damon-D6                                    
+                                              
+R.Paulin-A1  *2*:G/53   B7:G/3     C7:G/43    D7:W>b1
+C.McGehe-D7                                   
+                                              
+C.Crisp-A1   A8:Si      *5*:W>b1   C8:Si      D8:K
+B.Gardne-D8                                   
+                                              
+R.Cano-A1    A9:L/4     B9:G-DP/1  C9:G/13    D9:K
+                        63>1o                 
+                                              
+
+

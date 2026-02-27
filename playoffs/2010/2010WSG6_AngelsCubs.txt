@@ -1,0 +1,117 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 Los Angeles(AL) Angels    10/30/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  K.Fukudome RF       3  2  0  0 .304     C.Figgins 3B        5  0  0  1 .197  
+  R.Theriot SS        5  2  3  1 .296     H.Ramirez SS        5  2  2  0 .253  
+  D.Lee 1B            5  1  1  2 .171     M.Holliday LF       5  1  4  2 .250  
+  A.Ramirez 3B        3  1  1  3 .237     C.Jones DH          2  0  0  0 .172  
+A-M.Fontenot 3B       2  0  1  0 .267     T.Hunter CF         5  0  1  0 .303  
+  M.Byrd LF           5  0  4  0 .347     D.Uggla 2B          4  0  0  0 .213  
+  A.Soriano DH        4  0  1  0 .238     R.Winn RF           3  1  1  0 .250  
+  J.Baker 2B          4  0  0  0 .273     R.Gload 1B          2  0  2  0 .276  
+E-C.Guzman PH         0  0  0  0 .189   D-T.Ishikawa PH,1B    1  0  0  0 .304  
+F-A.Iwamura 2B        0  0  0  0 .100     B.Molina C          4  0  0  0 .000  
+  G.Soto C            2  0  1  0 .107                                          
+B-R.Ruiz PH           1  0  0  0 .300                                          
+C-Y.Torrealba  ,C     1  0  0  0 .241                                          
+  C.Gomez CF          4  1  1  0 .083                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  7 13  6                 Totals      36  4 10  3
+
+A-Subbed Defensively (3B) For Ramirez In 5th Inning
+B-Pinch Hit For Soto In 8th Inning
+C-Subbed Defensively (  ) For Ruiz In 8th Inning
+D-Pinch Hit For Gload In 8th Inning
+E-Pinch Hit For Baker In 9th Inning
+F-Subbed Defensively (2B) For Guzman In 9th Inning
+
+Cubs............ 3 2 0  0 0 0  0 2 0  -  7 13  0
+Angels.......... 2 1 0  0 1 0  0 0 0  -  4 10  2
+
+[1]Cubs (11-7)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(4-1)          7 1/3   9   4   4   4   8   1   3.62  A1 D7
+C.Breslow HOLD(3rd)          1 1/3   1   0   0   0   1   0   1.38  D8 E3
+F.Francisco SAVE(6th)        0 1/3   0   0   0   1   1   0   2.00  E4
+[1]Totals                    9      10   4   4   5  10   1
+
+[1]Angels (10-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Garland LOSS(0-1)          4 1/3   9   5   3   0   1   1   5.91  A1 C5
+M.Palmer                     3 1/3   3   2   2   2   3   0   5.94  C6 E2
+D.Oliver                     0 1/3   1   0   0   0   0   0   4.35  E3 E4
+J.Mijares                    1       0   0   0   2   0   0   6.23  E5
+[1]Totals                    9      13   7   5   4   4   1
+
+ATTENDANCE- 41,076 DATE- Saturday, October 30th 2010 TIME- Day 
+UMPIRES- Dale Scott, Jerry Meals, Adrian Johnson, Mike Dimuro
+T- 3:18
+LEFT ON BASE- Cubs:11  Angels:10
+DOUBLE PLAYS- Cubs: 1  Angels: 2
+ERRORS- D.Uggla, J.Garland
+DOUBLES- D.Lee(3rd), M.Byrd(6th), R.Gload(2nd)
+HOME RUNS- A.Ramirez(3rd), M.Holliday(2nd)
+STOLEN BASES- A.Soriano(2nd), C.Gomez(4th), H.Ramirez(3rd)
+SACRIFICE HITS- C.Gomez
+WALKS- K.Fukudome-2, A.Soriano, C.Guzman, C.Jones-3, R.Winn, R.Gload
+HIT BY PITCH- G.Soto
+STRIKE OUTS- A.Soriano-2, J.Baker, C.Gomez, C.Figgins-2, H.Ramirez-2,
+             M.Holliday, C.Jones, T.Hunter-3, R.Winn
+GIDP- R.Theriot, A.Ramirez, T.Hunter
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 Los Angeles(AL) Angels
+K.Fukudo-A1  A1:F/9     B1:SB>12   *4*:F/8    D1:IW>b1   E1:W>b1
+                        E/4>2# b2                        
+                                                         
+R.Therio-A1  A2:Si      B2:Si>2#   C2:F/8     D2:G-DP/6  E2:Si>13
+                                              43>1o      
+                                                         
+D.Lee-A1     A3:E/1>12  B3:L/5     C3:L/5     *7*:G/63   E3:Do>3#
+                                                         1#
+                                                         
+A.Ramire-A1  A4:HR>2#   B4:G-DP/5  *5*:G/63   D4:Si      E4:F/9
+M.Fonten-C8  1# b#      43>1o                            
+                                                         
+M.Byrd-A1    A5:Si      *3*:Si     C5:Do      D5:Si>12   *9*:L/5
+                                                         
+                                                         
+A.Sorian-A1  A6:Si>12   B6:F/8     C6:K       D6:K       E6:W>b1
+                                                         
+                                                         
+J.Baker-A1   A7:F/9     B7:K       C7:P/6     D7:G/13    E7:SB>12
+C.Guzman-E7                                              IW>b1
+A.Iwamur-F1                                              
+G.Soto-A1    A8:G/63    B8:Si>12   *6*:HBP    *8*:F/8    E8:F/7
+R.Ruiz-D8                                                
+Y.Torrea-E5                                              
+C.Gomez-A1   *2*:Si     B9:F/8     C9:Sac/34  D9:K       E9:G/13
+                                   >12                   
+                                                         
+
+C.Figgin-A1  A1:K       B1:G/63>3  C1:K       D1:G/53    *9*:G/63
+                        # 23                             
+                                                         
+H.Ramire-A1  A2:Si      B2:F/9     *5*:Si     *7*:K      E2:K
+                                                         
+                                                         
+M.Hollid-A1  A3:HR>1#   *3*:K      C3:SB>12   D3:Si      E3:Si
+             b#                    Si>23                 
+                                                         
+C.Jones-A1   A4:W>b1    B4:G/13    C4:W>12 b  D4:K       E4:W>12 b
+                                   1                     1
+                                                         
+T.Hunter-A1  A5:K       B5:Si      C5:G-DP/6  D5:K       E5:K
+                                   43>3# 23              
+                                   1o                    
+D.Uggla-A1   A6:F/7     B6:G/43    C6:G/63    *8*:G/31
+                                              
+                                              
+R.Winn-A1    *2*:W>b1   *4*:K      *6*:F/7    D7:Si
+                                              
+                                              
+R.Gload-A1   A8:Si>12   B8:Do      C8:W>b1    D8:F/7
+T.Ishika-D8                                   
+                                              
+B.Molina-A1  A9:G/3>23  B9:G/53    C9:P/6     D9:G/3
+             12                               
+                                              
+
+

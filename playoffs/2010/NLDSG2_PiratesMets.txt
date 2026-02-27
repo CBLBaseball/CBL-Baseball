@@ -1,0 +1,112 @@
+[1]BOXSCORE: 2010 Pittsburgh Pirates At 2010 New York (NL) Mets        10/4/2010
+
+[1]  Pirates            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  B.Zobrist RF        4  0  0  2 .125     O.Hudson 2B         5  1  1  0 .200  
+  A.McCutchen CF      5  0  2  1 .500     D.Wright 3B         4  0  3  0 .429  
+  A.Pujols 1B         3  0  1  1 .143     F.Tatis LF          5  0  3  1 .500  
+  J.Bay LF            4  0  0  0 .000     G.Sheffield DH      4  1  2  1 .400  
+  A.Laroche* 3B       4  0  1  0 .143     C.Pena 1B           5  0  0  0 .250  
+  C.Hart DH           3  1  0  0 .000     J.Willingham RF     3  1  1  1 .200  
+  F.Sanchez 2B        4  1  1  0 .250     M.Cameron CF        3  0  0  0 .143  
+  R.Johnson C         3  1  1  0 .333     J.Varitek C         2  0  0  0 .000  
+C-G.Jones PH          1  0  0  0 .000   A-J.Thome PH          1  0  0  0 .000  
+D-R.Doumit C          0  0  0  0 .000   B-H.Blanco C          0  0  0  0 ----  
+  J.Wilson SS         4  2  3  1 .714     J.Hannahan SS       3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  9  5                 Totals      35  3 10  3
+
+A-Pinch Hit For Varitek In 8th Inning
+B-Subbed Defensively (C ) For Thome In 9th Inning
+C-Pinch Hit For Johnson In 9th Inning
+D-Subbed Defensively (C ) For Jones In 9th Inning
+
+Pirates......... 0 0 2  0 1 0  0 0 2  -  5  9  0
+Mets............ 0 0 0  0 0 2  1 0 0  -  3 10  0
+
+[1]Pirates (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Floyd                      6       7   3   3   5   9   2   4.50  A1 D2
+B.Howry BS(1st)              1       1   0   0   1   2   0   0.00  D3 D7
+G.Mota WIN(1-0)              1       0   0   0   0   0   0   0.00  D8 E1
+S.Camp                       0       2   0   0   0   0   0   ----  E2 E3
+D.Meyer SAVE(1st)            1       0   0   0   0   1   0   0.00  E4
+[1]Totals                    9      10   3   3   6  12   2
+
+[1]Mets (0-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wolf                       6 2/3   7   3   3   1   8   0   4.05  A1 C9
+B.Lyon LOSS(0-1)             1 1/3   1   2   2   2   0   0  10.80  D1 D7
+D.O'Day                      1       1   0   0   0   1   0   0.00  D8
+[1]Totals                    9       9   5   5   3   9   0
+
+ATTENDANCE- 41,535 DATE- Monday, October 4th 2010 TIME- Night 
+UMPIRES- Mike Winters, Lance Barksdale, James Hoye, Randy Marsh
+T- 3:18
+LEFT ON BASE- Pirates: 6  Mets:11
+DOUBLE PLAYS- Pirates: 2  Mets: 1
+DOUBLES- A.McCutchen(1st), J.Wilson(2nd)
+HOME RUNS- G.Sheffield(1st), J.Willingham(1st)
+WALKS- B.Zobrist, A.Pujols, C.Hart, D.Wright, G.Sheffield, J.Willingham,
+       M.Cameron, J.Varitek, J.Hannahan
+STRIKE OUTS- B.Zobrist-2, A.Pujols, J.Bay, C.Hart-2, F.Sanchez, R.Johnson,
+             G.Jones, O.Hudson-2, F.Tatis, G.Sheffield, C.Pena-3,
+             J.Willingham-2, M.Cameron, J.Varitek, J.Hannahan
+GIDP- F.Sanchez, C.Pena, M.Cameron
+WILD PITCHES- D.O'Day
+[2]
+[1]SCORESHEET: 2010 Pittsburgh Pirates at 2010 New York (NL) Mets
+B.Zobris-A1  A1:K       B1:G/43>3  C1:K       D1:W>b1    E1:Force/
+                        # 12                             64>3# 1o
+                                                         b1
+A.McCutc-A1  A2:Si      B2:G/43>2  C2:Do>2#   D2:P/6     E2:WP>12
+                        3                                F/8
+                                                         
+A.Pujols-A1  A3:K       B3:Si>3#   C3:IW>b1   *8*:G/63
+                                              
+                                              
+J.Bay-A1     A4:K       B4:F/8     C4:F/9     D4:L/6
+                                              
+                                              
+A.Laroch-A1  *2*:Si     *4*:G/3    *6*:L/5    D5:F/8
+                                              
+                                              
+C.Hart-A1    A6:K       B6:K       C6:P/6     *9*:W>b1
+                                              
+                                              
+F.Sanche-A1  A7:G-DP/6  B7:F/8     C7:K       D7:Si>13
+             43>1o                            
+                                              
+R.Johnso-A1  *3*:Si     *5*:K      *7*:P/6    D8:K
+G.Jones-D8                                    
+R.Doumit-E3                                   
+J.Wilson-A1  A9:Si>13   B9:Do      C9:G/63    D9:Si>3#
+                                              13
+                                              
+
+O.Hudson-A1  A1:K       B1:Force/  C1:K       *7*:Si     E1:P/5
+                        46>1o b1                         
+                                                         
+D.Wright-A1  A2:G/53    B2:W>12 b  C2:Si>13   D2:Si>12   *9*:Si
+                        1                                
+                                                         
+F.Tatis-A1   A3:K       B3:Si>23   C3:G/3     D3:Si>2#   E3:Si>13
+                        12                    13         
+                                                         
+G.Sheffi-A1  *2*:Si     B4:F/7     *6*:HR>b#  D4:W>12 b  E4:K
+                                              1          
+                                                         
+C.Pena-A1    A5:F/8     *4*:K      C5:K       D5:K       E5:G-DP/4
+                                                         63>1o
+                                                         
+J.Willin-A1  A6:K       B6:W>b1    C6:HR>b#   D6:K
+                                              
+                                              
+M.Camero-A1  A7:K       B7:G-DP/6  C7:W>b1    D7:F/9
+                        43>1o                 
+                                              
+J.Varite-A1  *3*:W>b1   *5*:G/43   C8:K       *8*:F/8
+J.Thome-D8                                    
+H.Blanco-E2                                   
+J.Hannah-A1  A9:K       B9:W>b1    C9:F/7     D9:G/13
+                                              
+                                              
+
+

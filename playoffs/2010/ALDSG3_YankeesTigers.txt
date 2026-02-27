@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2010 New York (AL) Yankees At 2010 Detroit Tigers         10/6/2010
+
+[1]  Yankees            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  B.Abreu RF          5  1  1  0 .222     B.Inge 3B           4  0  0  0 .000  
+I-B.Gardner RF        0  0  0  0 ----     M.Ordonez DH        3  1  0  0 .000  
+  D.Jeter SS          4  3  2  1 .556     J.Rivera LF         4  1  1  1 .125  
+  J.Damon LF          4  1  1  3 .125     R.Raburn RF         1  0  0  0 .333  
+  M.Teixeira 1B       4  0  0  0 .250   C-J.Hermida PH,RF     2  1  1  0 .333  
+  C.McGehee 3B        3  2  2  2 .600     R.Belliard 2B       2  0  0  0 .250  
+  H.Matsui DH         4  0  0  0 .250   D-L.Overbay PH        0  0  0  1 ----  
+  F.Cervelli C        3  0  0  0 .000   F-R.Santiago 2B       1  0  0  0 .667  
+G-K.Griffey Jr PH     1  0  1  01.000     K.Morales 1B        4  1  2  0 .429  
+H-J.Posada C          0  0  0  0 .000     K.Shoppach C        2  0  0  0 .000  
+  R.Cano 2B           4  1  1  0 .250   E-G.Zaun PH,C         2  1  1  0 .333  
+  M.Cabrera CF        4  0  1  1 .250     R.Johnson CF        1  0  0  0 .000  
+                                        A-C.Granderson PH,CF  3  1  1  4 .400  
+                                          O.Vizquel SS        1  0  0  0 .000  
+                                        B-B.Ryan PH,SS        3  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  8  9  7                 Totals      33  6  7  6
+
+A-Pinch Hit For Johnson In 5th Inning
+B-Pinch Hit For Vizquel In 5th Inning
+C-Pinch Hit For Raburn In 6th Inning
+D-Pinch Hit For Belliard In 6th Inning
+E-Pinch Hit For Shoppach In 6th Inning
+F-Subbed Defensively (2B) For Overbay In 7th Inning
+G-Pinch Hit For Cervelli In 8th Inning
+H-Subbed Defensively (C ) For Griffey Jr In 8th Inning
+I-Subbed Defensively (RF) For Abreu In 9th Inning
+
+Yankees......... 1 1 0  1 4 0  1 0 0  -  8  9  1
+Tigers.......... 0 0 0  1 0 5  0 0 0  -  6  7  1
+
+[1]Yankees (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Pettitte WIN(1-0)          5 2/3   4   4   4   2   4   1   6.35  A1 C6
+P.Hughes                     0       3   2   2   0   0   1   ----  C7 C9
+T.Coffey HOLD(1st)           1       0   0   0   0   1   0   0.00  D1 D3
+J.Affeldt HOLD(1st)          1 1/3   0   0   0   0   1   0   0.00  D4 D7
+M.Rivera SAVE(1st)           1       0   0   0   0   0   0   0.00  D8
+[1]Totals                    9       7   6   6   2   6   2
+
+[1]Tigers (0-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Garcia LOSS(0-1)           5 1/3   7   7   6   2   2   3  10.13  A1 C7
+P.Coke                       1       0   0   0   0   0   0   0.00  C8 D1
+K.Calero                     1 1/3   1   1   1   0   0   1   6.75  D2 D6
+J.Thatcher                   1       1   0   0   0   3   0   0.00  D7 E1
+R.Soriano                    0 1/3   0   0   0   0   1   0   0.00  E2
+[1]Totals                    9       9   8   7   2   6   4
+
+ATTENDANCE- 37,742 DATE-  TIME- Night 
+UMPIRES- Mike Winters, Lance Barksdale, James Hoye, Randy Marsh
+T- 3:00
+LEFT ON BASE- Yankees: 3  Tigers: 4
+DOUBLE PLAYS- Yankees: 1  Tigers: 1
+ERRORS- C.McGehee, R.Raburn
+DOUBLES- K.Griffey Jr(1st), R.Cano(1st)
+HOME RUNS- D.Jeter(1st), J.Damon(1st), C.McGehee-2(2nd), J.Rivera(1st),
+           C.Granderson(1st)
+STOLEN BASES- B.Abreu(1st), D.Jeter(1st)
+SACRIFICE FLIES- L.Overbay
+WALKS- D.Jeter, C.McGehee, M.Ordonez, R.Raburn
+HIT BY PITCH- B.Inge
+STRIKE OUTS- B.Abreu-2, D.Jeter, F.Cervelli, R.Cano, M.Cabrera, B.Inge,
+             M.Ordonez, J.Rivera, K.Morales, K.Shoppach, B.Ryan
+GIDP- B.Abreu, J.Rivera
+[2]
+[1]SCORESHEET: 2010 New York (AL) Yankees at 2010 Detroit Tigers
+B.Abreu-A1   A1:K       B1:G-DP/6  C1:Si      *7*:F/8    E1:K
+B.Gardne-E3             43>1o                            
+                                                         
+D.Jeter-A1   A2:Si      *3*:F/7    C2:SB>12   D2:HR>b#   E2:K
+                                   IW>b1                 
+                                                         
+J.Damon-A1   A3:SB>12   B3:F/8     C3:HR>2#   D3:F/8
+             G/43>23               1# b#      
+                                              
+M.Teixei-A1  A4:E/9>3#  B4:P/4     C4:L/4     D4:G/63
+             b2                               
+                                              
+C.McGehe-A1  A5:IW>b1   *4*:HR>b#  C5:HR>b#   *8*:G/43
+                                              
+                                              
+H.Matsui-A1  A6:P/4     B6:F/9     C6:F/8     D6:FO/2
+                                              
+                                              
+F.Cervel-A1  *2*:FO/5   B7:K       *6*:G/53   D7:Do
+K.Griffe-D7                                   
+J.Posada-D9                                   
+R.Cano-A1    A8:Do      B8:F/9     C8:F/8     D8:K
+                                              
+                                              
+M.Cabrer-A1  A9:Si>2#   *5*:G/63   C9:G/63    *9*:K
+                                              
+                                              
+
+B.Inge-A1    A1:HBP     B1:G/63    C1:K       D1:F/8     E1:G/63
+                                                         
+                                                         
+M.Ordone-A1  A2:F/7     *4*:F/7    *6*:W>b1   *7*:K
+                                              
+                                              
+J.Rivera-A1  A3:G-DP/6  B3:HR>b#   C3:K       D3:F/7
+             43>1o                            
+                                              
+R.Raburn-A1  *2*:G/23   B4:W>b1    C4:Si>13   D4:G/43
+J.Hermid-C4                                   
+                                              
+R.Bellia-A1  A5:F/8     B5:Force/  C5:SF/7>3  *8*:G/63
+L.Overba-C5             54>1o b1   #          
+R.Santia-D2                                   
+K.Morale-A1  A6:L/6     B6:Si>13   C6:Si>12   D6:K
+                                              
+                                              
+K.Shoppa-A1  *3*:K      B7:F/7     C7:Si>23   D7:F/8
+G.Zaun-C7                          12         
+                                              
+R.Johnso-A1  A8:E/5>b2  *5*:G/63   C8:HR>3#   *9*:G/23
+C.Grande-B8                        2# 1# b#   
+                                              
+O.Vizque-A1  A9:L/4     B9:K       C9:Si      D9:G/43
+B.Ryan-B9                                     
+                                              
+
+

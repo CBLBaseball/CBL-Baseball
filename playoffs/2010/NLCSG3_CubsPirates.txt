@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 Pittsburgh Pirates        10/16/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  K.Fukudome RF       4  3  2  0 .314     N.McLouth CF        5  1  1  0 .259  
+  R.Theriot SS        5  3  2  1 .222     B.Zobrist 2B        3  1  3  2 .286  
+  C.Guzman DH         6  1  3  4 .200     A.Pujols 1B         3  0  0  1 .152  
+  D.Lee 1B            5  1  1  2 .146     G.Jones DH          0  0  0  0 .222  
+  A.Ramirez 3B        2  1  1  3 .333   A-C.Guillen PH        2  0  0  1 .000  
+B-J.Fox PH,3B         2  0  2  1 .556     J.Bay LF            4  0  0  0 .143  
+H-A.Iwamura 2B        0  0  0  0 .167     A.McCutchen RF      4  0  0  0 .278  
+  M.Byrd CF,LF        4  0  1  0 .350     A.Laroche* 3B       4  0  1  0 .212  
+  Y.Torrealba C       3  0  1  0 .400     R.Johnson C         1  0  0  0 .273  
+F-C.Gomez PH,CF       2  0  0  0 .000   C-C.Hart PH           0  0  0  0 .235  
+  A.Soriano LF        2  0  0  0 .263   E-R.Chavez C          2  0  0  0 .000  
+G-G.Soto C            1  0  0  0 .125     J.Wilson SS         1  1  1  0 .375  
+  M.Fontenot 2B,3B    4  2  2  0 .280   D-W.Bloomquist PH,SS  2  1  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40 11 15 11                 Totals      31  4  7  4
+
+A-Pinch Hit For Jones In 4th Inning
+B-Pinch Hit For Ramirez In 5th Inning
+C-Pinch Hit For Johnson In 5th Inning
+D-Pinch Hit For Wilson In 5th Inning
+E-Subbed Defensively (C ) For Hart In 6th Inning
+F-Pinch Hit For Torrealba In 6th Inning
+G-Subbed Defensively (C ) For Soriano In 6th Inning
+H-Subbed Defensively (2B) For Fox In 8th Inning
+
+Cubs............ 0 0 5  3 0 3  0 0 0  - 11 15  0
+Pirates......... 0 0 1  0 0 1  0 2 0  -  4  7  2
+
+[1]Cubs (6-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(3-0)          7       6   4   4   2   7   0   3.06  A1 D2
+B.Hawksworth                 2       1   0   0   1   0   0   1.29  D3
+[1]Totals                    9       7   4   4   3   7   0
+
+[1]Pirates (5-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Ohlendorf LOSS(1-1)        3 2/3   6   8   8   2   3   1   6.39  A1 C2
+J.Burton                     2 1/3   6   3   2   3   0   0   5.40  C3 D9
+S.Camp                       2       2   0   0   1   0   0   2.08  E1 E7
+J.Beimel                     1       1   0   0   0   1   0   0.00  E8
+[1]Totals                    9      15  11  10   6   4   1
+
+ATTENDANCE- 36,290 DATE- Saturday, October 16th 2010 TIME- Night 
+UMPIRES- Dale Scott, Jerry Meals, Adrian Johnson, Mike Dimuro
+T- 3:07
+LEFT ON BASE- Cubs:10  Pirates: 6
+DOUBLE PLAYS- Cubs: 0  Pirates: 4
+ERRORS- A.Pujols, W.Bloomquist
+DOUBLES- C.Guzman(1st), D.Lee(2nd), M.Byrd(4th), M.Fontenot-2(3rd),
+         B.Zobrist-3(5th), J.Wilson(4th)
+TRIPLES- C.Guzman(1st)
+HOME RUNS- A.Ramirez(2nd)
+SACRIFICE FLIES- B.Zobrist, A.Pujols, C.Guillen
+WALKS- K.Fukudome, J.Fox, M.Byrd, A.Soriano-2, M.Fontenot, G.Jones, C.Hart,
+       W.Bloomquist
+HIT BY PITCH- K.Fukudome, R.Theriot
+STRIKE OUTS- K.Fukudome, D.Lee-2, Y.Torrealba, N.McLouth, J.Bay, A.McCutchen-2,
+             A.Laroche*-2, R.Chavez
+GIDP- R.Theriot, C.Guzman, C.Gomez, M.Fontenot
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 Pittsburgh Pirates
+K.Fukudo-A1  A1:HBP     B1:Si>23   C1:W>12 b  *6*:Si     *7*:P/2    F1:K
+                                   1                                
+                                                                    
+R.Therio-A1  A2:G-DP/6  B2:Si>3#   C2:HBP>23  D2:E/6>13  E2:Si      F2:E/3>23
+             43>1o      12         12         b2                    
+                                                                    
+C.Guzman-A1  A3:Tr      B3:Si>2#   C3:Do>3#   D3:P/4     E3:G-DP/6  F3:F/8
+                        13         2# 1#                 43>1o      
+                                                                    
+D.Lee-A1     A4:K       B4:K       C4:G/63    D4:Do>3#   *8*:G/3
+                                              2#         
+                                                         
+A.Ramire-A1  *2*:G/43   B5:HR>3#   *5*:W>b1   D5:Si>2#   E5:Si
+J.Fox-C5                1# b#                            
+A.Iwamur-E8                                              
+M.Byrd-A1    A6:G/43    B6:F/9     C6:F/8     D6:Do>13   E6:W>12 b
+                                                         1
+                                                         
+Y.Torrea-A1  A7:G/63    *4*:K      C7:Si>12   D7:G/53    E7:G-DP/6
+C.Gomez-D7                                               43>1o
+                                                         
+A.Sorian-A1  *3*:G/53   B8:F/8     C8:W>23 1  D8:W>b1    *9*:P/4
+G.Soto-E1                          2 b1                  
+                                                         
+M.Fonten-A1  A9:Do      B9:W>b1    C9:G-DP/4  D9:F/9     E9:Do
+                                   63>1o                 
+                                                         
+
+N.McLout-A1  A1:F/9     B1:F/9>23  C1:K       D1:Si>12   E1:G/43
+                                                         
+                                                         
+B.Zobris-A1  A2:Do      B2:SF/9>3  *6*:Do     D2:Do>2#
+                        #                     13
+                                              
+A.Pujols-A1  A3:G/63    B3:L/6     C3:G/63>2  D3:SF/8>3
+                                   3          #
+                                              
+G.Jones-A1   A4:W>b1    *4*:F/8    C4:SF/7>3  D4:F/8
+C.Guille-B4                        #          
+                                              
+J.Bay-A1     A5:K       B5:G/63    C5:F/7     D5:G/3
+                                              
+                                              
+A.McCutc-A1  *2*:G/53   B6:K       *7*:K      *9*:F/7
+                                              
+                                              
+A.Laroch-A1  A7:K       *5*:FO/5   C7:K       D7:Si
+                                              
+                                              
+R.Johnso-A1  A8:G/63    B8:W>b1    C8:K       D8:P/1
+C.Hart-B8                                     
+R.Chavez-C2                                   
+J.Wilson-A1  *3*:Do     B9:F/9     *8*:Si     D9:W>12 b
+W.Bloomq-B9                                   1
+                                              
+
+

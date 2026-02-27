@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2010 New York (NL) Mets At 2010 Pittsburgh Pirates        10/8/2010
+
+[1]  Mets               AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  O.Hudson 2B         5  2  2  0 .174     B.Zobrist RF        4  0  1  0 .150  
+  R.Church RF         4  0  2  0 .467     A.McCutchen CF      3  0  1  0 .385  
+  D.Wright 3B         5  0  3  1 .400     A.Pujols 1B         3  0  0  0 .158  
+  C.Pena 1B           5  0  0  1 .095     J.Bay LF            2  0  0  0 .143  
+  J.Willingham LF     5  1  1  0 .250     A.Laroche* 3B       4  0  1  0 .333  
+C-G.Matthews Jr LF    0  0  0  0 ----     C.Hart DH           3  1  1  0 .286  
+  J.Thome DH          3  0  0  0 .083   D-T.Hafner PH         1  0  0  0 .125  
+  M.Cameron CF        4  0  1  0 .125     F.Sanchez 2B        3  0  2  1 .417  
+  J.Varitek C         3  0  1  1 .125   E-G.Jones PH          1  0  0  0 .000  
+A-G.Sheffield PH      1  0  0  0 .333     R.Doumit C          3  0  0  0 .111  
+B-H.Blanco C          0  0  0  0 ----   F-N.McLouth PH        1  0  0  0 .182  
+  A.Everett SS        4  0  1  0 .250     J.Wilson SS         3  0  1  0 .462  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  3 11  3                 Totals      31  1  7  1
+
+A-Pinch Hit For Varitek In 8th Inning
+B-Subbed Defensively (C ) For Sheffield In 8th Inning
+C-Subbed Defensively (LF) For Willingham In 9th Inning
+D-Pinch Hit For Hart In 9th Inning
+E-Pinch Hit For Sanchez In 9th Inning
+F-Pinch Hit For Doumit In 9th Inning
+
+Mets............ 0 0 0  1 0 0  1 0 1  -  3 11  0
+Pirates......... 0 0 0  1 0 0  0 0 0  -  1  7  2
+
+[1]Mets (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wolf WIN(1-0)              6 1/3   7   1   1   3   1   0   2.77  A1 C9
+D.O'Day HOLD(2nd)            1 2/3   0   0   0   1   1   0   0.00  D1 D5
+T.Hoffman SAVE(2nd)          1       0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       7   1   1   4   2   0
+
+[1]Pirates (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+N.Blackburn                  4 1/3   6   1   1   1   4   0   2.08  A1 C3
+J.Beimel                     0 2/3   0   0   0   0   1   0   0.00  C4 C6
+S.Camp LOSS(0-1)             1 1/3   2   1   1   0   0   0   6.75  C7 D3
+J.Burton                     1       1   0   0   0   2   0   0.00  D4 D7
+B.Howry                      1       2   1   1   1   0   0   3.00  D8 E3
+G.Mota                       0 2/3   0   0   0   0   1   0   0.00  E4
+[1]Totals                    9      11   3   3   2   8   0
+
+ATTENDANCE- 35,037 DATE- Friday, October 8th 2010 TIME- Night 
+UMPIRES- Tom Hallion, Phil Cuzzi, Angel Campos, Paul Nauert
+T- 3:02
+LEFT ON BASE- Mets:11  Pirates: 7
+DOUBLE PLAYS- Mets: 1  Pirates: 1
+ERRORS- A.Pujols, N.Blackburn
+DOUBLES- O.Hudson(1st), D.Wright(1st), J.Willingham(1st), J.Varitek(1st),
+         B.Zobrist(1st), C.Hart(1st)
+CAUGHT STEALING- J.Bay
+WALKS- R.Church, J.Thome, A.McCutchen, A.Pujols, J.Bay-2
+STRIKE OUTS- O.Hudson, D.Wright, C.Pena, J.Willingham-2, J.Thome, M.Cameron,
+             A.Everett, B.Zobrist-2
+GIDP- G.Sheffield, J.Bay
+WILD PITCHES- G.Mota
+[2]
+[1]SCORESHEET: 2010 New York (NL) Mets at 2010 Pittsburgh Pirates
+O.Hudson-A1  A1:G/63    *3*:G/63   C1:K       *7*:Si     E1:Do
+                                                         
+                                                         
+R.Church-A1  A2:P/6     B2:FO/2    *5*:Si     D2:Si>12   E2:W>b1
+                                                         
+                                                         
+D.Wright-A1  A3:Do      B3:Si      C3:K       D3:Force/  E3:Si>2#
+                                              54>23 1o   12
+                                              b1         
+C.Pena-A1    A4:E/1>23  B4:G/63    C4:K       D4:G/13>3  E4:WP>23
+                                              # 12       12 F/9
+                                                         
+J.Willin-A1  A5:G/63    *4*:Do     C5:E/3>12  D5:K       E5:K
+G.Matthe-E6                                              
+                                                         
+J.Thome-A1   *2*:W>b1   B6:G/43>2  C6:L/3     *8*:K
+                        3                     
+                                              
+M.Camero-A1  A7:K       B7:L/6     *6*:FO/2   D7:Si
+                                              
+                                              
+J.Varite-A1  A8:Force/  B8:Do>3#   C8:F/8     D8:G-DP/4
+G.Sheffi-D8  46>1o b1                         63>1o
+H.Blanco-D9                                   
+A.Everet-A1  A9:K       B9:Si>23   C9:F/7     *9*:F/8
+                                              
+                                              
+
+B.Zobris-A1  A1:Do      *3*:G/63   C1:K       D1:K
+                                              
+                                              
+A.McCutc-A1  A2:F/7     B2:W>b1    C2:Si      D2:F/9
+                                              
+                                              
+A.Pujols-A1  A3:G/53    B3:PkOff/  C3:G/53    *8*:W>b1
+                        13>1o F/9             
+                                              
+J.Bay-A1     A4:W>b1    *4*:W>b1   *6*:G/63   D4:G-DP/6
+                                              43>1o
+                                              
+A.Laroch-A1  A5:F/9     B5:CS/24>  C5:Si      D5:G/43
+                        1o G/63               
+                                              
+C.Hart-A1    *2*:F/9    B6:Do      C6:P/6     *9*:G/43
+T.Hafner-D6                                   
+                                              
+F.Sanche-A1  A7:Si      B7:Si>2#   C7:G/53    D7:G/43
+G.Jones-D7                                    
+                                              
+R.Doumit-A1  A8:F/9     B8:L/6     *7*:G/53   D8:P/6
+N.McLout-D8                                   
+                                              
+J.Wilson-A1  A9:F/9     *5*:F/8    C9:Si
+                                   
+                                   
+
+

@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 San Diego Padres           10/8/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  R.Theriot SS        3  0  0  0 .000     C.Headley LF        3  0  1  0 .333  
+  A.Iwamura 2B        3  0  0  0 .000     J.Hairston Jr SS    1  0  1  11.000  
+B-J.Baker PH,2B       1  0  1  11.000     E.Longoria 3B       3  1  1  2 .333  
+  D.Lee 1B            4  0  0  0 .000     M.Ramirez DH        4  0  0  0 .000  
+  A.Ramirez 3B        3  0  0  0 .000     N.Cruz RF           4  0  1  0 .250  
+D-J.Anderson PR       0  0  0  0 ----     C.Coste 1B          4  0  2  0 .500  
+  A.Soriano LF        4  1  1  1 .250     N.Hundley C         4  0  0  0 .000  
+  M.Byrd CF           4  0  0  0 .000     S.Hairston CF       3  1  1  0 .333  
+  C.Guzman DH         3  0  0  0 .000     J.Carroll 2B        2  1  2  01.000  
+E-R.Ruiz PH           1  0  0  0 .000                                          
+  G.Soto C            1  0  0  0 .000                                          
+A-J.Fox PH            1  1  1  01.000                                          
+C-Y.Torrealba C       0  0  0  0 ----                                          
+  K.Fukudome RF       2  0  1  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  4  2                 Totals      28  3  9  3
+
+A-Pinch Hit For Soto In 8th Inning
+B-Pinch Hit For Iwamura In 8th Inning
+C-Subbed Defensively (C ) For Fox In 8th Inning
+D-Pinch Ran For Ramirez In 9th Inning
+E-Pinch Hit For Guzman In 9th Inning
+
+Cubs............ 0 0 0  0 0 0  1 1 0  -  2  4  0
+Padres.......... 0 0 1  0 0 0  2 0    -  3  9  1
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wells LOSS(0-1)         6       8   2   2   1   4   0   3.00  A1 C9
+N.Masset                  2       1   1   1   0   0   1   4.50  D1
+[1]Totals                    8       9   3   3   1   4   1
+
+[1]Padres (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Washburn                6       1   0   0   1   7   0   0.00  A1 C3
+L.Gregerson W(1-0)B(1st)  1       2   2   2   1   1   1  18.00  C4 C9
+M.Adams HOLD(1st)         1       1   0   0   0   0   0   0.00  D1 D3
+J.Valverde SAVE(1st)      1       0   0   0   1   1   0   0.00  D4
+[1]Totals                    9       4   2   2   3   9   1
+
+ATTENDANCE- 43,142 DATE- Friday, October 8th 2010 TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 2:43
+LEFT ON BASE- Cubs: 5  Padres: 7
+DOUBLE PLAYS- Cubs: 0  Padres: 1
+ERRORS- C.Coste
+DOUBLES- C.Coste(1st)
+HOME RUNS- A.Soriano(1st), E.Longoria(1st)
+STOLEN BASES- J.Anderson(1st)
+CAUGHT STEALING- N.Cruz
+SACRIFICE HITS- J.Hairston Jr-3, J.Carroll
+WALKS- A.Ramirez, G.Soto, K.Fukudome, C.Headley
+HIT BY PITCH- R.Theriot, E.Longoria
+STRIKE OUTS- A.Iwamura, D.Lee-2, A.Ramirez, A.Soriano, M.Byrd-2, R.Ruiz,
+             K.Fukudome, C.Headley, E.Longoria, M.Ramirez, N.Hundley
+GIDP- R.Theriot
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 San Diego Padres
+R.Therio-A1  A1:G/13    B1:HBP>12  *6*:G/31   D1:G-DP/6
+                                              43>23 1o
+                                              
+A.Iwamur-A1  A2:K       B2:L/4     C2:G/63    D2:Si>3#
+J.Baker-D2                                    
+                                              
+D.Lee-A1     A3:F/8     B3:K       C3:K       D3:G/43
+                                              
+                                              
+A.Ramire-A1  *2*:G/63   *4*:F/9    *7*:K      *9*:W>b1
+J.Anders-D5                                   
+                                              
+A.Sorian-A1  A5:K       B5:L/6     C5:HR>b#   D5:SB>12
+                                              G/53
+                                              
+M.Byrd-A1    A6:K       B6:K       C6:G/13    D6:F/9
+                                              
+                                              
+C.Guzman-A1  *3*:F/8    *5*:G/63   C7:G/43    D7:K
+R.Ruiz-D7                                     
+                                              
+G.Soto-A1    A8:W>b1    B8:P/3     *8*:Si+E/
+J.Fox-C8                           3
+Y.Torrea-D4                        
+K.Fukudo-A1  A9:Si>13   B9:K       C9:W>b1
+                                   
+                                   
+
+C.Headle-A1  A1:K       B1:Si>23   C1:W>12 b  D1:F/9
+                                   1          
+                                              
+J.Hairst-A1  A2:Si      B2:Sac/34  C2:Sac/34  D2:Sac/14
+                        >3# 12     >23 12     >12
+                                              
+E.Longor-A1  A3:K       B3:HBP     C3:L/6     D3:HR>2#
+                                              b#
+                                              
+M.Ramire-A1  A4:L/6     B4:L/6     C4:K       D4:L/6
+                                              
+                                              
+N.Cruz-A1    *2*:P/6    *4*:F/8    *6*:Si     *8*:G/43
+                                              
+                                              
+C.Coste-A1   A6:G/63    B6:Si      C6:CS/24>  D6:F/9
+                                   1o Do      
+                                              
+N.Hundle-A1  A7:F/9     B7:K       C7:G/63    D7:F/9
+                                              
+                                              
+S.Hairst-A1  *3*:Si     B8:Force/  C8:G/63
+                        54>1o b1   
+                                   
+J.Carrol-A1  A9:Sac/14  *5*:Si     *7*:Si
+             >12                   
+                                   
+
+

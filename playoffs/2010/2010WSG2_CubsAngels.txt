@@ -1,0 +1,110 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 Los Angeles(AL) Angels    10/24/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  R.Theriot SS        4  0  1  0 .269     C.Figgins 3B        4  0  1  1 .250  
+  A.Iwamura 2B        3  0  0  0 .067     H.Ramirez SS        4  1  1  0 .268  
+D-J.Baker PH          1  0  0  0 .333     M.Holliday LF       4  0  1  0 .184  
+  C.Guzman DH         3  0  0  0 .185     T.Hunter CF         3  0  1  1 .362  
+E-R.Ruiz PH           1  0  1  0 .286     D.Uggla 2B          2  0  1  0 .278  
+  D.Lee 1B            4  0  1  0 .127   A-H.Kendrick 2B       0  0  0  0 .500  
+  A.Ramirez 3B        2  0  0  0 .296     C.Lee DH            4  1  1  1 .273  
+  M.Byrd CF           3  0  1  0 .327     R.Winn RF           4  1  1  0 .233  
+  M.Bradley RF        3  0  0  0 .000     M.Napoli C          3  0  0  0 .263  
+  A.Soriano LF        2  0  0  0 .265   C-B.Molina C          0  0  0  0 .000  
+  G.Soto C            3  0  0  0 .105     R.Gload 1B          2  0  0  0 .222  
+                                        B-T.Ishikawa PH,1B    1  0  0  0 .182  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  0  4  0                 Totals      31  3  7  3
+
+A-Subbed Defensively (2B) For Uggla In 7th Inning
+B-Pinch Hit For Gload In 7th Inning
+C-Subbed Defensively (C ) For Napoli In 8th Inning
+D-Pinch Hit For Iwamura In 9th Inning
+E-Pinch Hit For Guzman In 9th Inning
+
+Cubs............ 0 0 0  0 0 0  0 0 0  -  0  4  1
+Angels.......... 0 0 0  0 2 0  0 1    -  3  7  0
+
+[1]Cubs (8-6)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano LOSS(3-1)         7 1/3   7   3   3   2  11   1   3.24  A1 D4
+N.Masset                     0 2/3   0   0   0   1   1   0   1.69  D5
+[1]Totals                    8       7   3   3   3  12   1
+
+[1]Angels (9-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez WIN(3-2)         7 1/3   3   0   0   2  11   0   2.70  A1 C8
+M.Palmer HOLD(2nd)           0 2/3   0   0   0   0   0   0   6.75  C9 D1
+F.Rodriguez                  0 1/3   0   0   0   0   1   0   1.29  D2 D2
+D.Oliver                     0 2/3   1   0   0   0   0   0   6.75  D3
+[1]Totals                    9       4   0   0   2  12   0
+
+ATTENDANCE- 42,987 DATE- Sunday, October 24th 2010 TIME- Day 
+UMPIRES- Dale Scott, Jerry Meals, Adrian Johnson, Mike Dimuro
+T- 2:36
+LEFT ON BASE- Cubs: 4  Angels: 7
+DOUBLE PLAYS- Cubs: 1  Angels: 2
+ERRORS- A.Iwamura
+HOME RUNS- C.Lee(1st)
+WALKS- A.Ramirez, A.Soriano, T.Hunter, D.Uggla, H.Kendrick
+STRIKE OUTS- R.Theriot, A.Iwamura-2, J.Baker, C.Guzman, D.Lee, A.Ramirez,
+             M.Bradley-2, A.Soriano, G.Soto-2, C.Figgins-2, H.Ramirez,
+             M.Holliday-2, C.Lee-3, M.Napoli-3, R.Gload
+GIDP- D.Lee, A.Ramirez, H.Ramirez
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 Los Angeles(AL) Angels
+R.Therio-A1  A1:G/53    B1:Si      C1:K       D1:G/63
+                                              
+                                              
+A.Iwamur-A1  A2:FO/2    B2:K       C2:K       *9*:K
+J.Baker-D2                                    
+                                              
+C.Guzman-A1  A3:FO/5    *4*:K      *7*:G/31   D3:Si
+R.Ruiz-D3                                     
+                                              
+D.Lee-A1     *2*:F/7    B4:Si      C4:K       D4:G-DP/5
+                                              43>1o
+                                              
+A.Ramire-A1  A5:K       B5:G-DP/4  C5:W>b1
+                        63>1o      
+                                   
+M.Byrd-A1    A6:Si      *5*:G/43   C6:FO/3
+                                   
+                                   
+M.Bradle-A1  A7:K       B7:L/6     *8*:K
+                                   
+                                   
+A.Sorian-A1  *3*:F/9    B8:K       C8:W>b1
+                                   
+                                   
+G.Soto-A1    A9:K       *6*:K      C9:F/8
+                                   
+                                   
+
+C.Figgin-A1  A1:K       B1:K       C1:Si>2#   *8*:G/23
+                                   13         
+                                              
+H.Ramire-A1  A2:K       B2:L/6     C2:G-DP/6  D2:Si
+                                   43>1o      
+                                              
+M.Hollid-A1  A3:K       *4*:F/8    *6*:K      D3:Si>13
+                                              
+                                              
+T.Hunter-A1  *2*:W>b1   B4:G/23    C4:F/9     D4:Si>3#
+                                              13
+                                              
+D.Uggla-A1   A5:W>12 b  B5:F/8     C5:Si      D5:W>12 b
+H.Kendri-C7  1                                1
+                                              
+C.Lee-A1     A6:K       *5*:HR>b#  C6:K       D6:K
+                                              
+                                              
+R.Winn-A1    A7:G/3>23  B7:Si      *7*:FO/2   D7:FO/2
+             12                               
+                                              
+M.Napoli-A1  A8:K       B8:K       C8:K
+B.Molina-D1                        
+                                   
+R.Gload-A1   *3*:K      B9:E/4>12  C9:G/63
+T.Ishika-C9                        
+                                   
+
+

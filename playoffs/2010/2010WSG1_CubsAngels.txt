@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 Los Angeles(AL) Angels    10/23/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  K.Fukudome RF       3  0  0  0 .273     C.Figgins 3B        3  1  3  0 .250  
+F-A.Ramirez PH        1  0  0  0 .320     H.Ramirez SS        4  0  1  1 .269  
+  R.Theriot SS        4  0  2  1 .271     M.Holliday LF       4  0  0  0 .178  
+  D.Lee 1B            3  0  0  0 .118     T.Hunter CF         3  1  1  0 .364  
+  M.Byrd LF           4  1  1  0 .327     D.Uggla 2B          4  1  2  0 .265  
+  A.Soriano DH        3  0  1  1 .277   B-H.Kendrick 2B       0  0  0  0 .500  
+  J.Baker 2B          3  0  1  0 .353     C.Lee DH            4  0  2  2 .276  
+D-A.Iwamura PH        1  0  0  0 .083     R.Winn RF           4  0  0  0 .231  
+  Y.Torrealba C       3  0  0  0 .261     M.Napoli C          3  0  0  0 .286  
+  J.Fox 3B            2  0  0  0 .455   C-B.Molina PH,C       1  0  0  0 .000  
+A-M.Fontenot PH,3B    2  0  1  0 .265     R.Gload 1B          3  1  1  1 .240  
+  C.Gomez CF          3  1  1  0 .056                                          
+E-R.Ruiz PH           0  0  0  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  7  2                 Totals      33  4 10  4
+
+A-Pinch Hit For Fox In 6th Inning
+B-Subbed Defensively (2B) For Uggla In 8th Inning
+C-Pinch Hit For Napoli In 8th Inning
+D-Pinch Hit For Baker In 9th Inning
+E-Pinch Hit For Gomez In 9th Inning
+F-Pinch Hit For Fukudome In 9th Inning
+
+Cubs............ 0 1 0  0 1 0  0 0 0  -  2  7  0
+Angels.......... 0 0 0  1 0 1  2 0    -  4 10  0
+
+[1]Cubs (8-5)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dempster                   5 1/3   7   2   2   2   4   0   2.39  A1 C6
+A.Guzman LOSS(0-2)           2 2/3   3   2   2   0   2   1   4.09  C7
+[1]Totals                    8      10   4   4   2   6   1
+
+[1]Angels (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver* WIN(2-2)           7       6   2   2   3   7   0   4.29  A1 D2
+D.Oliver HOLD(2nd)           1       0   0   0   0   0   0   7.50  D3 D5
+F.Rodriguez SAVE(4th)        1       1   0   0   2   2   0   1.35  D6
+[1]Totals                    9       7   2   2   5   9   0
+
+ATTENDANCE- 44,062 DATE- Saturday, October 23rd 2010 TIME- Day 
+UMPIRES- Scott Barry, Mike Reilly, Chuck Meriwether, Eric Cooper
+T- 3:03
+LEFT ON BASE- Cubs: 9  Angels: 7
+DOUBLE PLAYS- Cubs: 1  Angels: 0
+DOUBLES- J.Baker(1st), M.Fontenot(4th), C.Figgins(3rd), C.Lee(2nd)
+TRIPLES- M.Byrd(1st)
+HOME RUNS- R.Gload(1st)
+STOLEN BASES- A.Soriano(1st), C.Gomez(3rd), C.Figgins-3(6th)
+SACRIFICE FLIES- A.Soriano
+WALKS- K.Fukudome, R.Theriot, D.Lee, Y.Torrealba, R.Ruiz, C.Figgins, T.Hunter
+STRIKE OUTS- K.Fukudome, A.Ramirez, D.Lee, M.Byrd, J.Baker, A.Iwamura,
+             Y.Torrealba, J.Fox, M.Fontenot, M.Holliday, T.Hunter-2, R.Winn,
+             M.Napoli-2
+GIDP- R.Winn
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 Los Angeles(AL) Angels
+K.Fukudo-A1  A1:K       B1:F/7     C1:SB>12   D1:L/4     E1:K
+A.Ramire-E1                        IW>b1                 
+                                                         
+R.Therio-A1  A2:F/8     *4*:Si     C2:Si>2#   D2:W>b1 P  E2:G/13
+                                   13         kOff/13>1  
+                                              o          
+D.Lee-A1     A3:F/8     B3:K       C3:W>12 b  *8*:F/8
+                                   1          
+                                              
+M.Byrd-A1    *2*:Tr     B4:K       C4:G/43    D4:F/8
+                                              
+                                              
+A.Sorian-A1  A5:SF/7>3  B5:Si>13   *6*:P/5    D5:G/43
+             #                                
+                                              
+J.Baker-A1   A6:K       B6:SB>12   C6:Do      *9*:K
+A.Iwamur-D6             G/63                  
+                                              
+Y.Torrea-A1  A7:K       *5*:F/8    C7:G/3>23  D7:W>b1
+                                              
+                                              
+J.Fox-A1     *3*:F/8    B8:K       C8:K       D8:Do>13
+M.Fonten-C8                                   
+                                              
+C.Gomez-A1   A9:G/63    B9:Si      *7*:G/53   D9:IW>b1
+R.Ruiz-D9                                     
+                                              
+
+C.Figgin-A1  A1:Si      B1:W>b1    C1:Si      D1:Do
+                                              
+                                              
+H.Ramire-A1  A2:SB>12   B2:SB>12   C2:SB>12   D2:Si>2#
+             F/7        G/43       F/7        
+                                              
+M.Hollid-A1  A3:K       *4*:G/63   *6*:F/8    D3:F/9
+                                              
+                                              
+T.Hunter-A1  A4:K       B4:Si      C4:W>b1    D4:K
+                                              
+                                              
+D.Uggla-A1   *2*:Si     B5:Force/  C5:Si>12   D5:F/8
+H.Kendri-D6             54>1o b1              
+                                              
+C.Lee-A1     A6:F/8     B6:Do>1#   C6:Si>2#   *8*:G/63
+                                   13         
+                                              
+R.Winn-A1    A7:G-DP/1  B7:G/3     C7:K       D7:G/43
+             63>1o                            
+                                              
+M.Napoli-A1  *3*:K      *5*:K      C8:F/7     D8:F/8
+B.Molina-D8                                   
+                                              
+R.Gload-A1   A9:L/4     B9:F/9     *7*:HR>b#
+                                   
+                                   
+
+

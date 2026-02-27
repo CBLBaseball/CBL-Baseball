@@ -1,0 +1,110 @@
+[1]BOXSCORE: 2010 Detroit Tigers At 2010 New York (AL) Yankees         10/4/2010
+
+[1]  Tigers             AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  B.Inge 3B           3  0  0  0 .000     B.Abreu RF          4  2  1  1 .250  
+  M.Ordonez RF        4  0  0  0 .000     D.Jeter SS          5  0  3  1 .600  
+  J.Rivera LF         4  0  0  0 .000     J.Damon LF          4  1  0  1 .000  
+  R.Raburn DH         2  1  1  0 .500   G-B.Gardner LF        0  0  0  0 ----  
+E-J.Hermida PH        1  0  0  0 .000     M.Teixeira 1B       4  1  2  3 .500  
+  K.Shoppach C        3  0  0  0 .000     C.McGehee 3B        2  1  1  0 .500  
+F-G.Zaun PH           1  0  0  0 .000   C-K.Griffey Jr PH     0  0  0  0 ----  
+  R.Belliard 2B       2  0  1  0 .500   D-M.Derosa 3B         0  0  0  0 ----  
+A-R.Santiago PH,2B    2  1  2  01.000     H.Matsui DH         4  1  2  2 .500  
+  K.Morales 1B        3  0  1  1 .333     J.Posada C          3  0  0  0 .000  
+  R.Johnson CF        2  0  0  0 .000     R.Cano 2B           4  1  1  0 .250  
+B-C.Granderson PH,CF  2  0  1  0 .500     M.Cabrera CF        4  1  1  0 .250  
+  O.Vizquel SS        3  0  0  1 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  6  2                 Totals      34  8 11  8
+
+A-Pinch Hit For Belliard In 7th Inning
+B-Pinch Hit For Johnson In 7th Inning
+C-Pinch Hit For McGehee In 7th Inning
+D-Subbed Defensively (3B) For Griffey Jr In 8th Inning
+E-Pinch Hit For Raburn In 8th Inning
+F-Pinch Hit For Shoppach In 9th Inning
+G-Subbed Defensively (LF) For Damon In 9th Inning
+
+Tigers.......... 0 1 0  0 0 0  1 0 0  -  2  6  1
+Yankees......... 3 0 0  0 0 5  0 0    -  8 11  1
+
+[1]Tigers (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Porcello LOSS(0-1)         5       8   6   6   3   0   2  10.80  A1 C7
+L.Cormier                    3       3   2   2   1   0   0   6.00  C8
+[1]Totals                    8      11   8   8   4   0   2
+
+[1]Yankees (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Happ WIN(1-0)              9       6   2   1   3   6   0   1.00  A1
+[1]Totals                    9       6   2   1   3   6   0
+
+ATTENDANCE- 51,464 DATE-  TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 2:43
+LEFT ON BASE- Tigers: 6  Yankees: 7
+DOUBLE PLAYS- Tigers: 1  Yankees: 1
+ERRORS- K.Morales, C.McGehee
+DOUBLES- D.Jeter(1st), M.Teixeira(1st)
+HOME RUNS- M.Teixeira(1st), H.Matsui(1st)
+SACRIFICE FLIES- J.Damon
+WALKS- B.Inge, R.Raburn, K.Morales, B.Abreu, C.McGehee, K.Griffey Jr, J.Posada
+STRIKE OUTS- B.Inge, R.Raburn, K.Shoppach, R.Johnson-2, C.Granderson
+GIDP- K.Shoppach, M.Teixeira
+[2]
+[1]SCORESHEET: 2010 Detroit Tigers at 2010 New York (AL) Yankees
+B.Inge-A1    A1:G/63    *3*:G/43   C1:W>12 b  D1:K
+                                   1          
+                                              
+M.Ordone-A1  A2:L/6     B2:G/63    C2:G/53    *8*:G/43
+                                              
+                                              
+J.Rivera-A1  A3:G/43    B3:F/7     *6*:G/43   D3:G/53
+                                              
+                                              
+R.Raburn-A1  *2*:W>b1   *4*:Si     C4:K       D4:P/6
+J.Hermid-D4                                   
+                                              
+K.Shoppa-A1  A5:K       B5:G-DP/6  C5:G/13    *9*:F/7
+G.Zaun-D5               43>1o                 
+                                              
+R.Bellia-A1  A6:Si>13   B6:G/53    *7*:Si     D6:Si
+R.Santia-C6                                   
+                                              
+K.Morale-A1  A7:Si>3#   *5*:W>b1   C7:L/6     D7:L/6
+             13                               
+                                              
+R.Johnso-A1  A8:K       B8:K       C8:Si+E/5  D8:K
+C.Grande-C8                        >13        
+                                              
+O.Vizque-A1  A9:L/4     B9:P/6     C9:G/63>3
+                                   # 23
+                                   
+
+B.Abreu-A1   A1:W>b1    B1:G/43    C1:G/43    D1:Si>2#   *8*:G/43
+                                              13         
+                                                         
+D.Jeter-A1   A2:Si>12   *3*:F/7    *5*:Si     D2:Do>3#   E2:F/8
+                                              13         
+                                                         
+J.Damon-A1   A3:Force/  B3:F/9     C3:F/8     D3:SF/7>3  E3:FO/2
+B.Gardne-E4  14>23 1o                         #          
+             b1                                          
+M.Teixei-A1  A4:HR>3#   B4:Do      C4:G-DP/4  D4:G/43
+             1# b#                 63>1o      
+                                              
+C.McGehe-A1  A5:G/53    B5:IW>b1   *6*:Si     *7*:W>b1
+K.Griffe-D5                                   
+M.Derosa-E1                                   
+H.Matsui-A1  A6:Si      B6:L/4     C6:HR>1#   D6:E/3>12
+                                   b#         
+                                              
+J.Posada-A1  A7:F/8     *4*:F/8    C7:W>b1    D7:F/9>23
+                                              
+                                              
+R.Cano-A1    *2*:F/8    B8:Si      C8:Force/  D8:F/7
+                                   36>1o b1   
+                                              
+M.Cabrer-A1  A9:FO/2    B9:F/7     C9:Si>12   D9:F/9
+                                              
+                                              
+
+

@@ -1,0 +1,113 @@
+[1]BOXSCORE: 2010 Los Angeles(AL) Angels At 2010 Toronto Blue Jays     10/8/2010
+
+[1]  Angels             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  C.Figgins 3B        5  1  0  0 .238     M.Tejada SS         3  1  1  0 .200  
+  H.Ramirez SS        6  0  1  0 .286     J.Gomes RF          3  0  0  0 .000  
+  M.Holliday LF       6  3  3  3 .222     I.Kinsler DH        4  1  2  1 .222  
+  C.Jones DH          3  1  2  1 .167     M.Reynolds 3B       3  0  0  0 .133  
+F-C.Lee PH            2  1  1  0 .222     M.Montero C         1  0  1  0 .067  
+  R.Winn RF           5  0  2  3 .200   B-C.Coghlan PH        1  0  0  0 .400  
+  D.Uggla 2B          3  2  1  0 .200   C-J.Buck C            1  0  0  1 .000  
+D-H.Kendrick 2B       1  0  0  0 .000     A.Hill 2B           4  0  0  0 .250  
+  T.Hunter CF         6  2  4  2 .333     A.Lind LF           4  1  1  1 .278  
+  R.Gload 1B          2  1  2  1 .231     J.Loney 1B          3  0  0  0 .214  
+A-T.Ishikawa PH,1B    2  0  0  0 .000     A.Rios CF           3  0  0  0 .222  
+  M.Napoli C          3  1  1  3 .300                                          
+E-B.Molina PH,C       2  1  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      46 13 17 13                 Totals      30  3  5  3
+
+A-Pinch Hit For Gload In 5th Inning
+B-Pinch Hit For Montero In 5th Inning
+C-Subbed Defensively (C ) For Coghlan In 6th Inning
+D-Subbed Defensively (2B) For Uggla In 6th Inning
+E-Pinch Hit For Napoli In 7th Inning
+F-Pinch Hit For Jones In 8th Inning
+
+Angels.......... 0 4 1  1 2 0  0 2 3  - 13 17  0
+Blue Jays....... 0 0 0  0 1 0  1 0 1  -  3  5  2
+
+[1]Angels (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez WIN(1-1)         9       5   3   3   4   6   2   2.81  A1
+[1]Totals                    9       5   3   3   4   6   2
+
+[1]Blue Jays (2-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Richmond LOSS(0-1)         4 2/3  10   8   8   1   3   4  15.43  A1 C7
+B.League                     2 1/3   1   0   0   3   2   0   4.50  C8 D9
+B.Wilson                     2       6   5   3   2   1   0  13.50  E1
+[1]Totals                    9      17  13  11   6   6   4
+
+ATTENDANCE- 47,463 DATE- Friday, October 8th 2010 TIME- Night 
+UMPIRES- Gary Darling, Wally Bell, Marty Foster, Paul Emmel
+T- 3:26
+LEFT ON BASE- Angels:12  Blue Jays: 4
+DOUBLE PLAYS- Angels: 2  Blue Jays: 0
+ERRORS- J.Loney, B.Wilson
+DOUBLES- C.Jones(1st), D.Uggla(1st), T.Hunter(2nd), I.Kinsler(1st)
+HOME RUNS- M.Holliday(1st), C.Jones(1st), T.Hunter(1st), M.Napoli(1st),
+           I.Kinsler(1st), A.Lind(1st)
+WALKS- C.Figgins, C.Jones, R.Winn, D.Uggla, H.Kendrick, T.Ishikawa, M.Tejada,
+       J.Gomes, M.Reynolds, J.Buck
+STRIKE OUTS- C.Figgins-3, H.Ramirez, M.Holliday, D.Uggla, J.Gomes-2,
+             M.Reynolds-2, C.Coghlan, J.Loney
+GIDP- A.Lind
+WILD PITCHES- S.Richmond, B.Wilson
+[2]
+[1]SCORESHEET: 2010 Los Angeles(AL) Angels at 2010 Toronto Blue Jays
+C.Figgin-A1  A1:K       B1:K       C1:K       *6*:FO/2   *8*:L/3    F1:W>12 b
+                                                                    1
+                                                                    
+H.Ramire-A1  A2:G/53    *3*:G/43   C2:L/6     D2:Si      E2:L/6     F2:WP>23
+                                                                    12 K
+                                                                    
+M.Hollid-A1  A3:L/5     B3:HR>b#   *5*:G/63   D3:K       E3:Si      F3:Si>3#
+                                                                    2#
+                                                                    
+C.Jones-A1   *2*:L/4    B4:Do      C4:HR>b#   D4:W>12 b  E4:Si>13   F4:E/1>12
+C.Lee-E4                                      1                     
+                                                                    
+R.Winn-A1    A5:G/13    B5:G/63    C5:G/43    D5:W>23 1  E5:Si>3#   F5:Si>2#
+                                              2 b1       2#         13
+                                                                    
+D.Uggla-A1   A6:W>b1    B6:WP>23   C6:Do      D6:K       E6:IW>12   F6:L/6
+H.Kendri-D7             F/7                              b1         
+                                                                    
+T.Hunter-A1  A7:Si>13   *4*:HR>b#  C7:Do>2#   *7*:G/13   E7:Si>23   F7:P/6
+                                                         12         
+                                                                    
+R.Gload-A1   A8:Si>3#   B8:Si      C8:W>b1    D8:G/63    E8:G/43
+T.Ishika-C8  12                                          
+                                                         
+M.Napoli-A1  A9:HR>2#   B9:L/6     C9:G/63    D9:G/63    *9*:E/3
+B.Molina-D9  1# b#                                       
+                                                         
+
+M.Tejada-A1  A1:L/6     B1:G/53    C1:W>b1    *9*:Si
+                                              
+                                              
+J.Gomes-A1   A2:W>b1    *4*:K      C2:L-DP/6  D2:K
+                                   3>1o       
+                                              
+I.Kinsle-A1  A3:G/43>1  B3:L/6     *7*:HR>b#  D3:Do>13
+             2                                
+                                              
+M.Reynol-A1  A4:K       B4:G/63    C4:K       D4:W>b1
+                                              
+                                              
+M.Monter-A1  *2*:Si     *5*:K      C5:G/13    D5:W>3# 2
+C.Coghla-B5                                   3 12 b1
+J.Buck-B9                                     
+A.Hill-A1    A6:L/6     B6:F/8     C6:G/53    D6:L/6
+                                              
+                                              
+A.Lind-A1    A7:G-DP/6  B7:HR>b#   *8*:G/3    D7:L/4
+             43>1o                            
+                                              
+J.Loney-A1   *3*:F/8    B8:K       C8:G/63
+                                   
+                                   
+A.Rios-A1    A9:F/7     *6*:F/7    C9:G/63
+                                   
+                                   
+
+

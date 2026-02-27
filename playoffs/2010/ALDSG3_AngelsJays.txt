@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2010 Los Angeles(AL) Angels At 2010 Toronto Blue Jays     10/6/2010
+
+[1]  Angels             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  C.Figgins 3B        5  1  2  0 .385     M.Tejada SS         3  0  0  0 .167  
+  H.Ramirez SS        4  1  2  3 .455     S.Smith LF          3  0  2  0 .286  
+  M.Holliday LF       3  0  0  0 .000   E-J.Gomes PH,LF       1  0  0  0 .000  
+  C.Jones DH          4  0  0  0 .000     A.Lind DH           4  0  1  0 .200  
+  R.Winn RF           3  0  0  0 .091     A.Hill 2B           4  0  1  0 .364  
+C-R.Baldelli PH,RF    1  0  0  0 .000     M.Reynolds 3B       2  0  0  0 .111  
+  D.Uggla 2B          2  0  0  0 .200     V.Wells CF          3  0  0  0 .000  
+D-H.Kendrick PH,2B    1  0  0  0 .000   J-I.Kinsler PH        1  0  0  0 .000  
+  T.Hunter CF         3  1  1  0 .111     M.Montero C         4  0  0  0 .000  
+  R.Gload 1B          3  1  1  1 .111     J.Loney 1B          4  0  1  0 .125  
+F-N.Garciaparra PH    1  0  0  0 .000     E.Hinske RF         2  1  1  1 .500  
+I-T.Ishikawa 1B       0  0  0  0 ----   A-C.Coghlan PH        1  0  0  0 .000  
+  M.Napoli C          3  0  0  0 .167   B-A.Rios RF           0  0  0  0 .500  
+G-W.Rodriguez PR      0  0  0  0 ----                                          
+H-B.Molina C          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  6  4                 Totals      32  1  6  1
+
+A-Pinch Hit For Hinske In 7th Inning
+B-Subbed Defensively (RF) For Coghlan In 8th Inning
+C-Pinch Hit For Winn In 8th Inning
+D-Pinch Hit For Uggla In 8th Inning
+E-Pinch Hit For Smith In 8th Inning
+F-Pinch Hit For Gload In 9th Inning
+G-Pinch Ran For Napoli In 9th Inning
+H-Subbed Defensively (C ) For Rodriguez In 9th Inning
+I-Subbed Defensively (1B) For Garciaparra In 9th Inning
+J-Pinch Hit For Wells In 9th Inning
+
+Angels.......... 0 0 0  2 0 0  2 0 0  -  4  6  1
+Blue Jays....... 0 0 0  0 1 0  0 0 0  -  1  6  0
+
+[1]Angels (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lackey WIN(1-0)            5 2/3   4   1   1   2   3   1   1.59  A1 C6
+F.Rodriguez HOLD(1st)        1 1/3   1   0   0   0   1   0   0.00  C7 D1
+J.Mijares HOLD(2nd)          1       1   0   0   0   1   0   0.00  D2 D5
+D.Oliver SAVE(1st)           1       0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       6   1   1   2   5   1
+
+[1]Blue Jays (1-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Vandenhurk LOSS(0-1)       5       3   2   2   3   4   1   3.60  A1 C3
+B.League                     1 2/3   3   2   2   0   3   0  10.80  C4 D2
+S.Downs                      2 1/3   0   0   0   3   3   0   0.00  D3
+[1]Totals                    9       6   4   4   6  10   1
+
+ATTENDANCE- 49,325 DATE- Wednesday, October 6th 2010 TIME- Night 
+UMPIRES- Eric Cooper, Scott Barry, Mike Reilly, Chuck Meriwether
+T- 3:05
+LEFT ON BASE- Angels: 8  Blue Jays: 7
+DOUBLE PLAYS- Angels: 1  Blue Jays: 0
+ERRORS- D.Uggla
+DOUBLES- C.Figgins(2nd), A.Lind(1st), A.Hill(1st)
+HOME RUNS- H.Ramirez(1st), E.Hinske(1st)
+STOLEN BASES- C.Figgins(1st), M.Holliday(1st), T.Hunter(1st)
+CAUGHT STEALING- M.Reynolds
+WALKS- H.Ramirez, M.Holliday-2, D.Uggla, T.Hunter, M.Napoli, M.Reynolds-2
+HIT BY PITCH- M.Tejada
+STRIKE OUTS- C.Figgins, H.Ramirez, M.Holliday, C.Jones-3, R.Winn, R.Baldelli,
+             D.Uggla, M.Napoli, S.Smith, J.Gomes, A.Hill-2, C.Coghlan
+GIDP- M.Tejada
+WILD PITCHES- B.League-2
+[2]
+[1]SCORESHEET: 2010 Los Angeles(AL) Angels at 2010 Toronto Blue Jays
+C.Figgin-A1  A1:K       *4*:Si     C1:Do      D1:L/4     E1:L/6
+                                                         
+                                                         
+H.Ramire-A1  A2:K       B2:SB>12   C2:F/8     D2:Si>2#   E2:W>12 b
+                        HR>2# b#                         1
+                                                         
+M.Hollid-A1  A3:G/63    B3:W>b1    C3:L/4     D3:W>12 b  E3:K
+                                              1          
+                                                         
+C.Jones-A1   *2*:K      B4:SB>12   *6*:K      D4:K
+                        F/9                   
+                                              
+R.Winn-A1    A5:F/9     B5:G/63>2  C5:K       *8*:K
+R.Baldel-D5             3                     
+                                              
+D.Uggla-A1   A6:K       B6:W>b1    C6:F/8     D6:F/7
+H.Kendri-D6                                   
+                                              
+T.Hunter-A1  *3*:F/8    B7:W>12 b  *7*:Si     D7:F/7
+                        1                     
+                                              
+R.Gload-A1   A8:F/8     B8:G/3     C8:SB>12   *9*:G/53
+N.Garcia-D8                        WP>23 Si>  
+T.Ishika-E4                        3#         
+M.Napoli-A1  A9:F/7     *5*:G/13   C9:WP>12   D9:W>b1
+W.Rodrig-E1                        K          
+B.Molina-E4                                   
+
+M.Tejada-A1  A1:G/3     B1:F/9     C1:HBP     D1:G-DP/5
+                                              43>1o
+                                              
+S.Smith-A1   A2:Si      B2:K       C2:Si>13   *8*:K
+J.Gomes-D2                                    
+                                              
+A.Lind-A1    A3:L/4     *4*:Do     C3:P/4     D3:F/8
+                                              
+                                              
+A.Hill-A1    A4:G/63    B4:K       *6*:K      D4:Do
+                                              
+                                              
+M.Reynol-A1  *2*:W>b1   B5:F/9     C5:W>b1    D5:F/8
+                                              
+                                              
+V.Wells-A1   A6:F/8     B6:P/3     C6:CS/24>  *9*:L/6
+I.Kinsle-D6                        1o E/4     
+                                              
+M.Monter-A1  A7:Force/  *5*:G/43   C7:G/43    D7:F/9
+             36>1o b1                         
+                                              
+J.Loney-A1   A8:F/7     B8:F/8     *7*:Si     D8:G/63
+                                              
+                                              
+E.Hinske-A1  *3*:P/3    B9:HR>b#   C9:K
+C.Coghla-C9                        
+A.Rios-D2                          
+
+

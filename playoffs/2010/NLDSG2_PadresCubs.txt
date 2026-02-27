@@ -1,0 +1,117 @@
+BOXSCORE: 2010 San Diego Padres At 2010 Chicago (NL) Cubs           10/4/2010
+
+  Padres             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  T.Gwynn Jr CF       5  1  3  0 .300     K.Fukudome RF       4  0  1  1 .444  
+  R.Roberts 2B        5  0  3  0 .500     J.Anderson LF       4  0  1  0 .250  
+  M.Ramirez DH        3  0  1  1 .375     C.Guzman SS         4  0  0  0 .100  
+  R.Branyan 1B        5  1  2  0 .300   A-R.Theriot PR,SS     0  1  0  0 .167  
+  E.Longoria 3B       4  0  0  0 .111     D.Lee 1B            3  1  0  0 .000  
+  N.Cruz RF           5  1  1  2 .375     M.Byrd CF           3  0  1  0 .375  
+  C.Headley LF        5  0  2  0 .400     A.Soriano DH        3  2  2  2 .429  
+  K.Hill C            4  0  1  0 .222     J.Fox 3B            3  0  0  1 .333  
+  E.Cabrera SS        3  0  1  0 .200   C-A.Iwamura 2B        0  0  0  0 ----  
+                                          M.Fontenot 2B,3B    3  1  1  0 .250  
+                                          G.Soto C            3  1  1  1 .286  
+                                        B-R.Ruiz PH           1  0  0  0 .000  
+                                        D-Y.Torrealba C       0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+         Totals      39  3 14  3                 Totals      31  6  7  5
+
+A-Pinch Ran For Guzman In 7th Inning
+B-Pinch Hit For Soto In 7th Inning
+C-Subbed Defensively (2B) For Fox In 8th Inning
+D-Subbed Defensively (C ) For Ruiz In 8th Inning
+
+Padres.......... 0 0 0  1 1 0  0 0 1  -  3 14  3
+Cubs............ 0 2 1  0 1 0  2 0    -  6  7  0
+
+Padres (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy LOSS(0-1)         8       7   6   3   6   7   1   3.38  A1
+Totals                    8       7   6   3   6   7   1
+
+Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(1-0)       5 2/3  11   2   2   3   6   1   3.18  A1 D3
+A.Guzman HOLD(1st)        2 1/3   3   1   1   0   1   0   2.45  D4 E4
+F.Francisco               1       0   0   0   0   0   0   0.00  E5
+Totals                    9      14   3   3   3   7   1
+
+ATTENDANCE- 40,702 DATE- Monday, October 4th 2010 TIME- Night 
+UMPIRES- Jerry Meals, Adrian Johnson, Mike Dimuro, Dale Scott
+T- 2:44
+LEFT ON BASE- Padres:13  Cubs: 9
+DOUBLE PLAYS- Padres: 1  Cubs: 0
+ERRORS- R.Branyan, J.Peavy-2
+DOUBLES- M.Ramirez(1st), R.Branyan(1st), E.Cabrera(1st), A.Soriano(1st),
+         G.Soto(1st)
+TRIPLES- J.Anderson(1st)
+HOME RUNS- N.Cruz(2nd), A.Soriano(1st)
+CAUGHT STEALING- R.Theriot
+SACRIFICE HITS- J.Anderson
+SACRIFICE FLIES- M.Ramirez
+WALKS- M.Ramirez, E.Longoria, E.Cabrera, K.Fukudome, D.Lee, M.Byrd, A.Soriano,
+       J.Fox, M.Fontenot
+HIT BY PITCH- R.Theriot
+STRIKE OUTS- T.Gwynn Jr, R.Roberts, M.Ramirez, E.Longoria, N.Cruz-2, E.Cabrera,
+             J.Anderson, D.Lee, A.Soriano, J.Fox, M.Fontenot-2, G.Soto
+GIDP- G.Soto
+WILD PITCHES- C.Zambrano
+WEB GEMS- Top 7th: Cristian Guzman robbed Nelson Cruz of a base hit.
+[2]
+SCORESHEET: 2010 San Diego Padres at 2010 Chicago (NL) Cubs
+T.Gwynn -A1  A1:Si      *3*:K      *5*:Si     D1:Force/  E1:Si
+                                              14>1o b1   
+                                                         
+R.Robert-A1  A2:FO/5    B2:K       C2:WP>12   D2:Si>13   E2:Si>13
+                                   Si>23                 
+                                                         
+M.Ramire-A1  A3:K       B3:Do      C3:SF/7>3  D3:W>12 b  E3:P/6
+                                   #          1          
+                                                         
+R.Branya-A1  A4:L/4     B4:L/4     C4:Si>12   D4:F/7     *9*:Do
+                                                         
+                                                         
+E.Longor-A1  *2*:G/43   *4*:K      C5:W>23 1  *7*:F/8    E5:G/43>2
+                                   2 b1                  3
+                                                         
+N.Cruz-A1    A6:K       B6:HR>b#   C6:K       D6:G/63    E6:G/43>3
+                                                         #
+                                                         
+C.Headle-A1  A7:Si      B7:Si      C7:F/7     D7:G/63    E7:G/13
+                                                         
+                                                         
+K.Hill-A1    A8:Si>12   B8:F/7     *6*:G/43   *8*:G/43
+                                              
+                                              
+E.Cabrer-A1  A9:F/8     B9:Do>1o   C9:W>b1    D9:K
+                                              
+                                              
+
+K.Fukudo-A1  A1:W>b1    B1:Si>3#   *4*:G/31   D1:F/7     *8*:G/43
+                                                         
+                                                         
+J.Anders-A1  A2:Sac/14  B2:G/43>1  C2:Tr      D2:K       E2:L/4
+             >12        2                                
+                                                         
+C.Guzman-A1  A3:G/53    B3:G/53    C3:G/43    *7*:E/3    E3:HBP CS
+R.Therio-D5                                              /24>1o
+                                                         
+D.Lee-A1     A4:W>b1    *3*:E/1    C4:K       D4:F/7
+                                              
+                                              
+M.Byrd-A1    A5:W>23 1  B5:Si>12   *5*:G/53   D5:F/9
+             2 b1                             
+                                              
+A.Sorian-A1  A6:K       B6:W>23 1  C6:HR>b#   D6:Do>1#
+                        2 b1                  
+                                              
+J.Fox-A1     *2*:K      B7:W>3# 2  C7:G/43    D7:E/1>3#
+A.Iwamur-E1             3 12 b1               
+                                              
+M.Fonten-A1  A8:W>b1    B8:K       C8:K       D8:Si>13
+                                              
+                                              
+G.Soto-A1    A9:Do>1#   B9:G-DP/5  *6*:K      D9:G/53
+R.Ruiz-D9               43>1o                 
+Y.Torrea-E1                                   
+
+

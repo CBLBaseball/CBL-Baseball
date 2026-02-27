@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2010 Chicago (NL) Cubs At 2010 Pittsburgh Pirates        10/18/2010
+
+[1]  Cubs               AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  K.Fukudome RF       3  0  0  0 .293     N.McLouth CF        3  1  2  0 .290  
+G-G.Soto C            0  0  0  0 .125     B.Zobrist 2B        4  1  1  2 .273  
+  R.Theriot SS        4  0  2  0 .250     A.Pujols 1B         4  1  2  1 .195  
+  D.Lee 1B            3  1  0  0 .125     G.Jones RF          3  0  0  0 .217  
+  M.Byrd CF,LF        4  2  2  0 .333   H-C.Hart PH,RF        0  0  0  0 .316  
+  A.Soriano DH        4  1  2  2 .273     J.Bay LF            3  0  0  0 .118  
+  M.Fontenot 3B       4  0  1  0 .250     T.Hafner DH         4  0  1  0 .154  
+  J.Anderson LF,RF    4  0  1  1 .200     A.Laroche* 3B       4  0  0  0 .195  
+  Y.Torrealba C       2  0  0  1 .300     R.Johnson C         1  0  0  0 .231  
+E-R.Ruiz PH           0  0  0  0 .167   A-C.Guillen PH        1  0  0  0 .000  
+F-C.Gomez PR,CF       1  0  0  0 .000   C-R.Chavez C          2  0  0  0 .000  
+  A.Iwamura 2B        4  0  0  0 .091     J.Wilson SS         1  0  0  0 .370  
+                                        B-A.McCutchen PH      0  0  0  0 .238  
+                                        D-W.Bloomquist SS     2  0  1  0 .400  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  8  4                 Totals      32  3  7  3
+
+A-Pinch Hit For Johnson In 5th Inning
+B-Pinch Hit For Wilson In 5th Inning
+C-Subbed Defensively (C ) For Guillen In 6th Inning
+D-Subbed Defensively (SS) For McCutchen In 6th Inning
+E-Pinch Hit For Torrealba In 7th Inning
+F-Pinch Ran For Ruiz In 7th Inning
+G-Subbed Defensively (C ) For Fukudome In 7th Inning
+H-Pinch Hit For Jones In 8th Inning
+
+Cubs............ 0 2 2  0 0 0  0 0 0  -  4  8  0
+Pirates......... 1 0 2  0 0 0  0 0 0  -  3  7  0
+
+[1]Cubs (8-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wells WIN(1-2)             5 2/3   4   3   3   3   1   2   5.56  A1 C5
+A.Guzman HOLD(2nd)           1 1/3   3   0   0   0   1   0   3.24  C6 D3
+C.Breslow HOLD(2nd)          1       0   0   0   1   0   0   2.57  D4 D6
+F.Francisco SAVE(4th)        1       0   0   0   0   2   0   1.50  D7
+[1]Totals                    9       7   3   3   4   4   2
+
+[1]Pirates (5-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+N.Blackburn LOSS(0-1)        5       7   4   4   0   4   0   4.82  A1 C3
+B.Howry                      1 1/3   0   0   0   0   2   0   1.59  C4 C7
+D.Meyer                      0 2/3   0   0   0   2   1   0   0.00  C8 D2
+G.Mota                       2       1   0   0   0   1   0   0.00  D3
+[1]Totals                    9       8   4   4   2   8   0
+
+ATTENDANCE- 36,885 DATE- Monday, October 18th 2010 TIME- Night 
+UMPIRES- Adrian Johnson, Mike Dimuro, Dale Scott, Jerry Meals
+T- 2:53
+LEFT ON BASE- Cubs: 5  Pirates: 6
+DOUBLE PLAYS- Cubs: 1  Pirates: 1
+DOUBLES- A.Soriano(5th), N.McLouth(3rd)
+HOME RUNS- B.Zobrist(1st), A.Pujols(3rd)
+STOLEN BASES- J.Anderson(2nd), C.Hart(2nd), A.McCutchen(2nd)
+CAUGHT STEALING- R.Theriot, A.Pujols
+WALKS- K.Fukudome, R.Ruiz, N.McLouth, C.Hart, J.Bay, A.McCutchen
+HIT BY PITCH- D.Lee
+STRIKE OUTS- D.Lee, A.Soriano, M.Fontenot-3, J.Anderson, A.Iwamura-2, T.Hafner,
+             A.Laroche*, C.Guillen, W.Bloomquist
+GIDP- D.Lee, A.Laroche*
+[2]
+[1]SCORESHEET: 2010 Chicago (NL) Cubs at 2010 Pittsburgh Pirates
+K.Fukudo-A1  A1:G/43    *3*:G/63   *5*:G/31   D1:W>12 b
+G.Soto-D3                                     1
+                                              
+R.Therio-A1  A2:Si      B2:Si      C2:F/8     D2:G/13
+                                              
+                                              
+D.Lee-A1     A3:G-DP/6  B3:CS/24>  C3:K       *8*:G/3
+             43>1o      1o HBP                
+                                              
+M.Byrd-A1    *2*:Si     B4:Si>13   *6*:G/31   D4:G/43
+                                              
+                                              
+A.Sorian-A1  A5:Si>13   B5:Do>3#   C5:K       D5:G/63
+                        1#                    
+                                              
+M.Fonten-A1  A6:K       B6:K       C6:K       *9*:Si
+                                              
+                                              
+J.Anders-A1  A7:Si>3#   *4*:K      *7*:G/43   D7:F/7
+             13                               
+                                              
+Y.Torrea-A1  A8:SB>12   B8:L/5     C8:W>b1    D8:F/7
+R.Ruiz-C8    G/63>3# 2                        
+C.Gomez-C9   3                                
+A.Iwamur-A1  A9:G/63    B9:G/43    C9:K       D9:K
+                                              
+                                              
+
+N.McLout-A1  A1:F/8     B1:Do      C1:SB>12   D1:Si>12
+                                   W>b1       
+                                              
+B.Zobris-A1  A2:L/4     B2:HR>2#   C2:F/9     D2:G/53
+                        b#                    
+                                              
+A.Pujols-A1  A3:HR>b#   B3:G/53    *6*:G/63   *8*:Si
+                                              
+                                              
+G.Jones-A1   A4:L/4     *4*:G/31   C4:F/9     D4:CS/24>
+C.Hart-D4                                     1o W>b1
+                                              
+J.Bay-A1     *2*:P/6    B5:F/9     C5:W>b1    D5:SB>12
+                                              F/9>23
+                                              
+T.Hafner-A1  A6:Si      B6:G/13    C6:K       D6:G/31
+                                              
+                                              
+A.Laroch-A1  A7:G-DP/3  *5*:F/8    *7*:F/8    *9*:K
+             63>1o                            
+                                              
+R.Johnso-A1  *3*:G/63   B8:K       C8:F/8     D8:G/43
+C.Guille-B8                                   
+R.Chavez-C3                                   
+J.Wilson-A1  A9:F/8     B9:W>b1    C9:Si      D9:K
+A.McCutc-B9                                   
+W.Bloomq-C3                                   
+
+

@@ -1,0 +1,112 @@
+[1]BOXSCORE: 2010 New York (AL) Yankees At 2010 Detroit Tigers         10/7/2010
+
+[1]  Yankees            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  B.Abreu RF          5  2  4  2 .429     B.Ryan SS           5  0  1  0 .250  
+  D.Jeter SS          4  1  0  0 .385     M.Ordonez RF        3  2  1  0 .100  
+  J.Damon LF          5  1  1  1 .154     J.Rivera LF         4  1  2  2 .250  
+D-M.Cabrera LF        0  0  0  0 .250     K.Morales DH        4  0  1  1 .364  
+  M.Teixeira 1B       5  0  1  0 .231     C.Granderson CF     4  0  0  0 .222  
+  C.McGehee 3B        4  1  1  2 .444     L.Overbay 1B        4  0  2  0 .500  
+E-M.Derosa 3B         0  0  0  0 ----     G.Zaun C            3  1  1  1 .333  
+  H.Matsui DH         4  0  0  0 .167   A-R.Raburn PH         1  0  0  0 .250  
+  J.Posada C          3  0  0  0 .000   B-K.Shoppach C        0  0  0  0 .000  
+  R.Cano 2B           4  0  0  0 .167     R.Santiago 2B       3  0  0  0 .333  
+  B.Gardner CF        4  1  1  0 .250   C-R.Belliard PH       1  0  0  0 .200  
+                                          B.Inge 3B           3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  6  8  5                 Totals      35  4  8  4
+
+A-Pinch Hit For Zaun In 8th Inning
+B-Subbed Defensively (C ) For Raburn In 9th Inning
+C-Pinch Hit For Santiago In 9th Inning
+D-Subbed Defensively (LF) For Damon In 9th Inning
+E-Subbed Defensively (3B) For McGehee In 9th Inning
+
+Yankees......... 3 2 0  0 0 0  0 0 1  -  6  8  0
+Tigers.......... 2 0 1  0 0 1  0 0 0  -  4  8  4
+
+[1]Yankees (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Feldman WIN(1-0)           6       7   4   4   2   5   2   6.00  A1 C9
+T.Coffey HOLD(2nd)           1       0   0   0   0   2   0   0.00  D1 D3
+M.Rivera SAVE(2nd)           2       1   0   0   0   3   0   0.00  D4
+[1]Totals                    9       8   4   4   2  10   2
+
+[1]Tigers (0-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander LOSS(0-1)        6 2/3   7   5   4   2   7   1   5.40  A1 D4
+K.Calero                     0 1/3   0   0   0   0   0   0   5.40  D5 D5
+J.Thatcher                   1 1/3   0   0   0   0   1   0   0.00  D6 E1
+R.Soriano                    0 2/3   1   1   1   0   0   1   9.00  E2
+[1]Totals                    9       8   6   5   2   8   2
+
+ATTENDANCE- 38,292 DATE-  TIME- Night 
+UMPIRES- Eric Cooper, Scott Barry, Mike Reilly, Chuck Meriwether
+T- 2:57
+LEFT ON BASE- Yankees: 7  Tigers: 6
+DOUBLE PLAYS- Yankees: 0  Tigers: 0
+ERRORS- B.Ryan, J.Rivera, L.Overbay, J.Verlander
+DOUBLES- B.Abreu(1st), C.McGehee(1st), K.Morales(1st)
+HOME RUNS- B.Abreu(1st), J.Damon(2nd), J.Rivera(2nd), G.Zaun(1st)
+WALKS- D.Jeter, J.Posada, M.Ordonez, B.Inge
+STRIKE OUTS- B.Abreu, D.Jeter, J.Damon, M.Teixeira-2, H.Matsui, J.Posada,
+             B.Gardner, B.Ryan-2, M.Ordonez, J.Rivera, K.Morales-2, L.Overbay,
+             G.Zaun, R.Santiago, R.Belliard
+WEB GEMS- Bot 3rd: Robinson Cano robbed Curtis Granderson of a base hit.
+[2]
+[1]SCORESHEET: 2010 New York (AL) Yankees at 2010 Detroit Tigers
+B.Abreu-A1   A1:Si      B1:HR>1#   *5*:Do     D1:Si      *9*:K
+                        b#                               
+                                                         
+D.Jeter-A1   A2:W>12 b  B2:G/63    C2:K       D2:E/6>12  E2:G/43
+             1                                           
+                                                         
+J.Damon-A1   A3:L/4     B3:K       C3:G/3>23  D3:E/3>23  E3:HR>b#
+M.Cabrer-E5                                   12         
+                                                         
+M.Teixei-A1  A4:Si>23   *3*:K      C4:G/53    D4:K       E4:G/43
+             12                                          
+                                                         
+C.McGehe-A1  A5:Do>3#   B5:G/53    *6*:F/7    D5:G/63
+M.Derosa-E5  2# 1o                            
+                                              
+H.Matsui-A1  A6:E/1>3#  B6:K       C6:G/53    *8*:L/4
+                                              
+                                              
+J.Posada-A1  A7:K       *4*:G/63   C7:W>b1    D7:E/7>b2
+                                              
+                                              
+R.Cano-A1    *2*:F/8    B8:G/13    C8:G/31    D8:G/43>2
+                                              3
+                                              
+B.Gardne-A1  A9:Si      B9:K       *7*:G/63   D9:F/7
+                                              
+                                              
+
+B.Ryan-A1    A1:G/13    B1:G/31    C1:Si>23   *7*:K      E1:K
+                                   12                    
+                                                         
+M.Ordone-A1  A2:W>b1    B2:Si      C2:K       D2:F/8
+                                              
+                                              
+J.Rivera-A1  A3:HR>1#   B3:Si>12   *5*:F/7    D3:K
+             b#                               
+                                              
+K.Morale-A1  A4:F/7     B4:Do>2#   C4:K       *8*:K
+                        13                    
+                                              
+C.Grande-A1  A5:F/9     B5:G/43    C5:G/43    D5:P/6
+                                              
+                                              
+L.Overba-A1  *2*:F/8    *4*:Si     *6*:K      D6:Si
+                                              
+                                              
+G.Zaun-A1    A7:G/63    B7:K       C7:HR>b#   D7:G/63
+R.Raburn-D7                                   
+K.Shoppa-D8                                   
+R.Santia-A1  A8:K       B8:F/9     C8:F/8     *9*:K
+R.Bellia-D8                                   
+                                              
+B.Inge-A1    *3*:G/43   B9:W>12 b  C9:G/63    D9:G/63
+                        1                     
+                                              
+
+

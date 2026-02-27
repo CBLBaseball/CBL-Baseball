@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2010 Los Angeles(AL) Angels At 2010 New York (AL) Yankee 10/18/2010
+
+[1]  Angels             AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  C.Figgins 3B        5  0  0  0 .200     B.Abreu RF          4  0  2  0 .286  
+  H.Ramirez SS        5  1  3  2 .271   B-M.Cabrera RF        0  0  0  0 .214  
+  M.Holliday LF       4  0  0  0 .195     D.Jeter SS          5  1  3  2 .318  
+  D.Uggla 2B          3  0  0  0 .233     J.Damon LF          3  2  2  0 .241  
+  T.Hunter CF         4  1  0  0 .366   C-C.Crisp LF          0  0  0  0 .400  
+  R.Winn RF           3  0  1  1 .257     M.Teixeira 1B       5  0  1  1 .250  
+  C.Lee DH            4  0  1  0 .240     C.McGehee 3B        3  1  1  2 .409  
+  R.Gload 1B          3  1  1  0 .227   A-M.Derosa PH,3B      1  1  1  2 .182  
+D-C.Jones PH          1  0  0  0 .158     J.Posada C          5  2  2  0 .100  
+E-T.Ishikawa 1B       0  0  0  0 .200     K.Griffey Jr DH     3  1  0  0 .538  
+  M.Napoli C          4  1  1  1 .313     R.Cano 2B           4  2  1  3 .250  
+                                          B.Gardner CF        2  0  0  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  4  7  4                 Totals      35 10 13 10
+
+A-Pinch Hit For McGehee In 6th Inning
+B-Subbed Defensively (RF) For Abreu In 8th Inning
+C-Subbed Defensively (LF) For Damon In 8th Inning
+D-Pinch Hit For Gload In 8th Inning
+E-Subbed Defensively (1B) For Jones In 8th Inning
+
+Angels.......... 0 0 3  0 0 1  0 0 0  -  4  7  1
+Yankees......... 0 2 0  0 5 2  0 1    - 10 13  2
+
+[1]Angels (7-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver* LOSS(1-2)          4 1/3   7   6   6   5   7   1   5.14  A1 C7
+B.Fuentes                    0 2/3   3   3   3   0   0   1  20.25  C8 D3
+D.Oliver                     1 1/3   1   0   0   0   1   0   9.00  D4 D8
+J.Mijares                    0       1   0   0   0   0   0   8.44  D9 E1
+M.Herges                     0 2/3   0   0   0   0   0   0   0.00  E2 E3
+M.Palmer                     1       1   1   1   1   0   1   7.15  E4
+[1]Totals                    8      13  10  10   6   8   3
+
+[1]Yankees (6-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Nolasco WIN(3-1)           7       6   4   3   1  12   1   2.53  A1 D4
+M.Rivera                     2       1   0   0   1   2   0   0.00  D5
+[1]Totals                    9       7   4   3   2  14   1
+
+ATTENDANCE- 51,757 DATE- Monday, October 18th 2010 TIME- Night 
+UMPIRES- Chuck Meriwether, Eric Cooper, Scott Barry, Mike Reilly
+T- 3:19
+LEFT ON BASE- Angels: 8  Yankees:10
+DOUBLE PLAYS- Angels: 1  Yankees: 0
+ERRORS- M.Napoli, B.Abreu, D.Jeter
+DOUBLES- R.Gload(1st), D.Jeter(3rd), J.Posada-2(2nd)
+HOME RUNS- H.Ramirez(2nd), C.McGehee(3rd), M.Derosa(2nd), R.Cano(2nd)
+STOLEN BASES- H.Ramirez(2nd), B.Abreu(3rd), B.Gardner(1st)
+SACRIFICE FLIES- M.Derosa
+WALKS- D.Uggla, R.Winn, B.Abreu, J.Damon-2, K.Griffey Jr-2, R.Cano
+HIT BY PITCH- M.Holliday, B.Gardner-2
+STRIKE OUTS- C.Figgins-3, H.Ramirez, M.Holliday-2, D.Uggla-2, T.Hunter, R.Winn,
+             C.Lee, R.Gload, M.Napoli-2, D.Jeter, M.Teixeira-2, J.Posada,
+             K.Griffey Jr-2, R.Cano, B.Gardner
+GIDP- C.McGehee
+[2]
+[1]SCORESHEET: 2010 Los Angeles(AL) Angels at 2010 New York (AL) Yankees
+C.Figgin-A1  A1:K       B1:K       C1:P/4     D1:K       *9*:F/7
+                                                         
+                                                         
+H.Ramire-A1  A2:K       B2:HR>1#   C2:Si      D2:Si      E2:L/6
+                        b#                               
+                                                         
+M.Hollid-A1  A3:G/13    B3:K       C3:K       D3:SB>12   E3:G/63
+                                              HBP        
+                                                         
+D.Uggla-A1   *2*:K      *4*:W>b1   *6*:K      D4:G/31
+                                              
+                                              
+T.Hunter-A1  A5:G/63    B5:E/6>12  C5:E/9>b2  *8*:K
+                                              
+                                              
+R.Winn-A1    A6:K       B6:G/3>23  C6:Si>2#   D6:W>b1
+                        12                    
+                                              
+C.Lee-A1     *3*:G/63   B7:K       C7:F/9     D7:Si>12
+                                              
+                                              
+R.Gload-A1   A8:Do      B8:L/4     C8:K       D8:F/9
+C.Jones-D8                                    
+T.Ishika-E1                                   
+M.Napoli-A1  A9:Si>2#   *5*:K      *7*:G/63   D9:K
+                                              
+                                              
+
+B.Abreu-A1   A1:E/2     B1:Si>23   C1:SB>12   D1:L/4     E1:Si>13
+M.Cabrer-E4             12         IW>b1                 
+                                                         
+D.Jeter-A1   A2:Si>13   B2:Do>3#   C2:K       *6*:Si     E2:SB>12
+                        2# 1o                            FC/12>3o
+                                                         23
+J.Damon-A1   A3:W>12 b  *3*:W>b1   *5*:Si     D3:Si>12   E3:G/43
+C.Crisp-E4   1                                           
+                                                         
+M.Teixei-A1  A4:K       B4:K       C4:F/9     D4:Si>2#   *8*:L/4
+                                              13         
+                                                         
+C.McGehe-A1  A5:G-DP/1  B5:F/9     C5:HR>1#   D5:SF/7>3  E5:HR>b#
+M.Derosa-D5  23>3o                 b#         #          
+                                                         
+J.Posada-A1  *2*:Do     B6:P/2     C6:Do      D6:K       E6:L/4
+                                                         
+                                                         
+K.Griffe-A1  A7:K       *4*:K      C7:W>b1    D7:G/63    E7:W>b1
+                                                         
+                                                         
+R.Cano-A1    A8:IW>b1   B8:K       C8:HR>2#   *7*:F/7    E8:G/23
+                                   1# b#                 
+                                                         
+B.Gardne-A1  A9:K       B9:HBP     C9:L/4     D9:HBP
+                                              
+                                              
+
+

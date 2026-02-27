@@ -1,0 +1,110 @@
+[1]BOXSCORE: 2010 Toronto Blue Jays At 2010 Los Angeles(AL) Angels     10/4/2010
+
+[1]  Blue Jays          AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  M.Tejada SS         5  1  1  1 .222     C.Figgins 3B        4  0  1  0 .375  
+  J.Gomes RF,LF       3  0  0  0 .000     H.Ramirez SS        4  0  2  0 .429  
+B-C.Coghlan PH        0  0  0  0 .000     M.Holliday LF       3  0  0  0 .000  
+C-S.Smith LF          1  0  0  0 .000     D.Uggla 2B          4  0  1  0 .250  
+  I.Kinsler DH        3  0  0  0 .000     T.Hunter CF         4  0  0  0 .000  
+  M.Reynolds 3B       3  0  0  1 .143     C.Lee DH            3  0  0  0 .000  
+  M.Montero C         4  0  0  0 .000   D-C.Jones PH          1  0  0  0 .000  
+  A.Hill 2B           3  1  2  0 .429     R.Winn RF           4  0  0  0 .125  
+  A.Lind LF           3  0  1  0 .167     M.Napoli C          2  0  1  0 .333  
+A-V.Wells CF          1  0  0  0 .000     R.Gload 1B          3  0  0  0 .000  
+  J.Loney 1B          2  1  0  0 .000                                          
+  A.Rios CF,RF        4  0  2  1 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      32  0  5  0
+
+A-Subbed Defensively (CF) For Lind In 7th Inning
+B-Pinch Hit For Gomes In 8th Inning
+C-Subbed Defensively (LF) For Coghlan In 8th Inning
+D-Pinch Hit For Lee In 9th Inning
+
+Blue Jays....... 0 0 0  0 0 1  0 1 1  -  3  6  0
+Angels.......... 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Blue Jays (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay WIN(1-0)          6 2/3   5   0   0   3   8   0   0.00  A1 D1
+J.Frasor SAVE(1st)           2 1/3   0   0   0   0   1   0   0.00  D2
+[1]Totals                    9       5   0   0   3   9   0
+
+[1]Angels (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez LOSS(0-1)        7       5   2   2   1   9   1   2.57  A1 C9
+M.Herges                     1       0   0   0   3   0   0   0.00  D1 D5
+M.Palmer                     1       1   1   1   2   0   0  16.20  D6
+[1]Totals                    9       6   3   3   6   9   1
+
+ATTENDANCE- 44,657 DATE- Monday, October 4th 2010 TIME- Night 
+UMPIRES- Mike Winters, Lance Barksdale, James Hoye, Randy Marsh
+T- 2:26
+LEFT ON BASE- Blue Jays: 8  Angels: 8
+DOUBLE PLAYS- Blue Jays: 0  Angels: 1
+DOUBLES- H.Ramirez(1st), M.Napoli(1st)
+HOME RUNS- M.Tejada(1st)
+STOLEN BASES- A.Hill(1st)
+WALKS- C.Coghlan, I.Kinsler, M.Reynolds, A.Hill, J.Loney-2, M.Holliday,
+       M.Napoli-2
+STRIKE OUTS- M.Tejada-2, J.Gomes, I.Kinsler, M.Reynolds, M.Montero-2, A.Rios-2,
+             C.Figgins-3, H.Ramirez, M.Holliday, D.Uggla, T.Hunter, C.Jones,
+             R.Gload
+GIDP- M.Tejada
+[2]
+[1]SCORESHEET: 2010 Toronto Blue Jays at 2010 Los Angeles(AL) Angels
+M.Tejada-A1  A1:K       B1:K       C1:HR>b#   D1:G-DP/1  E1:Force/
+                                              63>23 1o   36>23 1o
+                                                         b1
+J.Gomes-A1   A2:G/53    *4*:G/63   C2:K       D2:IW>b1   E2:G/13
+C.Coghla-D2                                              
+S.Smith-D6                                               
+I.Kinsle-A1  A3:G/53    B3:K       C3:G/63    D3:W>12 b
+                                              1
+                                              
+M.Reynol-A1  *2*:K      B4:F/8     *7*:F/7    D4:W>3# 2
+                                              3 12 b1
+                                              
+M.Monter-A1  A5:K       *5*:F/8    C5:K       D5:F/9
+                                              
+                                              
+A.Hill-A1    A6:Si      B6:F/8     C6:Si      *9*:W>b1
+                                              
+                                              
+A.Lind-A1    A7:G/31    B7:Si      C7:F/9     D7:SB>12
+V.Wells-C8                                    G/3>23
+                                              
+J.Loney-A1   *3*:G/63   B8:F/9     *8*:W>b1   D8:IW>b1
+                                              
+                                              
+A.Rios-A1    A9:K       *6*:K      C9:Si>12   D9:Si>3#
+                                              12
+                                              
+
+C.Figgin-A1  A1:K       B1:K       *6*:K      D1:Si>23
+                                              
+                                              
+H.Ramire-A1  A2:Do      B2:K       C2:Si      D2:F/7
+                                              
+                                              
+M.Hollid-A1  A3:G/53    *4*:K      C3:W>12 b  *8*:G/43
+                                   1          
+                                              
+D.Uggla-A1   A4:F/8     B4:K       C4:Si>23   D4:L/6
+                                   12         
+                                              
+T.Hunter-A1  *2*:G/13   B5:G/63    C5:K       D5:F/9
+                                              
+                                              
+C.Lee-A1     A6:F/8     *5*:G/63   C6:P/6     *9*:K
+C.Jones-D6                                    
+                                              
+R.Winn-A1    A7:G/43    B7:FO/2    *7*:G/43   D7:G/63
+                                              
+                                              
+M.Napoli-A1  *3*:W>b1   B8:W>b1    C8:Do      D8:F/7
+                                              
+                                              
+R.Gload-A1   A9:P/2     B9:G/43    C9:K
+                                   
+                                   
+
+

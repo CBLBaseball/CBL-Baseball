@@ -1,0 +1,126 @@
+BOXSCORE: 2010 San Diego Padres At 2010 Chicago (NL) Cubs          10/10/2010
+
+  Padres             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  J.Carroll 2B        5  0  1  1 .200     R.Theriot SS        5  0  1  0 .150  
+H-N.Hundley C         0  0  0  0 .111     M.Fontenot 2B,3B    5  1  2  0 .231  
+  J.Hairston Jr SS    2  0  0  0 .143     D.Lee 1B            4  1  2  2 .167  
+C-E.Cabrera SS        2  0  1  0 .154     A.Ramirez 3B        4  0  1  0 .214  
+  E.Longoria 3B       5  1  2  1 .208   F-A.Iwamura 2B        1  0  1  0 .200  
+  R.Branyan 1B        5  0  0  0 .190     M.Byrd LF           4  1  2  1 .280  
+  N.Cruz RF           5  2  2  1 .292     A.Soriano DH        5  0  1  0 .320  
+  C.Headley LF        5  2  3  1 .381     Y.Torrealba C       4  0  1  0 .400  
+  S.Hairston DH       3  0  0  0 .111   E-G.Soto C            0  0  0  0 .250  
+  T.Gwynn Jr CF       3  0  2  0 .333     K.Fukudome RF       3  0  0  0 .333  
+  C.Coste C           1  0  0  0 .400     C.Gomez CF          2  0  0  0 .000  
+B-R.Roberts PH        0  0  0  0 .333   A-J.Anderson PH,CF    2  0  0  0 .286  
+D-K.Hill C            0  0  0  0 .222                                          
+G-K.Blanks PH,2B      1  0  1  1 .600                                          
+                     -- -- -- ---                            -- -- -- ---      
+         Totals      37  5 12  5                 Totals      39  3 11  3
+
+A-Pinch Hit For Gomez In 6th Inning
+B-Pinch Hit For Coste In 7th Inning
+C-Subbed Defensively (SS) For Hairston Jr In 7th Inning
+D-Subbed Defensively (C ) For Roberts In 7th Inning
+E-Subbed Defensively (C ) For Torrealba In 9th Inning
+F-Subbed Defensively (2B) For Ramirez In 9th Inning
+G-Pinch Hit For Hill In 9th Inning
+H-Subbed Defensively (C ) For Carroll In 9th Inning
+
+Padres.......... 0 0 0  0 1 0  1 0 1  2 -  5 12  1
+Cubs............ 1 0 0  0 1 1  0 0 0  0 -  3 11  0
+
+Padres (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Jackson                 5       8   3   3   1   2   2   4.85  A1 C5
+L.Gregerson               2       2   0   0   1   1   0   3.60  C6 D4
+M.Adams                   1 1/3   0   0   0   0   2   0   0.00  D5 D9
+C.Condrey WIN(1-0)        0 2/3   0   0   0   0   0   0   0.00  E1 E2
+J.Valverde SAVE(3rd)      1       1   0   0   0   1   0   0.00  E3
+Totals                   10      11   3   3   2   6   2
+
+Cubs (3-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dempster                6 1/3   5   2   2   2   3   0   1.88  A1 C7
+C.Breslow HOLD(1st)       0 1/3   0   0   0   1   0   0   4.91  C8 C9
+N.Masset HOLD(2nd)        1 1/3   2   0   0   0   0   0   1.35  D1 D4
+F.Francisco BS(1st)       1       3   1   1   0   3   0   2.25  D5 E1
+A.Guzman LOSS(0-1)        1       2   2   2   0   0   2   5.79  E2
+Totals                   10      12   5   5   3   6   2
+
+ATTENDANCE- 38,588 DATE- Sunday, October 10th 2010 TIME- Night 
+UMPIRES- Mike Winters, Lance Barksdale, James Hoye, Randy Marsh
+T- 3:05
+LEFT ON BASE- Padres: 7  Cubs: 9
+DOUBLE PLAYS- Padres: 2  Cubs: 3
+ERRORS- E.Longoria
+DOUBLES- C.Headley(1st), M.Fontenot(1st), D.Lee(1st), A.Ramirez(1st)
+TRIPLES- T.Gwynn Jr(1st)
+HOME RUNS- E.Longoria(2nd), N.Cruz(3rd), D.Lee(1st), M.Byrd(1st)
+STOLEN BASES- N.Cruz(2nd), C.Headley(1st), A.Iwamura(1st), M.Byrd(1st)
+CAUGHT STEALING- R.Theriot
+SACRIFICE HITS- T.Gwynn Jr
+WALKS- S.Hairston, C.Coste, R.Roberts, D.Lee, K.Fukudome
+HIT BY PITCH- J.Hairston Jr, M.Byrd
+STRIKE OUTS- J.Carroll, E.Longoria, R.Branyan-2, N.Cruz, S.Hairston, A.Ramirez,
+             A.Soriano, K.Fukudome, C.Gomez, J.Anderson-2
+GIDP- J.Carroll, E.Longoria, R.Branyan, Y.Torrealba, K.Fukudome
+PASSED BALLS- C.Coste
+WEB GEMS- Top 7th: Yorvit Torrealba blocked the plate, saving a run!
+[2]
+SCORESHEET: 2010 San Diego Padres at 2010 Chicago (NL) Cubs
+J.Carrol-A1  A1:F/7     B1:G-DP/6  *6*:G/53   D1:Si>3#   E1:K
+N.Hundle-E2             43>1o                 2o 13      
+                                                         
+J.Hairst-A1  A2:F/9     *4*:HBP    C2:F/8     *8*:Si     *10*:G/13
+E.Cabrer-D2                                              
+                                                         
+E.Longor-A1  A3:K       B3:G-DP/6  C3:Si      D3:F/7     E3:HR>b#
+                        43>1o                            
+                                                         
+R.Branya-A1  *2*:G/43   B4:K       C4:K       D4:G-DP/4  E4:F/7
+                                              63>1o      
+                                                         
+N.Cruz-A1    A5:G/31    *5*:Si     *7*:G/43   *9*:K      E5:HR>b#
+                                                         
+                                                         
+C.Headle-A1  A6:G/43    B6:SB>12   C6:Si      D6:Si      E6:P/4
+                        Do>2#                            
+                                                         
+S.Hairst-A1  *3*:G/63   B7:G/53    C7:W>12 b  D7:SB>12
+                                   1          K
+                                              
+T.Gwynn -A1  A8:Tr      B8:G/13    C8:Sac/54  D8:Si>23
+                                   >23 12     
+                                              
+C.Coste-A1   A9:W>b1    B9:F/8     C9:W>b1    D9:Si>3#
+R.Robert-C9                                   12
+K.Hill-D2+                                    
+
+R.Therio-A1  A1:L/6     *3*:Si     C1:G/63    *7*:G/31   E1:G/63
+                                                         
+                                                         
+M.Fonten-A1  A2:G/53    B2:CS/26>  C2:Do      D2:Si      E2:F/8
+                        1o F/7                           
+                                                         
+D.Lee-A1     A3:HR>b#   B3:W>b1    C3:Do>2#   D3:F/8     *10*:F/7
+                                                         
+                                                         
+A.Ramire-A1  A4:Do      B4:K       C4:F/7     D4:G/53    E4:Si
+A.Iwamur-D9                                              
+                                                         
+M.Byrd-A1    A5:E/5>23  *4*:Si     *6*:HR>b#  *8*:HBP    E5:SB>12
+                                                         L/6
+                                                         
+A.Sorian-A1  A6:F/9     B6:SB>12   C6:Si      D6:F/9     E6:K
+                        G/13                             
+                                                         
+Y.Torrea-A1  *2*:Si     B7:F/8     C7:G-DP/6  D7:Force/
+G.Soto-D9                          43>1o      16>1o b1
+                                              
+K.Fukudo-A1  A8:G-DP/6  B8:L/4     C8:W>b1    D8:K
+             43>1o                            
+                                              
+C.Gomez-A1   A9:K       *5*:F/9    C9:PB>12   *9*:K
+J.Anders-C9                        K          
+                                              
+
+

@@ -1,0 +1,110 @@
+[1]BOXSCORE: 2010 Los Angeles(AL) Angels At 2010 Toronto Blue Jays     10/7/2010
+
+[1]  Angels             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  C.Figgins 3B        3  0  0  0 .313     M.Tejada SS         5  2  1  0 .176  
+  H.Ramirez SS        4  0  0  0 .333     S.Smith LF          2  1  1  1 .333  
+  M.Holliday LF       2  0  1  0 .083   A-A.Rios PH,RF        2  1  0  0 .333  
+  D.Uggla 2B          2  1  0  0 .167     A.Lind DH           4  2  2  1 .286  
+  T.Hunter CF         3  1  1  0 .167     A.Hill 2B           5  0  1  1 .313  
+  C.Lee DH            4  0  1  2 .143     M.Reynolds 3B       3  1  1  1 .167  
+  R.Winn RF           4  0  1  0 .133     V.Wells CF          4  0  1  3 .083  
+  M.Napoli C          1  0  1  0 .286     M.Montero C         4  0  0  0 .000  
+D-B.Molina C          1  0  0  0 .000     J.Loney 1B          3  2  2  0 .273  
+  R.Gload 1B          2  0  0  0 .091     E.Hinske RF,LF      2  1  1  2 .500  
+C-N.Garciaparra PH,1B 1  0  0  0 .000   B-C.Coghlan PH,LF     2  0  2  0 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      27  2  5  2                 Totals      36 10 12  9
+
+A-Pinch Hit For Smith In 4th Inning
+B-Pinch Hit For Hinske In 5th Inning
+C-Pinch Hit For Gload In 7th Inning
+D-Subbed Defensively (C ) For Napoli In 7th Inning
+
+Angels.......... 0 2 0  0 0 0  0 0 0  -  2  5  1
+Blue Jays....... 0 0 5  4 0 1  0 0    - 10 12  1
+
+[1]Angels (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver* LOSS(1-1)          2 2/3   4   5   1   1   3   0   1.86  A1 B6
+J.Mijares                    0 1/3   4   4   4   1   0   1  15.43  B7 C3
+M.Palmer                     5       4   1   1   1   4   0   5.40  C4
+[1]Totals                    8      12  10   6   3   7   1
+
+[1]Blue Jays (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Bannister WIN(1-0)         9       5   2   2   7   2   0   2.00  A1
+[1]Totals                    9       5   2   2   7   2   0
+
+ATTENDANCE- 47,024 DATE- Thursday, October 7th 2010 TIME- Night 
+UMPIRES- Paul Nauert, Tom Hallion, Phil Cuzzi, Angel Campos
+T- 3:08
+LEFT ON BASE- Angels: 6  Blue Jays: 6
+DOUBLE PLAYS- Angels: 1  Blue Jays: 4
+ERRORS- H.Ramirez, M.Tejada
+DOUBLES- T.Hunter(1st), M.Tejada(1st), A.Hill(2nd), V.Wells(1st), J.Loney(1st)
+TRIPLES- S.Smith(1st)
+HOME RUNS- E.Hinske(2nd)
+STOLEN BASES- C.Figgins(2nd), M.Holliday(2nd)
+WALKS- C.Figgins, M.Holliday-2, D.Uggla-2, T.Hunter, M.Napoli, A.Rios, A.Lind,
+       J.Loney
+HIT BY PITCH- M.Napoli, M.Reynolds
+STRIKE OUTS- D.Uggla, N.Garciaparra, A.Rios, A.Hill-2, V.Wells-2, M.Montero,
+             E.Hinske
+GIDP- H.Ramirez, C.Lee, R.Winn, R.Gload, M.Tejada
+[2]
+[1]SCORESHEET: 2010 Los Angeles(AL) Angels at 2010 Toronto Blue Jays
+C.Figgin-A1  A1:W>b1    *3*:F/7    *5*:G/63   D1:Force/
+                                              46>1o b1
+                                              
+H.Ramire-A1  A2:G-DP/6  B2:L/6     C2:F/9     D2:SB>12
+             43>1o                            G/63
+                                              
+M.Hollid-A1  A3:W>b1 P  B3:Si+E/6  C3:W>b1    *8*:G/53
+             kOff/13>1                        
+             o                                
+D.Uggla-A1   *2*:W>b1   B4:W>b1    C4:SB>12   D4:G/13
+                                   K          
+                                              
+T.Hunter-A1  A5:Do>13   B5:P/6     *6*:W>b1   D5:F/7
+                                              
+                                              
+C.Lee-A1     A6:Si>3#   *4*:L/6    C6:G-DP/6  *9*:G/43
+             2#                    43>1o      
+                                              
+R.Winn-A1    A7:G-DP/4  B7:Si      C7:F/7     D7:L/4
+             63>1o                            
+                                              
+M.Napoli-A1  A8:W>b1    B8:Si>12   *7*:HBP    D8:G/63
+B.Molina-D3                                   
+                                              
+R.Gload-A1   A9:F/8     B9:G-DP/6  C9:K
+N.Garcia-C9             43>1o      
+                                   
+
+M.Tejada-A1  A1:L/6     B1:E/6>2#  C1:Do      D1:G/53    E1:G-DP/5
+                        b2                               43>1o
+                                                         
+S.Smith-A1   A2:L/4     B2:Tr>2#   C2:IW>b1   *6*:K      *8*:F/9
+A.Rios-C2                                                
+                                                         
+A.Lind-A1    A3:G/43    B3:IW>b1   C3:Si>2#   D3:Si      E3:L/4
+                                   13                    
+                                                         
+A.Hill-A1    *2*:L/5    B4:K       C4:G/43>3  D4:Do>13   E4:K
+                                   # 12                  
+                                                         
+M.Reynol-A1  A5:Si      B5:HBP>12  C5:G/53    D5:G/63>3
+                                              # 23
+                                              
+V.Wells-A1   A6:K       B6:Do>3#   C6:L/6     D6:K
+                        2# 1#                 
+                                              
+M.Monter-A1  A7:G/43    B7:G/63    *5*:F/7    *7*:K
+                                              
+                                              
+J.Loney-A1   *3*:Do     *4*:Si     C8:FO/2    D8:W>b1
+                                              
+                                              
+E.Hinske-A1  A9:K       B9:HR>1#   C9:Si      D9:Si>13
+C.Coghla-C9             b#                    
+                                              
+
+
