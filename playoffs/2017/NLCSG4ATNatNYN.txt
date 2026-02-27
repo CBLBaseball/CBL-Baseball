@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2017 Atlanta Braves At 2017 New York (NL) Mets           10/17/2017
+
+[1]  Braves             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Kemp DH           4  1  1  0 .150     W.Ramos C           4  0  1  1 .341  
+  C.Yelich LF         3  2  1  1 .143     B.Zobrist 2B        4  0  0  0 .162  
+  C.Blackmon CF       5  3  3  0 .389     W.Flores DH         2  0  1  0 .300  
+  J.Realmuto C        5  3  3  5 .353   D-P.Alvarez PH,DH     1  0  0  0 .211  
+  F.Freeman 1B        5  0  1  1 .344     S.Rodriguez 1B      3  0  1  0 .267  
+  B.Phillips 2B       5  1  3  2 .341   E-M.Reynolds PH,1B    0  0  0  0 .150  
+  L.Valbuena 3B       2  0  0  0 .214     J.Reyes 3B          3  0  0  0 .077  
+A-A.Garcia PH,3B      3  0  1  0 .190     C.Granderson CF     4  1  0  0 .061  
+  A.Simmons SS        5  0  0  1 .111     A.Pagan LF          3  1  0  0 .121  
+  M.Kepler RF         2  0  1  0 .273     J.Hardy SS          3  1  1  0 .217  
+B-R.Chirinos PH       1  0  0  0 .000   F-C.Pennington PH     1  0  0  0 .286  
+C-M.Smith RF          1  0  0  0 .000     N.Markakis RF       4  0  1  2 .300  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 10 14 10                 Totals      32  3  5  3
+
+A-Pinch Hit For Valbuena In 5th Inning
+B-Pinch Hit For Kepler In 6th Inning
+C-Subbed Defensively (RF) For Chirinos In 6th Inning
+D-Pinch Hit For Flores In 7th Inning
+E-Pinch Hit For Rodriguez In 8th Inning
+F-Pinch Hit For Hardy In 9th Inning
+
+Braves.......... 4 1 1  0 1 0  1 2 0  - 10 14  0
+Mets............ 0 0 0  0 0 0  3 0 0  -  3  5  0
+
+[1]Braves (6-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price WIN(2-2)             6       1   0   0   2   6   0   1.88  A1 C3
+J.Johnson                    0 2/3   4   3   3   1   0   0  22.50  C4 D1
+A.Vizcaino                   0 1/3   0   0   0   1   0   0   0.00  D2 D3
+M.Bush                       2       0   0   0   2   1   0   0.00  D4
+[1]Totals                    9       5   3   3   6   7   0
+
+[1]Mets (6-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+I.Kennedy LOSS(0-1)          7 1/3  13   9   9   4   4   1  11.05  A1 E3
+S.Lugo                       1 2/3   1   1   1   0   1   1   4.26  E4
+[1]Totals                    9      14  10  10   4   5   2
+
+ATTENDANCE- 39,931 DATE- Tuesday, October 17th 2017 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 3:19
+LEFT ON BASE- Braves: 8  Mets: 8
+DOUBLE PLAYS- Braves: 0  Mets: 0
+DOUBLES- C.Blackmon(4th), J.Realmuto-2(4th), A.Garcia(1st), M.Kepler(2nd)
+HOME RUNS- C.Yelich(2nd), J.Realmuto(1st)
+RBIs- C.Yelich(3rd), J.Realmuto-5(6th), F.Freeman(6th), B.Phillips-2(5th),
+      A.Simmons(3rd), W.Ramos(8th), N.Markakis-2(9th)
+WALKS- M.Kemp, C.Yelich-2, M.Smith, W.Ramos, B.Zobrist, W.Flores, M.Reynolds,
+       J.Reyes, A.Pagan
+STRIKE OUTS- M.Kemp, J.Realmuto, F.Freeman, A.Simmons, R.Chirinos, W.Ramos,
+             B.Zobrist-3, A.Pagan, J.Hardy, N.Markakis
+2-out RBI- C.Yelich, N.Markakis-2, W.Ramos
+RLISP 2-out- C.Yelich, C.Granderson, A.Simmons-2, J.Realmuto, M.Kemp,
+             P.Alvarez-2, A.Pagan
+TEAM RISP- Braves: 4 for 16  Mets: 3 for 6
+
+David Price had an impressive outing as the Atlanta Braves defeated the New
+York (NL) Mets by a score of 10 to 3 at Citi Field.
+
+J.T. Realmuto really lit it up for Atlanta.  The New York (NL) fans let him
+have it for what he did to their boys.  He doubled emptying the bases in the
+1st inning, doubled in the 3rd inning and bombed a two-run dinger in the 8th
+inning.  Offensively, Atlanta was a juggernaut.  They scored in 6 separate
+innings.  
+
+The victory went to Price(2-2) who went 6 innings, allowing no runs. Ian
+Kennedy(0-1) ended up with the loss.  He was hit hard and gave up 13 hits and
+4 walks in 7 and 1/3 innings.  
+
+'It's just about getting in a good hitting position and just going out there
+and being prepared,' Realmuto said. 'You try to hit in your own capacity and
+not do too much. I just try to have a good approach, day after day, game by
+game, and pitch by pitch.'
+[2]
+[1]SCORESHEET: 2017 Atlanta Braves at 2017 New York (NL) Mets
+M.Kemp-A1    A1:W>b1    B1:G/53    C1:F/8     D1:Si      E1:K
+                                                         
+                                                         
+C.Yelich-A1  A2:PB>12   B2:HR>b#   C2:G/3     D2:W>12 b  *8*:G/63
+             W>b1                             1          
+                                                         
+C.Blackm-A1  A3:Si>23   B3:G/43    *5*:Do     D3:F/8     E3:Si
+             12                                          
+                                                         
+J.Realmu-A1  A4:Do>3#   *3*:Do     C4:K       D4:F/7     E4:HR>1#
+             2# 1#                                       b#
+                                                         
+F.Freema-A1  A5:K       B5:F/9>23  C5:Si>2#   *7*:F/8    E5:G/31
+                                                         
+                                                         
+B.Philli-A1  A6:Si>2#   B6:G/23>3  C6:Si>13   D6:Si      E6:P/6
+                        #                                
+                                                         
+L.Valbue-A1  A7:Force/  B7:G/43    C7:G/13>1  D7:Do>13   *9*:F/9
+A.Garcia-C7  16>1o b1              2                     
+                                                         
+A.Simmon-A1  A8:G/53    *4*:F/8    C8:G/23    D8:G/63>3  E8:K
+                                              # 23       
+                                                         
+M.Kepler-A1  *2*:G/31   B9:Do      *6*:K      D9:W>b1    E9:F/7
+R.Chirin-C9                                              
+M.Smith-D5                                               
+
+W.Ramos-A1   A1:K       B1:F/7     *6*:G/63   D1:Si>3#   E1:W>b1
+                                              12         
+                                                         
+B.Zobris-A1  A2:K       B2:K       C2:K       D2:W>23 1  E2:G/31
+                                              2 b1       
+                                                         
+W.Flores-A1  A3:W>b1    *4*:Si     C3:L/6     D3:L/4
+P.Alvare-D3                                   
+                                              
+S.Rodrig-A1  A4:F/8     B4:F/8     *7*:Si     *8*:W>b1
+M.Reynol-D4                                   
+                                              
+J.Reyes-A1   *2*:W>b1   B5:G/3>12  C5:Force/  D5:L/4
+                                   36>1o b1   
+                                              
+C.Grande-A1  A6:F/7     B6:G/43    C6:Force/  D6:G/3>12
+                                   36>1o b1   
+                                              
+A.Pagan-A1   A7:K       *5*:F/9    C7:W>12 b  D7:F/7
+                                   1          
+                                              
+J.Hardy-A1   A8:G/63    B8:K       C8:Si>23   *9*:G/43
+C.Pennin-D8                        12         
+                                              
+N.Markak-A1  *3*:G/63   B9:L/4     C9:Si>3#   D9:K
+                                   2# 13      
+                                              
+
+

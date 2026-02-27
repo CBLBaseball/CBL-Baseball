@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2017 Chicago (NL) Cubs At 2017 New York (NL) Mets         10/6/2017
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Fowler CF         4  0  0  0 .200     W.Flores DH         4  1  1  1 .250  
+  A.Gonzalez 1B       4  0  0  0 .308     J.Reyes 3B          4  1  1  1 .250  
+  K.Bryant LF         4  0  0  0 .125     W.Ramos C           3  2  3  1 .364  
+  S.Castro 2B         2  1  0  0 .200     B.Zobrist 2B        3  0  0  1 .091  
+  Y.Alonso DH         4  0  0  0 .000   C-C.Pennington 2B     0  0  0  0 ----  
+  J.Baez 3B           3  0  1  0 .100     S.Rodriguez 1B      3  0  1  0 .286  
+E-G.Parra PH          1  0  0  0 .000     A.Pagan LF          4  0  1  0 .200  
+  A.Russell SS        3  0  1  1 .200   D-J.Lagares CF        0  0  0  0 .000  
+  J.Heyward RF        2  0  1  0 .333     C.Granderson CF,LF  2  0  0  0 .125  
+  W.Contreras C       2  0  0  0 .429     J.Hardy SS          3  0  0  0 .000  
+A-A.Almora PH         1  0  0  0 .000     N.Markakis RF       3  0  0  0 .273  
+B-R.Rivera C          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  3  1                 Totals      29  4  7  4
+
+A-Pinch Hit For Contreras In 7th Inning
+B-Subbed Defensively (C ) For Almora In 7th Inning
+C-Subbed Defensively (2B) For Zobrist In 9th Inning
+D-Subbed Defensively (CF) For Pagan In 9th Inning
+E-Pinch Hit For Baez In 9th Inning
+
+Cubs............ 0 1 0  0 0 0  0 0 0  -  1  3  0
+Mets............ 1 0 0  0 0 0  0 3    -  4  7  0
+
+[1]Cubs (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Happ LOSS(0-1)             7       7   4   4   2   1   3   5.14  A1 D3
+P.Strop                      0 1/3   0   0   0   1   0   0   0.00  D4 D5
+J.Diaz                       0 2/3   0   0   0   0   1   0   0.00  D6
+[1]Totals                    8       7   4   4   3   2   3
+
+[1]Mets (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom                     7       3   1   1   3   8   0   1.29  A1 C9
+C.Torres WIN(1-0)            1       0   0   0   0   1   0   0.00  D1 D3
+J.Familia SAVE(2nd)          1       0   0   0   0   2   0   0.00  D4
+[1]Totals                    9       3   1   1   3  11   0
+
+ATTENDANCE- 39,772 DATE- Friday, October 6th 2017 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:27
+LEFT ON BASE- Cubs: 5  Mets: 6
+DOUBLE PLAYS- Cubs: 1  Mets: 0
+DOUBLES- J.Heyward(2nd), W.Ramos(2nd)
+HOME RUNS- W.Flores(1st), J.Reyes(1st), W.Ramos(1st)
+RBIs- A.Russell(2nd), W.Flores(1st), J.Reyes(1st), W.Ramos(1st), B.Zobrist(1st)
+SACRIFICE FLIES- B.Zobrist
+WALKS- S.Castro-2, J.Heyward, W.Ramos, S.Rodriguez, C.Granderson
+HIT BY PITCH- C.Granderson
+STRIKE OUTS- D.Fowler-3, K.Bryant, S.Castro, Y.Alonso-2, A.Russell,
+             W.Contreras-2, A.Almora, B.Zobrist, A.Pagan
+GIDP- S.Rodriguez
+WILD PITCHES- P.Strop
+2-out RBI- W.Ramos
+RLISP 2-out- D.Fowler-2, N.Markakis-3, A.Almora
+TEAM RISP- Cubs: 1 for 4  Mets: 0 for 4
+
+In an entertaining game at Citi Field the final score was the New York (NL)
+Mets 4, the Chicago (NL) Cubs 1.
+
+Carlos Torres(1-0) came through for Terry Collins with an excellent relief
+stint.  He did not allow a baserunner in his 1 inning.  Chicago (NL) went
+down without a fight in the 9th.  
+
+Jeurys Familia recorded his 2nd save. J.A. Happ(0-1) was the loser.  He
+allowed 3 homeruns in 7 innings of work.
+[2]
+[1]SCORESHEET: 2017 Chicago (NL) Cubs at 2017 New York (NL) Mets
+D.Fowler-A1  A1:K       B1:K       C1:G/63    *8*:K
+                                              
+                                              
+A.Gonzal-A1  A2:G/13    *3*:G/31   *6*:F/8    D2:F/7
+                                              
+                                              
+K.Bryant-A1  A3:L/6     B3:F/8     C3:K       D3:F/8
+                                              
+                                              
+S.Castro-A1  *2*:W>b1   B4:G/63    C4:W>b1    *9*:K
+                                              
+                                              
+Y.Alonso-A1  A5:P/3     *4*:P/4    C5:K       D5:K
+                                              
+                                              
+J.Baez-A1    A6:Si>13   B6:G/13    *7*:G/13   D6:F/8
+G.Parra-D6                                    
+                                              
+A.Russel-A1  A7:Si>3#   B7:K       C7:G/63
+             12                    
+                                   
+J.Heywar-A1  A8:W>23 1  *5*:P/6    C8:Do
+             2 b1                  
+                                   
+W.Contre-A1  A9:K       B9:K       C9:K
+A.Almora-C9                        
+R.Rivera-D1                        
+
+W.Flores-A1  A1:F/7     *3*:G/53   C1:G/53    *8*:HR>b#
+                                              
+                                              
+J.Reyes-A1   A2:F/7     B2:F/7     C2:G/43    D2:HR>b#
+                                              
+                                              
+W.Ramos-A1   A3:HR>b#   B3:W>b1    *6*:Si     D3:Do
+                                              
+                                              
+B.Zobris-A1  A4:F/7     B4:G/31    C4:K       D4:WP>23
+C.Pennin-D8                                   SF/8>3#
+                                              
+S.Rodrig-A1  *2*:Si     *4*:F/9    C5:G-DP/6  D5:W>b1
+                                   43>1o      
+                                              
+A.Pagan-A1   A6:Si>13   B6:G/53    *7*:G/13   D6:K
+J.Lagare-D8                                   
+                                              
+C.Grande-A1  A7:P/6     B7:HBP     C7:W>b1    D7:L/6
+                                              
+                                              
+J.Hardy-A1   A8:L/6     B8:G/53    C8:G/3>12
+                                   
+                                   
+N.Markak-A1  A9:F/9     *5*:G/43   C9:G/3
+                                   
+                                   
+
+

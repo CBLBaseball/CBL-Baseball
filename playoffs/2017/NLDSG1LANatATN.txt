@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2017 Los Angeles(NL) Dodgers At 2017 Atlanta Braves       10/3/2017
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  B.Guyer LF          5  0  2  0 .400     B.Phillips 2B       4  1  3  0 .750  
+  D.Murphy 2B         5  0  1  0 .200     C.Yelich LF         4  0  2  0 .500  
+  E.Encarnacion 1B    3  0  1  1 .333     M.Kemp RF           4  0  0  0 .000  
+  M.Saunders DH       4  0  0  0 .000     F.Freeman 1B        3  0  0  1 .000  
+  J.Rollins SS        4  0  0  0 .000     A.Garcia 3B         4  0  1  0 .250  
+  D.Ross C            3  1  1  0 .333     C.Blackmon DH       3  0  1  0 .333  
+  M.Bourn CF          4  0  1  0 .250     C.Maybin CF         3  0  0  0 .000  
+  Y.Puig RF           3  0  2  0 .667   A-M.Smith PH          1  0  0  0 .000  
+  J.Turner 3B         4  1  1  1 .250     R.Chirinos C        3  0  0  0 .000  
+                                        B-L.Valbuena PH       1  0  0  0 .000  
+                                          D.Swanson SS        3  0  0  0 .000  
+                                        C-M.Kepler PH         1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2  9  2                 Totals      34  1  7  1
+
+A-Pinch Hit For Maybin In 9th Inning
+B-Pinch Hit For Chirinos In 9th Inning
+C-Pinch Hit For Swanson In 9th Inning
+
+Dodgers......... 0 0 1  1 0 0  0 0 0  -  2  9  1
+Braves.......... 0 0 0  1 0 0  0 0 0  -  1  7  0
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)           8       7   1   1   1   3   0   1.13  A1 D6
+K.Jansen SAVE(1st)           1       0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       7   1   1   1   5   0
+
+[1]Braves (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price LOSS(0-1)            9       9   2   2   3  10   0   2.00  A1
+[1]Totals                    9       9   2   2   3  10   0
+
+ATTENDANCE- 44,813 DATE- Tuesday, October 3rd 2017 TIME- Night 
+UMPIRES- Dana Demuth, Ron Kulpa, Ed Hickox, Lance Barrett
+T- 3:15
+LEFT ON BASE- Dodgers:10  Braves: 8
+DOUBLE PLAYS- Dodgers: 0  Braves: 1
+ERRORS- Y.Puig
+DOUBLES- J.Turner(1st)
+RBIs- E.Encarnacion(1st), J.Turner(1st), F.Freeman(1st)
+SACRIFICE FLIES- F.Freeman
+WALKS- E.Encarnacion-2, D.Ross, C.Blackmon
+HIT BY PITCH- Y.Puig
+STRIKE OUTS- D.Murphy, E.Encarnacion, M.Saunders, J.Rollins-3, D.Ross-2, Y.Puig,
+             J.Turner, C.Yelich, C.Maybin, M.Smith, L.Valbuena, D.Swanson
+GIDP- J.Turner
+2-out RBI- E.Encarnacion, J.Turner
+RLISP 2-out- M.Saunders-2, B.Guyer-2, C.Maybin-3, J.Rollins, M.Kemp,
+             E.Encarnacion
+TEAM RISP- Dodgers: 3 for 12  Braves: 0 for 4
+
+Clayton Kershaw(1-0) and David Price(0-1) dueled it out with Kershaw and the
+Los Angeles(NL) Dodgers coming out on top of the Atlanta Braves by the score
+of 2 to 1.
+
+Kershaw gave a fine effort for Los Angeles(NL).  He went 8 innings
+surrendering 7 hits and 1 walk.  Neither team managed to score after the 4th
+inning.  
+
+Kenley Jansen earned his 1st save.
+[2]
+[1]SCORESHEET: 2017 Los Angeles(NL) Dodgers at 2017 Atlanta Braves
+B.Guyer-A1   A1:L/6     B1:Si>13   C1:F/8     *7*:Si     E1:F/9
+                                                         
+                                                         
+D.Murphy-A1  A2:K       B2:L/4     *5*:F/9    D2:G/43>1  E2:Si>13
+                                              2          
+                                                         
+E.Encarn-A1  A3:W>b1    B3:Si>3#   C3:W>b1    D3:G/43>2  E3:K
+                        13                    3          
+                                                         
+M.Saunde-A1  A4:G/3     B4:G/43    C4:G/53>1  D4:K
+                                   2          
+                                              
+J.Rollin-A1  *2*:K      *4*:K      C5:P/6     *8*:K
+                                              
+                                              
+D.Ross-A1    A6:K       B6:W>b1    *6*:Si     D6:K
+                                              
+                                              
+M.Bourn-A1   A7:G/3     B7:Si>12   C7:G/13>1  D7:F/7
+                                   2          
+                                              
+Y.Puig-A1    *3*:Si     B8:K       C8:Si>23   *9*:HBP
+                                              
+                                              
+J.Turner-A1  A9:Force/  B9:Do>2#   C9:G-DP/6  D9:K
+             36>1o b1   13         43>1o      
+                                              
+
+B.Philli-A1  A1:G/31    *4*:Si     C1:Si      D1:Si
+                                              
+                                              
+C.Yelich-A1  A2:G/13    B2:Si>12   C2:K       D2:Si>13
+                                              
+                                              
+M.Kemp-A1    A3:G/63    B3:Force/  *6*:G/63   D3:G/53
+                        46>23 1o              
+                        b1                    
+F.Freema-A1  *2*:F/8    B4:SF/7>3  C4:G/43    *8*:G/43
+                        #                     
+                                              
+A.Garcia-A1  A5:F/7     B5:E/9>13  C5:Si      D5:G/43
+                        b2                    
+                                              
+C.Blackm-A1  A6:G/31    B6:W>b1    C6:Si>12   D6:G/63
+                                              
+                                              
+C.Maybin-A1  *3*:L/6    B7:K       C7:G/53    *9*:K
+M.Smith-D7                                    
+                                              
+R.Chirin-A1  A8:G/53    *5*:G/31   *7*:F/8    D8:K
+L.Valbue-D8                                   
+                                              
+D.Swanso-A1  A9:G/53    B9:G/43    C9:K       D9:L/4
+M.Kepler-D9                                   
+                                              
+
+

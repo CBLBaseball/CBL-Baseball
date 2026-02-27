@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2017 New York (NL) Mets At 2017 Atlanta Braves           10/13/2017
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  W.Ramos C           5  1  3  2 .357     C.Maybin CF         4  0  0  0 .222  
+  B.Zobrist 2B        4  0  1  0 .080     C.Yelich LF         4  0  0  0 .167  
+C-C.Pennington 2B     0  0  0  0 .333     L.Valbuena 3B       2  0  1  0 .273  
+  W.Flores DH         3  0  0  0 .250   B-A.Garcia PH         1  0  0  0 .231  
+A-P.Alvarez PH,DH     1  0  0  0 .267     C.Blackmon DH       4  1  2  1 .333  
+  J.Reyes 3B          4  0  0  0 .100     M.Kepler RF         3  0  0  0 .250  
+  C.Granderson CF     4  1  1  1 .095   D-M.Kemp PH           1  0  0  0 .077  
+  S.Rodriguez 1B      4  1  1  0 .250     J.Realmuto C        4  0  1  0 .318  
+  A.Pagan LF          4  1  1  2 .174     F.Freeman 1B        2  0  0  0 .400  
+  N.Markakis RF       4  0  1  0 .286     B.Phillips 2B       3  0  0  0 .286  
+  J.Hardy SS          3  1  2  0 .235     A.Simmons SS        3  0  0  0 .118  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 10  5                 Totals      31  1  4  1
+
+A-Pinch Hit For Flores In 8th Inning
+B-Pinch Hit For Valbuena In 9th Inning
+C-Subbed Defensively (2B) For Zobrist In 9th Inning
+D-Pinch Hit For Kepler In 9th Inning
+
+Mets............ 0 1 0  0 2 0  0 0 2  -  5 10  1
+Braves.......... 0 0 0  0 0 0  0 0 1  -  1  4  0
+
+[1]Mets (5-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana WIN(2-1)           9       4   1   1   2  12   1   1.38  A1
+[1]Totals                    9       4   1   1   2  12   1
+
+[1]Braves (4-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price LOSS(1-2)            6 2/3   6   3   3   1   6   2   2.38  A1 C8
+M.Bush                       1 1/3   1   0   0   0   0   0   0.00  C9 D4
+J.Johnson                    1       3   2   2   0   1   1  18.00  D5
+[1]Totals                    9      10   5   5   1   7   3
+
+ATTENDANCE- 45,122 DATE- Friday, October 13th 2017 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 2:41
+LEFT ON BASE- Mets: 5  Braves: 5
+DOUBLE PLAYS- Mets: 0  Braves: 1
+ERRORS- J.Hardy
+DOUBLES- W.Ramos(4th), S.Rodriguez(1st), N.Markakis(3rd), J.Hardy(2nd),
+         J.Realmuto(2nd)
+HOME RUNS- W.Ramos(3rd), C.Granderson(1st), A.Pagan(1st), C.Blackmon(1st)
+RBIs- W.Ramos-2(4th), C.Granderson(1st), A.Pagan-2(2nd), C.Blackmon(3rd)
+WALKS- J.Hardy, L.Valbuena, F.Freeman
+STRIKE OUTS- B.Zobrist, W.Flores, C.Granderson-2, S.Rodriguez-2, N.Markakis,
+             C.Maybin-2, C.Yelich-2, C.Blackmon-2, M.Kepler, J.Realmuto,
+             B.Phillips-2, A.Simmons-2
+GIDP- B.Zobrist
+WILD PITCHES- E.Santana, J.Johnson
+2-out RBI- W.Ramos-2
+RLISP 2-out- A.Simmons, W.Flores, M.Kepler-2, J.Hardy, J.Reyes, W.Ramos
+TEAM RISP- Mets: 1 for 8  Braves: 0 for 3
+
+Ervin Santana struck out 12 batters as the New York (NL) Mets beat the Atlanta
+Braves by a score of 5 to 1.
+
+Santana(2-1) was on top of his game.  He gave up just 4 hits and 2 walks in 9
+innings lowering his ERA to 1.38.  New York (NL) finished with 10 hits in the
+victory.  
+
+David Price(1-2) was given the loss.  'Santana took our guys to school' Fredi
+Gonzalez said. 'Too bad he doesn't pitch for us - it would make my job a
+whole lot easier!'
+[2]
+[1]SCORESHEET: 2017 New York (NL) Mets at 2017 Atlanta Braves
+W.Ramos-A1   A1:G/3     B1:Si>12   C1:HR>1#   *8*:Do     E1:L/6
+                                   b#                    
+                                                         
+B.Zobris-A1  A2:Si      B2:G-DP/6  C2:K       D2:G/53
+C.Pennin-E2             43>23 1o              
+                                              
+W.Flores-A1  A3:K       B3:G/63    *6*:F/7    D3:G/13
+P.Alvare-D3                                   
+                                              
+J.Reyes-A1   A4:L/5     *4*:L/6    C4:G/63    D4:P/6
+                                              
+                                              
+C.Grande-A1  *2*:HR>b#  B5:K       C5:G/43    *9*:K
+                                              
+                                              
+S.Rodrig-A1  A6:K       B6:L/6     *7*:K      D6:Do
+                                              
+                                              
+A.Pagan-A1   A7:G/31    *5*:G/43   C7:G/13    D7:WP>23
+                                              HR>3# b#
+                                              
+N.Markak-A1  A8:K       B8:G/43    C8:Do      D8:P/6
+                                              
+                                              
+J.Hardy-A1   *3*:Si     B9:W>b1    C9:F/9     D9:Do
+                                              
+                                              
+
+C.Maybin-A1  A1:K       *3*:K      C1:F/7     D1:G/31
+                                              
+                                              
+C.Yelich-A1  A2:G/43    B2:K       C2:K       D2:G/43
+                                              
+                                              
+L.Valbue-A1  A3:Si      B3:W>b1    *6*:G/43   *9*:G/53
+A.Garcia-D3                                   
+                                              
+C.Blackm-A1  A4:K       B4:Si+E/6  C4:K       D4:HR>b#
+                        >13                   
+                                              
+M.Kepler-A1  *2*:F/8    B5:K       C5:G/53    D5:G/53
+M.Kemp-D5                                     
+                                              
+J.Realmu-A1  A6:Do      *4*:F/9    *7*:G/43   D6:K
+                                              
+                                              
+F.Freema-A1  A7:WP>23   B7:G/43    C7:G/43
+             IW>b1                 
+                                   
+B.Philli-A1  A8:K       B8:K       C8:L/6
+                                   
+                                   
+A.Simmon-A1  A9:K       *5*:L/5    *8*:K
+                                   
+                                   
+
+

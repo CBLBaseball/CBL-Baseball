@@ -1,0 +1,147 @@
+[1]BOXSCORE: 2017 Boston Red Sox At 2017 Chicago (AL) White Sox        10/6/2017
+
+[1]  Red Sox            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  M.Betts RF          6  1  2  3 .500     T.Anderson DH       3  0  1  0 .091  
+  X.Bogaerts SS       5  3  2  0 .357   A-N.Reimold PH,DH     2  1  2  2 .667  
+  D.Ortiz DH          4  3  3  5 .600     J.Altuve 2B         5  0  2  1 .231  
+  T.Shaw 3B           5  1  2  1 .286     J.Abreu 1B          5  1  1  1 .182  
+  D.Pedroia 2B        5  0  2  1 .385     R.Braun LF          4  0  0  0 .000  
+  A.Jones CF          4  1  1  1 .091     J.Lucroy C          5  2  3  0 .364  
+  A.Duvall LF         4  1  0  0 .100     T.Saladino SS       4  0  2  0 .333  
+  M.Moreland 1B       5  2  3  1 .571   C-A.Avila PH          1  1  1  0 .500  
+  T.Flowers C         4  1  0  0 .000     A.Jackson CF        4  0  0  0 .000  
+B-C.Vazquez C         0  0  0  0 .250   D-A.Ramirez PH        1  0  1  0 .333  
+                                          T.La Stella 3B      3  2  1  0 .333  
+                                        E-M.Semien PH         1  0  0  0 .000  
+                                          T.Thompson RF       3  0  1  1 .250  
+                                        F-K.Kiermaier PH      1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42 13 15 12                 Totals      42  7 15  5
+
+A-Pinch Hit For Anderson In 6th Inning
+B-Subbed Defensively (C ) For Flowers In 8th Inning
+C-Pinch Hit For Saladino In 9th Inning
+D-Pinch Hit For Jackson In 9th Inning
+E-Pinch Hit For La Stella In 9th Inning
+F-Pinch Hit For Thompson In 9th Inning
+
+Red Sox......... 0 0 2  5 3 2  1 0 0  - 13 15  1
+White Sox....... 0 0 0  1 1 2  1 1 1  -  7 15  1
+
+[1]Red Sox (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Wright WIN(1-0)            5 2/3   8   4   4   2   7   0   6.35  A1 C9
+W.Harris                     0 2/3   3   1   1   0   1   1  13.50  D1 D5
+A.Reed                       1 2/3   2   1   1   0   1   1   3.38  D6 E3
+C.Rusin                      0 2/3   2   1   0   1   0   0   0.00  E4 E8
+T.Rogers                     0 1/3   0   0   0   0   0   0   0.00  E9
+[1]Totals                    9      15   7   6   3   9   2
+
+[1]White Sox (0-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Tillman LOSS(0-1)          4 2/3  10  10   8   2   4   2  15.43  A1 C9
+M.Gonzalez                   0 1/3   2   2   2   1   0   0  12.00  D1 D4
+D.McGowan                    1 1/3   2   1   1   1   0   0   7.71  D5 E2
+Z.Duke                       1 2/3   1   0   0   1   3   0   0.00  E3 E9
+N.Jones                      1       0   0   0   1   3   0   0.00  F1
+[1]Totals                    9      15  13  11   6  10   2
+
+ATTENDANCE- 36,889 DATE- Friday, October 6th 2017 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 3:46
+LEFT ON BASE- Red Sox: 9  White Sox:11
+DOUBLE PLAYS- Red Sox: 1  White Sox: 0
+ERRORS- X.Bogaerts, T.Saladino
+DOUBLES- X.Bogaerts(1st), T.Shaw(1st), M.Moreland(1st), J.Lucroy(1st),
+         T.Saladino(1st)
+TRIPLES- T.La Stella(1st)
+HOME RUNS- D.Ortiz-2(2nd), N.Reimold(1st), J.Abreu(2nd)
+RBIs- M.Betts-3(6th), D.Ortiz-5(7th), T.Shaw(1st), D.Pedroia(5th), A.Jones(1st),
+      M.Moreland(2nd), N.Reimold-2(2nd), J.Altuve(1st), J.Abreu(2nd),
+      T.Thompson(1st)
+STOLEN BASES- J.Altuve(1st)
+SACRIFICE FLIES- A.Jones
+WALKS- X.Bogaerts, D.Ortiz-2, T.Shaw, A.Duvall, T.Flowers, R.Braun, T.La Stella,
+       T.Thompson
+STRIKE OUTS- M.Betts, X.Bogaerts, T.Shaw-3, D.Pedroia, A.Duvall, T.Flowers-3,
+             J.Abreu-2, R.Braun-2, T.Saladino, A.Jackson-3, T.La Stella
+GIDP- J.Lucroy
+WILD PITCHES- S.Wright-2, C.Tillman, D.McGowan
+2-out RBI- D.Ortiz-5, M.Betts-3, T.Thompson, N.Reimold
+RLISP 2-out- J.Lucroy-2, M.Moreland, R.Braun, T.Flowers, J.Altuve, A.Jones-2,
+             T.La Stella-2, K.Kiermaier
+TEAM RISP- Red Sox: 9 for 14  White Sox: 3 for 14
+
+David Ortiz slammed 2 homeruns and had 5 RBI as the Boston Red Sox defeated
+the Chicago (AL) White Sox 13 to 7 at US Cellular Field.
+
+Ortiz was unconscious all evening.  The Chicago (AL) fans hated to see him
+approaching the batter's box as he just kept delivering base hits! He clubbed
+a two-run home run in the 3rd inning, belted a three-run homer in the 4th
+inning and delivered a one-base hit in the 6th inning.  Due to a poorly
+pitched ballgame, scoring in 6 different innings was still not enough for
+Chicago (AL) to come away with the victory.  
+
+The win was credited to Steven Wright(1-0) who went 5 and 2/3 innings allowing
+4 runs. Chris Tillman(0-1) absorbed the loss.  He allowed 10 hits and 2 walks
+in 4 and 2/3 innings.  
+
+'I was really seeing the ball tonight,' Ortiz said 'I wish it was always this
+easy.'
+[2]
+[1]SCORESHEET: 2017 Boston Red Sox at 2017 Chicago (AL) White Sox
+M.Betts-A1   A1:G/43    B1:L/6     C1:Si>2#   D1:Si>3#   *7*:F/7    *9*:K
+                                   13         2#                    
+                                                                    
+X.Bogaer-A1  A2:F/8     B2:Do      C2:WP>3#   D2:F/9     E2:W>b1    F2:K
+                                   12 Si>23                         
+                                                                    
+D.Ortiz-A1   A3:G/63    B3:HR>2#   C3:HR>3#   *6*:Si     E3:W>12 b  F3:W>b1
+                        b#         1# b#                 1          
+                                                                    
+T.Shaw-A1    *2*:K      B4:Si      C4:K       D4:W>12 b  E4:Do>2#   F4:K
+                                              1          13         
+                                                                    
+D.Pedroi-A1  A5:Si      B5:F/7     *5*:F/8    D5:Si>2#   E5:K
+                                              13         
+                                                         
+A.Jones-A1   A6:G/43>1  *4*:L/4    C6:Si      D6:SF/8>3  E6:F/7
+             2                                #          
+                                                         
+A.Duvall-A1  A7:W>b1    B7:L/6     C7:E/6>12  D7:F/7     *8*:K
+                                                         
+                                                         
+M.Morela-A1  A8:G/63    B8:Si      C8:Do>2#   D8:WP>12   E8:G/3
+                                   13         Si>23      
+                                                         
+T.Flower-A1  *3*:K      B9:W>12 b  C9:K       D9:G/53    E9:K
+C.Vazque-F1             1                                
+                                                         
+
+T.Anders-A1  A1:Si      B1:L/6     C1:F/8     D1:Si>3#   E1:HR>b#
+N.Reimol-D1                                   12         
+                                                         
+J.Altuve-A1  A2:Si>13   B2:G/63    C2:Si>3#   D2:P/6     E2:L/5
+                                   12                    
+                                                         
+J.Abreu-A1   A3:SB>12   *4*:G/63   C3:K       *7*:HR>b#  E3:L/5
+             K                                           
+                                                         
+R.Braun-A1   A4:K       B4:G/63    C4:G/63    D4:K       *9*:W>b1
+                                                         
+                                                         
+J.Lucroy-A1  A5:F/8     B5:Do      *6*:Si     D5:Si      E5:G-DP/5
+                                                         43>1o
+                                                         
+T.Saladi-A1  *2*:G/53   B6:WP>23   C6:K       D6:Do>13   E6:Si
+A.Avila-E6              WP>3# Si                         
+                                                         
+A.Jackso-A1  A7:G/13    B7:K       C7:K       D7:K       E7:Si>13
+A.Ramire-E7                                              
+                                                         
+T.La Ste-A1  A8:K       *5*:Tr     C8:W>12 b  D8:F/8     E8:E/6>3#
+M.Semien-E8                        1                     12 
+                                                         
+T.Thomps-A1  *3*:L/6    B9:W>b1    C9:Si>2#   *8*:G/13   E9:F/7
+K.Kierma-E9                        13                    
+                                                         
+
+

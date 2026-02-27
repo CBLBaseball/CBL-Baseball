@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2017 Boston Red Sox At 2017 Chicago (AL) White Sox        10/7/2017
+
+[1]  Red Sox            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  M.Betts RF          4  1  1  0 .444     G.Garcia 3B         3  0  0  0 .000  
+  X.Bogaerts SS       4  1  2  1 .389   I-A.Jackson PH        1  0  0  0 .000  
+  D.Ortiz DH          5  1  0  0 .400     D.Dietrich DH       3  0  0  0 .250  
+  H.Ramirez 1B        5  1  2  3 .455     J.Altuve 2B         4  0  0  0 .176  
+H-M.Moreland 1B       0  0  0  0 .571     R.Braun LF          3  0  2  0 .143  
+  D.Pedroia 2B        4  0  1  0 .353     J.Lucroy C          4  0  0  0 .267  
+  A.Duvall LF         5  0  1  0 .133     J.Abreu 1B          2  0  0  0 .154  
+  A.Jones CF          4  0  2  0 .200     M.Semien SS         1  0  0  0 .000  
+  D.Butera C          2  0  0  0 .250   A-T.Saladino PH,SS    1  0  0  0 .300  
+B-T.Shaw PH,3B        2  1  1  0 .333   D-T.La Stella PH      0  0  0  0 .333  
+  H.Perez 3B          2  0  1  0 .143   E-A.Ramirez PH,SS,RF  2  0  0  0 .250  
+C-T.Flowers C         1  0  0  0 .000     N.Reimold RF        1  0  0  0 .500  
+G-C.Vazquez C         1  0  0  0 .200   F-T.Anderson PH,RF,SS 2  0  0  0 .077  
+                                          K.Kiermaier CF      4  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  5 11  4                 Totals      31  0  2  0
+
+A-Pinch Hit For Semien In 4th Inning
+B-Pinch Hit For Butera In 7th Inning
+C-Subbed Defensively (C ) For Perez In 7th Inning
+D-Pinch Hit For Saladino In 7th Inning
+E-Pinch Hit For La Stella In 7th Inning
+F-Pinch Hit For Reimold In 7th Inning
+G-Subbed Defensively (C ) For Flowers In 9th Inning
+H-Subbed Defensively (1B) For Ramirez In 10th Inning
+I-Pinch Hit For Garcia In 10th Inning
+
+Red Sox......... 0 0 0  0 0 0  0 0 0  5 -  5 11  0
+White Sox....... 0 0 0  0 0 0  0 0 0  0 -  0  2  2
+
+[1]Red Sox (4-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Buchholz                   4 2/3   1   0   0   5   2   0   0.00  A1 C2
+S.Kelley                     1 1/3   0   0   0   0   1   0   0.00  C3 C6
+T.Rogers                     1 2/3   0   0   0   0   2   0   0.00  C7 D2
+A.Reed WIN(1-0)              1 1/3   1   0   0   0   1   0   2.25  D3 D7
+T.Thornburg                  1       0   0   0   0   1   0   0.00  D8
+[1]Totals                   10       2   0   0   5   7   0
+
+[1]White Sox (0-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale                       6 2/3   6   0   0   0   3   0   5.27  A1 C7
+M.Gonzalez LOSS(0-1)         3       3   3   1   2   2   0   7.50  C8 E2
+N.Jones                      0 1/3   2   2   0   0   1   1   0.00  E3
+[1]Totals                   10      11   5   1   2   6   1
+
+ATTENDANCE- 36,828 DATE- Saturday, October 7th 2017 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:02
+LEFT ON BASE- Red Sox: 7  White Sox: 7
+DOUBLE PLAYS- Red Sox: 1  White Sox: 2
+ERRORS- J.Abreu, T.Anderson
+HOME RUNS- H.Ramirez(2nd)
+RBIs- X.Bogaerts(1st), H.Ramirez-3(6th)
+CAUGHT STEALING- H.Perez
+WALKS- M.Betts, D.Pedroia, G.Garcia, D.Dietrich, R.Braun, J.Abreu, N.Reimold
+HIT BY PITCH- X.Bogaerts, J.Abreu
+STRIKE OUTS- M.Betts, X.Bogaerts, A.Duvall, D.Butera-2, T.Flowers, G.Garcia,
+             D.Dietrich, J.Abreu-2, T.Anderson, K.Kiermaier-2
+GIDP- D.Pedroia, A.Duvall, J.Lucroy
+2-out RBI- X.Bogaerts, H.Ramirez-3
+RLISP 2-out- K.Kiermaier-2, J.Altuve, T.Shaw
+TEAM RISP- Red Sox: 2 for 5  White Sox: 0 for 3
+
+Hanley Ramirez homered and had 3 RBI at US Cellular Field as the Boston Red
+Sox beat the Chicago (AL) White Sox in 10 innings by the count of 5 to
+0.
+
+The game was a scoreless tie after nine.  Finally, Boston prevailed in the
+10th inning.  The key offensive moment was provided by Ramirez who silenced
+the stadium when he lofted a three-run 'big-fly'.  Boston finished with 11
+hits while Chicago (AL) ended up with 2.  
+
+Addison Reed(1-0) got the win allowing no runs in 1 and 1/3 innings. Miguel
+Gonzalez(0-1) absorbed the loss in relief.  He surrendered 3 runs and 3 hits
+in 3 innings.
+[2]
+[1]SCORESHEET: 2017 Boston Red Sox at 2017 Chicago (AL) White Sox
+M.Betts-A1   A1:F/9     B1:K       C1:CS/24>  D1:Si      E1:IW>b1
+                                   1o F/8                
+                                                         
+X.Bogaer-A1  A2:Si      *4*:G/63   C2:HBP     D2:K       E2:Si>2#
+                                                         13
+                                                         
+D.Ortiz-A1   A3:F/7     B3:G/63    C3:G/43    D3:G/43    E3:E/3>3#
+                                                         12 
+                                                         
+H.Ramire-A1  A4:F/8     B4:L/6     *7*:Si     *9*:P/5    E4:HR>2#
+M.Morela-E7                                              1# b#
+                                                         
+D.Pedroi-A1  *2*:L/5    *5*:G/13   C5:G-DP/5  D5:W>b1    E5:Si
+                                   43>1o                 
+                                                         
+A.Duvall-A1  A6:F/8     B6:F/7     C6:Si      D6:G-DP/6  E6:K
+                                              43>1o      
+                                                         
+A.Jones-A1   A7:F/9     B7:Si      C7:Si>12   *10*:L/5
+                                              
+                                              
+D.Butera-A1  *3*:K      B8:K       C8:F/8     D8:Si+E/6
+T.Shaw-C8                                     
+                                              
+H.Perez-A1   A9:P/4     *6*:Si     *8*:K      D9:G/63
+T.Flower-C9                                   
+C.Vazque-D7                                   
+
+G.Garcia-A1  A1:L/4     *3*:K      C1:W>b1    *8*:G/3    E1:L/5
+A.Jackso-E1                                              
+                                                         
+D.Dietri-A1  A2:L/4     B2:K       C2:W>12 b  D2:G/63
+                                   1          
+                                              
+J.Altuve-A1  A3:F/7     B3:F/9     C3:L/6     D3:F/8
+                                              
+                                              
+R.Braun-A1   *2*:Si     *4*:W>b1   *6*:G/63   *9*:Si
+                                              
+                                              
+J.Lucroy-A1  A5:F/9     B5:G-DP/5  C5:G/43    D5:L/6
+                        43>1o                 
+                                              
+J.Abreu-A1   A6:W>12 b  B6:HBP     C6:K       D6:K
+             1                                
+                                              
+M.Semien-A1  A7:F/8     B7:G/53    *7*:G/63   D7:G/53
+T.Saladi-B7                                   
+T.La Ste-C7+                                  
+N.Reimol-A1  A8:W>23 1  *5*:F/9    C8:K       *10*:G/53
+T.Anders-C8  2 b1                             
+                                              
+K.Kierma-A1  A9:F/7     B9:G/43    C9:K       D9:K
+                                              
+                                              
+
+

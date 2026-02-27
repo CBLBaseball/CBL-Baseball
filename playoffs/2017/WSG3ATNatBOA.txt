@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2017 Atlanta Braves At 2017 Boston Red Sox               10/26/2017
+
+[1]  Braves             AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  B.Phillips 2B       4  0  0  0 .295     M.Betts RF          4  1  1  0 .379  
+  C.Yelich LF         5  1  1  0 .203     D.Pedroia 2B        5  1  2  1 .315  
+  M.Kemp RF           3  1  1  0 .206     D.Ortiz DH          4  0  0  0 .294  
+B-M.Kepler PH,RF      2  0  0  0 .207     H.Ramirez 1B        5  1  1  2 .282  
+  F.Freeman 1B        3  1  0  0 .333     X.Bogaerts SS       4  0  0  0 .339  
+  A.Garcia 3B         3  1  1  0 .200     T.Shaw 3B           2  0  2  0 .259  
+C-L.Valbuena PH,3B    0  0  0  0 .294   G-H.Perez PR,3B       0  0  0  0 .333  
+  C.Blackmon DH       4  0  1  2 .357     A.Jones CF          4  1  2  0 .311  
+  C.Maybin CF         2  1  1  2 .167     A.Duvall LF         4  0  0  0 .200  
+F-M.Smith CF          0  0  0  0 .000     T.Flowers C         3  0  1  1 .318  
+  R.Chirinos C        1  0  0  0 .000   A-D.Butera C          1  0  0  0 .273  
+D-J.Realmuto PH,C     1  0  0  0 .347                                          
+  D.Swanson SS        3  0  1  1 .308                                          
+E-A.Simmons PH,SS     1  0  0  0 .158                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  5  6  5                 Totals      36  4  9  4
+
+A-Subbed Defensively (C ) For Flowers In 7th Inning
+B-Pinch Hit For Kemp In 7th Inning
+C-Pinch Hit For Garcia In 7th Inning
+D-Pinch Hit For Chirinos In 8th Inning
+E-Pinch Hit For Swanson In 8th Inning
+F-Subbed Defensively (CF) For Maybin In 8th Inning
+G-Pinch Ran For Shaw In 8th Inning
+
+Braves.......... 0 0 0  3 0 0  2 0 0  -  5  6  0
+Red Sox......... 2 1 0  0 1 0  0 0 0  -  4  9  0
+
+[1]Braves (9-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guerra WIN(3-0)            7       8   4   4   4   9   1   2.33  A1 D6
+D.Coulombe                   0       1   0   0   0   0   0   0.00  D7 D7
+C.Kimbrel SAVE(3rd)          2       0   0   0   1   4   0   2.25  D8
+[1]Totals                    9       9   4   4   5  13   1
+
+[1]Red Sox (10-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hill                       6       4   3   3   4   6   0   3.18  A1 C9
+C.Rusin HOLD(1st)            0 1/3   1   1   1   0   0   0   4.50  D1 D2
+S.Kelley LOSS(0-1) H(4th)    0 1/3   0   1   1   1   1   0   2.84  D3 D4
+A.Reed BS(2nd)               1 2/3   1   0   0   1   2   0   3.48  D5 E1
+T.Rogers                     0 2/3   0   0   0   0   0   0   1.59  E2
+[1]Totals                    9       6   5   5   6   9   0
+
+ATTENDANCE- 35,553 DATE- Thursday, October 26th 2017 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:40
+LEFT ON BASE- Braves: 7  Red Sox:10
+DOUBLE PLAYS- Braves: 0  Red Sox: 0
+DOUBLES- C.Yelich(2nd), C.Blackmon(5th), M.Betts(3rd)
+HOME RUNS- H.Ramirez(3rd)
+RBIs- C.Blackmon-2(10th), C.Maybin-2(6th), D.Swanson(4th), D.Pedroia(10th),
+      H.Ramirez-2(10th), T.Flowers(3rd)
+STOLEN BASES- C.Maybin(1st)
+WALKS- B.Phillips, F.Freeman, L.Valbuena, C.Maybin-2, R.Chirinos, M.Betts,
+       D.Ortiz, X.Bogaerts, T.Shaw-2
+HIT BY PITCH- R.Chirinos
+STRIKE OUTS- M.Kemp, M.Kepler, F.Freeman, A.Garcia, C.Maybin, R.Chirinos,
+             J.Realmuto, D.Swanson-2, M.Betts, D.Pedroia-2, D.Ortiz,
+             H.Ramirez-2, X.Bogaerts-3, A.Jones, A.Duvall, T.Flowers, D.Butera
+BALKS- J.Guerra
+WILD PITCHES- D.Coulombe
+2-out RBI- H.Ramirez-2, T.Flowers, C.Maybin-2, D.Swanson, C.Blackmon-2
+RLISP 2-out- B.Phillips, T.Flowers-2, A.Jones-2, D.Swanson, D.Pedroia-2
+TEAM RISP- Braves: 3 for 7  Red Sox: 4 for 11
+WEB GEMS- Top 7th: Drew Butera blocked the plate, saving a run!
+
+35,553 fans watched an exciting game at Fenway Park.  The Atlanta Braves ended
+a long winless drought and topped the Boston Red Sox by the slimmest of
+margins, 5 to 4.
+
+Atlanta took the lead for keeps in the 7th inning when they came up with 2
+runs on 2 hits.  The highlight belonged to Charlie Blackmon who quieted the
+home crowd when he doubled scoring two baserunners.  Despite losing, Boston
+out-hit Atlanta 9 to 6.  
+
+Junior Guerra(3-0) was the winner allowing 4 runs in 7 innings. Craig Kimbrel
+was credited with his 3rd save.  Shawn Kelley(0-1) was given the loss in
+relief.  
+
+'Wow.  That's about all I can think to say.' said Fredi Gonzalez following the
+victory.  'If ever a team needed a win, it was us.'
+[2]
+[1]SCORESHEET: 2017 Atlanta Braves at 2017 Boston Red Sox
+B.Philli-A1  A1:W>b1    B1:L/5     C1:G/43    *7*:F/7    *9*:G/43
+                                                         
+                                                         
+C.Yelich-A1  A2:F/7     B2:F/9     *5*:F/9    D2:Do      E2:G/31
+                                                         
+                                                         
+M.Kemp-A1    A3:K       *4*:Si     C3:G/63    D3:K       E3:F/7
+M.Kepler-D3                                              
+                                                         
+F.Freema-A1  A4:G/43    B4:P/3     C4:K       D4:IW>b1
+                                              
+                                              
+A.Garcia-A1  *2*:K      B5:Si>12   *6*:F/7    D5:W>23 1
+L.Valbue-D5                                   2 b1
+                                              
+C.Blackm-A1  A6:L/4     B6:G/43>2  C6:F/7     D6:Do>3#
+                        3 12                  2# 1o
+                                              
+C.Maybin-A1  A7:W>b1    B7:Si>3#   C7:W>b1    *8*:K
+M.Smith-E1              2#                    
+                                              
+R.Chirin-A1  A8:K       B8:SB>12   C8:W>12 b  D8:K
+J.Realmu-D8             HBP        1          
+                                              
+D.Swanso-A1  *3*:K      B9:Si>2#   C9:K       D9:FO/2
+A.Simmon-D9             13                    
+                                              
+
+M.Betts-A1   A1:P/4     B1:F/8     *5*:Do     D1:K       E1:IW>b1
+                                                         
+                                                         
+D.Pedroi-A1  A2:Si      *3*:G/43   C2:Si>2#   *7*:K      E2:K
+                                                         
+                                                         
+D.Ortiz-A1   A3:K       B3:FO/2    C3:G/43>1  D3:W>b1    *9*:F/8
+                                   2                     
+                                                         
+H.Ramire-A1  A4:HR>1#   B4:G/53    C4:F/8     D4:K       E4:K
+             b#                                          
+                                                         
+X.Bogaer-A1  A5:K       *4*:G/53   C5:W>b1    D5:K       E5:K
+                                                         
+                                                         
+T.Shaw-A1    *2*:Si     B6:W>b1    C6:Si>23   *8*:W>b1
+H.Perez-D7                         12         
+                                              
+A.Jones-A1   A7:Force/  B7:Si>12   C7:K       D7:WP>12
+             54>1o b1                         Si>23
+                                              
+A.Duvall-A1  A8:G/3>12  B8:Bk>23   *6*:K      D8:G/31>1
+                        12 P/6                2
+                                              
+T.Flower-A1  A9:Si>2#   B9:G/23    C9:K       D9:K
+D.Butera-D2                                   
+                                              
+
+

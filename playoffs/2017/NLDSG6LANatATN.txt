@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2017 Los Angeles(NL) Dodgers At 2017 Atlanta Braves      10/10/2017
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  C.Seager SS         4  0  0  0 .105     C.Yelich LF         4  2  2  2 .192  
+  D.Murphy 2B         4  0  0  0 .120     J.Realmuto C        4  0  1  0 .333  
+  C.Beltran DH        4  0  2  0 .389     C.Blackmon DH       2  1  0  0 .300  
+  J.Pederson CF       2  0  0  0 .091     B.Phillips 2B       4  0  2  2 .320  
+  E.Encarnacion 1B    4  0  0  0 .300     F.Freeman 1B        1  0  0  0 .444  
+  J.Reddick RF        4  1  2  1 .250     M.Smith CF          3  0  0  0 .000  
+  Y.Grandal C         4  0  0  0 .077     M.Kepler RF         4  0  0  0 .308  
+  J.Turner 3B         3  0  0  0 .105     A.Simmons SS        4  0  1  0 .143  
+  A.Toles LF          3  0  2  0 .600     L.Valbuena 3B       2  2  2  1 .222  
+A-M.Saunders PH       1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  1  6  1                 Totals      28  5  8  5
+
+A-Pinch Hit For Toles In 9th Inning
+
+Dodgers......... 0 0 0  0 1 0  0 0 0  -  1  6  1
+Braves.......... 2 1 0  2 0 0  0 0    -  5  8  0
+
+[1]Dodgers (2-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Fernandez LOSS(0-2)        4       6   5   4   4   4   2   9.00  A1 C4
+K.Lobstein                   1 2/3   1   0   0   0   1   0   2.70  C5 D1
+G.Kontos                     2 1/3   1   0   0   2   1   0   4.50  D2
+[1]Totals                    8       8   5   4   6   6   2
+
+[1]Braves (4-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Teheran WIN(2-0)           9       6   1   1   3   4   1   1.53  A1
+[1]Totals                    9       6   1   1   3   4   1
+
+ATTENDANCE- 47,016 DATE- Tuesday, October 10th 2017 TIME- Night 
+UMPIRES- Doug Eddings, Marvin Hudson, Cory Blaser, Jim Joyce
+T- 2:48
+LEFT ON BASE- Dodgers: 8  Braves: 8
+DOUBLE PLAYS- Dodgers: 3  Braves: 0
+ERRORS- C.Seager
+DOUBLES- J.Reddick(1st), B.Phillips(1st), A.Simmons(1st)
+HOME RUNS- J.Reddick(1st), C.Yelich(1st), L.Valbuena(1st)
+RBIs- J.Reddick(1st), C.Yelich-2(2nd), B.Phillips-2(2nd), L.Valbuena(1st)
+SACRIFICE HITS- M.Smith, L.Valbuena
+WALKS- J.Pederson-2, J.Turner, C.Yelich, C.Blackmon, F.Freeman-3, L.Valbuena
+HIT BY PITCH- C.Blackmon
+STRIKE OUTS- E.Encarnacion-2, Y.Grandal, A.Toles, C.Yelich, J.Realmuto,
+             C.Blackmon, M.Smith, A.Simmons-2
+GIDP- C.Yelich, J.Realmuto, M.Smith
+2-out RBI- C.Yelich-2
+RLISP 2-out- M.Kepler-3, B.Phillips, J.Realmuto, C.Seager, M.Saunders
+TEAM RISP- Dodgers: 0 for 4  Braves: 1 for 8
+
+Julio Teheran completed the game without help from the bullpen as the Atlanta
+Braves outscored the Los Angeles(NL) Dodgers 5 to 1.
+
+Atlanta jumped out to the early lead in the first inning plating 2 runs using
+2 hits.  Christian Yelich led off and started the rally when he slapped a
+one-base hit.  J.T. Realmuto struck out, unable to help the rally.  Charlie
+Blackmon then reached on an error.  Brandon Phillips came up and he stroked a
+base-hit plating two runs.  That scoring would be all that was needed.
+Atlanta had a total of 8 hits for the game.  
+
+Teheran(2-0) finished the game allowing 1 run in the victory. Jose
+Fernandez(0-2) took the loss.  He gave up 5 runs in 4 innings of work.  
+
+[2]
+[1]SCORESHEET: 2017 Los Angeles(NL) Dodgers at 2017 Atlanta Braves
+C.Seager-A1  A1:F/8     B1:G/43    C1:G/43    D1:L/4
+                                              
+                                              
+D.Murphy-A1  A2:F/8     *4*:P/4    *6*:FO/2   *8*:FO/2
+                                              
+                                              
+C.Beltra-A1  A3:G/3     B3:G/63    C3:Si      D3:Si
+                                              
+                                              
+J.Peders-A1  *2*:W>b1   B4:W>b1    C4:F/7     D4:P/4
+                                              
+                                              
+E.Encarn-A1  A5:K       B5:K       C5:G/43    D5:G/53
+                                              
+                                              
+J.Reddic-A1  A6:P/6     *5*:HR>b#  *7*:P/2    *9*:Do
+                                              
+                                              
+Y.Granda-A1  A7:G/63    B7:P/4     C7:G/31    D7:K
+                                              
+                                              
+J.Turner-A1  *3*:F/7    B8:L/6     C8:W>b1    D8:G/63
+                                              
+                                              
+A.Toles-A1   A9:K       B9:Si      C9:Si>12   D9:F/7
+M.Saunde-D9                                   
+                                              
+
+C.Yelich-A1  A1:Si      B1:W>b1    C1:HR>1#   D1:K       E1:G-DP/4
+                                   b#                    63>1o
+                                                         
+J.Realmu-A1  A2:K       B2:G-DP/1  C2:Si      D2:G/63
+                        63>1o                 
+                                              
+C.Blackm-A1  A3:E/6>13  *3*:K      C3:HBP>12  *7*:W>b1
+             b2                               
+                                              
+B.Philli-A1  A4:Si>3#   B4:Do      C4:G/53    D4:Force/
+             2#                               36>1o b1
+                                              
+F.Freema-A1  A5:W>12 b  B5:IW>b1   *5*:G/43   D5:W>12 b
+             1                                1
+                                              
+M.Smith-A1   A6:K       B6:G-DP/4  C6:G/63    D6:Sac/24
+                        63>1o                 >23 12
+                                              
+M.Kepler-A1  A7:G/13    *4*:G/43   C7:G/43    D7:L/4
+                                              
+                                              
+A.Simmon-A1  *2*:G/53   B8:K       *6*:Do     *8*:K
+                                              
+                                              
+L.Valbue-A1  A9:HR>b#   B9:W>b1    C9:Sac/24  D9:Si
+                                   >23        
+                                              
+
+

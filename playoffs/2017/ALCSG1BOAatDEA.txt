@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2017 Boston Red Sox At 2017 Detroit Tigers               10/13/2017
+
+[1]  Red Sox            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  M.Betts RF          5  1  1  2 .391     L.Forsythe 2B       5  2  4  1 .308  
+  X.Bogaerts SS       4  0  0  0 .318     J.Werth LF          4  0  0  0 .192  
+  D.Ortiz DH          4  1  1  1 .368   C-B.Holt LF           0  0  0  0 .600  
+  D.Pedroia 2B        4  0  0  0 .286     M.Trout CF          3  1  0  0 .222  
+  H.Ramirez 1B        4  0  2  0 .467     A.Beltre 3B         3  1  2  1 .367  
+  A.Jones CF          3  0  2  0 .278     V.Martinez DH       4  0  2  1 .333  
+B-H.Perez PH,CF       1  0  0  0 .125     S.Pearce 1B         3  0  0  0 .357  
+  A.Duvall LF         2  0  0  0 .118   A-A.Lind 1B           1  0  1  0 .222  
+D-A.Benintendi PH     1  0  0  0 .000     C.Gonzalez RF       4  0  0  0 .100  
+  T.Shaw 3B           3  0  0  0 .250     J.McCann C          4  0  0  0 .059  
+E-M.Moreland PH       0  0  0  0 .571     J.Iglesias SS       4  0  2  0 .160  
+  T.Flowers C         3  1  2  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  8  3                 Totals      35  4 11  3
+
+A-Subbed Defensively (1B) For Pearce In 7th Inning
+B-Pinch Hit For Jones In 8th Inning
+C-Subbed Defensively (LF) For Werth In 9th Inning
+D-Pinch Hit For Duvall In 9th Inning
+E-Pinch Hit For Shaw In 9th Inning
+
+Red Sox......... 0 0 0  0 0 1  2 0 0  -  3  8  0
+Tigers.......... 1 0 2  0 0 1  0 0    -  4 11  0
+
+[1]Red Sox (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lester LOSS(1-1)           8      11   4   4   1   7   1   3.00  A1
+[1]Totals                    8      11   4   4   1   7   1
+
+[1]Tigers (5-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander WIN(2-1)         6 1/3   7   2   2   1   2   1   1.69  A1 C9
+C.Devenski HOLD(2nd)         1 1/3   1   1   1   0   2   1   2.08  D1 D5
+B.Hand HOLD(1st)             0 1/3   0   0   0   0   0   0   6.75  D6 D6
+A.Chapman SAVE(1st)          1       0   0   0   1   2   0   2.25  D7
+[1]Totals                    9       8   3   3   2   6   2
+
+ATTENDANCE- 37,463 DATE- Friday, October 13th 2017 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 2:28
+LEFT ON BASE- Red Sox: 7  Tigers: 9
+DOUBLE PLAYS- Red Sox: 0  Tigers: 1
+DOUBLES- L.Forsythe(1st), J.Iglesias(2nd)
+TRIPLES- T.Flowers(1st), L.Forsythe(1st)
+HOME RUNS- M.Betts(3rd), D.Ortiz(3rd), L.Forsythe(2nd)
+RBIs- M.Betts-2(8th), D.Ortiz(8th), L.Forsythe(3rd), A.Beltre(7th),
+      V.Martinez(1st)
+STOLEN BASES- J.Iglesias(1st)
+WALKS- A.Duvall, M.Moreland, A.Beltre
+HIT BY PITCH- T.Flowers, M.Trout
+STRIKE OUTS- X.Bogaerts-2, D.Ortiz-2, A.Benintendi, T.Flowers, C.Gonzalez-2,
+             J.McCann-4, J.Iglesias
+GIDP- A.Jones
+WILD PITCHES- J.Lester, J.Verlander
+2-out RBI- A.Beltre, L.Forsythe
+RLISP 2-out- S.Pearce, T.Shaw, J.Werth, D.Ortiz, J.McCann, M.Trout, A.Duvall,
+             L.Forsythe-2
+TEAM RISP- Red Sox: 1 for 4  Tigers: 3 for 13
+
+Logan Forsythe hit for the cycle as the Detroit Tigers bested the Boston Red
+Sox 4 to 3 at Comerica Park.
+
+Justin Verlander(2-1) earned his pay with a solid performance for Detroit.  He
+went 6 and 1/3 innings and surrended up 7 hits and 1 walk.  Detroit had 11
+hits for the game and Boston had 8.  
+
+Aroldis Chapman gained credit for his 1st save.  Jon Lester(1-1) was charged
+with the loss.  He allowed 4 runs and 11 hits in 8 innings.
+[2]
+[1]SCORESHEET: 2017 Boston Red Sox at 2017 Detroit Tigers
+M.Betts-A1   A1:F/8     B1:FO/5    C1:L/6     D1:HR>3#   E1:G/13
+                                              b#         
+                                                         
+X.Bogaer-A1  A2:G/63    B2:G/43>1  *6*:K      D2:K
+                        2                     
+                                              
+D.Ortiz-A1   A3:K       B3:WP>23   C3:HR>b#   D3:K
+                        F/9                   
+                                              
+D.Pedroi-A1  *2*:F/8    *4*:G/63   C4:G/63    *8*:G/63
+                                              
+                                              
+H.Ramire-A1  A5:G/63    B5:Si      C5:Si      D5:G/63
+                                              
+                                              
+A.Jones-A1   A6:Si      B6:G-DP/6  C6:Si>12   D6:L/5
+H.Perez-D6              43>1o                 
+                                              
+A.Duvall-A1  A7:W>12 b  *5*:F/8    C7:P/6     *9*:K
+A.Benint-D7  1                                
+                                              
+T.Shaw-A1    A8:G/23    B8:F/9     *7*:G/63   D8:W>b1
+M.Morela-D8                                   
+                                              
+T.Flower-A1  *3*:Si     B9:HBP     C9:Tr      D9:K
+                                              
+                                              
+
+L.Forsyt-A1  A1:Tr      B1:Si>23   C1:Do      D1:HR>b#   E1:SB>12
+                                                         F/7
+                                                         
+J.Werth-A1   A2:P/2     B2:G/63    C2:G/63    D2:G/43
+B.Holt-E2                                     
+                                              
+M.Trout-A1   A3:L/6     *3*:HBP    C3:P/6     *7*:F/8
+                                              
+                                              
+A.Beltre-A1  A4:Si>3#   B4:W>12 b  *5*:Si     D4:F/7
+                        1                     
+                                              
+V.Martin-A1  A5:Si>12   B5:Si>2#   C5:F/9     D5:F/8
+                        13                    
+                                              
+S.Pearce-A1  A6:F/8     B6:L/5     C6:F/9     *8*:Si
+A.Lind-D3                                     
+                                              
+C.Gonzal-A1  *2*:K      B7:K       C7:G/43    D7:Force/
+                                              64>1o b1
+                                              
+J.McCann-A1  A8:K       B8:WP>3#   *6*:K      D8:K
+                        12 K                  
+                                              
+J.Iglesi-A1  A9:Do      *4*:K      C9:F/8     D9:Si>13
+                                              
+                                              
+
+

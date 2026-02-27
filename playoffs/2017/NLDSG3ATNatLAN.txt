@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2017 Atlanta Braves At 2017 Los Angeles(NL) Dodgers       10/6/2017
+
+[1]  Braves             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  C.Yelich LF         4  0  0  0 .154     J.Turner 3B         4  0  0  0 .091  
+  C.Maybin CF         2  2  1  1 .286     D.Murphy 2B         4  0  0  0 .154  
+B-A.Simmons SS        0  0  0  0 .333     E.Encarnacion 1B    3  0  2  0 .333  
+  M.Kemp RF           4  1  1  1 .111     C.Seager SS         4  0  1  0 .143  
+C-M.Smith CF          1  0  0  0 .000     J.Pederson CF       3  0  0  0 .000  
+  F.Freeman 1B        4  1  2  1 .455   F-M.Bourn PH          1  0  0  0 .200  
+  A.Garcia 3B         3  0  2  3 .375     Y.Grandal C         3  0  0  0 .000  
+E-L.Valbuena 3B       0  0  0  0 .000     J.Reddick RF        2  0  0  0 .000  
+  C.Blackmon DH       3  0  0  0 .300     C.Beltran DH        3  1  1  1 .286  
+  J.Realmuto C        5  0  0  0 .222     Y.Puig LF           2  0  0  0 .333  
+  B.Phillips 2B       4  1  1  0 .417   D-M.Saunders PH,LF    1  0  0  0 .000  
+  D.Swanson SS        2  1  1  1 .200                                          
+A-M.Kepler PH,RF      1  1  1  0 .600                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  7  9  7                 Totals      30  1  4  1
+
+A-Pinch Hit For Swanson In 7th Inning
+B-Subbed Defensively (SS) For Maybin In 7th Inning
+C-Subbed Defensively (CF) For Kemp In 7th Inning
+D-Pinch Hit For Puig In 8th Inning
+E-Subbed Defensively (3B) For Garcia In 9th Inning
+F-Pinch Hit For Pederson In 9th Inning
+
+Braves.......... 0 0 0  2 3 0  2 0 0  -  7  9  0
+Dodgers......... 0 0 0  0 0 0  0 1 0  -  1  4  0
+
+[1]Braves (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guerra WIN(1-0)            9       4   1   1   2   5   1   1.00  A1
+[1]Totals                    9       4   1   1   2   5   1
+
+[1]Dodgers (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Pomeranz LOSS(0-1)         9       9   7   7   8   9   0   7.00  A1
+[1]Totals                    9       9   7   7   8   9   0
+
+ATTENDANCE- 54,650 DATE- Friday, October 6th 2017 TIME- Night 
+UMPIRES- Mark Carlson, Scott Barry, Jeff Nelson, Laz Diaz
+T- 3:08
+LEFT ON BASE- Braves: 9  Dodgers: 4
+DOUBLE PLAYS- Braves: 1  Dodgers: 2
+DOUBLES- M.Kemp(1st), M.Kepler(1st)
+TRIPLES- F.Freeman(1st), B.Phillips(1st)
+HOME RUNS- C.Beltran(1st)
+RBIs- C.Maybin(2nd), M.Kemp(1st), F.Freeman(2nd), A.Garcia-3(4th),
+      D.Swanson(1st), C.Beltran(1st)
+SACRIFICE HITS- A.Simmons
+WALKS- C.Yelich, C.Maybin-2, F.Freeman, A.Garcia-2, C.Blackmon-2, E.Encarnacion,
+       J.Reddick
+HIT BY PITCH- M.Kepler
+STRIKE OUTS- C.Yelich-2, M.Kemp, M.Smith, F.Freeman-2, J.Realmuto, B.Phillips-2,
+             J.Turner, Y.Grandal-2, C.Beltran, M.Saunders
+GIDP- J.Realmuto-2, J.Pederson
+WILD PITCHES- D.Pomeranz
+2-out RBI- M.Kemp, F.Freeman, A.Garcia
+RLISP 2-out- A.Garcia, J.Realmuto-2, M.Smith-2
+TEAM RISP- Braves: 5 for 10  Dodgers: 0 for 1
+
+Junior Guerra went 9 strong innings at Dodger Stadium where the Atlanta Braves
+beat the Los Angeles(NL) Dodgers 7 to 1.
+
+Guerra(1-0) was very good in the win.  He was stingy on the mound, allowing
+just 4 hits and 2 walks in 9 innings.  Atlanta totaled 9 hits on the night.
+
+Drew Pomeranz(0-1) absorbed the loss.  He gave up 9 hits and 8 walks in 9
+innings.
+[2]
+[1]SCORESHEET: 2017 Atlanta Braves at 2017 Los Angeles(NL) Dodgers
+C.Yelich-A1  A1:K       B1:K       C1:L/4     D1:G/3>23  E1:W>12 b
+                                                         1
+                                                         
+C.Maybin-A1  A2:W>b1    *4*:W>b1   C2:F/7     D2:Si>3#   E2:Sac/24
+A.Simmon-D8                                              >23 12
+                                                         
+M.Kemp-A1    A3:F/8     B3:K       C3:Do>1#   D3:L/5     E3:K
+M.Smith-D8                                               
+                                                         
+F.Freema-A1  A4:K       B4:W>12 b  C4:Tr>3#   D4:Si>13   *9*:K
+                        1                                
+                                                         
+A.Garcia-A1  *2*:W>b1   B5:WP>23   C5:G/53    D5:Si>3#   E5:W>b1
+L.Valbue-E8             12 Si>3#              13         
+                        2#                               
+C.Blackm-A1  A6:L/3     B6:W>12 b  *6*:FO/3   D6:W>12 b  E6:F/8
+                        1                     1          
+                                                         
+J.Realmu-A1  A7:G-DP/1  B7:G-DP/1  C7:F/7     D7:F/9     E7:K
+             63>1o      63>1o                            
+                                                         
+B.Philli-A1  *3*:K      *5*:Tr     C8:K       *8*:L/4
+                                              
+                                              
+D.Swanso-A1  A9:L/6     B9:Si>3#   *7*:Do     D9:HBP
+M.Kepler-C9                                   
+                                              
+
+J.Turner-A1  A1:L/6     B1:K       *6*:L/6    D1:F/8
+                                              
+                                              
+D.Murphy-A1  A2:P/3     *4*:G/63   C2:P/4     D2:P/4
+                                              
+                                              
+E.Encarn-A1  A3:Si      B3:Si      C3:W>b1    *9*:L/6
+                                              
+                                              
+C.Seager-A1  A4:G/53    B4:Si>13   C4:G/23    D4:F/8
+                                              
+                                              
+J.Peders-A1  *2*:F/9    B5:G-DP/4  *7*:F/8    D5:G/43
+M.Bourn-D5              63>1o                 
+                                              
+Y.Granda-A1  A6:G/43    *5*:K      C6:K
+                                   
+                                   
+J.Reddic-A1  A7:P/4     B7:W>b1    C7:F/7
+                                   
+                                   
+C.Beltra-A1  *3*:K      B8:F/7     *8*:HR>b#
+                                   
+                                   
+Y.Puig-A1    A9:G/13    B9:G/63    C9:K
+M.Saunde-C9                        
+                                   
+
+

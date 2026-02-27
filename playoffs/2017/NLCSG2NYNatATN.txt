@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2017 New York (NL) Mets At 2017 Atlanta Braves           10/14/2017
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  W.Ramos C           4  0  1  0 .344     C.Maybin CF         4  0  0  0 .182  
+  B.Zobrist 2B        4  0  3  1 .172   B-M.Smith CF          0  0  0  0 .000  
+  M.Reynolds 1B       3  0  0  0 .176     C.Yelich LF         4  0  0  0 .147  
+  N.Markakis RF       4  0  0  0 .250     A.Garcia 3B         4  0  0  0 .176  
+  C.Granderson CF     4  0  0  0 .080     C.Blackmon DH       3  2  2  1 .370  
+  A.Pagan LF          4  0  0  0 .148     M.Kemp RF           3  0  1  0 .125  
+  J.Hardy SS          3  0  0  0 .200   A-M.Kepler RF         1  0  1  0 .294  
+  P.Alvarez DH        3  0  0  0 .222     J.Realmuto C        3  0  1  0 .320  
+  D.Wright 3B         2  1  0  0 .167     F.Freeman 1B        4  0  1  0 .375  
+                                          B.Phillips 2B       4  0  1  1 .281  
+                                          A.Simmons SS        3  0  1  0 .150  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      33  2  8  2
+
+A-Subbed Defensively (RF) For Kemp In 7th Inning
+B-Subbed Defensively (CF) For Maybin In 9th Inning
+
+Mets............ 0 0 0  0 0 1  0 0 0  -  1  4  0
+Braves.......... 0 0 0  1 0 0  0 0 1  -  2  8  1
+
+[1]Mets (5-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom                     6       6   1   1   0   7   1   1.38  A1 C6
+A.Liberatore                 0 2/3   0   0   0   0   0   0   0.00  C7 C8
+J.Blanton LOSS(1-1)          1 1/3   1   1   1   0   2   0   2.45  C9 D5
+A.Colome                     0 2/3   1   0   0   0   1   0   0.00  D6
+[1]Totals                    8 2/3   8   2   2   0  10   1
+
+[1]Braves (5-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guerra                     5       3   1   1   2   3   0   1.29  A1 C2
+A.Wood                       3       1   0   0   1   2   0   0.00  C3 D4
+A.Vizcaino WIN(1-0)          1       0   0   0   0   1   0   0.00  D5
+[1]Totals                    9       4   1   1   3   6   0
+
+ATTENDANCE- 49,333 DATE- Saturday, October 14th 2017 TIME- Night 
+UMPIRES- David Rackley, Brian Gorman, Tony Randazzo, Jim Wolf
+T- 2:27
+LEFT ON BASE- Mets: 7  Braves: 6
+DOUBLE PLAYS- Mets: 0  Braves: 0
+ERRORS- A.Garcia
+DOUBLES- B.Zobrist-2(2nd), F.Freeman(1st)
+HOME RUNS- C.Blackmon(2nd)
+RBIs- B.Zobrist(3rd), C.Blackmon(4th), B.Phillips(3rd)
+SACRIFICE HITS- J.Hardy
+WALKS- M.Reynolds, P.Alvarez, D.Wright
+HIT BY PITCH- C.Blackmon, J.Realmuto
+STRIKE OUTS- M.Reynolds, N.Markakis, C.Granderson, P.Alvarez-2, D.Wright,
+             C.Maybin-3, C.Yelich, A.Garcia-2, M.Kemp, J.Realmuto, F.Freeman,
+             B.Phillips
+2-out RBI- C.Blackmon, B.Phillips
+RLISP 2-out- C.Granderson-3, F.Freeman, P.Alvarez
+TEAM RISP- Mets: 1 for 7  Braves: 1 for 4
+
+In a thriling finish the Atlanta Braves pulled off the win over the New York
+(NL) Mets by a score of 2 to 1 at Turner Field.
+
+The deciding run was scored by Atlanta in the 9th.  Charlie Blackmon was hit
+by a pitch.  Max Kepler stepped into the batter's box and he lashed a single.
+J.T. Realmuto got his turn next, but he was a strikeout victim.  One out
+later, Brandon Phillips came to bat and laced a base-hit resulting in an
+exciting win for Atlanta and a wild post-game celebration by the home town
+fans.  Atlanta ended up with 8 hits for the game while New York (NL) had 4.
+
+Arodys Vizcaino(1-0) allowed no runs in 1 inning, and picked up the victory.
+Joe Blanton(1-1) was the losing pitcher in relief.  He allowed 1 hit and no
+walks in 1 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2017 New York (NL) Mets at 2017 Atlanta Braves
+W.Ramos-A1   A1:F/8     B1:F/7     C1:Si>13   *8*:F/7
+                                              
+                                              
+B.Zobris-A1  A2:Do      B2:G/13    C2:Do>3#   D2:Si
+                                   13         
+                                              
+M.Reynol-A1  A3:W>b1    *4*:G/63   C3:G/13    D3:K
+                                              
+                                              
+N.Markak-A1  A4:L/4     B4:F/9     C4:G/63    D4:K
+                                              
+                                              
+C.Grande-A1  A5:G/13    B5:K       C5:F/7     *9*:E/5
+                                              
+                                              
+A.Pagan-A1   *2*:F/8    *5*:G/43   *7*:G/53   D6:P/6
+                                              
+                                              
+J.Hardy-A1   A7:FO/2    B7:G/63    C7:L/5     D7:Sac/14
+                                              >12
+                                              
+P.Alvare-A1  A8:K       B8:G/63    C8:W>b1    D8:K
+                                              
+                                              
+D.Wright-A1  *3*:K      *6*:W>b1   C9:L/6
+                                   
+                                   
+
+C.Maybin-A1  A1:L/6     B1:K       C1:K       *8*:K
+M.Smith-D4                                    
+                                              
+C.Yelich-A1  A2:F/8     *4*:L/4    C2:K       D2:F/8
+                                              
+                                              
+A.Garcia-A1  A3:K       B3:G/63    *6*:G/43   D3:K
+                                              
+                                              
+C.Blackm-A1  *2*:Si     B4:HR>b#   C4:F/8     *9*:HBP
+                                              
+                                              
+M.Kemp-A1    A5:Force/  B5:Si      C5:K       D5:Si>13
+M.Kepler-C6  26>1o b1                         
+                                              
+J.Realmu-A1  A6:F/8     B6:HBP>12  *7*:Si     D6:K
+                                              
+                                              
+F.Freema-A1  A7:Do>1o   B7:K       C7:F/9     D7:G/13>1
+                                              2
+                                              
+B.Philli-A1  *3*:K      *5*:L/6    C8:F/7     D8:Si>3#
+                                              23
+                                              
+A.Simmon-A1  A9:G/43    B9:Si      C9:FO/2
+                                   
+                                   
+
+

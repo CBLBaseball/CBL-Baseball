@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2017 Chicago (NL) Cubs At 2017 New York (NL) Mets         10/7/2017
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Fowler CF         4  1  3  1 .357     B.Zobrist 2B        3  0  0  0 .071  
+  A.Gonzalez 1B       4  0  1  1 .294     N.Markakis RF       4  0  0  0 .200  
+  K.Bryant LF,3B      2  0  0  0 .100     S.Drew DH           4  0  0  0 .000  
+  S.Castro 2B         4  0  0  0 .111     W.Ramos C           4  0  2  0 .400  
+  Y.Alonso DH         4  0  1  0 .063     C.Granderson CF     3  0  0  0 .091  
+  J.Baez 3B           2  1  1  0 .167     M.Reynolds 1B       4  0  1  0 .143  
+A-A.Almora PH,LF      1  0  0  0 .000     A.Pagan LF          3  0  0  0 .154  
+  A.Russell SS        3  1  1  0 .231   D-S.Rodriguez PH      1  0  0  0 .250  
+  J.Heyward RF        4  0  0  0 .231     C.Gillaspie 3B      3  0  1  0 .200  
+  R.Rivera C          3  0  1  1 .333   E-P.Alvarez PH        1  0  0  0 .286  
+                                          C.Pennington SS     2  0  0  0 .000  
+                                        B-W.Flores PH         1  0  1  0 .400  
+                                        C-J.Hardy SS          0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  8  3                 Totals      33  0  5  0
+
+A-Pinch Hit For Baez In 7th Inning
+B-Pinch Hit For Pennington In 8th Inning
+C-Subbed Defensively (SS) For Flores In 9th Inning
+D-Pinch Hit For Pagan In 9th Inning
+E-Pinch Hit For Gillaspie In 9th Inning
+
+Cubs............ 0 0 0  0 2 0  0 1 0  -  3  8  1
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Cubs (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Cueto WIN(2-0)             7       2   0   0   2   7   0   0.60  A1 C8
+C.Edwards Jr HOLD(1st)       1       1   0   0   0   3   0   0.00  C9 D3
+B.Ziegler                    0 1/3   2   0   0   0   0   0   0.00  D4 D6
+D.Robertson SAVE(2nd)        0 2/3   0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       5   0   0   2  12   0
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lugo LOSS(0-1)             4 2/3   4   2   2   0   2   0   3.86  A1 C1
+C.Torres                     3 1/3   3   1   1   1   1   0   2.08  C2 D5
+A.Colome                     1       1   0   0   0   0   0   0.00  D6
+[1]Totals                    9       8   3   3   1   3   0
+
+ATTENDANCE- 41,827 DATE- Saturday, October 7th 2017 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:20
+LEFT ON BASE- Cubs: 5  Mets: 8
+DOUBLE PLAYS- Cubs: 0  Mets: 2
+ERRORS- J.Baez
+DOUBLES- D.Fowler(1st), A.Gonzalez(3rd), J.Baez(1st), W.Ramos(3rd),
+         M.Reynolds(1st)
+RBIs- D.Fowler(1st), A.Gonzalez(4th), R.Rivera(1st)
+SACRIFICE HITS- A.Almora
+WALKS- K.Bryant, B.Zobrist, C.Granderson
+HIT BY PITCH- K.Bryant, A.Russell
+STRIKE OUTS- D.Fowler, A.Gonzalez, S.Castro, B.Zobrist, N.Markakis-3, S.Drew-2,
+             C.Granderson, S.Rodriguez, C.Gillaspie, P.Alvarez, C.Pennington-2
+GIDP- S.Castro, Y.Alonso
+2-out RBI- R.Rivera, D.Fowler
+RLISP 2-out- S.Castro, C.Pennington, A.Gonzalez, C.Granderson, J.Heyward,
+             P.Alvarez-2
+TEAM RISP- Cubs: 3 for 10  Mets: 0 for 4
+WEB GEMS- Bot 1st: Addison Russell robbed Wilson Ramos of a base hit.
+          Top 9th: Wilson Ramos blocked the plate, saving a run!
+
+Johnny Cueto pitched 7 strong innings and Dexter Fowler had 3 base hits at
+Citi Field as the Chicago (NL) Cubs beat the New York (NL) Mets 3 to 0.
+
+In the 5th inning Chicago (NL) scored 2 runs when they had 3 base hits.  After
+an out was recorded, Javier Baez got things going when he doubled.  Addison
+Russell came next and he was hit by a pitch.  After another out, Rene Rivera
+then banged out a single resulting in a run.  Fowler came up and he lined a
+one-base hit scoring the final run of the inning.  For the game Chicago (NL)
+out-hit New York (NL) 8 to 5.  
+
+The win was credited to Cueto(2-0) who went 7 innings allowing no runs. Cueto
+was helped out by David Robertson who recorded his 2nd save.  Seth Lugo(0-1)
+was tagged with the loss.  
+
+[2]
+[1]SCORESHEET: 2017 Chicago (NL) Cubs at 2017 New York (NL) Mets
+D.Fowler-A1  A1:Do      B1:K       C1:Si>2#   D1:Si
+                                   13         
+                                              
+A.Gonzal-A1  A2:F/9>23  *4*:K      C2:G/43    D2:Do>1#
+                                              
+                                              
+K.Bryant-A1  A3:L/6     B3:F/8     *6*:W>b1   D3:HBP
+                                              
+                                              
+S.Castro-A1  A4:F/9     B4:G/53    C4:K       D4:G-DP/6
+                                              43>1o
+                                              
+Y.Alonso-A1  *2*:G/31   *5*:G/43   C5:G-DP/1  *9*:Si
+                                   63>1o      
+                                              
+J.Baez-A1    A6:F/8     B6:Do      *7*:G/53   D6:Sac/34
+A.Almora-C6                                   >12
+                                              
+A.Russel-A1  A7:P/6     B7:HBP     C7:G/43    D7:Si>2o
+                                              
+                                              
+J.Heywar-A1  *3*:F/9    B8:P/4     C8:F/8     D8:F/9
+                                              
+                                              
+R.Rivera-A1  A9:F/7     B9:Si>2#   *8*:L/6
+                        12         
+                                   
+
+B.Zobris-A1  A1:W>b1    *3*:F/8    C1:F/9     D1:K
+                                              
+                                              
+N.Markak-A1  A2:K       B2:K       *6*:G/13   D2:K
+                                              
+                                              
+S.Drew-A1    A3:L/4     B3:F/8     C3:K       D3:K
+                                              
+                                              
+W.Ramos-A1   A4:G/63    *4*:G/43   C4:Do      *9*:Si
+                                              
+                                              
+C.Grande-A1  *2*:W>b1   B5:F/9     C5:K       D5:F/8
+                                              
+                                              
+M.Reynol-A1  A6:F/8     B6:G/63    *7*:G/63   D6:Do>13
+                                              
+                                              
+A.Pagan-A1   A7:FO/2    *5*:E/5    C7:G/53    D7:K
+S.Rodrig-D7                                   
+                                              
+C.Gillas-A1  A8:Si>13   B8:L/4     C8:K       D8:K
+P.Alvare-D8                                   
+                                              
+C.Pennin-A1  A9:K       B9:K       *8*:Si
+W.Flores-C9                        
+J.Hardy-D4                         
+
+

@@ -1,0 +1,212 @@
+[1]BOXSCORE: 2017 Detroit Tigers At 2017 Kansas City Royals            10/6/2017
+
+[1]  Tigers             AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  M.Trout CF          7  0  1  1 .188     N.Aoki LF           2  0  1  0 .286  
+  J.Werth LF          7  0  0  0 .214   A-A.Gordon PR,LF      5  0  0  0 .000  
+  A.Beltre 3B         7  0  0  0 .214     J.Dyson CF          5  0  1  0 .417  
+  V.Martinez DH       7  0  3  0 .286     E.Hosmer 1B         7  1  3  0 .286  
+  S.Pearce 1B         3  1  2  1 .667     E.Nunez 3B          6  0  1  0 .143  
+E-S.Vogt PH,C         3  0  0  0 .000     C.Utley 2B          3  0  1  1 .143  
+  L.Forsythe 2B       4  1  1  1 .200   B-W.Merrifield 2B     3  1  1  0 .286  
+  C.Gonzalez RF       6  0  0  0 .143     L.Cain RF           7  0  2  0 .214  
+  J.McCann C          3  0  0  0 .000     C.Cuthbert DH       6  0  2  1 .308  
+F-B.Holt PH           0  0  0  0 ----     S.Perez C           3  0  0  0 .300  
+G-A.Rosales PH        1  0  0  0 .000   C-B.Burns PR          0  0  0  0 ----  
+H-A.Lind 1B           2  0  0  0 .000   D-R.Perez C           2  0  0  0 .000  
+  J.Iglesias SS       6  1  1  0 .091     F.Galvis SS         6  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      56  3  8  3                 Totals      55  2 12  2
+
+A-Pinch Ran For Aoki In 5th Inning
+B-Subbed Defensively (2B) For Utley In 7th Inning
+C-Pinch Ran For Perez In 9th Inning
+D-Subbed Defensively (C ) For Burns In 10th Inning
+E-Pinch Hit For Pearce In 10th Inning
+F-Pinch Hit For McCann In 10th Inning
+G-Pinch Hit For Holt In 10th Inning
+H-Subbed Defensively (1B) For Rosales In 10th Inning
+
+Tigers.......... 0 1 0  0 0 0  0 0 0  0 0 0  1 0 0  1 -  3  8  1
+Royals.......... 1 0 0  0 0 0  0 0 0  0 0 0  1 0 0  0 -  2 12  0
+
+[1]Tigers (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Fulmer                     7       5   1   1   3   7   0   1.29  A1 D2
+M.Boyd                       0       1   0   0   0   0   0   ----  D3 D3
+C.Devenski                   1       1   0   0   0   1   0   0.00  D4 D8
+B.Rondon                     0 1/3   0   0   0   0   0   0   0.00  D9 D9
+B.Hand                       0 2/3   1   0   0   0   0   0   0.00  E1 E3
+E.Ramos                      1 1/3   1   0   0   0   1   0   0.00  E4 E8
+A.Chapman                    2 1/3   2   1   1   0   5   0   3.86  E9 F8
+K.Uehara WIN(1-0)            3 1/3   1   0   0   0   6   0   0.00  F9
+[1]Totals                   16      12   2   2   3  20   0
+
+[1]Royals (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Chen                       6 1/3   3   1   1   0   6   1   1.42  A1 C4
+W.Davis                      0 2/3   0   0   0   0   0   0   0.00  C5 C6
+B.Logan                      1       0   0   0   0   1   0   0.00  C7 C9
+K.Herrera                    1 2/3   1   0   0   1   1   0   0.00  D1 D7
+M.Strahm                     0 2/3   0   0   0   0   2   0   9.00  D8 D9
+T.Clippard                   3 2/3   1   1   1   0   4   1   4.76  E1 F3
+M.Montgomery LOSS(0-1)       2       3   1   0   1   3   0   0.00  F4
+[1]Totals                   16       8   3   2   2  17   2
+
+ATTENDANCE- 40,760 DATE- Friday, October 6th 2017 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 4:16
+LEFT ON BASE- Tigers: 7  Royals:14
+DOUBLE PLAYS- Tigers: 1  Royals: 0
+ERRORS- A.Beltre
+DOUBLES- V.Martinez(1st), S.Pearce(1st), J.Iglesias(1st)
+TRIPLES- W.Merrifield(1st)
+HOME RUNS- S.Pearce(3rd), L.Forsythe(1st)
+RBIs- M.Trout(2nd), S.Pearce(4th), L.Forsythe(1st), C.Utley(1st),
+      C.Cuthbert(1st)
+STOLEN BASES- J.Dyson(2nd), B.Burns(2nd)
+SACRIFICE HITS- J.Dyson-2, W.Merrifield, R.Perez, F.Galvis
+WALKS- L.Forsythe-2, N.Aoki, E.Nunez, C.Cuthbert
+HIT BY PITCH- S.Perez
+STRIKE OUTS- M.Trout, J.Werth-4, A.Beltre, V.Martinez-2, S.Vogt-2, L.Forsythe,
+             C.Gonzalez, J.McCann-2, A.Rosales, J.Iglesias-2, N.Aoki,
+             A.Gordon-3, E.Hosmer-3, E.Nunez-3, W.Merrifield, L.Cain,
+             C.Cuthbert-2, S.Perez, R.Perez, F.Galvis-4
+GIDP- S.Perez
+WILD PITCHES- M.Montgomery
+2-out RBI- C.Utley
+RLISP 2-out- L.Cain, E.Nunez-2, J.McCann, E.Hosmer, S.Perez, C.Cuthbert-3,
+             J.Dyson, A.Rosales, F.Galvis, A.Lind
+TEAM RISP- Tigers: 1 for 9  Royals: 2 for 17
+WEB GEMS- Top 6th: Eduardo Nunez robbed Mike Trout of a base hit.
+
+The Detroit Tigers and the Kansas City Royals locked up in an exciting one-run
+game at Kauffman Stadium.  The final score was the Detroit Tigers 3, the
+Kansas City Royals 2 in 16 innings.
+
+The score was tied at 1 after nine. Finally, Detroit prevailed in the 16th
+inning.  Jose Iglesias doubled.  Mike Montgomery then fired a sharp breaking
+ball that appeared to cross-up the catcher.  In any event, it got by him and
+was ruled a passed ball.  Mike Trout then stroked a base-hit scoring the run.
+Kansas City had 12 hits in the game while Detroit had 8, but Detroit had the
+more timely hits.  
+
+The win was credited to Koji Uehara(1-0) who went 3 and 1/3 innings allowing
+no runs. Montgomery(0-1) was charged with the loss in relief.  He was a
+hard-luck loser as he did not allow an earned run in his 2 innings of work.
+
+[2]
+[1]SCORESHEET: 2017 Detroit Tigers at 2017 Kansas City Royals
+M.Trout-A1   A1:F/7     B1:FO/2    C1:G/53    *9*:G/31   E1:F/8     *14*:K
+                                                                    
+                                                                    
+J.Werth-A1   A2:G/53    *4*:G/43   C2:K       D2:F/7     E2:K       F2:K
+                                                                    
+                                                                    
+A.Beltre-A1  A3:F/7     B3:P/3     *7*:G/63   D3:L/4     *12*:G/63  F3:F/7
+                                                                    
+                                                                    
+V.Martin-A1  *2*:K      B4:G/63    C4:Si      *10*:Si    E4:L/4     *15*:Do
+                                                                    
+                                                                    
+S.Pearce-A1  A5:HR>b#   *5*:Do     C5:P/4     D5:K       E5:K       F5:F/8
+S.Vogt-D5                                                           
+                                                                    
+L.Forsyt-A1  A6:L/4     B6:K       C6:G/63    D6:W>12 b  *13*:HR>b  F6:W>b1
+                                              1          #          
+                                                                    
+C.Gonzal-A1  A7:K       B7:F/7     *8*:F/9    D7:F/9     E7:G/43    F7:WP>23
+                                                                    12 FC/52>
+                                                                    3o 23
+J.McCann-A1  *3*:G/63   B8:K       C8:K       D8:K       E8:P/4     F8:G/53
+B.Holt-D8                                                           
+A.Rosale-D8+                                                        
+J.Iglesi-A1  A9:K       *6*:G/63   C9:F/7     *11*:K     E9:G/43    *16*:Do
+                                                                    
+                                                                    
+
+N.Aoki-A1    A1:K       *3*:Si     C1:W>b1    D1:K       E1:G/63    F1:K
+A.Gordon-C2                                                         
+                                                                    
+J.Dyson-A1   A2:G/31    B2:Sac/54  C2:Sac/34  D2:G/63    E2:G/43    *12*:F/7
+                        >12        >12                              
+                                                                    
+E.Hosmer-A1  A3:Si      B3:K       C3:K       *8*:Si     *10*:Si    F3:K
+                                                                    
+                                                                    
+E.Nunez-A1   A4:W>12 b  B4:K       *6*:P/6    D4:Si>12   E4:F/8     F4:K
+             1                                                      
+                                                                    
+C.Utley-A1   A5:Si>2#   *4*:G/43   C5:L/4     D5:Sac/24  E5:P/3     *13*:Tr
+W.Merrif-C9  12                               >23 12                
+                                                                    
+L.Cain-A1    A6:G/31    B6:E/5>b2  C6:Si      D6:G/63    E6:Si>13   F6:K
+                                                                    
+                                                                    
+C.Cuthbe-A1  *2*:F/9    B7:W>b1    C7:Si>13   D7:K       E7:F/8     F7:Si>3#
+                                                                    
+                                                                    
+S.Perez-A1   A8:F/7     B8:G-DP/5  C8:K       *9*:HBP    *11*:K     F8:Sac/24
+B.Burns-D9              43>1o                                       >12
+R.Perez-E3                                                          
+F.Galvis-A1  A9:K       *5*:G/31   *7*:G/43   D9:SB>12   E9:K       F9:K
+                                              Sac/24>23             
+                                                                    
+
+
+[2]
+[1]SCORESHEET: 2017 Detroit Tigers at 2017 Kansas City Royals
+M.Trout-A1   G1:PB>23
+             Si>3#
+             
+J.Werth-A1   G2:K
+             
+             
+A.Beltre-A1  G3:K
+             
+             
+V.Martin-A1  G4:K
+             
+             
+S.Pearce-A1
+S.Vogt-D5
+
+L.Forsyt-A1
+
+
+C.Gonzal-A1
+
+
+J.McCann-A1
+B.Holt-D8
+A.Rosale-D8+
+J.Iglesi-A1
+
+
+
+N.Aoki-A1    *14*:L/4   H1:K
+A.Gordon-C2             
+                        
+J.Dyson-A1   G2:Si
+             
+             
+E.Hosmer-A1  G3:SB>12
+             L/4
+             
+E.Nunez-A1   G4:K
+             
+             
+C.Utley-A1   *15*:K
+W.Merrif-C9  
+             
+L.Cain-A1    G6:F/7
+             
+             
+C.Cuthbe-A1  G7:K
+             
+             
+S.Perez-A1   *16*:G/13
+B.Burns-D9   
+R.Perez-E3   
+F.Galvis-A1  G9:K
+             
+             
+
+

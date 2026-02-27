@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2017 New York (NL) Mets At 2017 Atlanta Braves           10/20/2017
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  W.Ramos C           4  0  0  0 .286     C.Yelich LF         4  1  2  1 .220  
+  B.Zobrist 2B        4  1  2  0 .178     B.Phillips 2B       4  1  2  0 .327  
+  M.Reynolds DH       5  0  1  0 .179     C.Blackmon DH       4  1  1  2 .386  
+  C.Granderson CF     3  0  0  0 .051     J.Realmuto C        4  0  1  1 .349  
+  S.Rodriguez 1B      5  1  1  1 .250     F.Freeman 1B        4  1  2  1 .350  
+  A.Pagan LF          2  0  0  0 .105     A.Garcia 3B         3  0  0  0 .154  
+  D.Wright 3B         3  1  2  0 .333   A-L.Valbuena 3B       1  0  0  0 .250  
+  N.Markakis RF       4  0  1  1 .292     M.Kepler RF         3  0  0  0 .240  
+  J.Hardy SS          4  0  1  1 .222     A.Simmons SS        3  1  2  0 .152  
+                                          M.Smith CF          2  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  8  3                 Totals      32  5 10  5
+
+A-Subbed Defensively (3B) For Garcia In 7th Inning
+
+Mets............ 0 0 1  0 0 0  0 2 0  -  3  8  0
+Braves.......... 0 1 2  0 2 0  0 0    -  5 10  1
+
+[1]Mets (6-6)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom LOSS(0-1)           7       9   5   5   0   7   2   3.15  A1 D2
+A.Liberatore                 0 1/3   0   0   0   0   0   0   0.00  D3 D3
+S.Lugo                       0 2/3   1   0   0   0   1   0   3.68  D4
+[1]Totals                    8      10   5   5   0   8   2
+
+[1]Braves (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Guerra WIN(2-0)            6       3   1   1   6   3   0   1.35  A1 C8
+M.Bush                       0 2/3   0   0   0   0   0   0   0.00  C9 D1
+A.Schugel                    1       2   1   1   0   0   0   3.86  D2 D6
+C.Kimbrel                    0       3   1   1   0   0   0   4.50  D7 D9
+A.Wood HOLD(1st)             1       0   0   0   0   0   0   0.00  E1 E3
+A.Vizcaino SAVE(1st)         0 1/3   0   0   0   1   0   0   0.00  E4
+[1]Totals                    9       8   3   3   7   3   0
+
+ATTENDANCE- 45,086 DATE- Friday, October 20th 2017 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:50
+LEFT ON BASE- Mets:11  Braves: 4
+DOUBLE PLAYS- Mets: 1  Braves: 2
+ERRORS- A.Garcia
+DOUBLES- D.Wright(1st), B.Phillips(2nd), A.Simmons(2nd)
+HOME RUNS- C.Blackmon(4th), F.Freeman(2nd)
+RBIs- S.Rodriguez(5th), N.Markakis(11th), J.Hardy(2nd), C.Yelich(4th),
+      C.Blackmon-2(7th), J.Realmuto(7th), F.Freeman(8th)
+SACRIFICE HITS- M.Smith
+WALKS- W.Ramos, B.Zobrist, C.Granderson-2, A.Pagan-2, D.Wright
+STRIKE OUTS- B.Zobrist, N.Markakis, J.Hardy, C.Blackmon, J.Realmuto,
+             F.Freeman-2, L.Valbuena, M.Kepler, M.Smith-2
+GIDP- A.Pagan, D.Wright, B.Phillips
+2-out RBI- J.Realmuto, N.Markakis, J.Hardy
+RLISP 2-out- J.Hardy-2, F.Freeman, B.Zobrist, W.Ramos
+TEAM RISP- Mets: 3 for 9  Braves: 3 for 5
+
+Freddie Freeman lofted one into the 'cheap seats' at Turner Field as the
+Atlanta Braves beat the New York (NL) Mets 5 to 3.
+
+In the bottom of the 3rd inning Atlanta went on top for good with 2 runs on 4
+base hits.  Andrelton Simmons led off the inning for Atlanta when he doubled.
+Mallex Smith was next and he laid down a sacrifice bunt.  Christian Yelich
+then ripped a single scoring a run.  Brandon Phillips came up and he laced a
+base-knock.  Charlie Blackmon was next to bat, but he was a strikeout victim.
+J.T. Realmuto contributed to the rally and hit a one-base hit scoring the
+final run of the inning.  Atlanta banged out 10 hits on the night.  
+
+Junior Guerra(2-0) allowed 1 run in 6 innings, and picked up the victory.
+Guerra was helped out by Arodys Vizcaino who recorded his 1st save.  Jacob
+Degrom(0-1) was given the loss.  
+
+With this win, Atlanta has a 8-4 record. They have been 4-6 lately.  Not able
+to get much going in recent weeks, New York (NL) is 2-8 of late and now has
+an overall record of 6-6.
+[2]
+[1]SCORESHEET: 2017 New York (NL) Mets at 2017 Atlanta Braves
+W.Ramos-A1   A1:G/53    *3*:G/63   C1:W>12 b  D1:G/63    E1:G/63
+                                   1                     
+                                                         
+B.Zobris-A1  A2:Si      B2:W>b1    C2:K       D2:Si      *9*:F/8
+                                                         
+                                                         
+M.Reynol-A1  A3:L/6     B3:Si>13   *5*:G/63   D3:G/63    E3:G/53
+                                                         
+                                                         
+C.Grande-A1  A4:L/6     B4:W>12 b  C4:G/31    *8*:L/4    E4:W>b1
+                        1                                
+                                                         
+S.Rodrig-A1  *2*:L/6    B5:E/5>3#  C5:P/2     D5:Si      E5:G/63
+                        23 12                            
+                                                         
+A.Pagan-A1   A6:W>b1    B6:G-DP/4  *6*:W>b1   D6:G/3>12
+                        63>1o                 
+                                              
+D.Wright-A1  A7:Do>13   *4*:W>b1   C7:G-DP/3  D7:Si>23
+                                   63>1o      
+                                              
+N.Markak-A1  A8:P/6     B8:K       C8:F/7     D8:Si>3#
+                                              13
+                                              
+J.Hardy-A1   A9:G/63    B9:K       *7*:P/5    D9:Si>3#
+                                              13
+                                              
+
+C.Yelich-A1  A1:Si      B1:Si>3#   *5*:G/3    D1:F/9
+                                              
+                                              
+B.Philli-A1  A2:G-DP/6  B2:Si>13   C2:Do      D2:G/63
+             43>1o                            
+                                              
+C.Blackm-A1  A3:F/8     B3:K       C3:HR>2#   *8*:F/9
+                                   b#         
+                                              
+J.Realmu-A1  *2*:F/8    B4:Si>3#   C4:K       D4:L/6
+                        13                    
+                                              
+F.Freema-A1  A5:HR>b#   B5:K       C5:K       D5:Si
+                                              
+                                              
+A.Garcia-A1  A6:F/7     *4*:F/7    *6*:F/7    D6:K
+L.Valbue-C9                                   
+                                              
+M.Kepler-A1  A7:G/43    B7:K       C7:F/8
+                                   
+                                   
+A.Simmon-A1  *3*:Do     B8:Si      C8:F/7
+                                   
+                                   
+M.Smith-A1   A9:Sac/24  B9:K       *7*:K
+             >23                   
+                                   
+
+

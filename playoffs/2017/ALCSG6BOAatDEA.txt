@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2017 Boston Red Sox At 2017 Detroit Tigers               10/20/2017
+
+[1]  Red Sox            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  M.Betts RF          5  1  4  2 .370     J.Iglesias SS       3  1  3  0 .186  
+  A.Benintendi LF     3  0  0  0 .000   C-B.Holt PH,LF        1  0  1  0 .500  
+A-C.Vazquez PH,C      2  0  0  0 .250   G-A.Lind PH,1B        1  0  0  0 .200  
+  D.Ortiz DH          5  0  2  1 .350     L.Forsythe 2B       5  2  2  1 .347  
+  T.Shaw 3B           4  0  0  0 .158     M.Trout CF          4  0  0  0 .186  
+  D.Pedroia 2B        4  0  1  0 .326     J.Werth LF          3  1  1  2 .250  
+  X.Bogaerts SS       5  0  0  0 .326   D-N.Castellanos PH    1  0  0  0 .571  
+  M.Moreland 1B       5  2  2  0 .429   E-A.Rosales SS        1  0  0  0 .000  
+  A.Jones CF          3  1  1  0 .257     A.Beltre 3B         3  0  2  1 .320  
+  D.Butera C          3  2  2  3 .300     V.Martinez DH       3  0  0  0 .298  
+B-A.Duvall LF         1  0  0  0 .182     S.Pearce 1B,LF      4  0  1  0 .364  
+                                          C.Gonzalez RF       4  1  1  0 .163  
+                                          J.McCann C          3  0  0  1 .037  
+                                        F-S.Vogt PH,C         1  0  1  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  6 12  6                 Totals      37  5 12  5
+
+A-Pinch Hit For Benintendi In 5th Inning
+B-Subbed Defensively (LF) For Butera In 5th Inning
+C-Pinch Hit For Iglesias In 7th Inning
+D-Pinch Hit For Werth In 7th Inning
+E-Subbed Defensively (SS) For Castellanos In 8th Inning
+F-Pinch Hit For McCann In 8th Inning
+G-Pinch Hit For Holt In 8th Inning
+
+Red Sox......... 1 0 0  3 2 0  0 0 0  -  6 12  0
+Tigers.......... 3 1 0  0 0 0  1 0 0  -  5 12  1
+
+[1]Red Sox (8-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hill WIN(2-0)              6       8   4   4   2  10   1   2.70  A1 C9
+S.Kelley HOLD(3rd)           0 2/3   2   1   1   0   1   0   1.59  D1 D5
+A.Reed HOLD(3rd)             1       2   0   0   0   0   0   4.91  D6 D9
+T.Rogers HOLD(2nd)           0 1/3   0   0   0   0   1   0   0.00  E1 E1
+T.Thornburg SAVE(4th)        1       0   0   0   0   1   0   0.00  E2
+[1]Totals                    9      12   5   5   2  13   1
+
+[1]Tigers (6-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Devenski LOSS(0-1)         4 2/3  11   6   6   2   6   0   6.75  A1 D1
+B.Hand                       3 2/3   0   0   0   1   6   0   1.42  D2 E4
+S.Greene                     0 1/3   1   0   0   0   1   0   0.00  E5 E6
+B.Rondon                     0 1/3   0   0   0   0   0   0   0.00  E7
+[1]Totals                    9      12   6   6   3  13   0
+
+ATTENDANCE- 40,187 DATE- Friday, October 20th 2017 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:28
+LEFT ON BASE- Red Sox:10  Tigers: 8
+DOUBLE PLAYS- Red Sox: 1  Tigers: 0
+ERRORS- M.Trout
+DOUBLES- M.Betts(2nd), D.Ortiz-2(7th), M.Moreland(2nd), A.Jones(1st),
+         D.Butera-2(2nd), J.Iglesias-2(4th), L.Forsythe(4th)
+TRIPLES- C.Gonzalez(1st)
+HOME RUNS- J.Werth(2nd)
+RBIs- M.Betts-2(10th), D.Ortiz(12th), D.Butera-3(4th), L.Forsythe(6th),
+      J.Werth-2(5th), A.Beltre(8th), J.McCann(1st)
+WALKS- T.Shaw, D.Pedroia, A.Jones, A.Beltre, V.Martinez
+HIT BY PITCH- M.Trout
+STRIKE OUTS- M.Betts, A.Benintendi-2, C.Vazquez, D.Ortiz, T.Shaw-2,
+             X.Bogaerts-2, M.Moreland, A.Jones-2, D.Butera, A.Lind, M.Trout,
+             J.Werth, N.Castellanos, A.Rosales, V.Martinez-2, S.Pearce-2,
+             C.Gonzalez-2, J.McCann-2
+GIDP- C.Gonzalez
+2-out RBI- D.Butera, M.Betts, A.Beltre
+RLISP 2-out- X.Bogaerts-2, A.Benintendi, M.Trout, D.Pedroia-2, C.Vazquez,
+             V.Martinez, M.Moreland
+TEAM RISP- Red Sox: 4 for 16  Tigers: 3 for 8
+
+Rich Hill whiffed 10 batters and Drew Butera hit 2 doubles and had 3 RBI as
+the Boston Red Sox beat the Detroit Tigers by a score of 6 to 5.
+
+Hill(2-0) was solid if not spectacular.  He went 6 innings surrendering 8 hits
+and 2 walks.  Tyler Thornburg, after tossing a perfect ninth, was credited
+with his 4th save.  
+
+Chris Devenski(0-1) took the loss.  He got hit hard, allowing 11 hits and 2
+walks in 4 and 2/3 innings.  Brad Ausmus was impressed with Hill and his 10
+strikeouts.  'It's tough to generate runs if you can't make contact with the
+ball.'
+[2]
+[1]SCORESHEET: 2017 Boston Red Sox at 2017 Detroit Tigers
+M.Betts-A1   A1:Si      B1:Si>12   C1:Si>2#   D1:Do>2#   E1:K
+                                                         
+                                                         
+A.Benint-A1  A2:K       B2:K       C2:Force/  D2:F/7     E2:K
+C.Vazque-D2                        46>1o b1              
+                                                         
+D.Ortiz-A1   A3:Do>1#   *3*:Do     C3:E/8>13  *6*:K      *9*:F/7
+                                   b2                    
+                                                         
+T.Shaw-A1    A4:F/8     B4:K       C4:G/43    D4:K       E4:W>b1
+                                                         
+                                                         
+D.Pedroi-A1  A5:W>b1    B5:G/63    C5:G/63    D5:L/6     E5:Si>13
+                                                         
+                                                         
+X.Bogaer-A1  A6:F/7     B6:L/3     *5*:F/7    *7*:K      E6:K
+                                                         
+                                                         
+M.Morela-A1  *2*:K      *4*:Si     C7:Do      D7:G/63    E7:G/43
+                                                         
+                                                         
+A.Jones-A1   A8:W>b1    B8:Do>13   C8:K       D8:K
+                                              
+                                              
+D.Butera-A1  A9:K       B9:Do>3#   C9:Do>2#   *8*:G/63
+A.Duvall-D3             2#                    
+                                              
+
+J.Iglesi-A1  A1:Do      B1:Do      C1:Si      *7*:Si     E1:K
+B.Holt-D1                                                
+A.Lind-E1                                                
+L.Forsyt-A1  A2:Si>2#   B2:G/43>2  C2:Do>1o   D2:Force/  *9*:L/6
+                        3                     31>1o b1   
+                                                         
+M.Trout-A1   A3:G/43>1  B3:K       *5*:G/63   D3:HBP>12  E3:F/8
+             2                                           
+                                                         
+J.Werth-A1   A4:HR>2#   *3*:K      C4:G/63    D4:K       E4:K
+N.Castel-D4  b#                                          
+A.Rosale-D7                                              
+A.Beltre-A1  A5:W>b1    B5:Si      C5:F/7     D5:Si>2#
+                                              13
+                                              
+V.Martin-A1  A6:K       B6:K       *6*:W>b1   D6:G/43
+                                              
+                                              
+S.Pearce-A1  A7:F/8     B7:K       C7:K       *8*:Si
+                                              
+                                              
+C.Gonzal-A1  *2*:Tr     *4*:K      C8:K       D8:G-DP/5
+                                              43>1o
+                                              
+J.McCann-A1  A9:G/63>3  B9:K       C9:K       D9:Si
+S.Vogt-D9    #                                
+                                              
+
+
