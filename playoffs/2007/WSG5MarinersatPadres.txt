@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2007 Seattle Mariners At 2007 San Diego Padres           12/26/2007
+
+[1]  Mariners           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  C.Guillen SS        4  1  2  0 .273     J.Bard C            4  1  2  0 .421  
+  A.Escobar CF        3  0  0  1 .273     N.Johnson 1B        4  0  2  0 .200  
+A-J.Reed RF           0  0  0  0 ----     J.Baker RF          4  1  1  2 .250  
+  C.Delgado 1B        4  0  1  1 .154     F.Thomas DH         3  0  0  0 .258  
+B-J.Lopez 2B          0  0  0  0 ----     G.Norton LF         4  0  3  0 .306  
+  A.Rodriguez 3B      5  0  1  0 .333     M.Derosa 3B         3  0  0  0 .314  
+  J.Posada C          5  0  0  0 .308     M.Cameron CF        4  0  1  0 .139  
+  I.Suzuki RF,CF      5  1  3  0 .500     K.Greene SS         3  0  0  0 .161  
+  K.Johjima DH        4  1  3  2 .500   C-R.Branyan PH        1  0  0  0 .100  
+  C.Crawford LF       3  1  0  0 .091     J.Barfield 2B       3  0  0  0 .212  
+  T.Wigginton 2B,1B   3  2  1  1 .100   D-T.Walker PH         1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6 11  5                 Totals      34  2  9  2
+
+A-Subbed Defensively (RF) For Escobar In 8th Inning
+B-Subbed Defensively (2B) For Delgado In 8th Inning
+C-Pinch Hit For Greene In 9th Inning
+D-Pinch Hit For Barfield In 9th Inning
+
+Mariners........ 0 4 1  0 0 1  0 0 0  -  6 11  1
+Padres.......... 0 0 0  0 0 0  0 2 0  -  2  9  1
+
+[1]Mariners (3-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling WIN(2-0)         7 2/3   8   2   2   1   9   1   2.87  A1 D3
+R.Springer                   0 2/3   1   0   0   1   1   0   0.00  D4 D7
+W.Ledezma                    0 1/3   0   0   0   0   1   0   0.00  D8 D8
+J.Putz                       0 1/3   0   0   0   0   0   0   6.75  D9
+[1]Totals                    9       9   2   2   2  11   1
+
+[1]Padres (3-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hensley LOSS(0-3)          5       6   6   5   5   4   1   5.82  A1 C9
+E.Dessens                    3       3   0   0   0   2   0   1.69  D1 E3
+T.Hoffman                    1       2   0   0   0   2   0   3.72  E4
+[1]Totals                    9      11   6   5   5   8   1
+
+ATTENDANCE- -19 DATE-  TIME- Day 
+UMPIRES- Kevin Gordon, , , 
+T- 3:10
+LEFT ON BASE- Mariners:10  Padres: 7
+DOUBLE PLAYS- Mariners: 2  Padres: 1
+ERRORS- A.Escobar, N.Johnson
+DOUBLES- K.Johjima(1st), T.Wigginton(1st), J.Bard(3rd), G.Norton-2(3rd)
+TRIPLES- I.Suzuki(2nd)
+HOME RUNS- K.Johjima(1st), J.Baker(1st)
+STOLEN BASES- C.Crawford(2nd)
+SACRIFICE FLIES- A.Escobar
+WALKS- C.Guillen, A.Escobar, C.Delgado, C.Crawford, T.Wigginton, F.Thomas,
+       M.Derosa
+HIT BY PITCH- K.Johjima
+STRIKE OUTS- C.Guillen-2, A.Escobar, A.Rodriguez-2, J.Posada-2, T.Wigginton,
+             J.Bard-2, J.Baker-2, F.Thomas-2, G.Norton, M.Derosa, R.Branyan,
+             J.Barfield-2
+GIDP- C.Crawford, F.Thomas, J.Barfield
+WEB GEMS- Top 9th: Josh Bard blocked the plate, saving a run!
+
+Designated hitter Kenji Johjima homered and had 2 RBI at Wrigley Field as the
+Seattle Mariners beat the San Diego Padres by the count of 6 to 2.
+
+Seattle scored 4 runs in the 2nd inning.  That early scoring held up.  Seattle
+banged out 11 on the afternoon.  
+
+Curt Schilling(2-0) allowed 2 runs in 7 and 2/3 innings, and picked up the
+victory. Clay Hensley(0-3) was given the loss.  Seattle scored big getting 6
+runs off him in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2007 Seattle Mariners at 2007 San Diego Padres
+C.Guille-A1  A1:Si      B1:W>b1    C1:K       D1:Si>13   *8*:K
+                                                         
+                                                         
+A.Escoba-A1  A2:F/8     B2:W>23 1  *4*:F/7    D2:SF/7>3  E2:K
+J.Reed-E4               2 b1                  # 12       
+                                                         
+C.Delgad-A1  A3:Si>13   B3:Force/  C3:W>b1    D3:L/4     E3:L/3
+J.Lopez-E4              46>3# 23                         
+                        1o b1                            
+A.Rodrig-A1  A4:K       B4:E/3>3#  C4:FO/2    D4:Si>23   *9*:K
+                        12                               
+                                                         
+J.Posada-A1  A5:K       B5:G/43    C5:G/3     D5:F/9     E5:K
+                                                         
+                                                         
+I.Suzuki-A1  *2*:G/43   *3*:Tr     *5*:G/43   *7*:Si     E6:Si
+                                                         
+                                                         
+K.Johjim-A1  A7:HR>b#   B7:Si>3#   C7:G/31    D7:HBP>12  E7:Do>1o
+                                                         
+                                                         
+C.Crawfo-A1  A8:W>b1    B8:FO/2    C8:F/8     D8:G-DP/4
+                                              63>23 1o
+                                              
+T.Wiggin-A1  A9:SB>12   B9:K       *6*:W>b1   D9:G/63
+             Do>2#                            
+                                              
+
+J.Bard-A1    A1:K       B1:K       *6*:Si     D1:Do
+                                              
+                                              
+N.Johnso-A1  A2:L/3     *4*:Si+E/  C2:Si>12   D2:G/43>2
+                        8                     3
+                                              
+J.Baker-A1   A3:K       B3:K       C3:L/6     D3:HR>3#
+                                              b#
+                                              
+F.Thomas-A1  *2*:K      B4:K       C4:G-DP/6  D4:W>b1
+                                   43>1o      
+                                              
+G.Norton-A1  A5:Do      B5:K       *7*:Do     D5:Si>13
+                                              
+                                              
+M.Derosa-A1  A6:L/6     *5*:W>b1   C6:F/8     D6:K
+                                              
+                                              
+M.Camero-A1  A7:F/7     B7:Si>12   C7:G/53    *9*:G/63
+                                              
+                                              
+K.Greene-A1  *3*:G/53   B8:F/9>23  C8:G/31    D8:K
+R.Branya-D8                                   
+                                              
+J.Barfie-A1  A9:K       B9:G-DP/5  *8*:K      D9:G/43
+T.Walker-D9             43>1o                 
+                                              
+
+

@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2007 San Diego Padres At 2007 Seattle Mariners           12/28/2007
+
+[1]  Padres             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Bard C            4  0  1  0 .235     C.Snelling DH       4  1  1  0 .353  
+  N.Johnson 1B        4  0  0  0 .250     A.Rodriguez 3B      3  0  1  0 .327  
+  F.Thomas DH         4  0  1  0 .250     C.Delgado 1B        3  1  1  2 .167  
+  G.Norton LF         3  0  0  0 .333     C.Guillen SS        3  2  1  1 .255  
+  M.Derosa 2B         3  0  0  0 .333   A-Y.Betancourt SS     0  0  0  0 .167  
+  R.Branyan 3B        2  1  0  0 .000     C.Crawford LF       4  1  1  1 .207  
+  M.Cameron CF        3  0  1  0 .154     J.Posada C          4  0  1  1 .341  
+  S.Green RF          3  0  2  1 .429     I.Suzuki CF         3  0  0  0 .339  
+  K.Greene SS         3  0  0  0 .071     T.Linden RF         3  1  1  0 .286  
+                                          J.Lopez 2B          2  1  0  1 .192  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  5  1                 Totals      29  7  7  6
+
+A-Subbed Defensively (SS) For Guillen In 8th Inning
+
+Padres.......... 0 0 0  0 0 0  0 1 0  -  1  5  1
+Mariners........ 0 1 4  1 1 0  0 0    -  7  7  0
+
+[1]Padres (1-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy LOSS(0-2)            5       6   7   6   4   7   0  10.45  A1 C7
+E.Dessens                    3       1   0   0   2   4   0   1.29  C8
+[1]Totals                    8       7   7   6   6  11   0
+
+[1]Mariners (11-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Jennings WIN(4-1)          7 1/3   5   1   1   1   3   0   2.27  A1 C8
+F.Rodney                     1 2/3   0   0   0   0   1   0   1.23  C9
+[1]Totals                    9       5   1   1   1   4   0
+
+ATTENDANCE- 96 DATE-  TIME- Day 
+T- 2:41
+LEFT ON BASE- Padres: 2  Mariners: 6
+DOUBLE PLAYS- Padres: 0  Mariners: 3
+ERRORS- K.Greene
+DOUBLES- F.Thomas(1st), C.Snelling(4th), C.Delgado(2nd), J.Posada(5th)
+TRIPLES- C.Guillen(1st), T.Linden(1st)
+STOLEN BASES- C.Guillen(1st), C.Crawford-3(4th)
+SACRIFICE HITS- A.Rodriguez, J.Lopez
+WALKS- R.Branyan, C.Snelling, C.Delgado, C.Guillen, I.Suzuki, T.Linden, J.Lopez
+STRIKE OUTS- N.Johnson, G.Norton, M.Derosa, S.Green, C.Snelling-2,
+             A.Rodriguez-2, C.Delgado, J.Posada-2, I.Suzuki-2, T.Linden,
+             J.Lopez
+GIDP- J.Bard, N.Johnson, K.Greene
+
+The Seattle Mariners had very little trouble at SAFECO Field downing the San
+Diego Padres.  The score was 7 to 1.
+
+Seattle took the lead for good in the 2nd inning plating an isolated run.
+Seattle finished with 7 hits in the victory.  
+
+The win went to Jason Jennings(4-1) who allowed 1 run in 7 and 1/3 innings.
+Jake Peavy(0-2) was the losing pitcher.  He was knocked around, surrendering
+7 runs in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2007 San Diego Padres at 2007 Seattle Mariners
+J.Bard-A1    A1:F/9     *4*:Si     C1:G-DP/4  *9*:F/7
+                                   63>1o      
+                                              
+N.Johnso-A1  A2:G/43    B2:G-DP/5  *7*:F/8    D2:K
+                        43>1o                 
+                                              
+F.Thomas-A1  A3:F/8     B3:Do      C3:G/63    D3:L/4
+                                              
+                                              
+G.Norton-A1  *2*:F/9    B4:F/7     C4:K
+                                   
+                                   
+M.Derosa-A1  A5:K       *5*:F/8    *8*:L/4
+                                   
+                                   
+R.Branya-A1  A6:G/43    B6:G/63    C6:W>b1
+                                   
+                                   
+M.Camero-A1  *3*:F/8    B7:G/63    C7:Si>13
+                                   
+                                   
+S.Green-A1   A8:K       *6*:Si     C8:Si>3#
+                                   13
+                                   
+K.Greene-A1  A9:G/63    B9:L/6     C9:G-DP/4
+                                   63>1o
+                                   
+
+C.Snelli-A1  A1:K       B1:W>12 b  C1:Do      D1:K       E1:G/63
+                        1                                
+                                                         
+A.Rodrig-A1  A2:K       B2:Sac/14  C2:K       D2:Si>13
+                        >23 12                
+                                              
+C.Delgad-A1  A3:G/31    B3:Do>3#   *5*:K      D3:W>12 b
+                        2#                    1
+                                              
+C.Guille-A1  *2*:L/4    B4:Tr>2#   C4:W>b1    D4:G/43
+Y.Betanc-D8                                   
+                                              
+C.Crawfo-A1  A5:E/6>b2  B5:Si>3#   C5:SB>12   *7*:F/8
+                                   G/53       
+                                              
+J.Posada-A1  A6:SB>23   B6:SB>12F  C6:Do>2#   D6:K
+             K          /9>23 PkO             
+                        ff/15>3o              
+I.Suzuki-A1  A7:SB>3#   *4*:K      C7:K       D7:G/63
+             W>b1                             
+                                              
+T.Linden-A1  A8:L/4     B8:Tr      *6*:W>b1   *8*:K
+                                              
+                                              
+J.Lopez-A1   *3*:W>b1   B9:Sac/34  C9:F/8     D9:K
+                        >3#                   
+                                              
+
+

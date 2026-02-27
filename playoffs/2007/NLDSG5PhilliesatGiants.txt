@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2007 Philadelphia Phillies At 2007 San Francisco Giants  11/30/2007
+
+[1]  Phillies           AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  K.Lofton CF         4  0  1  0 .182     F.Lopez SS          4  2  2  1 .182  
+A-L.Ford CF           1  0  0  0 .000     J.Carroll 2B        4  0  1  0 .333  
+  W.Helms 3B          4  1  1  0 .200     T.Helton 1B         3  0  1  1 .300  
+D-S.Rolen 3B          1  0  0  0 .000     R.Durham DH         3  0  1  1 .200  
+  T.Hafner DH         4  2  2  3 .364     M.Barrett C         3  0  0  0 .222  
+  J.Dye RF            4  1  2  1 .333   E-S.Stewart PH        1  0  0  0 .000  
+B-J.Michaels LF       1  0  1  0 .667   F-R.Barajas C         0  0  0  0 ----  
+  R.Howard 1B         5  1  1  0 .250     G.Jenkins RF        4  0  0  0 .167  
+  C.Coste C           2  1  1  0 .333     M.Bradley LF        2  1  0  0 .333  
+  C.Utley 2B          4  0  1  1 .300     P.Feliz 3B          4  0  0  0 .091  
+  J.Rollins SS        4  0  0  0 .091     R.Winn CF           4  1  1  0 .273  
+  L.Gonzalez LF       3  1  2  1 .500                                          
+C-S.Victorino RF      1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  7 12  6                 Totals      32  4  6  3
+
+A-Subbed Defensively (CF) For Lofton In 6th Inning
+B-Subbed Defensively (LF) For Dye In 7th Inning
+C-Subbed Defensively (RF) For Gonzalez In 7th Inning
+D-Subbed Defensively (3B) For Helms In 7th Inning
+E-Pinch Hit For Barrett In 7th Inning
+F-Subbed Defensively (C ) For Stewart In 8th Inning
+
+Phillies........ 4 0 0  0 0 1  1 0 1  -  7 12  1
+Giants.......... 0 0 2  0 0 0  2 0 0  -  4  6  1
+
+[1]Phillies (2-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Martinez WIN(2-0)          6 1/3   4   3   3   4   3   0   2.70  A1 C8
+J.Benoit                     0 1/3   2   1   1   1   1   0   9.00  C9 D4
+T.Saito SAVE(1st)            2 1/3   0   0   0   0   5   0   0.00  D5
+[1]Totals                    9       6   4   4   5   9   0
+
+[1]Giants (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain LOSS(0-2)             8 2/3  12   7   5   2   6   4   7.71  A1 E4
+S.Kline                      0 1/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    9      12   7   5   2   7   4
+
+ATTENDANCE- 13 DATE-  TIME- Night 
+T- 2:46
+LEFT ON BASE- Phillies: 7  Giants: 7
+DOUBLE PLAYS- Phillies: 1  Giants: 0
+ERRORS- J.Rollins, M.Bradley
+DOUBLES- J.Michaels(1st), R.Howard(2nd), L.Gonzalez(1st), R.Winn(2nd)
+HOME RUNS- T.Hafner-2(3rd), J.Dye(2nd), L.Gonzalez(1st)
+STOLEN BASES- M.Bradley(1st)
+WALKS- T.Hafner, C.Coste, F.Lopez, J.Carroll, T.Helton, M.Bradley-2
+HIT BY PITCH- C.Coste, R.Durham
+STRIKE OUTS- W.Helms, R.Howard-3, C.Coste, C.Utley, J.Rollins, R.Durham,
+             S.Stewart, G.Jenkins, M.Bradley, P.Feliz-2, R.Winn-3
+GIDP- J.Carroll
+
+Travis Hafner smashed 2 homeruns and had 3 RBI as the Philadelphia Phillies
+defeated the San Francisco Giants by a score of 7 to 4 at SBC Park.
+
+Hafner had a good evening at the plate.  He blasted a two-run home run in the
+1st inning and hit a bases-empty home run (his 3rd of the season) in the 9th
+inning.  Philadelphia took care of San Francisco with no trouble in the
+bottom of the 9th.  
+
+Pedro Martinez(2-0) went 6 and 1/3 innings allowing 3 runs for the victory.
+Takashi Saito earned the save, his 1st.  Matt Cain(0-2) was charged with the
+loss.  He served up 4 homeruns in his 8 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2007 Philadelphia Phillies at 2007 San Francisco Giants
+K.Lofton-A1  A1:F/8     B1:G/53    C1:Si      D1:G/63    *9*:F/8
+L.Ford-D3                                                
+                                                         
+W.Helms-A1   A2:Si      B2:L/6     C2:K       D2:G/13    E2:G/43
+S.Rolen-D7                                               
+                                                         
+T.Hafner-A1  A3:HR>1#   B3:IW>b1   C3:L/4     *7*:F/8    E3:HR>b#
+             b#                                          
+                                                         
+J.Dye-A1     A4:Si      B4:G/43    *5*:F/8    D4:HR>b#   E4:Do
+J.Michae-D7                                              
+                                                         
+R.Howard-A1  A5:Do      *3*:G/43   C5:K       D5:K       E5:K
+                                                         
+                                                         
+C.Coste-A1   A6:W>b1    B6:Si      C6:HBP     D6:K
+                                              
+                                              
+C.Utley-A1   A7:Si+E/7  B7:F/7     C7:K       *8*:F/7
+             >2# 1#                           
+                                              
+J.Rollin-A1  A8:F/8     B8:K       *6*:F/7    D8:L/4
+                                              
+                                              
+L.Gonzal-A1  *2*:Do     *4*:P/4    C9:HR>b#   D9:F/8
+S.Victor-D7                                   
+                                              
+
+F.Lopez-A1   A1:Si      B1:W>b1    C1:F/9     D1:Si>3#   E1:F/8
+                                                         
+                                                         
+J.Carrol-A1  A2:G-DP/6  B2:G/3>23  C2:W>b1    D2:Si+E/6  E2:F/8
+             43>1o      12                    >1#        
+                                                         
+T.Helton-A1  A3:Si      B3:G/43>3  C3:L/4     D3:W>b1
+                        # 23                  
+                                              
+R.Durham-A1  A4:F/8     B4:Si>3#   *6*:K      D4:HBP>12
+                                              
+                                              
+M.Barret-A1  *2*:F/8    B5:F/8     C5:G/63    D5:K
+S.Stewar-D5                                   
+R.Baraja-D6                                   
+G.Jenkin-A1  A6:F/9     *4*:G/43   C6:L/4     *8*:K
+                                              
+                                              
+M.Bradle-A1  A7:W>b1    B7:P/3     *7*:W>b1   D7:K
+                                              
+                                              
+P.Feliz-A1   A8:P/2     B8:K       C8:SB>12   D8:K
+                                   G/63>23    
+                                              
+R.Winn-A1    *3*:Do     *5*:K      C9:K       *9*:K
+                                              
+                                              
+
+

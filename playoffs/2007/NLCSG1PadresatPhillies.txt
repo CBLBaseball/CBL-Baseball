@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2007 San Diego Padres At 2007 Philadelphia Phillies      12/13/2007
+
+[1]  Padres             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  J.Bard C            6  2  3  3 .500     K.Lofton CF         4  0  0  0 .263  
+  M.Derosa 2B,3B      5  2  2  0 .400   E-J.Michaels PH       1  0  0  0 .625  
+  N.Johnson 1B        5  1  1  0 .200     W.Helms 3B          5  0  1  0 .308  
+  F.Thomas DH         4  3  3  2 .750     T.Hafner DH         5  2  2  1 .273  
+  G.Norton LF         5  0  1  1 .200     J.Dye RF            3  2  1  0 .333  
+C-B.Clark LF          0  0  0  0 ----     R.Howard 1B         3  2  1  2 .435  
+  M.Cameron CF        3  3  2  4 .667     C.Coste C           2  1  0  1 .250  
+  R.Branyan 3B        3  1  1  1 .333   A-T.Salmon PH,C       1  1  1  1 .500  
+D-J.Barfield 2B       0  0  0  0 ----   B-M.Lieberthal C      0  0  0  0 .250  
+  S.Green RF          5  0  1  1 .200     C.Utley 2B          4  1  2  4 .346  
+  K.Greene SS         5  2  2  2 .400     J.Rollins SS        4  0  0  0 .167  
+                                          L.Gonzalez LF       4  0  0  0 .214  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 14 16 14                 Totals      36  9  8  9
+
+A-Pinch Hit For Coste In 8th Inning
+B-Subbed Defensively (C ) For Salmon In 9th Inning
+C-Subbed Defensively (LF) For Norton In 9th Inning
+D-Subbed Defensively (2B) For Branyan In 9th Inning
+E-Pinch Hit For Lofton In 9th Inning
+
+Padres.......... 4 0 0  5 0 3  1 1 0  - 14 16  1
+Phillies........ 0 3 4  0 0 0  1 1 0  -  9  8  0
+
+[1]Padres (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy                      2 2/3   5   7   7   2   2   2  23.62  A1 B7
+E.Dessens WIN(1-0)           4       1   0   0   0   2   0   0.00  B8 D2
+A.Embree                     1 1/3   2   2   2   0   1   2  13.50  D3 D9
+T.Hoffman                    1       0   0   0   0   1   0   0.00  E1
+[1]Totals                    9       8   9   9   2   6   4
+
+[1]Phillies (2-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Maddux LOSS(0-3)           3 1/3   9   9   9   3   0   2  11.25  A1 C4
+J.Walker                     2 1/3   1   3   3   2   4   1   6.75  C5 D6
+R.Villone                    0 1/3   1   0   0   0   0   0  16.20  D7 D8
+D.Wheeler                    1 1/3   3   2   2   0   3   1   3.27  D9 E6
+T.Saito                      1 2/3   2   0   0   1   2   0   0.00  E7
+[1]Totals                    9      16  14  14   6   9   4
+
+ATTENDANCE- 37 DATE-  TIME- Day 
+T- 3:43
+LEFT ON BASE- Padres: 9  Phillies: 3
+DOUBLE PLAYS- Padres: 0  Phillies: 1
+ERRORS- M.Derosa
+DOUBLES- M.Cameron(1st), R.Branyan(1st), W.Helms(2nd)
+TRIPLES- T.Hafner(1st), C.Utley(1st)
+HOME RUNS- J.Bard(1st), F.Thomas(1st), M.Cameron(1st), K.Greene(1st),
+           T.Hafner(3rd), R.Howard(2nd), T.Salmon(1st), C.Utley(3rd)
+SACRIFICE FLIES- G.Norton
+WALKS- M.Derosa, N.Johnson, F.Thomas-2, M.Cameron, R.Branyan, R.Howard, C.Coste
+HIT BY PITCH- M.Cameron, R.Branyan, J.Dye
+STRIKE OUTS- J.Bard-2, M.Derosa, N.Johnson-2, G.Norton, M.Cameron, R.Branyan,
+             S.Green, T.Hafner-3, R.Howard, C.Coste, C.Utley
+GIDP- K.Greene
+
+Mike Cameron went deep and had 4 RBI and Elmer Dessens delivered 4 solid
+innings as the San Diego Padres defeated the Philadelphia Phillies by the
+score of 14 to 9 at Citizen's Bank Park.
+
+Cameron had a big day at the plate.  He clubbed a three-run home run (his 1st
+of the season) in the 1st inning and doubled in the 4th inning.  San Diego
+had 16 hits for the game and Philadelphia had 8.  
+
+Dessens(1-0) picked up the victory, allowing no runs in 4 innings. Greg
+Maddux(0-3) was tagged with the loss.  He was unable to control the San Diego
+offense and allowed 9 hits and 3 walks in 3 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2007 San Diego Padres at 2007 Philadelphia Phillies
+J.Bard-A1    A1:Si      B1:Si      C1:HR>3#   D1:G/13    E1:K       *9*:K
+                                   1# b#                            
+                                                                    
+M.Derosa-A1  A2:F/9     B2:G/63    C2:Si      *6*:W>b1   E2:K       F2:Si
+                                                                    
+                                                                    
+N.Johnso-A1  A3:W>12 b  *3*:G/43   C3:Si>12   D3:K       E3:G/43    F3:K
+             1                                                      
+                                                                    
+F.Thomas-A1  A4:Si>23   B4:L/6     C4:W>23 1  D4:HR>1#   *8*:Si     F4:W>12 b
+             12                    2 b1       b#                    1
+                                                                    
+G.Norton-A1  A5:SF/9>3  B5:G/63    C5:K       D5:P/6     E5:Si>12   F5:L/4
+B.Clark-F6   #                                                      
+                                                                    
+M.Camero-A1  A6:HR>2#   *4*:Do     C6:HBP>3#  D6:W>b1    E6:K
+             1# b#                 23 12                 
+                                                         
+R.Branya-A1  A7:G/63    B7:W>b1    C7:K       D7:Do>1#   E7:HBP>23
+J.Barfie-F6                                              12 
+                                                         
+S.Green-A1   *2*:F/8    B8:F/8     *5*:K      D8:G/63    E8:Si>3#
+                                                         23 12
+                                                         
+K.Greene-A1  A9:F/8     B9:Si>2#   C9:G/13    *7*:HR>b#  E9:G-DP/6
+                        13                               43>1o
+                                                         
+
+K.Lofton-A1  A1:G/31    *3*:G/31   C1:G/43    *7*:L/4    E1:F/8
+J.Michae-E1                                              
+                                                         
+W.Helms-A1   A2:G/63    B2:G/43    C2:Do      D2:G/43    E2:F/8
+                                                         
+                                                         
+T.Hafner-A1  A3:K       B3:Tr      C3:K       D3:HR>b#   E3:K
+                                                         
+                                                         
+J.Dye-A1     *2*:Si     B4:HBP     *5*:F/9    D4:G/13
+                                              
+                                              
+R.Howard-A1  A5:HR>1#   B5:IW>12   C5:P/2     *8*:K
+             b#         b1                    
+                                              
+C.Coste-A1   A6:K       B6:W>3# 2  C6:F/7     D6:HR>b#
+T.Salmon-D6             3 12 b1               
+M.Lieber-D9                                   
+C.Utley-A1   A7:HR>b#   B7:Tr>3#   *6*:K      D7:G/63
+                        2# 1#                 
+                                              
+J.Rollin-A1  A8:L/4     B8:F/8     C8:F/7     D8:G/53
+                                              
+                                              
+L.Gonzal-A1  A9:G/23    *4*:G/43   C9:G/63    *9*:E/5
+                                              
+                                              
+
+

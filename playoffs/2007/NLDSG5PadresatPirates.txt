@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2007 San Diego Padres At 2007 Pittsburgh Pirates          11/4/2007
+
+[1]  Padres             AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  J.Bard C            5  1  1  1 .500     D.Roberts CF        5  0  0  0 .143  
+  N.Johnson 1B        6  1  1  4 .211     F.Sanchez 2B        4  0  0  0 .154  
+  J.Baker LF          5  2  2  1 .400     J.Drew RF           2  0  0  0 .421  
+E-S.Green LF          0  0  0  0 .143   A-X.Nady PH,RF        1  0  0  0 .000  
+  F.Thomas DH         5  0  0  0 .000   B-G.Gross PH          0  0  0  0 .000  
+  M.Derosa 2B         6  1  3  2 .304   C-J.Bautista PH,RF    1  1  0  0 .333  
+  M.Cameron CF        5  2  1  1 .136     M.Cabrera 3B        4  1  2  0 .235  
+  R.Branyan 3B        5  1  1  0 .188     D.Ward DH           3  1  2  2 .500  
+  B.Clark RF          5  0  1  0 .333   D-C.Duffy PR,DH       1  1  0  0 .500  
+  K.Greene SS         5  1  3  0 .263     J.Bay LF            4  0  1  1 .095  
+                                          L.Overbay 1B        3  0  0  0 .235  
+                                          R.Paulino C         4  0  0  0 .200  
+                                          J.Wilson SS         4  0  0  0 .059  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      47  9 13  9                 Totals      36  4  5  3
+
+A-Pinch Hit For Drew In 6th Inning
+B-Pinch Hit For Nady In 9th Inning
+C-Pinch Hit For Gross In 9th Inning
+D-Pinch Ran For Ward In 9th Inning
+E-Subbed Defensively (LF) For Baker In 11th Inning
+
+Padres.......... 0 0 0  1 0 3  0 0 0  0 5 -  9 13  0
+Pirates......... 0 1 0  0 0 0  0 0 3  0 0 -  4  5  2
+
+[1]Padres (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Morris                     5 2/3   2   1   1   2   3   1   3.37  A1 C2
+A.Embree HOLD(1st)           0 1/3   0   0   0   0   1   0   5.40  C3 C3
+T.Hoffman HOLD(1st)          2 2/3   0   0   0   1   0   0   1.59  C4 D2
+P.Feliciano                  0       0   1   1   1   0   0   9.00  D3 D3
+E.Dessens BS(1st)            0 1/3   3   2   2   1   0   0   5.79  D4 D8
+C.Meredith WIN(3-0)          2       0   0   0   1   0   0   0.00  D9
+[1]Totals                   11       5   4   4   6   4   1
+
+[1]Pirates (2-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Myers                      5 2/3   7   4   4   0   5   3   4.97  A1 C6
+D.Marte                      0 1/3   0   0   0   0   1   0   0.00  C7 C7
+M.Capps                      2 1/3   1   0   0   0   3   0   0.00  C8 D6
+M.Gonzalez                   0 2/3   2   0   0   0   1   0  13.50  D7 D9
+K.Farnsworth                 0 1/3   1   0   0   0   1   0  54.00  E1 E2
+A.Otsuka LOSS(1-1)           1       2   5   0   2   0   1   1.42  E3 F2
+M.Myers                      0 2/3   0   0   0   1   1   0   0.00  F3
+[1]Totals                   11      13   9   4   3  12   4
+
+ATTENDANCE- -77 DATE-  TIME- Night 
+T- 3:22
+LEFT ON BASE- Padres: 8  Pirates: 5
+DOUBLE PLAYS- Padres: 2  Pirates: 0
+ERRORS- F.Sanchez, M.Cabrera
+DOUBLES- J.Bard(3rd), K.Greene-2(2nd), M.Cabrera(1st)
+TRIPLES- J.Baker(1st)
+HOME RUNS- N.Johnson(2nd), J.Baker(1st), M.Derosa(1st), M.Cameron(1st),
+           D.Ward(2nd)
+WALKS- J.Bard, J.Baker, F.Thomas, F.Sanchez, J.Bautista, M.Cabrera, D.Ward,
+       J.Bay, L.Overbay
+STRIKE OUTS- J.Bard, N.Johnson-3, J.Baker, F.Thomas-2, M.Derosa, M.Cameron-2,
+             R.Branyan-2, D.Roberts, X.Nady, D.Ward, L.Overbay
+GIDP- J.Bay, R.Paulino
+WILD PITCHES- E.Dessens, M.Myers
+
+The San Diego Padres easily topped the Pittsburgh Pirates in 11 innings; the
+final score was 9 to 4.
+
+The game was deadlocked at 4 after nine full innings.  San Diego came out on
+top in the 11th inning.  The critical plate appearance was by Nick Johnson
+who deflated the crowd as he depressed the partisan hometown fans with a
+grand slam home run (his 2nd of the season).  Overall San Diego out-hit
+Pittsburgh 13 to 5.  
+
+Cla Meredith(3-0) got the win allowing no runs in 2 innings. Akinori
+Otsuka(1-1) was tagged with the loss in relief.  He was a hard-luck loser as
+he did not allow an earned run in his 1 inning of work.  
+
+[2]
+[1]SCORESHEET: 2007 San Diego Padres at 2007 Pittsburgh Pirates
+J.Bard-A1    A1:G/53    B1:K       C1:G/13    D1:F/8     *10*:Do    F1:W>3# 2
+                                                                    3 12 b1
+                                                                    
+N.Johnso-A1  A2:K       B2:F/9     *6*:K      D2:F/9     E2:K       F2:HR>3#
+                                                                    2# 1# b#
+                                                                    
+J.Baker-A1   A3:G/53    *4*:HR>b#  C3:Tr      *8*:K      E3:G/53    F3:W>b1
+S.Green-F6                                                          
+                                                                    
+F.Thomas-A1  *2*:F/7    B4:K       C4:G/63    D4:G/43    E4:IW>b1   F4:WP>12
+                                                                    K
+                                                                    
+M.Derosa-A1  A5:Si      B5:Si      C5:HR>3#   D5:K       E5:F/9     F5:G/63
+                                   b#                               
+                                                                    
+M.Camero-A1  A6:K       B6:Force/  C6:HR>b#   *9*:K      *11*:E/5
+                        16>1o b1                         
+                                                         
+R.Branya-A1  A7:Si>13   B7:L/4     C7:K       D7:K       E7:E/4>12
+                                                         
+                                                         
+B.Clark-A1   A8:G/43    *5*:F/9    *7*:F/9    D8:Si      E8:F/7
+                                                         
+                                                         
+K.Greene-A1  *3*:F/7    B9:G/63    C9:Do      D9:Do>1o   E9:Si>23
+                                                         12
+                                                         
+
+D.Robert-A1  A1:G/13    B1:K       C1:F/9     *9*:FO/2   E1:G/31
+                                                         
+                                                         
+F.Sanche-A1  A2:G/31    *4*:G/63   C2:W>b1    D2:P/6     E2:G/63
+                                                         
+                                                         
+J.Drew-A1    A3:L/4     B3:L/4     C3:K       D3:W>b1    *11*:G/63
+X.Nady-C3                                                
+G.Gross-D3+                                              
+M.Cabrer-A1  *2*:G/63   B4:Si      *7*:G/63   D4:Do>13   E4:W>b1
+                                                         
+                                                         
+D.Ward-A1    A5:HR>b#   B5:K       C5:W>b1    D5:Si>3#   E5:F/8
+C.Duffy-D6                                    23         
+                                                         
+J.Bay-A1     A6:F/7     *5*:W>b1   C6:G-DP/6  D6:WP>3#   E6:F/8
+                                   43>1o      12 Si>2#   
+                                                         
+L.Overba-A1  A7:K       B7:L/4     *8*:P/3    D7:W>12 b
+                                              1
+                                              
+R.Paulin-A1  *3*:G/63   B8:G-DP/6  C8:G/43    D8:G/63
+                        43>1o                 
+                                              
+J.Wilson-A1  A9:F/7     *6*:G/43   C9:G/63    *10*:F/8
+                                              
+                                              
+
+

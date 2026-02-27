@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2007 Seattle Mariners At 2007 Oakland Athletics          11/15/2007
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  C.Guillen SS        4  1  0  0 .250     R.Freel RF          4  0  1  0 .125  
+  A.Escobar CF,RF     4  1  1  3 .231     N.Swisher 1B        4  0  0  0 .000  
+  C.Delgado 1B        3  0  0  0 .200     J.Giambi DH         4  2  2  2 .176  
+  A.Rodriguez 3B      3  0  0  0 .318     E.Chavez 3B         4  0  0  0 .053  
+  J.Posada C          4  0  0  0 .167     M.Tejada SS         4  1  2  1 .238  
+  K.Johjima DH        4  0  1  0 .385     P.Burrell LF        3  0  1  0 .267  
+  C.Crawford LF       4  0  1  0 .217     C.Snyder C          3  0  0  0 .214  
+  T.Wigginton 2B      2  0  1  0 .350     D.Dejesus CF        3  0  1  0 .313  
+A-Y.Betancourt PR     0  0  0  0 .250     M.Ellis 2B          2  0  0  0 .000  
+B-J.Lopez 2B          1  1  0  0 .182                                          
+  I.Suzuki RF,CF      4  1  2  0 .261                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  6  3                 Totals      31  3  7  3
+
+A-Pinch Ran For Wigginton In 7th Inning
+B-Subbed Defensively (2B) For Betancourt In 7th Inning
+
+Mariners........ 0 0 0  0 3 0  0 0 1  -  4  6  0
+Athletics....... 1 0 0  2 0 0  0 0 0  -  3  7  1
+
+[1]Mariners (4-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling WIN(1-1)         8       7   3   3   0   8   3   3.57  A1 D2
+J.Putz SAVE(1st)             1       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       7   3   3   0   9   3
+
+[1]Athletics (2-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Harden                     4 1/3   3   3   3   3   6   1   6.23  A1 C2
+J.Duchschere                 3       1   0   0   0   4   0   0.00  C3 D3
+H.Street LOSS(0-1)           1 2/3   2   1   0   0   3   0   0.00  D4
+[1]Totals                    9       6   4   3   3  13   1
+
+ATTENDANCE- 98 DATE-  TIME- Night 
+T- 2:46
+LEFT ON BASE- Mariners: 6  Athletics: 2
+DOUBLE PLAYS- Mariners: 2  Athletics: 1
+ERRORS- R.Freel
+TRIPLES- C.Crawford(2nd)
+HOME RUNS- A.Escobar(2nd), J.Giambi-2(3rd), M.Tejada(1st)
+STOLEN BASES- Y.Betancourt(1st)
+SACRIFICE HITS- M.Ellis
+WALKS- C.Guillen, C.Delgado, A.Rodriguez
+HIT BY PITCH- T.Wigginton
+STRIKE OUTS- C.Guillen-2, C.Delgado, A.Rodriguez-2, J.Posada-3, K.Johjima-2,
+             C.Crawford, T.Wigginton, I.Suzuki, R.Freel, N.Swisher, J.Giambi,
+             E.Chavez-2, P.Burrell-2, M.Ellis-2
+GIDP- J.Posada, C.Snyder-2
+WILD PITCHES- H.Street
+PASSED BALLS- C.Snyder
+
+98 fans watched an exciting game at McAfee Coliseum.  The Seattle Mariners
+topped the Oakland Athletics by the slimmest of margins, 4 to 3.
+
+Seattle scored the deciding run in the 9th inning.  After an out was recorded,
+Carl Crawford tripled.  After another out, Ichiro Suzuki stepped in and he
+delivered a base-hit.  Huston Street then threw a high and inside pitch that
+got by the catcher; it was ruled a passed ball.  Street then was wild with a
+pitch scoring the run.  Oakland proved to be no trouble in the bottom of the
+9th.  
+
+Curt Schilling(1-1) got the win allowing 3 runs in 8 innings. J.J. Putz gained
+credit for his 1st save.  Street(0-1) was given the loss in relief.  He was a
+hard-luck loser as he did not allow an earned run in his 1 and 2/3 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2007 Seattle Mariners at 2007 Oakland Athletics
+C.Guille-A1  A1:E/9>b2  *3*:F/8    C1:W>12 b  D1:K       E1:PB>23
+                                   1                     12 WP>3#
+                                                         23 K
+A.Escoba-A1  A2:L/6     B2:F/7     C2:HR>2#   D2:F/9
+                                   1# b#      
+                                              
+C.Delgad-A1  A3:W>b1    B3:G/43    C3:L/4     *8*:K
+                                              
+                                              
+A.Rodrig-A1  A4:K       *4*:W>b1   C4:F/8     D4:K
+                                              
+                                              
+J.Posada-A1  A5:K       B5:G-DP/6  *6*:K      D5:K
+                        43>1o                 
+                                              
+K.Johjim-A1  *2*:K      B6:Si      C6:K       *9*:G/3
+                                              
+                                              
+C.Crawfo-A1  A7:G/43    B7:K       C7:L/4     D7:Tr
+                                              
+                                              
+T.Wiggin-A1  A8:HBP     *5*:K      *7*:Si     D8:FC/12>
+Y.Betanc-C9                                   3o
+J.Lopez-D3                                    
+I.Suzuki-A1  A9:K       B9:Si      C9:SB>12   D9:Si>12
+                                   P/1        
+                                              
+
+R.Freel-A1   A1:K       B1:Si      C1:G/63    D1:G/63>2
+                                              3
+                                              
+N.Swishe-A1  A2:G/31    B2:F/7     *6*:L/3    D2:K
+                                              
+                                              
+J.Giambi-A1  A3:HR>b#   *4*:HR>b#  C3:F/9     *9*:K
+                                              
+                                              
+E.Chavez-A1  A4:K       B4:K       C4:G/63    D4:G/63
+                                              
+                                              
+M.Tejada-A1  *2*:Si     B5:HR>b#   *7*:G/43   D5:L/6
+                                              
+                                              
+P.Burrel-A1  A6:K       B6:K       C6:Si
+                                   
+                                   
+C.Snyder-A1  A7:G-DP/6  B7:F/9     C7:G-DP/5
+             43>1o                 43>1o
+                                   
+D.Dejesu-A1  *3*:G/53   *5*:G/43   *8*:Si
+                                   
+                                   
+M.Ellis-A1   A9:K       B9:K       C9:Sac/14
+                                   >12
+                                   
+
+

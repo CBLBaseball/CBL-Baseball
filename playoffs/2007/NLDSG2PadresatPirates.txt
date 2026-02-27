@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2007 San Diego Padres At 2007 Pittsburgh Pirates         10/30/2007
+
+[1]  Padres             AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  J.Bard C            4  2  3  1 .500     D.Roberts LF,CF,LF  4  1  2  0 .250  
+  N.Johnson 1B        4  1  2  2 .286     J.Bay DH            4  0  1  0 .125  
+  F.Thomas DH         3  0  0  0 .000     J.Drew RF           4  1  4  3 .625  
+  G.Norton LF         4  0  0  0 .250     M.Cabrera 3B        3  0  0  0 .000  
+  M.Derosa 2B         4  0  0  0 .125     L.Overbay 1B        4  0  0  0 .250  
+  M.Cameron CF        4  0  0  0 .000     R.Paulino C         4  0  0  0 .143  
+  B.Clark RF          4  0  2  0 .500     G.Gross CF,LF       1  0  0  0 .000  
+  R.Branyan 3B        4  1  1  1 .143   A-X.Nady PH           0  0  0  0 ----  
+  K.Greene SS         4  0  0  0 .000   B-C.Duffy PH,CF       2  0  1  0 .667  
+                                          M.Grudzielanek 2B   3  0  0  0 .167  
+                                          J.Wilson SS         2  1  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4  8  4                 Totals      31  3  8  3
+
+A-Pinch Hit For Gross In 7th Inning
+B-Pinch Hit For Nady In 7th Inning
+
+Padres.......... 1 0 0  0 0 0  0 2 1  -  4  8  0
+Pirates......... 0 0 3  0 0 0  0 0 0  -  3  8  1
+
+[1]Padres (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Morris                     5       6   3   3   2   2   1   5.40  A1 C4
+P.Feliciano                  1       0   0   0   0   0   0   0.00  C5 C6
+C.Meredith WIN(1-0)          3       2   0   0   0   3   0   0.00  C7
+[1]Totals                    9       8   3   3   2   5   1
+
+[1]Pirates (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Myers                      7       7   3   3   1   9   2   3.86  A1 D2
+J.Borowski LOSS(0-1)         2       1   1   1   0   3   1   4.50  D3
+[1]Totals                    9       8   4   4   1  12   3
+
+ATTENDANCE- 158 DATE-  TIME- Night 
+T- 2:58
+LEFT ON BASE- Padres: 5  Pirates: 5
+DOUBLE PLAYS- Padres: 2  Pirates: 1
+ERRORS- L.Overbay
+DOUBLES- J.Bard(1st), N.Johnson(1st), J.Drew(1st)
+HOME RUNS- J.Bard(1st), N.Johnson(1st), R.Branyan(1st), J.Drew(2nd)
+STOLEN BASES- C.Duffy(1st)
+CAUGHT STEALING- D.Roberts
+SACRIFICE HITS- M.Grudzielanek
+WALKS- F.Thomas, M.Cabrera, J.Wilson
+HIT BY PITCH- G.Gross
+STRIKE OUTS- N.Johnson, F.Thomas-2, G.Norton, M.Derosa-2, B.Clark-2,
+             R.Branyan-2, K.Greene-2, J.Bay, M.Cabrera-2, M.Grudzielanek,
+             J.Wilson
+GIDP- N.Johnson, M.Cabrera, R.Paulino
+
+158 fans were treated to a fine game at PNC Park as only one run separated the
+combatants at game's end.  The San Diego Padres won by the slimmest of
+margins, 4 to 3.
+
+The game was won by San Diego with a run in the 9th inning.  After two were
+out Russell Branyan cracked a solo homerun (his 1st of the season).
+Pittsburgh went down without a fight in the bottom of the 9th.  
+
+The victory went to Cla Meredith(1-0) who went 3 innings, allowing no runs.
+Joe Borowski(0-1) took the loss in relief.  He allowed 1 run and 1 hit in 2
+innings.
+[2]
+[1]SCORESHEET: 2007 San Diego Padres at 2007 Pittsburgh Pirates
+J.Bard-A1    A1:HR>b#   B1:Si      C1:E/3     *8*:Do
+                                              
+                                              
+N.Johnso-A1  A2:K       B2:G-DP/6  C2:Do>13   D2:HR>2#
+                        43>1o                 b#
+                                              
+F.Thomas-A1  A3:K       *4*:L/3    C3:IW>b1   D3:K
+                                              
+                                              
+G.Norton-A1  A4:G/63    B4:L/4     C4:K       D4:F/9
+                                              
+                                              
+M.Derosa-A1  *2*:L/6    B5:G/63    C5:K       D5:K
+                                              
+                                              
+M.Camero-A1  A6:F/7     *5*:F/7    *7*:Appea  *9*:G/63
+                                   l/7>bo     
+                                              
+B.Clark-A1   A7:Si      B7:K       C7:Si      D7:K
+                                              
+                                              
+R.Branya-A1  A8:K       B8:K       C8:F/9     D8:HR>b#
+                                              
+                                              
+K.Greene-A1  *3*:K      *6*:K      C9:G/53    D9:G/63
+                                              
+                                              
+
+D.Robert-A1  A1:Si      B1:Si>13   C1:G/31    D1:G/43
+                                              
+                                              
+J.Bay-A1     A2:CS/24>  B2:P/6     C2:F/7     *8*:K
+             1o Si                            
+                                              
+J.Drew-A1    A3:Si>13   B3:HR>3#   *6*:Si     D3:Do
+                        1# b#                 
+                                              
+M.Cabrer-A1  A4:G-DP/6  B4:K       C4:W>12 b  D4:K
+             43>1o                 1          
+                                              
+L.Overba-A1  *2*:F/8    *4*:G/43   C5:P/1     D5:G/13
+                                              
+                                              
+R.Paulin-A1  A6:P/6     B6:F/7     C6:G-DP/6  *9*:G/63
+                                   43>1o      
+                                              
+G.Gross-A1   A7:G/31    B7:HBP     *7*:Si     D7:G/31
+X.Nady-C7                                     
+C.Duffy-C7                                    
+M.Grudzi-A1  *3*:G/13   B8:G/13    C8:SB>12   D8:K
+                                   Sac/54>23  
+                                              
+J.Wilson-A1  A9:W>b1    *5*:K      C9:FC/12>
+                                   3o
+                                   
+
+

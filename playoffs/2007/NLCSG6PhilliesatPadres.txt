@@ -1,0 +1,198 @@
+[1]BOXSCORE: 2007 Philadelphia Phillies At 2007 San Diego Padres      12/15/2007
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  K.Lofton CF         3  0  1  0 .100     J.Bard C            5  2  2  0 .480  
+B-S.Victorino PH,CF,R 5  0  1  0 .286     M.Derosa 3B         5  0  1  0 .308  
+  S.Rolen 3B          7  0  1  0 .133     N.Johnson 1B        7  0  1  0 .120  
+  T.Hafner DH         6  0  0  0 .067     F.Thomas DH         3  0  0  1 .300  
+  J.Dye RF            7  0  0  0 .400     G.Norton LF         4  0  1  1 .208  
+F-L.Ford CF           0  0  0  0 .000   C-B.Clark LF          1  0  0  0 .000  
+  R.Howard 1B         5  1  1  0 .357     M.Cameron CF        6  1  1  1 .120  
+  C.Utley 2B          7  2  5  0 .533     R.Branyan RF        3  0  0  0 .154  
+  J.Rollins SS        7  0  2  1 .333   D-S.Green RF          3  0  0  0 .182  
+  L.Gonzalez LF       2  0  0  0 .143     K.Greene SS         6  0  0  0 .190  
+A-J.Michaels PH,LF    5  1  1  0 .200     J.Barfield 2B       6  0  1  0 .261  
+  M.Lieberthal C      3  0  0  0 .000                                          
+E-W.Helms PH,C        4  1  2  4 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      61  5 14  5                 Totals      49  3  7  3
+
+A-Pinch Hit For Gonzalez In 7th Inning
+B-Pinch Hit For Lofton In 8th Inning
+C-Subbed Defensively (LF) For Norton In 9th Inning
+D-Subbed Defensively (RF) For Branyan In 9th Inning
+E-Pinch Hit For Lieberthal In 9th Inning
+F-Subbed Defensively (CF) For Dye In 15th Inning
+
+Phillies........ 0 0 0  0 0 0  0 0 3  0 0 0  0 0 2  -  5 14  0
+Padres.......... 1 1 0  0 0 1  0 0 0  0 0 0  0 0 0  -  3  7  3
+
+[1]Phillies (2-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Martinez                   5 1/3   3   3   3   3   6   1   2.51  A1 C3
+T.Saito                      3       2   0   0   1   4   0   0.00  C4 D6
+T.Gordon                     0 1/3   0   0   0   0   0   0   0.00  D7 D7
+D.Wheeler                    3       0   0   0   1   4   0   0.00  D8 E8
+R.Dempster                   0       1   0   0   0   0   0   ----  E9 E9
+J.Benoit WIN(1-0)            3 1/3   1   0   0   2   5   0   0.00  F1
+[1]Totals                   15       7   3   3   7  19   1
+
+[1]Padres (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Morris                     6       5   0   0   0   5   0   4.63  A1 C6
+S.Linebrink HOLD(2nd)        0 2/3   0   0   0   0   1   0   0.00  C7 C8
+R.Cormier HOLD(1st)          0 1/3   1   0   0   0   0   0   5.40  C9 D1
+C.Meredith HOLD(1st)         0 2/3   0   0   0   1   1   0   0.00  D2 D4
+P.Feliciano HOLD(2nd)        0 1/3   1   1   1   0   0   0   3.00  D5 D6
+T.Hoffman BS(1st)            2       3   2   2   1   2   1   2.70  D7 E7
+E.Dessens                    4       1   0   0   0   4   0   1.29  E8 G3
+A.Embree LOSS(0-1)           1       3   2   2   1   2   0  15.00  G4
+[1]Totals                   15      14   5   5   3  15   1
+
+ATTENDANCE- 99 DATE-  TIME- Day 
+T- 4:31
+LEFT ON BASE- Phillies:14  Padres:11
+DOUBLE PLAYS- Phillies: 1  Padres: 0
+ERRORS- M.Cameron, K.Greene, J.Barfield
+DOUBLES- R.Howard(1st), C.Utley(2nd), J.Rollins(2nd), J.Bard(2nd)
+HOME RUNS- W.Helms(1st), M.Cameron(1st)
+SACRIFICE HITS- B.Clark
+SACRIFICE FLIES- F.Thomas
+WALKS- T.Hafner, R.Howard-2, J.Bard-2, M.Derosa-2, F.Thomas-2, B.Clark
+HIT BY PITCH- F.Thomas
+STRIKE OUTS- S.Victorino, S.Rolen, T.Hafner-5, J.Dye-3, C.Utley, J.Rollins,
+             J.Michaels-2, W.Helms, J.Bard, M.Derosa-4, N.Johnson, G.Norton,
+             M.Cameron-4, R.Branyan-2, S.Green, K.Greene, J.Barfield-4
+GIDP- N.Johnson
+WEB GEMS- Bot 12th: Shane Victorino robbed Khalil Greene of an extra base hit.
+
+Wes Helms left the yard and had 4 RBI at Wrigley Field where the Philadelphia
+Phillies beat the San Diego Padres in 15 innings by the score of 5 to 3.
+
+The game was deadlocked at 3 after nine full innings.  Philadelphia won it in
+the 15th inning.  After an out was recorded, Ryan Howard got things rolling
+when he drew a walk.  Chase Utley followed and he lashed a single.  Jimmy
+Rollins then laced a base-knock resulting in a run.  Jason Michaels was next
+to the plate, but was promptly struck out.  Helms stepped into the box and
+stroked a one-base hit scoring the final run of the inning.  For the game
+Philadelphia out-hit San Diego 14 to 7.  
+
+Joaquin Benoit(1-0) was the winner allowing no runs in 3 and 1/3 innings. The
+loss was charged to Alan Embree(0-1) in relief.  He allowed 2 runs and 3 hits
+in 1 inning.
+[2]
+[1]SCORESHEET: 2007 Philadelphia Phillies at 2007 San Diego Padres
+K.Lofton-A1  A1:F/8     B1:G/43    C1:Si      *8*:Si     E1:F/8     F1:G/43
+S.Victor-D1                                                         
+                                                                    
+S.Rolen-A1   A2:Si      B2:G/43    C2:L/6     D2:K       E2:G/13    *12*:G/63
+                                                                    
+                                                                    
+T.Hafner-A1  A3:K       *4*:K      *6*:K      D3:W>12 b  *10*:K     F3:K
+                                              1                     
+                                                                    
+J.Dye-A1     A4:K       B4:K       C4:G/63    D4:F/8     E4:P/6     F4:G/63
+L.Ford-H2                                                           
+                                                                    
+R.Howard-A1  *2*:Do     B5:E/8>b2  C5:G/31    D5:P/4     E5:W>b1    *13*:G/43
+                                                                    
+                                                                    
+C.Utley-A1   A6:L/6     B6:Si>23   *7*:Si+E/  *9*:Si     E6:K       F6:Do
+                                   4                                
+                                                                    
+J.Rollin-A1  A7:F/8     B7:G/31    C7:K       D7:L/4     *11*:Do    F7:L/4
+                                                                    
+                                                                    
+L.Gonzal-A1  A8:G/43    *5*:F/9    C8:P/6     D8:Si>12   E8:K       F8:G/63
+J.Michae-C8                                                         
+                                                                    
+M.Lieber-A1  *3*:L/6    B9:F/7     C9:F/8     D9:HR>2#   E9:K       *14*:G/63
+W.Helms-D9                                    1# b#                 
+                                                                    
+
+J.Bard-A1    A1:W>b1    *3*:F/8    *6*:W>b1   D1:Do      E1:K       F1:Si>13
+                                                                    
+                                                                    
+M.Derosa-A1  A2:W>12 b  B2:Si      C2:K       D2:K       E2:K       F2:W>12 b
+             1                                                      1
+                                                                    
+N.Johnso-A1  A3:G/63>2  B3:G-DP/1  C3:Si>13   *8*:G/63   *11*:G/63  F3:K
+             3 12       63>1o                                       
+                                                                    
+F.Thomas-A1  A4:SF/7>3  *4*:G/63   C4:W>12 b  D4:G/43    E4:F/7     *13*:HBP
+             #                     1                                
+                                                                    
+G.Norton-A1  A5:L/4     B5:K       C5:Si>3#   D5:F/9     E5:W>b1    F5:Sac/14
+B.Clark-D6                         23 12                            >12
+                                                                    
+M.Camero-A1  *2*:HR>b#  B6:K       C6:K       *9*:G/63   E6:K       F6:K
+                                                                    
+                                                                    
+R.Branya-A1  A7:K       *5*:K      C7:F/8     D7:F/7     *12*:G/43  F7:K
+S.Green-D6                                                          
+                                                                    
+K.Greene-A1  A8:G/63    B8:L/5     *7*:K      D8:G/43    E8:F/8     *14*:G/63
+                                                                    
+                                                                    
+J.Barfie-A1  A9:K       B9:F/8     C9:K       *10*:K     E9:Si      F9:K
+                                                                    
+                                                                    
+
+
+[2]
+[1]SCORESHEET: 2007 Philadelphia Phillies at 2007 San Diego Padres
+K.Lofton-A1  G1:K       H1:F/7
+S.Victor-D1             
+                        
+S.Rolen-A1   G2:E/6
+             
+             
+T.Hafner-A1  G3:F/8
+             
+             
+J.Dye-A1     *15*:K
+L.Ford-H2    
+             
+R.Howard-A1  G5:W>b1
+             
+             
+C.Utley-A1   G6:Si>12
+             
+             
+J.Rollin-A1  G7:Si>2#
+             13
+             
+L.Gonzal-A1  G8:K
+J.Michae-C8  
+             
+M.Lieber-A1  G9:Si>3#
+W.Helms-D9   13
+             
+
+J.Bard-A1    G1:G/63
+             
+             
+M.Derosa-A1  *15*:K
+             
+             
+N.Johnso-A1  G3:G/63
+             
+             
+F.Thomas-A1  G4:W>b1
+             
+             
+G.Norton-A1  G5:Force/
+B.Clark-D6   64>1o b1
+             
+M.Camero-A1
+
+
+R.Branya-A1
+S.Green-D6
+
+K.Greene-A1
+
+
+J.Barfie-A1
+
+
+
+

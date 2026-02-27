@@ -1,0 +1,117 @@
+[1]BOXSCORE: 2007 Baltimore Orioles At 2007 Oakland Athletics         10/15/2007
+
+[1]  Orioles            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  B.Roberts 2B        5  0  0  0 .286     J.Davanon CF        4  1  1  0 .125  
+  D.Eckstein SS       4  1  2  0 .500     R.Freel RF          4  0  2  1 .250  
+  C.Beltran CF        4  1  1  2 .167     J.Giambi DH         4  0  0  0 .000  
+  V.Guerrero LF       4  1  2  0 .385     N.Swisher 1B        3  0  0  0 .143  
+B-N.Cruz LF           0  0  0  0 ----     M.Tejada SS         2  0  1  0 .455  
+  A.Gonzalez 1B       4  0  1  0 .385     P.Burrell LF        4  0  0  0 .200  
+  M.Piazza DH         3  0  1  0 .500     E.Chavez 3B         2  1  1  0 .333  
+  N.Markakis RF       3  0  1  0 .182   A-C.Ross PH           1  0  0  0 .000  
+  J.Kendall C         3  0  1  1 .182     C.Snyder C          4  0  0  0 .250  
+  A.Beltre 3B         4  0  0  0 .000     M.Ellis 2B          4  0  2  1 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  9  3                 Totals      32  2  7  2
+
+A-Pinch Hit For Chavez In 9th Inning
+B-Subbed Defensively (LF) For Guerrero In 9th Inning
+
+Orioles......... 0 1 0  0 2 0  0 0 0  -  3  9  0
+Athletics....... 0 0 1  1 0 0  0 0 0  -  2  7  0
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson WIN(1-1)           7       7   2   2   2   5   0   4.73  A1 D2
+B.Ryan SAVE(1st)             2       0   0   0   1   2   0   0.00  D3
+[1]Totals                    9       7   2   2   3   7   0
+
+[1]Athletics (1-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren LOSS(0-1)            9       9   3   3   2   7   1   3.00  A1
+[1]Totals                    9       9   3   3   2   7   1
+
+ATTENDANCE- -100 DATE-  TIME- Day 
+T- 2:43
+LEFT ON BASE- Orioles: 8  Athletics: 7
+DOUBLE PLAYS- Orioles: 1  Athletics: 1
+DOUBLES- M.Ellis(1st)
+HOME RUNS- C.Beltran(1st)
+STOLEN BASES- J.Davanon(2nd)
+CAUGHT STEALING- R.Freel
+SACRIFICE FLIES- J.Kendall
+WALKS- D.Eckstein, N.Markakis, M.Tejada-2, E.Chavez
+HIT BY PITCH- M.Piazza, N.Swisher
+STRIKE OUTS- D.Eckstein, A.Gonzalez, M.Piazza-2, J.Kendall, A.Beltre-2,
+             J.Davanon, R.Freel, J.Giambi, N.Swisher, P.Burrell, C.Snyder,
+             M.Ellis
+GIDP- P.Burrell
+PASSED BALLS- C.Snyder
+
+David Eckstein had 2 base hits as the Baltimore Orioles defeated the Oakland
+Athletics by a score of 3 to 2 at McAfee Coliseum.
+
+Josh Johnson(1-1) delivered a fine performance for Baltimore.  He went 7
+innings surrendering 7 hits and 2 walks lowering his ERA from 7.11 to 4.72.
+Oakland went down quietly in the bottom of the 9th.  
+
+B.J. Ryan recorded the save, his 1st.  Dan Haren(0-1) was given the loss.  He
+pitched 9 innings giving up 9 hits and 2 walks.
+
+[2]
+[1]SCORESHEET: 2007 Baltimore Orioles at 2007 Oakland Athletics
+B.Robert-A1  A1:G/53    B1:FO/3    C1:P/5     *7*:G/53   E1:F/9
+                                                         
+                                                         
+D.Eckste-A1  A2:F/7     B2:W>b1    C2:Si      D2:Si      E2:K
+                                                         
+                                                         
+C.Beltra-A1  A3:G/63    B3:L/3     C3:HR>1#   D3:L/3
+                                   b#         
+                                              
+V.Guerre-A1  *2*:Si     *4*:FO/2   C4:Si      D4:L/6
+N.Cruz-E3                                     
+                                              
+A.Gonzal-A1  A5:G/43>1  B5:Si      C5:G/43    *8*:K
+             2                                
+                                              
+M.Piazza-A1  A6:HBP     B6:K       *6*:K      D6:Si
+                                              
+                                              
+N.Markak-A1  A7:PB>23   B7:Si>12   C7:G/43    D7:P/6
+             12 W>b1                          
+                                              
+J.Kendal-A1  A8:SF-DP/  B8:K       C8:Si      D8:G/3
+             935>3# 2o                        
+             12                               
+A.Beltre-A1  *3*:G/53   *5*:K      C9:K       *9*:G/53
+                                              
+                                              
+
+J.Davano-A1  A1:K       B1:Force/  C1:L/3     D1:Si
+                        36>1o b1              
+                                              
+R.Freel-A1   A2:K       B2:SB>12   *5*:Si     D2:G/63
+                        Si>2#                 
+                                              
+J.Giambi-A1  A3:P/4     B3:F/7     C3:CS/26>  *8*:K
+                                   1o G/43    
+                                              
+N.Swishe-A1  *2*:K      B4:HBP>12  C4:G/43    D4:L/5
+                                              
+                                              
+M.Tejada-A1  A5:W>b1    B5:G/43    *6*:Si     D5:W>b1
+                                              
+                                              
+P.Burrel-A1  A6:L/6     *4*:L/6    C6:G-DP/6  D6:K
+                                   43>1o      
+                                              
+E.Chavez-A1  A7:Si>12   B7:W>b1    C7:G/43    *9*:FO/2
+C.Ross-D7                                     
+                                              
+C.Snyder-A1  A8:G/53    B8:K       *7*:F/7    D8:L/5
+                                              
+                                              
+M.Ellis-A1   *3*:Si     B9:Do>1#   C9:K       D9:F/8
+                                              
+                                              
+
+

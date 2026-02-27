@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2007 Pittsburgh Pirates At 2007 San Diego Padres          11/4/2007
+
+[1]  Pirates            AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Roberts LF        3  0  0  0 .091     J.Bard C            3  0  1  1 .583  
+B-X.Nady PH,RF        1  0  1  01.000     N.Johnson 1B        4  0  0  0 .100  
+  J.Bay DH            3  1  1  0 .083     F.Thomas DH         4  2  3  0 .300  
+  J.Drew RF,LF        4  0  0  0 .231     G.Norton LF         4  0  2  0 .308  
+  M.Cabrera 3B        3  1  1  2 .333     M.Derosa 3B         4  0  3  2 .462  
+  L.Overbay 1B        4  0  1  0 .300     M.Cameron CF        4  0  0  0 .154  
+  R.Paulino C         3  0  0  0 .250     S.Green RF          4  0  1  0 .250  
+  G.Gross CF          3  0  0  0 .000     K.Greene SS         4  1  1  0 .273  
+A-C.Duffy CF          0  0  0  0 ----     J.Barfield 2B       3  0  1  0 .364  
+C-D.Ward PH           1  0  0  0 .333                                          
+  M.Grudzielanek 2B   3  0  1  0 .333                                          
+  J.Wilson SS         3  0  1  0 .182                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  6  2                 Totals      34  3 12  3
+
+A-Subbed Defensively (CF) For Gross In 7th Inning
+B-Pinch Hit For Roberts In 8th Inning
+C-Pinch Hit For Duffy In 9th Inning
+
+Pirates......... 2 0 0  0 0 0  0 0 0  -  2  6  0
+Padres.......... 1 0 0  0 0 0  1 1    -  3 12  0
+
+[1]Pirates (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Burnett                    6       7   1   1   1   8   0   2.84  A1 C7
+M.Capps BS(1st)              1       2   1   1   0   0   0   9.00  C8 D2
+A.Otsuka LOSS(0-1)           0 2/3   3   1   1   0   2   0   2.25  D3 D7
+J.Borowski                   0 1/3   0   0   0   0   1   0   0.00  D8
+[1]Totals                    8      12   3   3   1  11   0
+
+[1]Padres (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hensley                    7       5   2   2   3   4   1   3.75  A1 C9
+A.Embree                     0       1   0   0   0   0   0  27.00  D1 D1
+T.Hoffman WIN(1-0)           2       0   0   0   0   2   0   0.00  D2
+[1]Totals                    9       6   2   2   3   6   1
+
+ATTENDANCE- -23 DATE-  TIME- Day 
+T- 2:53
+LEFT ON BASE- Pirates: 5  Padres: 8
+DOUBLE PLAYS- Pirates: 1  Padres: 2
+DOUBLES- J.Bay(1st), J.Wilson(1st), F.Thomas-2(2nd), M.Derosa-2(2nd),
+         K.Greene(1st), J.Barfield(2nd)
+HOME RUNS- M.Cabrera(1st)
+WALKS- J.Bay, M.Cabrera, R.Paulino, J.Bard
+STRIKE OUTS- J.Drew, L.Overbay, R.Paulino, G.Gross, M.Grudzielanek, J.Wilson,
+             J.Bard, N.Johnson-2, G.Norton-2, M.Derosa, M.Cameron-2, S.Green,
+             K.Greene, J.Barfield
+GIDP- R.Paulino, M.Grudzielanek, N.Johnson
+
+One run was the difference at Wrigley Field as the San Diego Padres defeated
+the Pittsburgh Pirates 3 to 2.
+
+Trevor Hoffman(1-0) won the game with a masterful relief performance.  He
+performed flawlessly in relief in his 2 innings.  Pittsburgh was out-hit by
+San Diego, 12 hits to 6.  
+
+The loss was charged to Akinori Otsuka(0-1) in relief.  He pitched 2/3 of an
+inning and surrendered 3 hits and no walks.
+[2]
+[1]SCORESHEET: 2007 Pittsburgh Pirates at 2007 San Diego Padres
+D.Robert-A1  A1:G/13    B1:G/63    C1:G/31    *8*:Si
+X.Nady-D1                                     
+                                              
+J.Bay-A1     A2:Do      B2:F/7     *6*:W>b1   D2:P/5
+                                              
+                                              
+J.Drew-A1    A3:F/7     *4*:G/43   C3:K       D3:FO/2
+                                              
+                                              
+M.Cabrer-A1  A4:HR>2#   B4:W>b1    C4:G/43>1  D4:F/8
+             b#                    2          
+                                              
+L.Overba-A1  A5:F/7     B5:Si>13   C5:F/9     *9*:K
+                                              
+                                              
+R.Paulin-A1  *2*:W>b1   B6:G-DP/6  *7*:L/6    D6:K
+                        43>1o                 
+                                              
+G.Gross-A1   A7:K       *5*:F/9    C7:F/8     D7:F/8
+C.Duffy-D1                                    
+D.Ward-D7                                     
+M.Grudzi-A1  A8:G-DP/5  B8:K       C8:Si
+             43>1o                 
+                                   
+J.Wilson-A1  *3*:K      B9:Do      C9:G/63
+                                   
+                                   
+
+J.Bard-A1    A1:G/43    B1:K       C1:W>b1    D1:Si>2#
+                                              
+                                              
+N.Johnso-A1  A2:K       *3*:G/31   C2:K       D2:G-DP/6
+                                              43>1o
+                                              
+F.Thomas-A1  A3:Do      B3:G/31    C3:Si>12   *8*:Do
+                                              
+                                              
+G.Norton-A1  A4:Si>23   B4:Si      C4:K       D4:K
+                                              
+                                              
+M.Derosa-A1  A5:Do>3#   B5:Do>1o   *6*:K      D5:Si>2#
+             13                               
+                                              
+M.Camero-A1  A6:K       *4*:G/3    C6:G/63    D6:K
+                                              
+                                              
+S.Green-A1   *2*:L/3    B7:K       C7:G/31    D7:Si>12
+                                              
+                                              
+K.Greene-A1  A8:G/31    B8:L/6     *7*:Do     D8:K
+                                              
+                                              
+J.Barfie-A1  A9:Do      *5*:K      C9:G/13
+                                   
+                                   
+
+

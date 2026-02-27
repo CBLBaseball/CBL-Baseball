@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2007 Oakland Athletics At 2007 Seattle Mariners          11/11/2007
+
+[1]  Athletics          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Davanon RF,CF     4  1  1  0 .250     A.Rodriguez 3B      3  1  2  0 .381  
+  N.Swisher 1B        3  0  0  1 .000   E-J.Posada PH         1  0  0  0 .353  
+  J.Giambi DH         2  1  1  1 .500     I.Suzuki CF         4  0  1  0 .292  
+C-R.Hernandez PH      1  0  0  0 .000     R.Aurilia 1B        4  0  0  1 .267  
+  E.Chavez 3B         3  0  0  0 .000     T.Wigginton DH      4  0  1  0 .333  
+  M.Tejada SS         3  0  0  0 .000     J.Lopez 2B          3  0  0  0 .188  
+  P.Burrell LF        0  0  0  0 ----     G.Kapler RF         4  0  2  0 .375  
+A-R.Freel RF          0  0  0  0 ----     C.Guillen SS        3  0  0  0 .190  
+  C.Snyder C          3  0  0  0 .000     V.Wilson C          3  0  1  0 .667  
+  D.Dejesus CF,LF     3  0  0  0 .000   D-C.Delgado PH        1  0  0  0 .167  
+  J.Inglett 2B        3  0  0  0 .000     C.Crawford LF       4  0  1  0 .273  
+B-M.Ellis 2B          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      25  2  2  2                 Totals      34  1  8  1
+
+A-Subbed Defensively (RF) For Burrell In 8th Inning
+B-Subbed Defensively (2B) For Inglett In 8th Inning
+C-Pinch Hit For Giambi In 9th Inning
+D-Pinch Hit For Wilson In 9th Inning
+E-Pinch Hit For Rodriguez In 9th Inning
+
+Athletics....... 0 0 0  1 0 1  0 0 0  -  2  2  0
+Mariners........ 1 0 0  0 0 0  0 0 0  -  1  8  1
+
+[1]Athletics (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Francis WIN(1-0)           8       7   1   1   2   7   0   1.13  A1 D6
+H.Street SAVE(1st)           1       1   0   0   0   1   0   0.00  D7
+[1]Totals                    9       8   1   1   2   8   0
+
+[1]Mariners (4-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Jennings LOSS(1-1)         8 1/3   2   2   2   5   5   1   3.18  A1 D2
+G.Sherrill                   0 2/3   0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       2   2   2   5   6   1
+
+ATTENDANCE- 215 DATE-  TIME- Night 
+T- 2:50
+LEFT ON BASE- Athletics: 2  Mariners: 9
+DOUBLE PLAYS- Athletics: 0  Mariners: 3
+ERRORS- R.Aurilia
+DOUBLES- I.Suzuki(1st)
+TRIPLES- J.Davanon(1st)
+HOME RUNS- J.Giambi(1st)
+SACRIFICE HITS- J.Lopez
+SACRIFICE FLIES- N.Swisher
+WALKS- J.Giambi, E.Chavez, P.Burrell-3, A.Rodriguez, C.Guillen
+STRIKE OUTS- N.Swisher-2, E.Chavez, C.Snyder-2, J.Inglett, A.Rodriguez,
+             R.Aurilia, J.Lopez, C.Guillen-2, V.Wilson-2, C.Delgado
+GIDP- M.Tejada-2, D.Dejesus
+
+In a game for the baseball purist, Jeff Francis(1-0) and Jason Jennings(1-1)
+squared off in a tense pitching duel, Oakland Athletics finally emerged
+victorious over Seattle Mariners, 2 to 1.
+
+In the 6th inning Oakland scored 1 run.  Seattle had a chance in the 9th but
+they came up short.  Francis was helped out by Huston Street who recorded his
+1st save.  
+
+'We didn't get the key hits when we needed them' Jay Buhner said. 'We did what
+we could, we just didn't pull out the win. What can you say?'
+[2]
+[1]SCORESHEET: 2007 Oakland Athletics at 2007 Seattle Mariners
+J.Davano-A1  A1:F/8     B1:G/43    C1:Tr      D1:F/9
+                                              
+                                              
+N.Swishe-A1  A2:K       *4*:G/3    C2:SF/7>3  *9*:K
+                                   #          
+                                              
+J.Giambi-A1  A3:W>b1 P  B3:HR>b#   C3:L/4     D3:G/63
+R.Hernan-D3  kOff/13>1                        
+             o                                
+E.Chavez-A1  *2*:G/3    B4:E/3     *7*:W>b1   D4:K
+                                              
+                                              
+M.Tejada-A1  A5:L/6     B5:G-DP/1  C5:G-DP/6
+                        63>1o      43>1o
+                                   
+P.Burrel-A1  A6:W>b1    *5*:W>b1   C6:W>b1
+R.Freel-D2                         
+                                   
+C.Snyder-A1  A7:K       B7:K       C7:G/63
+                                   
+                                   
+D.Dejesu-A1  *3*:G/63   B8:G-DP/6  *8*:G/31
+                        43>1o      
+                                   
+J.Inglet-A1  A9:P/2     *6*:K      C9:G/63
+M.Ellis-D2                         
+                                   
+
+A.Rodrig-A1  A1:W>b1    *3*:Si     *5*:K      D1:Si      E1:F/9
+J.Posada-E1                                              
+                                                         
+I.Suzuki-A1  A2:Do>13   B2:G/43>1  C2:G/63    D2:L/4
+                        2                     
+                                              
+R.Aurili-A1  A3:G/63>3  B3:L/6     C3:K       D3:G/53
+             # 23                             
+                                              
+T.Wiggin-A1  A4:G/13    B4:F/8     *6*:Si     *8*:G/3
+                                              
+                                              
+J.Lopez-A1   A5:G/63    *4*:K      C5:Sac/34  D5:F/9
+                                   >12        
+                                              
+G.Kapler-A1  *2*:Si     B6:Si      C6:G/53    D6:F/7
+                                              
+                                              
+C.Guille-A1  A7:K       B7:K       C7:W>b1    *9*:L/4
+                                              
+                                              
+V.Wilson-A1  A8:K       B8:Si>12   C8:K       D8:K
+C.Delgad-D8                                   
+                                              
+C.Crawfo-A1  A9:F/9     B9:G/43    *7*:F/8    D9:Si
+                                              
+                                              
+
+

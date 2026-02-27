@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2007 Seattle Mariners At 2007 Minnesota Twins            10/30/2007
+
+[1]  Mariners           AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  A.Rodriguez 3B      5  2  2  3 .400     M.Young SS          4  0  1  0 .250  
+  C.Guillen SS        5  0  1  0 .200     J.Mauer C           4  0  1  0 .250  
+  A.Escobar CF        5  2  2  0 .400     M.Cuddyer RF        4  0  1  0 .250  
+  C.Delgado 1B        3  0  0  0 .000     J.Morneau 1B        4  0  0  0 .000  
+A-R.Aurilia PH,1B     2  0  0  0 .000     T.Hunter CF         3  0  1  0 .333  
+  K.Johjima DH        5  2  2  0 .400     B.Broussard DH      4  0  0  0 .000  
+  I.Suzuki RF         5  0  2  0 .400     P.Polanco 2B        3  0  0  0 .000  
+  J.Posada C          5  1  2  3 .400     C.Patterson LF      2  1  1  1 .500  
+  C.Crawford LF       4  0  2  1 .500     N.Punto 3B          3  1  1  1 .333  
+  J.Lopez 2B          3  1  1  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42  8 14  7                 Totals      31  2  6  2
+
+A-Pinch Hit For Delgado In 7th Inning
+
+Mariners........ 1 4 0  0 1 0  2 0 0  -  8 14  0
+Twins........... 0 0 1  0 0 0  0 1 0  -  2  6  1
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Baek WIN(1-0)              9       6   2   2   2   2   2   2.00  A1
+[1]Totals                    9       6   2   2   2   2   2
+
+[1]Twins (0-1)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Bonser LOSS(0-1)           1 2/3   4   5   2   0   1   3  10.80  A1 B1
+V.Padilla                    3       5   1   1   0   4   0   3.00  B2 C6
+J.Rincon                     1 1/3   1   1   1   1   3   0   6.75  C7 D3
+D.Reyes                      0 2/3   3   1   1   0   2   0  13.50  D4 D8
+J.Nathan                     2 1/3   1   0   0   0   4   0   0.00  D9
+[1]Totals                    9      14   8   5   1  14   3
+
+ATTENDANCE- -15 DATE-  TIME- Night 
+UMPIRES- Kevin Gordon, , , 
+T- 2:55
+LEFT ON BASE- Mariners: 8  Twins: 4
+DOUBLE PLAYS- Mariners: 1  Twins: 0
+ERRORS- J.Morneau
+DOUBLES- J.Lopez(1st), J.Mauer(1st)
+TRIPLES- A.Escobar(1st)
+HOME RUNS- A.Rodriguez-2(2nd), J.Posada(1st), C.Patterson(1st), N.Punto(1st)
+STOLEN BASES- C.Patterson(1st)
+WALKS- J.Lopez, T.Hunter, C.Patterson
+STRIKE OUTS- A.Rodriguez-2, C.Guillen-2, A.Escobar, C.Delgado, R.Aurilia-2,
+             I.Suzuki-2, J.Posada-2, C.Crawford, J.Lopez, M.Young, M.Cuddyer
+GIDP- T.Hunter
+WILD PITCHES- V.Padilla-2, D.Reyes
+
+Alex Rodriguez smashed 2 homeruns and had 3 RBI and Cha Seung Baek allowed Jay
+Buhner to rest his bullpen, tossing a complete game at Metrodome where the
+Seattle Mariners beat the Minnesota Twins by the score of 8 to 2.
+
+Rodriguez provided the offensive punch.  He lofted a solo-blast 'downtown' in
+the 1st inning and lifted one out of the park for a two run home run (his 2nd
+of the season) in the 2nd inning.  Seattle managed 14 in their victory.
+
+The win went to Baek(1-0) who allowed 2 runs in the game. Boof Bonser(0-1)
+took the loss.  He was touched for 3 homeruns in his 1 and 2/3 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2007 Seattle Mariners at 2007 Minnesota Twins
+A.Rodrig-A1  A1:HR>b#   B1:HR>2#   C1:K       D1:K       *8*:G/13
+                        b#                               
+                                                         
+C.Guille-A1  A2:L/4     B2:Si      *5*:F/9    D2:K       E2:K
+                                                         
+                                                         
+A.Escoba-A1  A3:F/7     B3:K       C3:Tr      *7*:Si     E3:F/9
+                                                         
+                                                         
+C.Delgad-A1  A4:G/13    *3*:L/4    C4:WP>3#   D4:K       *9*:K
+R.Aurili-D4                        K                     
+                                                         
+K.Johjim-A1  *2*:E/3    B5:P/6     C5:Si      D5:Si>12   E5:G/43
+                                                         
+                                                         
+I.Suzuki-A1  A6:P/4     B6:K       C6:Si>12   D6:K       E6:Si
+                                                         
+                                                         
+J.Posada-A1  A7:HR>1#   *4*:F/9    C7:K       D7:WP>23   E7:K
+             b#                               12 Si>3#   
+                                              23         
+C.Crawfo-A1  A8:K       B8:Si      *6*:F/7    D8:Si>3#
+                                              12
+                                              
+J.Lopez-A1   A9:Do      B9:WP>12   C9:W>b1    D9:K
+                        G/3>23                
+                                              
+
+M.Young-A1   A1:Si      B1:F/7     *6*:F/9    D1:K
+                                              
+                                              
+J.Mauer-A1   A2:Do>1o   B2:G/13    C2:G/31    D2:G/3
+                                              
+                                              
+M.Cuddye-A1  A3:F/7     *4*:Si     C3:K       *9*:G/63
+                                              
+                                              
+J.Mornea-A1  A4:L/4     B4:F/8     *7*:G/63   D4:P/4
+                                              
+                                              
+T.Hunter-A1  *2*:F/7    B5:G-DP/6  C5:Si      D5:W>b1
+                        43>1o                 
+                                              
+B.Brouss-A1  A6:G/53    *5*:L/4    C6:F/9     D6:F/7
+                                              
+                                              
+P.Polanc-A1  A7:G/53    B7:F/7     C7:G/53
+                                   
+                                   
+C.Patter-A1  *3*:F/8    B8:W>b1    *8*:HR>b#
+                                   
+                                   
+N.Punto-A1   A9:HR>b#   B9:SB>12   C9:G/43
+                        P/4        
+                                   
+
+

@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2007 Philadelphia Phillies At 2007 San Diego Padres      12/14/2007
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  K.Lofton CF,RF      4  0  0  0 .000     J.Bard C            4  1  2  0 .500  
+  C.Coste C           4  0  0  0 .125     M.Derosa 3B         4  1  1  0 .333  
+  T.Hafner DH         4  0  0  0 .111     N.Johnson 1B        4  0  1  1 .111  
+  J.Dye RF            2  0  1  0 .750     F.Thomas DH         3  0  3  1 .353  
+A-L.Ford PR,CF        0  0  0  0 .000     G.Norton LF         4  0  0  0 .200  
+G-S.Victorino PH      1  0  0  0 .500   E-B.Clark LF          0  0  0  0 ----  
+  R.Howard 1B         4  1  1  1 .444     M.Cameron CF        3  0  0  0 .105  
+  S.Rolen 3B          2  0  0  0 .125     R.Branyan RF        3  0  0  0 .200  
+B-W.Helms PH,3B       2  0  1  0 .500   F-S.Green RF          0  0  0  0 .250  
+  C.Utley 2B          3  0  0  0 .375     K.Greene SS         2  0  0  0 .267  
+  J.Rollins SS        3  0  1  0 .375     J.Barfield 2B       3  0  0  0 .294  
+  L.Gonzalez LF       2  0  0  0 .200                                          
+C-T.Salmon PH         0  0  0  01.000                                          
+D-J.Michaels LF       0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      30  2  7  2
+
+A-Pinch Ran For Dye In 7th Inning
+B-Pinch Hit For Rolen In 7th Inning
+C-Pinch Hit For Gonzalez In 8th Inning
+D-Subbed Defensively (LF) For Salmon In 8th Inning
+E-Subbed Defensively (LF) For Norton In 9th Inning
+F-Subbed Defensively (RF) For Branyan In 9th Inning
+G-Pinch Hit For Ford In 9th Inning
+
+Phillies........ 0 1 0  0 0 0  0 0 0  -  1  4  0
+Padres.......... 2 0 0  0 0 0  0 0    -  2  7  0
+
+[1]Phillies (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Maddux LOSS(0-1)           5       5   2   2   1   1   0   3.60  A1 C3
+T.Saito                      3       2   0   0   1   5   0   0.00  C4
+[1]Totals                    8       7   2   2   2   6   0
+
+[1]Padres (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy WIN(1-0)             6       2   1   1   0   8   1   4.09  A1 C2
+A.Embree HOLD(1st)           1       2   0   0   1   3   0  13.50  C3 C8
+P.Feliciano HOLD(1st)        1       0   0   0   1   1   0   0.00  C9 D3
+S.Linebrink HOLD(1st)        0 2/3   0   0   0   0   1   0   0.00  D4 D5
+C.Meredith SAVE(1st)         0 1/3   0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       4   1   1   2  14   1
+
+ATTENDANCE- 21 DATE-  TIME- Night 
+T- 2:10
+LEFT ON BASE- Phillies: 5  Padres: 6
+DOUBLE PLAYS- Phillies: 1  Padres: 0
+HOME RUNS- R.Howard(2nd)
+WALKS- J.Dye, T.Salmon, F.Thomas, K.Greene
+STRIKE OUTS- K.Lofton, C.Coste-2, T.Hafner-3, J.Dye, R.Howard-3, W.Helms,
+             C.Utley, J.Rollins-2, M.Derosa, N.Johnson, G.Norton, M.Cameron,
+             R.Branyan, K.Greene
+GIDP- G.Norton
+
+Designated hitter Frank Thomas had 3 base hits and Jake Peavy came through
+with a solid 6 innings at Wrigley Field as the San Diego Padres beat the
+Philadelphia Phillies 2 to 1.
+
+The game started off with San Diego taking the lead in the first as they
+scored 2 runs on 3 base hits.  That early run support was enough for
+Peavy(1-0) and San Diego.  Neither team managed to score after the 2nd
+inning.  
+
+Cla Meredith got the save, his 1st.  Greg Maddux(0-1) took the loss.  He gave
+up 2 runs and 5 hits in 5 innings.
+[2]
+[1]SCORESHEET: 2007 Philadelphia Phillies at 2007 San Diego Padres
+K.Lofton-A1  A1:K       B1:F/8     C1:G/13    D1:P/2
+                                              
+                                              
+C.Coste-A1   A2:G/53    *4*:K      C2:K       D2:L/6
+                                              
+                                              
+T.Hafner-A1  A3:K       B3:L/3     *7*:K      D3:K
+                                              
+                                              
+J.Dye-A1     *2*:K      B4:Si      C4:W>b1    *9*:P/4
+L.Ford-C5                                     
+S.Victor-D4                                   
+R.Howard-A1  A5:HR>b#   B5:K       C5:K       D5:K
+                                              
+                                              
+S.Rolen-A1   A6:FO/5    *5*:G/43   C6:Si>13   D6:K
+W.Helms-C6                                    
+                                              
+C.Utley-A1   A7:L/6     B7:F/7     C7:K
+                                   
+                                   
+J.Rollin-A1  *3*:K      B8:K       *8*:Si
+                                   
+                                   
+L.Gonzal-A1  A9:F/9     *6*:P/5    C9:W>12 b
+T.Salmon-C9                        1
+J.Michae-D4                        
+
+J.Bard-A1    A1:Si      B1:L/4     C1:F/7     *8*:Si
+                                              
+                                              
+M.Derosa-A1  A2:Si>13   *3*:G/53   C2:G/43    D2:K
+                                              
+                                              
+N.Johnso-A1  A3:G/43>3  B3:F/8     *6*:Si     D3:K
+             # 12                             
+                                              
+F.Thomas-A1  A4:Si>2#   B4:Si      C4:W>12 b  D4:Si>12
+                                   1          
+                                              
+G.Norton-A1  A5:L/4     B5:Force/  C5:G-DP/4  D5:K
+B.Clark-D6              64>1o b1   63>23 1o   
+                                              
+M.Camero-A1  A6:G/53    *4*:G/43   C6:K
+                                   
+                                   
+R.Branya-A1  *2*:K      B7:F/8     *7*:G/43
+S.Green-D6                         
+                                   
+K.Greene-A1  A8:W>b1    B8:G/53    C8:K
+                                   
+                                   
+J.Barfie-A1  A9:G/43>1  *5*:G/63   C9:G/13
+             2                     
+                                   
+
+

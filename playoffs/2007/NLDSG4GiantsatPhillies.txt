@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2007 San Francisco Giants At 2007 Philadelphia Phillies  11/30/2007
+
+[1]  Giants             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  F.Lopez SS          4  0  1  0 .250     K.Lofton CF         4  1  1  0 .333  
+  J.Carroll 2B        4  1  0  0 .200   C-S.Victorino RF      0  0  0  0 .400  
+F-B.Kielty PH         1  0  0  0 .500     W.Helms 3B          4  2  2  3 .500  
+  T.Helton 1B         2  1  0  0 .308   D-S.Rolen 3B          0  0  0  0 .500  
+  R.Durham DH         4  0  2  1 .200     T.Hafner DH         3  1  1  2 .214  
+  M.Barrett C         3  1  0  0 .400     J.Dye RF            4  0  0  0 .235  
+  M.Bradley RF,LF     4  0  2  0 .250   E-J.Michaels LF       0  0  0  01.000  
+  S.Stewart LF        3  0  2  1 .750     R.Howard 1B         3  0  1  0 .438  
+A-G.Jenkins PH,RF     0  0  0  0 .200     C.Coste C           4  0  1  0 .286  
+  P.Feliz 3B          4  0  0  0 .200     C.Utley 2B          3  0  1  0 .294  
+  R.Winn CF           4  0  1  0 .364     J.Rollins SS        4  0  0  0 .188  
+                                          L.Gonzalez LF       2  0  0  0 .300  
+                                        B-L.Ford PR,CF        0  1  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  8  2                 Totals      31  5  7  5
+
+A-Pinch Hit For Stewart In 8th Inning
+B-Pinch Ran For Gonzalez In 8th Inning
+C-Subbed Defensively (RF) For Lofton In 9th Inning
+D-Subbed Defensively (3B) For Helms In 9th Inning
+E-Subbed Defensively (LF) For Dye In 9th Inning
+F-Pinch Hit For Carroll In 9th Inning
+
+Giants.......... 0 0 0  1 2 0  0 0 0  -  3  8  0
+Phillies........ 2 0 0  0 0 0  0 3    -  5  7  0
+
+[1]Giants (3-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Schmidt LOSS(2-1)          7       5   4   4   2   9   1   3.42  A1 D1
+B.Hennessey BS(1st)          0 1/3   1   1   1   1   0   1   6.75  D2 D4
+S.Kline                      0 1/3   1   0   0   1   1   0  13.50  D5 D7
+T.Jones                      0 1/3   0   0   0   0   0   0   9.00  D8
+[1]Totals                    8       7   5   5   4  10   2
+
+[1]Phillies (1-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Maddux                     5 2/3   7   3   1   2   4   0   7.82  A1 C8
+J.Benoit                     1 1/3   1   0   0   1   1   0   5.06  C9 D4
+D.Wheeler WIN(1-0)           1       0   0   0   1   0   0   2.08  D5 D8
+T.Saito SAVE(1st)            1       0   0   0   0   2   0   0.00  D9
+[1]Totals                    9       8   3   1   4   7   0
+
+ATTENDANCE- 74 DATE-  TIME- Day 
+T- 2:41
+LEFT ON BASE- Giants: 8  Phillies: 6
+DOUBLE PLAYS- Giants: 0  Phillies: 1
+DOUBLES- W.Helms(1st)
+HOME RUNS- W.Helms(1st), T.Hafner(2nd)
+STOLEN BASES- S.Stewart(2nd), R.Winn(3rd)
+SACRIFICE HITS- F.Lopez
+WALKS- T.Helton-2, M.Barrett, G.Jenkins, T.Hafner, R.Howard, C.Utley,
+       L.Gonzalez
+STRIKE OUTS- F.Lopez-2, B.Kielty, T.Helton, R.Durham, S.Stewart, P.Feliz,
+             K.Lofton, W.Helms, T.Hafner, R.Howard, C.Coste-2, J.Rollins-3,
+             L.Gonzalez
+GIDP- J.Carroll
+WILD PITCHES- G.Maddux
+PASSED BALLS- C.Coste
+
+In a two run game the Philadelphia Phillies got by the San Francisco Giants by
+the score of 5 to 3.
+
+Dan Wheeler(1-0) was solid in relief, and he got credit for the win.  He went
+1 inning allowing no hits and 1 walk reducing his ERA from 2.35 to 2.08.
+Philadelphia banged out 7 on the afternoon.  
+
+Wheeler got relief help from Takashi Saito who gained credit for his 1st save.
+Jason Schmidt(2-1) was given the loss.  He surrendered 5 hits and 2 walks in
+7 innings.
+[2]
+[1]SCORESHEET: 2007 San Francisco Giants at 2007 Philadelphia Phillies
+F.Lopez-A1   A1:L       B1:K       C1:SB>12   *7*:Si     E1:K
+                                   Sac>23                
+                                                         
+J.Carrol-A1  A2:L       B2:F       C2:G>3o    D2:G-DP/6  E2:K
+B.Kielty-E2                                   43>1o      
+                                                         
+T.Helton-A1  A3:K       *4*:F      C3:WP>12   D3:W>b1
+                                   IW>b1      
+                                              
+R.Durham-A1  *2*:Si     B4:L       C4:PB>2#   D4:K
+                                   13 Si>3#   
+                                              
+M.Barret-A1  A5:L       B5:W>b1    C5:F       *8*:FO/2
+                                              
+                                              
+M.Bradle-A1  A6:Si>12   B6:Si>13   *6*:G/63   D6:G/43
+                                              
+                                              
+S.Stewar-A1  A7:K       B7:Si>3#   C7:Si      D7:IW>b1
+G.Jenkin-D7             13                    
+                                              
+P.Feliz-A1   A8:G       B8:G       C8:SB>12   D8:F/7
+                                   K          
+                                              
+R.Winn-A1    *3*:G      *5*:Si     C9:P/4     *9*:P/4
+                                              
+                                              
+
+K.Lofton-A1  A1:F       *3*:F      *6*:K      D1:Si>12
+S.Victor-D9                                   
+                                              
+W.Helms-A1   A2:Do      B2:K       C2:P/6     D2:HR>2#
+S.Rolen-D9                                    1# b#
+                                              
+T.Hafner-A1  A3:HR>2#   B3:F       C3:K       D3:W>b1
+             b#                               
+                                              
+J.Dye-A1     A4:P       *4*:G      *7*:G/31   D4:F/7
+J.Michae-D9                                   
+                                              
+R.Howard-A1  A5:K       B5:F       C5:W>b1    D5:Si>12
+                                              
+                                              
+C.Coste-A1   *2*:Si     B6:G       C6:K       D6:K
+                                              
+                                              
+C.Utley-A1   A7:F       *5*:L/6    C7:Si>12   D7:W>23 1
+                                              2 b1
+                                              
+J.Rollin-A1  A8:K       B8:K       C8:K       D8:G/13
+                                              
+                                              
+L.Gonzal-A1  A9:G       B9:K       *8*:W>b1
+L.Ford-D1                          
+                                   
+
+

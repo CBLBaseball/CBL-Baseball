@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2007 Minnesota Twins At 2007 Seattle Mariners            10/31/2007
+
+[1]  Twins              AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  M.Young SS          4  0  1  0 .364     C.Snelling RF       2  0  2  0 .571  
+  J.Mauer C           4  0  1  0 .211   A-R.Aurilia PH        1  0  0  0 .364  
+  M.Cuddyer RF        4  0  1  0 .238   B-G.Kapler RF         1  0  0  0 .250  
+  J.Morneau 1B        4  1  2  1 .222     C.Guillen SS        3  0  0  0 .222  
+  T.Hunter CF         4  0  1  0 .118     C.Delgado 1B        3  0  1  0 .182  
+  D.Young LF          4  0  2  0 .500     J.Posada C          3  1  1  1 .375  
+D-C.Patterson PR      0  0  0  0 .273     C.Crawford LF       3  0  0  0 .278  
+  B.Broussard DH      4  0  0  0 .111     A.Rodriguez 3B      3  1  1  0 .333  
+  P.Polanco 2B        3  0  0  0 .000     I.Suzuki CF         2  0  0  1 .300  
+E-J.Bartlett PH       1  0  0  0 .000     K.Johjima DH        2  0  1  0 .385  
+  N.Punto 3B          3  0  1  0 .250   C-T.Wigginton PH      1  0  0  0 .375  
+F-R.Weeks PH          1  0  0  0 .000     J.Lopez 2B          3  0  1  0 .231  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  1  9  1                 Totals      27  2  7  2
+
+A-Pinch Hit For Snelling In 6th Inning
+B-Subbed Defensively (RF) For Aurilia In 7th Inning
+C-Pinch Hit For Johjima In 8th Inning
+D-Pinch Ran For Young In 9th Inning
+E-Pinch Hit For Polanco In 9th Inning
+F-Pinch Hit For Punto In 9th Inning
+
+Twins........... 0 0 0  1 0 0  0 0 0  -  1  9  0
+Mariners........ 0 0 0  0 1 0  1 0    -  2  7  1
+
+[1]Twins (1-4)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Hill                       4       4   1   1   0   1   0   2.25  A1 B6
+D.Reyes                      1       1   0   0   0   0   0  21.60  B7 B9
+J.Rincon LOSS(0-1)           1       1   1   1   0   1   1   7.71  C1 C4
+F.Liriano                    2       1   0   0   0   0   0   2.45  C5
+[1]Totals                    8       7   2   2   0   2   1
+
+[1]Mariners (4-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling WIN(2-0)         7 2/3   8   1   1   0   6   1   1.72  A1 D4
+R.Springer HOLD(1st)         0 1/3   0   0   0   0   1   0   0.00  D5 D5
+J.Putz SAVE(2nd)             1       1   0   0   0   3   0   3.37  D6
+[1]Totals                    9       9   1   1   0  10   1
+
+ATTENDANCE- 34 DATE-  TIME- Night 
+T- 2:21
+LEFT ON BASE- Twins: 8  Mariners: 2
+DOUBLE PLAYS- Twins: 3  Mariners: 1
+ERRORS- C.Schilling
+DOUBLES- J.Mauer(3rd), C.Snelling(3rd), A.Rodriguez(1st)
+HOME RUNS- J.Morneau(2nd), J.Posada(2nd)
+STOLEN BASES- C.Patterson(2nd)
+SACRIFICE FLIES- I.Suzuki
+STRIKE OUTS- M.Young, J.Mauer, T.Hunter-2, D.Young, B.Broussard, P.Polanco,
+             J.Bartlett, N.Punto, R.Weeks, C.Guillen-2
+GIDP- G.Kapler, J.Posada, J.Lopez
+WILD PITCHES- D.Reyes
+
+34 fans were treated to a fine game at SAFECO Field as only one run separated
+the combatants at game's end.  The Seattle Mariners won by the slimmest of
+margins, 2 to 1.
+
+Curt Schilling(2-0) pitched well for Seattle in their victory.  He went 7 and
+2/3 innings surrendering 8 hits and no walks seeing his ERA drop from 2.25 to
+1.72.  Minnesota made it exciting in the 9th, but they were unable to push
+the needed runs across.  
+
+J.J. Putz earned the save, his 2nd.  Juan Rincon(0-1) was the losing pitcher
+in relief.  He surrendered 1 hit and no walks in 1 inning.
+[2]
+[1]SCORESHEET: 2007 Minnesota Twins at 2007 Seattle Mariners
+M.Young-A1   A1:K       B1:L/4     C1:Si>12   D1:F/9
+                                              
+                                              
+J.Mauer-A1   A2:Do      B2:G/43    C2:K       *8*:G/63
+                                              
+                                              
+M.Cuddye-A1  A3:G/63    *4*:F/9    *6*:Si     D3:P/6
+                                              
+                                              
+J.Mornea-A1  A4:G/63    B4:HR>b#   C4:L/3     D4:Si
+                                              
+                                              
+T.Hunter-A1  *2*:K      B5:G/63    C5:Si>13   D5:K
+                                              
+                                              
+D.Young-A1   A6:Si      B6:K       C6:F-DP/8  *9*:Si
+C.Patter-D7                        2>3o       
+                                              
+B.Brouss-A1  A7:L/3     *5*:E/1    *7*:G/43   D7:SB>12
+                                              K
+                                              
+P.Polanc-A1  A8:G/13    B8:F/8     C8:K       D8:K
+J.Bartle-D8                                   
+                                              
+N.Punto-A1   *3*:G/13   B9:K       C9:Si      D9:K
+R.Weeks-D9                                    
+                                              
+
+C.Snelli-A1  A1:Si      B1:Do      *6*:G/53   D1:G-DP/6
+R.Aurili-C1                                   43>1o
+G.Kapler-C4                                   
+C.Guille-A1  A2:K       B2:G/31    C2:K
+                                   
+                                   
+C.Delgad-A1  A3:Si>13   *4*:L/4    C3:G/43
+                                   
+                                   
+J.Posada-A1  A4:G-DP/4  B4:F/8     *7*:HR>b#
+             63>1o                 
+                                   
+C.Crawfo-A1  *2*:G/63   B5:G/63    C5:G/63
+                                   
+                                   
+A.Rodrig-A1  A6:L/6     *5*:Do     C6:G/63
+                                   
+                                   
+I.Suzuki-A1  A7:G/43    B7:WP>23   C7:F/7
+                        SF/7>3#    
+                                   
+K.Johjim-A1  *3*:G/63   B8:Si      *8*:G/43
+T.Wiggin-C8                        
+                                   
+J.Lopez-A1   A9:G/53    B9:G-DP/6  C9:Si
+                        43>1o      
+                                   
+
+

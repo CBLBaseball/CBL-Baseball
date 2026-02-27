@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2007 Pittsburgh Pirates At 2007 San Diego Padres         10/30/2007
+
+[1]  Pirates            AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Roberts CF        3  1  0  0 .125     J.Bard C            4  2  2  0 .667  
+  F.Sanchez 2B,3B     4  2  1  0 .222     N.Johnson 1B        4  1  1  0 .167  
+  J.Drew RF           5  0  2  0 .333     F.Thomas DH         2  0  0  1 .000  
+  M.Cabrera 3B        4  0  1  0 .333     G.Norton LF         5  1  2  0 .222  
+B-M.Grudzielanek PR,2 0  0  0  0 ----     M.Derosa 3B         5  0  3  3 .333  
+  D.Ward DH           3  1  2  3 .400     M.Cameron CF        5  0  0  0 .222  
+A-J.Bautista PH       1  0  0  0 .500     R.Branyan RF        4  2  1  1 .250  
+  J.Bay LF            5  0  0  0 .000     K.Greene SS         3  0  2  0 .286  
+  L.Overbay 1B        2  1  1  0 .333     J.Barfield 2B       4  0  1  0 .375  
+  R.Paulino C         5  0  2  0 .333                                          
+  J.Wilson SS         5  0  1  0 .125                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 10  3                 Totals      36  6 12  5
+
+A-Pinch Hit For Ward In 9th Inning
+B-Pinch Ran For Cabrera In 9th Inning
+
+Pirates......... 2 0 2  0 0 0  0 1 0  0 -  5 10  1
+Padres.......... 2 1 0  0 0 0  0 0 2  1 -  6 12  1
+
+[1]Pirates (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Webb                       8       8   3   2   6  13   0   2.25  A1 D9
+K.Farnsworth                 0       2   2   2   0   0   0   ----  E1 E2
+A.Otsuka BS(1st)             1       1   0   0   0   2   0   0.00  E3 E6
+M.Gonzalez LOSS(0-1)         0       1   1   1   0   0   1   ----  E7
+[1]Totals                    9      12   6   5   6  15   1
+
+[1]Padres (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy                      5       5   4   4   3   8   1   7.20  A1 C4
+A.Embree                     0       0   0   0   1   0   0  27.00  C5 C5
+T.Hoffman                    2 2/3   4   1   0   2   4   0   0.00  C6 E1
+R.Cormier                    0 1/3   0   0   0   0   0   0   0.00  E2 E2
+P.Feliciano                  0       1   0   0   1   0   0   ----  E3 E4
+E.Dessens                    1       0   0   0   1   0   0   3.00  E5 E7
+C.Meredith WIN(1-0)          1       0   0   0   0   0   0   0.00  E8
+[1]Totals                   10      10   5   4   8  12   1
+
+ATTENDANCE- 119 DATE-  TIME- Night 
+T- 3:05
+LEFT ON BASE- Pirates:10  Padres:10
+DOUBLE PLAYS- Pirates: 2  Padres: 3
+ERRORS- R.Paulino, R.Branyan
+DOUBLES- J.Drew(2nd), D.Ward(1st), N.Johnson(1st)
+TRIPLES- M.Derosa(1st)
+HOME RUNS- D.Ward(1st), R.Branyan(1st)
+STOLEN BASES- D.Roberts(1st), K.Greene(1st), J.Barfield(1st)
+SACRIFICE FLIES- F.Thomas
+WALKS- D.Roberts-2, F.Sanchez, M.Cabrera, D.Ward, L.Overbay-3, J.Bard,
+       N.Johnson, F.Thomas-2, R.Branyan, K.Greene
+STRIKE OUTS- D.Roberts, F.Sanchez, J.Drew-2, M.Cabrera, D.Ward, J.Bay,
+             R.Paulino-2, J.Wilson-3, J.Bard, N.Johnson-2, F.Thomas, G.Norton,
+             M.Derosa, M.Cameron-4, R.Branyan-3, K.Greene, J.Barfield
+GIDP- M.Cabrera, J.Bay, J.Wilson, F.Thomas
+PASSED BALLS- J.Bard
+
+Third baseman Mark Derosa had 3 base hits and 3 RBI at Wrigley Field where the
+San Diego Padres beat the Pittsburgh Pirates in 10 innings 6 to 5.
+
+The score was knotted at 5 after nine innings.  San Diego won the game in the
+10th inning.  Russell Branyan blasted a solo shot (his 1st of the season)
+giving San Diego the victory and sending the 119 home-town fans home happy.
+San Diego totaled 12 on the night.  
+
+The victory went to Cla Meredith(1-0) who went 1 inning, allowing no runs.
+Mike Gonzalez(0-1) was charged with the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2007 Pittsburgh Pirates at 2007 San Diego Padres
+D.Robert-A1  A1:W>b1    B1:K       C1:L/4     D1:F/8     E1:W>b1
+                                                         
+                                                         
+F.Sanche-A1  A2:SB>12   *3*:W>b1   *5*:K      *7*:F/8    E2:G/13
+             Si>23                                       
+                                                         
+J.Drew-A1    A3:K       B3:Si>13   C3:G/43    D3:K       *9*:Do
+                                                         
+                                                         
+M.Cabrer-A1  A4:K       B4:G-DP/6  C4:G/63    D4:Si      E4:W>b1
+M.Grudzi-E6             43>3# 1o                         
+                                                         
+D.Ward-A1    A5:Do>3#   B5:HR>b#   *6*:W>b1   D5:K       E5:F/9>23
+J.Bautis-E5  1#                                          
+                                                         
+J.Bay-A1     A6:K       B6:F/8     C6:F/8     *8*:F/8    E6:G-DP/5
+                                                         43>1o
+                                                         
+L.Overba-A1  *2*:W>b1   *4*:F/8    C7:W>12 b  D7:Si      *10*:W>b1
+                                   1                     
+                                                         
+R.Paulin-A1  A8:K       B8:Si      C8:Si>23   D8:K       E8:F/7
+                                   12                    
+                                                         
+J.Wilson-A1  A9:PB>12   B9:K       C9:K       D9:Si+E/9  E9:G-DP/5
+             K                                >1#        43>1o
+                                                         
+
+J.Bard-A1    A1:W>b1    B1:Si      C1:SB>12   *7*:G/3    *9*:Si
+                                   K                     
+                                                         
+N.Johnso-A1  A2:F/9     B2:K       *5*:W>b1   D2:K       E2:Do>13
+                                                         
+                                                         
+F.Thomas-A1  A3:W>12 b  *3*:K      C3:G-DP/1  D3:W>b1    E3:SF/8>3
+             1                     63>1o                 #
+                                                         
+G.Norton-A1  A4:Force/  B4:G/43    C4:Si      D4:Si>12   E4:K
+             64>23 1o                                    
+             b1                                          
+M.Derosa-A1  A5:Tr>3#   B5:Si      C5:F/8     D5:K       E5:Si>2#
+             1#                                          
+                                                         
+M.Camero-A1  A6:K       B6:K       *6*:F/7    *8*:K      E6:K
+                                                         
+                                                         
+R.Branya-A1  *2*:W>b1   *4*:K      C7:K       D7:K       *10*:HR>b
+                                                         #
+                                                         
+K.Greene-A1  A8:Si>13   B8:K       C8:Si      D8:W>b1
+                                              
+                                              
+J.Barfie-A1  A9:SB+E/2  B9:Si      C9:K       D9:F/7
+             >3# 13 F-                        
+             DP/72>3o                         
+
+

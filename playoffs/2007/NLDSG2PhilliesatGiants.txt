@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2007 Philadelphia Phillies At 2007 San Francisco Giants  10/11/2007
+
+[1]  Phillies           AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  K.Lofton CF         3  1  1  1 .143     F.Lopez SS          3  1  0  0 .000  
+B-T.Salmon PH         1  0  0  0 .000     J.Carroll 2B        4  0  2  0 .375  
+C-L.Ford CF           1  0  0  0 .000     T.Helton 1B         3  0  0  0 .286  
+  S.Rolen 3B          4  1  0  1 .000     R.Durham DH         4  0  0  0 .143  
+  T.Hafner DH         3  2  1  2 .286     M.Barrett C         3  0  0  0 .333  
+  J.Dye RF            4  1  1  3 .250     G.Jenkins RF        4  0  1  0 .250  
+D-S.Victorino RF      0  0  0  0 ----     M.Bradley LF        3  0  1  0 .429  
+  R.Howard 1B         3  0  1  0 .286     P.Feliz 3B          3  0  0  0 .143  
+  C.Coste C           4  0  0  0 .286   E-B.Kielty PH         1  0  0  0 .000  
+  C.Utley 2B          3  0  0  0 .333     R.Winn CF           3  0  1  0 .286  
+  J.Rollins SS        3  1  1  0 .143                                          
+  L.Gonzalez LF       1  1  0  0 .333                                          
+A-J.Michaels PH,LF    2  0  1  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  7  6  7                 Totals      31  1  5  0
+
+A-Pinch Hit For Gonzalez In 6th Inning
+B-Pinch Hit For Lofton In 6th Inning
+C-Subbed Defensively (CF) For Salmon In 6th Inning
+D-Subbed Defensively (RF) For Dye In 7th Inning
+E-Pinch Hit For Feliz In 9th Inning
+
+Phillies........ 2 5 0  0 0 0  0 0 0  -  7  6  0
+Giants.......... 1 0 0  0 0 0  0 0 0  -  1  5  0
+
+[1]Phillies (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Martinez WIN(1-0)          7       4   1   1   4   7   0   1.29  A1 D1
+T.Saito                      2       1   0   0   0   2   0   0.00  D2
+[1]Totals                    9       5   1   1   4   9   0
+
+[1]Giants (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain LOSS(0-1)             5 1/3   5   7   7   6   1   2  11.81  A1 C8
+N.Lowry                      3       1   0   0   0   1   0   0.00  C9 D9
+B.Medders                    0 2/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    9       6   7   7   6   2   2
+
+ATTENDANCE- 50 DATE-  TIME- Night 
+T- 2:41
+LEFT ON BASE- Phillies: 4  Giants: 7
+DOUBLE PLAYS- Phillies: 1  Giants: 1
+DOUBLES- R.Howard(1st), J.Rollins(1st), M.Bradley(2nd)
+HOME RUNS- T.Hafner(1st), J.Dye(1st)
+STOLEN BASES- R.Winn(1st)
+WALKS- S.Rolen, T.Hafner, R.Howard, C.Utley, J.Rollins, L.Gonzalez, F.Lopez,
+       T.Helton, M.Barrett, M.Bradley
+STRIKE OUTS- J.Dye, R.Howard, F.Lopez, J.Carroll-2, T.Helton-2, M.Barrett,
+             G.Jenkins, P.Feliz-2
+GIDP- J.Rollins, R.Durham
+WILD PITCHES- P.Martinez, M.Cain
+WEB GEMS- Top 2nd: Felipe Lopez robbed Scott Rolen of a base hit.
+
+At SBC Park the San Francisco Giants were battered 7 to 1 by the Philadelphia
+Phillies.
+
+Pedro Martinez(1-0) pitched well for Philadelphia in their victory.  He
+surrendered 4 hits and 4 walks in 7 innings.  Neither team managed to score
+after the 2nd inning.  
+
+Matt Cain(0-1) was the loser.  He was not very effective, surrendering 7 runs
+in 5 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2007 Philadelphia Phillies at 2007 San Francisco Giants
+K.Lofton-A1  A1:F/7     B1:Si>2#   C1:L/4     D1:G/43    E1:F/9
+T.Salmon-D1             13                               
+L.Ford-D2                                                
+S.Rolen-A1   A2:W>b1    B2:G/63>3  C2:F/7     *7*:G/43   E2:G/63
+                        # 12                             
+                                                         
+T.Hafner-A1  A3:HR>1#   B3:W>b1    *5*:F/9    D3:G/53
+             b#                               
+                                              
+J.Dye-A1     A4:G/63    B4:HR>2#   C4:K       D4:F/9
+S.Victor-D5             1# b#                 
+                                              
+R.Howard-A1  A5:Do      B5:F/8     C5:W>b1    *8*:K
+                                              
+                                              
+C.Coste-A1   A6:P/6     *3*:L/6    C6:Force/  D6:F/8
+                                   64>1o b1   
+                                              
+C.Utley-A1   *2*:F/9    B7:W>b1    *6*:F/9    D7:G/43
+                                              
+                                              
+J.Rollin-A1  A8:W>b1    B8:G-DP/3  C8:Do      *9*:L/6
+                        63>1o                 
+                                              
+L.Gonzal-A1  A9:WP>12   *4*:F/9    C9:G/63>2  D9:Si
+J.Michae-C9  W>b1                  3          
+                                              
+
+F.Lopez-A1   A1:W>b1    B1:G/63    C1:K       D1:SB>12
+                                              P/4
+                                              
+J.Carrol-A1  A2:Si>13   B2:Si      C2:K       *8*:K
+                                              
+                                              
+T.Helton-A1  A3:W>12 b  B3:K       *6*:K      D3:L/4
+             1                                
+                                              
+R.Durham-A1  A4:G-DP/6  *4*:F/8    C4:G/31    D4:P/2
+             43>3# 23                         
+             1o                               
+M.Barret-A1  A5:G/13    B5:F/8     C5:W>b1    *9*:K
+                                              
+                                              
+G.Jenkin-A1  *2*:G/43   B6:Si      C6:K       D6:F/9
+                                              
+                                              
+M.Bradle-A1  A7:F/7     B7:W>12 b  *7*:P/3    D7:Do
+                        1                     
+                                              
+P.Feliz-A1   A8:K       B8:WP>23   C8:F/7     D8:F/7
+B.Kielty-D8             12 K                  
+                                              
+R.Winn-A1    *3*:G/43   *5*:G/53   C9:Si
+                                   
+                                   
+
+
