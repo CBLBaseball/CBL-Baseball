@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2009 Oakland Athletics At 2009 Los Angeles(AL) Angels    10/27/2009
+
+[1]  Athletics          AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  K.Suzuki C          5  1  2  0 .286     H.Ramirez SS        5  2  2  0 .174  
+  D.Dejesus CF,LF     5  0  1  1 .125     C.Jones 3B          3  1  2  2 .225  
+  J.Cust DH           5  0  0  0 .212   F-M.Napoli C          1  1  1  2 .444  
+  P.Burrell LF        3  0  0  0 .325     M.Holliday LF       3  0  2  0 .317  
+A-C.Gonzalez CF,RF    1  0  0  0 .313     C.Lee DH            4  0  0  0 .357  
+  M.Prado 3B          5  1  2  0 .143     D.Uggla 2B          3  1  0  0 .179  
+  M.Ellis 2B          3  1  2  0 .258   C-R.Quinlan 1B        0  0  0  0 .286  
+  N.Swisher 1B        5  0  1  0 .256     R.Winn RF           4  0  1  0 .191  
+  C.Ross RF           3  0  2  1 .286     B.Molina C          4  0  2  0 .349  
+D-N.Morgan PR,CF      1  0  0  0 .200   E-C.Figgins PR,3B     0  0  0  0 .250  
+  B.Crosby SS         3  0  1  1 .205     T.Hunter CF         4  0  0  0 .244  
+                                          R.Gload 1B          2  0  2  1 .370  
+                                        B-H.Kendrick PH,2B    2  0  0  0 .421  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  3 11  3                 Totals      35  5 12  5
+
+A-Subbed Defensively (CF) For Burrell In 7th Inning
+B-Pinch Hit For Gload In 8th Inning
+C-Subbed Defensively (1B) For Uggla In 9th Inning
+D-Pinch Ran For Ross In 9th Inning
+E-Pinch Ran For Molina In 9th Inning
+F-Subbed Defensively (C ) For Jones In 10th Inning
+
+Athletics....... 0 0 0  0 1 0  1 1 0  0 -  3 11  1
+Angels.......... 0 1 0  0 0 0  0 2 0  2 -  5 12  2
+
+[1]Athletics (6-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren                      7 1/3   9   3   2   3   5   1   2.92  A1 D3
+H.Street                     1 2/3   1   0   0   0   2   0   2.70  D4 D9
+B.Ziegler LOSS(0-1)          0       2   2   2   0   0   1   8.44  E1
+[1]Totals                    9      12   5   4   3   7   2
+
+[1]Angels (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lackey                     7       7   3   3   2   4   0   2.51  A1 D2
+J.Arredondo                  1 1/3   2   0   0   0   2   0   0.00  D3 D8
+F.Rodriguez                  0 1/3   2   0   0   0   0   0   1.13  D9 E1
+B.Fuentes WIN(1-0)           1 1/3   0   0   0   1   2   0   0.00  E2
+[1]Totals                   10      11   3   3   3   8   0
+
+ATTENDANCE- 40,968 DATE- Tuesday, October 27th 2009 TIME- Night 
+UMPIRES- Kevin Stafford, Shannon Hall, Rob Hamilton, Brian Alexander
+T- 3:25
+LEFT ON BASE- Athletics:11  Angels: 6
+DOUBLE PLAYS- Athletics: 3  Angels: 0
+ERRORS- B.Crosby, R.Winn, J.Lackey
+DOUBLES- M.Prado(1st), M.Ellis(2nd), C.Ross(1st), B.Crosby(2nd)
+TRIPLES- D.Dejesus(1st), H.Ramirez(1st)
+HOME RUNS- C.Jones(1st), M.Napoli(2nd)
+STOLEN BASES- C.Figgins(1st)
+CAUGHT STEALING- N.Morgan, R.Winn
+SACRIFICE HITS- C.Gonzalez
+SACRIFICE FLIES- B.Crosby
+WALKS- M.Ellis-2, C.Ross, C.Jones, M.Holliday, D.Uggla
+STRIKE OUTS- J.Cust, P.Burrell-2, C.Gonzalez, N.Swisher-3, N.Morgan, H.Ramirez,
+             C.Jones, M.Holliday, D.Uggla-2, R.Winn, T.Hunter
+GIDP- H.Ramirez, C.Lee-2
+
+Third baseman Chipper Jones slammed a homerun and had 2 RBI at Angels Stadium
+where the Los Angeles(AL) Angels beat the Oakland Athletics in 10 innings by
+the score of 5 to 3.
+
+Both teams were tied at 3 runs apiece after nine innings.  Finally, Los
+Angeles(AL) pulled the game out in the 10th inning.  Hanley Ramirez led off
+and keyed the rally when he tripled.  Mike Napoli came next and he popped a
+two-run clout over the fence (his 2nd of the season) resulting in an exciting
+win for Los Angeles(AL) and a raucous post-game celebration by the home town
+fans.  Los Angeles(AL) finished with 12 hits in the victory.  
+
+Brian Fuentes(1-0) picked up the victory, allowing no runs in 1 and 1/3
+innings. Brad Ziegler(0-1) was charged with the loss in relief.  He allowed 2
+runs and 2 hits without retiring a batter.
+[2]
+[1]SCORESHEET: 2009 Oakland Athletics at 2009 Los Angeles(AL) Angels
+K.Suzuki-A1  A1:G/63    B1:G/53    C1:F/9     *8*:Si+E/  E1:Si>23
+                                              1          
+                                                         
+D.Dejesu-A1  A2:L/4     B2:G/3     *6*:G/43   D2:Tr>2#   E2:F/7
+                                                         
+                                                         
+J.Cust-A1    A3:G/53    *4*:G/43   C3:K       D3:FC/32>  *10*:E/9>
+                                              3o         b2
+                                                         
+P.Burrel-A1  *2*:P/2    B4:K       C4:K       D4:K       E4:Sac+FC
+C.Gonzal-D1                                              >23 b1
+                                                         
+M.Prado-A1   A5:L/6     B5:G/63    *7*:Do     D5:Si>12   E5:FC/32>
+                                                         3o 12
+                                                         
+M.Ellis-A1   A6:Si      *5*:Do     C6:IW>b1   D6:L/6     E6:W>23 1
+                                                         2 b1
+                                                         
+N.Swishe-A1  A7:Si>12   B7:G/3>23  C7:K       *9*:K      E7:K
+                                                         
+                                                         
+C.Ross-A1    A8:P/2     B8:W>b1    C8:Do>2#   D8:Si      E8:K
+N.Morgan-D9                        1o                    
+                                                         
+B.Crosby-A1  *3*:G/63   B9:SF/7>3  C9:FO/5    D9:CS/24>
+                        #                     1o Do
+                                              
+
+H.Ramire-A1  A1:F/8     B1:K       C1:G-DP/4  D1:Si      *10*:Tr
+                                   63>1o                 
+                                                         
+C.Jones-A1   A2:W>b1    *3*:Si     C2:K       D2:HR>1#   E2:HR>3#
+M.Napoli-E1                                   b#         b#
+                                                         
+M.Hollid-A1  A3:Si>13   B3:W>12 b  *6*:K      D3:Si
+                        1                     
+                                              
+C.Lee-A1     A4:G-DP/6  B4:G-DP/1  C4:F/7     D4:Force/
+             43>1o      63>23 1o              46>1o b1
+                                              
+D.Uggla-A1   *2*:W>b1   B5:K       C5:F/8     D5:K
+R.Quinla-D6                                   
+                                              
+R.Winn-A1    A6:K       *4*:L/3    *7*:Si     *9*:G/43
+                                              
+                                              
+B.Molina-A1  A7:E/6>12  B7:Si      C7:CS/24>  D7:Si
+C.Figgin-D8                        1o G/63    
+                                              
+T.Hunter-A1  A8:FO/2    B8:L/5     C8:G/53    D8:SB>12
+                                              K
+                                              
+R.Gload-A1   A9:Si>2#   *5*:Si     *8*:F/8    D9:G/43
+H.Kendri-C9  13                               
+                                              
+
+

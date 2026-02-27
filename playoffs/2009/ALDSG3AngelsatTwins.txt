@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Minnesota Twins      10/13/2009
+
+[1]  Angels             AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  T.Hunter CF         3  1  2  0 .364     R.Weeks DH          2  3  1  0 .250  
+  H.Ramirez SS        3  0  0  0 .091     J.Mauer C           5  2  4  5 .545  
+  C.Jones 3B          4  0  0  1 .273     M.Young SS          5  2  2  0 .286  
+  M.Holliday LF       4  0  0  0 .444     J.Morneau 1B        4  2  1  1 .091  
+  C.Lee DH            4  1  1  0 .385     P.Polanco 2B        5  0  2  1 .231  
+  R.Winn RF           4  1  1  1 .231     J.Bautista 3B       0  0  0  0 .000  
+  M.Napoli C          3  1  1  0 .333   A-D.Span PH,RF        0  1  0  0 .000  
+C-B.Molina C          1  0  0  0 .222     D.Young LF          5  0  0  0 .250  
+  H.Kendrick 2B       3  0  1  1 .333     M.Cuddyer RF        2  0  0  0 .250  
+E-C.Figgins PH        1  0  0  0 .000   B-J.Kubel PH          1  1  1  3 .500  
+  R.Quinlan 1B        3  0  1  1 .333   D-J.Hannahan 3B       2  0  0  0 .000  
+F-D.Uggla PH          1  0  0  0 .333     W.Taveras CF        4  1  2  1 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  4  7  4                 Totals      35 12 13 11
+
+A-Pinch Hit For Bautista In 6th Inning
+B-Pinch Hit For Cuddyer In 6th Inning
+C-Subbed Defensively (C ) For Napoli In 6th Inning
+D-Subbed Defensively (3B) For Kubel In 7th Inning
+E-Pinch Hit For Kendrick In 9th Inning
+F-Pinch Hit For Quinlan In 9th Inning
+
+Angels.......... 1 0 0  3 0 0  0 0 0  -  4  7  1
+Twins........... 2 0 0  0 0 6  0 4    - 12 13  1
+
+[1]Angels (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez                  5       5   4   4   5   5   1   7.20  A1 C4
+J.Speier LOSS(0-1) H(1st)    0 2/3   0   1   1   1   1   0  13.50  C5 C7
+D.Oliver BS(1st)             1 2/3   6   5   5   2   1   0  22.50  C8 E2
+R.Pinto                      0 2/3   2   2   1   0   0   0  13.50  E3
+[1]Totals                    8      13  12  11   8   7   1
+
+[1]Twins (1-2)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Kuo WIN(1-0)               8       7   4   3   2   7   0   3.38  A1 D6
+S.Torres                     1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       7   4   3   2   8   0
+
+ATTENDANCE- 47,025 DATE- Tuesday, October 13th 2009 TIME- Day 
+UMPIRES- Dave Johns, Mike Brue, Arthur Svec, Bob Reibel
+T- 3:12
+LEFT ON BASE- Angels: 5  Twins: 8
+DOUBLE PLAYS- Angels: 2  Twins: 0
+ERRORS- H.Ramirez, P.Polanco
+DOUBLES- T.Hunter(2nd), C.Lee(3rd), H.Kendrick(1st), J.Mauer-2(2nd),
+         M.Young(1st), J.Kubel(1st)
+HOME RUNS- J.Mauer(1st)
+STOLEN BASES- W.Taveras(1st)
+WALKS- T.Hunter, H.Ramirez, R.Weeks-3, J.Morneau, J.Bautista-2, D.Span-2
+HIT BY PITCH- D.Span
+STRIKE OUTS- T.Hunter, H.Ramirez, M.Holliday-2, M.Napoli-2, C.Figgins,
+             R.Quinlan, J.Mauer, M.Young, D.Young-2, M.Cuddyer-2, W.Taveras
+GIDP- J.Morneau, D.Young
+WILD PITCHES- R.Pinto
+PASSED BALLS- M.Napoli
+
+Joe Mauer had 4 hits and 5 RBI at Metrodome as the Minnesota Twins beat the
+Los Angeles(AL) Angels by the count of 12 to 4.
+
+Mauer had a great day at the plate.  He lifted one out of the park for a two
+run home run (his 1st of the season) in the 1st inning, laced a base-knock in
+the 3rd inning, doubled plating two runs in the 6th inning and doubled
+plating a run in the 8th inning.  Overall Minnesota out-hit Los Angeles(AL)
+13 to 7.  
+
+The win went to Hong-Chih Kuo(1-0) who allowed 4 runs in 8 innings. Justin
+Speier(0-1) took the loss in relief.  'They made a couple of mistakes and I
+took full advantage,' Mauer said 'next time I'm sure they'll pitch me
+tougher.'
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Minnesota Twins
+T.Hunter-A1  A1:Do      B1:Si>23   C1:K       D1:W>b1
+                                              
+                                              
+H.Ramire-A1  A2:G/43>2  B2:K       *5*:W>b1   D2:F/7
+             3                                
+                                              
+C.Jones-A1   A3:G/63>3  B3:L/6     C3:L/5     D3:G/53
+             #                                
+                                              
+M.Hollid-A1  A4:G/53    *4*:G/43   C4:K       *8*:K
+                                              
+                                              
+C.Lee-A1     *2*:G/63   B5:Do      C5:G/31    D5:G/63
+                                              
+                                              
+R.Winn-A1    A6:F/9     B6:Si>2#   *6*:F/7    D6:F/7
+                                              
+                                              
+M.Napoli-A1  A7:K       B7:Si+E/4  C7:K       *9*:F/8
+B.Molina-C9             >13                   
+                                              
+H.Kendri-A1  *3*:Do     B8:G/43>3  C8:G/63    D8:K
+C.Figgin-D8             # 23                  
+                                              
+R.Quinla-A1  A9:K       B9:Si>3#   *7*:G/63   D9:G/31
+D.Uggla-D9                                    
+                                              
+
+R.Weeks-A1   A1:W>b1    B1:G/43    C1:W>12 b  D1:SB>12   E1:W>b1
+                                   1          Si>23      
+                                                         
+J.Mauer-A1   A2:HR>1#   B2:Si      C2:K       D2:Do>3#   E2:Do>1#
+             b#                               1#         
+                                                         
+M.Young-A1   A3:Si      B3:G/63    *6*:Do     D3:K       E3:E/6>23
+                                                         
+                                                         
+J.Mornea-A1  A4:G-DP/6  *4*:G/63   C4:W>b1    *7*:G/53   E4:Si>3#
+             43>1o                                       13
+                                                         
+P.Polanc-A1  A5:G/53    B5:G/43    C5:PB>23   D5:Si      E5:Si>3#
+                                   12 G/53               13
+                                                         
+J.Bautis-A1  *2*:W>b1   B6:W>b1 P  C6:IW>b1   D6:W>12 b  E6:HBP>12
+D.Span-C6               kOff/23>1             1          
+                        o                                
+D.Young-A1   A7:G-DP/6  *5*:K      C7:K       D7:Force/  E7:WP>3#
+             43>1o                            46>23 1o   23 12 G/5
+                                              b1         3
+M.Cuddye-A1  A8:K       B8:K       C8:Do>3#   D8:F/7     E8:G/43
+J.Kubel-C8                         2# 1#                 
+J.Hannah-D4                                              
+W.Tavera-A1  *3*:K      B9:Si      C9:Si>2#   *8*:G/63
+                                              
+                                              
+
+

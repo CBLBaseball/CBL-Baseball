@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Minnesota Twins      10/15/2009
+
+[1]  Angels             AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  H.Ramirez SS        4  0  2  0 .176     D.Span RF           2  1  1  4 .300  
+  C.Jones 3B,1B       2  0  2  1 .353   A-M.Cuddyer PH,RF     2  0  1  0 .286  
+  C.Lee DH            5  0  0  0 .348     P.Polanco 2B        3  1  0  0 .190  
+  M.Holliday RF       4  1  1  1 .375     J.Mauer C           3  1  1  0 .529  
+  D.Uggla 2B          3  0  0  0 .167     J.Morneau 1B        4  1  0  0 .150  
+  R.Winn LF           5  0  0  0 .130     M.Young SS          4  1  1  1 .261  
+  B.Molina C          5  0  3  0 .316     J.Kubel DH          2  1  1  2 .429  
+  T.Hunter CF         4  0  0  0 .316   C-R.Davis PR,DH       0  0  0  0 ----  
+  R.Quinlan 1B        1  0  0  0 .250     D.Young LF          3  1  0  0 .263  
+B-C.Figgins PH,3B     3  1  1  0 .250     J.Hannahan 3B       4  0  1  0 .125  
+                                          W.Taveras CF        2  1  0  0 .267  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  2  9  2                 Totals      29  8  6  7
+
+A-Pinch Hit For Span In 3rd Inning
+B-Pinch Hit For Quinlan In 4th Inning
+C-Pinch Ran For Kubel In 7th Inning
+
+Angels.......... 0 0 0  1 0 0  1 0 0  -  2  9  2
+Twins........... 0 8 0  0 0 0  0 0    -  8  6  0
+
+[1]Angels (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Volquez LOSS(1-1)          2 1/3   4   8   4   7   1   1   5.19  A1 B9
+D.Oliver                     4       1   0   0   0   3   0   7.50  C1 D5
+R.Pinto                      1 2/3   1   0   0   2   0   0   3.86  D6
+[1]Totals                    8       6   8   4   9   4   1
+
+[1]Twins (2-3)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Garza WIN(1-1)             7 2/3   9   2   2   6   3   1   3.46  A1 E3
+J.Nathan                     0 2/3   0   0   0   0   1   0   0.00  E4 E5
+H.Bell                       0 2/3   0   0   0   0   1   0  13.50  E6
+[1]Totals                    9       9   2   2   6   5   1
+
+ATTENDANCE- 45,428 DATE- Thursday, October 15th 2009 TIME- Day 
+UMPIRES- Scott Clineman, Jack Sebesta, Jim Bennett, Chris Gager
+T- 3:23
+LEFT ON BASE- Angels:14  Twins: 6
+DOUBLE PLAYS- Angels: 3  Twins: 0
+ERRORS- D.Uggla-2
+DOUBLES- C.Jones(1st), B.Molina(2nd), J.Hannahan(1st)
+HOME RUNS- M.Holliday(1st), D.Span(1st)
+WALKS- H.Ramirez, C.Jones-3, M.Holliday, D.Uggla, M.Cuddyer, P.Polanco-2,
+       J.Mauer, J.Kubel-2, D.Young, W.Taveras-2
+HIT BY PITCH- D.Uggla
+STRIKE OUTS- C.Lee, D.Uggla, R.Winn, T.Hunter, R.Quinlan, J.Mauer, J.Morneau,
+             M.Young, J.Hannahan
+GIDP- P.Polanco, J.Morneau, D.Young
+WILD PITCHES- E.Volquez
+
+At Metrodome the Los Angeles(AL) Angels were battered 8 to 2 by the Minnesota
+Twins.
+
+Matt Garza(1-1) contributed a pedestrian performance to earn the win.  He
+allowed 9 hits and 6 walks in 7 and 2/3 innings reducing his ERA from 5.06 to
+3.46.  Minnesota won despite being out-hit by Los Angeles(AL) 9 hits to 6.
+
+Edinson Volquez(1-1) suffered the loss.  He had trouble throwing strikes and
+issued 7 walks in 2 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Minnesota Twins
+H.Ramire-A1  A1:L/6     B1:W>b1    C1:Si>13   D1:G/13    E1:Si
+                                                         
+                                                         
+C.Jones-A1   A2:W>b1    B2:W>23 1  C2:Si>3#   D2:Do      E2:W>12 b
+                        2 b1       13                    1
+                                                         
+C.Lee-A1     A3:L/6     B3:G/63    C3:K       D3:G/43    E3:Force/
+                                                         14>23 1o
+                                                         b1
+M.Hollid-A1  A4:W>12 b  *3*:P/6    C4:G/53    *7*:HR>b#  E4:G/31
+             1                                           
+                                                         
+D.Uggla-A1   A5:W>23 1  B5:HBP     *5*:G/63   D5:F/7     *9*:K
+             2 b1                                        
+                                                         
+R.Winn-A1    A6:G/13    B6:Force/  C6:G/63    D6:L/4     E6:K
+                        14>1o b1                         
+                                                         
+B.Molina-A1  *2*:Do     B7:G/63    C7:Si      D7:Si      E7:F/8
+                                                         
+                                                         
+T.Hunter-A1  A8:G/63    *4*:F/7    C8:G/13    D8:K
+                                              
+                                              
+R.Quinla-A1  A9:K       B9:Si      *6*:G/63   *8*:F/9
+C.Figgin-B9                                   
+                                              
+
+D.Span-A1    A1:L/4     B1:HR>3#   C1:Force/  *6*:Si     E1:W>b1
+M.Cuddye-C1             2# 1# b#   54>1o b1              
+                                                         
+P.Polanc-A1  A2:W>b1    B2:W>b1    C2:F/8     D2:F/7     E2:G-DP/6
+                                                         43>1o
+                                                         
+J.Mauer-A1   A3:Si>13   B3:W>12 b  *4*:E/4    D3:K
+                        1                     
+                                              
+J.Mornea-A1  A4:G-DP/6  B4:E/4>23  C4:K       D4:L/4
+             43>1o      12                    
+                                              
+M.Young-A1   *2*:F/7    B5:Si>3#   C5:K       *7*:G/63
+                        23 12                 
+                                              
+J.Kubel-A1   A6:W>b1    B6:Si>3#   C6:F/9     D6:W>b1
+R.Davis-D7              2# 13                 
+                                              
+D.Young-A1   A7:W>12 b  B7:WP>3#   *5*:F/8    D7:G-DP/5
+             1          12 L/6                43>1o
+                                              
+J.Hannah-A1  A8:K       *3*:G/23   C8:F/7     *8*:Do
+                                              
+                                              
+W.Tavera-A1  A9:W>23 1  B9:W>b1    C9:G/63    D9:F/8
+             2 b1                             
+                                              
+
+

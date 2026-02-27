@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2009 Philadelphia Phillies At 2009 Los Angeles(AL) Angels 11/4/2009
+
+[1]  Phillies           AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  J.Giambi DH         4  1  1  0 .302     C.Figgins 3B        4  0  1  0 .231  
+  J.Hairston Jr LF    2  0  1  2 .304     H.Ramirez SS        3  0  1  1 .194  
+A-J.Edmonds PH,LF     2  0  0  0 .233     C.Jones DH          4  0  0  0 .224  
+  C.Utley 2B          4  0  1  1 .324     D.Uggla 2B          3  0  0  0 .189  
+  J.Werth RF          4  0  0  0 .293     G.Gross RF          3  0  0  0 .250  
+  J.Cantu 3B          4  1  1  0 .183     R.Winn LF           4  0  1  0 .221  
+E-G.Dobbs 3B          0  0  0  0 .455     B.Molina C          3  0  0  0 .344  
+  C.Coste C           3  1  1  0 .280   F-C.Lee PH            1  0  0  0 .305  
+C-J.Pierre PH         1  0  0  0 .167     R.Gload 1B          2  0  0  0 .375  
+D-T.Teagarden C       0  0  0  0 .000   B-M.Napoli PH,1B      1  0  0  0 .308  
+  R.Howard 1B         2  1  1  1 .276     T.Hunter CF         3  1  2  0 .242  
+  A.Rowand CF         3  1  1  1 .222   G-M.Holliday PH       1  0  0  0 .267  
+  J.Rollins SS        4  1  0  1 .283                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  6  7  6                 Totals      32  1  5  1
+
+A-Pinch Hit For Hairston Jr In 7th Inning
+B-Pinch Hit For Gload In 7th Inning
+C-Pinch Hit For Coste In 8th Inning
+D-Subbed Defensively (C ) For Pierre In 8th Inning
+E-Subbed Defensively (3B) For Cantu In 9th Inning
+F-Pinch Hit For Molina In 9th Inning
+G-Pinch Hit For Hunter In 9th Inning
+
+Phillies........ 0 6 0  0 0 0  0 0 0  -  6  7  0
+Angels.......... 0 0 1  0 0 0  0 0 0  -  1  5  0
+
+[1]Phillies (12-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets WIN(3-1)            9       5   1   1   3   8   0   4.47  A1
+[1]Totals                    9       5   1   1   3   8   0
+
+[1]Angels (9-8)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Saunders LOSS(4-1)         1 1/3   6   6   6   2   0   0   5.68  A1 B3
+J.Speier                     4 1/3   0   0   0   1   5   0   2.57  B4 C8
+S.Shields                    1 2/3   1   0   0   2   5   0   0.00  C9 D7
+F.Rodriguez                  1 2/3   0   0   0   1   1   0   0.87  D8
+[1]Totals                    9       7   6   6   6  11   0
+
+ATTENDANCE- 41,228 DATE- Wednesday, November 4th 2009 TIME- Night 
+UMPIRES- Shannon Hall, Rob Hamilton, Brian Alexander, Kevin Stafford
+T- 3:18
+LEFT ON BASE- Phillies: 7  Angels: 8
+DOUBLE PLAYS- Phillies: 0  Angels: 1
+DOUBLES- J.Giambi(6th), J.Hairston Jr(3rd), C.Utley(7th), A.Rowand(5th)
+STOLEN BASES- J.Rollins(9th), H.Ramirez(2nd), T.Hunter(2nd)
+SACRIFICE FLIES- C.Utley
+WALKS- J.Giambi, J.Hairston Jr, J.Werth, R.Howard-2, A.Rowand, H.Ramirez,
+       D.Uggla, G.Gross
+HIT BY PITCH- M.Napoli
+STRIKE OUTS- J.Giambi-2, J.Edmonds, C.Utley, J.Werth, J.Cantu-2, J.Pierre,
+             R.Howard, A.Rowand, J.Rollins, C.Figgins-2, D.Uggla, R.Winn,
+             B.Molina, M.Napoli, T.Hunter, M.Holliday
+GIDP- C.Utley
+
+Ben Sheets allowed Charlie Manual to rest his bullpen, tossing a complete game
+as the Philadelphia Phillies defeated the Los Angeles(AL) Angels by the score
+of 6 to 1 at Angels Stadium.
+
+Philadelphia delivered all the runs required in the 2nd inning when they
+tallied 6 runs on 5 hits.  That was all the runs Sheets(3-1) needed.  Neither
+team managed to score after the 3rd inning.  
+
+Joe Saunders(4-1) absorbed the loss.  He pitched 1 and 1/3 innings giving up 6
+hits and 2 walks.
+[2]
+[1]SCORESHEET: 2009 Philadelphia Phillies at 2009 Los Angeles(AL) Angels
+J.Giambi-A1  A1:Do      B1:SB>12   *4*:K      *7*:K      E1:G/31
+                        W>b1                             
+                                                         
+J.Hairst-A1  A2:IW>b1   B2:Do>3#   C2:G/63    D2:K       *9*:F/8
+J.Edmond-D2             2# 13                            
+                                                         
+C.Utley-A1   A3:G-DP/4  B3:SF/9>3  C3:F/9     D3:Do      E3:K
+             63>23 1o   #                                
+                                                         
+J.Werth-A1   A4:G/43    B4:K       *5*:P/6    D4:W>b1    E4:F/8
+                                                         
+                                                         
+J.Cantu-A1   *2*:Si     B5:K       C5:F/7     D5:K
+G.Dobbs-E5                                    
+                                              
+C.Coste-A1   A6:Si>12   *3*:G/43   C6:F/8     *8*:K
+J.Pierre-D6                                   
+T.Teagar-E2                                   
+R.Howard-A1  A7:Si>2#   B7:W>b1    *6*:K      D7:W>b1
+             13                               
+                                              
+A.Rowand-A1  A8:Do>3#   B8:L/5     C8:K       D8:W>12 b
+             13                               1
+                                              
+J.Rollin-A1  A9:FC/42>  B9:G/63    C9:K       D9:P/3
+             3# 23                            
+                                              
+
+C.Figgin-A1  A1:K       B1:Si>13   C1:SB>12   D1:K
+                                   P/4        
+                                              
+H.Ramire-A1  A2:W>b1    B2:Force/  C2:F/9     *8*:Si
+                        54>3# 1o              
+                        b1                    
+C.Jones-A1   A3:SB>12   B3:Force/  C3:G/63    D3:L/3
+             F/8>23     64>1o b1              
+                                              
+D.Uggla-A1   A4:K       B4:W>12 b  *6*:P/6    D4:F/9
+                        1                     
+                                              
+G.Gross-A1   *2*:G/63   B5:P/6     C5:W>b1    D5:F/7
+                                              
+                                              
+R.Winn-A1    A6:Si      *4*:F/8    C6:K       *9*:P/2
+                                              
+                                              
+B.Molina-A1  A7:P/4     B7:L/6     C7:K       D7:L/5
+C.Lee-D7                                      
+                                              
+R.Gload-A1   A8:G/63    B8:F/9     *7*:K      D8:HBP
+M.Napoli-C8                                   
+                                              
+T.Hunter-A1  *3*:Si     *5*:Si     C9:K       D9:K
+M.Hollid-D9                                   
+                                              
+
+

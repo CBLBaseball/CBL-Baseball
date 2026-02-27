@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2009 Los Angeles(NL) Dodgers At 2009 Pittsburgh Pirates  10/15/2009
+
+[1]  Dodgers            AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  R.Martin C          4  0  0  0 .273     C.Guillen 3B        4  2  4  1 .400  
+  M.Scutaro 3B        5  1  1  0 .400   G-W.Bloomquist PH,SS  1  0  0  0 .400  
+  A.Ethier RF         5  1  1  2 .167     N.McLouth CF        4  0  1  0 .150  
+  C.Delgado 1B        5  2  3  1 .526     A.Pujols 1B         5  1  2  4 .389  
+  E.Hinske LF         5  2  2  1 .278     J.Bay LF            3  2  0  0 .158  
+  J.Kent DH           4  1  1  1 .357     C.Floyd DH          4  1  2  0 .308  
+  W.Harris 2B         3  0  0  0 .077   E-C.Duncan PH         1  1  1  0 .500  
+C-B.Dewitt PH,2B      1  0  0  0 .000   H-A.Cora              0  0  0  0 .250  
+  M.Kemp CF           4  0  3  2 .438     X.Nady RF           4  1  1  1 .316  
+  A.Miles SS          3  0  2  0 .333     B.Zobrist SS        2  1  1  0 .571  
+D-N.Garciaparra PH,SS 1  0  1  0 .500   A-J.Wilson SS         2  1  1  1 .143  
+                                        F-M.Cabrera PH,3B     1  1  1  2 .300  
+                                          R.Doumit C          3  1  2  1 .313  
+                                        B-M.Treanor PH,C      2  0  1  0 .400  
+                                          F.Sanchez 2B        4  1  3  2 .438  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  7 14  7                 Totals      40 13 20 12
+
+A-Subbed Defensively (SS) For Zobrist In 4th Inning
+B-Pinch Hit For Doumit In 7th Inning
+C-Pinch Hit For Harris In 8th Inning
+D-Pinch Hit For Miles In 8th Inning
+E-Pinch Hit For Floyd In 8th Inning
+F-Pinch Hit For Wilson In 8th Inning
+G-Pinch Hit For Guillen In 8th Inning
+H-Subbed Defensively (  ) For Duncan In 9th Inning
+
+Dodgers......... 0 2 0  1 2 1  0 0 1  -  7 14  0
+Pirates......... 2 4 0  0 4 0  0 3    - 13 20  0
+
+[1]Dodgers (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Billingsle LOSS(1-1)       1 2/3   7   6   6   0   1   1   8.64  A1 B3
+C.Park                       2 1/3   2   1   1   2   1   0   5.40  B4 C4
+C.Bradford                   0       3   3   3   0   0   0   ----  C5 C7
+R.Troncoso                   3       5   0   0   0   4   0   0.00  C8 E3
+L.Hawkins                    1       3   3   3   1   1   0  12.00  E4
+[1]Totals                    8      20  13  13   3   7   1
+
+[1]Pirates (2-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vazquez WIN(1-0)           5 2/3  10   6   6   1   8   3   6.75  A1 D1
+G.Geary HOLD(2nd)            2 1/3   3   0   0   0   1   0   0.00  D2 E1
+S.Schoenewei                 1       1   1   1   0   0   1  27.00  E2
+[1]Totals                    9      14   7   7   1   9   4
+
+ATTENDANCE- 32,097 DATE- Thursday, October 15th 2009 TIME- Day 
+UMPIRES- Paul Granillo, George Lytle, Mickey Bauchan, Jeff Weinke
+T- 3:20
+LEFT ON BASE- Dodgers: 7  Pirates: 9
+DOUBLE PLAYS- Dodgers: 1  Pirates: 1
+DOUBLES- M.Scutaro(1st), M.Kemp(1st), A.Pujols(2nd)
+HOME RUNS- A.Ethier(1st), C.Delgado(2nd), E.Hinske(1st), J.Kent(1st),
+           A.Pujols(1st)
+SACRIFICE HITS- X.Nady
+SACRIFICE FLIES- F.Sanchez
+WALKS- R.Martin, C.Guillen, J.Bay-2
+HIT BY PITCH- N.McLouth
+STRIKE OUTS- R.Martin, A.Ethier, C.Delgado-2, J.Kent-2, W.Harris-3,
+             W.Bloomquist, N.McLouth-3, C.Floyd, X.Nady, M.Treanor
+GIDP- R.Martin, A.Pujols
+WILD PITCHES- C.Billingsley
+
+Albert Pujols hit a homerun and had 4 RBI as the Pittsburgh Pirates defeated
+the Los Angeles(NL) Dodgers by a score of 13 to 7 at PNC Park.
+
+Pujols had a good day at the plate.  He bombed a two-run dinger (his 1st of
+the season) in the 1st inning and doubled bringing in two baserunners in the
+2nd inning.  Pittsburgh lit up the scoreboard in the 2nd inning when they had
+4 runs on 5 hits and the 5th inning with 4 runs on 5 hits.  Los Angeles(NL)
+scored in 5 different innings, but their shaky pitching kept them from
+victory.  
+
+The victory was credited to Javier Vazquez(1-0) who went 5 and 2/3 innings,
+allowing 6 runs. Chad Billingsley(1-1) took the loss.  He pitched 1 and 2/3
+innings and surrendered 7 hits and no walks.
+[2]
+[1]SCORESHEET: 2009 Los Angeles(NL) Dodgers at 2009 Pittsburgh Pirates
+R.Martin-A1  A1:G/63    B1:F/9     C1:K       D1:W>12 b  E1:G-DP/6
+                                              1          43>1o
+                                                         
+M.Scutar-A1  A2:G/13    *3*:G/13   C2:Do      D2:L/6     *9*:G/23
+                                                         
+                                                         
+A.Ethier-A1  A3:G/43    B3:K       C3:HR>2#   *7*:G/3    E3:G/31
+                                   b#                    
+                                                         
+C.Delgad-A1  *2*:Si     B4:K       C4:K       D4:Si      E4:HR>b#
+                                                         
+                                                         
+E.Hinske-A1  A5:Si>12   *4*:HR>b#  *6*:G/63   D5:F/9     E5:F/8
+                                                         
+                                                         
+J.Kent-A1    A6:F/7     B6:K       C6:HR>b#   D6:K
+                                              
+                                              
+W.Harris-A1  A7:K       B7:K       C7:K       *8*:G/63
+B.Dewitt-D7                                   
+                                              
+M.Kemp-A1    A8:Do>2#   B8:G/43    C8:Si      D8:Si
+             1#                               
+                                              
+A.Miles-A1   A9:Si>23   *5*:F/7    C9:Si>13   D9:Si>12
+N.Garcia-D9                                   
+                                              
+
+C.Guille-A1  A1:Si      B1:Si>3#   C1:W>12 b  D1:Si>12   E1:Si>13   F1:K
+W.Bloomq-F1             13         1                                
+                                                                    
+N.McLout-A1  A2:K       B2:HBP>12  C2:Si>23   D2:K       E2:K
+                                   12                    
+                                                         
+A.Pujols-A1  A3:HR>1#   B3:Do>3#   C3:G-DP/6  D3:G/13    E3:L/6
+             b#         2# 1o      43>1o                 
+                                                         
+J.Bay-A1     A4:G/53    B4:F/8     *5*:W>b1   *6*:G/13   *8*:W>b1
+                                                         
+                                                         
+C.Floyd-A1   A5:F/9     *3*:K      C5:Si>12   D5:Si      E5:Si>12
+C.Duncan-E5                                              
+A.Cora-F2                                                
+X.Nady-A1    *2*:F/7    B6:G/53    C6:Si>2#   D6:K       E6:Sac/54
+                                   13                    >23 12
+                                                         
+B.Zobris-A1  A7:Si      B7:G/31    C7:Si>3#   D7:F/7     E7:Si>3#
+J.Wilson-B8                        13                    2#
+M.Cabrer-E7                                              
+R.Doumit-A1  A8:Si>13   *4*:G/43   C8:Si>3#   *7*:K      E8:Si>13
+M.Treano-D8                        13                    
+                                                         
+F.Sanche-A1  A9:WP>3#   B9:Si      C9:SF/7>3  D9:Si      E9:G/63>3
+             12 Si>23              #                     # 23
+                                                         
+
+

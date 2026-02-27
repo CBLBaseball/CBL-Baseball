@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2009 Pittsburgh Pirates At 2009 Los Angeles(NL) Dodgers  10/18/2009
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Wilson SS         4  0  0  0 .167     R.Martin C          4  0  2  0 .276  
+  B.Zobrist DH        3  0  0  0 .400     M.Scutaro 3B        5  0  1  0 .310  
+A-C.Duncan PH         1  0  1  0 .375     A.Ethier RF         4  1  1  0 .200  
+F-O.Salazar PH        1  1  1  01.000     C.Delgado 1B        4  0  2  0 .462  
+  A.Pujols 1B         5  1  3  2 .481     J.Kent DH           4  0  0  0 .273  
+  J.Bay LF            4  2  3  1 .231     M.Kemp CF           4  1  1  0 .375  
+  M.Cabrera 3B        3  0  0  0 .286     W.Harris 2B         3  1  2  1 .222  
+C-W.Bloomquist PR     0  0  0  0 .400   G-B.Dewitt PH         1  0  0  0 .000  
+D-C.Guillen 3B        0  0  0  0 .300     N.Garciaparra SS    3  0  1  1 .250  
+  N.McLouth CF        5  0  1  0 .167   H-C.Ransom PH         1  0  1  01.000  
+  X.Nady RF           3  1  1  1 .308     R.Spilborghs LF     2  0  1  0 .273  
+  R.Doumit C          3  0  1  0 .333   B-D.Wise PH,LF        1  0  0  0 .000  
+E-M.Treanor C         0  0  0  0 .333   I-E.Hinske PH         1  0  0  0 .250  
+  F.Sanchez 2B        4  0  1  1 .364                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 12  5                 Totals      37  3 12  2
+
+A-Pinch Hit For Zobrist In 7th Inning
+B-Pinch Hit For Spilborghs In 7th Inning
+C-Pinch Ran For Cabrera In 8th Inning
+D-Subbed Defensively (3B) For Bloomquist In 8th Inning
+E-Subbed Defensively (C ) For Doumit In 8th Inning
+F-Pinch Hit For Duncan In 9th Inning
+G-Pinch Hit For Harris In 9th Inning
+H-Pinch Hit For Garciaparra In 9th Inning
+I-Pinch Hit For Wise In 9th Inning
+
+Pirates......... 2 1 0  0 0 1  0 0 1  -  5 12  0
+Dodgers......... 0 0 0  3 0 0  0 0 0  -  3 12  0
+
+[1]Pirates (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Webb WIN(1-2)              6 2/3  11   3   3   0   5   0   4.29  A1 D2
+D.Reyes HOLD(2nd)            0 2/3   0   0   0   0   1   0   0.00  D3 D4
+G.Geary HOLD(3rd)            0 2/3   0   0   0   0   0   0   0.00  D5 D6
+M.Capps SAVE(1st)            1       1   0   0   1   1   0   0.00  D7
+[1]Totals                    9      12   3   3   1   7   0
+
+[1]Dodgers (3-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Lowe LOSS(1-1)             6 2/3   7   4   4   1   2   2   3.37  A1 D1
+C.Wade                       0 1/3   2   0   0   0   0   0   3.00  D2 D4
+R.Troncoso                   0 2/3   0   0   0   1   0   0   0.00  D5 D6
+T.Saito                      0 2/3   2   1   1   1   2   0   4.91  D7 E2
+D.Giese                      0 1/3   1   0   0   1   0   0  10.38  E3 E6
+L.Hawkins                    0 1/3   0   0   0   0   0   0   9.00  E7
+[1]Totals                    9      12   5   5   4   4   2
+
+ATTENDANCE- 52,362 DATE- Sunday, October 18th 2009 TIME- Day 
+UMPIRES- Dave Johns, Mike Brue, Arthur Svec, Bob Reibel
+T- 3:06
+LEFT ON BASE- Pirates:11  Dodgers: 8
+DOUBLE PLAYS- Pirates: 1  Dodgers: 1
+DOUBLES- O.Salazar(1st), J.Bay(1st)
+TRIPLES- M.Kemp(3rd)
+HOME RUNS- A.Pujols(3rd), J.Bay(1st)
+STOLEN BASES- R.Martin(2nd), A.Ethier(1st), W.Harris-2(3rd)
+CAUGHT STEALING- W.Bloomquist, M.Scutaro
+WALKS- J.Wilson, J.Bay, M.Cabrera, X.Nady, R.Martin
+HIT BY PITCH- C.Guillen, X.Nady, R.Doumit
+STRIKE OUTS- J.Wilson, A.Pujols-2, F.Sanchez, R.Martin, M.Scutaro-2, A.Ethier,
+             C.Delgado, M.Kemp, E.Hinske
+GIDP- F.Sanchez, J.Kent
+
+In a close game it was the Pittsburgh Pirates 5, the Los Angeles(NL) Dodgers 3
+at Dodger Stadium.
+
+Los Angeles(NL) was unable to recover after Pittsburgh went ahead in the 6th
+inning plating an isolated run on 2 hits.  Pittsburgh and Los Angeles(NL)
+each finished the afternoon with 12 hits.  
+
+Brandon Webb(1-2) got the win allowing 3 runs in 6 and 2/3 innings. Matt Capps
+recorded his 1st save.  Derek Lowe(1-1) was charged with the loss.  
+
+[2]
+[1]SCORESHEET: 2009 Pittsburgh Pirates at 2009 Los Angeles(NL) Dodgers
+J.Wilson-A1  A1:L/6     B1:W>b1    *5*:G/63   D1:G/53    *9*:K
+                                                         
+                                                         
+B.Zobris-A1  A2:G/31    B2:G/43    C2:FO/2    D2:Si      E2:Do
+C.Duncan-D2                                              
+O.Salaza-E2                                              
+A.Pujols-A1  A3:HR>b#   *3*:K      C3:K       D3:Si>12   E3:Si>2#
+                                                         
+                                                         
+J.Bay-A1     A4:HR>b#   B4:Do      *6*:Si     D4:G/43    E4:IW>b1
+                                                         
+                                                         
+M.Cabrer-A1  A5:G/63    B5:G/63    C5:G/43>1  *8*:W>b1   E5:HBP>23
+W.Bloomq-D6                        2                     12 
+C.Guille-E1                                              
+N.McLout-A1  *2*:Si     B6:L/4     C6:G/43>2  D6:CS/26>  E6:L/4
+                                   3          1o L/4     
+                                                         
+X.Nady-A1    A7:HBP     *4*:F/8    C7:Si>3#   D7:W>b1    E7:G/13
+                                                         
+                                                         
+R.Doumit-A1  A8:G/43>1  B8:HBP     C8:G/63    D8:Si>12
+M.Treano-E1  2                                
+                                              
+F.Sanche-A1  A9:Si>2#   B9:G-DP/6  *7*:G/43   D9:K
+                        43>1o                 
+                                              
+
+R.Martin-A1  A1:Si      B1:G/53    C1:K       D1:Si      E1:W>12 b
+                                                         1
+                                                         
+M.Scutar-A1  A2:K       B2:K       *5*:Si     D2:SB>12   E2:F/9
+                                              G/53       
+                                                         
+A.Ethier-A1  A3:F/7     *4*:Si     C3:K       D3:G/63
+                                              
+                                              
+C.Delgad-A1  A4:Si>13   B4:SB>12   C4:F/7 CS  *8*:K
+                        Si>23      /24>1o     
+                                              
+J.Kent-A1    A5:L/6     B5:G-DP/4  *6*:F/7    D5:G/13
+                        63>3# 1o              
+                                              
+M.Kemp-A1    *2*:G/13   B6:Tr      C6:K       D6:P/5
+                                              
+                                              
+W.Harris-A1  A7:G/31    B7:Si>3#   C7:Si      *9*:G/63
+B.Dewitt-D7                                   
+                                              
+N.Garcia-A1  A8:G/63    B8:SB>12   C8:SB>12   D8:Si
+C.Ransom-D8             Si>2#      G/63       
+                                              
+R.Spilbo-A1  *3*:G/63   B9:Si>12   *7*:F/8    D9:K
+D.Wise-C9                                     
+E.Hinske-D9                                   
+
+

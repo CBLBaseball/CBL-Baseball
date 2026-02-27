@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Oakland Athletics    10/24/2009
+
+[1]  Angels             AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  H.Ramirez SS        4  0  0  0 .162     D.Barton 1B         4  0  1  1 .308  
+  C.Jones 3B          4  1  0  0 .212     J.Cust DH           3  1  1  0 .240  
+  M.Holliday LF       4  1  0  0 .303     P.Burrell LF        4  1  2  1 .382  
+  C.Lee DH            4  1  2  0 .389     C.Ross RF           3  0  0  0 .250  
+  D.Uggla 2B          1  2  1  2 .190   B-C.Gonzalez PH,RF    1  0  1  0 .286  
+A-H.Kendrick PH,2B    1  0  0  0 .467     C.Barmes 3B         4  0  1  1 .174  
+  R.Winn RF           3  0  1  2 .179     K.Suzuki C          4  0  0  0 .275  
+  B.Molina C          3  0  0  0 .286     D.Dejesus CF        4  0  0  0 .122  
+  R.Gload 1B          3  0  0  0 .348     M.Ellis 2B          4  1  1  0 .200  
+  T.Hunter CF         4  0  0  0 .270     B.Crosby SS         2  0  0  0 .216  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  5  4  4                 Totals      33  3  7  3
+
+A-Pinch Hit For Uggla In 7th Inning
+B-Pinch Hit For Ross In 8th Inning
+
+Angels.......... 0 1 2  0 2 0  0 0 0  -  5  4  0
+Athletics....... 2 1 0  0 0 0  0 0 0  -  3  7  1
+
+[1]Angels (7-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Saunders WIN(4-0)          6 2/3   6   3   3   1   2   0   2.92  A1 C9
+J.Arredondo HOLD(4th)        0 1/3   0   0   0   1   0   0   0.00  D1 D2
+F.Rodriguez SAVE(2nd)        2       1   0   0   0   0   0   1.17  D3
+[1]Totals                    9       7   3   3   2   2   0
+
+[1]Athletics (5-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Gallagher LOSS(1-1)        4       4   5   4   6   1   1   6.30  A1 C5
+R.Rowland-Sm                 3       0   0   0   2   2   0   1.50  C6 D6
+B.Ziegler                    2       0   0   0   0   2   0   5.06  D7
+[1]Totals                    9       4   5   4   8   5   1
+
+ATTENDANCE- 45,132 DATE- Saturday, October 24th 2009 TIME- Day 
+UMPIRES- Larry Spencer, Tom Devries, Steve Sprague, Tony Childers
+T- 2:43
+LEFT ON BASE- Angels: 7  Athletics: 5
+DOUBLE PLAYS- Angels: 1  Athletics: 1
+ERRORS- B.Crosby
+DOUBLES- P.Burrell(4th), M.Ellis(1st)
+TRIPLES- P.Burrell(1st)
+HOME RUNS- D.Uggla(2nd)
+STOLEN BASES- H.Ramirez(1st)
+WALKS- H.Ramirez, C.Jones, M.Holliday, D.Uggla-2, R.Winn, B.Molina, R.Gload,
+       J.Cust, B.Crosby
+STRIKE OUTS- H.Ramirez-2, M.Holliday, T.Hunter-2, C.Ross, M.Ellis
+GIDP- B.Molina, C.Barmes
+PASSED BALLS- K.Suzuki
+
+In a good matchup it was the Los Angeles(AL) Angels 5, the Oakland Athletics 3
+at McAfee Coliseum.
+
+Joe Saunders(4-0) delivered a fine performance for Los Angeles(AL).  He
+allowed 6 hits and 1 walk in 6 and 2/3 innings.  Despite losing, Oakland
+out-hit Los Angeles(AL) 7 to 4.  
+
+Francisco Rodriguez gained credit for his 2nd save.  Sean Gallagher(1-1)
+suffered the loss.  He was not very effective, surrendering 5 runs in 4
+innings.  
+
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Oakland Athletics
+H.Ramire-A1  A1:K       B1:G/63    C1:W>b1    *6*:G/63   *9*:K
+                                                         
+                                                         
+C.Jones-A1   A2:L/4     *3*:W>b1   C2:SB>12   D2:G/63    E2:G/31
+                                   L/4                   
+                                                         
+M.Hollid-A1  A3:G/23    B3:L/6     *5*:W>b1   D3:K       E3:G/63
+                                                         
+                                                         
+C.Lee-A1     *2*:Si     B4:F/8     C4:Si>12   *7*:G/63
+                                              
+                                              
+D.Uggla-A1   A5:W>12 b  B5:HR>1#   C5:W>23 1  D5:F/8
+H.Kendri-D5  1          b#         2 b1       
+                                              
+R.Winn-A1    A6:Si>2#   B6:E/6     C6:W>3# 2  D6:F/7
+             13                    3 12 b1    
+                                              
+B.Molina-A1  A7:W>12 b  B7:F/7     C7:G-DP/6  *8*:G/43
+             1                     23>3o 23   
+                                   12         
+R.Gload-A1   A8:L/4     *4*:G/13   C8:W>b1    D8:P/4
+                                              
+                                              
+T.Hunter-A1  A9:L/6     B9:F/8     C9:PB>3#   D9:K
+                                   23 12 K    
+                                              
+
+D.Barton-A1  A1:G/63    B1:Si>2#   C1:L/4     D1:G/31
+                                              
+                                              
+J.Cust-A1    A2:Si      B2:F/9     C2:F/8     *8*:W>b1
+                                              
+                                              
+P.Burrel-A1  A3:Tr>1#   *3*:F/8    *6*:Do     D3:Force/
+                                              54>1o b1
+                                              
+C.Ross-A1    A4:K       B4:F/7     C4:F/7     D4:Si>13
+C.Gonzal-D4                                   
+                                              
+C.Barmes-A1  A5:Si>3#   B5:F/7     C5:G/3>23  D5:G-DP/6
+                                              43>1o
+                                              
+K.Suzuki-A1  A6:G/43    *4*:L/5    C6:G/63    *9*:F/8
+                                              
+                                              
+D.Dejesu-A1  *2*:F/7    B7:F/7     *7*:F/7    D7:G/13
+                                              
+                                              
+M.Ellis-A1   A8:Do      B8:F/9     C8:K       D8:G/63
+                                              
+                                              
+B.Crosby-A1  A9:F/8     *5*:F/9    C9:W>b1
+                                   
+                                   
+
+

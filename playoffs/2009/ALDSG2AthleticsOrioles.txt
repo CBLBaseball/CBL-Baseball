@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2009 Oakland Athletics At 2009 Baltimore Orioles         10/11/2009
+
+[1]  Athletics          AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  N.Morgan RF         4  0  1  0 .250     B.Roberts 2B        4  1  2  0 .375  
+  D.Dejesus CF        4  0  0  0 .125     N.Markakis RF       3  0  0  0 .143  
+  J.Cust DH           4  1  2  1 .250     M.Ramirez LF        4  0  1  1 .286  
+  P.Burrell LF        4  0  1  0 .250     J.Hardy SS          4  0  1  0 .143  
+  M.Prado 3B          2  0  0  0 .000     C.Beltran CF        3  0  1  0 .167  
+  N.Swisher 1B        2  0  1  0 .200     M.Mora 3B           4  1  1  0 .286  
+  K.Suzuki C          4  0  0  0 .000     M.Olivo C           2  1  1  1 .400  
+  M.Ellis 2B          2  0  0  0 .200     V.Guerrero DH       3  1  1  2 .333  
+  B.Crosby SS         2  0  0  0 .200     A.Gonzalez 1B       3  0  0  0 .143  
+A-C.Ross PH           1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  5  1                 Totals      30  4  8  4
+
+A-Pinch Hit For Crosby In 9th Inning
+
+Athletics....... 0 0 0  0 0 0  0 1 0  -  1  5  0
+Orioles......... 0 2 1  1 0 0  0 0    -  4  8  0
+
+[1]Athletics (0-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Smith LOSS(0-1)            5 1/3   7   4   4   3   4   2   6.75  A1 C7
+C.Villanueva                 2 2/3   1   0   0   0   0   0   0.00  C8
+[1]Totals                    8       8   4   4   3   4   2
+
+[1]Orioles (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+U.Jimenez WIN(1-0)           6 2/3   3   0   0   6   2   0   0.00  A1 C8
+R.Springer HOLD(1st)         0 1/3   0   0   0   0   1   0   0.00  C9 C9
+A.Rhodes                     0 2/3   1   1   1   0   1   1  13.50  D1 D3
+J.Johnson SAVE(1st)          1 1/3   1   0   0   1   0   0   0.00  D4
+[1]Totals                    9       5   1   1   7   4   1
+
+ATTENDANCE- 44,712 DATE- Sunday, October 11th 2009 TIME- Day 
+UMPIRES- Rob Hamilton, Brian Alexander, Kevin Stafford, Shannon Hall
+T- 2:39
+LEFT ON BASE- Athletics: 8  Orioles: 5
+DOUBLE PLAYS- Athletics: 2  Orioles: 2
+DOUBLES- B.Roberts(1st)
+HOME RUNS- J.Cust(1st), M.Olivo(1st), V.Guerrero(1st)
+STOLEN BASES- N.Morgan(1st)
+CAUGHT STEALING- N.Morgan
+WALKS- M.Prado-2, N.Swisher-2, M.Ellis-2, B.Crosby, N.Markakis, C.Beltran,
+       M.Olivo
+STRIKE OUTS- N.Morgan, D.Dejesus, M.Prado, B.Crosby, M.Ramirez, J.Hardy,
+             M.Olivo, V.Guerrero
+GIDP- K.Suzuki-2, C.Beltran, V.Guerrero
+WEB GEMS- Bot 5th: Nyjer Morgan robbed Brian Roberts of an extra base hit.
+
+Second baseman Brian Roberts had 2 base hits as the Baltimore Orioles
+outscored the Oakland Athletics 4 to 1.
+
+In the 2nd inning Baltimore scored 2 runs.  Carlos Beltran led off and started
+the rally when he delivered a one-base hit.  One out later, Miguel Olivo got
+his chance to keep things going, but he went down on strikes.  Vladimir
+Guerrero then lifted one out of the park for a two run home run (his 1st of
+the season).  That early run support was enough for Ubaldo Jimenez(1-0) and
+Baltimore.  Baltimore ended up with 8 hits for the game while Oakland had 5.
+
+Jim Johnson earned his 1st save.  Greg Smith(0-1) was the loser.  He
+surrendered 7 hits and 3 walks in 5 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2009 Oakland Athletics at 2009 Baltimore Orioles
+N.Morgan-A1  A1:FO/5    B1:Force/  C1:Si      *8*:K
+                        46>23 1o              
+                        b1                    
+D.Dejesu-A1  A2:K       B2:CS/26>  C2:SB>12   D2:G/63
+                        1o F/7     F/7        
+                                              
+J.Cust-A1    A3:Si      *4*:F/8    C3:G/63    D3:HR>b#
+                                              
+                                              
+P.Burrel-A1  A4:G/13    B4:G/63    *7*:F/7    D4:Si
+                                              
+                                              
+M.Prado-A1   *2*:G/53   B5:K       C5:W>b1    D5:W>12 b
+                                              1
+                                              
+N.Swishe-A1  A6:W>b1    *5*:Si     C6:W>12 b  D6:G/43
+                                   1          
+                                              
+K.Suzuki-A1  A7:G-DP/5  B7:G-DP/5  C7:F/8     *9*:G/53
+             43>1o      43>1o                 
+                                              
+M.Ellis-A1   *3*:W>b1   B8:G/63    C8:W>23 1  D8:F/8
+                                   2 b1       
+                                              
+B.Crosby-A1  A9:W>12 b  *6*:F/7    C9:K       D9:P/2
+C.Ross-D9    1                                
+                                              
+
+B.Robert-A1  A1:Si      *3*:Do     *5*:F/9    D1:F/9
+                                              
+                                              
+N.Markak-A1  A2:F/7     B2:W>b1    C2:G/43    D2:F/7
+                                              
+                                              
+M.Ramire-A1  A3:K       B3:Si>2#   C3:G/63    *8*:L/6
+                        12                    
+                                              
+J.Hardy-A1   A4:Force/  B4:K       *6*:F/8    D4:Si
+             64>1o b1                         
+                                              
+C.Beltra-A1  *2*:Si     B5:G-DP/4  C5:W>b1    D5:P/4
+                        63>1o                 
+                                              
+M.Mora-A1    A6:Force/  *4*:G/13   C6:Si>13   D6:G/63
+             54>1o b1                         
+                                              
+M.Olivo-A1   A7:K       B7:HR>b#   C7:W>12 b
+                                   1
+                                   
+V.Guerre-A1  A8:HR>1#   B8:K       C8:G-DP/5
+             b#                    43>1o
+                                   
+A.Gonzal-A1  A9:G/43    B9:G/63    *7*:F/7
+                                   
+                                   
+
+

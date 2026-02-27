@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2009 Pittsburgh Pirates At 2009 Philadelphia Phillies    10/21/2009
+
+[1]  Pirates            AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  C.Guillen 3B        3  2  3  2 .391     J.Pierre LF         5  0  1  1 .125  
+  G.Floyd P           2  0  0  0 .000     J.Giambi DH         4  0  1  0 .280  
+F-C.Duncan PH         1  0  1  0 .444     C.Utley 2B          2  0  0  1 .321  
+  G.Geary P           0  0  0  0 ----     R.Howard 1B         3  0  0  0 .259  
+  A.Cora SS           2  1  2  1 .500     J.Werth RF          1  0  0  0 .357  
+A-B.Moss PH           1  0  0  0 .500   D-G.Jenkins PH,RF     3  0  1  0 .333  
+B-W.Bloomquist SS     3  0  0  0 .222     G.Dobbs 3B          1  0  1  0 .750  
+  A.Pujols 1B         5  3  3  4 .472   E-J.Cantu PH,3B       3  0  1  0 .185  
+  J.Bay LF            4  1  2  0 .286     A.Rowand CF         4  0  1  0 .190  
+  X.Nady RF           5  0  2  1 .314     J.Rollins SS        4  1  1  0 .308  
+  N.McLouth CF        3  1  1  1 .200     C.Coste C           1  1  0  0 .125  
+  M.Cabrera DH,3B     5  2  2  0 .333   G-J.Hairston Jr PH    1  0  0  0 .286  
+  R.Doumit C          1  1  1  1 .346                                          
+C-M.Treanor PH,C      2  0  0  0 .250                                          
+  F.Sanchez 2B        4  0  1  1 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 11 18 11                 Totals      32  2  7  2
+
+A-Pinch Hit For Cora In 3rd Inning
+B-Subbed Defensively (SS) For Moss In 3rd Inning
+C-Pinch Hit For Doumit In 4th Inning
+D-Pinch Hit For Werth In 4th Inning
+E-Pinch Hit For Dobbs In 4th Inning
+F-Pinch Hit For Floyd In 9th Inning
+G-Pinch Hit For Coste In 9th Inning
+
+Pirates......... 1 7 1  1 1 0  0 0 0  - 11 18  0
+Phillies........ 0 0 0  0 0 0  2 0 0  -  2  7  0
+
+[1]Pirates (5-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Floyd WIN(2-0)             8       7   2   2   3   2   0   4.43  A1 B1 D8
+G.Geary                      1       0   0   0   0   2   0   0.00  D9
+[1]Totals                    9       7   2   2   3   4   0
+
+[1]Phillies (5-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets LOSS(2-1)           8      17  11  11   3   4   2   5.96  A1 E7
+J.Rauch                      1       1   0   0   0   0   0   0.00  E8
+[1]Totals                    9      18  11  11   3   4   2
+
+ATTENDANCE- 41,637 DATE- Wednesday, October 21st 2009 TIME- Night 
+UMPIRES- Jim Robbins, Randy Shavis, Rick Mras, Jesus Gonzalez
+T- 2:50
+LEFT ON BASE- Pirates: 9  Phillies: 9
+DOUBLE PLAYS- Pirates: 1  Phillies: 1
+DOUBLES- C.Guillen(2nd), A.Cora-2(2nd), A.Pujols(3rd), X.Nady(2nd),
+         R.Doumit(2nd), J.Giambi(3rd), G.Jenkins(1st)
+HOME RUNS- A.Pujols-2(5th)
+STOLEN BASES- C.Guillen(1st), C.Duncan(1st), J.Pierre(1st)
+SACRIFICE HITS- R.Doumit, C.Coste
+SACRIFICE FLIES- N.McLouth, F.Sanchez
+WALKS- J.Bay, N.McLouth, M.Treanor, J.Giambi, C.Utley, R.Howard
+HIT BY PITCH- C.Utley, C.Coste
+STRIKE OUTS- G.Floyd, J.Bay, X.Nady, M.Cabrera, J.Pierre, J.Giambi, R.Howard,
+             A.Rowand
+GIDP- A.Rowand
+WILD PITCHES- G.Floyd
+WEB GEMS- Bot 5th: Nate McLouth robbed Juan Pierre of an extra base hit.
+
+Albert Pujols smashed 2 homeruns and had 4 RBI as the Pittsburgh Pirates
+defeated the Philadelphia Phillies by the score of 11 to 2 at Citizen's Bank
+Park.
+
+Pujols was a one-man wrecking crew.  He lifted one out of the park for a two
+run home run in the 2nd inning, doubled in the 4th inning and hit a
+bases-empty home run (his 5th of the season) in the 5th inning.  Philadelphia
+was out-hit by Pittsburgh, 18 hits to 7.  
+
+Gavin Floyd(2-0) got the win allowing 2 runs in 8 innings. Ben Sheets(2-1) was
+the losing pitcher.  He was hit hard and gave up 17 hits and 3 walks in 8
+innings.  
+
+Pujols said, 'It was just all timing. I had pretty good rhythm at the plate
+tonight.  You've got to take advantage of mistakes when you can.  A couple
+pitches were definitely up a little bit - right in my zone.'
+[2]
+[1]SCORESHEET: 2009 Pittsburgh Pirates at 2009 Philadelphia Phillies
+C.Guille-A1  A1:Si      B1:Si>2#   C1:Do>2#   *5*:G/63   E1:K       F1:Si
+G.Floyd-C3                                                          
+C.Duncan-F1+                                                        
+A.Cora-A1    A2:Do>13   B2:SB>12   C2:G/3     D2:F/8     E2:F/9     F2:SB>12
+B.Moss-C2               Do>2#                                       F/7
+W.Bloomq-C3                                                         
+A.Pujols-A1  A3:G/63>3  B3:HR>2#   *4*:Do     D3:HR>b#   E3:F/8
+             # 23       b#                               
+                                                         
+J.Bay-A1     A4:K       B4:Si      C4:W>b1    D4:Si      *8*:P/6
+                                                         
+                                                         
+X.Nady-A1    A5:P/6     B5:Si>13   C5:Do>2#   D5:L/5     E5:K
+                                   13                    
+                                                         
+N.McLout-A1  *2*:W>b1   B6:SF-DP/  C6:L/4     *6*:G/63   E6:Si
+                        934>3# 1o                        
+                                                         
+M.Cabrer-A1  A7:Si>12   *3*:Si     C7:K       D7:G/63    E7:G/63
+                                                         
+                                                         
+R.Doumit-A1  A8:Do>2#   B8:Sac/34  C8:W>b1    D8:G/13    *9*:P/4
+M.Treano-C8  13         >12                              
+                                                         
+F.Sanche-A1  A9:SF/7>3  B9:L/6     C9:F/7     *7*:Si     E9:L/6
+             #                                           
+                                                         
+
+J.Pierre-A1  A1:L/4     *3*:F/7    C1:F/8     D1:Si>2#   E1:K
+                                              13         
+                                                         
+J.Giambi-A1  A2:Do      B2:G/53    C2:F/8     D2:SB>12   E2:K
+                                              W>b1       
+                                                         
+C.Utley-A1   A3:F/7     B3:HBP     *6*:F/8    D3:W>3# 2
+                                              3 12 b1
+                                              
+R.Howard-A1  A4:IW>b1   B4:G/3     C4:K       D4:F/7
+                                              
+                                              
+J.Werth-A1   A5:WP>23   *4*:F/9    C5:L/4     *8*:Do
+G.Jenkin-B5  12 G/43                          
+                                              
+G.Dobbs-A1   *2*:Si     B6:Si      *7*:L/6    D6:G/63
+J.Cantu-B6                                    
+                                              
+A.Rowand-A1  A7:K       B7:G-DP/3  C7:Si      D7:P/4
+                        63>1o                 
+                                              
+J.Rollin-A1  A8:P/3     *5*:Si     C8:Force/  D8:F/9
+                                   64>1o b1   
+                                              
+C.Coste-A1   A9:G/43    B9:Sac/34  C9:HBP>12  *9*:P/5
+J.Hairst-D9             >12                   
+                                              
+
+

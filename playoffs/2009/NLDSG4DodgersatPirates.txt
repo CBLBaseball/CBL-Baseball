@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2009 Los Angeles(NL) Dodgers At 2009 Pittsburgh Pirates  10/14/2009
+
+[1]  Dodgers            AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  R.Martin C          5  1  1  0 .333     W.Bloomquist SS     2  0  0  0 .500  
+  M.Scutaro 3B        4  1  1  1 .467     N.McLouth CF        4  0  1  0 .125  
+  A.Ethier RF         4  1  1  0 .154     A.Pujols 1B         2  1  0  0 .385  
+  C.Delgado 1B        2  0  1  2 .500     J.Bay LF            3  1  1  0 .188  
+  E.Hinske LF         4  1  1  0 .231     C.Floyd DH          4  0  1  1 .222  
+  J.Kent DH           5  0  1  1 .400     X.Nady RF           4  0  1  1 .333  
+  M.Kemp CF           5  1  1  0 .333     M.Cabrera 3B        3  0  0  0 .222  
+  A.Miles SS          5  0  1  1 .267     R.Doumit C          3  1  1  1 .231  
+  W.Harris 2B         2  1  0  1 .100     F.Sanchez 2B        3  0  0  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6  8  6                 Totals      28  3  5  3
+
+
+Dodgers......... 0 0 3  1 0 0  2 0 0  -  6  8  0
+Pirates......... 2 0 0  0 1 0  0 0 0  -  3  5  2
+
+[1]Dodgers (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Lowe WIN(1-0)              7 2/3   5   3   3   5   5   1   2.45  A1 D2
+L.Hawkins HOLD(3rd)          0 1/3   0   0   0   0   1   0   4.50  D3 D3
+T.Saito SAVE(3rd)            1       0   0   0   0   1   0   3.00  D4
+[1]Totals                    9       5   3   3   5   7   1
+
+[1]Pirates (1-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Webb LOSS(0-2)             6 1/3   8   6   4   7   6   0   4.40  A1 D8
+E.Ramirez                    2 2/3   0   0   0   1   1   0   0.00  D9
+[1]Totals                    9       8   6   4   8   7   0
+
+ATTENDANCE- 37,533 DATE- Wednesday, October 14th 2009 TIME- Day 
+UMPIRES- Randy Shavis, Rick Mras, Jesus Gonzalez, Jim Robbins
+T- 3:05
+LEFT ON BASE- Dodgers:11  Pirates: 3
+DOUBLE PLAYS- Dodgers: 2  Pirates: 1
+ERRORS- M.Cabrera-2
+DOUBLES- R.Martin(3rd), X.Nady(1st)
+HOME RUNS- R.Doumit(1st)
+STOLEN BASES- W.Harris(1st)
+CAUGHT STEALING- W.Bloomquist
+WALKS- M.Scutaro, A.Ethier, C.Delgado-3, E.Hinske, W.Harris-2, W.Bloomquist-2,
+       A.Pujols-2, J.Bay
+STRIKE OUTS- R.Martin-2, M.Scutaro, C.Delgado, M.Kemp-2, A.Miles, A.Pujols-2,
+             X.Nady-3, M.Cabrera, F.Sanchez
+GIDP- E.Hinske, J.Bay, C.Floyd
+
+At PNC Park the Los Angeles(NL) Dodgers outscored the Pittsburgh Pirates 6 to
+3.
+
+Derek Lowe(1-0) gave a fine effort for Los Angeles(NL).  He was reached for 5
+hits and 5 walks in 7 and 2/3 innings.  Takashi Saito pitched a perfect ninth
+to earn his 3rd save.  
+
+Brandon Webb(0-2) was the losing pitcher.  He pitched 6 and 1/3 innings and
+surrendered 8 hits and 7 walks.
+[2]
+[1]SCORESHEET: 2009 Los Angeles(NL) Dodgers at 2009 Pittsburgh Pirates
+R.Martin-A1  A1:K       B1:SB>12   C1:Do>13   D1:G/43>1  E1:G/43
+                        K                     2          
+                                                         
+M.Scutar-A1  A2:G/43    B2:Si>2#   C2:FC/12>  D2:W>b1    *8*:K
+                                   3o 23                 
+                                                         
+A.Ethier-A1  A3:G/43    B3:Si>13   C3:W>12 b  D3:F/8     E3:G/31
+                                   1                     
+                                                         
+C.Delgad-A1  *2*:W>b1   B4:Si>3#   C4:W>3# 2  D4:K       E4:W>b1
+                        13         3 12 b1               
+                                                         
+E.Hinske-A1  A5:Force/  B5:W>12 b  C5:G-DP/3  *7*:Si     E5:F/9
+             46>1o b1   1          63>1o                 
+                                                         
+J.Kent-A1    A6:Si>13   B6:E/5>3#  *5*:G/63   D6:P/4     *9*:F/8
+                        23 12                            
+                                                         
+M.Kemp-A1    A7:K       B7:K       C7:G/63    D7:Si>12   E7:F/7
+                                                         
+                                                         
+A.Miles-A1   A8:G/43    B8:G/43    C8:K       D8:Si>2#   E8:G/63
+                                              13         
+                                                         
+W.Harris-A1  *3*:E/5    *4*:W>b1   *6*:W>b1   D9:Force/
+                                              64>3# 1o
+                                              b1
+
+W.Bloomq-A1  A1:W>b1    *3*:G/53   C1:G/31    D1:W>b1
+                                              
+                                              
+N.McLout-A1  A2:CS/26>  B2:F/8     *6*:G/43   D2:Si>12
+             1o G/63                          
+                                              
+A.Pujols-A1  A3:W>b1    B3:K       C3:W>b1    D3:K
+                                              
+                                              
+J.Bay-A1     A4:Si>13   *4*:W>b1   C4:G-DP/6  *9*:G/63
+                                   43>1o      
+                                              
+C.Floyd-A1   A5:Si>3#   B5:G-DP/3  *7*:G/43   D5:F/7
+             13         63>1o                 
+                                              
+X.Nady-A1    A6:Do>3#   B6:K       C6:K       D6:K
+             1o                               
+                                              
+M.Cabrer-A1  *2*:G/43   *5*:L/6    C7:K
+                                   
+                                   
+R.Doumit-A1  A8:F/9     B8:HR>b#   *8*:G/3
+                                   
+                                   
+F.Sanche-A1  A9:F/7     B9:K       C9:G/53
+                                   
+                                   
+
+

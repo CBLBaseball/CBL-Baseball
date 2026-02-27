@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Oakland Athletics    10/25/2009
+
+[1]  Angels             AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  H.Ramirez SS        4  0  0  0 .146     N.Morgan CF         3  2  1  0 .214  
+  C.Jones 3B          4  0  0  0 .189   E-D.Barton PH         1  0  0  0 .296  
+  M.Holliday LF       5  0  1  0 .289   F-C.Pennington 3B     0  0  0  0 .000  
+  C.Lee DH            2  1  1  0 .395     N.Swisher 1B        4  0  2  2 .265  
+  D.Uggla 2B,1B       4  1  1  0 .200     J.Cust RF           3  0  1  0 .250  
+  R.Winn RF           4  0  1  0 .186   A-C.Gonzalez PR,RF,CF 1  0  1  0 .333  
+  B.Molina C          4  0  3  2 .333     P.Burrell DH        3  0  0  0 .351  
+  T.Hunter CF         4  0  1  0 .268     M.Prado 3B          2  0  0  0 .000  
+  R.Gload 1B          2  0  0  0 .320   C-C.Ross PH,RF        1  0  0  0 .240  
+B-H.Kendrick PH,2B    2  0  1  0 .471     K.Suzuki C          4  0  1  0 .273  
+                                          D.Dejesus LF        2  0  0  0 .116  
+                                          M.Ellis 2B          3  1  1  0 .214  
+                                        D-C.Barmes PH,2B      0  0  0  0 .174  
+                                          B.Crosby SS         4  0  0  0 .195  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2  9  2                 Totals      31  3  7  2
+
+A-Pinch Ran For Cust In 6th Inning
+B-Pinch Hit For Gload In 7th Inning
+C-Pinch Hit For Prado In 8th Inning
+D-Pinch Hit For Ellis In 8th Inning
+E-Pinch Hit For Morgan In 8th Inning
+F-Subbed Defensively (3B) For Barton In 9th Inning
+
+Angels.......... 0 1 0  0 0 0  0 1 0  -  2  9  2
+Athletics....... 1 0 1  0 1 0  0 0    -  3  7  1
+
+[1]Angels (7-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Volquez LOSS(2-2)          7 1/3   7   3   1   5   8   0   2.38  A1 D7
+R.Pinto                      0 1/3   0   0   0   1   0   0   7.36  D8 D9
+B.Fuentes                    0 1/3   0   0   0   0   1   0   0.00  E1
+[1]Totals                    8       7   3   1   6   9   0
+
+[1]Athletics (6-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Blanton WIN(2-2)           6       7   1   1   2   5   0   5.06  A1 C8
+J.Blevins                    0       1   0   0   0   0   0   0.00  C9 C9
+H.Street HOLD(1st)           2       1   1   1   2   1   0   3.60  D1 D9
+J.Devine SAVE(2nd)           1       0   0   0   0   0   0   0.00  E1
+[1]Totals                    9       9   2   2   4   6   0
+
+ATTENDANCE- 43,797 DATE- Sunday, October 25th 2009 TIME- Day 
+UMPIRES- Ed Glass, Larry Huck, Jeff Hammerlund, Rich Denny
+T- 3:18
+LEFT ON BASE- Angels:10  Athletics:10
+DOUBLE PLAYS- Angels: 0  Athletics: 2
+ERRORS- D.Uggla, B.Molina, M.Ellis
+DOUBLES- D.Uggla(3rd), B.Molina(4th), K.Suzuki(5th)
+STOLEN BASES- H.Kendrick(2nd), N.Morgan-2(5th), C.Gonzalez(1st)
+WALKS- H.Ramirez, C.Jones, C.Lee-2, N.Morgan, P.Burrell, M.Prado, D.Dejesus-2,
+       C.Barmes
+STRIKE OUTS- H.Ramirez, C.Jones-2, D.Uggla, B.Molina, T.Hunter, D.Barton,
+             J.Cust, P.Burrell-2, M.Prado, K.Suzuki, M.Ellis, B.Crosby-2
+GIDP- M.Holliday
+WILD PITCHES- E.Volquez
+
+43,797 fans watched an exciting game at McAfee Coliseum.  The Oakland
+Athletics topped the Los Angeles(AL) Angels by the slimmest of margins, 3 to
+2.
+
+Oakland jumped on top of Los Angeles(AL) in the 3rd inning scoring a single
+run.  Joey Devine, after tossing a perfect ninth, was credited with his 2nd
+save.  
+
+Joe Blanton(2-2) allowed 1 run in 6 innings, and picked up the victory.
+Edinson Volquez(2-2) took the loss.  'I had a little blister on my index
+finger before the game, but I thought it was nothing.' Blanton said.  'I was
+lucky I got a win because I couldn't put the ball where I wanted it.'
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Oakland Athletics
+H.Ramire-A1  A1:G/31    B1:G/43    *5*:K      D1:SB>12   *9*:F/7
+                                              W>b1       
+                                                         
+C.Jones-A1   A2:W>b1    *3*:G/3    C2:K       D2:K       E2:F/9
+                                                         
+                                                         
+M.Hollid-A1  A3:G/53>1  B3:L/6     C3:Si      D3:G-DP/6  E3:G/63
+             2                                43>1o      
+                                                         
+C.Lee-A1     A4:F/9     B4:Si      C4:W>12 b  *8*:W>b1
+                                   1          
+                                              
+D.Uggla-A1   *2*:Do     B5:K       C5:F/7     D5:L/6
+                                              
+                                              
+R.Winn-A1    A6:F/8     *4*:Si     *6*:G/43   D6:E/4>12
+                                              
+                                              
+B.Molina-A1  A7:Do>2#   B7:Si>13   C7:K       D7:Si>2#
+                                              13
+                                              
+T.Hunter-A1  A8:Si>23   B8:Appeal  C8:K       D8:L/5
+                        -DP/7>3o              
+                        bo                    
+R.Gload-A1   A9:G/13>1  B9:F/7     *7*:Si     D9:F/7
+H.Kendri-C9  2                                
+                                              
+
+N.Morgan-A1  A1:W>b1    *3*:Si     C1:G/43>2  D1:F/9     E1:K
+D.Barton-E1                        3                     
+C.Pennin-E2                                              
+N.Swishe-A1  A2:SB>12   B2:SB+E/2  C2:WP>3#   D2:Si
+             Si>2#      >13 G/3>3  L/4        
+                        #                     
+J.Cust-A1    A3:K       B3:G/31    *6*:Si     D3:Si>12
+C.Gonzal-C4                                   
+                                              
+P.Burrel-A1  A4:W>12 b  B4:G/53    C4:SB>12   D4:K
+             1                     K          
+                                              
+M.Prado-A1   A5:K       *4*:G/63   C5:IW>b1   *8*:G/63
+C.Ross-D5                                     
+                                              
+K.Suzuki-A1  A6:F/7     B6:K       C6:G/63>2  D6:Do
+                                   3 12       
+                                              
+D.Dejesu-A1  *2*:G/63   B7:L/3     C7:IW>b1   D7:IW>b1
+                                              
+                                              
+M.Ellis-A1   A8:K       *5*:Si+E/  C8:L/6     D8:W>23 1
+C.Barmes-D8             4                     2 b1
+                                              
+B.Crosby-A1  A9:G/31    B9:K       *7*:K      D9:P/5
+                                              
+                                              
+
+

@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2009 Chicago (NL) Cubs At 2009 Philadelphia Phillies     10/15/2009
+
+[1]  Cubs               AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  R.Theriot SS        3  0  1  0 .278     J.Giambi DH         4  0  1  1 .294  
+C-M.Hoffpauir PH      1  0  0  0 .333     J.Willingham LF     4  0  1  0 .167  
+  K.Fukudome RF       4  1  1  0 .308   A-J.Hairston Jr LF    0  0  0  0 .333  
+  D.Lee 1B            3  0  0  0 .263     C.Utley 2B          4  0  0  0 .364  
+  G.Soto C            4  0  2  1 .368     R.Howard 1B         4  0  1  0 .286  
+  A.Ramirez 3B        4  1  1  0 .250     J.Cantu 3B          4  1  1  0 .100  
+  M.Bradley DH        4  1  1  0 .278   B-G.Dobbs 3B          0  0  0  0 .500  
+  M.Byrd CF           3  0  1  1 .200     J.Werth RF          3  3  2  2 .300  
+  A.Soriano LF        3  0  0  0 .176     A.Rowand CF         4  0  2  1 .188  
+  M.Fontenot 2B       3  0  1  1 .091     J.Rollins SS        3  1  0  0 .389  
+                                          C.Coste C           1  0  0  1 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  8  3                 Totals      31  5  8  5
+
+A-Subbed Defensively (LF) For Willingham In 8th Inning
+B-Subbed Defensively (3B) For Cantu In 8th Inning
+C-Pinch Hit For Theriot In 9th Inning
+
+Cubs............ 0 0 0  1 1 1  0 0 0  -  3  8  1
+Phillies........ 0 1 0  3 1 0  0 0    -  5  8  0
+
+[1]Cubs (1-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sampson LOSS(0-1)          3 2/3   6   4   4   1   3   1   9.82  A1 C1
+S.Marshall                   1 1/3   2   1   1   1   0   0   4.91  C2 C8
+B.Wagner                     2       0   0   0   0   4   0   3.00  C9 D5
+C.Marmol                     1       0   0   0   0   1   0   3.86  D6
+[1]Totals                    8       8   5   5   2   8   1
+
+[1]Phillies (4-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets WIN(2-0)            8 2/3   8   3   3   4   7   0   3.06  A1 D9
+M.Delcarmen SAVE(2nd)        0 1/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    9       8   3   3   4   7   0
+
+ATTENDANCE- 40,082 DATE- Thursday, October 15th 2009 TIME- Day 
+UMPIRES- Paul Granillo, George Lytle, Mickey Bauchan, Jeff Weinke
+T- 2:46
+LEFT ON BASE- Cubs: 7  Phillies: 6
+DOUBLE PLAYS- Cubs: 0  Phillies: 2
+ERRORS- R.Theriot
+DOUBLES- K.Fukudome(1st), A.Ramirez(3rd), M.Bradley(3rd), J.Giambi(2nd),
+         A.Rowand-2(2nd)
+TRIPLES- M.Byrd(2nd)
+HOME RUNS- J.Werth(1st)
+SACRIFICE HITS- C.Coste
+SACRIFICE FLIES- M.Fontenot, C.Coste
+WALKS- R.Theriot, D.Lee, M.Byrd, A.Soriano, J.Werth, J.Rollins
+STRIKE OUTS- K.Fukudome-2, D.Lee, A.Ramirez-2, M.Byrd, M.Fontenot, J.Giambi-2,
+             J.Willingham-2, C.Utley, R.Howard, J.Werth, C.Coste
+GIDP- K.Fukudome, A.Ramirez
+WILD PITCHES- C.Sampson
+
+In a close game it was the Philadelphia Phillies 5, the Chicago (NL) Cubs 3 at
+Citizen's Bank Park.
+
+In the 4th inning Philadelphia scored 3 runs when they had 4 base hits.  The
+big moment was provided by Jayson Werth who made the Philadelphia fans a
+happy lot when he bombed a two-run dinger (his 1st of the season).  Both
+teams totaled 8 hits on the afternoon.  
+
+Ben Sheets(2-0) got the win allowing 3 runs in 8 and 2/3 innings. Sheets got
+help from Manny Delcarmen who earned his 2nd save.  The loss was charged to
+Chris Sampson(0-1).  Philadelphia scored big getting 4 runs off him in 3 and
+2/3 innings.  
+
+'I didn't have my best stuff but sometimes you just get lucky,' Sheets said,
+'this was one of those times.'
+[2]
+[1]SCORESHEET: 2009 Chicago (NL) Cubs at 2009 Philadelphia Phillies
+R.Therio-A1  A1:Si      *4*:F/8    C1:W>23 1  D1:P/6     E1:F/8
+M.Hoffpa-E1                        2 b1                  
+                                                         
+K.Fukudo-A1  A2:G-DP/6  B2:Do      C2:K       D2:K
+             43>1o                            
+                                              
+D.Lee-A1     A3:K       B3:W>b1    C3:F/9     *8*:G/13
+                                              
+                                              
+G.Soto-A1    *2*:P/2    B4:Si>2#   *6*:G/43   D4:Si
+                        13                    
+                                              
+A.Ramire-A1  A5:K       B5:G-DP/6  C5:Do      D5:K
+                        43>1o                 
+                                              
+M.Bradle-A1  A6:G/63    *5*:Do     C6:G/3>23  D6:F/7
+                                              
+                                              
+M.Byrd-A1    *3*:F/8    B7:W>b1    C7:Tr>3#   *9*:K
+                                              
+                                              
+A.Sorian-A1  A8:F/8     B8:W>23 1  C8:G/43    D8:G/63
+                        2 b1                  
+                                              
+M.Fonten-A1  A9:K       B9:SF/7>3  *7*:F/8    D9:Si
+                        #                     
+                                              
+
+J.Giambi-A1  A1:K       B1:F/8     C1:Do>2#   D1:K
+                                              
+                                              
+J.Willin-A1  A2:K       *3*:K      C2:Si>23   D2:L/4
+J.Hairst-D6                                   
+                                              
+C.Utley-A1   A3:E/6     B3:F/8     C3:G/31    *7*:K
+                                              
+                                              
+R.Howard-A1  A4:Si>12   B4:G/43    *5*:L/4    D4:K
+                                              
+                                              
+J.Cantu-A1   A5:WP>23   *4*:Si     C5:F/8     D5:G/63
+G.Dobbs-D6   12 F/8                           
+                                              
+J.Werth-A1   *2*:Si     B6:HR>1#   C6:W>b1    *8*:K
+                        b#                    
+                                              
+A.Rowand-A1  A7:Do>13   B7:G/63    C7:Do>1#   D7:G/13
+                                              
+                                              
+J.Rollin-A1  A8:L/4     B8:W>b1    C8:P/6     D8:G/3
+                                              
+                                              
+C.Coste-A1   A9:SF/7>3  B9:Sac/24  *6*:K
+             # 23       >12        
+                                   
+
+

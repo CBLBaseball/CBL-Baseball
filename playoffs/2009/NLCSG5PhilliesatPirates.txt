@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2009 Philadelphia Phillies At 2009 Pittsburgh Pirates    10/25/2009
+
+[1]  Phillies           AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  J.Giambi DH         4  0  1  0 .314     C.Guillen 3B        5  0  2  1 .472  
+  J.Werth RF          4  0  1  0 .333     C.Duncan DH         2  0  1  0 .455  
+  R.Howard 1B         4  1  1  0 .282   H-M.Cabrera PH        1  0  1  1 .286  
+  C.Utley 2B          3  2  1  1 .341     A.Pujols 1B         3  0  1  0 .404  
+  J.Cantu 3B          3  0  0  0 .194     J.Bay LF            4  0  0  0 .213  
+J-G.Dobbs PH,3B       1  0  0  0 .500     N.McLouth CF        3  0  0  0 .234  
+  J.Pierre LF         3  0  0  0 .250     X.Nady RF           4  0  1  0 .279  
+E-J.Edmonds LF        1  0  0  0 .200     B.Zobrist SS        3  0  0  0 .286  
+  A.Rowand CF         3  0  1  1 .172   C-J.Wilson SS         0  0  0  0 .167  
+  J.Rollins SS        3  1  1  1 .324   K-B.Moss PH           0  0  0  0 .375  
+  C.Coste C           1  0  0  0 .154     R.Doumit C          4  1  1  0 .270  
+A-J.Willingham PH     1  0  0  0 .111     F.Sanchez 2B        2  0  0  0 .256  
+B-T.Teagarden C       0  0  0  0 .000   G-O.Salazar PH        1  1  1  0 .800  
+D-G.Jenkins PH        1  0  0  0 .167   I-A.Cora 2B           1  0  0  0 .444  
+F-R.Chavez C          1  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  6  3                 Totals      33  2  8  2
+
+A-Pinch Hit For Coste In 6th Inning
+B-Subbed Defensively (C ) For Willingham In 6th Inning
+C-Subbed Defensively (SS) For Zobrist In 8th Inning
+D-Pinch Hit For Teagarden In 8th Inning
+E-Subbed Defensively (LF) For Pierre In 8th Inning
+F-Subbed Defensively (C ) For Jenkins In 8th Inning
+G-Pinch Hit For Sanchez In 8th Inning
+H-Pinch Hit For Duncan In 8th Inning
+I-Subbed Defensively (2B) For Salazar In 9th Inning
+J-Pinch Hit For Cantu In 9th Inning
+K-Pinch Hit For Wilson In 9th Inning
+
+Phillies........ 0 0 1  0 0 0  1 0 2  -  4  6  1
+Pirates......... 0 0 0  0 0 0  0 2 0  -  2  8  1
+
+[1]Phillies (7-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets                     7       7   2   2   2   4   0   5.23  A1 D1
+M.Delcarmen W(1-0)B(1st)     1       1   0   0   1   1   0   0.00  D2 D5
+B.Lidge SAVE(4th)            1       0   0   0   1   1   0   1.50  D6
+[1]Totals                    9       8   2   2   4   6   0
+
+[1]Pirates (6-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Floyd                      8       3   2   1   1   7   0   3.49  A1 D2
+J.Nelson LOSS(0-2)           0 2/3   3   2   2   0   0   0   9.95  D3 D8
+E.Ramirez                    0 1/3   0   0   0   0   0   0   0.00  D9
+[1]Totals                    9       6   4   3   1   7   0
+
+ATTENDANCE- 37,796 DATE- Sunday, October 25th 2009 TIME- Night 
+UMPIRES- Randy Shavis, Rick Mras, Jesus Gonzalez, Jim Robbins
+T- 2:48
+LEFT ON BASE- Phillies: 5  Pirates: 8
+DOUBLE PLAYS- Phillies: 3  Pirates: 0
+ERRORS- G.Dobbs, B.Zobrist
+DOUBLES- J.Werth(1st), R.Howard(2nd), A.Rowand(3rd), M.Cabrera(2nd),
+         O.Salazar(2nd)
+TRIPLES- C.Utley(1st), C.Duncan(1st)
+STOLEN BASES- J.Rollins(5th)
+WALKS- J.Rollins, C.Duncan, A.Pujols, N.McLouth, B.Moss
+HIT BY PITCH- C.Utley, A.Rowand
+STRIKE OUTS- J.Werth-2, J.Cantu, A.Rowand, J.Rollins, J.Willingham, G.Jenkins,
+             C.Guillen, J.Bay-2, N.McLouth, X.Nady, F.Sanchez
+GIDP- C.Duncan, N.McLouth, B.Zobrist
+WILD PITCHES- G.Floyd
+
+In a close game the Philadelphia Phillies got by the Pittsburgh Pirates by the
+score of 4 to 2.
+
+Philadelphia won the game with a rally in the top of the 9th inning scoring 2
+runs utilizing 3 base hits.  Ryan Howard kicked off the action when he
+doubled.  Chase Utley was next and he tripled.  Two outs later Aaron Rowand
+stepped up to the plate and he was hit by a pitch.  Jimmy Rollins followed
+and he stroked a one-base hit.  Philadelphia had just 6 hits for the night.
+
+The win went to Manny Delcarmen(1-0) who allowed no runs in 1 inning. Brad
+Lidge gained credit for his 4th save.  Joe Nelson(0-2) suffered the loss in
+relief.  
+
+[2]
+[1]SCORESHEET: 2009 Philadelphia Phillies at 2009 Pittsburgh Pirates
+J.Giambi-A1  A1:F/8     B1:Si+E/6  C1:G/31    D1:F/8
+                        >2#                   
+                                              
+J.Werth-A1   A2:K       B2:F/7     C2:Do      D2:K
+                                              
+                                              
+R.Howard-A1  A3:L/4     *4*:G/31   C3:WP>23   *9*:Do
+                                   G/43       
+                                              
+C.Utley-A1   *2*:G/13   B4:G/31    *7*:HBP    D4:Tr>2#
+                                              
+                                              
+J.Cantu-A1   A5:G/63    B5:K       C5:F/8     D5:G/43
+G.Dobbs-D5                                    
+                                              
+J.Pierre-A1  A6:G/63    *5*:L/4    C6:L/4     D6:L/4
+J.Edmond-D3                                   
+                                              
+A.Rowand-A1  *3*:G/53   B7:K       C7:Do>1#   D7:HBP
+                                              
+                                              
+J.Rollin-A1  A8:W>b1    B8:F/7     C8:K       D8:Si>3#
+                                              13
+                                              
+C.Coste-A1   A9:SB>12   *6*:K      *8*:K      D9:Force/
+J.Willin-B9  G/63                             54>1o b1
+T.Teagar-C4+                                  
+
+C.Guille-A1  A1:Si      B1:K       C1:F/8     D1:Si>3#   E1:F/7
+                                              23         
+                                                         
+C.Duncan-A1  A2:G-DP/6  *4*:Tr     C2:W>b1    D2:Do>3#
+M.Cabrer-D2  43>1o                            13
+                                              
+A.Pujols-A1  A3:G/63    B3:P/6     C3:Si>13   D3:IW>b1
+                                              
+                                              
+J.Bay-A1     *2*:K      B4:P/4     C4:P/4     D4:K
+                                              
+                                              
+N.McLout-A1  A5:W>b1    B5:P/2     *7*:K      D5:G-DP/6
+                                              23>3o
+                                              
+X.Nady-A1    A6:Si>13   *5*:G/53   C6:F/8     *9*:K
+                                              
+                                              
+B.Zobris-A1  A7:G-DP/3  B7:F/7     C7:F/9     D7:W>b1
+J.Wilson-C8  63>1o                            
+B.Moss-D7                                     
+R.Doumit-A1  *3*:F/9    B8:L/4     *8*:Si     D8:E/5>12
+                                              
+                                              
+F.Sanche-A1  A9:F/8     *6*:K      C9:Do>13   D9:G/43>2
+O.Salaza-C9                                   3 12
+A.Cora-D6                                     
+
+

@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2009 Pittsburgh Pirates At 2009 Los Angeles(NL) Dodgers  10/17/2009
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  A.Cora SS           2  0  1  2 .333     R.Martin C          3  1  0  0 .240  
+B-O.Salazar PH        1  0  1  01.000     M.Scutaro 3B        4  0  0  0 .333  
+C-J.Wilson SS         1  0  1  0 .250     A.Ethier RF         3  0  1  0 .190  
+  C.Guillen 3B        5  1  0  1 .300     C.Delgado 1B        3  0  0  1 .455  
+  A.Pujols 1B         4  1  3  1 .455     E.Hinske LF         1  0  0  0 .263  
+  J.Bay LF            3  1  0  1 .136   A-W.Harris LF         2  1  1  1 .133  
+  N.McLouth CF        5  0  1  0 .160     J.Kent DH           4  0  1  0 .333  
+  X.Nady RF           4  0  1  0 .304     M.Kemp CF           4  0  1  0 .400  
+E-M.Cabrera PH        1  0  1  0 .364     N.Garciaparra SS    3  0  0  0 .200  
+F-B.Zobrist RF        0  0  0  0 .571     B.Dewitt 2B         3  0  0  0 .000  
+  C.Duncan DH         5  1  1  0 .286                                          
+  R.Doumit C          2  1  1  0 .333                                          
+D-M.Treanor PH,C      1  0  0  0 .333                                          
+  F.Sanchez 2B        2  1  0  0 .389                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6 11  5                 Totals      30  2  4  2
+
+A-Subbed Defensively (LF) For Hinske In 5th Inning
+B-Pinch Hit For Cora In 6th Inning
+C-Subbed Defensively (SS) For Salazar In 6th Inning
+D-Pinch Hit For Doumit In 7th Inning
+E-Pinch Hit For Nady In 9th Inning
+F-Subbed Defensively (RF) For Cabrera In 9th Inning
+
+Pirates......... 0 2 0  0 2 1  0 1 0  -  6 11  0
+Dodgers......... 0 0 0  1 0 0  0 0 1  -  2  4  0
+
+[1]Pirates (3-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Floyd WIN(1-0)             8       2   1   1   3   7   0   5.84  A1 D2
+S.Schoenewei                 0 2/3   1   1   1   0   0   1  21.60  D3 D5
+M.Capps                      0 1/3   1   0   0   0   0   0   0.00  D6
+[1]Totals                    9       4   2   2   3   7   1
+
+[1]Dodgers (3-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Kuroda LOSS(0-1)           5 1/3   7   5   5   2   2   1   8.44  A1 C9
+C.Wade                       2       3   1   1   3   2   0   3.37  D1 E3
+L.Hawkins                    0 2/3   0   0   0   0   1   0   9.82  E4 E5
+C.Park                       0       1   0   0   0   0   0   5.40  E6 E6
+C.Bradford                   1       0   0   0   0   1   0  27.00  E7
+[1]Totals                    9      11   6   6   5   6   1
+
+ATTENDANCE- 52,746 DATE- Saturday, October 17th 2009 TIME- Day 
+UMPIRES- Mark Farrell, Dave Kirby, Bob Holman, Terry Ringen
+T- 3:15
+LEFT ON BASE- Pirates:11  Dodgers: 5
+DOUBLE PLAYS- Pirates: 0  Dodgers: 1
+DOUBLES- R.Doumit(1st)
+HOME RUNS- A.Pujols(2nd), W.Harris(1st)
+STOLEN BASES- M.Kemp(1st)
+SACRIFICE HITS- F.Sanchez
+SACRIFICE FLIES- C.Delgado
+WALKS- A.Pujols, J.Bay-2, M.Treanor, F.Sanchez, R.Martin, A.Ethier, E.Hinske
+HIT BY PITCH- A.Cora, R.Doumit
+STRIKE OUTS- J.Bay, N.McLouth-3, X.Nady, M.Treanor, R.Martin-2, M.Scutaro,
+             C.Delgado, J.Kent-2, M.Kemp
+GIDP- C.Duncan
+WILD PITCHES- G.Floyd, H.Kuroda-2
+
+First baseman Albert Pujols homered and Gavin Floyd delivered 8 solid innings
+as the Pittsburgh Pirates beat the Los Angeles(NL) Dodgers by a score of 6 to
+2.
+
+Los Angeles(NL) was unable to recover after Pittsburgh went ahead in the 2nd
+inning with 2 runs using 2 hits.  After an out was recorded, Chris Duncan
+began the Pittsburgh spurt when he laced a base-hit.  Ryan Doumit stepped up
+next and he was hit by a pitch.  Freddy Sanchez then laid down a sacrifice
+bunt.  Alex Cora stepped in and he laced a single.  Pittsburgh had 11 hits
+for the afternoon while Los Angeles(NL) had 4.  
+
+The win was credited to Floyd(1-0) who went 8 innings allowing 1 run. Hiroki
+Kuroda(0-1) ended up with the loss.  He surrendered 5 runs and 7 hits in 5
+and 1/3 innings.
+[2]
+[1]SCORESHEET: 2009 Pittsburgh Pirates at 2009 Los Angeles(NL) Dodgers
+A.Cora-A1    A1:HBP     B1:Si>3#   C1:F/7     D1:Si>13   *8*:Si
+O.Salaza-D1             2#                               
+J.Wilson-D6                                              
+C.Guille-A1  A2:F/7     B2:F/7     *5*:G/63   D2:G/43>3  E2:Force/
+                                              # 12       36>1o b1
+                                                         
+A.Pujols-A1  A3:Si>12   *3*:G/31   C3:HR>b#   D3:IW>b1   E3:Si>13
+                                                         
+                                                         
+J.Bay-A1     A4:K       B4:F/8     C4:W>b1    D4:W>23 1  E4:Force/
+                                              2 b1       54>3# 1o
+                                                         b1
+N.McLout-A1  A5:F/8     B5:Si      C5:K       D5:K       E5:K
+                                                         
+                                                         
+X.Nady-A1    *2*:G/63   B6:WP>12   C6:Si>13   *7*:K      *9*:Si
+M.Cabrer-E6             G/63                             
+B.Zobris-E9                                              
+C.Duncan-A1  A7:Si      *4*:G/63   C7:WP>3#   D7:G/63    E7:G-DP/1
+                                   23 G/3                63>1o
+                                                         
+R.Doumit-A1  A8:HBP>12  B8:Do      *6*:G/43   D8:W>b1    E8:K
+M.Treano-D8                                              
+                                                         
+F.Sanche-A1  A9:Sac/14  B9:G/53    C9:W>b1    D9:G/63
+             >23 12                           
+                                              
+
+R.Martin-A1  A1:K       *4*:W>b1   *6*:F/8    D1:K
+                                              
+                                              
+M.Scutar-A1  A2:P/4     B2:F/8     C2:G/43    D2:K
+                                              
+                                              
+A.Ethier-A1  A3:L/4     B3:Si>12   C3:W>b1    *9*:F/8
+                                              
+                                              
+C.Delgad-A1  *2*:K      B4:WP>23   C4:F/8     D4:P/3
+                        12 SF/8>3             
+                        #                     
+E.Hinske-A1  A5:G/13    B5:IW>b1   *7*:G/43   D5:HR>b#
+W.Harris-B7                                   
+                                              
+J.Kent-A1    A6:G/31    B6:K       C6:K       D6:Si
+                                              
+                                              
+M.Kemp-A1    *3*:G/63   *5*:K      C7:Si      D7:F/8
+                                              
+                                              
+N.Garcia-A1  A8:F/9     B8:L/6     C8:SB>12
+                                   L/6
+                                   
+B.Dewitt-A1  A9:F/8     B9:F/8     *8*:F/8
+                                   
+                                   
+
+

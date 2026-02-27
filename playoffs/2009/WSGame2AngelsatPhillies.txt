@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Philadelphia Phillie 10/31/2009
+
+[1]  Angels             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  H.Ramirez SS        2  1  0  0 .154     J.Giambi DH         3  0  0  0 .286  
+  C.Jones 3B          3  1  1  0 .217     J.Hairston Jr LF,3B 4  1  2  2 .333  
+F-H.Kendrick 2B       1  0  1  0 .391     C.Utley 2B          5  1  1  3 .302  
+  C.Lee DH            5  0  0  0 .314     J.Werth RF          4  0  1  0 .333  
+  D.Uggla 2B          3  1  1  4 .219     J.Cantu 3B,1B       4  1  1  0 .217  
+E-C.Figgins PR,3B     1  1  0  0 .222     C.Coste C           2  0  0  0 .263  
+  M.Holliday LF       3  1  1  1 .313   A-J.Willingham PH     1  0  0  0 .120  
+  R.Winn RF           3  0  0  0 .204   B-T.Teagarden C       0  0  0  0 .000  
+  B.Molina C          4  1  2  2 .353   C-J.Pierre PH         1  0  0  0 .211  
+  R.Gload 1B          4  1  1  1 .382   D-R.Chavez C          0  0  0  0 .333  
+  T.Hunter CF         4  1  0  0 .231     R.Howard 1B         3  0  1  1 .286  
+                                        G-J.Arias PH          0  0  0  0 .000  
+                                        H-J.Edmonds PH,LF     1  0  0  0 .240  
+                                          A.Rowand CF         4  1  1  0 .176  
+                                          J.Rollins SS        2  2  1  0 .326  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  8  7  8                 Totals      34  6  8  6
+
+A-Pinch Hit For Coste In 5th Inning
+B-Subbed Defensively (C ) For Willingham In 6th Inning
+C-Pinch Hit For Teagarden In 7th Inning
+D-Subbed Defensively (C ) For Pierre In 8th Inning
+E-Pinch Ran For Uggla In 8th Inning
+F-Subbed Defensively (2B) For Jones In 8th Inning
+G-Pinch Hit For Howard In 8th Inning
+H-Pinch Hit For Arias In 8th Inning
+
+Angels.......... 0 0 0  0 5 0  0 3 0  -  8  7  1
+Phillies........ 0 1 3  0 0 2  0 0 0  -  6  8  1
+
+[1]Angels (9-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Saunders                   5 2/3   7   6   6   2   4   1   4.15  A1 D2
+B.Fuentes WIN(2-0)           1 1/3   0   0   0   0   2   0   0.00  D3 D6
+S.Shields SAVE(1st)          2       1   0   0   0   2   0   0.00  D7
+[1]Totals                    9       8   6   6   2   8   1
+
+[1]Phillies (9-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets                     6 2/3   4   5   4   5   5   2   5.26  A1 D2
+T.Walker L(0-1) BS(1st)      0 1/3   1   2   2   1   0   0  54.00  D3 D5
+M.Delcarmen                  1       1   1   1   0   1   1   1.93  D6 D9
+J.Rauch                      1       1   0   0   0   1   0   0.00  E1
+[1]Totals                    9       7   8   7   6   7   3
+
+ATTENDANCE- 40,418 DATE- Saturday, October 31st 2009 TIME- Night 
+UMPIRES- Rick Mras, Jesus Gonzalez, Jim Robbins, Randy Shavis
+T- 3:18
+LEFT ON BASE- Angels: 5  Phillies: 6
+DOUBLE PLAYS- Angels: 1  Phillies: 2
+ERRORS- H.Ramirez, J.Rollins
+DOUBLES- M.Holliday(1st), J.Hairston Jr(2nd), J.Cantu(5th), A.Rowand(4th),
+         J.Rollins(4th)
+HOME RUNS- D.Uggla(4th), B.Molina(1st), R.Gload(1st), C.Utley(4th)
+WALKS- H.Ramirez-2, C.Jones, D.Uggla, M.Holliday, R.Winn, J.Hairston Jr,
+       J.Rollins
+HIT BY PITCH- H.Ramirez, J.Giambi-2, J.Rollins
+STRIKE OUTS- C.Jones, C.Lee, C.Figgins, R.Winn, B.Molina, R.Gload, T.Hunter,
+             C.Utley-2, J.Cantu, C.Coste, J.Willingham, J.Pierre, J.Edmonds,
+             A.Rowand
+GIDP- C.Jones, R.Gload, C.Utley
+WILD PITCHES- T.Walker
+
+In a tight game it was the Los Angeles(AL) Angels 8, the Philadelphia Phillies
+6 at Citizen's Bank Park.
+
+Brian Fuentes(2-0) slammed the door shut in an excellent relief performance.
+He performed flawlessly in relief in his 1 and 1/3 innings.  Los Angeles(AL)
+rapped out 7 hits for the night.  
+
+Fuentes got relief help from Scot Shields who gained credit for his 1st save.
+Tyler Walker(0-1) was charged with the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Philadelphia Phillies
+H.Ramire-A1  A1:HBP     *3*:G/43   C1:W>12 b  *7*:W>b1   *9*:L/6
+                                   1                     
+                                                         
+C.Jones-A1   A2:W>12 b  B2:K       C2:Si>23   D2:G-DP/4  E2:Si
+H.Kendri-E1  1                     12         63>1o      
+                                                         
+C.Lee-A1     A3:L/5     B3:P/6     C3:K       D3:G/53    E3:F/8
+                                                         
+                                                         
+D.Uggla-A1   A4:L/6     *4*:L/5    C4:HR>3#   *8*:W>b1   E4:K
+C.Figgin-D5                        2# 1# b#              
+                                                         
+M.Hollid-A1  A5:W>23 1  B5:F/7     C5:L/5     D5:WP>12
+             2 b1                             Do>2#
+                                              
+R.Winn-A1    A6:G/63    B6:W>b1    C6:K       D6:F/9
+                                              
+                                              
+B.Molina-A1  *2*:F/8    B7:K       *6*:Si     D7:HR>2#
+                                              b#
+                                              
+R.Gload-A1   A8:F/9     *5*:HR>b#  C8:G-DP/4  D8:K
+                                   63>1o      
+                                              
+T.Hunter-A1  A9:L/6     B9:E/6     C9:K       D9:G/13
+                                              
+                                              
+
+J.Giambi-A1  A1:HBP     B1:F/8     C1:HBP>23  D1:L/3     *9*:L/4
+                                   12                    
+                                                         
+J.Hairst-A1  A2:L/6     B2:IW>b1   C2:G/13    D2:Do>2#   E2:Si
+                                              1#         
+                                                         
+C.Utley-A1   A3:Force/  B3:HR>2#   *5*:K      D3:K       E3:G-DP/4
+             16>1o b1   1# b#                            63>1o
+                                                         
+J.Werth-A1   A4:F/9     B4:G/63    C4:Si      *7*:L/6
+                                              
+                                              
+J.Cantu-A1   *2*:Do     B5:G/63    C5:K       D5:G/63
+                                              
+                                              
+C.Coste-A1   A6:K       *4*:P/6    C6:K       D6:K
+J.Willin-C6                                   
+T.Teagar-C7+                                  
+R.Howard-A1  A7:Si>2#   B7:G/63    *6*:G/43   *8*:K
+J.Arias-D7                                    
+J.Edmond-D7                                   
+A.Rowand-A1  A8:G/63    B8:E/6>b2  C8:Do      D8:K
+                                              
+                                              
+J.Rollin-A1  *3*:Do     B9:IW>b1   C9:HBP     D9:G/43
+                                              
+                                              
+
+

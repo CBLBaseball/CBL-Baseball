@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2009 Philadelphia Phillies At 2009 Pittsburgh Pirates    10/23/2009
+
+[1]  Phillies           AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  J.Giambi DH         4  1  3  2 .345     C.Guillen 3B        4  3  3  3 .444  
+  J.Willingham LF     2  0  0  0 .118     N.McLouth CF        4  0  1  1 .205  
+B-T.Teagarden C       1  0  0  0 .000     A.Pujols 1B         4  0  1  0 .450  
+E-J.Cantu PH          1  0  0  0 .179     J.Bay LF            4  0  0  1 .256  
+F-R.Chavez C          1  1  1  0 .500     X.Nady RF           4  0  0  0 .282  
+  C.Utley 2B          5  1  2  1 .333     M.Cabrera DH        3  0  0  0 .292  
+  R.Howard 1B         4  2  2  3 .290     R.Doumit C          3  0  0  0 .310  
+  J.Werth RF          5  0  2  0 .368   I-M.Treanor PH        1  0  0  0 .222  
+  J.Edmonds CF        3  0  1  0 .200     F.Sanchez 2B        4  1  0  0 .294  
+C-A.Rowand PH,CF      2  0  0  1 .174     J.Wilson SS         2  1  1  0 .176  
+  G.Dobbs 3B          3  1  1  0 .571   G-B.Zobrist PH,SS     1  0  0  0 .364  
+D-J.Hairston Jr PH,3B 2  0  0  0 .222                                          
+  J.Rollins SS        5  2  3  1 .355                                          
+  C.Coste C           1  0  1  0 .222                                          
+A-J.Pierre PH,LF      4  2  3  2 .333                                          
+H-G.Jenkins LF        0  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43 10 19 10                 Totals      34  5  6  5
+
+A-Pinch Hit For Coste In 4th Inning
+B-Subbed Defensively (C ) For Willingham In 4th Inning
+C-Pinch Hit For Edmonds In 6th Inning
+D-Pinch Hit For Dobbs In 6th Inning
+E-Pinch Hit For Teagarden In 7th Inning
+F-Subbed Defensively (C ) For Cantu In 7th Inning
+G-Pinch Hit For Wilson In 7th Inning
+H-Subbed Defensively (LF) For Pierre In 9th Inning
+I-Pinch Hit For Doumit In 9th Inning
+
+Phillies........ 0 0 0  2 3 0  1 0 4  - 10 19  1
+Pirates......... 1 3 0  0 1 0  0 0 0  -  5  6  0
+
+[1]Phillies (6-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Maddux WIN(2-0)            6 1/3   6   5   2   0   2   1   4.63  A1 C8
+M.Delcarmen HOLD(2nd)        1       0   0   0   0   0   0   0.00  C9 D2
+B.Lidge SAVE(3rd)            1 2/3   0   0   0   1   2   0   1.80  D3
+[1]Totals                    9       6   5   2   1   4   1
+
+[1]Pirates (5-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Webb                       5 1/3  13   5   5   5   4   1   5.13  A1 D5
+D.Reyes LOSS(0-1)            0 2/3   2   1   1   1   1   0   5.40  D6 E1
+J.Nelson                     2 1/3   2   2   2   1   3   0   7.94  E2 F2
+S.Schoenewei                 0       2   2   2   0   0   0  27.00  F3 F4
+M.Capps                      0 2/3   0   0   0   1   0   0   0.00  F5
+[1]Totals                    9      19  10  10   8   8   1
+
+ATTENDANCE- 36,118 DATE- Friday, October 23rd 2009 TIME- Night 
+UMPIRES- Rob Hamilton, Brian Alexander, Kevin Stafford, Shannon Hall
+T- 3:55
+LEFT ON BASE- Phillies:15  Pirates: 3
+DOUBLE PLAYS- Phillies: 0  Pirates: 2
+ERRORS- J.Rollins
+DOUBLES- J.Giambi(4th), C.Utley(3rd), J.Rollins(3rd), C.Guillen(3rd),
+         N.McLouth(1st), A.Pujols(4th)
+TRIPLES- R.Howard(2nd)
+HOME RUNS- R.Howard(3rd), C.Guillen(1st)
+STOLEN BASES- J.Rollins-2(4th), J.Pierre-3(4th)
+SACRIFICE FLIES- A.Rowand
+WALKS- J.Giambi-2, J.Willingham, C.Utley, R.Howard-2, J.Werth, J.Hairston Jr,
+       M.Cabrera
+STRIKE OUTS- T.Teagarden, J.Cantu, C.Utley, R.Howard-2, J.Werth, A.Rowand,
+             J.Rollins, N.McLouth, J.Bay, X.Nady, M.Treanor
+GIDP- J.Edmonds, G.Dobbs
+WILD PITCHES- B.Webb
+
+Ryan Howard left the yard and had 3 RBI at PNC Park as the Philadelphia
+Phillies beat the Pittsburgh Pirates 10 to 5.
+
+Howard enjoyed a big evening at the plate.  He hit a bases-empty home run (his
+3rd of the season) in the 5th inning and tripled bringing in two baserunners
+in the 9th inning.  Philadelphia out-hit Pittsburgh for the game, 19 hits to
+6.  
+
+Greg Maddux(2-0) allowed 5 runs in 6 and 1/3 innings, and picked up the
+victory. Brad Lidge was credited with his 3rd save.  Dennys Reyes(0-1) was
+hit with the loss in relief.  He allowed 2 hits and 1 walk in 2/3 of an
+inning.  
+
+[2]
+[1]SCORESHEET: 2009 Philadelphia Phillies at 2009 Pittsburgh Pirates
+J.Giambi-A1  A1:G/63    B1:W>12 b  C1:SB>12   D1:SB>12   E1:SB>12   F1:Do
+                        1          Si>2#      IW>b1      Si>2#      
+                                                                    
+J.Willin-A1  A2:G/53    B2:G/63    C2:W>12 b  D2:WP>23   E2:K       F2:Si>23
+T.Teagar-C4                        1          12 K                  
+J.Cantu-E2+                                                         
+C.Utley-A1   A3:Do      *3*:G/43   C3:G/43    *6*:W>b1   E3:K       F3:Si>3#
+                                                                    12
+                                                                    
+R.Howard-A1  A4:IW>b1   B4:K       *5*:HR>b#  D4:K       E4:IW>b1   F4:Tr>2#
+                                                                    1#
+                                                                    
+J.Werth-A1   A5:F/8     B5:K       C5:Si      D5:Si>12   E5:G/13    F5:W>b1
+                                                                    
+                                                                    
+J.Edmond-A1  *2*:F/9    *4*:Si     C6:G-DP/4  D6:K       *8*:G/23   F6:SF/7>3
+A.Rowand-D6                        63>1o                            # 12
+                                                                    
+G.Dobbs-A1   A7:G/13    B7:G-DP/5  C7:Si      D7:W>23 1  E7:G/13    F7:F/8
+J.Hairst-D7             43>1o                 2 b1                  
+                                                                    
+J.Rollin-A1  A8:Si      B8:Si      C8:Do>1#   D8:L/5     E8:K
+                                                         
+                                                         
+C.Coste-A1   A9:SB>12   B9:SB>12   C9:Si>3#   *7*:Si     *9*:F/8
+J.Pierre-B9  Si>23      Si>2#                            
+G.Jenkin-F8                                              
+
+C.Guille-A1  A1:Si      B1:HR>3#   C1:Do      D1:G/63
+                        1# b#                 
+                                              
+N.McLout-A1  A2:K       B2:F/8     C2:Do>2#   *8*:G/31
+                                              
+                                              
+A.Pujols-A1  A3:Do>13   *3*:G/53   C3:F/9     D3:G/63
+                                              
+                                              
+J.Bay-A1     A4:G/63>3  B4:F/7     C4:G/43    D4:K
+             # 23                             
+                                              
+X.Nady-A1    A5:F/7     B5:G/53    *6*:K      *9*:G/63
+                                              
+                                              
+M.Cabrer-A1  *2*:F/7    *4*:F/7    C6:F/8     D6:W>b1
+                                              
+                                              
+R.Doumit-A1  A7:G/43    B7:G/31    C7:P/4     D7:K
+M.Treano-D7                                   
+                                              
+F.Sanche-A1  A8:E/6     B8:F/7     *7*:G/31   D8:FO/2
+                                              
+                                              
+J.Wilson-A1  A9:Si>13   *5*:G/53   C9:F/8
+B.Zobris-C9                        
+                                   
+
+

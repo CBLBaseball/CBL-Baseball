@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2009 Minnesota Twins At 2009 Los Angeles(AL) Angels      10/10/2009
+
+[1]  Twins              AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  R.Weeks DH          4  1  1  1 .250     H.Ramirez SS        4  0  0  0 .000  
+  J.Mauer C           4  0  2  0 .500     C.Jones 3B          5  1  2  0 .400  
+  M.Young SS          5  0  1  1 .200     C.Lee DH            5  2  4  0 .800  
+  J.Morneau 1B        4  0  0  0 .000     M.Holliday RF       5  1  4  1 .800  
+  J.Bautista 3B       2  0  0  0 .000   E-G.Gross LF          0  0  0  0 ----  
+C-J.Kubel PH          1  0  0  0 .000     D.Uggla 2B          2  0  1  2 .500  
+D-J.Hannahan 3B       0  0  0  0 ----   A-H.Kendrick PH,2B    2  1  1  1 .500  
+  P.Polanco 2B        4  0  1  0 .250     R.Winn LF,RF        5  1  1  0 .200  
+  D.Young LF          4  0  2  0 .500     B.Molina C          4  0  2  2 .500  
+  M.Cuddyer RF        2  0  1  0 .500     T.Hunter CF         5  0  1  0 .200  
+B-D.Span PR,RF        1  1  0  0 .000     R.Gload 1B          5  0  2  0 .400  
+  W.Taveras CF        3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  8  2                 Totals      42  6 18  6
+
+A-Pinch Hit For Uggla In 6th Inning
+B-Pinch Ran For Cuddyer In 7th Inning
+C-Pinch Hit For Bautista In 8th Inning
+D-Subbed Defensively (3B) For Kubel In 8th Inning
+E-Subbed Defensively (LF) For Holliday In 9th Inning
+
+Twins........... 0 0 0  0 0 0  1 0 1  -  2  8  1
+Angels.......... 0 0 1  2 0 0  0 3    -  6 18  1
+
+[1]Twins (0-1)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Garza LOSS(0-1)            5 1/3  13   3   3   0   5   0   5.06  A1 D4
+J.Howell                     0 2/3   0   0   0   1   0   0   0.00  D5 D7
+S.Torres                     0 1/3   0   0   0   0   1   0   0.00  D8 D8
+H.Bell                       1 1/3   4   3   3   0   1   0  20.25  D9 E6
+K.Slowey                     0 1/3   1   0   0   0   0   0   0.00  E7
+[1]Totals                    8      18   6   6   1   7   0
+
+[1]Angels (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Saunders WIN(1-0)          6 1/3   6   1   1   3   1   0   1.42  A1 D1
+J.Arredondo HOLD(1st)        0 2/3   0   0   0   1   0   0   0.00  D2 D4
+F.Rodriguez SAVE(1st)        2       2   1   1   0   2   1   4.50  D5
+[1]Totals                    9       8   2   2   4   3   1
+
+ATTENDANCE- 41,996 DATE- Saturday, October 10th 2009 TIME- Day 
+UMPIRES- Larry Huck, Jeff Hammerlund, Rich Denny, Ed Glass
+T- 3:13
+LEFT ON BASE- Twins:10  Angels:15
+DOUBLE PLAYS- Twins: 1  Angels: 1
+ERRORS- M.Young, R.Gload
+DOUBLES- C.Lee-2(2nd), D.Uggla(1st), B.Molina(1st)
+HOME RUNS- R.Weeks(1st)
+STOLEN BASES- R.Weeks(1st)
+WALKS- J.Mauer, J.Bautista, M.Cuddyer, W.Taveras, B.Molina
+HIT BY PITCH- R.Weeks, H.Ramirez, D.Uggla
+STRIKE OUTS- J.Kubel, D.Young, D.Span, M.Holliday, D.Uggla, R.Winn-2, B.Molina,
+             T.Hunter-2
+GIDP- P.Polanco, H.Ramirez
+
+Carlos Lee had 4 hits at Angels Stadium where the Los Angeles(AL) Angels beat
+the Minnesota Twins by the score of 6 to 2.
+
+Joe Saunders(1-0) had a solid outing for Los Angeles(AL).  He was reached for
+6 hits and 3 walks in 6 and 1/3 innings.  Los Angeles(AL) out-hit Minnesota
+for the game, 18 hits to 8.  
+
+Saunders got help from Francisco Rodriguez who earned his 1st save.  The
+losing pitcher was Matt Garza(0-1).  He pitched 5 and 1/3 innings allowing 13
+hits and no walks.
+[2]
+[1]SCORESHEET: 2009 Minnesota Twins at 2009 Los Angeles(AL) Angels
+R.Weeks-A1   A1:F/9     *3*:HBP    C1:L/6     D1:Force/  E1:HR>b#
+                                              14>23 1o   
+                                              b1         
+J.Mauer-A1   A2:G/43    B2:SB>12   C2:Si      D2:W>12 b  E2:Si
+                        G/3>23                1          
+                                                         
+M.Young-A1   A3:Si      B3:G/53    C3:F/7     D3:Force/  E3:G/63
+                                              54>3# 23   
+                                              1o b1      
+J.Mornea-A1  A4:L/3     B4:G/43    *6*:G/31   D4:F/8
+                                              
+                                              
+J.Bautis-A1  *2*:W>b1   *4*:G/31   C5:F/9     *8*:K
+J.Kubel-D5                                    
+J.Hannah-D8                                   
+P.Polanc-A1  A6:G-DP/6  B6:G/63    C6:Si      D6:F/7
+             43>1o                            
+                                              
+D.Young-A1   A7:Si+E/3  B7:Si      C7:K       D7:F/7
+                                              
+                                              
+M.Cuddye-A1  A8:IW>b1   B8:G/53    *7*:Si     *9*:K
+D.Span-C9                                     
+                                              
+W.Tavera-A1  A9:G/63    *5*:G/31   C9:W>12 b  D9:P/6
+                                   1          
+                                              
+
+H.Ramire-A1  A1:G/63    B1:HBP>12  *4*:G/63   D1:F/7     E1:G-DP/4
+                                                         63>1o
+                                                         
+C.Jones-A1   A2:Si      B2:P/4     C2:Si      *6*:G/31   *8*:G/43
+                                                         
+                                                         
+C.Lee-A1     A3:Si>12   *3*:Do     C3:L/6     D3:Si      E3:Do
+                                                         
+                                                         
+M.Hollid-A1  A4:Si>23   B4:Si>2#   C4:Si>12   D4:Si>12   E4:K
+G.Gross-F1   12                                          
+                                                         
+D.Uggla-A1   A5:K       B5:HBP>12  C5:Do>2#   D5:Force/  E5:Si>2#
+H.Kendri-D5                        1#         54>23 1o   
+                                              b1         
+R.Winn-A1    A6:F/7     B6:K       C6:K       D6:G/31    E6:Si>12
+                                                         
+                                                         
+B.Molina-A1  *2*:K      B7:Si>23   *5*:G/13   *7*:W>b1   E7:Do>2#
+                        12                               1#
+                                                         
+T.Hunter-A1  A8:G/53    B8:K       C8:Si      D8:K       E8:E/6>23
+                                                         
+                                                         
+R.Gload-A1   A9:Si      B9:Force/  C9:G/3>12  D9:Si>13   E9:L/4
+                        46>1o b1                         
+                                                         
+
+

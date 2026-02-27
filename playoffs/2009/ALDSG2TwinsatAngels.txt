@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2009 Minnesota Twins At 2009 Los Angeles(AL) Angels      10/11/2009
+
+[1]  Twins              AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  D.Span RF           4  0  0  0 .000     H.Ramirez SS        4  0  1  0 .125  
+  P.Polanco 2B        4  0  0  0 .125     C.Jones 3B          2  0  1  0 .429  
+  J.Mauer C           2  0  0  0 .333     C.Lee DH            4  0  0  0 .444  
+  J.Morneau 1B        3  0  0  0 .000     D.Uggla 2B          3  1  1  0 .400  
+  M.Young SS          4  0  1  0 .222   C-H.Kendrick 2B       1  0  0  0 .333  
+  J.Kubel DH          2  1  1  1 .333     G.Gross RF          3  1  2  2 .667  
+A-R.Weeks PH          2  0  0  0 .167     R.Winn LF           4  1  1  0 .222  
+  D.Young LF          3  0  1  0 .429     B.Molina C          4  0  0  0 .250  
+  J.Hannahan 3B       2  0  0  0 .000     T.Hunter CF         3  1  1  1 .250  
+B-J.Bautista PH,3B    1  0  0  0 .000     R.Gload 1B          3  0  2  1 .500  
+  W.Taveras CF        3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  3  1                 Totals      31  4  9  4
+
+A-Pinch Hit For Kubel In 7th Inning
+B-Pinch Hit For Hannahan In 7th Inning
+C-Subbed Defensively (2B) For Uggla In 8th Inning
+
+Twins........... 0 0 0  0 1 0  0 0 0  -  1  3  0
+Angels.......... 0 2 2  0 0 0  0 0    -  4  9  0
+
+[1]Twins (0-2)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Duchschere LOSS(0-1)       8       9   4   4   3   3   1   4.50  A1
+[1]Totals                    8       9   4   4   3   3   1
+
+[1]Angels (2-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Volquez WIN(1-0)           6 1/3   2   1   1   2   4   1   1.42  A1 C5
+D.Oliver HOLD(1st)           0 1/3   1   0   0   0   1   0   0.00  C6 C7
+F.Rodriguez HOLD(1st)        0 2/3   0   0   0   0   1   0   3.37  C8 C9
+B.Fuentes SAVE(1st)          1 2/3   0   0   0   1   3   0   0.00  D1
+[1]Totals                    9       3   1   1   3   9   1
+
+ATTENDANCE- 41,070 DATE- Sunday, October 11th 2009 TIME- Day 
+UMPIRES- Rob Hamilton, Brian Alexander, Kevin Stafford, Shannon Hall
+T- 2:27
+LEFT ON BASE- Twins: 5  Angels: 6
+DOUBLE PLAYS- Twins: 2  Angels: 0
+DOUBLES- D.Uggla(2nd), G.Gross(1st), R.Winn(1st), T.Hunter(1st)
+HOME RUNS- J.Kubel(1st), G.Gross(1st)
+WALKS- J.Mauer-2, J.Morneau, C.Jones-2, G.Gross
+STRIKE OUTS- D.Span, P.Polanco, J.Mauer, J.Morneau-3, M.Young, R.Weeks,
+             W.Taveras, H.Ramirez, G.Gross, R.Gload
+GIDP- C.Lee, D.Uggla
+WILD PITCHES- E.Volquez
+
+At Angels Stadium the Los Angeles(AL) Angels outscored the Minnesota Twins 4
+to 1.
+
+Edinson Volquez(1-0) pitched a fine game.  He surrendered 2 hits and 2 walks
+in 6 and 1/3 innings.  Minnesota was out-hit by Los Angeles(AL), 9 hits to 3.
+
+Brian Fuentes earned his 1st save.  Justin Duchscherer(0-1) was charged with
+the loss.  He allowed 4 runs and 9 hits in 8 innings.
+[2]
+[1]SCORESHEET: 2009 Minnesota Twins at 2009 Los Angeles(AL) Angels
+D.Span-A1    A1:G/53    B1:G/63    C1:K       D1:L/3
+                                              
+                                              
+P.Polanc-A1  A2:L/6     *4*:G/63   C2:L/6     D2:K
+                                              
+                                              
+J.Mauer-A1   A3:K       B3:G/43    *7*:W>b1   *9*:W>b1
+                                              
+                                              
+J.Mornea-A1  *2*:W>b1   B4:K       C4:K       D4:K
+                                              
+                                              
+M.Young-A1   A5:G/43>1  *5*:F/8    C5:Si>12   D5:K
+             2                                
+                                              
+J.Kubel-A1   A6:G/63    B6:HR>b#   C6:K       D6:G/13
+R.Weeks-C6                                    
+                                              
+D.Young-A1   A7:WP>23   B7:G/53    C7:Si>23
+             G/43                  12
+                                   
+J.Hannah-A1  *3*:G/43   B8:G/63    C8:F/9
+J.Bautis-C8                        
+                                   
+W.Tavera-A1  A9:L/6     *6*:G/63   *8*:K
+                                   
+                                   
+
+H.Ramire-A1  A1:Si      B1:K       C1:F/9     D1:P/6
+                                              
+                                              
+C.Jones-A1   A2:W>12 b  *3*:Si     *5*:G/63   D2:W>b1
+             1                                
+                                              
+C.Lee-A1     A3:L/3     B3:G-DP/6  C3:G/63    D3:G/43
+                        43>1o                 
+                                              
+D.Uggla-A1   A4:G-DP/5  B4:Do      C4:L/5     *8*:F/8
+H.Kendri-D4  43>1o                            
+                                              
+G.Gross-A1   *2*:K      B5:HR>2#   *6*:Do     D5:W>b1
+                        b#                    
+                                              
+R.Winn-A1    A6:Do      B6:G/31    C6:F/8     D6:L/3
+                                              
+                                              
+B.Molina-A1  A7:F/9>23  *4*:F/8    C7:G/63    D7:F/9
+                                              
+                                              
+T.Hunter-A1  A8:Do>3#   B8:G/53    C8:L/6
+                                   
+                                   
+R.Gload-A1   A9:Si>2#   B9:Si      *7*:K
+                                   
+                                   
+
+

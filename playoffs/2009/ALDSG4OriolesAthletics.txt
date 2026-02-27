@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2009 Baltimore Orioles At 2009 Oakland Athletics         10/14/2009
+
+[1]  Orioles            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  B.Roberts 2B        5  0  1  0 .222     P.Burrell DH        2  0  0  0 .231  
+  N.Markakis RF       3  0  0  0 .231     D.Barton 1B         4  0  0  0 .250  
+  M.Ramirez LF        4  1  2  0 .313   A-N.Morgan CF         0  0  0  0 .250  
+  A.Gonzalez 1B       3  0  0  0 .214     C.Barmes 3B         4  0  0  0 .125  
+  V.Guerrero DH       4  0  0  0 .286   B-E.Chavez 3B         0  0  0  0 .000  
+  C.Beltran CF        4  0  1  1 .200     C.Ross CF,RF        3  0  0  0 .000  
+  J.Hardy SS          4  0  1  0 .200     N.Swisher RF,1B     2  2  0  0 .100  
+  M.Mora 3B           3  0  0  0 .333     D.Dejesus LF        3  0  0  0 .133  
+  M.Olivo C           3  1  2  1 .455     K.Suzuki C          3  0  1  1 .214  
+C-L.Scott PH          0  0  0  0 ----     M.Ellis 2B          2  1  0  0 .250  
+D-J.Gathright PR      0  0  0  0 ----     B.Crosby SS         3  0  1  2 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      26  3  2  3
+
+A-Subbed Defensively (CF) For Barton In 9th Inning
+B-Subbed Defensively (3B) For Barmes In 9th Inning
+C-Pinch Hit For Olivo In 9th Inning
+D-Pinch Ran For Scott In 9th Inning
+
+Orioles......... 0 0 0  0 1 1  0 0 0  -  2  7  1
+Athletics....... 0 2 0  1 0 0  0 0    -  3  2  0
+
+[1]Orioles (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Kazmir LOSS(0-1)           8       2   3   1   4   6   0   1.13  A1
+[1]Totals                    8       2   3   1   4   6   0
+
+[1]Athletics (1-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren WIN(1-1)             7       7   2   2   1   5   1   2.57  A1 D3
+J.Devine HOLD(1st)           1 1/3   0   0   0   2   2   0   0.00  D4 D9
+H.Street SAVE(1st)           0 2/3   0   0   0   0   0   0   9.00  E1
+[1]Totals                    9       7   2   2   3   7   1
+
+ATTENDANCE- 33,112 DATE- Wednesday, October 14th 2009 TIME- Day 
+UMPIRES- Tom Devries, Steve Sprague, Tony Childers, Larry Spencer
+T- 3:01
+LEFT ON BASE- Orioles: 8  Athletics: 3
+DOUBLE PLAYS- Orioles: 1  Athletics: 1
+ERRORS- A.Gonzalez
+DOUBLES- C.Beltran(1st), B.Crosby(1st)
+HOME RUNS- M.Olivo(2nd)
+STOLEN BASES- M.Ellis(1st)
+WALKS- N.Markakis, A.Gonzalez, L.Scott, P.Burrell-2, N.Swisher, M.Ellis
+HIT BY PITCH- M.Mora
+STRIKE OUTS- B.Roberts-2, A.Gonzalez, V.Guerrero, C.Beltran-2, J.Hardy,
+             D.Barton, C.Barmes, C.Ross-2, D.Dejesus, M.Ellis
+GIDP- B.Roberts
+WILD PITCHES- S.Kazmir, D.Haren
+
+One run was the difference at McAfee Coliseum as the Oakland Athletics
+defeated the Baltimore Orioles 3 to 2.
+
+In the 2nd inning Oakland scored 2 runs.  Nick Swisher opened up the inning
+nicely when he reached on an error.  Two outs later Mark Ellis came to the
+plate and drew a walk.  Bobby Crosby then doubled.  Despite losing, Baltimore
+out-hit Oakland 7 to 2.  
+
+The winning pitcher was Dan Haren(1-1) who allowed 2 runs in 7 innings. Huston
+Street recorded his 1st save.  The losing pitcher was Scott Kazmir(0-1).  He
+surrendered just 2 hits and 4 walks in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2009 Baltimore Orioles at 2009 Oakland Athletics
+B.Robert-A1  A1:G/43    B1:K       C1:K       D1:Si      E1:G-DP/4
+                                                         63>1o
+                                                         
+N.Markak-A1  A2:G/63    B2:W>12 b  C2:L/4     D2:F/8
+                        1                     
+                                              
+M.Ramire-A1  A3:Si      B3:L/5     *6*:Si     D3:G/63
+                                              
+                                              
+A.Gonzal-A1  A4:K       B4:FO/2    C4:WP>12   *8*:W>b1
+                                   F/8        
+                                              
+V.Guerre-A1  *2*:L/6    *4*:G/13   C5:F/9>23  D5:K
+                                              
+                                              
+C.Beltra-A1  A6:K       B6:K       C6:Do>3#   D6:L/4
+                                              
+                                              
+J.Hardy-A1   A7:G/63    B7:G/63    C7:Si>23   D7:K
+                                              
+                                              
+M.Mora-A1    *3*:HBP    *5*:G/43   C8:L/5     *9*:G/53
+                                              
+                                              
+M.Olivo-A1   A9:Si>13   B9:HR>b#   *7*:F/7    D9:W>b1
+L.Scott-D9                                    
+J.Gathri-E1                                   
+
+P.Burrel-A1  A1:W>b1    B1:G/63    *5*:W>b1   *8*:G/23
+                                              
+                                              
+D.Barton-A1  A2:F/8     *3*:P/3    C2:K       D2:P/6
+N.Morgan-D4                                   
+                                              
+C.Barmes-A1  A3:F/8     B3:F/8     C3:L-DP/6  D3:K
+E.Chavez-D4                        3>1o       
+                                              
+C.Ross-A1    A4:K       B4:L/6     *6*:K
+                                   
+                                   
+N.Swishe-A1  *2*:E/3>b  *4*:W>b1   C5:G/13
+             2                     
+                                   
+D.Dejesu-A1  A6:G/63    B6:WP>12   C6:K
+                        F/9        
+                                   
+K.Suzuki-A1  A7:G/53    B7:Si>2#   *7*:G/31
+                                   
+                                   
+M.Ellis-A1   A8:W>b1    B8:Force/  C8:K
+                        14>1o b1   
+                                   
+B.Crosby-A1  A9:Do>2#   B9:SB>12   C9:G/53
+             1#         G/63       
+                                   
+
+

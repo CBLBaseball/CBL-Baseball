@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2009 Philadelphia Phillies At 2009 Los Angeles(AL) Angels 11/3/2009
+
+[1]  Phillies           AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  J.Giambi DH         4  1  1  1 .306     H.Ramirez SS        5  0  2  0 .188  
+  J.Willingham LF     2  0  0  0 .129     T.Hunter CF         2  0  1  0 .220  
+B-T.Teagarden C       0  0  0  0 .000     C.Jones 3B          4  0  2  0 .241  
+E-J.Werth PH,RF       0  1  0  0 .324     M.Holliday LF       4  0  1  1 .271  
+  R.Howard 1B         3  0  0  0 .268     C.Lee DH            4  0  1  0 .310  
+F-J.Arias PH          1  1  0  0 .200     R.Winn RF           4  0  0  0 .219  
+G-R.Chavez C          0  0  0  0 .400     B.Molina C          4  0  0  0 .361  
+  C.Utley 2B          5  0  2  2 .328     H.Kendrick 2B       3  0  0  0 .323  
+  J.Cantu 3B,1B       5  0  0  0 .179   I-R.Quinlan PH        1  0  0  0 .200  
+  J.Edmonds CF,LF     2  0  1  0 .250     R.Gload 1B          2  1  1  0 .395  
+D-J.Pierre PH,LF      1  0  0  0 .174   C-M.Napoli PH,1B      1  0  0  0 .333  
+  J.Rollins SS        4  0  0  0 .304                                          
+  G.Jenkins RF        3  1  1  1 .200                                          
+H-G.Dobbs 3B          0  0  0  0 .455                                          
+  C.Coste C           1  0  0  0 .273                                          
+A-A.Rowand PH,CF      1  0  0  0 .214                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  5  4                 Totals      34  1  8  1
+
+A-Pinch Hit For Coste In 7th Inning
+B-Subbed Defensively (C ) For Willingham In 7th Inning
+C-Pinch Hit For Gload In 7th Inning
+D-Pinch Hit For Edmonds In 8th Inning
+E-Pinch Hit For Teagarden In 9th Inning
+F-Pinch Hit For Howard In 9th Inning
+G-Subbed Defensively (C ) For Arias In 9th Inning
+H-Subbed Defensively (3B) For Jenkins In 9th Inning
+I-Pinch Hit For Kendrick In 9th Inning
+
+Phillies........ 1 0 0  0 1 0  0 0 2  -  4  5  0
+Angels.......... 0 0 0  0 1 0  0 0 0  -  1  8  1
+
+[1]Phillies (11-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels WIN(4-1)            9       8   1   1   3   8   0   2.36  A1
+[1]Totals                    9       8   1   1   3   8   0
+
+[1]Angels (9-7)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Volquez LOSS(2-4)          6       4   2   2   6   5   2   3.09  A1 D2
+B.Fuentes                    2 2/3   0   0   0   0   6   0   1.54  D3 E1
+R.Pinto                      0       0   2   0   1   0   0   7.20  E2 E3
+S.Shields                    0 1/3   1   0   0   0   0   0   0.00  E4
+[1]Totals                    9       5   4   2   7  11   2
+
+ATTENDANCE- 41,769 DATE- Tuesday, November 3rd 2009 TIME- Night 
+UMPIRES- Ed Glass, Larry Huck, Jeff Hammerlund, Rich Denny
+T- 3:31
+LEFT ON BASE- Phillies:10  Angels: 9
+DOUBLE PLAYS- Phillies: 1  Angels: 1
+ERRORS- H.Ramirez
+DOUBLES- C.Utley-2(6th), H.Ramirez(4th), T.Hunter(4th), M.Holliday(2nd)
+HOME RUNS- J.Giambi(4th), G.Jenkins(1st)
+STOLEN BASES- R.Gload(2nd)
+WALKS- J.Giambi, J.Willingham, J.Werth, R.Howard, J.Edmonds, G.Jenkins,
+       A.Rowand, T.Hunter-2, M.Napoli
+HIT BY PITCH- J.Willingham, C.Coste
+STRIKE OUTS- J.Giambi-2, J.Willingham-2, R.Howard-2, C.Utley, J.Cantu,
+             J.Rollins, C.Coste, A.Rowand, H.Ramirez-3, M.Holliday, C.Lee-2,
+             H.Kendrick, R.Quinlan
+GIDP- J.Rollins, C.Jones
+
+Cole Hamels completed the game without help from the bullpen as the
+Philadelphia Phillies defeated the Los Angeles(AL) Angels 4 to 1 at Angels
+Stadium.
+
+Philadelphia set the tone of the game in the first inning scoring one runner.
+Los Angeles(AL) had 8 hits in the game while Philadelphia had 5, but
+Philadelphia had the more timely hits.  
+
+Hamels(4-1) picked up the complete game victory, allowing 1 run. Edinson
+Volquez(2-4) ended up with the loss.  Philadelphia now has a record of a
+league leading 11-4.  Los Angeles(AL) can't seem to snap out of their recent
+'funk'.  Now they have a miserable 1-9 record over the last couple weeks.
+[2]
+[1]SCORESHEET: 2009 Philadelphia Phillies at 2009 Los Angeles(AL) Angels
+J.Giambi-A1  A1:HR>b#   *3*:K      C1:L/4     D1:W>12 b  E1:K
+                                              1          
+                                                         
+J.Willin-A1  A2:K       B2:K       C2:HBP>12  D2:W>23 1  E2:W>b1
+T.Teagar-D6                                   2 b1       
+J.Werth-E2                                               
+R.Howard-A1  A3:K       B3:G/43    C3:W>23 1  D3:K       E3:E/6>12
+J.Arias-E3                         2 b1                  
+R.Chavez-E6                                              
+C.Utley-A1   A4:L/3     *4*:Do     C4:Force/  D4:K       E4:Do>2#
+                                   12>3o 23              1#
+                                   12 b1                 
+J.Cantu-A1   *2*:F/7    B5:G/53    C5:G/63    D5:K       E5:P/6
+                                                         
+                                                         
+J.Edmond-A1  A6:Si      B6:W>b1    *6*:F/9    *8*:F/8
+J.Pierre-D6                                   
+                                              
+J.Rollin-A1  A7:F/8     B7:G-DP/4  C7:F/9     D7:K
+                        63>1o                 
+                                              
+G.Jenkin-A1  A8:W>12 b  *5*:HR>b#  C8:G/43    D8:G/43
+G.Dobbs-E6   1                                
+                                              
+C.Coste-A1   A9:K       B9:HBP     *7*:W>b1   *9*:K
+A.Rowand-C9                                   
+                                              
+
+H.Ramire-A1  A1:Do      B1:K       C1:SB>12   D1:Si      E1:K
+                                   K                     
+                                                         
+T.Hunter-A1  A2:W>b1    B2:Do      C2:G/63    D2:W>12 b
+                                              1
+                                              
+C.Jones-A1   A3:F/9     B3:Si>23   C3:Si>23   D3:G-DP/6
+                                              43>1o
+                                              
+M.Hollid-A1  A4:K       B4:F/8     C4:Do>3#   *8*:G/63
+                                   13         
+                                              
+C.Lee-A1     A5:K       *4*:Si     C5:G/63    D5:K
+                                              
+                                              
+R.Winn-A1    *2*:F/8    B6:G/3>12  *6*:F/8    D6:G/43
+                                              
+                                              
+B.Molina-A1  A7:G/13    B7:F/9     C7:G/63    *9*:G/43
+                                              
+                                              
+H.Kendri-A1  A8:F/9     B8:K       C8:F/9     D8:K
+R.Quinla-D8                                   
+                                              
+R.Gload-A1   *3*:F/9    *5*:Si     *7*:G/43   D9:W>b1
+M.Napoli-C9                                   
+                                              
+
+

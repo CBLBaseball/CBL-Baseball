@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2009 Los Angeles(AL) Angels At 2009 Oakland Athletics    10/23/2009
+
+[1]  Angels             AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  H.Ramirez SS        4  0  1  0 .182     D.Barton 1B,3B      4  2  2  1 .318  
+  C.Jones 3B          3  0  0  0 .241   F-M.Prado 3B          0  0  0  0 .000  
+H-C.Figgins PH        0  1  0  0 .250     J.Cust DH           4  2  2  1 .227  
+  M.Holliday LF       2  0  0  0 .345     P.Burrell LF        4  0  1  1 .367  
+B-G.Gross PH,LF       2  0  0  0 .400   A-C.Gonzalez CF,RF    1  0  0  0 .231  
+  C.Lee DH            2  0  1  0 .375     C.Ross RF           4  0  0  1 .286  
+C-M.Napoli PH         2  0  1  1 .375   G-N.Morgan CF         0  0  0  0 .182  
+  D.Uggla 2B,1B       4  0  0  0 .150     C.Barmes 3B         3  1  1  1 .158  
+  R.Winn RF           3  0  0  0 .167   D-N.Swisher PH,1B     1  0  0  0 .233  
+  B.Molina C          3  1  1  0 .313     K.Suzuki C          4  1  4  1 .306  
+  T.Hunter CF         3  0  2  1 .303     D.Dejesus CF,LF     3  0  0  0 .135  
+  R.Gload 1B          2  0  0  0 .400     M.Ellis 2B          4  0  1  0 .190  
+E-H.Kendrick PH,2B    1  0  0  0 .500     B.Crosby SS         4  1  1  0 .229  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  6  2                 Totals      36  7 12  6
+
+A-Subbed Defensively (CF) For Burrell In 7th Inning
+B-Pinch Hit For Holliday In 7th Inning
+C-Pinch Hit For Lee In 7th Inning
+D-Pinch Hit For Barmes In 7th Inning
+E-Pinch Hit For Gload In 8th Inning
+F-Subbed Defensively (3B) For Barton In 9th Inning
+G-Subbed Defensively (CF) For Ross In 9th Inning
+H-Pinch Hit For Jones In 9th Inning
+
+Angels.......... 0 0 0  0 0 0  0 1 1  -  2  6  1
+Athletics....... 0 0 3  1 1 2  0 0    -  7 12  0
+
+[1]Angels (6-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez LOSS(0-1)        8      12   7   5   3   6   2   6.23  A1
+[1]Totals                    8      12   7   5   3   6   2
+
+[1]Athletics (5-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren WIN(3-1)             8 2/3   6   2   2   1  10   0   3.03  A1 D4
+J.Devine                     0 1/3   0   0   0   0   0   0   0.00  D5
+[1]Totals                    9       6   2   2   1  10   0
+
+ATTENDANCE- 43,796 DATE- Friday, October 23rd 2009 TIME- Night 
+UMPIRES- George Lytle, Mickey Bauchan, Jeff Weinke, Paul Granillo
+T- 2:58
+LEFT ON BASE- Angels: 3  Athletics: 8
+DOUBLE PLAYS- Angels: 0  Athletics: 0
+ERRORS- M.Holliday
+DOUBLES- B.Molina(3rd), T.Hunter(3rd), D.Barton-2(5th), J.Cust(1st),
+         K.Suzuki(4th)
+TRIPLES- J.Cust(1st)
+HOME RUNS- C.Barmes(1st), K.Suzuki(1st)
+CAUGHT STEALING- H.Ramirez, T.Hunter
+WALKS- C.Figgins, D.Barton, J.Cust, D.Dejesus
+STRIKE OUTS- H.Ramirez, C.Jones-2, G.Gross, C.Lee, M.Napoli, D.Uggla, R.Gload-2,
+             H.Kendrick, J.Cust, P.Burrell, C.Gonzalez, C.Ross, C.Barmes,
+             B.Crosby
+WILD PITCHES- D.Haren
+
+Kurt Suzuki had 4 hits and Dan Haren dominated striking out 10 Los Angeles(AL)
+batters at McAfee Coliseum as the Oakland Athletics beat the Los Angeles(AL)
+Angels 7 to 2.
+
+Haren(3-1) contributed a very nicely pitched game.  He allowed only 6 hits and
+1 walk in 8 and 2/3 innings lowering his ERA from 3.43 to 3.03.  Oakland had
+12 hits for the night while Los Angeles(AL) had 6.  
+
+Wandy Rodriguez(0-1) was the loser.  He got hit hard, allowing 12 hits and 3
+walks in 8 innings.  Mike Scioscia was upset after the game.  'I don't like
+to complain but did you see that umpires strike zone?', he said.  'Maybe they
+ought to start calling the strike zone the way it's printed in the rule
+book.'
+[2]
+[1]SCORESHEET: 2009 Los Angeles(AL) Angels at 2009 Oakland Athletics
+H.Ramire-A1  A1:G/53    *4*:Si     C1:F/8     *9*:K
+                                              
+                                              
+C.Jones-A1   A2:K       B2:CS/26>  *7*:L/4    D2:W>b1
+C.Figgin-D2             1o K                  
+                                              
+M.Hollid-A1  A3:F/7     B3:L/6     C3:K       D3:WP>12
+G.Gross-C3                                    G/43>23
+                                              
+C.Lee-A1     *2*:K      *5*:Si     C4:K       D4:Si>3#
+M.Napoli-C4                                   
+                                              
+D.Uggla-A1   A5:F/8     B5:Force/  *8*:K      D5:G/53
+                        46>1o b1              
+                                              
+R.Winn-A1    A6:L/4     B6:Force/  C6:G/13
+                        14>1o b1   
+                                   
+B.Molina-A1  *3*:G/63   B7:L/6     C7:Do
+                                   
+                                   
+T.Hunter-A1  A8:F/9     *6*:Do     C8:Si>2#
+                                   
+                                   
+R.Gload-A1   A9:K       B9:CS/25>  C9:K
+H.Kendri-C9             2o K       
+                                   
+
+D.Barton-A1  A1:Do      *3*:W>b1   C1:G/13    D1:Do+E/7  E1:G/53
+M.Prado-E4                                    >1# b#     
+                                                         
+J.Cust-A1    A2:K       B2:Tr>1#   C2:Do      D2:F/8     E2:W>b1
+                                                         
+                                                         
+P.Burrel-A1  A3:G/63    B3:K       C3:Si>2#   D3:G/63    E3:K
+C.Gonzal-D5                                              
+                                                         
+C.Ross-A1    A4:K       B4:G/43>3  C4:F/8     D4:G/31
+N.Morgan-E4             #                     
+                                              
+C.Barmes-A1  *2*:K      B5:HR>b#   *5*:L/5    *7*:G/23
+N.Swishe-D5                                   
+                                              
+K.Suzuki-A1  A6:Si      B6:Do      C6:HR>b#   D6:Si
+                                              
+                                              
+D.Dejesu-A1  A7:F/9     B7:IW>b1   C7:F/7     D7:L/4
+                                              
+                                              
+M.Ellis-A1   A8:Si>13   B8:G/63    C8:G/63    D8:G/63
+                                              
+                                              
+B.Crosby-A1  A9:G/63    *4*:K      *6*:Si     *8*:G/63
+                                              
+                                              
+
+

@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2009 Baltimore Orioles At 2009 Oakland Athletics         10/13/2009
+
+[1]  Orioles            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  B.Roberts 2B        5  0  0  0 .231     P.Burrell DH        3  2  1  0 .273  
+  N.Markakis RF       3  2  2  0 .300     D.Barton 1B         4  1  2  1 .500  
+  M.Ramirez LF        5  1  1  0 .250     D.Dejesus LF        4  0  1  1 .167  
+A-J.Gathright LF      0  0  0  0 ----     C.Ross CF           3  0  0  1 .000  
+  A.Gonzalez 1B       4  2  2  1 .273     N.Swisher RF        3  0  0  0 .125  
+  V.Guerrero DH       4  1  2  3 .400     C.Barmes 2B         4  0  1  0 .250  
+  C.Beltran CF        5  1  1  3 .182     M.Prado 3B          3  0  0  0 .000  
+  J.Hardy SS          4  1  1  0 .182   B-M.Ellis PH          1  0  1  0 .333  
+  M.Mora 3B           5  1  3  1 .417     K.Suzuki C          4  0  2  0 .182  
+  M.Olivo C           3  0  1  1 .375     B.Crosby SS         4  0  0  0 .111  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  9 13  9                 Totals      33  3  8  3
+
+A-Subbed Defensively (LF) For Ramirez In 9th Inning
+B-Pinch Hit For Prado In 9th Inning
+
+Orioles......... 4 0 0  0 2 1  0 1 1  -  9 13  0
+Athletics....... 1 0 2  0 0 0  0 0 0  -  3  8  1
+
+[1]Orioles (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           9       8   3   3   3  12   0   3.00  A1
+[1]Totals                    9       8   3   3   3  12   0
+
+[1]Athletics (0-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Blanton LOSS(0-1)          6      10   7   7   1   6   2  10.50  A1 D3
+R.Rowland-Sm                 2       1   1   1   3   0   0   4.50  D4 E3
+H.Street                     0 1/3   2   1   1   1   1   1  27.00  E4 E7
+B.Ziegler                    0 2/3   0   0   0   0   0   0   0.00  E8
+[1]Totals                    9      13   9   9   5   7   3
+
+ATTENDANCE- 34,035 DATE- Tuesday, October 13th 2009 TIME- Day 
+UMPIRES- Jim Bennett, Chris Gager, Scott Clineman, Jack Sebesta
+T- 3:23
+LEFT ON BASE- Orioles: 8  Athletics: 7
+DOUBLE PLAYS- Orioles: 0  Athletics: 2
+ERRORS- B.Crosby
+DOUBLES- A.Gonzalez(1st), V.Guerrero-2(3rd), M.Olivo(1st), P.Burrell(1st),
+         D.Barton-2(2nd), D.Dejesus(1st), C.Barmes(1st), K.Suzuki-2(2nd)
+HOME RUNS- A.Gonzalez(1st), C.Beltran(1st), M.Mora(2nd)
+SACRIFICE FLIES- M.Olivo, C.Ross
+WALKS- N.Markakis-2, A.Gonzalez, V.Guerrero, J.Hardy, P.Burrell-2, N.Swisher
+STRIKE OUTS- M.Ramirez, A.Gonzalez, C.Beltran, J.Hardy-3, M.Olivo, P.Burrell-2,
+             D.Barton-2, D.Dejesus, C.Ross, N.Swisher, C.Barmes, M.Prado,
+             K.Suzuki-2, B.Crosby
+GIDP- V.Guerrero, M.Mora
+WEB GEMS- Bot 3rd: Miguel Olivo blocked the plate, saving a run!
+
+Randy Johnson mowed down 12 Oakland batters at McAfee Coliseum where the
+Baltimore Orioles beat the Oakland Athletics by the score of 9 to
+3.
+
+Johnson(1-0) had a strong outing.  He surrendered only 8 hits and 3 walks in 9
+innings.  Baltimore finished with 13 hits in the victory.  
+
+Joe Blanton(0-1) ended up with the loss.  He was not very effective,
+surrendering 7 runs in 6 innings.  'He was really impressive today,' Blanton
+said of his counterpart.  'Our guys were just swinging at air.'
+[2]
+[1]SCORESHEET: 2009 Baltimore Orioles at 2009 Oakland Athletics
+B.Robert-A1  A1:L/4     B1:G/13    C1:G/63    D1:F/8     E1:Force/
+                                                         14>1o b1
+                                                         
+N.Markak-A1  A2:Si      *3*:W>b1   *5*:Si     D2:G/43>2  E2:W>12 b
+                                              3          1
+                                                         
+M.Ramire-A1  A3:Si>12   B3:K       C3:L/5     D3:F/7     E3:G/53
+J.Gathri-E9                                              
+                                                         
+A.Gonzal-A1  A4:P/4     B4:K       C4:Do>13   *7*:W>b1   *9*:HR>b#
+                                                         
+                                                         
+V.Guerre-A1  A5:Do>2#   B5:G/13    C5:Do>3#   D5:G-DP/1  E5:W>b1
+             13                    2#         63>1o      
+                                                         
+C.Beltra-A1  A6:HR>3#   *4*:G/3    C6:G/3>23  D6:F/7     E6:K
+             2# b#                                       
+                                                         
+J.Hardy-A1   A7:K       B7:K       C7:K       *8*:W>b1   E7:Si>13
+                                                         
+                                                         
+M.Mora-A1    *2*:F/8    B8:Si      *6*:HR>b#  D8:Si>13   E8:G-DP/6
+                                                         43>1o
+                                                         
+M.Olivo-A1   A9:K       B9:E/6>12  C9:Do      D9:SF/7>3
+                                              #
+                                              
+
+P.Burrel-A1  A1:Do      *3*:W>b1   C1:IW>b1   D1:K       E1:K
+                                                         
+                                                         
+D.Barton-A1  A2:Do>2#   B2:Do>13   C2:K       D2:K
+                                              
+                                              
+D.Dejesu-A1  A3:K       B3:G/63>3  *5*:G/63   *8*:Do
+                        # 23                  
+                                              
+C.Ross-A1    A4:L/6     B4:SF/8>3  C4:K       D4:L/6
+                        #                     
+                                              
+N.Swishe-A1  A5:F/9     B5:W>b1    C5:F/9     D5:K
+                                              
+                                              
+C.Barmes-A1  *2*:K      B6:Do>1o   *6*:F/9    D6:G/13
+                                              
+                                              
+M.Prado-A1   A7:F/9     *4*:K      C7:G/53    *9*:Si
+M.Ellis-D7                                    
+                                              
+K.Suzuki-A1  A8:Do      B8:Do      C8:K       D8:K
+                                              
+                                              
+B.Crosby-A1  A9:F/8     B9:F/9>23  *7*:G/63   D9:K
+                                              
+                                              
+
+
