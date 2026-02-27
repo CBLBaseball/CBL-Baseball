@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2004 Philadelphia Phillies At 2004 New York (NL) Mets    10/29/2004
+
+[1]  Phillies           AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Byrd CF,LF        5  0  1  0 .200     T.Wigginton 3B      5  1  2  1 .500  
+  E.Burks LF          3  0  1  0 .333     L.Walker RF         4  3  2  0 .250  
+A-J.Edmonds CF        1  0  0  0 .000     E.Perez 1B          2  0  0  0 .000  
+  S.Rolen 3B          4  1  1  0 .250   C-J.Olerud PH,1B      3  0  1  1 .231  
+  F.Thomas DH         4  2  3  0 .750     M.Grissom LF        4  3  2  2 .500  
+  A.Galarraga 1B      2  0  2  01.000     A.Huff DH           4  1  1  0 .222  
+B-L.Gonzalez PH,1B,SS 2  1  1  3 .500     V.Wilson C          4  1  1  2 .333  
+  M.Lieberthal C      4  0  1  1 .250     J.Drew CF           4  2  2  2 .444  
+  B.Boone 2B          4  0  0  0 .000     R.Clayton SS        4  0  1  0 .250  
+  J.Michaels RF       3  0  0  0 .000     R.Alomar 2B         3  0  1  2 .231  
+E-B.Broussard 1B      1  0  0  0 .000                                          
+  J.Rollins SS        2  0  0  0 .000                                          
+D-B.Abreu PH,RF,SS    2  1  1  1 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 11  5                 Totals      37 11 13 10
+
+A-Subbed Defensively (CF) For Burks In 5th Inning
+B-Pinch Hit For Galarraga In 6th Inning
+C-Pinch Hit For Perez In 6th Inning
+D-Pinch Hit For Rollins In 7th Inning
+E-Subbed Defensively (1B) For Michaels In 7th Inning
+
+Phillies........ 0 1 0  0 0 0  0 3 1  -  5 11  1
+Mets............ 2 0 1  0 0 4  4 0    - 11 13  1
+
+[1]Phillies                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wolf LOSS(0-1)             5       5   4   4   0  10   2   7.20  A1 C2
+G.Mota                       1 2/3   6   6   3   1   1   0  16.20  C3 D6
+T.Percival                   1 1/3   2   1   1   0   3   1   6.75  D7
+[1]Totals                    8      13  11   8   1  14   3
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Leiter WIN(1-0)            5 1/3   7   1   1   0   4   0   1.69  A1 C4
+J.Smoltz HOLD(1st)           2 1/3   3   3   3   0   1   1   3.37  C5 D5
+T.Gordon                     1 1/3   1   1   1   0   3   1   0.77  D6
+[1]Totals                    9      11   5   5   0   8   2
+
+ATTENDANCE- 51,150 DATE-  TIME- Day 
+UMPIRES- Chuck Meriwether, Tim Timmons, Tim Tschida, Greg Gibson
+T- 3:02
+LEFT ON BASE- Phillies: 5  Mets: 4
+DOUBLE PLAYS- Phillies: 0  Mets: 1
+ERRORS- L.Gonzalez, T.Wigginton
+DOUBLES- F.Thomas(1st), M.Lieberthal(1st), R.Alomar(1st)
+TRIPLES- L.Walker(1st)
+HOME RUNS- L.Gonzalez(1st), B.Abreu(1st), T.Wigginton(1st), M.Grissom(1st),
+           J.Drew(4th)
+SACRIFICE HITS- R.Alomar
+WALKS- L.Walker
+STRIKE OUTS- M.Byrd-3, B.Boone, J.Michaels-2, B.Broussard, J.Rollins,
+             T.Wigginton, L.Walker-2, E.Perez-2, M.Grissom, A.Huff, V.Wilson,
+             J.Drew-2, R.Clayton-2, R.Alomar-2
+GIDP- S.Rolen
+PASSED BALLS- M.Lieberthal
+
+In a lop-sided win the New York (NL) Mets registered 4 runs in the 7th inning
+and ripped the Philadelphia Phillies by a 11 to 5 count.
+
+Al Leiter(1-0) pitched well for New York (NL) in their victory.  He
+surrendered 7 hits and no walks in 5 and 1/3 innings.  New York (NL) banged
+out 13 on the afternoon.  
+
+Randy Wolf(0-1) was the loser.  Despite the loss, he struckout 10 New York
+(NL) batters in 5 innings.
+[2]
+[1]SCORESHEET: 2004 Philadelphia Phillies at 2004 New York (NL) Mets
+M.Byrd-A1    A1:K       *3*:Si     C1:K       *8*:G/53   E1:K
+                                                         
+                                                         
+E.Burks-A1   A2:Si      B2:G/13>1  C2:G/63    D2:F/9
+J.Edmond-C3             2                     
+                                              
+S.Rolen-A1   A3:G-DP/6  B3:F/8     *6*:F/8    D3:Si
+             43>1o                            
+                                              
+F.Thomas-A1  *2*:Si     B4:F/7     C4:Do      D4:Si>12
+                                              
+                                              
+A.Galarr-A1  A5:Si>12   *4*:Si+E/  C5:G/43>2  D5:HR>2#
+L.Gonzal-C5             5          3          1# b#
+                                              
+M.Lieber-A1  A6:Do>2#   B6:F/9>23  C6:G/13    D6:G/63
+             13                               
+                                              
+B.Boone-A1   A7:G/13    B7:L/6     *7*:G/63   *9*:K
+                                              
+                                              
+J.Michae-A1  A8:L/6     B8:K       C8:K       D8:K
+B.Brouss-D1                                   
+                                              
+J.Rollin-A1  A9:F/8     *5*:K      C9:G/43    D9:HR>b#
+B.Abreu-C9                                    
+                                              
+
+T.Wiggin-A1  A1:F/9     B1:HR>b#   C1:K       D1:F/8     E1:Si
+                                                         
+                                                         
+L.Walker-A1  A2:Si      B2:K       *6*:Tr     *7*:W>b1   E2:K
+                                                         
+                                                         
+E.Perez-A1   A3:K       B3:K       C3:Si>3#   D3:P/3     E3:FO/2
+J.Olerud-C3                                              
+                                                         
+M.Grisso-A1  A4:HR>1#   *4*:K      C4:Force/  D4:Si>12
+             b#                    14>1o b1   
+                                              
+A.Huff-A1    A5:K       B5:G/63    C5:Si>12   D5:G/3>23
+                                              12 
+                                              
+V.Wilson-A1  *2*:G/23   B6:P/5     C6:K       D6:Si>3#
+                                              2#
+                                              
+J.Drew-A1    A7:K       *5*:K      C7:Si>23   D7:HR>1#
+                                   12         b#
+                                              
+R.Clayto-A1  A8:K       B8:Si      C8:E/3>3#  D8:K
+                                   23 12      
+                                              
+R.Alomar-A1  *3*:K      B9:PB>12   C9:Do>3#   *8*:K
+                        Sac/34>23  2# 13      
+                                              
+
+

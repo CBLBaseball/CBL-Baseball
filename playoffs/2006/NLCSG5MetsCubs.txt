@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 Chicago (NL) Cubs        10/23/2006
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Counsell 2B       4  0  1  0 .216     J.Encarnacion RF,CF 4  2  2  0 .425  
+  L.Walker RF         3  0  0  0 .323     R.Clayton SS        4  0  0  0 .132  
+  D.Wright 3B         4  0  1  0 .242     D.Lee 1B            4  2  1  2 .237  
+  C.Floyd LF          4  0  0  0 .344     A.Ramirez 3B        4  0  0  0 .278  
+  K.Stinnett C        4  0  1  0 .250     A.Soriano DH        4  1  3  2 .300  
+  F.Catalanotto DH    3  0  0  0 .276     J.Jones LF,RF       4  0  1  0 .243  
+B-F.Menechino PH      1  0  0  0 .000     P.Lo Duca C         4  0  0  0 .263  
+  X.Nady 1B           4  0  1  0 .071     M.Scutaro 2B        3  0  0  0 .222  
+  G.Matthews Jr CF    3  0  1  0 .034     P.Wilson CF,LF      2  0  0  0 .156  
+  J.Reyes SS          3  1  3  0 .438   A-S.Finley CF         0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  1  8  0                 Totals      33  5  7  4
+
+A-Subbed Defensively (CF) For Wilson In 8th Inning
+B-Pinch Hit For Catalanotto In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 1 0  -  1  8  2
+Cubs............ 0 0 0  1 2 0  2 0    -  5  7  0
+
+[1]Mets (5-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cook LOSS(0-1)             5 1/3   5   3   1   1   2   1   4.82  A1 C7
+R.Hernandez                  2 2/3   2   2   2   0   0   1   3.65  C8
+[1]Totals                    8       7   5   3   1   2   2
+
+[1]Cubs (6-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano WIN(2-2)          7 2/3   8   1   1   1   2   0   4.97  A1 D3
+J.Speier                     1 1/3   0   0   0   0   2   0   6.23  D4
+[1]Totals                    9       8   1   1   1   4   0
+
+ATTENDANCE- 37,752 DATE-  TIME- Day 
+T- 2:32
+LEFT ON BASE- Mets: 6  Cubs: 6
+DOUBLE PLAYS- Mets: 0  Cubs: 2
+ERRORS- K.Stinnett, A.Cook
+DOUBLES- J.Encarnacion(3rd), A.Soriano(4th)
+HOME RUNS- D.Lee(1st), A.Soriano(4th)
+WALKS- L.Walker, M.Scutaro
+HIT BY PITCH- P.Wilson
+STRIKE OUTS- D.Wright, F.Menechino, X.Nady-2, D.Lee, P.Wilson
+GIDP- L.Walker-2
+WILD PITCHES- A.Cook
+WEB GEMS- Top 8th: Juan Encarnacion robbed Cliff Floyd of an extra base hit.
+
+Alfonso Soriano jacked one out of the ballyard and had 2 RBI at Wrigley Field
+as the Chicago (NL) Cubs beat the New York (NL) Mets by the count of 5 to
+1.
+
+Chicago (NL) went ahead for good in the 4th inning plating an isolated run on
+2 hits.  Chicago (NL) totaled 7 on the afternoon.  
+
+The win was credited to Carlos Zambrano(2-2) who went 7 and 2/3 innings
+allowing 1 run. Aaron Cook(0-1) was charged with the loss.  He allowed 5 hits
+and 1 walk in 5 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 Chicago (NL) Cubs
+C.Counse-A1  A1:G/13    B1:F/7     C1:FC/62>  D1:Si>13
+                                   3o 12      
+                                              
+L.Walker-A1  A2:W>b1    B2:G/23>1  C2:G-DP/1  D2:G-DP/4
+                        2          63>1o      63>3# 1o
+                                              
+D.Wright-A1  A3:L/6     B3:F/7     *6*:K      D3:Si
+                                              
+                                              
+C.Floyd-A1   A4:L/4     *4*:G/13   C4:P/3     D4:F/7
+                                              
+                                              
+K.Stinne-A1  *2*:G/53   B5:Si      C5:G/63    *9*:G/53
+                                              
+                                              
+F.Catala-A1  A6:G/63    B6:F/8     *7*:G/43   D6:K
+F.Menech-D6                                   
+                                              
+X.Nady-A1    A7:Si      B7:K       C7:L/6     D7:K
+                                              
+                                              
+G.Matthe-A1  A8:F/9     *5*:Si     C8:L/4
+                                   
+                                   
+J.Reyes-A1   *3*:Si     B9:Si>13   *8*:Si
+                                   
+                                   
+
+J.Encarn-A1  A1:E/2     B1:Force/  *5*:Si     *7*:Do
+                        64>1o b1              
+                                              
+R.Clayto-A1  A2:G/3>12  *3*:G/53   C2:G/3>12  D2:G/3>23
+                                              
+                                              
+D.Lee-A1     A3:K       B3:G/43    C3:E/1>23  D3:HR>3#
+                                              b#
+                                              
+A.Ramire-A1  A4:FO/2    B4:F/7     C4:L/6     D4:G/63
+                                              
+                                              
+A.Sorian-A1  *2*:Do     *4*:HR>b#  C5:WP>3#   D5:F/8
+                                   12 Si>2#   
+                                              
+J.Jones-A1   A6:G/43>2  B6:Si      C6:L/4     *8*:G/3
+             3                                
+                                              
+P.Lo Duc-A1  A7:FC/12>  B7:F/7     *6*:G/63   D7:G/53
+             3o                               
+                                              
+M.Scutar-A1  A8:W>12 b  B8:Force/  C8:G/3     D8:P/6
+             1          54>1o b1              
+                                              
+P.Wilson-A1  A9:HBP>23  B9:K       C9:P/6
+S.Finley-D6  12                    
+                                   
+
+

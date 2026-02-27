@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2006 Baltimore Orioles At 2006 Seattle Mariners           10/5/2006
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  D.Eckstein SS       4  0  2  1 .263     C.Guillen DH        5  1  2  1 .625  
+  B.Roberts 2B        4  0  0  0 .167     Y.Betancourt SS     4  1  1  0 .286  
+  B.Kielty DH         3  0  0  0 .000     G.Sheffield LF      3  1  0  0 .133  
+A-R.Palmeiro PH       2  0  1  0 .500   B-J.Reed CF           0  0  0  0 .000  
+  V.Guerrero RF       4  1  0  0 .474     A.Rodriguez 3B      1  2  1  0 .182  
+  R.Sexson 1B         4  1  3  1 .467     J.Vidro 2B          4  1  1  3 .267  
+  J.Gibbons LF        3  0  0  0 .313     J.Ellison CF,LF     3  0  1  2 .267  
+  M.Mora 3B           4  1  2  1 .250   C-C.Delgado PH        1  0  1  0 .333  
+  C.Beltran CF        4  2  2  2 .375   D-C.Crawford LF       0  0  0  0 .286  
+  J.Kendall C         4  0  0  0 .250     J.Posada C          4  2  2  1 .154  
+                                          I.Suzuki RF         4  0  0  1 .167  
+                                          J.Valentin 1B       4  1  1  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 10  5                 Totals      33  9 10  8
+
+A-Pinch Hit For Kielty In 7th Inning
+B-Subbed Defensively (CF) For Sheffield In 7th Inning
+C-Pinch Hit For Ellison In 7th Inning
+D-Subbed Defensively (LF) For Delgado In 8th Inning
+
+Orioles......... 0 0 0  1 0 0  1 3 0  -  5 10  1
+Mariners........ 3 0 4  1 1 0  0 0    -  9 10  0
+
+[1]Orioles (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Kazmir LOSS(0-1)           2 1/3   3   6   6   3   2   2  11.05  A1 B5
+C.Ray                        0 2/3   3   2   2   0   1   1  27.00  B6 C1
+B.Boyer                      3       3   1   0   0   3   0   0.00  C2 D5
+C.Politte                    2       1   0   0   0   1   0   9.00  D6
+[1]Totals                    8      10   9   8   3   7   3
+
+[1]Mariners (2-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vargas WIN(1-0)            6 2/3   6   2   2   3   7   0   2.70  A1 D2
+J.Mateo                      0 2/3   4   3   3   0   0   2  10.12  D3 D8
+J.Putz                       0 2/3   0   0   0   0   0   0   9.00  D9 E1
+E.Guardado                   1       0   0   0   0   1   0   6.75  E2
+[1]Totals                    9      10   5   5   3   8   2
+
+ATTENDANCE- 49,211 DATE-  TIME- Night 
+T- 2:59
+LEFT ON BASE- Orioles: 8  Mariners: 5
+DOUBLE PLAYS- Orioles: 1  Mariners: 1
+ERRORS- J.Gibbons
+DOUBLES- D.Eckstein(2nd), R.Sexson(2nd), M.Mora(1st), C.Beltran(2nd),
+         C.Guillen(2nd), J.Ellison(1st)
+HOME RUNS- R.Sexson(3rd), C.Beltran(1st), C.Guillen(2nd), J.Vidro(1st),
+           J.Posada(1st)
+STOLEN BASES- G.Sheffield(1st), A.Rodriguez(2nd)
+WALKS- D.Eckstein, B.Roberts, J.Gibbons, Y.Betancourt, G.Sheffield, A.Rodriguez
+HIT BY PITCH- V.Guerrero, A.Rodriguez-2
+STRIKE OUTS- B.Roberts-2, B.Kielty-3, R.Sexson, C.Beltran, J.Kendall,
+             Y.Betancourt-2, G.Sheffield-3, J.Vidro, I.Suzuki
+GIDP- J.Posada
+BALKS- S.Kazmir
+WILD PITCHES- S.Kazmir, B.Boyer
+
+The Seattle Mariners toppled the Baltimore Orioles by a 9 to 5 score at SAFECO
+Field.
+
+Seattle drew first blood jumping out to an early lead in the first inning as
+they scored 3 runs on 2 base hits.  The key at-bat was by Jason Ellison who
+made the crowd happy when he doubled scoring two baserunners.  Seattle and
+Baltimore each finished the night with 10 hits.  
+
+The win was credited to Jason Vargas(1-0) who went 6 and 2/3 innings allowing
+2 runs. Scott Kazmir(0-1) was hit with the loss.  Seattle scored big getting
+6 runs off him in 2 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2006 Baltimore Orioles at 2006 Seattle Mariners
+D.Eckste-A1  A1:W>b1    B1:Do      C1:F/9     D1:Si>3#   E1:F/8
+                                                         
+                                                         
+B.Robert-A1  A2:K       B2:L-DP/5  C2:F/8     D2:W>12 b  *9*:K
+                        4>2o                  1          
+                                                         
+B.Kielty-A1  A3:K       *4*:K      *6*:K      D3:Si>23   E3:G/31
+R.Palmei-D3                                   12         
+                                                         
+V.Guerre-A1  A4:F/9     B4:HBP     C4:F/8     D4:P/6     E4:G/43
+                                                         
+                                                         
+R.Sexson-A1  *2*:K      B5:Si>13   C5:Do      *8*:HR>b#
+                                              
+                                              
+J.Gibbon-A1  A6:W>b1    B6:L/4     C6:F/7     D6:P/3
+                                              
+                                              
+M.Mora-A1    A7:G/3>12  B7:Si>3#   *7*:G/43   D7:Do
+                        12                    
+                                              
+C.Beltra-A1  A8:K       B8:F/9     C8:Do      D8:HR>2#
+                                              b#
+                                              
+J.Kendal-A1  *3*:K      *5*:F/7    C9:G/63>2  D9:F/8
+                                   3          
+                                              
+
+C.Guille-A1  A1:HR>b#   B1:G/63    C1:Do>13   *6*:G/43   E1:L/4
+                                                         
+                                                         
+Y.Betanc-A1  A2:K       *3*:W>b1   C2:L/3     D2:Si      E2:K
+                                                         
+                                                         
+G.Sheffi-A1  A3:W>b1    B3:Bk>12   C3:WP>3#   D3:K
+J.Reed-D6               K          23 K       
+                                              
+A.Rodrig-A1  A4:SB>12   B4:WP>23   C4:HBP     D4:Si>12
+             HBP        IW>b1                 
+                                              
+J.Vidro-A1   A5:L/6     B5:SB>12   C5:G/31    D5:K
+                        HR>3# 2#              
+                        b#                    
+J.Elliso-A1  A6:Do>2#   B6:L/6     *5*:G/13   *7*:Si
+C.Delgad-D6  1#                               
+C.Crawfo-D9                                   
+J.Posada-A1  A7:L/6     B7:HR>b#   C7:Si+E/7  D7:G-DP/3
+                                              63>1o
+                                              
+I.Suzuki-A1  *2*:F/7    B8:K       C8:G/63>3  D8:F/7
+                                   #          
+                                              
+J.Valent-A1  A9:G/43    *4*:Si     C9:G/63    *8*:FO/2
+                                              
+                                              
+
+

@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2004 Houston Astros At 2004 Philadelphia Phillies        10/24/2004
+
+[1]  Astros             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  C.Biggio CF         3  1  0  0 .000     B.Abreu RF          4  0  0  0 .000  
+  P.Polanco 2B        3  0  0  0 .000     B.Boone 2B          4  1  1  0 .250  
+  C.Jones DH          3  1  0  0 .000     L.Gonzalez LF       4  1  2  0 .500  
+  J.Bagwell 1B        4  2  2  3 .500     J.Edmonds C ,CF     3  0  0  0 .000  
+  L.Berkman LF        4  0  0  0 .000     M.Lieberthal CF,C   4  1  1  2 .250  
+  R.Hidalgo RF        3  0  0  1 .000     S.Rolen 3B          4  0  1  0 .250  
+  P.Feliz 3B          3  1  1  1 .333     F.Thomas DH         2  1  1  1 .500  
+  A.Cintron SS        2  0  0  0 .000   A-M.Byrd PH           0  0  0  0 ----  
+  D.Wilson C          3  0  0  0 .000     A.Galarraga 1B      3  0  1  1 .333  
+                                          J.Rollins SS        3  0  0  0 .000  
+                                        B-T.Pratt PH          1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  5  3  5                 Totals      32  4  7  4
+
+A-Pinch Hit For Thomas In 6th Inning
+B-Pinch Hit For Rollins In 9th Inning
+
+Astros.......... 0 2 3  0 0 0  0 0 0  -  5  3  0
+Phillies........ 0 0 0  0 1 3  0 0 0  -  4  7  1
+
+[1]Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Oswalt WIN(1-0)            5 1/3   6   4   4   2   8   1   6.75  A1 C5
+J.Valverde HOLD(1st)         0 2/3   1   0   0   2   0   0   0.00  C6 D1
+D.Kolb HOLD(1st)             2 1/3   0   0   0   1   0   0   0.00  D2 D9
+O.Dotel SAVE(1st)            0 2/3   0   0   0   0   1   0   0.00  E1
+[1]Totals                    9       7   4   4   5   9   1
+
+[1]Phillies                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Wolf LOSS(0-1)             2 1/3   3   5   5   3   1   2  19.29  A1 B4
+G.Mota                       4       0   0   0   0   3   0   0.00  B5 C7
+S.Shields                    2 2/3   0   0   0   0   1   0   0.00  C8
+[1]Totals                    9       3   5   5   3   5   2
+
+ATTENDANCE- 61,989 DATE-  TIME- Day 
+UMPIRES- Jerry Crawford, Mike Everett, Brian Gorman, Mike Dimuro
+T- 2:36
+LEFT ON BASE- Astros: 1  Phillies: 7
+DOUBLE PLAYS- Astros: 1  Phillies: 1
+ERRORS- G.Mota
+DOUBLES- J.Bagwell(1st), M.Lieberthal(1st), S.Rolen(1st)
+HOME RUNS- J.Bagwell(1st), P.Feliz(1st), F.Thomas(1st)
+SACRIFICE HITS- P.Polanco, B.Boone
+SACRIFICE FLIES- R.Hidalgo
+WALKS- C.Biggio, C.Jones, A.Cintron, B.Abreu, J.Edmonds, M.Byrd-2, A.Galarraga
+STRIKE OUTS- L.Berkman-3, R.Hidalgo, P.Feliz, B.Abreu-2, B.Boone-2, L.Gonzalez,
+             J.Edmonds-2, A.Galarraga, J.Rollins
+GIDP- C.Jones, M.Lieberthal
+WILD PITCHES- R.Wolf
+
+First baseman Jeff Bagwell touched them all and had 3 RBI at Veterans Stadium
+where the Houston Astros beat the Philadelphia Phillies by the score of 5 to
+4.
+
+Roy Oswalt(1-0) contributed a pedestrian performance to earn the win.  He went
+5 and 1/3 innings surrendering 6 hits and 2 walks.  Oswalt racked up 8
+strikeouts.  Houston took care of Philadelphia with no trouble in the bottom
+of the 9th.  
+
+Oswalt got relief help from Octavio Dotel who gained credit for his 1st save.
+Randy Wolf(0-1) was the loser.  He gave up 5 runs in 2 and 1/3 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2004 Houston Astros at 2004 Philadelphia Phillies
+C.Biggio-A1  A1:G/43    *3*:W>b1   *5*:F/7    *8*:G/53
+                                              
+                                              
+P.Polanc-A1  A2:G/63    B2:Sac/34  C2:E/1     D2:G/31
+                        >12                   
+                                              
+C.Jones-A1   A3:L/6     B3:W>b1    C3:G-DP/4  D3:G/43
+                                   63>1o      
+                                              
+J.Bagwel-A1  *2*:Do     B4:HR>2#   *6*:G/13   *9*:G/43
+                        1# b#                 
+                                              
+L.Berkma-A1  A5:WP>23   B5:K       C5:K       D5:F/7
+             K                                
+                                              
+R.Hidalg-A1  A6:SF/7>3  B6:F/7     C6:L/6     D6:K
+             #                                
+                                              
+P.Feliz-A1   A7:HR>b#   *4*:G/13   *7*:K
+                                   
+                                   
+A.Cintro-A1  A8:W>b1    B8:L/4     C8:G/13
+                                   
+                                   
+D.Wilson-A1  A9:G>12    B9:G/63    C9:G/53
+                                   
+                                   
+
+B.Abreu-A1   A1:G/43    *3*:K      C1:K       *7*:W>b1   E1:F/8
+                                                         
+                                                         
+B.Boone-A1   A2:K       B2:G/53    *6*:Si     D2:Sac/54  E2:K
+                                              >12        
+                                                         
+L.Gonzal-A1  A3:Si      B3:K       C3:Si>12   D3:G/43
+                                              
+                                              
+J.Edmond-A1  A4:K       *4*:W>b1   C4:K       D4:F/9
+                                              
+                                              
+M.Lieber-A1  *2*:F      B5:G-DP/6  C5:Do>2#   *8*:F/7
+                        43>1o      1#         
+                                              
+S.Rolen-A1   A6:Do      B6:P/6     C6:G/43>2  D6:G/13
+                                   3          
+                                              
+F.Thomas-A1  A7:G       *5*:HR>b#  C7:W>b1    D7:W>b1
+M.Byrd-C7                                     
+                                              
+A.Galarr-A1  A8:W>b1    B8:K       C8:Si>3#   D8:F/9
+                                   13         
+                                              
+J.Rollin-A1  A9:F       B9:K       C9:P/6     *9*:G/63
+T.Pratt-D9                                    
+                                              
+
+

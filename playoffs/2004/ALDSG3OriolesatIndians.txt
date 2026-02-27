@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2004 Baltimore Orioles At 2004 Cleveland Indians         10/10/2004
+[1]ALDS Game 3 - Orioles @ Indians - Indians lead 2-1
+
+[1]  Orioles            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  J.Kendall C         4  1  1  0 .214     M.Bradley CF        4  1  1  0 .286  
+  M.Mora LF           4  1  2  1 .333     A.Melhuse C         3  1  1  1 .333  
+  S.Finley CF         4  1  1  0 .308     J.Thome 1B          4  1  2  3 .182  
+  R.Sexson 1B         4  0  0  0 .167     M.Ramirez DH        4  1  2  1 .385  
+  V.Guerrero RF       3  0  2  1 .667     J.Gerut RF          4  1  2  0 .583  
+  A.Soriano 2B        3  0  0  0 .167     J.Kent 2B           3  0  0  0 .182  
+  J.Gibbons DH        3  0  0  0 .000   A-B.Phillips PR,2B    0  0  0  0 ----  
+  T.Batista 3B        3  0  0  0 .000     N.Garciaparra SS    4  1  1  2 .273  
+  C.Guzman SS         3  0  0  0 .200     K.Lofton LF         2  0  0  0 .500  
+                                        B-C.Crisp LF          1  0  0  0 .000  
+                                          C.Blake 3B          4  1  2  0 .231  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  6  2                 Totals      33  7 11  7
+
+A-Pinch Ran For Kent In 7th Inning
+B-Subbed Defensively (LF) For Lofton In 8th Inning
+
+Orioles......... 0 0 0  0 0 0  2 0 1  -  3  6  0
+Indians......... 5 0 0  0 0 1  1 0    -  7 11  0
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Schilling LOSS(0-1)        0 2/3   4   5   5   1   2   2  67.50  A1 A7
+R.Bauer                      3 1/3   3   0   0   2   2   0   0.00  A8 C4
+T.Harper                     2       4   2   2   0   1   1  13.50  C5 D4
+K.Foulke                     2       0   0   0   1   4   0   3.18  D5
+[1]Totals                    8      11   7   7   4   9   3
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon WIN(1-0)             6 1/3   3   2   2   0   5   1   2.84  A1 C4
+D.Baez                       0 2/3   1   0   0   0   0   0  13.50  C5 C6
+D.Davis                      0 2/3   0   0   0   0   0   0   0.00  C7 C8
+D.Riske                      1 1/3   2   1   1   0   0   0   6.75  C9
+[1]Totals                    9       6   3   3   0   5   1
+
+ATTENDANCE- 39,579 DATE-  TIME- Day 
+UMPIRES- Paul Emmel, Gerry Davis, Chris Guccione, Rich Rieker
+T- 2:30
+LEFT ON BASE- Orioles: 1  Indians: 6
+DOUBLE PLAYS- Orioles: 1  Indians: 2
+DOUBLES- S.Finley(2nd), J.Gerut(3rd), C.Blake(1st)
+HOME RUNS- M.Mora(1st), J.Thome(1st), M.Ramirez(2nd), N.Garciaparra(1st)
+STOLEN BASES- K.Lofton(2nd)
+CAUGHT STEALING- B.Phillips
+WALKS- M.Bradley, A.Melhuse, J.Kent, K.Lofton
+STRIKE OUTS- S.Finley-2, A.Soriano, T.Batista, C.Guzman, A.Melhuse, J.Thome,
+             M.Ramirez, J.Gerut, J.Kent, N.Garciaparra, C.Crisp, C.Blake-2
+GIDP- S.Finley, A.Soriano, J.Kent
+
+Bartolo Colon had a strong outing at Jacobs Field as the Cleveland Indians
+beat the Baltimore Orioles 7 to 3.
+
+Colon(1-0) gave Cleveland a solid outing.  He went 6 and 1/3 innings allowing
+3 hits and no walks.  Baltimore was out-hit by Cleveland, 11 hits to 6.
+
+Curt Schilling(0-1) was hit with the loss.  He gave up 5 runs and 4 hits in
+2/3 of an inning.
+[2]
+[1]SCORESHEET: 2004 Baltimore Orioles at 2004 Cleveland Indians
+J.Kendal-A1  A1:G/43    *4*:P/4    C1:F/7     *9*:Si
+                                              
+                                              
+M.Mora-A1    A2:G/13    B2:L/6     *7*:HR>b#  D2:Si>13
+                                              
+                                              
+S.Finley-A1  A3:K       B3:K       C3:Do      D3:G-DP/4
+                                              63>3# 1o
+                                              
+R.Sexson-A1  *2*:F/8    *5*:G/53   C4:G/43>2  D4:G/53
+                                   3          
+                                              
+V.Guerre-A1  A5:G/43    B5:Si      C5:Si>3#
+                                   
+                                   
+A.Sorian-A1  A6:F/7     B6:K       C6:G-DP/6
+                                   43>1o
+                                   
+J.Gibbon-A1  *3*:F/8    B7:F/9     *8*:F/9
+                                   
+                                   
+T.Batist-A1  A8:F/9     *6*:K      C8:G/63
+                                   
+                                   
+C.Guzman-A1  A9:G/43    B9:K       C9:L/4
+                                   
+                                   
+
+M.Bradle-A1  A1:Si      *2*:G/43   C1:W>12 b  D1:G/3>23  E1:L/4
+                                   1                     
+                                                         
+A.Melhus-A1  A2:W>12 b  B2:G/63    C2:K       D2:Si>3#
+             1                                
+                                              
+J.Thome-A1   A3:HR>2#   B3:Si      C3:Force/  D3:K
+             1# b#                 64>1o b1   
+                                              
+M.Ramire-A1  A4:K       B4:F/7     *5*:Si     *7*:HR>b#
+                                              
+                                              
+J.Gerut-A1   A5:Do      *3*:G/63   C5:Si>12   D5:K
+                                              
+                                              
+J.Kent-A1    A6:K       B6:L/6     C6:G-DP/6  D6:W>b1
+B.Philli-D7                        43>23 1o   
+                                              
+N.Garcia-A1  A7:HR>2#   B7:P/6     C7:P/6     D7:CS/24>
+             b#                               1o K
+                                              
+K.Lofton-A1  A8:W>b1    *4*:G/43   *6*:FO/2   *8*:K
+C.Crisp-D8                                    
+                                              
+C.Blake-A1   A9:SB>12   B9:Si      C9:Do      D9:K
+             K                                
+                                              
+
+

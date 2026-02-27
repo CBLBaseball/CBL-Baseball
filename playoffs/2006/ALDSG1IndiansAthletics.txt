@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2006 Cleveland Indians At 2006 Oakland Athletics          10/7/2006
+
+[1]  Indians            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  G.Sizemore CF       4  0  0  0 .000     R.Freel RF          4  0  2  0 .500  
+  C.Jones 3B          3  1  1  1 .333     D.Johnson 1B        3  0  1  0 .333  
+  M.Ramirez DH        4  1  2  0 .500   B-J.Giambi PH,1B      1  0  0  0 .000  
+  T.Clark 1B          4  1  1  1 .250     M.Ellis 2B          4  0  0  0 .000  
+  J.Kent 2B           3  0  1  1 .333     B.Crosby SS         3  0  0  0 .000  
+  V.Martinez C        3  1  1  1 .333     L.Gonzalez DH       3  0  2  0 .667  
+  J.Peralta SS        3  0  1  0 .333   D-K.Millar PH         1  0  0  0 .000  
+  C.Crisp LF          4  0  1  0 .250     J.Michaels LF       3  0  0  0 .000  
+  A.Kearns RF         4  0  0  0 .000     D.Dejesus CF        3  0  0  0 .000  
+                                          C.Snyder C          2  0  0  0 .000  
+                                        A-M.Tejada PH         1  0  0  0 .000  
+                                        C-R.Hernandez C       0  0  0  0 ----  
+                                          E.Chavez 3B         3  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  8  4                 Totals      31  0  6  0
+
+A-Pinch Hit For Snyder In 8th Inning
+B-Pinch Hit For Johnson In 8th Inning
+C-Subbed Defensively (C ) For Tejada In 9th Inning
+D-Pinch Hit For Gonzalez In 9th Inning
+
+Indians......... 0 1 0  1 0 2  0 0 0  -  4  8  0
+Athletics....... 0 0 0  0 0 0  0 0 0  -  0  6  0
+
+[1]Indians (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sabathia WIN(1-0)          7 2/3   6   0   0   0  10   0   0.00  A1 D1
+J.Valverde SAVE(1st)         1 1/3   0   0   0   1   1   0   0.00  D2
+[1]Totals                    9       6   0   0   1  11   0
+
+[1]Athletics (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren LOSS(0-1)            5 1/3   7   4   4   1   3   3   6.75  A1 C5
+D.Cortes                     1 2/3   0   0   0   0   2   0   0.00  C6 D1
+J.Duchschere                 2       1   0   0   2   2   0   0.00  D2
+[1]Totals                    9       8   4   4   3   7   3
+
+ATTENDANCE- 47,417 DATE-  TIME- Day 
+UMPIRES- Kevin Gordon, , , 
+T- 2:36
+LEFT ON BASE- Indians: 5  Athletics: 5
+DOUBLE PLAYS- Indians: 2  Athletics: 2
+DOUBLES- M.Ramirez-2(2nd), J.Kent(1st), L.Gonzalez(1st)
+HOME RUNS- C.Jones(1st), T.Clark(1st), V.Martinez(1st)
+SACRIFICE FLIES- J.Kent
+WALKS- C.Jones, V.Martinez, J.Peralta, B.Crosby
+STRIKE OUTS- C.Jones, M.Ramirez, J.Kent-2, V.Martinez-2, C.Crisp, R.Freel-2,
+             D.Johnson-2, M.Ellis-2, B.Crosby, J.Michaels, D.Dejesus, C.Snyder,
+             E.Chavez
+GIDP- G.Sizemore, C.Crisp, M.Ellis, K.Millar
+WILD PITCHES- D.Cortes
+
+C.C. Sabathia whiffed 10 batters at McAfee Coliseum where the Cleveland
+Indians beat the Oakland Athletics 4 to 0.
+
+Sabathia(1-0) had a strong outing.  He didn't allow much, just 6 hits and no
+walks in 7 and 2/3 innings.  Cleveland had 8 hits for the afternoon.  
+
+Jose Valverde recorded the save, his 1st.  Dan Haren(0-1) was hit with the
+loss.  He allowed 3 homeruns in 5 and 1/3 innings of work.  
+
+Sabathia, when asked about his 10 strikeout performance noted, 'The important
+thing is that we won, if I get 20 and we lose, what good does it do our team?
+But, on the other hand, since we won it feels great!'
+[2]
+[1]SCORESHEET: 2006 Cleveland Indians at 2006 Oakland Athletics
+G.Sizemo-A1  A1:G/63    B1:G/43    C1:G-DP/6  D1:P/4
+                                   43>1o      
+                                              
+C.Jones-A1   A2:L/4     B2:K       *6*:HR>b#  *8*:W>b1
+                                              
+                                              
+M.Ramire-A1  A3:G/63    *4*:Do     C3:K       D3:Do>13
+                                              
+                                              
+T.Clark-A1   *2*:F/9    B4:G/3>23  C4:HR>b#   D4:F/9
+                                              
+                                              
+J.Kent-A1    A5:K       B5:SF/7>3  C5:Do      D5:K
+                        #                     
+                                              
+V.Martin-A1  A6:HR>b#   B6:W>b1    C6:K       D6:K
+                                              
+                                              
+J.Peralt-A1  A7:Si      B7:F/8     C7:WP>23   *9*:W>b1
+                                   L/6        
+                                              
+C.Crisp-A1   A8:L/4     *5*:Si     *7*:K      D8:G-DP/4
+                                              63>1o
+                                              
+A.Kearns-A1  *3*:F/8    B9:F/7     C9:F/8     D9:G/63
+                                              
+                                              
+
+R.Freel-A1   A1:Si      B1:K       *6*:K      D1:Si>13
+                                              
+                                              
+D.Johnso-A1  A2:K       *4*:Si     C2:K       D2:G/13
+J.Giambi-D2                                   
+                                              
+M.Ellis-A1   A3:G-DP/6  B3:K       C3:G/63    *9*:K
+             43>1o                            
+                                              
+B.Crosby-A1  *2*:G/53   B4:F/8     *7*:K      D4:W>b1
+                                              
+                                              
+L.Gonzal-A1  A5:Do      B5:Si>12   C5:G/53    D5:G-DP/6
+K.Millar-D5                                   43>1o
+                                              
+J.Michae-A1  A6:K       B6:FO/2    C6:F/9
+                                   
+                                   
+D.Dejesu-A1  A7:G/43    *5*:K      *8*:F/7
+                                   
+                                   
+C.Snyder-A1  *3*:F/7    B8:K       C8:G/63
+M.Tejada-C8                        
+R.Hernan-D3                        
+E.Chavez-A1  A9:K       B9:G/43    C9:Si
+                                   
+                                   
+
+

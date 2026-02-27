@@ -1,0 +1,64 @@
+[1]BOXSCORE: 2004 Cleveland Indians At 2004 New York (NL) Mets         11/7/2004
+
+[1]  Indians            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  N.Garciaparra SS    6  3  4  6 .290     J.Reyes SS          5  2  2  4 .350  
+  M.Bradley CF        6  0  1  1 .233     L.Walker RF         5  2  3  1 .231  
+  M.Ramirez DH        4  1  0  0 .424     A.Huff DH           6  1  1  2 .333  
+  J.Thome 1B          4  2  2  3 .194     J.Drew CF           6  1  3  1 .381  
+  J.Kent 2B           5  0  1  0 .209     K.Garcia LF         2  0  2  0 .222  
+  J.Gerut RF          5  1  1  1 .279   A-S.Spencer PH,LF     3  0  1  1 .143  
+  C.Blake 3B          3  0  0  0 .228     J.Olerud 1B         5  0  0  0 .000  
+  K.Lofton LF         4  1  0  0 .235   F-M.Grissom PH        1  0  0  0 .286  
+  M.Matheny C         3  2  2  0 .205     R.Ventura 3B        4  0  0  0 .105  
+B-M.Lawton PH         1  0  0  0 .133   D-T.Wigginton PH,3B   0  0  0  0 .571  
+C-V.Martinez C        1  1  1  0 .600     V.Wilson C          4  1  3  0 .300  
+                                        E-J.Phillips PH,C     1  0  0  0 .143  
+                                          R.Alomar 2B         2  2  2  0 .364  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42 11 12 11                 Totals      44  9 17  9
+
+A-Pinch Hit For Garcia In 5th Inning
+B-Pinch Hit For Matheny In 8th Inning
+C-Subbed Defensively (C ) For Lawton In 8th Inning
+D-Pinch Hit For Ventura In 9th Inning
+E-Pinch Hit For Wilson In 9th Inning
+F-Pinch Hit For Olerud In 10th Inning
+
+Indians......... 1 0 0  0 4 1  0 0 1  4 - 11 12  1
+Mets............ 2 2 0  2 0 0  1 0 0  2 -  9 17  1
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA
+A.Eaton                   1 2/3   5   4   4   0   0   2   6.00
+R.Mahay                   1 2/3   3   2   2   0   1   0   4.73
+E.Ramirez                 2 1/3   2   0   0   0   1   0   0.00
+D.Riske                   3       3   1   1   1   5   1   3.54
+D.Davis WIN(1-0)          1       3   2   2   1   0   0  10.80
+D.Baez SAVE(1st)          0 1/3   1   0   0   0   1   0   2.38
+[1]Totals                   10      17   9   9   2   8   3
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA
+S.Trachsel                4 1/3   6   5   5   3   2   2   6.52
+J.Smoltz                  3       2   1   1   1   5   0   2.60
+T.Gordon L(1-2) BS(1st)   2       2   3   3   1   3   2   3.60
+J.Lopez                   0 2/3   2   2   2   0   0   1   7.71
+[1]Totals                   10      12  11  11   5  10   5
+
+ATTENDANCE- 53,918 DATE-  TIME- Night 
+UMPIRES- Mike Everett, Brian Gorman, Mike Dimuro, Jerry Crawford
+T- 3:38
+LEFT ON BASE- Indians: 7  Mets:12
+DOUBLE PLAYS- Indians: 0  Mets: 1
+ERRORS- R.Mahay, S.Spencer
+DOUBLES- N.Garciaparra(5th), J.Reyes(1st), K.Garcia(1st)
+TRIPLES- N.Garciaparra(3rd), R.Alomar(1st)
+HOME RUNS- N.Garciaparra-2(4th), J.Thome-2(5th), J.Gerut(7th), J.Reyes(2nd),
+           A.Huff(2nd), J.Drew(2nd)
+SACRIFICE HITS- S.Spencer, R.Alomar-3
+SACRIFICE FLIES- J.Reyes
+WALKS- M.Ramirez, J.Thome, C.Blake-2, K.Lofton, L.Walker, T.Wigginton
+HIT BY PITCH- M.Ramirez
+STRIKE OUTS- N.Garciaparra, M.Bradley, J.Thome, J.Kent, J.Gerut, C.Blake-3,
+             K.Lofton, M.Matheny, J.Reyes, A.Huff, S.Spencer, J.Olerud-2,
+             M.Grissom, R.Ventura-2
+GIDP- M.Ramirez
+WILD PITCHES- D.Davis

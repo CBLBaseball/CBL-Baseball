@@ -1,0 +1,113 @@
+[1]BOXSCORE: 2004 New York (NL) Mets At 2004 Chicago (NL) Cubs        10/17/2004
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  R.Alomar 2B         3  0  0  0 .167     M.Grudzielanek 2B   3  1  1  1 .357  
+  L.Walker RF         4  0  0  1 .148     C.Baerga DH         4  1  2  0 .238  
+  A.Huff DH           4  0  1  0 .214     B.Bonds LF          2  0  1  0 .211  
+  J.Drew CF           4  0  1  0 .292     S.Sosa RF           4  0  1  1 .286  
+  J.Phillips C        4  1  2  1 .250     D.Lee 1B            4  0  0  0 .087  
+  J.Olerud 1B         2  1  0  0 .130     V.Castilla 3B       4  0  0  0 .286  
+  E.Perez LF          4  0  0  0 .143     C.Singleton CF      4  0  0  0 .000  
+A-S.Spencer LF        0  0  0  0 .000     A.Gonzalez SS       4  0  0  0 .071  
+  R.Ventura 3B        3  1  0  0 .040     D.Miller C          3  0  0  0 .000  
+  R.Clayton SS        4  0  3  1 .571                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  7  3                 Totals      32  2  5  2
+
+A-Subbed Defensively (LF) For Perez In 8th Inning
+
+Mets............ 0 2 1  0 0 0  0 0 0  -  3  7  0
+Cubs............ 1 0 0  0 0 0  0 1 0  -  2  5  0
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Brown WIN(1-1)             5       3   1   1   1   5   1   4.20  A1 C2
+J.Smoltz HOLD(2nd)           2 2/3   2   1   1   1   2   0   0.90  C3 D4
+T.Gordon SAVE(2nd)           1 1/3   0   0   0   0   1   0   1.32  D5
+[1]Totals                    9       5   2   2   2   8   1
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Wood LOSS(1-1)             9       7   3   3   6  12   1   2.59  A1
+[1]Totals                    9       7   3   3   6  12   1
+
+ATTENDANCE- 36,392 DATE-  TIME- Day 
+UMPIRES- Marvin Hudson, Gary Cederstrom, Dale Scott, Ian Lamplugh
+T- 2:43
+LEFT ON BASE- Mets: 9  Cubs: 6
+DOUBLE PLAYS- Mets: 0  Cubs: 1
+DOUBLES- J.Phillips(1st), R.Clayton(1st)
+HOME RUNS- J.Phillips(2nd), M.Grudzielanek(1st)
+SACRIFICE HITS- R.Alomar
+WALKS- R.Alomar, L.Walker, A.Huff, J.Olerud-2, R.Ventura, B.Bonds-2
+HIT BY PITCH- M.Grudzielanek
+STRIKE OUTS- R.Alomar-3, L.Walker, J.Drew, J.Phillips-2, E.Perez-3, R.Ventura-2,
+             B.Bonds, S.Sosa, D.Lee-2, V.Castilla-2, C.Singleton, D.Miller
+GIDP- J.Drew
+
+36,392 fans watched an exciting game at Wrigley Field.  The New York (NL) Mets
+topped the Chicago (NL) Cubs by the slimmest of margins, 3 to 2.
+
+Kevin Brown(1-1) pitched a fine game.  He surrendered 3 hits and 1 walk in 5
+innings lowering his ERA from 5.40 to 4.20.  Brown was helped out by Tom
+Gordon who pitched a perfect ninth and recorded his 2nd save.  
+
+Kerry Wood(1-1) suffered the loss.  He struck out 12 batters in 9 innings
+despite losing the game.
+[2]
+[1]SCORESHEET: 2004 New York (NL) Mets at 2004 Chicago (NL) Cubs
+R.Alomar-A1  A1:K       B1:W>b1    C1:Sac/24  D1:K       E1:K
+                                   >12                   
+                                                         
+L.Walker-A1  A2:W>b1    B2:G/63>3  C2:K       *7*:G/43   E2:F/8
+                        # 23 12                          
+                                                         
+A.Huff-A1    A3:Si>12   B3:G/63    C3:F/8     D3:W>b1    E3:G/43
+                                                         
+                                                         
+J.Drew-A1    A4:F/9>23  *3*:K      *5*:Si     D4:G-DP/4
+                                              63>1o
+                                              
+J.Philli-A1  A5:K       B5:HR>b#   C5:K       *8*:Do
+                                              
+                                              
+J.Olerud-A1  *2*:W>b1   B6:W>b1    C6:F/8     D6:F/9>23
+                                              
+                                              
+E.Perez-A1   A7:K       B7:K       C7:G/63    D7:K
+S.Spence-D9                                   
+                                              
+R.Ventur-A1  A8:W>12 b  B8:K       *6*:L/4    D8:K
+             1                                
+                                              
+R.Clayto-A1  A9:Do>2#   *4*:Si     C9:G/43    *9*:Si
+             13                               
+                                              
+
+M.Grudzi-A1  A1:HR>b#   B1:HBP     C1:F/8     D1:G/63
+                                              
+                                              
+C.Baerga-A1  A2:L/4     B2:Si>13   C2:F/9     D2:Si
+                                              
+                                              
+B.Bonds-A1   A3:Si      B3:W>12 b  *6*:K      D3:W>12 b
+                        1                     1
+                                              
+S.Sosa-A1    A4:K       B4:L/6     C4:G/63    D4:Si>2#
+                                              13
+                                              
+D.Lee-A1     A5:F/8     B5:K       C5:G/53    D5:K
+                                              
+                                              
+V.Castil-A1  *2*:G/63   *4*:K      *7*:K      *9*:F/8
+                                              
+                                              
+C.Single-A1  A7:G/43    B7:K       C7:L/3     D7:G/43
+                                              
+                                              
+A.Gonzal-A1  A8:G/53    B8:P/6     C8:L/6     D8:G/43
+                                              
+                                              
+D.Miller-A1  *3*:G/63   *5*:K      *8*:F/7
+                                   
+                                   
+
+

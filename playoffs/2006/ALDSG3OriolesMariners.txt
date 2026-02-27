@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2006 Baltimore Orioles At 2006 Seattle Mariners           10/5/2006
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  D.Eckstein SS       6  1  1  1 .200     J.Ellison CF        4  1  1  0 .250  
+  B.Roberts 2B        5  2  1  0 .214     J.Posada C          4  0  0  1 .000  
+  V.Guerrero RF       6  3  4  1 .600     G.Sheffield DH      3  0  0  1 .167  
+  R.Sexson 1B         4  2  2  1 .364     A.Rodriguez 3B      3  0  0  0 .100  
+  J.Gibbons LF        6  2  4  7 .385     T.Wigginton 1B      4  0  0  0 .286  
+  R.Palmeiro DH       5  1  3  0 .500     J.Vidro 2B          4  0  1  0 .273  
+  M.Mora 3B           6  0  1  0 .167     I.Suzuki RF         4  0  1  0 .214  
+  C.Beltran CF        5  2  3  1 .333     Y.Betancourt SS     3  0  1  0 .333  
+  J.Kendall C         4  0  2  1 .333     C.Crawford LF       3  1  1  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      47 13 21 12                 Totals      32  2  5  2
+
+
+Orioles......... 1 0 4  1 0 0  2 1 4  - 13 21  1
+Mariners........ 0 0 2  0 0 0  0 0 0  -  2  5  0
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson WIN(1-0)           9       5   2   1   1   9   0   1.00  A1
+[1]Totals                    9       5   2   1   1   9   0
+
+[1]Mariners (1-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Chen LOSS(0-1)             2 2/3   6   5   5   2   2   1  16.87  A1 B8
+J.Putz                       0 1/3   3   1   1   0   0   0  27.00  B9 C3
+K.Saarloos                   3       4   2   2   0   2   1   6.00  C4 D6
+R.Springer                   0 1/3   2   0   0   0   0   0   0.00  D7 D9
+E.Guardado                   2 2/3   6   5   5   2   1   1   7.94  E1
+[1]Totals                    9      21  13  13   4   5   3
+
+ATTENDANCE- 49,841 DATE-  TIME- Night 
+T- 3:09
+LEFT ON BASE- Orioles:12  Mariners: 5
+DOUBLE PLAYS- Orioles: 0  Mariners: 1
+ERRORS- B.Roberts
+DOUBLES- D.Eckstein(1st), V.Guerrero(3rd), R.Sexson(1st), J.Gibbons-2(3rd),
+         R.Palmeiro(1st), C.Beltran(1st), Y.Betancourt(1st)
+TRIPLES- B.Roberts(1st), C.Beltran(1st)
+HOME RUNS- R.Sexson(2nd), J.Gibbons-2(2nd)
+STOLEN BASES- C.Beltran(1st), J.Ellison(2nd), C.Crawford(1st)
+SACRIFICE FLIES- G.Sheffield
+WALKS- B.Roberts, R.Sexson-2, R.Palmeiro, A.Rodriguez
+HIT BY PITCH- J.Kendall
+STRIKE OUTS- B.Roberts-3, M.Mora, C.Beltran, J.Ellison, A.Rodriguez,
+             T.Wigginton, J.Vidro-2, I.Suzuki, Y.Betancourt-2, C.Crawford
+GIDP- J.Gibbons
+WILD PITCHES- B.Chen, J.Putz, E.Guardado
+
+Left fielder Jay Gibbons blasted 2 homeruns and had 7 RBI and Randy Johnson
+pitched 9 strong innings as the Baltimore Orioles man-handled the Seattle
+Mariners - the final score was 13 to 2.
+
+Gibbons was a one-man wrecking crew.  He doubled which plated a run in the 1st
+inning, lifted one out of the park for a two run home run in the 3rd inning,
+popped a two-run clout over the fence (his 2nd of the season) in the 7th
+inning and doubled which was good for two runs in the 9th inning.  Baltimore
+provided plenty of action in the 3rd inning which saw them plate 4 runs on 5
+hits and the 9th inning with 4 runs on 4 hits.  Baltimore dominated
+offensively as they scored in 6 different innings.  
+
+Johnson(1-0) allowed 2 runs on the game. Bruce Chen(0-1) took the loss.  He
+was hit hard and gave up 6 hits and 2 walks in 2 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2006 Baltimore Orioles at 2006 Seattle Mariners
+D.Eckste-A1  A1:FO/5    B1:FO/5    C1:F/8     *6*:G/53   E1:Force/  F1:Do>2#
+                                                         32>3o 23   
+                                                         12 b1      
+B.Robert-A1  A2:K       B2:WP>12   *4*:Tr     D2:K       E2:K       F2:W>b1
+                        G/63                                        
+                                                                    
+V.Guerre-A1  A3:Si      *3*:Si     C3:WP>3#   D3:G/53    *8*:G/43   F3:Do>2#
+                                   Si                               13
+                                                                    
+R.Sexson-A1  A4:W>12 b  B4:F/7     C4:F/8     *7*:Do     E4:HR>b#   F4:W>b1
+             1                                                      
+                                                                    
+J.Gibbon-A1  A5:Do>2#   B5:HR>1#   C5:G-DP/1  D5:HR>2#   E5:L/3     F5:Do>3#
+             13         b#         63>1o      b#                    2# 13
+                                                                    
+R.Palmei-A1  A6:IW>b1   B6:Do      *5*:L/4    D6:Si      E6:Si      F6:L/4
+                                                                    
+                                                                    
+M.Mora-A1    A7:P/6     B7:G/43>2  C7:K       D7:Si>12   E7:WP>12   F7:P/5
+                        3                                L/6        
+                                                                    
+C.Beltra-A1  *2*:K      B8:Si>3#   C8:Tr      D8:L/4     *9*:Do
+                                                         
+                                                         
+J.Kendal-A1  A9:HBP     B9:SB>12   C9:G/63    D9:Si>23   E9:P/5
+                        Si>2#                 12         
+                                                         
+
+J.Elliso-A1  A1:F/9     B1:Si>12   *5*:F/9    D1:K
+                                              
+                                              
+J.Posada-A1  A2:G/43    B2:SB>23   C2:L/6     *8*:L/6
+                        12 E/4>3#             
+                        23                    
+G.Sheffi-A1  A3:G/63    B3:SF/7>3  C3:F/7     D3:G/53
+                        #                     
+                                              
+A.Rodrig-A1  *2*:W>b1   B4:K       *6*:G/53   D4:G/63
+                                              
+                                              
+T.Wiggin-A1  A5:P/2     B5:FO/5    C5:K       *9*:G/63
+                                              
+                                              
+J.Vidro-A1   A6:Si>12   *4*:K      C6:F/7     D6:K
+                                              
+                                              
+I.Suzuki-A1  A7:K       B7:Si      *7*:G/63   D7:F/7
+                                              
+                                              
+Y.Betanc-A1  A8:K       B8:K       C8:Do
+                                   
+                                   
+C.Crawfo-A1  *3*:Si     B9:K       C9:F/7
+                                   
+                                   
+
+

@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2006 Seattle Mariners At 2006 Baltimore Orioles           10/4/2006
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  J.Ellison CF,LF     6  1  1  0 .167     D.Eckstein SS       5  0  1  2 .200  
+D-C.Crawford LF       0  0  0  0 ----     B.Roberts 2B        5  0  0  0 .000  
+  C.Guillen SS        6  1  3  2 .500     V.Guerrero RF       5  1  3  0 .600  
+  G.Sheffield LF      4  1  1  0 .250     M.Jacobs DH         3  2  2  2 .667  
+C-J.Reed CF           1  0  0  0 .000   B-B.Kielty PH         1  0  0  0 .000  
+  A.Rodriguez 3B      4  1  1  1 .250   E-R.Palmeiro PH       1  0  0  0 .000  
+  T.Wigginton DH      3  1  2  1 .667     R.Sexson 1B         3  1  2  2 .667  
+  J.Posada C          2  1  0  0 .000     J.Gibbons LF        3  1  0  0 .000  
+  J.Vidro 2B          2  0  0  1 .000     M.Mora 3B           3  1  0  0 .000  
+A-R.Aurilia PH,2B     2  2  2  41.000     C.Beltran CF        4  0  1  0 .250  
+  I.Suzuki RF         5  0  1  0 .200     J.Kendall C         4  0  1  0 .250  
+  C.Delgado 1B        5  1  1  0 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  9 12  9                 Totals      37  6 10  6
+
+A-Pinch Hit For Vidro In 7th Inning
+B-Pinch Hit For Jacobs In 7th Inning
+C-Subbed Defensively (CF) For Sheffield In 8th Inning
+D-Subbed Defensively (LF) For Ellison In 9th Inning
+E-Pinch Hit For Kielty In 9th Inning
+
+Mariners........ 0 0 1  0 1 2  1 4 0  -  9 12  0
+Orioles......... 2 0 0  4 0 0  0 0 0  -  6 10  2
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett                    3 2/3   6   6   6   2   5   2  14.73  A1 C1
+E.Guardado                   3       2   0   0   0   4   0   0.00  C2 D3
+C.Hammond WIN(1-0)           0 1/3   0   0   0   0   0   0   0.00  D4 D4
+J.Mateo SAVE(1st)            2       2   0   0   0   1   0   0.00  D5
+[1]Totals                    9      10   6   6   2  10   2
+
+[1]Orioles (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Kazmir                     5       5   4   3   6   4   0   5.40  A1 D1
+C.Politte L(0-1) BS(1st)     2 2/3   5   5   5   2   1   3  16.87  D2 E7
+K.Wunsch                     0 2/3   2   0   0   0   1   0   0.00  E8 F2
+B.Ryan                       0 2/3   0   0   0   0   1   0   0.00  F3
+[1]Totals                    9      12   9   8   8   7   3
+
+ATTENDANCE- 48,154 DATE-  TIME- Night 
+UMPIRES- Kevin Gordon, , , 
+T- 3:07
+LEFT ON BASE- Mariners:13  Orioles: 7
+DOUBLE PLAYS- Mariners: 0  Orioles: 0
+ERRORS- M.Mora, J.Kendall
+DOUBLES- C.Guillen(1st), T.Wigginton(1st), V.Guerrero(1st), M.Jacobs(1st)
+TRIPLES- C.Guillen(1st), T.Wigginton(1st)
+HOME RUNS- A.Rodriguez(1st), R.Aurilia-2(2nd), M.Jacobs(1st), R.Sexson(1st)
+STOLEN BASES- A.Rodriguez(1st)
+WALKS- G.Sheffield, A.Rodriguez, T.Wigginton-2, J.Posada-3, J.Vidro, J.Gibbons,
+       M.Mora
+HIT BY PITCH- A.Rodriguez, R.Sexson
+STRIKE OUTS- G.Sheffield, J.Reed, T.Wigginton, J.Posada-2, I.Suzuki, C.Delgado,
+             B.Roberts-3, V.Guerrero, M.Jacobs, R.Sexson, J.Gibbons-2,
+             J.Kendall-2
+WILD PITCHES- S.Kazmir-2
+
+Rich Aurilia slammed 2 homeruns and had 4 RBI at Camden Yards where the
+Seattle Mariners beat the Baltimore Orioles by the score of 9 to 6.
+
+Aurilia provided much of the offense.  He hit a bases-empty home run in the
+7th inning and belted a three-run homer (his 2nd of the season) in the 8th
+inning.  Seattle finished with 12 hits in the victory.  
+
+The win went to Chris Hammond(1-0) who allowed no runs in 1/3 of an inning.
+Julio Mateo got the save, his 1st.  Cliff Politte(0-1) was the loser in
+relief.  He allowed 3 homeruns in 2 and 2/3 innings of work.  
+
+[2]
+[1]SCORESHEET: 2006 Seattle Mariners at 2006 Baltimore Orioles
+J.Elliso-A1  A1:F/7     B1:F/9     C1:G/53    D1:E/2>12  E1:F/9     F1:Si
+C.Crawfo-F5                                                         
+                                                                    
+C.Guille-A1  A2:P/6     *3*:Tr     C2:G/13    D2:Do>2#   *8*:G/43   F2:Si>13
+                                              1#                    
+                                                                    
+G.Sheffi-A1  A3:Si      B3:K       *5*:W>b1   D3:G/63    E3:F/8     F3:K
+J.Reed-E9                                                           
+                                                                    
+A.Rodrig-A1  A4:HBP>12  B4:IW>b1   C4:WP>12   D4:F/7     E4:HR>b#   F4:L/6
+                                   E/5>23                           
+                                                                    
+T.Wiggin-A1  A5:WP>23   B5:SB>12   C5:Do>3#   D5:W>b1    E5:Tr
+             12 K       W>b1       1o                    
+                                                         
+J.Posada-A1  *2*:W>b1   B6:K       C6:W>b1    D6:K       E6:IW>b1
+                                                         
+                                                         
+J.Vidro-A1   A7:P/6     B7:W>3# 2  C7:F/8     *7*:HR>b#  E7:HR>3#
+R.Aurili-D7             3 12 b1                          1# b#
+                                                         
+I.Suzuki-A1  A8:Si>13   B8:Force/  C8:L/4     D8:F/9     E8:K
+                        64>1o b1                         
+                                                         
+C.Delgad-A1  A9:K       *4*:F/9    *6*:Si     D9:F/9     *9*:G/63
+                                                         
+                                                         
+
+D.Eckste-A1  A1:F/8     B1:G/63    C1:Si>3#   D1:G/3     *9*:L/5
+                                   2# 13                 
+                                                         
+B.Robert-A1  A2:F/9     B2:K       C2:K       *7*:K      E2:P/3
+                                                         
+                                                         
+V.Guerre-A1  A3:Si      *4*:K      *5*:Si     D3:G/43    E3:Do
+                                                         
+                                                         
+M.Jacobs-A1  A4:HR>1#   B4:Do      C4:K       D4:F/8     E4:F/8
+B.Kielty-D4  b#                                          
+R.Palmei-E4                                              
+R.Sexson-A1  A5:K       B5:HR>2#   C5:Si>12   *8*:HBP
+                        b#                    
+                                              
+J.Gibbon-A1  *2*:K      B6:W>b1    C6:K       D6:G/43>1
+                                              2
+                                              
+M.Mora-A1    A7:G/43    B7:W>12 b  C7:P/5     D7:P/6
+                        1                     
+                                              
+C.Beltra-A1  A8:F/7     B8:L/4     *6*:F/7    D8:Si>23
+                                              
+                                              
+J.Kendal-A1  *3*:K      B9:Si>23   C9:G/63    D9:K
+                        12                    
+                                              
+
+

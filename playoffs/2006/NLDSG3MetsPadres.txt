@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 San Diego Padres         10/13/2006
+
+[1]  Mets               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  C.Counsell 2B       5  0  2  2 .308     R.Winn CF,LF        5  0  1  0 .154  
+  X.Nady 1B           5  0  0  0 .000     T.Graffanino 2B     5  2  2  0 .400  
+  M.Derosa DH         3  1  1  1 .333     F.Lopez SS          4  0  1  0 .077  
+A-F.Catalanotto PH    1  0  0  0 .375   E-K.Greene SS         0  0  0  0 ----  
+  D.Wright 3B         4  1  1  1 .182     M.Teixeira 1B       4  1  0  0 .417  
+  R.Castro C          2  1  2  01.000     R.White RF          3  1  1  1 .273  
+B-D.Mientkiewicz PH   1  0  0  0 .000   F-J.Gerut RF          0  0  0  0 ----  
+C-K.Stinnett C        0  0  0  0 ----   J-M.Piazza PH         0  0  0  0 .000  
+  L.Walker RF,CF      4  1  1  0 .417     J.Lopez C           4  2  3  1 .545  
+  C.Floyd LF          4  1  3  1 .417     H.Blalock 3B        3  1  1  1 .300  
+  G.Matthews Jr CF    3  0  0  0 .000     R.Klesko LF         2  0  1  1 .250  
+H-F.Menechino PH      1  0  0  0 .000   D-N.Green PH          1  0  1  1 .600  
+I-R.Mondesi RF        0  0  0  0 ----   G-J.Gathright CF      0  0  0  0 .500  
+  J.Reyes SS          3  1  1  1 .400     P.Nevin DH          4  0  0  1 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6 11  6                 Totals      35  7 11  6
+
+A-Pinch Hit For Derosa In 7th Inning
+B-Pinch Hit For Castro In 8th Inning
+C-Subbed Defensively (C ) For Mientkiewicz In 8th Inning
+D-Pinch Hit For Klesko In 8th Inning
+E-Subbed Defensively (SS) For Lopez In 9th Inning
+F-Subbed Defensively (RF) For White In 9th Inning
+G-Subbed Defensively (CF) For Green In 9th Inning
+H-Pinch Hit For Matthews Jr In 9th Inning
+I-Subbed Defensively (RF) For Menechino In 9th Inning
+J-Pinch Hit For Gerut In 9th Inning
+
+Mets............ 1 0 0  4 0 0  0 0 1  -  6 11  0
+Padres.......... 0 0 0  4 1 0  0 1 1  -  7 11  1
+
+[1]Mets (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cook                       4       6   4   4   1   1   0   9.00  A1 C1
+T.Gordon                     3       2   1   1   0   4   0   3.00  C2 D3
+R.Hernandez                  0 2/3   1   1   1   0   1   0  11.57  D4 D7
+B.Wagner LOSS(0-1)           1       2   1   1   0   2   0   4.50  D8
+[1]Totals                    8 2/3  11   7   7   1   8   0
+
+[1]Padres (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Wells                      3 2/3   7   5   5   0   3   2  12.27  A1 B9
+O.Perez                      0 1/3   1   0   0   0   0   0   0.00  C1 C2
+C.Hensley                    3 1/3   1   0   0   1   1   0   0.00  C3 D4
+R.Flores                     0 2/3   0   0   0   0   0   0   0.00  D5 D6
+S.Linebrink W(1-0)B(1st)     1       2   1   0   0   1   0   0.00  D7
+[1]Totals                    9      11   6   5   1   5   2
+
+ATTENDANCE- 49,422 DATE-  TIME- Night 
+T- 3:23
+LEFT ON BASE- Mets: 5  Padres: 7
+DOUBLE PLAYS- Mets: 1  Padres: 1
+ERRORS- J.Lopez
+DOUBLES- R.Castro(1st), L.Walker(2nd), F.Lopez(1st), R.Klesko(1st)
+TRIPLES- T.Graffanino(1st)
+HOME RUNS- M.Derosa(1st), D.Wright(1st)
+STOLEN BASES- C.Floyd(1st), J.Reyes-2(6th), R.Winn(1st)
+SACRIFICE FLIES- J.Reyes, R.White
+WALKS- R.Castro, R.Klesko
+HIT BY PITCH- K.Greene, M.Teixeira, H.Blalock
+STRIKE OUTS- C.Counsell, X.Nady, D.Wright-2, L.Walker, R.Winn-2, T.Graffanino,
+             F.Lopez, M.Teixeira-3, J.Lopez
+GIDP- J.Reyes, H.Blalock
+WILD PITCHES- R.Hernandez, B.Wagner
+
+San Diego Padres won a dramatic crowd-pleaser over New York (NL) Mets at Petco
+Park pulling it out in their last at bats, 7 to 6.
+
+The game was decided in the bottom of the 9th inning.  After an out was
+recorded, Tony Graffanino tripled.  Khalil Greene stepped up to the plate and
+he was hit by a pitch.  Mark Teixeira was a strikeout victim, unable to help
+out.  Billy Wagner then unleashed a wild pitch making San Diego the victors
+to the delight of the home town faithful.  Both teams ended up with 11 on the
+night.  
+
+Scott Linebrink(1-0) went 1 inning allowing 1 run for the win. Wagner(0-1) was
+hit with the loss in relief.  He surrendered 1 run and 2 hits in 1 inning.
+
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 San Diego Padres
+C.Counse-A1  A1:F/8     B1:SB>12   C1:Si>3#   *7*:L/3    E1:SB+E/2
+                        K                                1>13 Si>3
+                                                         #
+X.Nady-A1    A2:G/43    B2:L/5     C2:P/6     D2:F/8     E2:K
+                                                         
+                                                         
+M.Derosa-A1  A3:HR>b#   B3:F/9     *5*:G/63   D3:G/63
+F.Catala-D3                                   
+                                              
+D.Wright-A1  A4:K       *4*:HR>b#  C4:G/43    *8*:K
+                                              
+                                              
+R.Castro-A1  *2*:Do     B5:Si      C5:W>b1    D5:P/5
+D.Mientk-D5                                   
+K.Stinne-D7                                   
+L.Walker-A1  A6:K       B6:Do>13   C6:L/4     D6:F/8
+                                              
+                                              
+C.Floyd-A1   A7:F/8     B7:Si>3#   *6*:Si     *9*:Si
+                        23                    
+                                              
+G.Matthe-A1  A8:G/63    B8:SB>12   C8:Force/  D8:F/9
+F.Menech-D8             G/31       36>1o b1   
+R.Mondes-E3                                   
+J.Reyes-A1   *3*:Si     B9:SF/9>3  C9:G-DP/4  D9:Force/
+                        # 23       63>1o      31>1o b1
+                                              
+
+R.Winn-A1    A1:Si      B1:L/4     C1:G/43    *7*:K      *9*:K
+                                                         
+                                                         
+T.Graffa-A1  A2:SB>12   B2:G/53    *5*:Si     D2:K       E2:Tr
+             G/53                                        
+                                                         
+F.Lopez-A1   A3:K       *4*:G/63   C3:Do>13   D3:G/43    E3:HBP
+K.Greene-E1                                              
+                                                         
+M.Teixei-A1  A4:G/3     B4:HBP     C4:K       *8*:K      E4:K
+                                                         
+                                                         
+R.White-A1   *2*:F/8    B5:Si>13   C5:SF/8>3  D5:G/53
+J.Gerut-E1                         # 23       
+M.Piazza-E5                                   
+J.Lopez-A1   A6:Si      B6:Si>3#   C6:K       D6:Si
+                        13                    
+                                              
+H.Blaloc-A1  A7:G-DP/4  B7:Si>3#   *6*:G/43   D7:WP>12
+             63>1o      13                    HBP
+                                              
+R.Klesko-A1  *3*:W>b1   B8:Do>3#   C8:F/9     D8:Si>2#
+N.Green-D8              13                    13
+J.Gathri-E1                                   
+P.Nevin-A1   A9:F/9     B9:G/63>3  C9:G/53    D9:G/63
+                        # 23                  
+                                              
+
+

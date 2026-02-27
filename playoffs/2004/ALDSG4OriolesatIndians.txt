@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2004 Baltimore Orioles At 2004 Cleveland Indians         10/10/2004
+[1]ALDS Game 4 - Orioles @ Indians - Indians lead 3-1
+
+[1]  Orioles            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  J.Kendall C         4  0  2  0 .278     M.Bradley CF        3  0  1  0 .300  
+  L.Bigbie DH         3  0  1  1 .333     A.Melhuse C         4  0  2  0 .429  
+E-L.Matos PH          1  0  0  0 .000   C-M.Matheny C         0  0  0  0 .400  
+  M.Mora LF           4  0  1  0 .313     J.Thome 1B          3  1  0  0 .143  
+  V.Guerrero RF       4  0  1  0 .538     M.Ramirez DH        4  1  1  0 .353  
+  R.Sexson 1B         3  0  1  0 .200     J.Gerut RF          4  1  1  3 .500  
+  A.Soriano 2B        3  0  0  0 .133     J.Kent 2B           4  0  1  0 .200  
+  S.Finley CF         3  0  1  0 .313   F-B.Phillips 2B       0  0  0  0 ----  
+  S.Halter 3B         2  1  1  0 .500     N.Garciaparra SS    3  0  0  0 .214  
+A-J.Gibbons PH        1  0  0  0 .000     K.Lofton LF         3  0  0  0 .286  
+B-T.Batista 3B        0  0  0  0 .000   D-C.Crisp LF          0  0  0  0 .000  
+G-J.Hairston Jr PH    1  0  0  0 .333     C.Blake 3B          3  0  1  0 .250  
+  C.Guzman SS         3  0  1  0 .231                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  9  1                 Totals      31  3  7  3
+
+A-Pinch Hit For Halter In 7th Inning
+B-Subbed Defensively (3B) For Gibbons In 7th Inning
+C-Subbed Defensively (C ) For Melhuse In 8th Inning
+D-Subbed Defensively (LF) For Lofton In 8th Inning
+E-Pinch Hit For Bigbie In 8th Inning
+F-Subbed Defensively (2B) For Kent In 9th Inning
+G-Pinch Hit For Batista In 9th Inning
+
+Orioles......... 0 0 0  0 1 0  0 0 0  -  1  9  0
+Indians......... 0 0 0  0 0 3  0 0    -  3  7  0
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vazquez LOSS(1-1)          6 2/3   7   3   3   2   9   1   3.95  A1 D2
+B.Ryan                       1 1/3   0   0   0   0   2   0  16.20  D3
+[1]Totals                    8       7   3   3   2  11   1
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sabathia                   5       7   1   1   1   2   0   2.53  A1 C3
+P.Shuey WIN(1-0)             1 1/3   0   0   0   1   1   0   0.00  C4 C7
+E.Ramirez HOLD(1st)          0 2/3   1   0   0   0   0   0   0.00  C8 D1
+D.Riske HOLD(1st)            1 1/3   1   0   0   1   3   0   3.37  D2 D7
+R.Mahay SAVE(1st)            0 2/3   0   0   0   0   0   0   0.00  D8
+[1]Totals                    9       9   1   1   3   6   0
+
+ATTENDANCE- 40,930 DATE-  TIME- Day 
+UMPIRES- Scott Higgins, Jim Reynolds, Charlie Williams, Travis Katzenmeier
+T- 2:46
+LEFT ON BASE- Orioles: 8  Indians: 6
+DOUBLE PLAYS- Orioles: 0  Indians: 2
+DOUBLES- V.Guerrero(3rd), R.Sexson(1st), S.Finley(3rd), A.Melhuse(1st)
+HOME RUNS- J.Gerut(2nd)
+SACRIFICE HITS- C.Guzman
+WALKS- R.Sexson, A.Soriano, S.Finley, M.Bradley, J.Thome
+STRIKE OUTS- J.Kendall, L.Matos, M.Mora, V.Guerrero, S.Finley, S.Halter,
+             M.Bradley, A.Melhuse-2, J.Thome-3, M.Ramirez, J.Gerut,
+             N.Garciaparra, K.Lofton, C.Blake
+GIDP- L.Bigbie, R.Sexson
+
+In a close game the Cleveland Indians got by the Baltimore Orioles by the
+score of 3 to 1.
+
+Cleveland scored all of the necessary runs in the 6th inning as they scored 3
+runs on 2 base hits.  The critical plate appearance was by Jody Gerut who
+excited the crowd when he lost the ball over the fence for three runs (his
+2nd of the season).  Cleveland had a total of 7 hits for the game.  
+
+Paul Shuey(1-0) got credit for the victory, pitching 1 and 1/3 innings and
+allowing no runs. Shuey was helped out by Ron Mahay who recorded his 1st
+save.  Javier Vazquez(1-1) was charged with the loss.  Although losing the
+contest, he whiffed 9 batters in 6 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2004 Baltimore Orioles at 2004 Cleveland Indians
+J.Kendal-A1  A1:Si      B1:Force/  C1:K       *8*:Si
+                        14>1o b1              
+                                              
+L.Bigbie-A1  A2:F/8     B2:G-DP/6  C2:Si>2#   D2:K
+L.Matos-D2              43>1o                 
+                                              
+M.Mora-A1    A3:F/7     *4*:F/8    *6*:Si     D3:K
+                                              
+                                              
+V.Guerre-A1  A4:F/8     B4:Do      C4:K       D4:F/7
+                                              
+                                              
+R.Sexson-A1  *2*:G/31   B5:W>b1    C5:G-DP/5  *9*:Do
+                                   43>1o      
+                                              
+A.Sorian-A1  A6:L/6     B6:F/8     *7*:F/7    D6:W>b1
+                                              
+                                              
+S.Finley-A1  A7:Do      B7:G/53    C7:W>b1    D7:K
+                                              
+                                              
+S.Halter-A1  A8:K       *5*:Si     C8:F/8     D8:F/8
+J.Gibbon-C8                                   
+T.Batist-D1+                                  
+C.Guzman-A1  *3*:Si     B9:Sac/34  C9:F/9     D9:L/6
+                        >12                   
+                                              
+
+M.Bradle-A1  A1:F/8     B1:Si>12   C1:W>b1    D1:K
+                                              
+                                              
+A.Melhus-A1  A2:Si      B2:K       C2:K       D2:Do
+M.Mathen-D4                                   
+                                              
+J.Thome-A1   A3:K       B3:K       *6*:W>b1   D3:K
+                                              
+                                              
+M.Ramire-A1  A4:G/13    *4*:G/43   C4:Si>13   *8*:K
+                                              
+                                              
+J.Gerut-A1   *2*:K      B5:L/4     C5:HR>3#   D5:L/3
+                                   1# b#      
+                                              
+J.Kent-A1    A6:F/7     B6:Si      C6:L/5     D6:L/5
+B.Philli-D7                                   
+                                              
+N.Garcia-A1  A7:L/5     B7:G/53    C7:K
+                                   
+                                   
+K.Lofton-A1  *3*:G/63   *5*:F/9    C8:K
+C.Crisp-D4                         
+                                   
+C.Blake-A1   A9:Si      B9:K       *7*:F/7
+                                   
+                                   
+
+

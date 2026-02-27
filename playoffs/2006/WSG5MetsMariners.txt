@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 Seattle Mariners         10/27/2006
+
+[1]  Mets               AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  F.Menechino 2B      5  0  1  1 .125     C.Crawford LF       5  0  1  3 .310  
+A-C.Counsell 2B       0  0  0  0 .167     J.Posada C          5  0  0  0 .182  
+  L.Walker RF         3  0  0  0 .321     C.Delgado DH        3  1  0  0 .220  
+  X.Nady 1B           5  3  2  1 .158     A.Rodriguez SS      3  1  1  0 .319  
+  D.Wright 3B         3  2  1  0 .298     J.Valentin 1B       3  0  1  2 .238  
+  C.Floyd LF          5  0  0  0 .288     J.Reed CF           4  0  2  0 .294  
+  M.Derosa DH         5  3  3  6 .500     R.Aurilia 3B        3  0  0  0 .250  
+  G.Matthews Jr CF    4  0  1  0 .111   B-G.Sheffield PH      1  1  1  0 .216  
+  K.Stinnett C        3  1  1  0 .250     I.Suzuki RF         4  2  3  0 .226  
+  J.Reyes SS          3  0  1  1 .351     Y.Betancourt 2B     4  1  1  1 .217  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  9 10  9                 Totals      35  6 10  6
+
+A-Subbed Defensively (2B) For Menechino In 8th Inning
+B-Pinch Hit For Aurilia In 9th Inning
+
+Mets............ 0 1 3  0 3 1  1 0 0  -  9 10  1
+Mariners........ 0 0 0  0 2 0  0 2 2  -  6 10  1
+
+[1]Mets (10-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Cook WIN(1-1)              5       5   2   0   1   1   0   3.14  A1 C2
+R.Hernandez                  2 2/3   1   2   1   2   1   0   2.12  C3 D4
+T.Gordon                     0 1/3   1   0   0   0   0   0   2.70  D5 D6
+B.Wagner                     0       3   2   2   0   0   0   6.75  D7 D9
+J.Benoit SAVE(1st)           1       0   0   0   0   0   0   2.08  E1
+[1]Totals                    9      10   6   3   3   2   0
+
+[1]Mariners (9-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Harris LOSS(0-1)           2 2/3   5   4   3   2   1   1  10.12  A1 B6
+E.Guardado                   2 1/3   3   4   4   0   3   1   7.36  B7 C8
+B.Chen                       1       0   0   0   0   0   0   2.96  C9 D2
+J.Putz                       1       2   1   1   2   0   1   9.00  D3 D9
+J.Moyer                      2       0   0   0   0   2   0   0.00  E1
+[1]Totals                    9      10   9   8   4   6   3
+
+ATTENDANCE- 47,661 DATE-  TIME- Night 
+UMPIRES- Shannon Hall, , , 
+T- 2:50
+LEFT ON BASE- Mets: 6  Mariners: 6
+DOUBLE PLAYS- Mets: 3  Mariners: 0
+ERRORS- K.Stinnett, Y.Betancourt
+DOUBLES- K.Stinnett(1st), J.Valentin(3rd)
+HOME RUNS- X.Nady(1st), M.Derosa-2(3rd)
+STOLEN BASES- D.Wright(2nd)
+SACRIFICE FLIES- J.Reyes
+WALKS- L.Walker, D.Wright-2, K.Stinnett, C.Delgado, A.Rodriguez, J.Valentin
+HIT BY PITCH- L.Walker, C.Delgado
+STRIKE OUTS- F.Menechino, L.Walker, D.Wright, C.Floyd-2, G.Matthews Jr,
+             A.Rodriguez, Y.Betancourt
+GIDP- J.Valentin, R.Aurilia, Y.Betancourt
+PASSED BALLS- K.Stinnett-2
+
+Mark Derosa smashed 2 homeruns and had 6 RBI as the New York (NL) Mets
+defeated the Seattle Mariners by a score of 9 to 6 at SAFECO Field.
+
+Derosa propelled New York (NL) to victory.  He laced a base-hit in the 2nd
+inning, smacked a three-run homer in the 3rd inning and belted a three-run
+homer (his 3rd of the season) in the 5th inning.  Seattle had a chance in the
+9th but they came up short.  
+
+Aaron Cook(1-1) allowed 2 runs in 5 innings, and picked up the victory. Cook
+got relief help from Joaquin Benoit who gained credit for his 1st save.  The
+loss was charged to Jeff Harris(0-1).  He got hit hard, allowing 5 hits and 2
+walks in 2 and 2/3 innings.  
+
+'I had good swings tonight,' Derosa said, 'Everything felt right'.
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 Seattle Mariners
+F.Menech-A1  A1:Si      B1:L/6     C1:K       D1:G/43>3  E1:Force/
+C.Counse-E4                                   #          14>23 1o
+                                                         b1
+L.Walker-A1  A2:W>12 b  *3*:F/9    *5*:HBP    D2:P/3     E2:K
+             1                                           
+                                                         
+X.Nady-A1    A3:L/6     B3:Si      C3:Force/  *7*:HR>b#  E3:F/7
+                                   64>1o b1              
+                                                         
+D.Wright-A1  A4:F/7     B4:W>12 b  C4:Si>12   D4:W>b1    *9*:K
+                        1                                
+                                                         
+C.Floyd-A1   A5:G/43    B5:K       C5:K       D5:SB>12   E5:G/31
+                                              F/7        
+                                                         
+M.Derosa-A1  *2*:Si+E/  B6:HR>2#   C6:HR>2#   D6:G/63    E6:G/63
+             4          1# b#      1# b#                 
+                                                         
+G.Matthe-A1  A7:Si>23   B7:F/8     C7:K       D7:G/43
+                                              
+                                              
+K.Stinne-A1  A8:F/8     *4*:L/6    *6*:Do     *8*:W>b1
+                                              
+                                              
+J.Reyes-A1   A9:SF/7>3  B9:G/13    C9:G/3>23  D9:Si>12
+             #                                
+                                              
+
+C.Crawfo-A1  A1:G/43    B1:P/6     C1:PB>23   *8*:F/7    E1:G/43>3
+                                   12 Si>3#              # 12
+                                   2#                    
+J.Posada-A1  A2:F/9     *4*:G/43   C2:F/8     D2:F/9     E2:F/8
+                                                         
+                                                         
+C.Delgad-A1  A3:G/13    B3:HBP     *6*:G/63   D3:W>b1    E3:L/4
+                                                         
+                                                         
+A.Rodrig-A1  *2*:K      B4:Si>12   C4:G/63    D4:W>12 b
+                                              1
+                                              
+J.Valent-A1  A5:W>b1    B5:G-DP/1  C5:L/4     D5:PB>23
+                        63>1o                 12 Do>3#
+                                              2#
+J.Reed-A1    A6:Si>12   *5*:FO/3   *7*:Si     D6:G/53
+                                              
+                                              
+R.Aurili-A1  A7:G-DP/3  B7:FO/2    C7:L/6     *9*:Si
+G.Sheffi-D7  63>1o                            
+                                              
+I.Suzuki-A1  *3*:Si     B8:Si      C8:Force/  D8:Si>13
+                                   46>1o b1   
+                                              
+Y.Betanc-A1  A9:G-DP/4  B9:E/2>12  C9:K       D9:Si>3#
+             63>1o                            13
+                                              
+
+

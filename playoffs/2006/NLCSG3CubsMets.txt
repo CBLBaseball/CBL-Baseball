@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 New York (NL) Mets        10/23/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Murton LF         4  0  0  0 .125     C.Counsell 2B       4  2  2  0 .243  
+  R.Clayton SS        4  1  1  0 .158     L.Walker RF         3  1  1  0 .355  
+  D.Lee 1B            3  1  2  0 .270     M.Sweeney 1B        2  0  1  0 .208  
+  A.Ramirez 3B        4  0  0  1 .278   C-D.Mientkiewicz 1B   0  0  0  0 .600  
+  F.Thomas DH         3  1  1  1 .333     D.Wright 3B         4  1  1  1 .242  
+  T.Pratt C           2  0  1  0 .500     C.Floyd LF          4  1  1  1 .375  
+A-P.Lo Duca PH,C      2  0  0  0 .278     F.Catalanotto DH    4  0  1  2 .300  
+  P.Wilson CF,RF      2  0  0  0 .156     G.Matthews Jr CF    4  0  0  0 .000  
+B-J.Jones PH,RF       2  0  0  0 .229     R.Fick C            2  0  0  0 .091  
+  J.Encarnacion RF,CF 3  0  1  0 .410   D-R.Castro C          1  0  1  01.000  
+  A.Soriano 2B        3  0  0  0 .231     J.Reyes SS          4  0  0  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  2                 Totals      32  5  8  4
+
+A-Pinch Hit For Pratt In 6th Inning
+B-Pinch Hit For Wilson In 7th Inning
+C-Subbed Defensively (1B) For Sweeney In 8th Inning
+D-Subbed Defensively (C ) For Fick In 8th Inning
+
+Cubs............ 2 0 0  1 0 0  0 0 0  -  3  6  0
+Mets............ 1 0 3  0 0 0  0 1    -  5  8  1
+
+[1]Cubs (5-5)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior LOSS(0-2)            5       5   4   4   4   7   0   3.54  A1 C6
+B.Howry                      3       3   1   1   0   4   1  10.80  C7
+[1]Totals                    8       8   5   5   4  11   1
+
+[1]Mets (6-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glavine WIN(1-1)           5       5   3   1   0   4   1   2.31  A1 C3
+R.Hernandez SAVE(2nd)        4       1   0   0   2   4   0   1.98  C4
+[1]Totals                    9       6   3   1   2   8   1
+
+ATTENDANCE- 304 DATE-  TIME- Day 
+T- 2:43
+LEFT ON BASE- Cubs: 5  Mets: 7
+DOUBLE PLAYS- Cubs: 0  Mets: 1
+ERRORS- R.Fick
+DOUBLES- T.Pratt(1st), C.Counsell(3rd), M.Sweeney(2nd), F.Catalanotto(3rd)
+HOME RUNS- F.Thomas(1st), C.Floyd(2nd)
+STOLEN BASES- D.Lee(1st)
+WALKS- D.Lee, F.Thomas, L.Walker, M.Sweeney-2, R.Fick
+HIT BY PITCH- J.Encarnacion
+STRIKE OUTS- M.Murton-2, R.Clayton, P.Wilson, J.Jones-2, J.Encarnacion,
+             A.Soriano, L.Walker-2, D.Wright-3, C.Floyd-2, F.Catalanotto,
+             G.Matthews Jr-3
+GIDP- P.Lo Duca
+WILD PITCHES- M.Prior
+PASSED BALLS- R.Fick
+
+In a two run game the New York (NL) Mets got by the Chicago (NL) Cubs by the
+score of 5 to 3.
+
+Tom Glavine(1-1) gave New York (NL) a solid outing.  He went 5 innings
+allowing 5 hits and no walks seeing his ERA drop from 2.70 to 2.31.  The
+Chicago (NL) batters went down meekly in the 9th.  
+
+Roberto Hernandez was credited with his 2nd save.  Mark Prior(0-2) took the
+loss.  He pitched 5 innings giving up 5 hits and 4 walks.
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 New York (NL) Mets
+M.Murton-A1  A1:K       *3*:F/8    *5*:F/7    D1:K
+                                              
+                                              
+R.Clayto-A1  A2:Si      B2:G/43    C2:K       *8*:L/5
+                                              
+                                              
+D.Lee-A1     A3:PB>12   B3:Si      C3:G/13    D3:W>b1
+             Si>23                            
+                                              
+A.Ramire-A1  A4:SB+E/2  B4:G/53    *6*:F/7    D4:L/6
+             >3# 13 G/                        
+             63>3#                            
+F.Thomas-A1  A5:G/53    *4*:HR>b#  C5:W>b1    D5:G/53
+                                              
+                                              
+T.Pratt-A1   *2*:Do     B6:G/53    C6:G-DP/6  *9*:F/7
+P.Lo Duc-C6                        43>1o      
+                                              
+P.Wilson-A1  A7:K       B7:L/6     *7*:K      D7:K
+J.Jones-C7                                    
+                                              
+J.Encarn-A1  A8:K       B8:HBP     C8:Si      D8:G/63
+                                              
+                                              
+A.Sorian-A1  A9:G/63    B9:G/63    C9:K
+                                   
+                                   
+
+C.Counse-A1  A1:Si      *3*:Do     C1:Force/  *7*:F/8
+                                   64>1o b1   
+                                              
+L.Walker-A1  A2:Si>12   B2:W>b1    C2:K       D2:K
+                                              
+                                              
+M.Sweene-A1  A3:W>23 1  B3:F/9>23  *5*:W>b1   D3:Do
+D.Mientk-D5  2 b1                             
+                                              
+D.Wright-A1  A4:K       B4:Si>3#   C4:K       D4:K
+                        13                    
+                                              
+C.Floyd-A1   A5:K       B5:P/4     C5:K       *8*:HR>b#
+                                              
+                                              
+F.Catala-A1  A6:WP>3#   B6:Do>3#   C6:L/4     D6:G/13
+             23 12 K    1#                    
+                                              
+G.Matthe-A1  *2*:K      B7:G/31    *6*:K      D7:K
+                                              
+                                              
+R.Fick-A1    A8:G/31    *4*:W>b1   C8:F/9     D8:Si
+R.Castro-D5                                   
+                                              
+J.Reyes-A1   A9:F/7     B9:F/8     C9:G/43    D9:L/4
+                                              
+                                              
+
+

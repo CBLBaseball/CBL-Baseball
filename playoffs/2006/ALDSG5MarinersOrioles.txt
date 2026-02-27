@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2006 Seattle Mariners At 2006 Baltimore Orioles           10/6/2006
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  C.Guillen SS        3  1  1  2 .579     D.Eckstein SS       5  1  2  0 .292  
+C-Y.Betancourt SS     0  0  0  0 .286     B.Roberts 2B        5  1  3  0 .261  
+  C.Crawford LF       3  2  2  1 .400     V.Guerrero RF       4  1  1  2 .435  
+  C.Delgado 1B        4  0  1  1 .308     M.Jacobs DH         3  0  0  0 .444  
+F-G.Sheffield PH      1  0  0  0 .125   D-B.Kielty PH         0  0  0  0 .000  
+  J.Moyer P           0  0  0  0 ----   E-R.Palmeiro PH       1  0  0  0 .444  
+  A.Rodriguez 3B      4  1  1  1 .200     R.Sexson 1B         3  1  2  0 .500  
+  J.Valentin C,1B     4  1  0  0 .111     J.Gibbons LF        4  0  1  1 .300  
+  J.Reed CF           5  0  1  0 .167     M.Mora 3B           4  0  0  1 .200  
+  J.Posada DH,C       2  2  0  0 .133     C.Beltran CF        4  0  1  0 .350  
+  I.Suzuki RF         5  1  1  1 .174     R.Chavez C          2  0  0  0 .000  
+  R.Aurilia 2B        2  0  0  0 .500   A-P.Orr PH            1  0  0  0 .000  
+                                        B-C.Moeller C         0  0  0  0 ----  
+                                        G-J.Kendall PH        1  0  0  0 .235  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  8  7  6                 Totals      37  4 10  4
+
+A-Pinch Hit For Chavez In 7th Inning
+B-Subbed Defensively (C ) For Orr In 8th Inning
+C-Subbed Defensively (SS) For Guillen In 8th Inning
+D-Pinch Hit For Jacobs In 8th Inning
+E-Pinch Hit For Kielty In 8th Inning
+F-Pinch Hit For Delgado In 9th Inning
+G-Pinch Hit For Moeller In 9th Inning
+
+Mariners........ 2 0 0  4 0 0  0 1 1  -  8  7  0
+Orioles......... 0 0 2  0 0 2  0 0 0  -  4 10  1
+
+[1]Mariners (3-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett WIN(1-0)           6 2/3   7   4   4   1   6   0   8.71  A1 D2
+C.Hammond HOLD(1st)          0 1/3   0   0   0   0   0   0   0.00  D3 D3
+J.Mateo                      0 2/3   1   0   0   0   1   0   8.10  D4 D6
+J.Moyer SAVE(1st)            1 1/3   2   0   0   0   0   0   0.00  D7 D8
+[1]Totals                    9      10   4   4   1   7   0
+
+[1]Orioles (2-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Cabrera LOSS(0-1)          3 1/3   4   6   6   6   2   1  14.54  A1 C1
+K.Wunsch                     0 2/3   0   0   0   0   0   0   0.00  C2 C3
+C.Ray                        3       2   0   0   0   1   0   4.91  C4 D5
+C.Politte                    1       1   1   1   2   1   0   9.00  D6 E1
+B.Ryan                       1       0   1   0   2   2   0   3.00  E2
+[1]Totals                    9       7   8   7  10   6   1
+
+ATTENDANCE- 47,779 DATE-  TIME- Night 
+T- 3:28
+LEFT ON BASE- Mariners: 9  Orioles: 8
+DOUBLE PLAYS- Mariners: 0  Orioles: 1
+ERRORS- B.Ryan
+DOUBLES- C.Guillen(3rd), C.Crawford(1st), J.Reed(1st), B.Roberts-2(3rd),
+         J.Gibbons(4th), C.Beltran(3rd)
+HOME RUNS- A.Rodriguez(2nd)
+STOLEN BASES- C.Crawford(2nd), A.Rodriguez(3rd)
+WALKS- C.Guillen-2, C.Crawford, A.Rodriguez, J.Valentin, J.Posada-3,
+       R.Aurilia-2, V.Guerrero
+HIT BY PITCH- C.Crawford, R.Sexson
+STRIKE OUTS- C.Guillen, J.Reed, I.Suzuki-2, R.Aurilia-2, B.Roberts, V.Guerrero,
+             M.Jacobs-2, R.Sexson, J.Gibbons-2
+GIDP- A.Rodriguez
+WILD PITCHES- D.Cabrera
+
+Carl Crawford had 2 base hits at Camden Yards as the Seattle Mariners beat the
+Baltimore Orioles 8 to 4.
+
+Seattle had 4 runs cross the plate in the top of the 4th inning.  Despite
+losing, Baltimore out-hit Seattle 10 to 7.  Josh Beckett(1-0) went 6 and 2/3
+innings allowing 4 runs for the win. Beckett got help from Jamie Moyer who
+earned his 1st save.  Daniel Cabrera(0-1) took the loss.  His biggest problem
+was control as he allowed 6 walks in 3 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2006 Seattle Mariners at 2006 Baltimore Orioles
+C.Guille-A1  A1:W>b1    B1:K       C1:W>3# 2  D1:G/43    E1:Do>2#
+Y.Betanc-E2                        3 12 b1               1o
+                                                         
+C.Crawfo-A1  A2:Do>13   B2:W>b1    C2:G/63>3  *7*:Si     *9*:HBP
+                                   # 23 12               
+                                                         
+C.Delgad-A1  A3:Si>3#   B3:F/9     C3:G/63    D3:L/4     E3:SB>12
+G.Sheffi-E3  23                                          G/43>23
+J.Moyer-E9                                               
+A.Rodrig-A1  A4:G-DP/6  *4*:HR>b#  *5*:G/43   D4:G/43>1  E4:IW>b1
+             43>3# 1o                         2          
+                                                         
+J.Valent-A1  A5:F/8     B5:W>b1    C5:F/9     D5:G/43    E5:SB>12
+                                                         E/1>3# 23
+                                                         
+J.Reed-A1    *2*:G/13   B6:FO/3    C6:Do      *8*:G/63   E6:K
+                                                         
+                                                         
+J.Posada-A1  A7:G/13    B7:WP>12   C7:F/8     D7:W>b1    E7:W>12 b
+                        W>b1                             1
+                                                         
+I.Suzuki-A1  A8:F/8     B8:Si>2#   *6*:G/43   D8:K       E8:K
+                        13                               
+                                                         
+R.Aurili-A1  *3*:K      B9:W>12 b  C9:K       D9:W>12 b
+                        1                     1
+                                              
+
+D.Eckste-A1  A1:G/3     B1:Si      C1:G/43>2  D1:G/13    E1:Si
+                                   3                     
+                                                         
+B.Robert-A1  A2:K       B2:Do>13   C2:F/8     D2:Si      E2:Do>13
+                                                         
+                                                         
+V.Guerre-A1  A3:K       B3:Si>3#   *6*:W>b1   D3:G/63    E3:G/13
+                        2#                               
+                                                         
+M.Jacobs-A1  *2*:F/8    B4:K       C4:K       *8*:F/9
+B.Kielty-D4                                   
+R.Palmei-D4                                   
+R.Sexson-A1  A5:Si      *4*:K      C5:HBP>12  D5:Si
+                                              
+                                              
+J.Gibbon-A1  A6:K       B6:G/43    C6:Do>2#   D6:K
+                                   13         
+                                              
+M.Mora-A1    A7:P/6     B7:G/53    C7:G/63>3  D7:F/8
+                                   # 23       
+                                              
+C.Beltra-A1  *3*:F/7    *5*:Do     C8:G/43    *9*:G/63
+                                              
+                                              
+R.Chavez-A1  A9:G/13    B9:G/63    *7*:G/63   D9:F/8
+P.Orr-C9                                      
+C.Moelle-D4+                                  
+
+

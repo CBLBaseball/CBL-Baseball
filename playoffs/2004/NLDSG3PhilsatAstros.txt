@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2004 Philadelphia Phillies At 2004 Houston Astros        10/23/2004
+
+[1]  Phillies           AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  B.Abreu RF          3  2  0  1 .000     P.Polanco 2B        4  0  0  0 000  
+A-D.Glanville RF      1  0  0  0 .000     L.Berkman LF        4  0  0  0 000  
+  B.Boone 2B          5  2  2  5 .400     R.Hidalgo RF        4  0  1  0 250  
+  L.Gonzalez LF       5  1  4  2 .800     C.Jones DH          4  1  1  1 250  
+  J.Edmonds CF        3  0  0  1 .000     J.Bagwell 1B        3  2  1  1 333  
+  M.Lieberthal C      4  1  1  0 .250     C.Everett CF        4  0  1  0 250  
+  S.Rolen 3B          4  2  1  0 .250     A.Cintron 3B        3  1  1  0 333  
+  F.Thomas DH         3  1  0  0 .000     J.Vizcaino SS       3  0  1  0 333  
+  B.Broussard 1B      5  1  0  0 .000     B.Ausmus C          2  0  0  1 000  
+  J.Rollins SS        4  2  1  1 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37 12  9 10                 Totals      31  4  6  3
+
+A-Subbed Defensively (RF) For Abreu In 7th Inning
+
+Phillies........ 0 5 4  0 3 0  0 0 0  - 12  9  0
+Astros.......... 0 1 0  0 1 1  0 0 1  -  4  6  2
+
+[1]Phillies                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Franklin WIN(1-0)          6       4   3   3   2   3   1   4.50  A1 C5
+R.Cormier SAVE(1st)          3       2   1   1   0   1   1   3.00  C6
+[1]Totals                    9       6   4   4   2   4   2
+
+[1]Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Webb LOSS(0-1)             2       3   5   0   3   1   2   0.00  A1 B4
+J.Rincon                     2 1/3   3   6   5   4   3   0  19.29  B5 D1
+R.Beck                       3       3   1   1   0   4   0   3.00  D2 E4
+J.Valverde                   1 2/3   0   0   0   1   2   0   0.00  E5
+[1]Totals                    9       9  12   6   8  10   2
+
+ATTENDANCE- 42,031 DATE-  TIME- Night 
+UMPIRES- Jerry Crawford, Mike Everett, Brian Gorman, Mike Dimuro
+T- 3:20
+LEFT ON BASE- Phillies: 7  Astros: 3
+DOUBLE PLAYS- Phillies: 1  Astros: 0
+ERRORS- A.Cintron-2
+DOUBLES- L.Gonzalez(1st)
+HOME RUNS- B.Boone(1st), L.Gonzalez(1st), C.Jones(1st), J.Bagwell(1st)
+SACRIFICE FLIES- B.Ausmus
+WALKS- B.Abreu-2, J.Edmonds-2, S.Rolen, F.Thomas-2, J.Rollins, J.Bagwell,
+       A.Cintron
+HIT BY PITCH- M.Lieberthal
+STRIKE OUTS- B.Boone, J.Edmonds-2, M.Lieberthal-2, S.Rolen-2, F.Thomas-2,
+             B.Broussard, P.Polanco, R.Hidalgo, C.Jones, C.Everett
+GIDP- A.Cintron
+WILD PITCHES- B.Webb, J.Rincon
+
+Second baseman Bret Boone added four ribbies to his seasonal total with one
+swing of the bat as the Philadelphia Phillies defeated the Houston Astros 12
+to 4 at Minute Maid Field.
+
+Boone enjoyed a fine evening at the plate.  He launched a Grand Slam homerun
+(his 1st of the season) in the 2nd inning and banged out a single scoring a
+run in the 5th inning.  Overall Philadelphia out-hit Houston 9 to 6.  
+
+The victory was credited to Ryan Franklin(1-0) who went 6 innings, allowing 3
+runs. Rheal Cormier gained credit for his 1st save.  Brandon Webb(0-1) ended
+up with the loss.  He was a hard-luck loser as he did not allow an earned run
+in his 2 innings of work.  
+
+[2]
+[1]SCORESHEET: 2004 Philadelphia Phillies at 2004 Houston Astros
+B.Abreu-A1   A1:G/43    B1:WP>23   C1:G/3>3#  D1:W>12 b  E1:F/9     F1:F/9
+D.Glanvi-E3             12 W>b1    23         1                     
+                                                                    
+B.Boone-A1   A2:F/8     B2:HR>3#   C2:WP>3#   D2:Si>2#   E2:K
+                        2# 1# b#   F/7        13         
+                                                         
+L.Gonzal-A1  A3:Si      B3:HR>b#   *4*:P/4    D3:Si>3#   *8*:Do
+                                              13         
+                                                         
+J.Edmond-A1  A4:W>12 b  B4:K       C4:W>b1    D4:Force/  E4:K
+             1                                46>3# 1o   
+                                              b1         
+M.Lieber-A1  A5:G/31    *3*:HBP    C5:Si>12   D5:K       E5:K
+                                                         
+                                                         
+S.Rolen-A1   *2*:W>b1   B6:Si>12   C6:K       *6*:G/53   E6:K
+                                                         
+                                                         
+F.Thomas-A1  A7:F/7     B7:W>23 1  C7:K       D7:K       *9*:W>b1
+                        2 b1                             
+                                                         
+B.Brouss-A1  A8:E/5>12  B8:K       *5*:F/9    D8:F/8     E8:L/4
+                                                         
+                                                         
+J.Rollin-A1  A9:F/8     B9:Si+E/5  C9:W>b1    *7*:G/13   E9:F/8
+                        >3# 2# 13                        
+                                                         
+
+P.Polanc-A1  A1:G/63    B1:K       C1:G/53    *8*:G/43
+                                              
+                                              
+L.Berkma-A1  A2:G/43    B2:G/43    *6*:F/8    D2:F/8
+                                              
+                                              
+R.Hidalg-A1  A3:Si      *4*:K      C3:F/9     D3:G/63
+                                              
+                                              
+C.Jones-A1   A4:G/43    B4:P/6     C4:HR>b#   *9*:K
+                                              
+                                              
+J.Bagwel-A1  *2*:W>b1   B5:G/13    C5:L/5     D5:HR>b#
+                                              
+                                              
+C.Everet-A1  A6:Si>13   *5*:K      *7*:G/53   D6:G/63
+                                              
+                                              
+A.Cintro-A1  A7:G-DP/4  B7:W>b1    C7:Si      D7:F/8
+             63>3# 1o                         
+                                              
+J.Vizcai-A1  A8:G/43    B8:Si>13   C8:G/43>1
+                                   2
+                                   
+B.Ausmus-A1  *3*:P/6    B9:SF/8>3  C9:G/53
+                        #          
+                                   
+
+

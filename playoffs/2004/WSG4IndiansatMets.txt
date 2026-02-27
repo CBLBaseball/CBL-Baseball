@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2004 Cleveland Indians At 2004 New York (NL) Mets         11/6/2004
+
+[1]  Indians            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Bradley CF        3  1  0  0 .143     T.Wigginton 3B      1  0  0  0 .417  
+  K.Lofton LF         5  1  2  0 .250   A-R.Ventura PH,3B     2  0  1  1 .105  
+  J.Thome 1B          4  2  1  1 .125     L.Walker RF         5  0  0  0 .219  
+  M.Ramirez DH        5  2  3  3 .444     E.Perez 1B          3  0  1  1 .273  
+  J.Gerut RF          4  1  0  1 .143     A.Huff DH           4  2  2  0 .324  
+  J.Kent 2B           3  1  1  4 .286     M.Grissom LF        3  1  0  0 .417  
+  N.Garciaparra SS    3  0  0  0 .000     J.Drew CF           4  0  2  2 .406  
+  C.Blake 3B          4  0  0  0 .143     J.Reyes SS          2  0  0  1 .333  
+  M.Matheny C         4  1  1  0 .143     V.Wilson C          3  0  0  0 .261  
+                                        B-J.Phillips PH,C     1  0  0  0 .000  
+                                          R.Alomar 2B         4  2  3  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  9  8  9                 Totals      32  5  9  5
+
+A-Pinch Hit For Wigginton In 7th Inning
+B-Pinch Hit For Wilson In 8th Inning
+
+Indians......... 0 0 7  0 0 0  0 0 2  -  9  8  0
+Mets............ 0 0 1  0 0 2  1 1 0  -  5  9  1
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sabathia WIN(1-0)          5       5   3   3   5   3   0   5.40  A1 C6
+P.Shuey                      2 1/3   4   2   2   0   2   0  12.46  C7 D6
+D.Riske SAVE(1st)            1 2/3   0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       9   5   5   5   7   0
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Brown LOSS(1-1)            2 1/3   5   7   6   2   2   1   5.84  A1 B6
+T.Gordon                     4       2   0   0   1   5   0   0.52  B7 D4
+J.Lopez                      0 1/3   0   0   0   0   0   0   0.00  D5 D5
+J.Smoltz                     2 1/3   1   2   2   1   3   1   4.09  D6
+[1]Totals                    9       8   9   8   4  10   2
+
+ATTENDANCE- 51,915 DATE-  TIME- Night 
+UMPIRES- Mike Dimuro, Jerry Crawford, Mike Everett, Brian Gorman
+T- 2:54
+LEFT ON BASE- Indians: 5  Mets: 6
+DOUBLE PLAYS- Indians: 3  Mets: 0
+ERRORS- M.Grissom
+DOUBLES- A.Huff-2(4th), R.Alomar(2nd)
+HOME RUNS- M.Ramirez(1st), J.Kent(1st)
+SACRIFICE FLIES- J.Gerut, J.Reyes
+WALKS- M.Bradley-2, J.Thome, J.Kent, T.Wigginton-2, E.Perez, M.Grissom, J.Reyes
+HIT BY PITCH- N.Garciaparra
+STRIKE OUTS- M.Bradley-3, J.Thome, M.Ramirez, J.Gerut-2, N.Garciaparra,
+             C.Blake-2, T.Wigginton, R.Ventura, L.Walker-2, A.Huff, M.Grissom,
+             R.Alomar
+GIDP- E.Perez, V.Wilson-2
+
+The Cleveland Indians toppled the New York (NL) Mets by a 9 to 5 score at Shea
+Stadium.
+
+Cleveland brought 7 runs across the plate in the top of the 3rd inning with
+the help of 5 hits.  That scoring would be all that was needed.  Cleveland
+totaled 8 on the night.  
+
+The victory went to C.C. Sabathia(1-0) who went 5 innings, allowing 3 runs.
+Sabathia was helped out by David Riske who recorded his 1st save.  Kevin
+Brown(1-1) suffered the loss.  He got hit pretty hard, allowing 5 hits and 2
+walks in 2 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2004 Cleveland Indians at 2004 New York (NL) Mets
+M.Bradle-A1  A1:K       B1:W>12 b  *4*:K      D1:W>b1    *9*:K
+                        1                                
+                                                         
+K.Lofton-A1  A2:P/4     B2:Si>23   C2:Si      D2:Force/  E2:G/43
+                        12                    46>1o b1   
+                                                         
+J.Thome-A1   A3:L/4     B3:Si>3#   C3:F/7     D3:K       E3:W>b1
+                        23 12                            
+                                                         
+M.Ramire-A1  *2*:F/8    B4:Si>3#   C4:Si>12   *7*:K      E4:HR>1#
+                        23 12                            b#
+                                                         
+J.Gerut-A1   A5:F/8     B5:SF+E/7  C5:K       D5:G/31    E5:K
+                        >3# 23 12                        
+                        b1                               
+J.Kent-A1    A6:W>b1    B6:HR>3#   *5*:F/8    D6:G/43
+                        2# 1# b#              
+                                              
+N.Garcia-A1  A7:K       B7:HBP     C7:G/63    *8*:P/6
+                                              
+                                              
+C.Blake-A1   *3*:G/63   B8:K       C8:F/8     D8:K
+                                              
+                                              
+M.Mathen-A1  A9:Si      B9:F/8     *6*:G/63   D9:G/3
+                                              
+                                              
+
+T.Wiggin-A1  A1:W>b1    B1:W>12 b  C1:K       D1:Si>2#   E1:K
+R.Ventur-D1             1                                
+                                                         
+L.Walker-A1  A2:K       B2:Force/  C2:F/9     D2:K       E2:F/8
+                        36>23 1o                         
+                        b1                               
+E.Perez-A1   A3:W>12 b  B3:Si>3#   C3:L/6     D3:G-DP/5
+             1          12                    43>1o
+                                              
+A.Huff-A1    A4:G/3>23  B4:K       *6*:Do     *8*:Do
+             12                               
+                                              
+M.Grisso-A1  A5:G/53    B5:G/43    C5:W>b1    D5:K
+                                              
+                                              
+J.Drew-A1    *2*:F/8    *4*:G/63   C6:Si>2#   D6:Si>2#
+                                   13         
+                                              
+J.Reyes-A1   A7:F/7     B7:W>b1    C7:SF/9>3  D7:F/9
+                                   #          
+                                              
+V.Wilson-A1  A8:F/8     B8:G-DP/6  C8:G-DP/6  D8:L/5
+J.Philli-D8             43>1o      43>1o      
+                                              
+R.Alomar-A1  *3*:Si     *5*:Si     *7*:Do     *9*:K
+                                              
+                                              
+
+

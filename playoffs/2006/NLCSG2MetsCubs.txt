@@ -1,0 +1,118 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 Chicago (NL) Cubs        10/18/2006
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Counsell 2B       4  3  2  4 .286     J.Encarnacion RF,CF 3  0  0  0 .417  
+  L.Walker RF         5  2  1  4 .250     J.Rodriguez DH      3  2  1  1 .409  
+  M.Sweeney 1B        3  2  1  0 .143     D.Lee 1B            4  0  2  0 .235  
+  D.Wright 3B         4  2  1  2 .143     A.Ramirez 3B        4  0  1  0 .313  
+  C.Floyd LF          4  1  2  1 .429     A.Soriano 2B        4  0  2  0 .250  
+  F.Catalanotto DH    4  0  0  0 .143     J.Jones LF,RF       3  0  0  0 .242  
+  G.Matthews Jr CF    4  1  0  1 .000     P.Lo Duca C         4  0  1  1 .294  
+  R.Fick C            4  1  1  1 .143     P.Wilson CF,LF      4  0  0  0 .167  
+  J.Reyes SS          4  2  2  1 .286     R.Clayton SS        4  0  0  0 .147  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36 14 10 14                 Totals      33  2  7  2
+
+
+Mets............ 3 0 0  0 0 0  0 9 2  - 14 10  0
+Cubs............ 1 0 0  0 0 1  0 0 0  -  2  7  0
+
+[1]Mets (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Benoit WIN(1-0)            5       4   2   2   3   2   1   3.60  A1 C4
+R.Hernandez SAVE(1st)        4       3   0   0   0   4   0   0.00  C5
+[1]Totals                    9       7   2   2   3   6   1
+
+[1]Cubs (5-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano LOSS(1-2)         7       5   6   6   5   4   2   6.62  A1 D5
+K.Farnsworth                 0 1/3   1   3   3   2   1   0  18.00  D6 D9
+B.Howry                      0 1/3   3   3   3   0   0   1  81.00  E1 E5
+J.Speier                     1 1/3   1   2   2   1   0   1   9.00  E6
+[1]Totals                    9      10  14  14   8   5   4
+
+ATTENDANCE- 35,694 DATE-  TIME- Night 
+UMPIRES- Kevin Gordon, , , 
+T- 3:03
+LEFT ON BASE- Mets: 6  Cubs: 7
+DOUBLE PLAYS- Mets: 1  Cubs: 0
+DOUBLES- M.Sweeney(1st), R.Fick(1st), A.Soriano(3rd)
+HOME RUNS- C.Counsell-2(2nd), L.Walker(1st), D.Wright(1st), J.Rodriguez(4th)
+SACRIFICE HITS- C.Counsell
+WALKS- L.Walker, M.Sweeney-2, D.Wright, C.Floyd, G.Matthews Jr, R.Fick, J.Reyes,
+       J.Encarnacion, J.Rodriguez, J.Jones
+HIT BY PITCH- C.Counsell, F.Catalanotto
+STRIKE OUTS- C.Counsell, M.Sweeney, C.Floyd, F.Catalanotto, G.Matthews Jr,
+             J.Encarnacion, J.Rodriguez, A.Soriano, J.Jones, R.Clayton-2
+GIDP- A.Ramirez
+
+Craig Counsell smacked 2 homeruns and had 4 RBI as the Chicago (NL) Cubs were
+badly beaten by the New York (NL) Mets, 14 to 2.
+
+Counsell was a thorn in the side of the hometown fans as he enjoyed a fine day
+at their team's expense.  He smashed a solo-shot out of the park in the 1st
+inning and blasted a two-run home run (his 2nd of the season) in the 9th
+inning.  New York (NL) ended up with 10 hits for the game while Chicago (NL)
+had 7.  
+
+Joaquin Benoit(1-0) picked up the victory, allowing 2 runs in 5 innings.
+Roberto Hernandez got the save, his 1st.  Carlos Zambrano(1-2) suffered the
+loss.  
+
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 Chicago (NL) Cubs
+C.Counse-A1  A1:HR>b#   B1:Sac/14  C1:L/4     D1:K       E1:HBP>3#  F1:HR>1#
+                        >12                              23 12      b#
+                                                                    
+L.Walker-A1  A2:W>b1    B2:F/8     *5*:G/63   D2:G/3     E2:HR>3#   F2:L/3
+                                                         2# 1# b#   
+                                                                    
+M.Sweene-A1  A3:K       B3:G/31    C3:W>b1    *8*:W>b1   E3:Do
+                                                         
+                                                         
+D.Wright-A1  A4:HR>1#   *3*:G/3    C4:F/7     D4:W>12 b  E4:G/3>23
+             b#                               1          
+                                                         
+C.Floyd-A1   A5:Si      B5:K       C5:G/43    D5:W>23 1  E5:Si>3#
+                                              2 b1       
+                                                         
+F.Catala-A1  A6:HBP>12  B6:G/53    *6*:F/8    D6:K       E6:G/43
+                                                         
+                                                         
+G.Matthe-A1  A7:L/4     *4*:K      C7:G/43    D7:W>3# 2  *9*:L/3
+                                              3 12 b1    
+                                                         
+R.Fick-A1    A8:G/31    B8:Do      C8:F/7     D8:W>3# 2  E8:P/4
+                                              3 12 b1    
+                                                         
+J.Reyes-A1   *2*:Si     B9:L/4     *7*:G/53   D9:Si>3#   E9:W>b1
+                                              23 12      
+                                                         
+
+J.Encarn-A1  A1:K       *3*:W>b1   C1:G/43    D1:G/13
+                                              
+                                              
+J.Rodrig-A1  A2:HR>b#   B2:G/43>1  *6*:W>b1   D2:K
+                        2                     
+                                              
+D.Lee-A1     A3:F/8     B3:F/8     C3:Si>12   *8*:Si
+                                              
+                                              
+A.Ramire-A1  A4:F/9     B4:F/8     C4:Si>23   D4:G-DP/1
+                                   12         63>1o
+                                              
+A.Sorian-A1  *2*:Do     *4*:F/8    C5:K       D5:Si
+                                              
+                                              
+J.Jones-A1   A6:W>b1    B6:G/63    C6:K       D6:G/43
+                                              
+                                              
+P.Lo Duc-A1  A7:P/3     B7:P/6     C7:Si>3#   *9*:F/7
+                                   23 12      
+                                              
+P.Wilson-A1  A8:G/53>2  *5*:G/13   C8:F/7     D8:F/8
+             3 12                             
+                                              
+R.Clayto-A1  A9:K       B9:G/43    *7*:P/6    D9:K
+                                              
+                                              
+
+

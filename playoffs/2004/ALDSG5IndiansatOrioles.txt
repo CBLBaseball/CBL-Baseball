@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2004 Cleveland Indians At 2004 Baltimore Orioles         10/10/2004
+[1]ALDS Game 5 - Indians @ Orioles - Indians win series 4-1
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  M.Bradley CF        5  2  2  0 .333     J.Kendall C         5  0  0  0 .217  
+  N.Garciaparra SS    6  2  2  0 .250     M.Mora LF           5  2  2  1 .333  
+  J.Thome 1B          3  2  2  0 .235     S.Finley DH         5  1  2  1 .333  
+  M.Ramirez DH        6  3  5  5 .478     R.Sexson 1B         3  1  0  1 .167  
+  J.Kent 2B           4  2  2  6 .263     V.Guerrero RF       4  1  4  0 .647  
+B-B.Phillips 2B       1  0  0  0 .000     A.Soriano 2B        5  0  1  1 .150  
+  J.Gerut RF          5  0  0  0 .381     L.Matos CF          4  1  2  0 .400  
+  C.Blake 3B          5  2  3  1 .333     T.Batista 3B        3  0  0  0 .000  
+  K.Lofton LF         4  1  2  2 .364     C.Guzman SS         4  0  1  2 .235  
+A-C.Crisp LF          1  1  1  0 .200                                          
+  M.Matheny C         5  0  1  1 .300                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      45 15 20 15                 Totals      38  6 12  6
+
+A-Subbed Defensively (LF) For Lofton In 7th Inning
+B-Subbed Defensively (2B) For Kent In 8th Inning
+
+Indians......... 3 0 3  1 2 0  0 6 0  - 15 20  0
+Orioles......... 0 2 0  0 0 0  1 1 2  -  6 12  0
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Eaton WIN(1-0)             6 2/3   6   3   3   4   3   1   4.91  A1 D2
+D.Riske                      2       6   3   3   0   2   0   7.71  D3 E5
+D.Baez                       0 1/3   0   0   0   0   0   0  10.80  E6
+[1]Totals                    9      12   6   6   4   5   1
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Millwood LOSS(0-2)         3 1/3   8   7   7   3   0   2  12.96  A1 C4
+J.Suppan                     3 2/3   3   2   2   1   1   1   4.91  C5 D9
+B.Wagner                     0 1/3   3   3   3   0   1   0  16.20  E1 E4
+K.Foulke                     0 2/3   4   3   3   0   0   2   7.11  E5 F1
+J.Boyd                       1       2   0   0   0   1   0   0.00  F2
+[1]Totals                    9      20  15  15   4   3   5
+
+ATTENDANCE- 48,296 DATE-  TIME- Day 
+UMPIRES- Dale Scott, Ian Lamplugh, Marvin Hudson, Gary Cederstrom
+T- 3:15
+LEFT ON BASE- Indians: 9  Orioles: 9
+DOUBLE PLAYS- Indians: 0  Orioles: 1
+DOUBLES- M.Bradley(1st), N.Garciaparra(1st), J.Thome(1st), M.Ramirez-2(2nd),
+         V.Guerrero(4th), L.Matos(1st), C.Guzman(1st)
+TRIPLES- C.Crisp(1st), S.Finley(1st)
+HOME RUNS- M.Ramirez(3rd), J.Kent-2(2nd), C.Blake(1st), K.Lofton(2nd),
+           M.Mora(2nd)
+STOLEN BASES- N.Garciaparra(2nd), J.Gerut(1st), C.Blake(1st)
+CAUGHT STEALING- M.Bradley
+WALKS- M.Bradley, J.Thome-2, J.Kent, R.Sexson-2, V.Guerrero, T.Batista
+HIT BY PITCH- J.Thome, J.Gerut
+STRIKE OUTS- J.Thome, B.Phillips, M.Matheny, J.Kendall, R.Sexson, A.Soriano-2,
+             C.Guzman
+GIDP- J.Gerut
+
+Manny Ramirez had 5 hits and 5 RBI at Camden Yards where the Cleveland Indians
+beat the Baltimore Orioles by the score of 15 to 6.
+
+Ramirez was really in 'the zone'.  He lofted a three-run bomb (his 3rd of the
+season) in the 1st inning, doubled in the 3rd inning, doubled resulting in a
+run in the 4th inning, banged out a single which scored a run in the 8th
+inning and slapped a one-base hit in the 9th inning.  Cleveland bats were
+very productive in the 8th inning when they had 6 runs on 7 hits.  Baltimore
+was out-hit by Cleveland, 20 hits to 12.  
+
+The victory was credited to Adam Eaton(1-0) who went 6 and 2/3 innings,
+allowing 3 runs. Kevin Millwood(0-2) was the loser.  He allowed a few too
+many baserunners giving up 8 hits and 3 walks in 3 and 1/3 innings.
+
+'Actually, I didn't feel that comfortable at the plate today' Ramirez said
+after the game.  'Despite that, I'm happy with the results!
+[2]
+[1]SCORESHEET: 2004 Cleveland Indians at 2004 Baltimore Orioles
+M.Bradle-A1  A1:Do      B1:W>b1 C  *4*:L/4    D1:F/7     *8*:Si     F1:F/9
+                        S/24>1o                                     
+                                                                    
+N.Garcia-A1  A2:G/63    *3*:G/43   C2:Do      D2:L/6     E2:Si>13   *9*:G/43
+                                                                    
+                                                                    
+J.Thome-A1   A3:W>b1    B3:W>b1    C3:SB>23   *6*:Do     E3:K       F3:Si
+                                   HBP                              
+                                                                    
+M.Ramire-A1  A4:HR>2#   B4:Do>13   C4:Do>3#   D4:G/53    E4:Si>3#   F4:Si>12
+             1# b#                 13                    12         
+                                                                    
+J.Kent-A1    A5:F/7     B5:HR>3#   C5:IW>b1   D5:P/6     E5:HR>2#   F5:K
+B.Philli-F2             2# b#                            1# b#      
+                                                                    
+J.Gerut-A1   A6:HBP     B6:G/43    C6:G-DP/3  D6:G/43    E6:G/43    F6:P/4
+                                   63>1o                            
+                                                                    
+C.Blake-A1   A7:SB>12   B7:Si      *5*:Si     *7*:F/8    E7:HR>b#
+             F/7                                         
+                                                         
+K.Lofton-A1  *2*:G/3    B8:Si>12   C8:SB>12   D8:G/43    E8:Tr
+C.Crisp-E1                         HR>2# b#              
+                                                         
+M.Mathen-A1  A9:F/9     B9:G/53    C9:L/4     D9:K       E9:Si>3#
+                                                         
+                                                         
+
+J.Kendal-A1  A1:G/31    *3*:K      *5*:L/5    D1:L/6     *9*:G/63
+                                                         
+                                                         
+M.Mora-A1    A2:F/9     B2:G/63    C2:F/9     D2:HR>b#   E2:Si
+                                                         
+                                                         
+S.Finley-A1  A3:G/43    B3:Si      C3:F/7     D3:L/4     E3:Tr>1#
+                                                         
+                                                         
+R.Sexson-A1  *2*:W>b1   B4:W>12 b  *6*:G/63   *8*:K      E4:G/43>3
+                        1                                #
+                                                         
+V.Guerre-A1  A5:Si>12   B5:Si>23   C5:W>b1    D5:Do      E5:Si
+                        12                               
+                                                         
+A.Sorian-A1  A6:K       B6:K       C6:F/8     D6:Si>2#   E6:L/5
+                                                         
+                                                         
+L.Matos-A1   A7:Force/  *4*:G/13   C7:Si>12   D7:Do>13
+             64>23 1o                         
+             b1                               
+T.Batist-A1  A8:W>12 b  B8:F/8     C8:FO/2    D8:F/7
+             1                                
+                                              
+C.Guzman-A1  A9:Do>3#   B9:G/43    *7*:L/4    D9:K
+             2# 1o                            
+                                              
+
+

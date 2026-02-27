@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2006 Seattle Mariners At 2006 New York (NL) Mets         10/28/2006
+
+[1]  Mariners           AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  I.Suzuki RF         4  1  1  0 .208     C.Counsell 2B       4  0  1  0 .169  
+  A.Rodriguez 3B      3  3  1  0 .326     L.Walker RF         3  0  1  0 .408  
+  G.Sheffield DH      5  3  4  1 .283     M.Sweeney 1B        4  0  0  0 .206  
+  C.Delgado 1B        4  0  1  2 .182     D.Wright 3B         2  1  1  0 .286  
+C-T.Wigginton PH,1B   1  0  0  0 .300     C.Floyd LF          4  1  1  0 .352  
+  C.Guillen SS        5  1  2  2 .490     F.Catalanotto DH    3  0  1  0 .267  
+D-Y.Betancourt SS     0  0  0  0 .267   B-M.Derosa PH         1  0  0  0 .250  
+  C.Crawford LF       4  1  3  3 .439     G.Matthews Jr CF    3  1  1  1 .102  
+  J.Ellison CF        4  0  0  0 .289     R.Fick C            4  1  1  3 .097  
+A-J.Reed CF           1  0  0  0 .133     J.Reyes SS          3  0  0  0 .283  
+  J.Posada C          3  0  1  0 .211                                          
+  J.Vidro 2B          4  0  1  0 .219                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  9 14  8                 Totals      31  4  7  4
+
+A-Subbed Defensively (CF) For Ellison In 7th Inning
+B-Pinch Hit For Catalanotto In 8th Inning
+C-Pinch Hit For Delgado In 9th Inning
+D-Subbed Defensively (SS) For Guillen In 9th Inning
+
+Mariners........ 0 0 0  0 4 0  2 0 3  -  9 14  0
+Mets............ 0 3 0  1 0 0  0 0 0  -  4  7  1
+
+[1]Mariners (10-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett WIN(3-0)           6       7   4   4   3   7   1   5.40  A1 D1
+C.Hammond HOLD(3rd)          1 1/3   0   0   0   1   0   0   0.00  D2 D5
+R.Springer SAVE(1st)         1 2/3   0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       7   4   4   4   7   1
+
+[1]Mets (9-5)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glavine                    5       9   4   4   2   3   0   3.68  A1 C7
+R.Hernandez LOSS(2-1)        1 2/3   3   2   2   1   0   0   1.82  C8 D6
+B.Wagner                     2 1/3   2   3   0   0   1   0   1.86  D7
+[1]Totals                    9      14   9   6   3   4   0
+
+ATTENDANCE- 222 DATE-  TIME- Day 
+T- 2:38
+LEFT ON BASE- Mariners: 7  Mets: 5
+DOUBLE PLAYS- Mariners: 3  Mets: 4
+ERRORS- G.Matthews Jr
+DOUBLES- D.Wright(3rd), F.Catalanotto(4th)
+TRIPLES- C.Guillen(3rd), C.Crawford(2nd)
+HOME RUNS- R.Fick(1st)
+STOLEN BASES- G.Sheffield-2(4th), C.Crawford(5th)
+WALKS- A.Rodriguez, C.Crawford, J.Posada, D.Wright-2, G.Matthews Jr, J.Reyes
+HIT BY PITCH- I.Suzuki, A.Rodriguez, L.Walker
+STRIKE OUTS- I.Suzuki, A.Rodriguez, C.Delgado, T.Wigginton, C.Counsell-2,
+             M.Sweeney-2, C.Floyd-2, J.Reyes
+GIDP- C.Delgado, C.Guillen, J.Ellison, J.Vidro, M.Sweeney-2, M.Derosa
+
+Carl Crawford had 3 base hits and 3 RBI at Shea Stadium where the Seattle
+Mariners beat the New York (NL) Mets by the score of 9 to 4.
+
+Josh Beckett(3-0) pitched well enough to earn the win.  He went 6 innings
+allowing 7 hits and 3 walks.  Beckett mowed down 7 New York (NL) batters.
+Seattle had 14 hits for the game and New York (NL) had 7.  
+
+Russ Springer earned the save, his 1st.  The loss was charged to Roberto
+Hernandez(2-1) in relief.  He gave up 2 runs and 3 hits in 1 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2006 Seattle Mariners at 2006 New York (NL) Mets
+I.Suzuki-A1  A1:HBP     B1:K       C1:Si      D1:G/63    E1:FO/2
+                                                         
+                                                         
+A.Rodrig-A1  A2:W>12 b  B2:K       C2:Si>13   *7*:HBP    *9*:E/8>b
+             1                                           2
+                                                         
+G.Sheffi-A1  A3:L/5     B3:Si>23   C3:Si>3#   D3:Si>13   E3:Si>23
+                        12         12                    
+                                                         
+C.Delgad-A1  A4:G-DP/4  B4:G/13    C4:K       D4:SB>12   E4:SB>12
+T.Wiggin-E4  63>1o                            Si>3# 2#   K
+                                                         
+C.Guille-A1  *2*:G/13   *4*:Si     C5:Tr>2#   D5:G-DP/6  E5:P/6
+Y.Betanc-E8                        1#         43>1o      
+                                                         
+C.Crawfo-A1  A6:W>b1    B6:F/9     C6:Si>3#   D6:Si      E6:Tr>3#
+                                                         2#
+                                                         
+J.Elliso-A1  A7:G-DP/4  B7:F/8     C7:L/6     D7:F/8     E7:SB>3#
+J.Reed-D8    63>1o                                       F/8
+                                                         
+J.Posada-A1  *3*:Si     B8:F/8     *6*:W>b1   *8*:G/63
+                                              
+                                              
+J.Vidro-A1   A9:Si>12   *5*:G/63   C9:G-DP/4  D9:G/53
+                                   63>1o      
+                                              
+
+C.Counse-A1  A1:G/53    *3*:K      *5*:K      D1:Si>13
+                                              
+                                              
+L.Walker-A1  A2:F/8     B2:Si      C2:HBP     D2:F/8
+                                              
+                                              
+M.Sweene-A1  A3:K       B3:G-DP/4  C3:K       D3:G-DP/5
+                        63>1o                 43>1o
+                                              
+D.Wright-A1  *2*:W>b1   *4*:F/9    C4:Do>13   *8*:W>b1
+                                              
+                                              
+C.Floyd-A1   A5:K       B5:Si      C5:K       D5:F/8
+                                              
+                                              
+F.Catala-A1  A6:F/7     B6:Do>13   *6*:F/8    D6:G-DP/6
+M.Derosa-D6                                   43>1o
+                                              
+G.Matthe-A1  A7:W>12 b  B7:Si>3#   C7:G/63    *9*:G/53
+             1          23                    
+                                              
+R.Fick-A1    A8:HR>2#   B8:P/4     C8:L/3     D8:L/3
+             1# b#                            
+                                              
+J.Reyes-A1   A9:K       B9:G/43    *7*:W>b1   D9:G/43
+                                              
+                                              
+
+

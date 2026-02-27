@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2004 Seattle Mariners At 2004 Cleveland Indians          10/23/2004
+
+[1]  Mariners           AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  I.Suzuki RF         4  0  2  1 .333     M.Bradley CF        5  0  0  0 .250  
+  J.Vidro 2B          4  0  1  1 .143     N.Garciaparra SS    5  1  1  0 .250  
+  C.Delgado 1B        5  1  1  0 .222     M.Ramirez DH        2  1  1  2 .414  
+  A.Rodriguez SS      3  1  1  1 .400     J.Thome 1B          3  0  0  0 .174  
+  B.Giles LF          4  1  2  1 .333     J.Kent 2B           3  0  0  0 .192  
+  E.Martinez DH       4  0  0  0 .000     J.Gerut RF          4  1  1  1 .310  
+  J.Posada C          3  1  0  0 .000     K.Lofton LF         3  0  1  0 .357  
+  M.Lowell 3B         4  1  0  0 .286     C.Blake 3B          3  0  1  0 .296  
+  R.Baldelli CF       4  1  2  1 .500     M.Matheny C         1  0  0  0 .308  
+                                        A-M.Lawton PH         0  0  0  0 .143  
+                                        B-V.Martinez C        1  0  1  0 .667  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  6  9  5                 Totals      30  3  6  3
+
+A-Pinch Hit For Matheny In 7th Inning
+B-Subbed Defensively (C ) For Lawton In 8th Inning
+
+Mariners........ 0 3 1  1 0 0  1 0 0  -  6  9  0
+Indians......... 2 1 0  0 0 0  0 0 0  -  3  6  1
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Schmidt WIN(1-0)           8 1/3   6   3   3   5   7   2   3.24  A1 D9
+R.Soriano SAVE(1st)          0 2/3   0   0   0   0   1   0   0.00  E1
+[1]Totals                    9       6   3   3   5   8   2
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon LOSS(1-1)            4       6   5   2   4   4   0   3.48  A1 C4
+R.Mahay                      2 2/3   2   1   1   2   2   1   1.23  C5 D7
+D.Baez                       0 1/3   0   0   0   1   0   0   4.15  D8 D9
+P.Shuey                      0       1   0   0   1   0   0   1.50  E1 E2
+D.Riske                      2       0   0   0   1   1   0   4.70  E3
+[1]Totals                    9       9   6   3   9   7   1
+
+ATTENDANCE- 40,588 DATE-  TIME- Night 
+UMPIRES- Paul Emmel, Gerry Davis, Chris Guccione, Rich Rieker
+T- 3:44
+LEFT ON BASE- Mariners:12  Indians: 8
+DOUBLE PLAYS- Mariners: 3  Indians: 1
+ERRORS- B.Colon
+DOUBLES- B.Giles(1st)
+TRIPLES- N.Garciaparra(2nd)
+HOME RUNS- A.Rodriguez(1st), M.Ramirez(4th), J.Gerut(3rd)
+SACRIFICE FLIES- J.Vidro
+WALKS- I.Suzuki, A.Rodriguez-2, B.Giles, E.Martinez, J.Posada-2, M.Lowell,
+       R.Baldelli, M.Ramirez, J.Thome, K.Lofton, M.Matheny, M.Lawton
+HIT BY PITCH- M.Ramirez, J.Kent, C.Blake
+STRIKE OUTS- J.Vidro, A.Rodriguez, E.Martinez-2, J.Posada-2, M.Lowell,
+             M.Bradley, N.Garciaparra-2, J.Thome, J.Kent, J.Gerut, C.Blake,
+             M.Matheny
+GIDP- J.Kent, J.Gerut, C.Blake
+WILD PITCHES- R.Mahay
+
+Left fielder Brian Giles had 2 base hits as the Seattle Mariners defeated the
+Cleveland Indians 6 to 3 at Jacobs Field.
+
+In the top of the 3rd inning Seattle went on top for good scoring one runner
+utilizing 2 base hits.  Carlos Delgado lined a one-base hit.  Alex Rodriguez
+stepped into the batter's box and he drew a walk.  Giles then doubled scoring
+the run.  That early scoring was all that Jason Schmidt(1-0) needed.  For the
+game Seattle out-hit Cleveland 9 to 6.  
+
+Schmidt got relief help from Rafael Soriano who gained credit for his 1st
+save.  Bartolo Colon(1-1) absorbed the loss.  He was knocked around,
+surrendering 5 runs in 4 innings.  
+
+[2]
+[1]SCORESHEET: 2004 Seattle Mariners at 2004 Cleveland Indians
+I.Suzuki-A1  A1:L/4     B1:Si>3#   C1:Si>13   D1:G/63    E1:W>12 b
+                        13                               1
+                                                         
+J.Vidro-A1   A2:G/63    B2:L/4     C2:SF/8>3  D2:K       E2:Si>23
+                                   #                     12
+                                                         
+C.Delgad-A1  A3:G/63    *3*:Si     C3:L-DP/4  *7*:P/4    E3:FO/2
+                                   3>1o                  
+                                                         
+A.Rodrig-A1  *2*:G/53   B4:W>12 b  *5*:W>b1   D4:HR>b#   E4:K
+                        1                                
+                                                         
+B.Giles-A1   A5:W>b1    B5:Do>2#   C5:G/43>1  D5:Si      E5:G/31
+                        13         2                     
+                                                         
+E.Martin-A1  A6:K       B6:K       C6:P/6     D6:WP>12   *9*:G/63
+                                              IW>b1      
+                                                         
+J.Posada-A1  A7:W>12 b  B7:K       C7:W>b1    D7:K       E7:L/4
+             1                                           
+                                                         
+M.Lowell-A1  A8:E/1>2#  B8:K       C8:G/43    D8:F/8     E8:W>b1
+             13 b2                                       
+                                                         
+R.Baldel-A1  A9:Si>3#   *4*:Si     *6*:L/5    *8*:W>b1   E9:G/63
+             23                                          
+                                                         
+
+M.Bradle-A1  A1:G/63    *3*:F/9    C1:G/53    D1:F/9     E1:K
+                                                         
+                                                         
+N.Garcia-A1  A2:Tr      B2:F/8     *5*:K      D2:K       E2:P/6
+                                                         
+                                                         
+M.Ramire-A1  A3:HR>3#   B3:W>b1    C3:HBP     D3:F/8
+             b#                               
+                                              
+J.Thome-A1   A4:W>b1    B4:F/9     C4:K       *8*:F/7
+                                              
+                                              
+J.Kent-A1    A5:G-DP/6  *4*:HBP    C5:F/8     D5:K
+             43>1o                            
+                                              
+J.Gerut-A1   *2*:HR>b#  B6:G-DP/4  *6*:K      D6:G/43
+                        63>1o                 
+                                              
+K.Lofton-A1  A7:L/6     B7:W>b1    C7:Si      *9*:G/31
+                                              
+                                              
+C.Blake-A1   A8:K       B8:HBP>12  C8:G-DP/4  D8:Si
+                                   63>1o      
+                                              
+M.Mathen-A1  A9:K       B9:W>23 1  *7*:W>b1   D9:Si>12
+M.Lawton-C9             2 b1                  
+V.Martin-D4                                   
+
+

@@ -1,0 +1,191 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 New York (NL) Mets        10/24/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  R.Cedeno DH         6  1  0  0 .091     C.Counsell 2B       6  0  0  0 .209  
+  R.Clayton SS        7  2  1  0 .156     L.Walker RF         7  2  2  1 .342  
+  J.Rodriguez LF      5  1  3  3 .444     M.Sweeney 1B        1  1  0  0 .200  
+F-S.Finley PR,LF,CF   0  0  0  0 .000   B-D.Mientkiewicz 1B   3  0  0  0 .375  
+G-T.Walker PH         1  0  1  01.000     D.Wright 3B         6  2  2  0 .256  
+H-C.Patterson PR,CF   1  0  0  0 .000     C.Floyd LF          6  1  3  5 .395  
+  D.Lee 1B            7  0  0  0 .227     F.Catalanotto DH    5  0  0  0 .257  
+  A.Ramirez 3B        5  0  1  1 .268     G.Matthews Jr CF    5  0  2  0 .057  
+  A.Soriano 2B        7  0  2  0 .239     R.Fick C            3  0  0  0 .080  
+  J.Jones RF          7  1  2  1 .238   C-R.Castro C          0  0  0  01.000  
+  P.Lo Duca C         5  0  0  0 .244   D-F.Menechino PH,C    1  0  0  0 .000  
+  P.Wilson CF         1  0  0  0 .152   E-K.Stinnett C        1  0  0  0 .200  
+A-J.Encarnacion PH,CF 5  0  2  0 .409     J.Reyes SS          6  0  0  0 .282  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      57  5 12  5                 Totals      50  6  9  6
+
+A-Pinch Hit For Wilson In 6th Inning
+B-Subbed Defensively (1B) For Sweeney In 8th Inning
+C-Subbed Defensively (C ) For Fick In 8th Inning
+D-Pinch Hit For Castro In 9th Inning
+E-Subbed Defensively (C ) For Menechino In 10th Inning
+F-Pinch Ran For Rodriguez In 10th Inning
+G-Pinch Hit For Finley In 12th Inning
+H-Pinch Ran For Walker In 12th Inning
+
+Cubs............ 0 0 0  0 0 3  0 1 1  0 0 0  0 0 0  -  5 12  0
+Mets............ 3 0 0  0 0 2  0 0 0  0 0 0  0 0 1  -  6  9  4
+
+[1]Cubs (5-6)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens                   11       7   5   5   5   8   1   1.51  A1 E7
+J.Speier                     3       1   0   0   1   1   0   4.50  E8 F9
+B.Howry LOSS(0-1)            0 1/3   1   1   1   0   1   1  12.27  G1
+[1]Totals                   14 1/3   9   6   6   6  10   2
+
+[1]Mets (7-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz                    11      10   5   2   0   8   2   2.70  A1 F1
+R.Hernandez WIN(1-0)         4       2   0   0   2   2   0   1.53  F2
+[1]Totals                   15      12   5   2   2  10   2
+
+ATTENDANCE- 24 DATE-  TIME- Day 
+T- 3:54
+LEFT ON BASE- Cubs:11  Mets: 7
+DOUBLE PLAYS- Cubs: 1  Mets: 1
+ERRORS- M.Sweeney, D.Wright, R.Fick, K.Stinnett
+DOUBLES- D.Wright-2(2nd)
+HOME RUNS- J.Rodriguez(5th), J.Jones(3rd), L.Walker(2nd), C.Floyd(3rd)
+STOLEN BASES- J.Rodriguez(2nd)
+CAUGHT STEALING- C.Patterson
+SACRIFICE FLIES- A.Ramirez
+WALKS- R.Cedeno, A.Ramirez, C.Counsell, M.Sweeney-2, F.Catalanotto,
+       G.Matthews Jr, K.Stinnett
+HIT BY PITCH- P.Lo Duca
+STRIKE OUTS- R.Cedeno, J.Rodriguez, D.Lee-3, A.Ramirez-2, J.Jones-2,
+             J.Encarnacion, C.Counsell, L.Walker-3, M.Sweeney, F.Catalanotto,
+             G.Matthews Jr-2, F.Menechino, J.Reyes
+GIDP- P.Lo Duca, F.Catalanotto
+
+Cliff Floyd blasted a homerun and had 5 RBI as the New York (NL) Mets topped
+the Chicago (NL) Cubs in 15 innings by a score of 6 to 5 at Shea
+Stadium.
+
+Both teams were tied at 5 runs apiece after nine innings.  New York (NL) came
+out on top in the 15th inning.  After an out was recorded, Larry Walker
+cracked a solo homerun (his 2nd of the season) giving New York (NL) the win
+much to the delight of the home town crowd.  Chicago (NL) had 12 hits in the
+game while New York (NL) had 9, but New York (NL) had the more timely hits.
+
+Roberto Hernandez(1-0) picked up the victory, allowing no runs in 4 innings.
+The losing pitcher was Bob Howry(0-1) in relief.  He pitched 1/3 of an inning
+giving up 1 hit and no walks.
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 New York (NL) Mets
+R.Cedeno-A1  A1:G/63    B1:L/6     C1:E/5>b2  D1:F/7     E1:G/43    F1:K
+                                                                    
+                                                                    
+R.Clayto-A1  A2:G/63    *4*:F/9    C2:E/3>23  *8*:Si     *10*:L/6   *12*:F/8
+                                                                    
+                                                                    
+J.Rodrig-A1  A3:F/7     B3:K       C3:HR>3#   D3:Si>13   E3:Si      F3:Si
+S.Finley-E4                        1# b#                            
+T.Walker-F3+                                                        
+D.Lee-A1     *2*:E/2    B4:L/6     C4:G/63    D4:K       E4:SB+E/2  F4:CS/24>
+                                                         >13 K      1o F/8
+                                                                    
+A.Ramire-A1  A5:K       *5*:F/7    C5:Si      D5:SF/7>3  E5:K       *13*:W>b1
+                                              #                     
+                                                                    
+A.Sorian-A1  A6:L/6     B6:Si      C6:F/9     D6:F/8     *11*:L/6   F6:Si>12
+                                                                    
+                                                                    
+J.Jones-A1   A7:G/63    B7:Si>13   *7*:K      *9*:HR>b#  E7:F/9     F7:F/9
+                                                                    
+                                                                    
+P.Lo Duc-A1  *3*:G/63   B8:G-DP/5  C8:F/8     D8:F/9     E8:HBP     F8:L/6
+                        43>1o                                       
+                                                                    
+P.Wilson-A1  A9:G/63    *6*:G/43   C9:Si      D9:K       E9:Si>13   F9:L/6
+J.Encarn-B9                                                         
+                                                                    
+
+C.Counse-A1  A1:F/7     *3*:F/7    C1:F/8     D1:W>b1    E1:L/4     F1:P/4
+                                                                    
+                                                                    
+L.Walker-A1  A2:Si      B2:F/7     C2:K       D2:K       *10*:F/9   *13*:K
+                                                                    
+                                                                    
+M.Sweene-A1  A3:K       B3:W>b1    *6*:W>b1   *8*:G/13   E3:L/3     F3:P/4
+D.Mientk-D3                                                         
+                                                                    
+D.Wright-A1  A4:Do>13   B4:F/9     C4:Do>13   D4:G/53    E4:F/9     F4:G/3
+                                                                    
+                                                                    
+C.Floyd-A1   A5:HR>3#   *4*:G/43   C5:Si>3#   D5:Si      *11*:G/31  *14*:F/9
+             2# b#                 2#                               
+                                                                    
+F.Catala-A1  A6:FO/2    B6:K       C6:G-DP/4  D6:W>12 b  E6:F/9     F6:G/63
+                                   63>1o      1                     
+                                                                    
+G.Matthe-A1  *2*:W>b1   B7:Si      C7:L/3     D7:K       E7:K       F7:Si
+                                                                    
+                                                                    
+R.Fick-A1    A8:PkOff/  B8:G/43    *7*:G/31   *9*:K      *12*:F/8   F8:W>12 b
+R.Castro-D3  13>1o G/3                                              1
+F.Menech-D8+                                                        
+J.Reyes-A1   A9:G/63    *5*:K      C9:F/7     D9:F/7     E9:G/63    F9:G/43
+                                                                    
+                                                                    
+
+
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 New York (NL) Mets
+R.Cedeno-A1  *14*:W>b1
+             
+             
+R.Clayto-A1  G2:G/3>12
+             
+             
+J.Rodrig-A1  G3:G/13>2
+S.Finley-E4  3
+T.Walker-F3+ 
+D.Lee-A1     G4:K
+             
+             
+A.Ramire-A1  *15*:F/7
+             
+             
+A.Sorian-A1  G6:F/8
+             
+             
+J.Jones-A1   G7:K
+             
+             
+P.Lo Duc-A1
+
+
+P.Wilson-A1
+J.Encarn-B9
+
+
+C.Counse-A1  *15*:K
+             
+             
+L.Walker-A1  G2:HR>b#
+             
+             
+M.Sweene-A1
+D.Mientk-D3
+
+D.Wright-A1
+
+
+C.Floyd-A1
+
+
+F.Catala-A1
+
+
+G.Matthe-A1
+
+
+R.Fick-A1
+R.Castro-D3
+F.Menech-D8+
+J.Reyes-A1
+
+
+
+

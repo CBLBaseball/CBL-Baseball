@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2004 New York (NL) Mets At 2004 Philadelphia Phillies    10/29/2004
+
+[1]  Mets               AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  J.Reyes SS          4  0  0  0 .000     B.Abreu RF          4  1  1  0 .125  
+  L.Walker RF         2  0  1  0 .500   A-D.Glanville RF      0  0  0  0 ----  
+  A.Huff DH           3  0  0  0 .000     B.Boone 2B          4  0  1  0 .250  
+  J.Drew CF           3  0  0  0 .000     L.Gonzalez LF       3  0  0  0 .286  
+  J.Phillips C        4  0  0  0 .000     M.Lieberthal C      2  1  0  0 .167  
+  K.Garcia LF         3  0  1  0 .333     J.Edmonds CF        2  1  1  1 .200  
+B-M.Grissom PH        1  0  0  0 .000     S.Rolen 3B          3  0  0  0 .143  
+  J.Olerud 1B         3  0  0  0 .000     F.Thomas DH         2  1  1  1 .500  
+  R.Ventura 3B        2  0  0  0 .000     B.Broussard 1B      3  0  0  1 .000  
+  R.Alomar 2B         2  0  0  0 .000     J.Rollins SS        3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      27  0  2  0                 Totals      26  4  4  3
+
+A-Subbed Defensively (RF) For Abreu In 8th Inning
+B-Pinch Hit For Garcia In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  2  0
+Phillies........ 1 2 0  0 0 1  0 0    -  4  4  0
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Brown LOSS(0-1)            5       3   3   3   4   5   0   5.40  A1 C3
+J.Smoltz                     3       1   1   1   0   3   0   3.00  C4
+[1]Totals                    8       4   4   4   4   8   0
+
+[1]Phillies                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mussina WIN(1-0)           8       2   0   0   3   8   0   0.00  A1 D2
+R.Cormier                    1       0   0   0   1   2   0   0.00  D3
+[1]Totals                    9       2   0   0   4  10   0
+
+ATTENDANCE- 34,171 DATE-  TIME- Day 
+UMPIRES- Rich Rieker, Paul Emmel, Gerry Davis, Chris Guccione
+T- 2:27
+LEFT ON BASE- Mets: 6  Phillies: 3
+DOUBLE PLAYS- Mets: 2  Phillies: 1
+DOUBLES- F.Thomas(1st)
+TRIPLES- J.Edmonds(1st)
+SACRIFICE HITS- R.Alomar
+WALKS- L.Walker, A.Huff, J.Drew, R.Ventura, L.Gonzalez, M.Lieberthal, J.Edmonds,
+       F.Thomas
+HIT BY PITCH- L.Walker, M.Lieberthal
+STRIKE OUTS- J.Reyes-2, A.Huff, J.Drew, J.Phillips-2, K.Garcia, J.Olerud,
+             R.Ventura, R.Alomar, B.Boone-2, M.Lieberthal-2, S.Rolen, F.Thomas,
+             B.Broussard, J.Rollins
+GIDP- A.Huff, L.Gonzalez
+
+Mike Mussina went 8 strong innings as the Philadelphia Phillies defeated the
+New York (NL) Mets by the score of 4 to 0 at Veterans Stadium.
+
+Philadelphia took the lead off Kevin Brown in the first inning scoring one
+runner using 2 hits.  That early scoring was all that Mussina(1-0) needed.
+Philadelphia managed only 4 on the afternoon.  
+
+Brown(0-1) was hit with the loss.  He allowed 3 hits and 4 walks in 5 innings.
+[2]
+[1]SCORESHEET: 2004 New York (NL) Mets at 2004 Philadelphia Phillies
+J.Reyes-A1   A1:G/13    B1:K       *6*:G/43   D1:K
+                                              
+                                              
+L.Walker-A1  A2:Si      B2:HBP     C2:G/31    *9*:W>b1
+                                              
+                                              
+A.Huff-A1    A3:G-DP/1  B3:K       C3:F/8     D3:W>12 b
+             63>1o                            1
+                                              
+J.Drew-A1    *2*:F/8    *4*:G/3    *7*:W>b1   D4:K
+                                              
+                                              
+J.Philli-A1  A5:L/5     B5:K       C5:L/6     D5:K
+                                              
+                                              
+K.Garcia-A1  A6:Si      B6:G/43    C6:K       D6:F/8
+M.Grisso-D6                                   
+                                              
+J.Olerud-A1  A7:F/8     *5*:G/31   C7:K
+                                   
+                                   
+R.Ventur-A1  *3*:W>b1   B8:K       *8*:L/4
+                                   
+                                   
+R.Alomar-A1  A9:Sac/54  B9:G/43    C9:K
+             >12                   
+                                   
+
+B.Abreu-A1   A1:Si      *3*:F/9    *5*:L/4    D1:G/31
+D.Glanvi-D2                                   
+                                              
+B.Boone-A1   A2:Si>13   B2:K       C2:G/13    *8*:K
+                                              
+                                              
+L.Gonzal-A1  A3:G-DP/3  B3:W>b1    C3:F/9     D3:L/4
+             63>3# 1o                         
+                                              
+M.Lieber-A1  A4:K       B4:W>12 b  *6*:HBP    D4:K
+                        1                     
+                                              
+J.Edmond-A1  *2*:W>b1   B5:F/9     C5:Tr>1#
+                                   
+                                   
+S.Rolen-A1   A6:K       *4*:G/43   C6:F-DP/7
+                                   2>3o
+                                   
+F.Thomas-A1  A7:Do>1#   B7:W>b1    C7:K
+                                   
+                                   
+B.Brouss-A1  A8:G/3>3#  B8:K       *7*:G/13
+                                   
+                                   
+J.Rollin-A1  A9:K       B9:G/31    C9:G/63
+                                   
+                                   
+
+

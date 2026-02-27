@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2006 San Diego Padres At 2006 New York (NL) Mets         10/11/2006
+
+[1]  Padres             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  R.Winn CF           5  0  1  1 .200     C.Counsell 2B       5  1  2  1 .400  
+  T.Graffanino 2B     5  0  2  0 .400     L.Walker RF         4  2  2  1 .500  
+  F.Lopez SS          5  0  0  0 .000     M.Sweeney 1B        4  1  1  0 .250  
+  M.Teixeira 1B       3  1  1  0 .333     D.Wright 3B         3  0  1  1 .333  
+  R.White RF          4  1  1  2 .250     C.Floyd LF          4  0  1  1 .250  
+  J.Lopez C           4  1  2  0 .500     F.Catalanotto DH    3  0  1  1 .333  
+  H.Blalock 3B        3  1  1  0 .333     G.Matthews Jr CF    3  1  0  0 .000  
+  R.Klesko LF         2  0  0  0 .000     R.Fick C            4  1  1  1 .250  
+A-M.Piazza PH         1  0  0  0 .000     J.Reyes SS          4  0  1  0 .250  
+B-J.Gathright LF      0  0  0  0 ----                                          
+  P.Nevin DH          4  0  2  1 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  4 10  4                 Totals      34  6 10  6
+
+A-Pinch Hit For Klesko In 8th Inning
+B-Subbed Defensively (LF) For Piazza In 8th Inning
+
+Padres.......... 0 0 0  0 1 0  1 2 0  -  4 10  1
+Mets............ 2 0 0  2 0 0  2 0    -  6 10  1
+
+[1]Padres (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy LOSS(0-1)            6 2/3   8   6   6   3   8   0   8.10  A1 D4
+R.Flores                     1 1/3   2   0   0   0   3   0   0.00  D5
+[1]Totals                    8      10   6   6   3  11   0
+
+[1]Mets (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz WIN(1-0)            6 2/3   7   2   2   2   4   0   2.70  A1 D1
+R.Hernandez HOLD(1st)        0 1/3   3   2   2   1   0   1  54.00  D2 D6
+B.Wagner SAVE(1st)           2       0   0   0   0   3   0   0.00  D7
+[1]Totals                    9      10   4   4   3   7   1
+
+ATTENDANCE- 136 DATE-  TIME- Day 
+UMPIRES- Kevin Gordon, , , 
+T- 2:55
+LEFT ON BASE- Padres: 8  Mets: 7
+DOUBLE PLAYS- Padres: 0  Mets: 1
+ERRORS- J.Lopez, R.Fick
+DOUBLES- H.Blalock(1st), C.Counsell(1st), L.Walker(1st), R.Fick(1st)
+HOME RUNS- R.White(1st)
+STOLEN BASES- F.Lopez(1st), C.Counsell(1st), G.Matthews Jr(1st), J.Reyes(1st)
+WALKS- M.Teixeira, H.Blalock, R.Klesko, D.Wright, F.Catalanotto, G.Matthews Jr
+STRIKE OUTS- R.Winn-2, T.Graffanino-2, R.White, P.Nevin-2, C.Counsell, L.Walker,
+             M.Sweeney-2, D.Wright, C.Floyd-2, F.Catalanotto, G.Matthews Jr,
+             R.Fick-2
+GIDP- R.Klesko
+WILD PITCHES- R.Hernandez
+
+Larry Walker had 2 base hits at Shea Stadium where the New York (NL) Mets beat
+the San Diego Padres 6 to 4.
+
+New York (NL) drew first blood jumping out to an early lead in the first
+inning scoring 2 runs on 3 hits.  Craig Counsell started the inning off right
+when he singled.  Matt Slippy then called for a steal which was successful.
+Walker then doubled driving in a run.  Mark Sweeney struck out, unable to
+help the rally.  David Wright came to the plate and laced a single scoring
+the final run of the inning.  Both teams totaled 10 on the afternoon.  
+
+John Smoltz(1-0) allowed 2 runs in 6 and 2/3 innings, and picked up the
+victory. Billy Wagner got the save, his 1st.  The losing pitcher was Jake
+Peavy(0-1).  
+
+'I had a little blister on my index finger before the game, but I thought it
+was nothing.' Smoltz said.  'I was lucky I got a win because I couldn't put
+the ball where I wanted it.'
+[2]
+[1]SCORESHEET: 2006 San Diego Padres at 2006 New York (NL) Mets
+R.Winn-A1    A1:K       *4*:G/43   C1:F/9     D1:Si>3#   *9*:K
+                                              12         
+                                                         
+T.Graffa-A1  A2:K       B2:Si      *6*:F/8    D2:Si>23   E2:K
+                                              12         
+                                                         
+F.Lopez-A1   A3:G/13    B3:Force/  C3:F/9     D3:F/8     E3:G/43
+                        54>1o b1                         
+                                                         
+M.Teixei-A1  *2*:G/3    B4:SB+E/2  C4:Si      *8*:W>b1
+                        4>13 G/31             
+                                              
+R.White-A1   A5:G/43    *5*:K      C5:G/63    D5:WP>12
+                                              HR>2# b#
+                                              
+J.Lopez-A1   A6:L/6     B6:F/8     *7*:Si     D6:Si
+                                              
+                                              
+H.Blaloc-A1  *3*:W>b1   B7:Do      C7:L/4     D7:F/9
+                                              
+                                              
+R.Klesko-A1  A8:G-DP/1  B8:W>b1    C8:F/9     D8:G/43>1
+M.Piazza-D8  63>1o                            2
+J.Gathri-E1                                   
+P.Nevin-A1   A9:K       B9:Si>2#   C9:Si>13   D9:K
+                        13                    
+                                              
+
+C.Counse-A1  A1:Si      B1:SB>12   C1:Do>2#   *7*:G/43   E1:K
+                        F/9                              
+                                                         
+L.Walker-A1  A2:SB+E/2  B2:K       C2:F/9>23  D2:Si
+             >13 Do>3#                        
+                                              
+M.Sweene-A1  A3:K       *3*:G/43   C3:K       D3:Si>12
+                                              
+                                              
+D.Wright-A1  A4:Si>2#   B4:W>b1    *5*:G/13   D4:K
+                                              
+                                              
+C.Floyd-A1   A5:K       B5:F/9     C5:K       D5:Si>2#
+                                              13
+                                              
+F.Catala-A1  A6:W>12 b  B6:K       C6:F/8     D6:Si>3#
+             1                                12
+                                              
+G.Matthe-A1  A7:F/7     *4*:W>b1   *6*:G/43   D7:K
+                                              
+                                              
+R.Fick-A1    *2*:F/9    B8:SB>12   C8:K       *8*:K
+                        Do>2#                 
+                                              
+J.Reyes-A1   A9:Si      B9:F/8     C9:F/8     D9:G/3
+                                              
+                                              
+
+

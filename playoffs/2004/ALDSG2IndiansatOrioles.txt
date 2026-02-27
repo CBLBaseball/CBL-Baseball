@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2004 Cleveland Indians At 2004 Baltimore Orioles         10/10/2004
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  K.Lofton CF         2  2  2  11.000     J.Kendall C         5  1  2  0 .200  
+B-C.Crisp PH,CF       3  0  0  0 .000     M.Mora LF           5  1  2  1 .250  
+  M.Lawton LF         4  1  1  1 .143     S.Finley CF         5  1  1  0 .333  
+  M.Ramirez DH        5  1  1  1 .333     R.Sexson 1B         3  1  1  2 .250  
+  J.Thome 1B          4  1  0  1 .000     V.Guerrero RF       3  0  1  1 .667  
+  J.Kent 2B           5  0  1  0 .250     A.Soriano 2B        4  0  2  0 .222  
+  J.Gerut RF          5  2  3  4 .625     J.Gibbons DH        3  0  0  0 .000  
+  N.Garciaparra SS    4  2  2  0 .286     T.Batista 3B        4  0  0  0 .000  
+  C.Blake 3B          5  1  1  0 .111     C.Guzman SS         4  0  0  0 .286  
+  M.Matheny C         2  0  1  0 .400                                          
+A-J.Vander Wal PH     1  0  1  21.000                                          
+C-A.Riggs PR          0  1  0  0 .000                                          
+D-V.Martinez C        2  0  1  1 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42 11 14 11                 Totals      36  4  9  4
+
+A-Pinch Hit For Matheny In 6th Inning
+B-Pinch Hit For Lofton In 6th Inning
+C-Pinch Ran For Vander Wal In 6th Inning
+D-Subbed Defensively (C ) For Riggs In 6th Inning
+
+Indians......... 1 0 1  0 0 8  0 0 1  - 11 14  1
+Orioles......... 0 0 3  0 1 0  0 0 0  -  4  9  1
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Eaton                      4 1/3   8   4   3   3   6   1   6.23  A1 C6
+R.Mahay WIN(1-0)             4       0   0   0   0   5   0   0.00  C7 D9
+P.Shuey                      0 2/3   1   0   0   0   0   0   0.00  E1
+[1]Totals                    9       9   4   3   3  11   1
+
+[1]Orioles                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Millwood LOSS(0-1)         5       8   5   5   2   6   1   9.00  A1 C8
+T.Harper BS(1st)             0       1   1   1   0   0   0   ----  C9 C9
+B.Ryan                       0 1/3   1   3   3   2   1   0  81.00  D1 D4
+K.Foulke                     3       4   2   2   0   2   1   4.91  D5 E8
+J.Julio                      0 2/3   0   0   0   0   0   0   0.00  E9
+[1]Totals                    9      14  11  11   4   9   2
+
+ATTENDANCE- 45,594 DATE-  TIME- Day 
+UMPIRES- Tim Tschida, Greg Gibson, Chuck Meriwether, Tim Timmons
+T- 2:50
+LEFT ON BASE- Indians: 8  Orioles: 8
+DOUBLE PLAYS- Indians: 0  Orioles: 0
+ERRORS- C.Blake, K.Millwood
+DOUBLES- M.Lawton(1st), J.Gerut-2(2nd), J.Kendall(1st)
+TRIPLES- N.Garciaparra(1st)
+HOME RUNS- K.Lofton(1st), J.Gerut(1st), R.Sexson(1st)
+STOLEN BASES- K.Lofton(1st), N.Garciaparra(1st), A.Riggs(1st), A.Soriano(1st)
+WALKS- K.Lofton, M.Lawton, J.Thome, N.Garciaparra, R.Sexson, V.Guerrero,
+       J.Gibbons
+STRIKE OUTS- C.Crisp, M.Ramirez, J.Thome, J.Kent-4, N.Garciaparra, C.Blake,
+             J.Kendall, M.Mora, S.Finley, R.Sexson, V.Guerrero, A.Soriano,
+             J.Gibbons-2, T.Batista-2, C.Guzman
+[2]
+[1]SCORESHEET: 2004 Cleveland Indians at 2004 Baltimore Orioles
+K.Lofton-A1  A1:Si      *3*:HR>b#  C1:W>12 b  D1:SB>12   E1:F/7     F1:P/4
+C.Crisp-D1                         1          K                     
+                                                                    
+M.Lawton-A1  A2:SB>12   B2:F/9     C2:L/4     D2:W>b1    E2:G/63
+             Do>2#                                       
+                                                         
+M.Ramire-A1  A3:F/7     B3:G/63    C3:K       D3:Si>3#   *8*:F/8
+                                              23 12      
+                                                         
+J.Thome-A1   A4:K       B4:F/7     C4:E/1>23  D4:W>3# 2  E4:F/7
+                                   12         3 12 b1    
+                                                         
+J.Kent-A1    A5:K       *4*:K      C5:K       D5:K       E5:Si
+                                                         
+                                                         
+J.Gerut-A1   *2*:G/43   B6:Do      *6*:Do     D6:HR>3#   E6:F/8
+                                              2# 1# b#   
+                                                         
+N.Garcia-A1  A7:Si      B7:K       C7:W>b1    D7:FO/3    *9*:Tr
+                                                         
+                                                         
+C.Blake-A1   A8:SB>12   B8:F/7     C8:Si>23   *7*:F/8    E8:K
+             G/13>23               12                    
+                                                         
+M.Mathen-A1  A9:G/63    *5*:Si     C9:Si>3#   D9:Si      E9:G/63>3
+J.Vander-C9                        2# 13                 #
+A.Riggs-D1+                                              
+
+J.Kendal-A1  A1:F/9     *3*:Do     C1:K       D1:P/6     E1:Si
+                                                         
+                                                         
+M.Mora-A1    A2:Si      B2:Si>2#   C2:K       D2:G/63    E2:Force/
+                                                         64>1o b1
+                                                         
+S.Finley-A1  A3:Force/  B3:K       *5*:Si+E/  *7*:G/23   E3:F/9
+             36>1o b1              5                     
+                                                         
+R.Sexson-A1  A4:W>12 b  B4:HR>1#   C4:K       D4:L/5
+             1          b#                    
+                                              
+V.Guerre-A1  A5:W>23 1  B5:F/8     C5:Si>3#   D5:K
+             2 b1                             
+                                              
+A.Sorian-A1  A6:K       B6:Si      C6:Si>12   *8*:L/5
+                                              
+                                              
+J.Gibbon-A1  *2*:G/43   B7:SB>12   C7:K       D7:K
+                        IW>b1                 
+                                              
+T.Batist-A1  A8:K       B8:G/3     C8:K       D8:L/5
+                                              
+                                              
+C.Guzman-A1  A9:F/7     *4*:FO/2   *6*:K      *9*:P/6
+                                              
+                                              
+
+

@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2004 Houston Astros At 2004 Philadelphia Phillies        10/21/2004
+
+[1]  Astros             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  P.Polanco 2B        5  1  2  2 .400     B.Abreu RF          3  1  1  0 .333  
+  L.Berkman LF        4  0  1  1 .250   C-D.Glanville PR,RF   0  0  0  0 ----  
+  R.Hidalgo RF        3  0  0  0 .000     B.Boone 2B          5  2  2  2 .400  
+  C.Jones DH          4  0  1  0 .250     L.Gonzalez LF       4  2  1  1 .250  
+  J.Bagwell 1B        5  0  2  0 .400     J.Edmonds CF        4  1  1  3 .250  
+  C.Everett CF        3  0  0  0 .000     M.Lieberthal C      4  0  2  0 .500  
+B-C.Biggio PH,CF      2  0  0  0 .000     S.Rolen 3B          3  1  1  0 .333  
+  A.Beltre 3B         4  0  2  0 .500     F.Thomas DH         4  0  1  0 .250  
+  A.Cintron SS        4  2  1  0 .250     B.Broussard 1B      3  0  1  1 .333  
+  B.Ausmus C          3  1  1  1 .333   A-A.Galarraga 1B      0  0  0  0 ----  
+                                          J.Rollins SS        4  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  4 10  4                 Totals      34  7 10  7
+
+A-Subbed Defensively (1B) For Broussard In 8th Inning
+B-Pinch Hit For Everett In 8th Inning
+C-Pinch Ran For Abreu In 8th Inning
+
+Astros.......... 0 0 0  0 0 0  1 0 3  -  4 10  0
+Phillies........ 4 3 0  0 0 0  0 0    -  7 10  1
+
+[1]Astros                   IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano LOSS(0-1)         1       6   6   6   2   1   2  54.00  A1 B2
+M.Hampton                    5 1/3   4   1   1   2   7   1   1.69  B3 D6
+R.Beck                       1 2/3   0   0   0   1   3   0   0.00  D7
+[1]Totals                    8      10   7   7   5  11   3
+
+[1]Phillies                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mussina WIN(1-0)           7 1/3   7   1   0   2   5   0   0.00  A1 D5
+R.Cormier                    1 1/3   2   3   3   2   0   0  20.25  D6 E4
+T.Percival                   0       1   0   0   0   0   0   ----  E5 E5
+G.Mota SAVE(1st)             0 1/3   0   0   0   0   0   0   0.00  E6
+[1]Totals                    9      10   4   3   4   5   0
+
+ATTENDANCE- 53,134 DATE-  TIME- Night 
+UMPIRES- Jim Reynolds, Charlie Williams, Travis Katzenmeier, Scott Higgins
+T- 3:23
+LEFT ON BASE- Astros:11  Phillies: 8
+DOUBLE PLAYS- Astros: 0  Phillies: 0
+ERRORS- B.Abreu
+DOUBLES- L.Berkman(1st), A.Beltre-2(2nd)
+TRIPLES- P.Polanco(1st)
+HOME RUNS- B.Boone(1st), L.Gonzalez(1st), J.Edmonds(1st)
+SACRIFICE FLIES- L.Berkman
+WALKS- R.Hidalgo-2, C.Jones, B.Ausmus, B.Abreu-2, L.Gonzalez, S.Rolen,
+       B.Broussard
+STRIKE OUTS- L.Berkman, J.Bagwell, C.Everett, A.Cintron, B.Ausmus, B.Abreu,
+             B.Boone-2, L.Gonzalez-2, J.Edmonds-2, S.Rolen-2, F.Thomas,
+             B.Broussard
+WILD PITCHES- M.Mussina
+
+Bret Boone homered and had 2 RBI as the Philadelphia Phillies defeated the
+Houston Astros by a score of 7 to 4 at Veterans Stadium.
+
+Philadelphia jumped out to the early lead in the first inning when they
+tallied 4 runs on 4 hits.  The highlight belonged to Jim Edmonds who excited
+the crowd when he lost the ball over the fence for three runs (his 1st of the
+season).  Houston threatened in the 9th but Philadelphia was able to put down
+the rally.  
+
+The victory went to Mike Mussina(1-0) who went 7 and 1/3 innings, allowing 1
+run. Guillermo Mota earned the save, his 1st.  Carlos Zambrano(0-1) was the
+losing pitcher.  He allowed 6 runs and 6 hits in 1 inning.  
+
+Chris Holt was beaming after the game, 'Not only were we making good contact,
+but a lot of balls we hit seemed to have 'eyes'! I just love winning these
+tight ones! It was just our evening - no doubt about it!'
+[2]
+[1]SCORESHEET: 2004 Houston Astros at 2004 Philadelphia Phillies
+P.Polanc-A1  A1:G/63    B1:Si      C1:F/7     D1:L/6     E1:Tr>2#
+                                                         1#
+                                                         
+L.Berkma-A1  A2:F/8     B2:L/4     *6*:K      *8*:Do     E2:SF/7>3
+                                                         #
+                                                         
+R.Hidalg-A1  A3:W>b1    B3:G/63    C3:F/9     D3:L/6     E3:W>b1
+                                                         
+                                                         
+C.Jones-A1   A4:WP>12   *4*:F/8    C4:Si      D4:W>b1    E4:F/8
+             F/7                                         
+                                                         
+J.Bagwel-A1  *2*:G/53   B5:G/63    C5:K       D5:Si>23   E5:Si>12
+                                              12         
+                                                         
+C.Everet-A1  A6:K       B6:G/23    *7*:L/4    D6:L/6     E6:G/63
+C.Biggio-D6                                              
+                                                         
+A.Beltre-A1  A7:Do      *5*:Do     C7:G/43    D7:G/63
+                                              
+                                              
+A.Cintro-A1  A8:F/7     B8:K       C8:E/9>b2  *9*:Si
+                                              
+                                              
+B.Ausmus-A1  *3*:G/63   B9:K       C9:Si>2#   D9:W>12 b
+                                              1
+                                              
+
+B.Abreu-A1   A1:K       *2*:Si     C1:G/31    D1:W>12 b  E1:W>b1
+D.Glanvi-E2                                   1          
+                                                         
+B.Boone-A1   A2:Si      B2:HR>1#   *4*:G/63   D2:K       E2:K
+                        b#                               
+                                                         
+L.Gonzal-A1  A3:W>12 b  B3:HR>b#   C3:K       D3:G/63    E3:K
+             1                                           
+                                                         
+J.Edmond-A1  A4:HR>2#   B4:G/43    C4:K       *7*:K
+             1# b#                            
+                                              
+M.Lieber-A1  A5:G/63    B5:Si      *5*:L/5    D5:Si
+                                              
+                                              
+S.Rolen-A1   A6:W>b1    B6:K       C6:K       D6:Si>13
+                                              
+                                              
+F.Thomas-A1  A7:Si>13   B7:F/8     C7:G/23    D7:K
+                                              
+                                              
+B.Brouss-A1  A8:Si>3#   *3*:K      *6*:W>b1   D8:L/4
+A.Galarr-D9  12                               
+                                              
+J.Rollin-A1  A9:G/53    B9:G/63    C9:F/8     *8*:L/3
+                                              
+                                              
+
+

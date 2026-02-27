@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2004 Toronto Blue Jays At 2004 Seattle Mariners          10/16/2004
+
+[1]  Blue Jays          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  F.Catalanotto LF    3  0  0  1 .000     I.Suzuki RF         3  0  1  0 .143  
+  B.Mueller 3B        4  0  0  0 .250     J.Vidro 2B          4  0  0  0 .000  
+  V.Wells CF          4  0  0  0 .500     C.Delgado 1B        4  1  2  0 .286  
+  D.Ortiz 1B          4  0  0  0 .000     A.Rodriguez SS      4  1  1  0 .167  
+  J.Guillen RF        4  0  2  0 .375     B.Giles LF          3  1  1  1 .200  
+  G.Myers DH          4  0  0  0 .000     E.Martinez DH       3  0  0  1 .200  
+  B.Santiago C        2  1  1  0 .333     J.Posada C          2  1  0  1 .200  
+  O.Hudson 2B         3  0  0  0 .000     M.Lowell 3B         3  0  1  0 .333  
+  D.Cruz SS           2  0  0  0 .000     R.Baldelli CF       2  0  1  1 .400  
+A-E.Hinske PH         1  0  0  0 .000                                          
+B-C.Gomez SS          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  3  1                 Totals      28  4  7  4
+
+A-Pinch Hit For Cruz In 8th Inning
+B-Subbed Defensively (SS) For Hinske In 8th Inning
+
+Blue Jays....... 0 0 0  0 0 0  0 1 0  -  1  3  1
+Mariners........ 0 0 0  0 1 1  0 2    -  4  7  1
+
+[1]Blue Jays                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Loaiza LOSS(0-1)           7       7   4   4   3   9   1   5.14  A1 D4
+M.Guthrie                    0 1/3   0   0   0   2   0   0   0.00  D5 D7
+A.Lopez                      0 2/3   0   0   0   0   0   0   0.00  D8
+[1]Totals                    8       7   4   4   5   9   1
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Schmidt WIN(1-0)           9       3   1   0   2   5   0   0.00  A1
+[1]Totals                    9       3   1   0   2   5   0
+
+ATTENDANCE- 42,633 DATE-  TIME- Night 
+UMPIRES- Ian Lamplugh, Marvin Hudson, Gary Cederstrom, Dale Scott
+T- 2:30
+LEFT ON BASE- Blue Jays: 5  Mariners: 7
+DOUBLE PLAYS- Blue Jays: 2  Mariners: 0
+ERRORS- E.Loaiza, C.Delgado
+DOUBLES- J.Guillen(1st), B.Santiago(1st)
+HOME RUNS- B.Giles(1st)
+STOLEN BASES- A.Rodriguez(1st)
+SACRIFICE HITS- R.Baldelli
+SACRIFICE FLIES- J.Posada
+WALKS- F.Catalanotto, B.Santiago, I.Suzuki, B.Giles, E.Martinez, J.Posada,
+       M.Lowell
+STRIKE OUTS- F.Catalanotto, V.Wells, D.Ortiz, J.Guillen, G.Myers, I.Suzuki,
+             C.Delgado, A.Rodriguez-3, B.Giles, E.Martinez, J.Posada,
+             R.Baldelli
+GIDP- J.Vidro, M.Lowell
+
+Jason Schmidt pitched a 3 hitter as the Seattle Mariners outscored the Toronto
+Blue Jays 4 to 1.
+
+Schmidt(1-0) came through with a virtuoso performance against the Toronto
+hitters.  He didn't allow much, just 3 hits and 2 walks in 9 innings.
+Seattle managed 7 in their victory.  
+
+Esteban Loaiza(0-1) was tagged with the loss.  He allowed 7 hits and 3 walks
+in 7 innings.
+[2]
+[1]SCORESHEET: 2004 Toronto Blue Jays at 2004 Seattle Mariners
+F.Catala-A1  A1:K       B1:G/43    C1:W>b1    D1:G/43>3
+                                              # 12
+                                              
+B.Muelle-A1  A2:G/43    *4*:G/53   C2:F/8     D2:G/63
+                                              
+                                              
+V.Wells-A1   A3:G/63    B3:F/8     C3:K       *9*:L/6
+                                              
+                                              
+D.Ortiz-A1   *2*:K      B4:L/4     *7*:F/7    D4:G/43
+                                              
+                                              
+J.Guille-A1  A5:Do      *5*:G/13   C5:K       D5:Si
+                                              
+                                              
+G.Myers-A1   A6:F/9     B6:G/13    C6:K       D6:F/8
+                                              
+                                              
+B.Santia-A1  A7:G/13    B7:W>b1    *8*:Do
+                                   
+                                   
+O.Hudson-A1  *3*:F/9    B8:G/63    C8:G/53
+                                   
+                                   
+D.Cruz-A1    A9:F/9     *6*:G/43   C9:E/3>23
+E.Hinske-C9                        
+C.Gomez-D3                         
+
+I.Suzuki-A1  A1:F/8     *4*:Si     C1:K       D1:IW>b1
+                                              
+                                              
+J.Vidro-A1   A2:F/7     B2:Force/  C2:E/1>23  D2:G-DP/6
+                        14>1o b1   12         43>1o
+                                              
+C.Delgad-A1  A3:K       B3:Si>12   C3:F/7     *8*:Si
+                                              
+                                              
+A.Rodrig-A1  *2*:K      B4:K       *6*:K      D4:Si>13
+                                              
+                                              
+B.Giles-A1   A5:G/63    B5:K       C5:HR>b#   D5:SB>12
+                                              IW>b1
+                                              
+E.Martin-A1  A6:F/9     *5*:G/63   C6:K       D6:W>3# 2
+                                              3 12 b1
+                                              
+J.Posada-A1  *3*:K      B7:W>b1    C7:F/9     D7:SF/9>3
+                                              #
+                                              
+M.Lowell-A1  A8:G/63    B8:Si>13   *7*:W>b1   D8:G-DP/1
+                                              63>1o
+                                              
+R.Baldel-A1  A9:K       B9:Si>3#   C9:Sac/24
+                        12         >12
+                                   
+
+

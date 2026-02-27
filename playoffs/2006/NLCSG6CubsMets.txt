@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 New York (NL) Mets        10/25/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Scutaro 2B        5  0  2  1 .364     C.Counsell 2B       5  1  0  0 .188  
+  R.Clayton SS        4  1  2  0 .184     L.Walker RF         4  1  3  1 .381  
+  J.Rodriguez LF      3  0  0  0 .400     M.Sweeney 1B        5  0  2  3 .233  
+B-S.Finley CF         0  0  0  0 .000     D.Wright 3B         2  0  0  0 .244  
+  D.Lee 1B            4  0  2  1 .250     C.Floyd LF          4  0  0  0 .357  
+  A.Ramirez 3B        4  1  1  0 .267     F.Catalanotto DH    4  1  1  0 .256  
+  A.Soriano DH        3  1  0  0 .224     G.Matthews Jr CF    3  0  0  1 .053  
+  J.Jones RF          4  1  2  0 .261     R.Fick C            2  0  0  0 .074  
+  P.Lo Duca C         4  0  2  2 .267   C-F.Menechino PH      0  0  0  0 .000  
+  P.Wilson CF         2  0  0  0 .143   D-R.Mondesi PR        0  1  0  0 ----  
+A-J.Encarnacion CF,LF 2  0  0  0 .391     J.Reyes SS          4  1  2  0 .302  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4 11  4                 Totals      33  5  8  5
+
+A-Subbed Defensively (CF) For Wilson In 6th Inning
+B-Subbed Defensively (CF) For Rodriguez In 7th Inning
+C-Pinch Hit For Fick In 9th Inning
+D-Pinch Ran For Menechino In 9th Inning
+
+Cubs............ 1 0 0  3 0 0  0 0 0  -  4 11  0
+Mets............ 0 0 2  0 0 1  0 0 2  -  5  8  0
+
+[1]Cubs (5-7)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior                      6       5   3   3   4   9   0   3.76  A1 C8
+J.Speier L(0-1) BS(1st)      2 2/3   3   2   2   1   2   0   5.19  C9
+[1]Totals                    8 2/3   8   5   5   5  11   0
+
+[1]Mets (8-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Wasdin                     5       8   4   4   2   4   0   4.50  A1 C5
+R.Hernandez WIN(2-0)         4       3   0   0   0   3   0   1.25  C6
+[1]Totals                    9      11   4   4   2   7   0
+
+ATTENDANCE- 280 DATE-  TIME- Day 
+T- 3:25
+LEFT ON BASE- Cubs: 6  Mets: 7
+DOUBLE PLAYS- Cubs: 1  Mets: 3
+DOUBLES- M.Scutaro(3rd), R.Clayton(4th), D.Lee(1st), L.Walker(4th),
+         M.Sweeney-2(4th)
+TRIPLES- F.Catalanotto(1st)
+STOLEN BASES- R.Clayton(2nd), J.Jones(1st), J.Reyes(7th)
+WALKS- J.Rodriguez, A.Soriano, D.Wright-2, G.Matthews Jr, R.Fick, F.Menechino
+HIT BY PITCH- L.Walker
+STRIKE OUTS- J.Rodriguez-2, D.Lee, A.Soriano-2, J.Jones, P.Wilson, C.Counsell-2,
+             L.Walker, M.Sweeney, D.Wright-2, C.Floyd, F.Catalanotto,
+             G.Matthews Jr, R.Fick, J.Reyes
+GIDP- R.Clayton, A.Ramirez, J.Encarnacion, J.Reyes
+
+In a thrilling finish the New York (NL) Mets won in dramatic fashion coming
+back to beat the Chicago (NL) Cubs by the count of 5 to 4.
+
+New York (NL) came up with the deciding runs in the bottom of the 9th inning
+with 2 runs on 2 hits.  After an out was recorded, Frank Menechino started
+the attack as he drew a walk.  Jose Reyes came to the plate and lashed a
+single.  After another out, Larry Walker came up and he was hit by a pitch.
+Mark Sweeney followed and he doubled making New York (NL) the victors to the
+delight of the home town faithful.  Although they lost, Chicago (NL) did
+out-hit New York (NL) 11 to 8.  
+
+The victory went to Roberto Hernandez(2-0) who went 4 innings, allowing no
+runs. Justin Speier(0-1) was the loser in relief.  He surrendered 2 runs and
+3 hits in 2 and 2/3 innings.  
+
+'That was exciting!,' Sweeney said.  'I would have paid money to watch this
+one.'
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 New York (NL) Mets
+M.Scutar-A1  A1:F/9     *3*:P/6    C1:Si>3#   D1:Do      E1:F/9
+                                   12                    
+                                                         
+R.Clayto-A1  A2:Si      B2:Do      C2:G-DP/1  D2:G/63>2
+                                   63>1o      3
+                                              
+J.Rodrig-A1  A3:SB>12   B3:F/9     *5*:W>b1   D3:K
+S.Finley-D4  K                                
+                                              
+D.Lee-A1     A4:Do>2#   B4:F/7     C4:K       *8*:Si
+                                              
+                                              
+A.Ramire-A1  A5:F/9     *4*:Si     C5:G-DP/6  D5:L/3
+                                   43>1o      
+                                              
+A.Sorian-A1  *2*:K      B6:W>12 b  *6*:K      D6:P/5
+                        1                     
+                                              
+J.Jones-A1   A7:Si      B7:Si>23   C7:K       D7:G/63
+                        12                    
+                                              
+P.Lo Duc-A1  A8:SB>12   B8:Si>3#   C8:F/7     *9*:Si
+             F/9        2# 13                 
+                                              
+P.Wilson-A1  A9:F/7     B9:K       *7*:F/9    D9:G-DP/1
+J.Encarn-C9                                   63>1o
+                                              
+
+C.Counse-A1  A1:K       B1:SB>12   C1:F/8     D1:P/4     E1:Force/
+                        K                                14>23 1o
+                                                         b1
+L.Walker-A1  A2:Si      B2:Do>2#   *5*:K      D2:Si      E2:HBP>12
+                                                         
+                                                         
+M.Sweene-A1  A3:F/7     B3:Do>2#   C3:K       D3:F/9     E3:Do>3#
+                                                         2# 13
+                                                         
+D.Wright-A1  A4:W>12 b  B4:W>b1    C4:K       *8*:K
+             1                                
+                                              
+C.Floyd-A1   A5:P/6     B5:K       *6*:F/8    D5:F/9
+                                              
+                                              
+F.Catala-A1  *2*:G/31   B6:K       C6:Tr      D6:L/4
+                                              
+                                              
+G.Matthe-A1  A7:K       *4*:W>b1   C7:G/43>3  *9*:G/43
+                                   #          
+                                              
+R.Fick-A1    A8:K       B8:W>12 b  C8:G/23    D8:W>b1
+F.Menech-D8             1                     
+R.Mondes-D9                                   
+J.Reyes-A1   *3*:Si     B9:G-DP/6  *7*:K      D9:Si>12
+                        43>23 1o              
+                                              
+
+

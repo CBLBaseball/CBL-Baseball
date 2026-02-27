@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2006 Washington Nationals At 2006 Chicago (NL) Cubs      10/11/2006
+
+[1]  Nationals          AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  M.Byrd LF           5  0  0  0 .167     J.Encarnacion CF    4  1  2  1 .483  
+  M.Grudzielanek 2B   5  0  0  0 .333     R.Clayton SS        4  0  0  0 .154  
+  S.Green RF          4  0  1  0 .250     D.Lee 1B            4  0  1  0 .231  
+  C.Tracy DH          5  0  0  0 .103     A.Ramirez 3B        4  0  0  0 .250  
+  A.Beltre 3B         3  0  1  0 .182     A.Soriano DH        4  0  0  0 .214  
+  T.Lee 1B            4  0  1  0 .333     J.Jones RF          4  0  0  0 .231  
+  D.Ardoin C          4  0  0  0 .000     P.Wilson LF         4  0  1  0 .217  
+  B.Wilkerson CF      4  0  2  0 .120     P.Lo Duca C         4  0  2  0 .296  
+  C.Guzman SS         3  0  0  0 .000     M.Scutaro 2B        4  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  0  5  0                 Totals      36  1  7  1
+
+
+Nationals....... 0 0 0  0 0 0  0 0 0  0 0 -  0  5  2
+Cubs............ 0 0 0  0 0 0  0 0 0  0 1 -  1  7  1
+
+[1]Nationals (3-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver                     9       5   0   0   0   8   0   4.24  A1 D5
+C.Cordero LOSS(0-1)          1       2   1   1   0   1   1   6.00  D6
+[1]Totals                   10       7   1   1   0   9   1
+
+[1]Cubs (4-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens WIN(3-0)          11       5   0   0   2  10   0   0.98  A1
+[1]Totals                   11       5   0   0   2  10   0
+
+ATTENDANCE- 39,378 DATE-  TIME- Night 
+T- 3:20
+LEFT ON BASE- Nationals: 7  Cubs: 6
+DOUBLE PLAYS- Nationals: 2  Cubs: 1
+ERRORS- C.Guzman, J.Weaver, R.Clemens
+DOUBLES- A.Beltre(2nd), B.Wilkerson(1st), M.Scutaro(2nd)
+HOME RUNS- J.Encarnacion(2nd)
+SACRIFICE HITS- C.Guzman
+WALKS- S.Green, A.Beltre
+HIT BY PITCH- J.Encarnacion
+STRIKE OUTS- M.Byrd-2, M.Grudzielanek-2, S.Green, C.Tracy-2, A.Beltre-2,
+             D.Ardoin, J.Encarnacion-2, D.Lee, A.Ramirez, A.Soriano, J.Jones,
+             P.Wilson-2, P.Lo Duca
+GIDP- R.Clayton, M.Scutaro
+
+Roger Clemens allowed 5 hits while blanking Washington as the Chicago (NL)
+Cubs defeated the Washington Nationals in 11 innings by the score of 1 to 0
+at Wrigley Field.
+
+The score was a scoreless tie after nine.  Chicago (NL) came out the victor in
+the 11th inning.  Juan Encarnacion smashed a solo-shot out of the park (his
+2nd of the season) giving Chicago (NL) the victory and sending the 39,378
+home-town fans home happy.  Chicago (NL) rapped out 7 hits for the night.
+
+Clemens(3-0) was credited with the shutout. Chad Cordero(0-1) was hit with the
+loss in relief.  Ryne Sandberg was very impressed with his pitcher, Clemens,
+'He had unusually good pitch placement tonight.  It was almost unfair - but a
+beautiful game to watch from where I sat'
+[2]
+[1]SCORESHEET: 2006 Washington Nationals at 2006 Chicago (NL) Cubs
+M.Byrd-A1    A1:K       *3*:K      C1:P/2     D1:P-DP/3  *11*:G/63
+                                              4>1o       
+                                                         
+M.Grudzi-A1  A2:P/2     B2:F/7     *6*:K      D2:K       E2:G/3
+                                                         
+                                                         
+S.Green-A1   A3:Si      B3:G/13    C3:L/4     *9*:K      E3:W>b1
+                                                         
+                                                         
+C.Tracy-A1   A4:K       *4*:K      C4:L/4     D4:L/4     E4:F/9
+                                                         
+                                                         
+A.Beltre-A1  *2*:Do     B5:K       *7*:K      D5:W>b1
+                                              
+                                              
+T.Lee-A1     A6:F/9     B6:G/3     C6:Si      D6:F/8
+                                              
+                                              
+D.Ardoin-A1  A7:G/63    *5*:K      C7:F/7     *10*:G/53
+                                              
+                                              
+B.Wilker-A1  A8:Si>23   B8:Do      C8:Force/  D8:G/43
+                                   64>1o b1   
+                                              
+C.Guzman-A1  A9:F/8     B9:Sac/34  *8*:E/1    D9:F/9
+                        >23                   
+                                              
+
+J.Encarn-A1  A1:K       B1:K       *6*:HBP    D1:Si      *11*:HR>b
+                                                         #
+                                                         
+R.Clayto-A1  A2:L/6     B2:FC/12>  C2:G-DP/6  D2:L/6
+                        3o 23      43>1o      
+                                              
+D.Lee-A1     A3:Si      B3:K       C3:E/1     *9*:F/8
+                                              
+                                              
+A.Ramire-A1  A4:K       *4*:F/7    C4:G/13    D4:F/8
+                                              
+                                              
+A.Sorian-A1  *2*:FO/5   B5:P/5     *7*:K      D5:L/6
+                                              
+                                              
+J.Jones-A1   A6:L/3     B6:P/3     C6:F/9     *10*:K
+                                              
+                                              
+P.Wilson-A1  A7:K       *5*:K      C7:F/8     D7:Si+E/6
+                                              
+                                              
+P.Lo Duc-A1  *3*:Si     B8:Si      *8*:K      D8:L/6
+                                              
+                                              
+M.Scutar-A1  A9:Do>13   B9:G-DP/5  C9:L/6     D9:F/9
+                        43>1o                 
+                                              
+
+

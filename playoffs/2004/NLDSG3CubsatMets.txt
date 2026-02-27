@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2004 Chicago (NL) Cubs At 2004 New York (NL) Mets        10/13/2004
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Patterson CF      6  0  0  0 .000     J.Reyes SS          5  0  0  0 .000  
+  C.Baerga 2B         3  0  0  0 .000     L.Walker RF         5  1  1  0 .200  
+A-M.Grudzielanek 2B   2  0  2  01.000     A.Huff DH           5  2  2  0 .400  
+  B.Bonds LF          3  0  0  0 .000     J.Drew CF           5  3  5  61.000  
+D-W.Harris LF         0  0  0  0 ----     K.Garcia LF         3  0  0  0 .000  
+H-J.Vitiello PH       0  0  0  0 ----   F-J.Phillips PH,C     1  0  0  0 .000  
+I-S.Taguchi PH,LF     1  0  0  0 .000     J.Olerud 1B         3  0  0  0 .000  
+  S.Sosa DH           5  1  1  1 .200     R.Ventura 3B        4  0  0  0 .000  
+  M.Stairs RF         4  0  2  0 .500     V.Wilson C          3  0  1  0 .333  
+E-C.Singleton RF      1  0  0  0 .000   G-S.Spencer LF        1  0  0  0 .000  
+  D.Lee 1B            1  1  0  0 .000     R.Alomar 2B         4  0  0  0 .000  
+  V.Castilla 3B       5  1  1  0 .200                                          
+  M.Piazza C          4  1  1  0 .250                                          
+B-D.Miller C          1  0  0  0 .000                                          
+  R.Ordonez SS        3  1  1  4 .333                                          
+C-A.Gonzalez SS       1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  5  8  5                 Totals      39  6  9  6
+
+A-Subbed Defensively (2B) For Baerga In 8th Inning
+B-Subbed Defensively (C ) For Piazza In 8th Inning
+C-Subbed Defensively (SS) For Ordonez In 8th Inning
+D-Subbed Defensively (LF) For Bonds In 9th Inning
+E-Subbed Defensively (RF) For Stairs In 9th Inning
+F-Pinch Hit For Garcia In 9th Inning
+G-Subbed Defensively (LF) For Wilson In 10th Inning
+H-Pinch Hit For Harris In 11th Inning
+I-Pinch Hit For Vitiello In 11th Inning
+
+Cubs............ 0 0 0  5 0 0  0 0 0  0 0 -  5  8  0
+Mets............ 0 0 0  2 0 1  0 0 2  0 1 -  6  9  1
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement                    8       7   4   4   1   5   1   4.50  A1 D3
+K.Wunsch L(0-1) BS(1st)      2 2/3   2   2   2   0   4   2   6.75  D4
+[1]Totals                   10 2/3   9   6   6   1   9   3
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Trachsel                   3 1/3   4   5   5   4   0   2  13.50  A1 B9
+T.Gordon                     4       2   0   0   1   6   0   0.00  C1 D7
+J.Smoltz                     3       1   0   0   1   5   0   0.00  D8 E9
+J.Lopez                      0 1/3   1   0   0   0   1   0   0.00  F1 F2
+A.Benitez WIN(1-0)           0 1/3   0   0   0   0   0   0   0.00  F3
+[1]Totals                   11       8   5   5   6  12   2
+
+ATTENDANCE- 50,370 DATE-  TIME- Day 
+UMPIRES- Jerry Crawford, Mike Everett, Brian Gorman, Mike Dimuro
+T- 2:56
+LEFT ON BASE- Cubs:10  Mets: 2
+DOUBLE PLAYS- Cubs: 2  Mets: 2
+ERRORS- K.Garcia
+DOUBLES- A.Huff(1st), J.Drew-2(2nd)
+HOME RUNS- S.Sosa(1st), R.Ordonez(1st), J.Drew-3(3rd)
+WALKS- B.Bonds, D.Lee-4, R.Ordonez, J.Olerud
+HIT BY PITCH- C.Baerga, B.Bonds
+STRIKE OUTS- C.Patterson-2, C.Baerga-2, B.Bonds-2, S.Sosa-2, D.Lee, V.Castilla,
+             M.Piazza, D.Miller, L.Walker, A.Huff, K.Garcia, J.Phillips,
+             J.Olerud-2, V.Wilson, R.Alomar-2
+GIDP- C.Patterson, S.Sosa, R.Ventura
+
+Center fielder J.D. Drew launched 3 homeruns and had 6 RBI as the New York
+(NL) Mets defeated the Chicago (NL) Cubs in 11 innings 6 to 5 at Shea
+Stadium.
+
+Both teams were tied at 5 runs apiece after nine innings.  New York (NL) won
+the hard fought contest in the 11th inning.  After two outs Drew smashed a
+bases-empty 'big-fly' (his 3rd of the season) making New York (NL) the
+winners and sending the 50,370 fans home happy.  New York (NL) banged out 9
+on the afternoon.  
+
+The victory went to Armando Benitez(1-0) who went 1/3 of an inning, allowing
+no runs. Kelly Wunsch(0-1) took the loss in relief.  He surrendered 2 runs
+and 2 hits in 2 and 2/3 innings.  
+
+'The ball was jumping off my bat' Drew said.  'I didn't do anything
+differently, it's the same way I always approach the game.'
+[2]
+[1]SCORESHEET: 2004 Chicago (NL) Cubs at 2004 New York (NL) Mets
+C.Patter-A1  A1:G/63    B1:G-DP/4  C1:E/7>b2  D1:G/43    *9*:K      F1:K
+                        63>1o                                       
+                                                                    
+C.Baerga-A1  A2:F/8     B2:HBP     C2:K       D2:K       E2:Si      F2:Si
+M.Grudzi-E1                                                         
+                                                                    
+B.Bonds-A1   A3:W>b1    B3:L/6     C3:K       *7*:HBP    E3:K       F3:F/8
+W.Harris-E5                                                         
+J.Vitiel-F3+                                                        
+S.Sosa-A1    A4:G/53    *4*:HR>b#  *5*:K      D4:G-DP/6  E4:K
+                                              43>1o      
+                                                         
+M.Stairs-A1  *2*:F/7    B5:L/4     C5:Si      D5:Si      *10*:L/5
+C.Single-E5                                              
+                                                         
+D.Lee-A1     A6:W>b1    B6:W>b1    C6:W>12 b  D6:K       E6:W>b1
+                                   1                     
+                                                         
+V.Castil-A1  A7:G/43>1  B7:Si>12   C7:K       *8*:G/13   E7:F/7
+             2                                           
+                                                         
+M.Piazza-A1  A8:F/7     B8:Si>23   C8:F/7     D8:K       E8:K
+D.Miller-E1             12                               
+                                                         
+R.Ordone-A1  *3*:W>b1   B9:HR>3#   *6*:P/2    D9:L/6     *11*:F/9
+A.Gonzal-E1             2# 1# b#                         
+                                                         
+
+J.Reyes-A1   A1:F/7     *4*:F/7    *6*:G/53   D1:G/63    E1:G/53
+                                                         
+                                                         
+L.Walker-A1  A2:F/8     B2:K       C2:Si      D2:G/43    *11*:F/9
+                                                         
+                                                         
+A.Huff-A1    A3:G/63    B3:Si      C3:G/43>1  *9*:Do     E3:K
+                                   2                     
+                                                         
+J.Drew-A1    *2*:Do     B4:HR>1#   C4:Do>2#   D4:HR>2#   E4:HR>b#
+                        b#                    b#         
+                                                         
+K.Garcia-A1  A5:G/3>23  B5:F/8     C5:K       D5:K
+J.Philli-D5                                   
+                                              
+J.Olerud-A1  A6:F-DP/8  *5*:W>b1   *7*:K      D6:K
+             2>3o                             
+                                              
+R.Ventur-A1  *3*:F/9    B7:G-DP/3  C7:G/13    D7:F/8
+                        1>1o                  
+                                              
+V.Wilson-A1  A8:G/13    B8:Si      C8:K       *10*:L/5
+S.Spence-D8                                   
+                                              
+R.Alomar-A1  A9:L/4     B9:K       *8*:F/7    D9:K
+                                              
+                                              
+
+

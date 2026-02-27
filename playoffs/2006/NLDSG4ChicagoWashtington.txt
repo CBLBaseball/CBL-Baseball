@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 Washington Nationals      10/11/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Nationals          AB  R  H RBI AVG
+  J.Encarnacion RF    5  1  1  1 .556     R.Church LF         4  0  0  0 .125  
+  J.Rodriguez DH      5  2  3  3 .500     M.Grudzielanek 2B   4  1  1  0 .333  
+  D.Lee 1B            3  2  2  0 .267     S.Green RF          4  0  2  0 .250  
+  A.Ramirez 3B        5  1  2  2 .286     C.Tracy 1B          3  0  1  1 .125  
+  A.Soriano 2B        4  2  2  3 .125     B.Schneider C       3  0  0  0 .231  
+A-M.Scutaro 2B        1  0  0  0 .000     B.Wilkerson CF      3  0  0  0 .071  
+  J.Jones LF          4  0  1  0 .313     A.Beltre 3B         3  0  1  0 .250  
+B-C.Patterson LF      1  0  0  0 .000     R.Zimmerman DH      3  0  0  0 .000  
+  P.Lo Duca C         5  0  1  1 .313     J.Castro SS         2  0  0  0 .300  
+  P.Wilson CF         4  1  1  0 .231                                          
+C-S.Finley CF         0  0  0  0 .000                                          
+  R.Clayton SS        3  2  2  1 .267                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40 11 15 11                 Totals      29  1  5  1
+
+A-Subbed Defensively (2B) For Soriano In 8th Inning
+B-Subbed Defensively (LF) For Jones In 8th Inning
+C-Subbed Defensively (CF) For Wilson In 8th Inning
+
+Cubs............ 0 0 0  2 1 1  4 3 0  - 11 15  0
+Nationals....... 0 0 0  0 0 1  0 0 0  -  1  5  1
+
+[1]Cubs (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens WIN(2-0)           9       5   1   1   2   9   0   1.62  A1
+[1]Totals                    9       5   1   1   2   9   0
+
+[1]Nationals (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver LOSS(0-2)           6 2/3  11   8   7   2   6   3   6.91  A1 D5
+L.Ayala                      1       3   3   3   0   1   1  27.00  D6 E2
+G.Majewski                   1 1/3   1   0   0   0   1   0   0.00  E3
+[1]Totals                    9      15  11  10   2   8   4
+
+ATTENDANCE- -57 DATE-  TIME- Night 
+T- 3:02
+LEFT ON BASE- Cubs: 5  Nationals: 5
+DOUBLE PLAYS- Cubs: 2  Nationals: 0
+ERRORS- J.Castro
+DOUBLES- A.Ramirez(1st), P.Lo Duca(2nd), R.Clayton-2(3rd), S.Green(2nd),
+         C.Tracy(1st), A.Beltre(1st)
+HOME RUNS- J.Rodriguez-2(2nd), A.Soriano-2(2nd)
+SACRIFICE HITS- R.Clayton
+SACRIFICE FLIES- C.Tracy
+WALKS- D.Lee-2, B.Schneider, J.Castro
+HIT BY PITCH- B.Wilkerson
+STRIKE OUTS- J.Encarnacion-2, D.Lee, A.Ramirez, J.Jones, P.Lo Duca, P.Wilson-2,
+             R.Church, M.Grudzielanek, C.Tracy, B.Wilkerson-3, A.Beltre,
+             R.Zimmerman, J.Castro
+GIDP- R.Church, C.Tracy
+WEB GEMS- Top 4th: Brian Schneider blocked the plate, saving a run!
+
+John Rodriguez rocketed 2 homeruns and had 3 RBI and Roger Clemens tossed a
+complete game as the Chicago (NL) Cubs crushed the Washington Nationals 11 to
+1.
+
+The Washington fans didn't appreciate the big day Rodriguez had.  He lofted a
+solo-blast 'downtown' in the 4th inning, lined a base-hit in the 5th inning
+and cleared the fences for a two-run home run (his 2nd of the season) in the
+8th inning.  Chicago (NL) rapped out 15 hits for the night.  
+
+Clemens(2-0), allowing 1 run for the game, picked up the victory. Jeff
+Weaver(0-2) suffered the loss.  He was touched for 3 homeruns in his 6 and
+2/3 innings of work.  
+
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 Washington Nationals
+J.Encarn-A1  A1:K       B1:F/8     C1:F/8     D1:K       E1:Si>2#
+                                                         
+                                                         
+J.Rodrig-A1  A2:F/8     *4*:HR>b#  C2:Si      D2:F/8     E2:HR>1#
+                                                         b#
+                                                         
+D.Lee-A1     A3:Si      B3:Si      C3:W>12 b  D3:IW>b1   E3:K
+                                   1                     
+                                                         
+A.Ramire-A1  A4:K       B4:F/7     C4:F/7     D4:Do>2#   *9*:Si
+                                              1#         
+                                                         
+A.Sorian-A1  *2*:L/3    B5:F/8     *6*:HR>b#  D5:HR>2#   E5:L/6
+M.Scutar-E4                                   b#         
+                                                         
+J.Jones-A1   A6:K       B6:Si>13   C6:F/9     D6:G/43    E6:L/4
+C.Patter-E4                                              
+                                                         
+P.Lo Duc-A1  A7:L/6     B7:Do>3#   C7:K       *8*:G/53   E7:L/5
+                        1o                               
+                                                         
+P.Wilson-A1  *3*:G/53   *5*:Si+E/  C8:K       D8:K
+S.Finley-E4             6                     
+                                              
+R.Clayto-A1  A9:G/43    B9:Sac/34  *7*:Do     D9:Do
+                        >3#                   
+                                              
+
+R.Church-A1  A1:G/31    B1:F/7     *6*:K      D1:G-DP/4
+                                              63>1o
+                                              
+M.Grudzi-A1  A2:K       B2:L/6     C2:Si      D2:G/43
+                                              
+                                              
+S.Green-A1   A3:G/31    *4*:Si     C3:Do>13   *9*:F/9
+                                              
+                                              
+C.Tracy-A1   *2*:K      B4:G-DP/6  C4:SF/7>3  D4:Do
+                        43>1o      #          
+                                              
+B.Schnei-A1  A5:W>b1    B5:F/8     C5:G/63    D5:G/43>2
+                                              3
+                                              
+B.Wilker-A1  A6:HBP>12  *5*:K      *7*:K      D6:K
+                                              
+                                              
+A.Beltre-A1  A7:K       B7:Do      C7:G/63
+                                   
+                                   
+R.Zimmer-A1  A8:F/8     B8:K       C8:F/8
+                                   
+                                   
+J.Castro-A1  *3*:K      B9:L/6     *8*:W>b1
+                                   
+                                   
+
+

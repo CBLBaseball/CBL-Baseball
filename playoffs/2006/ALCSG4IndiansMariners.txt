@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2006 Cleveland Indians At 2006 Seattle Mariners          10/10/2006
+
+[1]  Indians            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  G.Sizemore CF       4  1  2  0 .538     I.Suzuki RF         5  0  1  0 .313  
+  J.Kent 2B           4  0  1  1 .214     A.Rodriguez 3B,SS   4  0  1  0 .375  
+  J.Peralta SS        3  0  1  1 .182     G.Sheffield DH      4  1  1  1 .333  
+  T.Clark 1B          4  0  0  0 .063     C.Guillen SS        4  2  4  0 .500  
+  M.Ramirez LF        3  0  0  0 .071   A-J.Reed CF           0  0  0  0 .000  
+  E.Durazo DH         4  0  1  0 .250     C.Delgado 1B        4  0  1  0 .125  
+  C.Jones 3B          4  0  1  0 .167     J.Posada C          4  1  2  1 .267  
+  S.Fasano C          3  0  0  0 .000     J.Ellison CF        3  0  1  2 .273  
+  C.Blake RF          4  1  2  0 .286   B-R.Aurilia 3B        1  0  0  0 .000  
+                                          Y.Betancourt 2B     4  0  0  0 .000  
+                                          C.Crawford LF       4  0  3  0 .375  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  8  2                 Totals      37  4 14  4
+
+A-Subbed Defensively (CF) For Guillen In 8th Inning
+B-Subbed Defensively (3B) For Ellison In 8th Inning
+
+Indians......... 0 0 1  0 0 0  1 0 0  -  2  8  0
+Mariners........ 0 2 1  0 0 0  1 0    -  4 14  2
+
+[1]Indians (0-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sabathia LOSS(0-2)         7 2/3  14   4   4   0   7   1   3.14  A1 D9
+J.Valverde                   0 1/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    8      14   4   4   0   7   1
+
+[1]Mariners (4-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Chen WIN(2-0)              9       8   2   1   2   7   0   0.56  A1
+[1]Totals                    9       8   2   1   2   7   0
+
+ATTENDANCE- 45,414 DATE-  TIME- Night 
+T- 2:53
+LEFT ON BASE- Indians: 9  Mariners: 9
+DOUBLE PLAYS- Indians: 1  Mariners: 2
+ERRORS- C.Guillen-2
+DOUBLES- J.Peralta(1st), C.Jones(1st), C.Delgado(1st)
+HOME RUNS- G.Sheffield(1st)
+STOLEN BASES- A.Rodriguez(2nd)
+SACRIFICE FLIES- J.Kent
+WALKS- J.Peralta, M.Ramirez
+HIT BY PITCH- G.Sizemore, S.Fasano
+STRIKE OUTS- G.Sizemore, J.Peralta, T.Clark, M.Ramirez-2, S.Fasano-2, I.Suzuki,
+             A.Rodriguez, C.Delgado-3, J.Posada, Y.Betancourt
+GIDP- J.Kent-2, G.Sheffield
+WILD PITCHES- C.Sabathia
+WEB GEMS- Top 4th: Yuniesky Betancourt robbed Chipper Jones of a base hit.
+
+Shortstop Carlos Guillen had 4 hits and Bruce Chen pitched a complete game as
+the Seattle Mariners beat the Cleveland Indians by a score of 4 to
+2.
+
+Seattle tallied 2 runs in the bottom of the 2nd inning when they had 4 base
+hits.  The crucial at-bat was provided by Jason Ellison who made the crowd
+happy when he lined a base-hit which was good for two runs.  Cleveland had a
+chance in the 9th but they came up short.  
+
+Chen(2-0) picked up the complete game victory, allowing 2 runs. C.C.
+Sabathia(0-2) was charged with the loss.  He gave up 14 hits and no walks in
+7 and 2/3 innings.  
+
+When questioned about the loss, Rick Baker said, 'The fans got to see an
+exciting game out there tonight.  Unfortunately, we couldn't get it done this
+time.  Next time, though, we'll be the clubhouse with all the smiles.'
+[2]
+[1]SCORESHEET: 2006 Cleveland Indians at 2006 Seattle Mariners
+G.Sizemo-A1  A1:Si      B1:HBP     C1:K       D1:E/6>23  E1:Si>13
+                                                         
+                                                         
+J.Kent-A1    A2:G-DP/4  B2:L/6     C2:Si>13   D2:SF/7>3  E2:G-DP/5
+             63>1o                            #          43>1o
+                                                         
+J.Peralt-A1  A3:W>b1    B3:Do>1#   C3:P/6     D3:K
+                                              
+                                              
+T.Clark-A1   A4:F/7     B4:G/43    *6*:K      D4:G/13
+                                              
+                                              
+M.Ramire-A1  *2*:K      *4*:K      C5:W>b1    *8*:G/53
+                                              
+                                              
+E.Durazo-A1  A6:G/43    B6:F/8     C6:Si>12   D6:L/4
+                                              
+                                              
+C.Jones-A1   A7:Do      B7:G/43    C7:P/6     D7:L/6
+                                              
+                                              
+S.Fasano-A1  A8:K       *5*:HBP    C8:K       *9*:F/8
+                                              
+                                              
+C.Blake-A1   *3*:F/8    B9:F/7     *7*:Si+E/  D9:Si
+                                   6          
+                                              
+
+I.Suzuki-A1  A1:Si      B1:G/43    C1:G/13    D1:K       E1:Force/
+                                                         54>1o b1
+                                                         
+A.Rodrig-A1  A2:K       *3*:G/53   *5*:Si     *7*:L/6
+                                              
+                                              
+G.Sheffi-A1  A3:G-DP/5  B3:G/43    C3:SB>12   D3:HR>b#
+             43>1o                 G/63       
+                                              
+C.Guille-A1  *2*:Si     B4:Si      C4:Si>23   D4:Si
+J.Reed-D7                                     
+                                              
+C.Delgad-A1  A5:K       B5:Do>13   C5:K       D5:K
+                                              
+                                              
+J.Posada-A1  A6:Si>12   B6:Si>3#   C6:K       D6:G/53
+                        23                    
+                                              
+J.Elliso-A1  A7:WP>23   B7:F/8     *6*:F/9    *8*:F/7
+R.Aurili-D7  12 Si>3#                         
+             2#                               
+Y.Betanc-A1  A8:P/6     *4*:FO/2   C8:G/53    D8:K
+                                              
+                                              
+C.Crawfo-A1  A9:Si>13   B9:G/13    C9:Si      D9:Si
+                                              
+                                              
+
+

@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2006 Baltimore Orioles At 2006 Seattle Mariners           10/6/2006
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  D.Eckstein SS       4  0  1  1 .286     J.Ellison CF        3  2  2  1 .333  
+  B.Roberts 2B        4  0  0  0 .222   B-J.Reed PH,CF        1  0  1  0 .286  
+  V.Guerrero RF       4  2  2  2 .444     Y.Betancourt 2B     4  1  2  2 .364  
+  R.Sexson 1B         4  0  0  0 .409     G.Sheffield DH      2  0  0  1 .111  
+  J.Gibbons LF        4  0  1  0 .292   C-J.Valentin PH       1  0  0  0 .100  
+  R.Palmeiro DH       4  0  0  0 .308     A.Rodriguez SS      4  0  2  0 .263  
+  M.Mora 3B           3  0  0  0 .174     T.Wigginton 1B      2  1  1  1 .333  
+  C.Beltran CF        3  1  2  0 .391   A-C.Delgado PH,1B     2  0  0  0 .267  
+  J.Kendall C         2  0  0  0 .211     J.Posada C          3  0  0  0 .111  
+                                          I.Suzuki RF         3  0  0  0 .154  
+                                          R.Aurilia 3B        3  0  0  0 .286  
+                                          C.Crawford LF       3  1  1  0 .385  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      31  5  9  5
+
+A-Pinch Hit For Wigginton In 6th Inning
+B-Pinch Hit For Ellison In 7th Inning
+C-Pinch Hit For Sheffield In 8th Inning
+
+Orioles......... 0 0 0  1 0 0  1 1 0  -  3  6  0
+Mariners........ 1 0 1  1 2 0  0 0    -  5  9  0
+
+[1]Orioles (2-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Johnson LOSS(1-1)          5       7   5   5   0   4   2   3.86  A1 C4
+C.Politte                    2 1/3   2   0   0   0   1   0   6.75  C5 D4
+B.Ryan                       0 2/3   0   0   0   0   0   0   2.45  D5
+[1]Totals                    8       9   5   5   0   5   2
+
+[1]Mariners (4-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Chen WIN(1-1)              7 2/3   5   3   3   1   3   2   6.97  A1 D1
+E.Guardado HOLD(1st)         0 2/3   0   0   0   0   1   0   6.14  D2 D3
+J.Mateo SAVE(2nd)            0 2/3   1   0   0   0   2   0   6.75  D4
+[1]Totals                    9       6   3   3   1   6   2
+
+ATTENDANCE- 48,056 DATE-  TIME- Night 
+T- 2:23
+LEFT ON BASE- Orioles: 3  Mariners: 3
+DOUBLE PLAYS- Orioles: 1  Mariners: 1
+DOUBLES- J.Ellison(2nd), Y.Betancourt(2nd), A.Rodriguez(1st), C.Crawford(2nd)
+TRIPLES- Y.Betancourt(1st)
+HOME RUNS- V.Guerrero-2(2nd), J.Ellison(1st), T.Wigginton(1st)
+SACRIFICE FLIES- G.Sheffield
+WALKS- J.Kendall
+STRIKE OUTS- B.Roberts, R.Sexson, R.Palmeiro, M.Mora-2, C.Beltran, I.Suzuki-2,
+             R.Aurilia-2, C.Crawford
+GIDP- J.Kendall, C.Delgado
+WEB GEMS- Top 3rd: Rich Aurilia robbed Jason Kendall of a base hit.
+
+Center fielder Jason Ellison blasted a homerun as the Seattle Mariners topped
+the Baltimore Orioles by a score of 5 to 3 at SAFECO Field.
+
+Seattle promptly took the lead in their half of the first plating an isolated
+run on 2 hits.  Seattle had 9 hits overall, while Baltimore had 6.  
+
+Bruce Chen(1-1) was the winner allowing 3 runs in 7 and 2/3 innings. Julio
+Mateo recorded the save, his 2nd.  Randy Johnson(1-1) was charged with the
+loss.  
+
+[2]
+[1]SCORESHEET: 2006 Baltimore Orioles at 2006 Seattle Mariners
+D.Eckste-A1  A1:FO/5    *4*:F/9    C1:L/6     D1:Si>2#
+                                              13
+                                              
+B.Robert-A1  A2:L/5     B2:L/6     *7*:P/6    D2:K
+                                              
+                                              
+V.Guerre-A1  A3:G/63    B3:HR>b#   C3:HR>b#   *9*:G/63
+                                              
+                                              
+R.Sexson-A1  *2*:G/23   B4:F/8     C4:G/23    D4:K
+                                              
+                                              
+J.Gibbon-A1  A5:FO/3    *5*:G/3    C5:P/6     D5:Si
+                                              
+                                              
+R.Palmei-A1  A6:G/63    B6:L/3     *8*:FO/2   D6:K
+                                              
+                                              
+M.Mora-A1    *3*:K      B7:F/7     C7:K
+                                   
+                                   
+C.Beltra-A1  A8:K       *6*:Si     C8:Si
+                                   
+                                   
+J.Kendal-A1  A9:G/53    B9:G-DP/6  C9:W>12 b
+                        43>1o      1
+                                   
+
+J.Elliso-A1  A1:HR>b#   B1:Do      C1:G/53    D1:Si
+J.Reed-D1                                     
+                                              
+Y.Betanc-A1  A2:L/6     B2:Do>2#   C2:Tr>2#   D2:Force/
+                                              64>1o b1
+                                              
+G.Sheffi-A1  A3:G/43    B3:F/8     C3:SF/8>3  *8*:F/9
+J.Valent-D3                        #          
+                                              
+A.Rodrig-A1  A4:Do      B4:G/43    C4:G/63    D4:Si
+                                              
+                                              
+T.Wiggin-A1  A5:G/63    *4*:HR>b#  *6*:F/8    D5:G-DP/6
+C.Delgad-C5                                   43>1o
+                                              
+J.Posada-A1  *2*:F/7    B6:G/53    C6:F/8
+                                   
+                                   
+I.Suzuki-A1  A7:K       B7:K       C7:G/13
+                                   
+                                   
+R.Aurili-A1  A8:K       B8:F/7     *7*:K
+                                   
+                                   
+C.Crawfo-A1  *3*:K      *5*:Do     C9:G/53
+                                   
+                                   
+
+

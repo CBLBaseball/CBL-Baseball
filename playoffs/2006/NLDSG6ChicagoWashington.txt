@@ -1,0 +1,118 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 Washington Nationals      10/11/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Nationals          AB  R  H RBI AVG
+  J.Encarnacion RF    3  1  0  0 .480     R.Church LF         3  1  1  0 .174  
+  J.Rodriguez DH      4  0  1  0 .333     M.Grudzielanek 2B   3  1  2  4 .400  
+  D.Lee 1B            3  0  1  0 .227     S.Green RF          4  0  0  0 .250  
+  A.Ramirez 3B        3  0  1  1 .300     C.Tracy 1B          4  0  1  0 .125  
+  A.Soriano 2B        4  1  1  1 .250     B.Schneider C       4  0  1  0 .200  
+  J.Jones LF          4  0  1  0 .273     B.Wilkerson CF      4  0  0  0 .048  
+  P.Lo Duca C         3  0  0  0 .261     A.Beltre 3B         3  1  0  0 .158  
+A-R.Cedeno PH         1  0  0  0 .200     D.Hollins DH        3  1  1  0 .357  
+  P.Wilson CF         3  0  0  0 .211     J.Castro SS         3  0  0  0 .188  
+  R.Clayton SS        3  0  0  0 .182                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  5  2                 Totals      31  4  6  4
+
+A-Pinch Hit For Lo Duca In 9th Inning
+
+Cubs............ 1 0 0  0 0 0  0 0 1  -  2  5  1
+Nationals....... 0 0 0  0 4 0  0 0    -  4  6  0
+
+[1]Cubs (3-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior LOSS(0-1)            8       6   4   4   3  11   1   2.35  A1
+[1]Totals                    8       6   4   4   3  11   1
+
+[1]Nationals (3-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement WIN(1-0)           7 1/3   3   1   1   3   6   0   1.32  A1 D1
+C.Cordero SAVE(1st)          1 2/3   2   1   1   0   2   1   4.50  D2
+[1]Totals                    9       5   2   2   3   8   1
+
+ATTENDANCE- 134 DATE-  TIME- Night 
+T- 2:50
+LEFT ON BASE- Cubs: 5  Nationals: 6
+DOUBLE PLAYS- Cubs: 0  Nationals: 1
+ERRORS- P.Lo Duca
+DOUBLES- J.Rodriguez(1st), M.Grudzielanek(2nd), C.Tracy(2nd)
+HOME RUNS- A.Soriano(3rd), M.Grudzielanek(2nd)
+WALKS- J.Encarnacion, D.Lee, A.Ramirez, R.Church, M.Grudzielanek, A.Beltre
+STRIKE OUTS- J.Rodriguez-3, D.Lee, A.Soriano, P.Lo Duca, P.Wilson-2, R.Church,
+             S.Green, C.Tracy-2, B.Schneider, B.Wilkerson-2, A.Beltre-2,
+             D.Hollins, J.Castro
+WILD PITCHES- M.Clement
+
+In a close game the Washington Nationals tallied 4 runs in the 5th inning and
+got by the Chicago (NL) Cubs by the score of 4 to 2.
+
+Mark Grudzielanek provided much of the offense.  He emptied the bases with a
+Grand Slam homerun (his 2nd of the season) in the 5th inning and doubled in
+the 7th inning.  Chicago (NL) made it exciting in the 9th, but they were
+unable to push the needed runs across.  
+
+Matt Clement(1-0) went 7 and 1/3 innings allowing 1 run for the victory.
+Clement got help from Chad Cordero who earned his 1st save.  Mark Prior(0-1)
+suffered the loss.  Despite losing, he struckout 11 Washington batters in 8
+innings.  
+
+Ryne Sandberg was reflective after the loss, 'We should have won this one, we
+just made one too many mistakes.  Son-of-a-gun, that added a couple more
+white hairs on this noggin of mine.'
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 Washington Nationals
+J.Encarn-A1  A1:W>b1    *3*:L/5    C1:F/9     *8*:G/63
+                                              
+                                              
+J.Rodrig-A1  A2:K       B2:Do      C2:K       D2:K
+                                              
+                                              
+D.Lee-A1     A3:Si>13   B3:G/53    *6*:W>b1   D3:K
+                                              
+                                              
+A.Ramire-A1  A4:Si>3#   B4:WP>23   C4:L/6     *9*:P/6
+             12         W>b1                  
+                                              
+A.Sorian-A1  A5:F/7     B5:P/6     C5:K       D5:HR>b#
+                                              
+                                              
+J.Jones-A1   A6:L/4     *4*:F/8    C6:G/43    D6:Si
+                                              
+                                              
+P.Lo Duc-A1  *2*:G/3    B7:K       *7*:G/13   D7:L-DP/4
+R.Cedeno-D7                                   3>1o
+                                              
+P.Wilson-A1  A8:K       B8:K       C8:G/43
+                                   
+                                   
+R.Clayto-A1  A9:G/63    *5*:F/7    C9:G/13
+                                   
+                                   
+
+R.Church-A1  A1:Si      B1:F/9     C1:W>12 b  D1:K
+                                   1          
+                                              
+M.Grudzi-A1  A2:W>12 b  B2:E/2     C2:HR>3#   D2:Do
+             1                     2# 1# b#   
+                                              
+S.Green-A1   A3:F/7     B3:G/43    C3:K       D3:F/8
+                                              
+                                              
+C.Tracy-A1   A4:K       *4*:K      C4:Do      *8*:P/6
+                                              
+                                              
+B.Schnei-A1  A5:G/31    B5:K       C5:L/6     D5:Si
+                                              
+                                              
+B.Wilker-A1  *2*:K      B6:K       *6*:G/43   D6:F/8
+                                              
+                                              
+A.Beltre-A1  A7:K       *5*:W>b1   C7:K       D7:L/6
+                                              
+                                              
+D.Hollin-A1  A8:K       B8:Si>13   C8:P/6
+                                   
+                                   
+J.Castro-A1  *3*:L/6    B9:K       *7*:G/23
+                                   
+                                   
+
+

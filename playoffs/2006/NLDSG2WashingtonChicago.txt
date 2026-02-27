@@ -1,0 +1,115 @@
+[1]BOXSCORE: 2006 Washington Nationals At 2006 Chicago (NL) Cubs      10/11/2006
+
+[1]  Nationals          AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  R.Church LF         3  1  1  4 .250     J.Encarnacion CF    4  1  2  2 .667  
+  M.Grudzielanek 2B   5  1  3  2 .444     M.Murton DH         4  0  1  0 .250  
+  S.Green RF          5  0  0  0 .125     D.Lee 1B            4  0  0  0 .125  
+  C.Tracy 1B          5  0  0  0 .111     A.Ramirez 3B        3  0  0  0 .167  
+  B.Schneider C       5  0  0  0 .143     A.Soriano 2B        4  0  0  0 .000  
+  B.Wilkerson CF      5  1  1  0 .125     J.Jones RF          4  0  1  0 .500  
+  A.Beltre 3B         2  2  1  1 .167     P.Lo Duca C         3  0  0  0 .286  
+  D.Hollins DH        2  2  1  0 .400     P.Wilson LF         3  1  1  0 .286  
+  J.Castro SS         3  1  2  1 .500     R.Clayton SS        3  1  1  1 .143  
+A-M.Byrd PH           1  1  1  11.000                                          
+B-C.Guzman SS         0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  9 10  9                 Totals      32  3  6  3
+
+A-Pinch Hit For Castro In 8th Inning
+B-Subbed Defensively (SS) For Byrd In 8th Inning
+
+Nationals....... 0 5 0  0 0 0  0 4 0  -  9 10  0
+Cubs............ 0 0 3  0 0 0  0 0 0  -  3  6  1
+
+[1]Nationals (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Patterson WIN(1-0)         9       6   3   3   1   4   1   3.00  A1
+[1]Totals                    9       6   3   3   1   4   1
+
+[1]Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Zambrano LOSS(0-1)         1 2/3   5   5   5   0   2   1  27.00  A1 B1
+A.Small                      4       3   0   0   3   2   0   0.00  B2 D1
+J.Foster                     1 2/3   1   3   3   2   1   0  16.20  D2 D9
+J.Speier                     1 2/3   1   1   1   0   2   1   5.40  E1
+[1]Totals                    9      10   9   9   5   7   2
+
+ATTENDANCE- 36,402 DATE-  TIME- Day 
+T- 2:53
+LEFT ON BASE- Nationals: 6  Cubs: 3
+DOUBLE PLAYS- Nationals: 0  Cubs: 0
+ERRORS- A.Ramirez
+DOUBLES- P.Wilson(2nd), R.Clayton(1st)
+HOME RUNS- R.Church(1st), M.Grudzielanek(1st), J.Encarnacion(1st)
+STOLEN BASES- A.Beltre(1st)
+CAUGHT STEALING- J.Encarnacion
+SACRIFICE FLIES- R.Church
+WALKS- R.Church, A.Beltre-2, D.Hollins-2, A.Ramirez
+STRIKE OUTS- S.Green, C.Tracy-3, B.Wilkerson-3, M.Murton, D.Lee, P.Wilson-2
+PASSED BALLS- B.Schneider
+
+John Patterson pitched a complete game as the Washington Nationals defeated
+the Chicago (NL) Cubs 9 to 3 at Wrigley Field.
+
+Patterson(1-0) had a solid outing for Washington.  He was reached for 6 hits
+and 1 walk in 9 innings.  Washington had a total of 10 hits for the game.
+
+Carlos Zambrano(0-1) was tagged with the loss.  He gave up 5 runs and 5 hits
+in 1 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2006 Washington Nationals at 2006 Chicago (NL) Cubs
+R.Church-A1  A1:F/8     B1:HR>3#   C1:L/3     D1:W>23 1  E1:SF/8>3
+                        1# b#                 2 b1       #
+                                                         
+M.Grudzi-A1  A2:G/3     B2:Si      *5*:Si     D2:G/31    E2:HR>1#
+                                                         b#
+                                                         
+S.Green-A1   A3:K       B3:L/4     C3:G/43>1  *7*:F/8    E3:G/63
+                                   2                     
+                                                         
+C.Tracy-A1   *2*:K      *3*:F/9    C4:K       D4:G/31    *9*:K
+                                                         
+                                                         
+B.Schnei-A1  A5:F/8     B5:L/6     C5:L/6     D5:FO/2    E5:G/63
+                                                         
+                                                         
+B.Wilker-A1  A6:Si+E/5  B6:K       *6*:G/43   *8*:K      E6:K
+                                                         
+                                                         
+A.Beltre-A1  A7:Si>2#   *4*:G/43   C7:W>b1    D7:W>b1
+                                              
+                                              
+D.Hollin-A1  A8:Si>12   B8:L/5     C8:SB>12   D8:W>12 b
+                                   W>b1       1
+                                              
+J.Castro-A1  A9:Si>2#   B9:Si      C9:P/6     D9:Si>2#
+M.Byrd-D9    13                               13
+C.Guzman-E4                                   
+
+J.Encarn-A1  A1:F/8     B1:HR>2#   *5*:G/43   *8*:Si
+                        b#                    
+                                              
+M.Murton-A1  A2:K       B2:Si      C2:G/53    D2:CS/24>
+                                              1o F/8
+                                              
+D.Lee-A1     A3:K       B3:G/43>1  C3:G/63    D3:G/53
+                        2                     
+                                              
+A.Ramire-A1  *2*:F/8    B4:PB>23   *6*:L/3    *9*:F/8
+                        W>b1                  
+                                              
+A.Sorian-A1  A5:G/53    B5:L/3     C5:F/9     D5:F/9
+                                              
+                                              
+J.Jones-A1   A6:Si      B6:G/13    C6:G/31    D6:G/43
+                                              
+                                              
+P.Lo Duc-A1  A7:G/63    *4*:F/7    *7*:F/7
+                                   
+                                   
+P.Wilson-A1  *3*:Do     B8:K       C8:K
+                                   
+                                   
+R.Clayto-A1  A9:Do>2#   B9:F/8     C9:G/13
+                                   
+                                   
+
+

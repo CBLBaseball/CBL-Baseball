@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2006 Seattle Mariners At 2006 New York (NL) Mets         10/27/2006
+
+[1]  Mariners           AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Guillen SS        5  2  2  0 .500     C.Counsell 2B       3  1  0  0 .164  
+  C.Crawford LF       4  1  2  1 .405     X.Nady 1B           4  0  1  0 .063  
+D-J.Ellison PH        1  0  0  0 .324     M.Derosa DH         4  0  1  0 .286  
+  C.Delgado 1B        4  1  1  0 .175     D.Wright 3B         3  2  2  1 .277  
+  A.Rodriguez 3B      4  1  2  3 .326     R.Castro C          3  0  1  0 .667  
+  J.Valentin C        4  0  2  1 .214     C.Floyd LF          4  1  2  1 .360  
+  J.Reed CF           4  0  0  0 .143     R.Mondesi RF        3  1  1  3 .333  
+  J.Vidro 2B          3  0  1  0 .214     G.Matthews Jr CF    4  1  1  1 .087  
+A-M.Morse PH          1  0  0  0 .667     J.Reyes SS          3  0  0  0 .300  
+B-Y.Betancourt 2B     0  0  0  0 .267                                          
+  G.Sheffield DH      3  0  0  0 .220                                          
+  I.Suzuki RF         3  0  0  0 .204                                          
+C-R.Aurilia PH        1  0  0  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 10  5                 Totals      31  6  9  6
+
+A-Pinch Hit For Vidro In 8th Inning
+B-Subbed Defensively (2B) For Morse In 8th Inning
+C-Pinch Hit For Suzuki In 9th Inning
+D-Pinch Hit For Crawford In 9th Inning
+
+Mariners........ 1 0 0  0 0 0  0 4 0  -  5 10  0
+Mets............ 0 0 2  0 0 3  0 1    -  6  9  0
+
+[1]Mariners (9-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vargas                     5 1/3   7   5   5   2   7   2   5.25  A1 C7
+J.Mateo LOSS(0-1)            2 2/3   2   1   1   0   2   0   4.91  C8
+[1]Totals                    8       9   6   6   2   9   2
+
+[1]Mets (9-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz                     7       8   4   4   1   5   0   3.12  A1 D3
+T.Gordon WIN(1-0) BS(1st)    1 2/3   2   1   1   0   1   1   6.14  D4 E1
+B.Wagner SAVE(3rd)           0 1/3   0   0   0   0   0   0   2.45  E2
+[1]Totals                    9      10   5   5   1   6   1
+
+ATTENDANCE- 243 DATE-  TIME- Day 
+UMPIRES- Shannon Hall, , , 
+T- 2:26
+LEFT ON BASE- Mariners: 6  Mets: 5
+DOUBLE PLAYS- Mariners: 0  Mets: 0
+DOUBLES- C.Guillen(5th), R.Castro(2nd)
+HOME RUNS- A.Rodriguez(5th), R.Mondesi(1st), G.Matthews Jr(1st)
+SACRIFICE HITS- R.Castro, R.Mondesi
+WALKS- G.Sheffield, C.Counsell, D.Wright
+STRIKE OUTS- C.Guillen, C.Crawford, C.Delgado-2, J.Vidro, I.Suzuki, C.Counsell,
+             X.Nady-2, M.Derosa-2, R.Castro, C.Floyd, R.Mondesi, J.Reyes
+WILD PITCHES- J.Mateo, T.Gordon
+
+243 fans were treated to a fine game at Shea Stadium as only one run separated
+the combatants at game's end.  The New York (NL) Mets won by the slimmest of
+margins, 6 to 5.
+
+The deciding run was scored by New York (NL) in the 8th. David Wright laced a
+base-hit.  Julio Mateo then bounced one in the dirt for a wild pitch.  Ramon
+Castro then laid down a sacrifice bunt.  Cliff Floyd stepped in and he
+stroked a single scoring the run.  The Seattle batters went down meekly in
+the 9th.  
+
+The win went to Tom Gordon(1-0) who allowed 1 run in 1 and 2/3 innings. Gordon
+got relief help from Billy Wagner who gained credit for his 3rd save.
+Mateo(0-1) absorbed the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2006 Seattle Mariners at 2006 New York (NL) Mets
+C.Guille-A1  A1:Si      B1:G/53    C1:L/4     *8*:Do     E1:K
+                                                         
+                                                         
+C.Crawfo-A1  A2:K       *3*:G/63   C2:Si      D2:Si>2#   E2:F/7
+J.Elliso-E2                                              
+                                                         
+C.Delgad-A1  A3:K       B3:G/43    C3:K       D3:Si>13
+                                              
+                                              
+A.Rodrig-A1  A4:Si>12   B4:F/7     *6*:L/6    D4:HR>3#
+                                              1# b#
+                                              
+J.Valent-A1  A5:Si>2#   *4*:F/9    C5:G/63    D5:Si
+             13                               
+                                              
+J.Reed-A1    A6:L/4     B6:L/4     C6:G/13    D6:F/7
+                                              
+                                              
+J.Vidro-A1   *2*:K      B7:Si      *7*:G/13   D7:WP>12
+M.Morse-D7                                    G/53
+Y.Betanc-D9                                   
+G.Sheffi-A1  A8:W>b1    B8:L/4     C8:F/7     D8:F/7
+                                              
+                                              
+I.Suzuki-A1  A9:K       *5*:F/8    C9:FO/5    *9*:F/8
+R.Aurili-D9                                   
+                                              
+
+C.Counse-A1  A1:K       B1:W>b1    *5*:L/4    *7*:G/43
+                                              
+                                              
+X.Nady-A1    A2:K       B2:Si>12   C2:FO/2    D2:K
+                                              
+                                              
+M.Derosa-A1  A3:G/53    B3:Si>23   C3:K       D3:K
+                        12                    
+                                              
+D.Wright-A1  *2*:G/31   B4:Si>3#   *6*:W>b1   *8*:Si
+                        23 12                 
+                                              
+R.Castro-A1  A5:Do      B5:K       C5:F/8     D5:WP>12
+                                              Sac/14>23
+                                              
+C.Floyd-A1   A6:P/4     B6:K       C6:Si>12   D6:Si>3#
+                                              
+                                              
+R.Mondes-A1  A7:F/8     *4*:K      C7:HR>2#   D7:Sac/14
+                                   1# b#      >12
+                                              
+G.Matthe-A1  *3*:HR>b#  B8:G/43    C8:G/63    D8:F/9
+                                              
+                                              
+J.Reyes-A1   A9:G/3     B9:K       C9:F/8
+                                   
+                                   
+
+

@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2006 Washington Nationals At 2006 Chicago (NL) Cubs      10/11/2006
+
+[1]  Nationals          AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  R.Church LF         5  0  1  0 .200     J.Encarnacion CF,LF 5  1  4  0 .800  
+  M.Grudzielanek 2B   4  0  1  0 .250     R.Clayton SS        4  0  0  0 .000  
+  S.Green RF          3  0  1  0 .333     D.Lee 1B            4  1  1  0 .250  
+  C.Tracy 1B          4  0  1  0 .250     A.Ramirez 3B        3  0  1  1 .333  
+  B.Schneider C       2  1  1  0 .500     A.Soriano 2B        4  0  0  1 .000  
+  B.Wilkerson CF      3  0  0  0 .000   A-M.Scutaro 2B        0  0  0  0 ----  
+  A.Beltre 3B         4  0  0  0 .000     J.Jones RF          4  2  3  1 .750  
+  D.Hollins DH        3  1  1  0 .333     P.Wilson LF         4  0  1  0 .250  
+B-M.Tucker PH         1  0  0  0 .000   C-S.Finley CF         0  0  0  0 ----  
+  J.Castro SS         3  0  1  2 .333     P.Lo Duca C         4  0  2  1 .500  
+D-T.Lee PH            1  0  0  0 .000     R.Cedeno DH         4  0  1  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      36  4 13  4
+
+A-Subbed Defensively (2B) For Soriano In 8th Inning
+B-Pinch Hit For Hollins In 9th Inning
+C-Subbed Defensively (CF) For Wilson In 9th Inning
+D-Pinch Hit For Castro In 9th Inning
+
+Nationals....... 0 2 0  0 0 0  0 0 0  -  2  7  0
+Cubs............ 2 0 0  0 0 1  0 1    -  4 13  0
+
+[1]Nationals (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver LOSS(0-1)           7 2/3  13   4   4   1   3   1   4.70  A1 D9
+H.Carrasco                   0 1/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    8      13   4   4   1   3   1
+
+[1]Cubs (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens WIN(1-0)           7 2/3   7   2   2   3   9   0   2.35  A1 D6
+K.Farnsworth SAVE(1st)       1 1/3   0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       7   2   2   3  11   0
+
+ATTENDANCE- 35,711 DATE-  TIME- Day 
+UMPIRES- Kevin Gordon, , , 
+T- 2:58
+LEFT ON BASE- Nationals: 8  Cubs: 9
+DOUBLE PLAYS- Nationals: 0  Cubs: 1
+DOUBLES- J.Castro(1st), P.Wilson(1st)
+HOME RUNS- J.Jones(1st)
+STOLEN BASES- M.Grudzielanek(1st)
+WALKS- S.Green, B.Schneider, B.Wilkerson, A.Ramirez
+HIT BY PITCH- B.Schneider
+STRIKE OUTS- R.Church-3, M.Grudzielanek-2, B.Wilkerson, A.Beltre-2, D.Hollins-2,
+             T.Lee, A.Soriano, J.Jones, P.Wilson
+GIDP- C.Tracy
+WILD PITCHES- H.Carrasco
+
+Jacque Jones jacked one out of the ballyard as the Chicago (NL) Cubs topped
+the Washington Nationals by a score of 4 to 2 at Wrigley Field.
+
+Chicago (NL) went ahead for good in the 6th inning scoring a single run
+utilizing 3 base hits.  Washington was out-hit by Chicago (NL), 13 hits to 7.
+
+The winning pitcher was Roger Clemens(1-0) who allowed 2 runs in 7 and 2/3
+innings. Clemens got help from Kyle Farnsworth who earned his 1st save.  Jeff
+Weaver(0-1) was charged with the loss.  
+
+'I didn't have my best stuff but sometimes you just get lucky,' Clemens said,
+'this was one of those times.'
+[2]
+[1]SCORESHEET: 2006 Washington Nationals at 2006 Chicago (NL) Cubs
+R.Church-A1  A1:K       B1:K       C1:Si      D1:G/3     E1:K
+                                                         
+                                                         
+M.Grudzi-A1  A2:Si      *3*:G/63   C2:K       *8*:K
+                                              
+                                              
+S.Green-A1   A3:SB>12   B3:G/43    *6*:W>b1   D3:G/31
+             Si>23                            
+                                              
+C.Tracy-A1   A4:G-DP/4  B4:F/9     C4:P/6     D4:Si
+             63>1o                            
+                                              
+B.Schnei-A1  *2*:HBP    *4*:G/63   C5:W>12 b  D5:Si>12
+                                   1          
+                                              
+B.Wilker-A1  A6:K       B6:F/8     C6:G/43>2  D6:W>23 1
+                                   3 12       2 b1
+                                              
+A.Beltre-A1  A7:K       B7:G/63    C7:K       D7:F/9
+                                              
+                                              
+D.Hollin-A1  A8:Si>12   *5*:K      *7*:K      *9*:G/31
+M.Tucker-D8                                   
+                                              
+J.Castro-A1  A9:Do>2#   B9:L/6     C9:F/9     D9:K
+T.Lee-D9     1#                               
+                                              
+
+J.Encarn-A1  A1:Si      B1:Si>13   C1:Si      *7*:Si     E1:WP>12
+                                                         G/63
+                                                         
+R.Clayto-A1  A2:F/8     B2:F/7     C2:Force/  D2:Force/
+                                   64>1o b1   16>1o b1
+                                              
+D.Lee-A1     A3:Si>13   *3*:L/6    C3:F/7     D3:L/6
+                                              
+                                              
+A.Ramire-A1  A4:Si>3#   B4:G/63    *6*:L/3    D4:W>12 b
+             13                               1
+                                              
+A.Sorian-A1  A5:Force/  B5:K       C5:G/43    D5:L/5
+M.Scutar-D6  46>3# 1o                         
+             b1                               
+J.Jones-A1   A6:Si>1o   *4*:K      C6:Si      *8*:HR>b#
+                                              
+                                              
+P.Wilson-A1  *2*:K      B7:F/8     C7:Do>13   D7:G/63
+S.Finley-E2                                   
+                                              
+P.Lo Duc-A1  A8:Si      B8:G/31    C8:Si>3#   D8:F/8
+                                   23         
+                                              
+R.Cedeno-A1  A9:F/8     *5*:G/63   C9:L/5     D9:Si
+                                              
+                                              
+
+

@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2006 Seattle Mariners At 2006 Cleveland Indians          10/10/2006
+
+[1]  Mariners           AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  C.Guillen SS        4  0  1  0 .250     G.Sizemore CF       4  0  1  0 .296  
+A-R.Aurilia PH,3B     1  0  0  0 .000     C.Jones 3B          4  0  1  0 .333  
+  A.Rodriguez 3B,SS   5  0  1  0 .375   B-R.Ludwick PH        1  0  0  0 .000  
+  G.Sheffield DH      4  2  1  0 .286     M.Ramirez DH        4  0  1  0 .179  
+  I.Suzuki RF         2  1  1  0 .333     T.Clark 1B          4  0  0  0 .206  
+  J.Vidro 2B          3  0  1  0 .167     J.Kent 2B           3  0  1  0 .321  
+  J.Ellison CF        4  0  1  3 .250     V.Martinez C        3  0  0  0 .042  
+  C.Delgado 1B        4  0  0  0 .000     J.Peralta SS        4  0  1  0 .200  
+  J.Posada C          4  0  1  0 .125     C.Crisp LF          4  1  1  0 .278  
+  C.Crawford LF       4  0  1  0 .250     A.Kearns RF         2  0  1  1 .111  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  3                 Totals      33  1  7  1
+
+A-Pinch Hit For Guillen In 9th Inning
+B-Pinch Hit For Jones In 9th Inning
+
+Mariners........ 2 0 1  0 0 0  0 0 0  -  3  8  1
+Indians......... 0 0 0  0 0 0  0 0 1  -  1  7  1
+
+[1]Mariners (2-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett WIN(1-0)           8 2/3   7   1   1   5  16   0   1.04  A1 E1
+J.Mateo SAVE(1st)            0 1/3   0   0   0   0   1   0   0.00  E2
+[1]Totals                    9       7   1   1   5  17   0
+
+[1]Indians (3-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Davis LOSS(0-2)            8       8   3   2   3   5   0   3.00  A1 D9
+J.Valverde                   1       0   0   0   0   1   0   3.77  E1
+[1]Totals                    9       8   3   2   3   6   0
+
+ATTENDANCE- 56,413 DATE-  TIME- Night 
+T- 2:47
+LEFT ON BASE- Mariners: 8  Indians:10
+DOUBLE PLAYS- Mariners: 1  Indians: 1
+ERRORS- C.Guillen, D.Davis
+DOUBLES- A.Rodriguez(1st), G.Sheffield(1st), J.Kent(1st), C.Crisp(1st)
+WALKS- I.Suzuki-2, J.Vidro, G.Sizemore, J.Kent, V.Martinez, A.Kearns-2
+STRIKE OUTS- A.Rodriguez-2, C.Delgado-3, J.Posada, G.Sizemore, C.Jones,
+             R.Ludwick, M.Ramirez-2, T.Clark-4, V.Martinez-3, J.Peralta,
+             C.Crisp-3, A.Kearns
+GIDP- R.Aurilia, M.Ramirez
+
+Josh Beckett mowed down 16 Cleveland batters as the Seattle Mariners defeated
+the Cleveland Indians 3 to 1 at Jacobs Field.
+
+Beckett(1-0) was in control of the game from the outset.  He didn't give up
+much, just 7 hits and 5 walks in 8 and 2/3 innings.  Cleveland threatened in
+the 9th but their rally came up short.  
+
+Julio Mateo earned the save, his 1st.  Doug Davis(0-2) was hit with the loss.
+Beckett, when asked about his 16 strikeout performance noted, 'The important
+thing is that we won, if I get 20 and we lose, what good does it do our team?
+But, on the other hand, since we won it feels great!'
+[2]
+[1]SCORESHEET: 2006 Seattle Mariners at 2006 Cleveland Indians
+C.Guille-A1  A1:F/7     B1:Si      C1:G/63    D1:F/9     E1:G-DP/5
+R.Aurili-E1                                              43>1o
+                                                         
+A.Rodrig-A1  A2:G/63    B2:F/8     *5*:Do     *7*:K      E2:K
+                                                         
+                                                         
+G.Sheffi-A1  A3:Do      *3*:E/1    C3:F/7     D3:L/6
+                                              
+                                              
+I.Suzuki-A1  A4:IW>b1   B4:Si>12   C4:IW>b1   D4:F/7
+                                              
+                                              
+J.Vidro-A1   A5:W>23 1  B5:F/9>23  C5:F/8     *8*:Si
+             2 b1                             
+                                              
+J.Elliso-A1  A6:Si>3#   B6:Force/  C6:F/9     D6:G/63>1
+             2# 13      64>3# 1o              2
+                        b1                    
+C.Delgad-A1  A7:K       B7:K       *6*:K      D7:G/63>2
+                                              3
+                                              
+J.Posada-A1  *2*:K      *4*:G/63   C8:Si      D8:G/53
+                                              
+                                              
+C.Crawfo-A1  A9:G/53    B9:L/4     C9:L/4     *9*:Si
+                                              
+                                              
+
+G.Sizemo-A1  A1:Si      B1:F/9     C1:L/4     D1:K       E1:W>12 b
+                                                         1
+                                                         
+C.Jones-A1   A2:Force/  *4*:Si     *6*:K      D2:Force/  E2:K
+R.Ludwic-E2  46>1o b1                         64>1o b1   
+                                                         
+M.Ramire-A1  A3:G-DP/6  B3:K       C3:Si      *8*:K
+             43>1o                            
+                                              
+T.Clark-A1   *2*:K      B4:K       C4:K       D4:K
+                                              
+                                              
+J.Kent-A1    A5:G/53    B5:Do>1o   C5:W>12 b  D5:G/43
+                                   1          
+                                              
+V.Martin-A1  A6:K       *5*:W>b1   C6:K       *9*:K
+                                              
+                                              
+J.Peralt-A1  *3*:Si     B7:K       *7*:E/6    D7:F/8
+                                              
+                                              
+C.Crisp-A1   A8:K       B8:K       C8:K       D8:Do
+                                              
+                                              
+A.Kearns-A1  A9:K       B9:W>12 b  C9:W>12 b  D9:Si>2#
+                        1          1          
+                                              
+
+

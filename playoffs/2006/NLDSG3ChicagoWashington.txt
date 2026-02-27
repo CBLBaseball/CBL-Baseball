@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2006 Chicago (NL) Cubs At 2006 Washington Nationals      10/11/2006
+
+[1]  Cubs               AB  R  H RBI AVG     Nationals          AB  R  H RBI AVG
+  J.Encarnacion RF,LF 4  1  3  1 .692     R.Church LF         4  0  0  0 .167  
+  R.Clayton SS        5  0  1  0 .167     M.Grudzielanek 2B   5  0  1  0 .357  
+  D.Lee 1B            4  1  1  0 .167     S.Green RF          4  0  1  1 .167  
+  J.Rodriguez DH      3  0  1  0 .333     C.Tracy 1B          4  0  0  0 .077  
+  A.Ramirez 3B        3  0  1  1 .222     B.Schneider C       3  1  2  0 .300  
+  A.Soriano 2B        4  0  0  0 .000   B-D.Ardoin PH,C       1  0  0  0 .000  
+C-M.Scutaro 2B        0  0  0  0 ----     B.Wilkerson CF      3  1  0  0 .091  
+  J.Jones LF,RF       4  0  0  0 .333     A.Beltre 3B         3  0  1  1 .222  
+D-C.Patterson RF      0  0  0  0 ----     D.Hollins DH        3  0  1  0 .375  
+  P.Lo Duca C         4  1  2  0 .364   E-M.Tucker PH         0  0  0  0 .000  
+  P.Wilson CF         2  0  0  0 .222   F-N.Logan PR          0  1  0  0 ----  
+A-S.Finley CF         1  0  0  0 .000     J.Castro SS         2  0  0  1 .375  
+                                        G-T.Lee PH            1  0  1  0 .500  
+                                        H-M.Byrd PR           0  1  0  01.000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  9  2                 Totals      33  4  7  3
+
+A-Subbed Defensively (CF) For Wilson In 7th Inning
+B-Pinch Hit For Schneider In 8th Inning
+C-Subbed Defensively (2B) For Soriano In 8th Inning
+D-Subbed Defensively (RF) For Jones In 9th Inning
+E-Pinch Hit For Hollins In 9th Inning
+F-Pinch Ran For Tucker In 9th Inning
+G-Pinch Hit For Castro In 9th Inning
+H-Pinch Ran For Lee In 9th Inning
+
+Cubs............ 1 0 0  0 0 1  1 0 0  -  3  9  3
+Nationals....... 0 0 0  2 0 0  0 0 2  -  4  7  2
+
+[1]Cubs (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior                      7 1/3   6   2   0   2   5   0   0.00  A1 D4
+J.Foster HOLD(1st)           0 2/3   0   0   0   0   1   0  11.57  D5 D6
+K.Farnsworth L(0-1)B(1st)    0 1/3   1   2   1   2   0   0   5.40  D7
+[1]Totals                    8 1/3   7   4   1   4   6   0
+
+[1]Nationals (2-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement                    6 1/3   7   3   1   2   8   0   1.42  A1 D1
+H.Carrasco WIN(1-0)          2 2/3   2   0   0   1   3   0   0.00  D2
+[1]Totals                    9       9   3   1   3  11   0
+
+ATTENDANCE- 63 DATE-  TIME- Night 
+T- 2:49
+LEFT ON BASE- Cubs: 8  Nationals: 9
+DOUBLE PLAYS- Cubs: 1  Nationals: 3
+ERRORS- J.Encarnacion, A.Ramirez, M.Scutaro, B.Schneider, B.Wilkerson
+DOUBLES- J.Encarnacion(1st), P.Lo Duca(1st), S.Green(1st)
+STOLEN BASES- R.Clayton(1st), J.Rodriguez(1st), N.Logan(1st)
+SACRIFICE HITS- J.Castro
+WALKS- J.Encarnacion, J.Rodriguez, P.Wilson, S.Green, B.Wilkerson, A.Beltre,
+       M.Tucker
+HIT BY PITCH- A.Ramirez, R.Church
+STRIKE OUTS- J.Encarnacion, R.Clayton-2, D.Lee, J.Rodriguez-2, A.Soriano-2,
+             J.Jones, P.Wilson, S.Finley, R.Church-2, M.Grudzielanek, C.Tracy,
+             B.Wilkerson-2
+GIDP- R.Clayton
+PASSED BALLS- B.Schneider-2
+WEB GEMS- Bot 1st: Paul Lo Duca blocked the plate, saving a run!
+
+Brian Schneider had 2 base hits at RFK STADIUM as the Washington Nationals
+came back dramatically to top the Chicago (NL) Cubs by the score of 4 to
+3.
+
+Washington scored the decisive runs in a big 9th inning scoring 2 runs. After
+an out was recorded, Michael Tucker started the rally when he drew a walk.
+Logan was safe on a stolen base.  Travis Lee then banged out a single.  Ryan
+Church came up and he was hit by a pitch.  Mark Grudzielanek stepped into the
+box and reached on an error bringing in a run.  Shawn Green kept things alive
+and drew a walk giving Washington the win and sending the home town fans into
+a frenzy.  Washington banged out 7 on the night.  
+
+Hector Carrasco(1-0) picked up the victory, allowing no runs in 2 and 2/3
+innings. Kyle Farnsworth(0-1) was given the loss in relief.  Harlan DeJong
+was all smiles after the ballgame, 'It sure was looking pretty dim there for
+a while, but our guys never gave up - and neither did our fans - they kept
+cheering us on.  What a sweet win!'
+[2]
+[1]SCORESHEET: 2006 Chicago (NL) Cubs at 2006 Washington Nationals
+J.Encarn-A1  A1:Si      *3*:Si     C1:K       D1:Do>2#   E1:W>12 b
+                                                         1
+                                                         
+R.Clayto-A1  A2:Si>13   B2:G/3>12  C2:G-DP/4  D2:K       E2:K
+                                   63>1o                 
+                                                         
+D.Lee-A1     A3:SB+E/2  B3:L-DP/5  *6*:Si     D3:G/43
+             >3# 13 K   4>2o                  
+                                              
+J.Rodrig-A1  A4:K       *4*:W>b1   C4:PB>12   *8*:Si
+                                   K          
+                                              
+A.Ramire-A1  A5:FO/2    B5:HBP>12  C5:Si>2#   D5:SB>12
+                                              G/63
+                                              
+A.Sorian-A1  *2*:K      B6:L/6     C6:K       D6:PB>23
+M.Scutar-D7                                   F-DP/82>3
+                                              o
+J.Jones-A1   A7:G/31    B7:K       C7:G/63    *9*:F/8
+C.Patter-E3                                   
+                                              
+P.Lo Duc-A1  A8:E/8>b2  B8:G/63    *7*:Do     D8:Si
+                                              
+                                              
+P.Wilson-A1  A9:L/6     *5*:W>b1   C9:K       D9:K
+S.Finley-D4                                   
+                                              
+
+R.Church-A1  A1:G/63    *3*:K      C1:G/13    *7*:K      E1:HBP>12
+                                                         
+                                                         
+M.Grudzi-A1  A2:E/5     B2:Si      *5*:K      D2:G/43    E2:E/4>3#
+                                                         23 12 
+                                                         
+S.Green-A1   A3:Do>13   B3:F/9     C3:G/13    D3:G/63    E3:W>3# 2
+                                                         3 12 b1
+                                                         
+C.Tracy-A1   A4:F-DP/8  B4:K       C4:L/6     *8*:F/8
+             2>3o 23                          
+                                              
+B.Schnei-A1  *2*:Si     *4*:Si     *6*:G/43   D5:G/43
+D.Ardoin-D5                                   
+                                              
+B.Wilker-A1  A6:W>12 b  B6:E/9>13  C6:K       D6:K
+             1          b2                    
+                                              
+A.Beltre-A1  A7:FO/2    B7:Si>3#   C7:W>b1    *9*:F/9
+                        23                    
+                                              
+D.Hollin-A1  A8:Force/  B8:G/31>1  C8:Si>12   D8:W>b1
+M.Tucker-D8  31>23 1o   2                     
+N.Logan-D9   b1                               
+J.Castro-A1  A9:Force/  B9:Sac/54  C9:G/53    D9:SB>12
+T.Lee-D9     46>1o b1   >3# 23                Si>23
+M.Byrd-E1                                     
+
+

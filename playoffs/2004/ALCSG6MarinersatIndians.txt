@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2004 Seattle Mariners At 2004 Cleveland Indians          10/24/2004
+
+[1]  Mariners           AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  I.Suzuki RF         5  0  1  0 .286     M.Bradley CF        4  1  1  0 .250  
+  J.Vidro 2B          4  0  0  0 .091     N.Garciaparra SS    4  1  2  2 .281  
+  C.Delgado 1B        3  0  1  0 .250     M.Ramirez DH        3  0  1  0 .406  
+  A.Rodriguez SS      4  0  0  0 .222     J.Thome 1B          3  0  0  0 .154  
+  B.Giles LF          3  0  0  0 .222     J.Kent 2B           4  0  1  0 .200  
+  E.Martinez DH       4  0  1  0 .083   A-B.Phillips 2B       0  0  0  0 .000  
+  J.Posada C          2  1  2  0 .250     J.Gerut RF          4  0  0  0 .273  
+  M.Lowell 3B         4  0  0  0 .182     K.Lofton LF         3  0  0  0 .294  
+  R.Baldelli CF       4  0  1  1 .417   B-C.Crisp LF          0  0  0  0 .200  
+                                          C.Blake 3B          1  0  0  0 .286  
+                                          M.Matheny C         2  0  0  0 .267  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  1  6  1                 Totals      28  2  5  2
+
+A-Subbed Defensively (2B) For Kent In 9th Inning
+B-Subbed Defensively (LF) For Lofton In 9th Inning
+
+Mariners........ 0 0 0  0 0 0  0 0 1  -  1  6  0
+Indians......... 2 0 0  0 0 0  0 0    -  2  5  0
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Nomo LOSS(1-1)             6       5   2   2   4   6   1   1.80  A1 C9
+R.Soriano                    2       0   0   0   0   1   0   0.00  D1
+[1]Totals                    8       5   2   2   4   7   1
+
+[1]Indians                  IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Eaton WIN(2-1)             5       4   0   0   1   6   0   5.12  A1 C2
+R.Mahay HOLD(1st)            1       0   0   0   1   1   0   1.08  C3 C7
+P.Shuey HOLD(1st)            1 1/3   1   0   0   1   1   0   1.23  C8 D4
+D.Riske SAVE(1st)            1 2/3   1   1   1   1   2   0   4.82  D5
+[1]Totals                    9       6   1   1   4  10   0
+
+ATTENDANCE- 41,746 DATE-  TIME- Day 
+UMPIRES- Scott Packard, Jeff Nelson, Derryl Cousins, Alfonzo Marquez
+T- 2:22
+LEFT ON BASE- Mariners:10  Indians: 7
+DOUBLE PLAYS- Mariners: 0  Indians: 0
+HOME RUNS- N.Garciaparra(2nd)
+STOLEN BASES- R.Baldelli(1st), M.Bradley(1st), J.Kent(1st), C.Blake(2nd)
+SACRIFICE HITS- M.Matheny
+WALKS- J.Vidro, C.Delgado, B.Giles, J.Posada, M.Ramirez, J.Thome, C.Blake-2
+HIT BY PITCH- J.Posada
+STRIKE OUTS- I.Suzuki-3, A.Rodriguez, B.Giles, E.Martinez-2, M.Lowell,
+             R.Baldelli-2, M.Bradley-2, J.Thome, J.Kent-2, J.Gerut, M.Matheny
+WILD PITCHES- R.Mahay
+
+At Jacobs Field, the Cleveland faithful were treated to an intriguing
+pitcher's duel.  Adam Eaton(2-1) finally bested his Seattle counterpart,
+Hideo Nomo(1-1), by the score of 2 to 1.
+
+Eaton earned his pay with a solid performance for Eaton.  He surrendered 4
+hits and 1 walk in 5 innings.  Eaton recorded 6 strikeouts.  Seattle
+threatened in the 9th but Cleveland was able to put down the rally.  
+
+Eaton got relief help from David Riske who gained credit for his 1st save.
+Nomo took the loss.  Despite losing Jeff Hammerlund was optimistic after the
+game.  'We'll get over this one.  Sometimes the breaks fall your way,
+sometimes they don't.  Any one of a dozen little things go different, and we
+come out on top.'
+[2]
+[1]SCORESHEET: 2004 Seattle Mariners at 2004 Cleveland Indians
+I.Suzuki-A1  A1:K       B1:F/9     C1:K       D1:Si>12   E1:SB>12
+                                                         K
+                                                         
+J.Vidro-A1   A2:F/8     B2:W>b1    C2:G/53    D2:G/43    E2:G/63
+                                                         
+                                                         
+C.Delgad-A1  A3:Si      B3:F/9     *6*:G/43   *8*:W>b1
+                                              
+                                              
+A.Rodrig-A1  A4:G/53    *4*:K      C4:F/7     D4:F/7
+                                              
+                                              
+B.Giles-A1   *2*:F/9    B5:K       C5:W>b1    D5:FO/2
+                                              
+                                              
+E.Martin-A1  A6:G/63    B6:Si      C6:WP>12   D6:K
+                                   K          
+                                              
+J.Posada-A1  A7:Si      B7:Si>13   *7*:HBP    *9*:W>b1
+                                              
+                                              
+M.Lowell-A1  A8:G/63    B8:K       C8:F/8     D8:G/43>1
+                                              2
+                                              
+R.Baldel-A1  *3*:K      *5*:L/5    C9:K       D9:Si>2#
+                                              
+                                              
+
+M.Bradle-A1  A1:Si      B1:K       C1:K       *7*:G/63
+                                              
+                                              
+N.Garcia-A1  A2:SB>12   B2:G/63    *5*:Si     D2:L/5
+             HR>2# b#                         
+                                              
+M.Ramire-A1  A3:Si      *3*:W>b1   C3:F/8     D3:F/8
+                                              
+                                              
+J.Thome-A1   A4:G/3>12  B4:K       C4:W>12 b  *8*:F/9
+                                   1          
+                                              
+J.Kent-A1    A5:Si>23   B5:K       C5:F/9>23  D5:K
+B.Philli-D7                                   
+                                              
+J.Gerut-A1   A6:SB>12   B6:P/3     C6:G/3     D6:G/13
+             K                                
+                                              
+K.Lofton-A1  A7:F/7     *4*:G/13   *6*:G/63
+C.Crisp-D7                         
+                                   
+C.Blake-A1   *2*:W>b1   B8:W>b1    C8:G/63
+                                   
+                                   
+M.Mathen-A1  A9:Sac/14  B9:SB>12   C9:K
+             >12        L/6        
+                                   
+
+

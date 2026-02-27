@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2004 New York (NL) Mets At 2004 Chicago (NL) Cubs        10/16/2004
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  R.Alomar 2B         5  0  0  0 .182     C.Singleton CF      4  0  0  0 .000  
+  L.Walker RF         4  1  1  0 .182     M.Grudzielanek 2B   4  0  2  0 .250  
+  A.Huff DH           4  1  1  0 .200     B.Bonds LF          3  0  0  0 .375  
+  J.Phillips C        4  1  1  1 .182     S.Sosa DH           4  0  0  0 .182  
+  J.Olerud 1B         3  0  0  0 .091     M.Stairs RF         4  0  0  0 .182  
+  M.Grissom CF        4  0  2  2 .500     D.Lee 1B            2  0  0  0 .000  
+  R.Ventura 3B        4  0  0  0 .091     V.Castilla 3B       3  0  1  0 .400  
+  S.Spencer LF        3  0  0  0 .000     A.Gonzalez SS       3  0  0  0 .111  
+  R.Clayton SS        3  0  1  0 .333     D.Miller C          3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  6  3                 Totals      30  0  3  0
+
+
+Mets............ 2 0 1  0 0 0  0 0 0  -  3  6  2
+Cubs............ 0 0 0  0 0 0  0 0 0  -  0  3  2
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Wakefield WIN(1-0)         5       1   0   0   2   3   0   4.00  A1 B8
+J.Smoltz HOLD(1st)           3       2   0   0   0   4   0   0.00  B9 D2
+T.Gordon SAVE(1st)           1       0   0   0   0   2   0   9.00  D3
+[1]Totals                    9       3   0   0   2   9   0
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Prior LOSS(0-1)            9       6   3   3   4  10   1   4.30  A1
+[1]Totals                    9       6   3   3   4  10   1
+
+ATTENDANCE- 34,954 DATE-  TIME- Day 
+UMPIRES- Travis Katzenmeier, Scott Higgins, Jim Reynolds, Charlie Williams
+T- 2:20
+LEFT ON BASE- Mets: 8  Cubs: 5
+DOUBLE PLAYS- Mets: 1  Cubs: 0
+ERRORS- R.Ventura, R.Clayton, A.Gonzalez, M.Prior
+HOME RUNS- J.Phillips(1st)
+STOLEN BASES- D.Lee(2nd)
+CAUGHT STEALING- D.Lee
+WALKS- L.Walker, J.Olerud, S.Spencer, R.Clayton, B.Bonds, D.Lee
+STRIKE OUTS- R.Alomar-2, L.Walker, J.Olerud-2, M.Grissom, R.Ventura-3,
+             R.Clayton, M.Grudzielanek, S.Sosa-2, M.Stairs-2, A.Gonzalez-2,
+             D.Miller-2
+GIDP- S.Sosa
+
+Marquis Grissom had 2 base hits and 2 RBI as the New York (NL) Mets outscored
+the Chicago (NL) Cubs 3 to 0.
+
+New York (NL) promptly took the lead in their half of the first scoring 2 runs
+on 3 hits.  After an out was recorded, Larry Walker keyed the rally when he
+banged out a single.  Aubrey Huff was next and he singled.  After another
+out, John Olerud stepped up to the plate and he drew a walk to load the
+bases.  Grissom stepped in and he lined a single which was good for two runs.
+That was all Tim Wakefield(1-0) needed.  Neither team managed to score after
+the 3rd inning.  
+
+Wakefield got help from Tom Gordon who earned his 1st save.  Mark Prior(0-1)
+was the losing pitcher.  He pitched 9 innings giving up 6 hits and 4 walks.
+[2]
+[1]SCORESHEET: 2004 New York (NL) Mets at 2004 Chicago (NL) Cubs
+R.Alomar-A1  A1:G/63    B1:G/43>2  C1:K       D1:L/4     E1:K
+                        3                                
+                                                         
+L.Walker-A1  A2:Si      B2:W>b1    C2:F/7     D2:K       E2:G/13
+                                                         
+                                                         
+A.Huff-A1    A3:Si>13   B3:G/43    *5*:G/43   *8*:L/4
+                                              
+                                              
+J.Philli-A1  A4:L/5     *3*:HR>b#  C4:G/31    D4:F/8
+                                              
+                                              
+J.Olerud-A1  A5:W>12 b  B5:K       C5:K       D5:G/3
+             1                                
+                                              
+M.Grisso-A1  A6:Si>3#   B6:K       *6*:F/8    *9*:Si
+             2# 13                            
+                                              
+R.Ventur-A1  A7:K       B7:F/8     C7:K       D7:K
+                                              
+                                              
+S.Spence-A1  *2*:G/43   *4*:W>b1   C8:L/6     D8:E/6>13
+                                              b2 
+                                              
+R.Clayto-A1  A9:Si+E/1  B9:Force/  *7*:K      D9:W>b1
+                        36>1o b1              
+                                              
+
+C.Single-A1  A1:F/8     *4*:F/8    C1:G/23    D1:F/7
+                                              
+                                              
+M.Grudzi-A1  A2:G/63    B2:Si      C2:Si      D2:K
+                                              
+                                              
+B.Bonds-A1   A3:L/4     B3:W>12 b  C3:P/3     *9*:G/31
+                        1                     
+                                              
+S.Sosa-A1    *2*:L/6    B4:G-DP/6  *7*:K      D4:K
+                        43>1o                 
+                                              
+M.Stairs-A1  A5:K       *5*:F/8    C5:F/9     D5:K
+                                              
+                                              
+D.Lee-A1     A6:E/5 CS  B6:W>b1    C6:G/3
+             /24>1o                
+                                   
+V.Castil-A1  *3*:G/63   B7:SB>12   *8*:Si
+                        G/53       
+                                   
+A.Gonzal-A1  A8:K       B8:F/9     C8:K
+                                   
+                                   
+D.Miller-A1  A9:K       *6*:K      C9:E/6>12
+                                   
+                                   
+
+

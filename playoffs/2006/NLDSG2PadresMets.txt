@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2006 San Diego Padres At 2006 New York (NL) Mets         10/12/2006
+
+[1]  Padres             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  J.Gathright RF      4  1  2  0 .500     C.Counsell 2B       3  0  0  1 .250  
+  N.Green 2B          4  1  2  0 .500     L.Walker RF         4  0  2  0 .500  
+  R.White LF          4  0  1  1 .250     M.Sweeney 1B        4  0  0  0 .125  
+  M.Teixeira 1B       5  1  4  1 .625     D.Wright 3B         4  0  0  0 .143  
+  J.Lopez C           3  0  1  0 .429     C.Floyd LF          4  0  1  0 .250  
+  R.Winn CF           3  0  0  1 .125     F.Catalanotto DH    4  0  2  0 .429  
+  D.Jimenez DH        4  0  1  0 .250     G.Matthews Jr CF    3  0  0  0 .000  
+  F.Lopez SS          4  0  0  0 .000     R.Fick C            3  0  0  0 .143  
+  H.Blalock 3B        4  0  1  0 .286     J.Reyes SS          3  1  2  0 .429  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3 12  3                 Totals      32  1  7  1
+
+
+Padres.......... 1 0 0  0 0 1  0 0 1  -  3 12  0
+Mets............ 0 0 0  0 1 0  0 0 0  -  1  7  0
+
+[1]Padres (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Sheets WIN(1-0)            8       6   1   1   0  11   0   1.13  A1 D2
+S.Linebrink SAVE(1st)        1       1   0   0   0   2   0   0.00  D3
+[1]Totals                    9       7   1   1   0  13   0
+
+[1]Mets (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glavine LOSS(0-1)          6 2/3   8   2   2   3   4   0   2.70  A1 D1
+R.Hernandez                  1 1/3   2   0   0   0   0   0  10.80  D2 D7
+B.Wagner                     1       2   1   1   0   2   0   3.00  D8
+[1]Totals                    9      12   3   3   3   6   0
+
+ATTENDANCE- 131 DATE-  TIME- Day 
+T- 2:41
+LEFT ON BASE- Padres:10  Mets: 5
+DOUBLE PLAYS- Padres: 0  Mets: 1
+DOUBLES- J.Gathright(1st), N.Green(1st), M.Teixeira(1st)
+TRIPLES- L.Walker(1st)
+STOLEN BASES- J.Gathright(1st), L.Walker(1st), J.Reyes-3(4th)
+CAUGHT STEALING- J.Gathright, J.Reyes
+SACRIFICE HITS- R.Winn
+SACRIFICE FLIES- C.Counsell
+WALKS- J.Gathright, R.White, J.Lopez
+HIT BY PITCH- N.Green
+STRIKE OUTS- M.Teixeira, D.Jimenez-2, F.Lopez-2, H.Blalock, C.Counsell,
+             L.Walker-2, M.Sweeney-3, D.Wright, C.Floyd-2, F.Catalanotto,
+             G.Matthews Jr, R.Fick-2
+GIDP- R.Winn
+WILD PITCHES- B.Sheets
+WEB GEMS- Top 3rd: Mark Sweeney robbed Hank Blalock of a base hit.
+
+Ben Sheets racked up an impressive total of 11 strikeouts and Mark Teixeira
+had 4 hits as the San Diego Padres defeated the New York (NL) Mets by a score
+of 3 to 1 at Shea Stadium.
+
+Sheets(1-0) looked very much in control throughout the day.  He didn't allow
+much, just 6 hits and no walks in 8 innings.  San Diego had 12 hits for the
+game and New York (NL) had 7.  
+
+Sheets got help from Scott Linebrink who earned his 1st save.  Tom
+Glavine(0-1) absorbed the loss.  He surrendered 2 runs and 8 hits in 6 and
+2/3 innings.  
+
+Sheets didn't realize how many strikeouts he was racking up. When told he had
+11 he was obviously surprised, 'No kidding? Man, I knew that I had a decent
+total, but I didn't think I had K'd that many.  Say, that's pretty good,
+isn't it?'
+[2]
+[1]SCORESHEET: 2006 San Diego Padres at 2006 New York (NL) Mets
+J.Gathri-A1  A1:G/63    B1:W>b1    C1:Force/  D1:Do      E1:Si
+                                   16>1o b1              
+                                                         
+N.Green-A1   A2:Do      B2:CS/24>  C2:L/6     D2:F/8     E2:SB>12
+                        1o Si                            HBP
+                                                         
+R.White-A1   A3:F/7     B3:W>12 b  C3:G/13    *8*:G/43   E3:Si>2#
+                        1                                13
+                                                         
+M.Teixei-A1  A4:Si>2#   B4:Si>1o   *6*:Do     D4:Si      E4:K
+                                                         
+                                                         
+J.Lopez-A1   A5:L/5     *4*:W>b1   C5:G/43>2  D5:Si>13
+                                   3          
+                                              
+R.Winn-A1    *2*:G/63   B6:G-DP/6  C6:Sac/54  D6:G/31>1
+                        43>1o      >3#        2
+                                              
+D.Jimene-A1  A7:K       B7:Si      C7:K       D7:L/4
+                                              
+                                              
+F.Lopez-A1   A8:G/53    B8:F/7     *7*:K      *9*:K
+                                              
+                                              
+H.Blaloc-A1  *3*:G/31   *5*:Si     C9:K       D9:G/13
+                                              
+                                              
+
+C.Counse-A1  A1:G/43    B1:K       C1:SB>12   D1:SB>12
+                                   SB>23 SF/  CS/25>2o
+                                   7>3#       G/23
+L.Walker-A1  A2:Si      B2:Tr      C2:K       D2:K
+                                              
+                                              
+M.Sweene-A1  A3:SB>12   B3:G/31    *6*:K      *9*:K
+             K                                
+                                              
+D.Wright-A1  A4:L/6     *4*:L/6    C4:K       D4:G/53
+                                              
+                                              
+C.Floyd-A1   *2*:P/6    B5:K       C5:K       D5:Si
+                                              
+                                              
+F.Catala-A1  A6:Si      B6:Si      *7*:F/7    D6:K
+                                              
+                                              
+G.Matthe-A1  A7:WP>12   B7:F/8     C7:K
+             L/4                   
+                                   
+R.Fick-A1    A8:K       *5*:K      C8:F/8
+                                   
+                                   
+J.Reyes-A1   *3*:F/8    B9:Si      *8*:Si
+                                   
+                                   
+
+

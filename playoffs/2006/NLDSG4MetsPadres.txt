@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 San Diego Padres         10/13/2006
+
+[1]  Mets               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  C.Counsell 2B       5  0  0  0 .222     R.Winn CF           3  0  0  0 .125  
+  L.Walker RF         4  0  2  0 .438     T.Graffanino 2B     4  0  0  0 .286  
+  M.Sweeney 1B        3  0  2  0 .273     F.Lopez SS          3  0  2  0 .188  
+  D.Wright 3B         3  0  0  0 .143     M.Teixeira 1B       3  0  0  0 .333  
+  C.Floyd LF          2  0  0  0 .357     R.White RF          3  0  0  0 .214  
+  F.Catalanotto DH    3  0  0  0 .273     J.Lopez C           3  0  0  0 .429  
+  G.Matthews Jr CF    3  0  0  0 .000     H.Blalock 3B        3  0  1  0 .308  
+  R.Fick C            3  0  0  0 .100     R.Klesko LF         3  0  0  0 .143  
+A-R.Castro C          0  0  0  01.000     P.Nevin DH          3  0  0  0 .182  
+  J.Reyes SS          4  1  2  1 .429                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  6  1                 Totals      28  0  3  0
+
+A-Subbed Defensively (C ) For Fick In 9th Inning
+
+Mets............ 0 0 1  0 0 0  0 0 0  -  1  6  0
+Padres.......... 0 0 0  0 0 0  0 0 0  -  0  3  0
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz WIN(2-0)            9       3   0   0   1   5   0   1.15  A1
+[1]Totals                    9       3   0   0   1   5   0
+
+[1]Padres (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy LOSS(0-2)            7       5   1   1   4   5   1   4.61  A1 D3
+R.Seanez                     2       1   0   0   0   2   0   0.00  D4
+[1]Totals                    9       6   1   1   4   7   1
+
+ATTENDANCE- 45,448 DATE-  TIME- Night 
+T- 2:12
+LEFT ON BASE- Mets: 9  Padres: 2
+DOUBLE PLAYS- Mets: 1  Padres: 2
+DOUBLES- L.Walker(3rd), H.Blalock(2nd)
+HOME RUNS- J.Reyes(1st)
+CAUGHT STEALING- J.Reyes, R.Winn
+WALKS- M.Sweeney, C.Floyd, G.Matthews Jr, R.Fick, R.Winn
+HIT BY PITCH- D.Wright, C.Floyd, F.Catalanotto
+STRIKE OUTS- C.Counsell, L.Walker, D.Wright-2, C.Floyd, F.Catalanotto, J.Reyes,
+             R.Winn, M.Teixeira, R.White-2, R.Klesko
+GIDP- D.Wright, G.Matthews Jr, M.Teixeira
+
+John Smoltz whitewashed San Diego on 3 hits at Petco Park where the New York
+(NL) Mets beat the San Diego Padres by the score of 1 to 0.
+
+Smoltz(2-0) pitched one of his finer games as he simply was too much for the
+San Diego batters.  He gave up just 3 hits and 1 walk in 9 innings lowering
+his ERA to 1.15.  New York (NL) had just 6 hits for the night.  
+
+Jake Peavy(0-2) suffered the loss.  He gave up 5 hits and 4 walks in 7
+innings.  Brian Ballou was obviously impressed with the pitching of Smoltz,
+'That guy made us look a little silly out there tonight.  We just couldn't
+get to him at all - everything was working for him.  I just hope that he got
+that kinda performance out of his system.'
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 San Diego Padres
+C.Counse-A1  A1:G/43    B1:K       C1:G/31    D1:F/7     E1:CS/26>
+                                                         1o F/7
+                                                         
+L.Walker-A1  A2:Do      B2:G/43    C2:K       *8*:Si
+                                              
+                                              
+M.Sweene-A1  A3:Si>23   B3:G/23    *6*:W>b1   D3:Si>13
+                                              
+                                              
+D.Wright-A1  A4:K       *4*:HBP    C4:G-DP/5  D4:K
+                                   43>1o      
+                                              
+C.Floyd-A1   A5:L/3     B5:W>12 b  C5:K       D5:HBP>12
+                        1                     
+                                              
+F.Catala-A1  *2*:P/6    B6:HBP>23  *7*:G/63   D6:K
+                        12                    
+                                              
+G.Matthe-A1  A7:F/8     B7:G-DP/6  C7:W>b1    D7:L/3
+                        23>3o 23              
+                        12                    
+R.Fick-A1    A8:F/8     B8:P/4     C8:W>12 b  *9*:FO/2
+R.Castro-E2                        1          
+                                              
+J.Reyes-A1   *3*:HR>b#  *5*:K      C9:F/7     D9:Si
+                                              
+                                              
+
+R.Winn-A1    A1:L/4     B1:W>b1    C1:K       D1:F/8
+                                              
+                                              
+T.Graffa-A1  A2:F/7     B2:CS/24>  C2:G/43    D2:G/13
+                        1o F/7                
+                                              
+F.Lopez-A1   A3:Si      *4*:G/31   *7*:Si
+                                   
+                                   
+M.Teixei-A1  A4:L/4     B4:K       C4:G-DP/4
+                                   63>1o
+                                   
+R.White-A1   *2*:K      B5:K       C5:G/63
+                                   
+                                   
+J.Lopez-A1   A6:F/8     *5*:F/7    *8*:G/63
+                                   
+                                   
+H.Blaloc-A1  A7:Do      B7:G/63    C7:L/4
+                                   
+                                   
+R.Klesko-A1  A8:F/9     B8:F/9     C8:K
+                                   
+                                   
+P.Nevin-A1   *3*:L/6    *6*:F/7    *9*:G/53
+                                   
+                                   
+
+

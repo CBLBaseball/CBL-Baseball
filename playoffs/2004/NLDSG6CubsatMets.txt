@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2004 Chicago (NL) Cubs At 2004 New York (NL) Mets        10/17/2004
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Patterson CF      5  1  1  0 .063     J.Reyes SS          5  1  3  0 .231  
+  C.Baerga 2B         5  1  1  0 .167     L.Walker RF         2  0  0  1 .167  
+B-D.Miller C          0  0  0  0 .000     A.Huff DH           4  0  1  0 .214  
+  B.Bonds LF          4  0  0  0 .000     J.Drew CF           4  1  1  0 .429  
+  S.Sosa DH           3  1  2  3 .385     K.Garcia LF         4  0  0  0 .273  
+  M.Stairs RF         4  0  2  0 .333     J.Olerud 1B         3  0  1  0 .200  
+  D.Lee 1B            5  1  1  1 .182     R.Ventura 3B        3  0  0  1 .000  
+  V.Castilla 3B       4  1  2  0 .286     V.Wilson C          2  0  0  0 .375  
+  M.Piazza C          4  0  1  0 .167   D-D.Dellucci PH       1  0  0  0 .000  
+A-W.Harris PR         0  0  0  0 ----     R.Alomar 2B         4  0  1  0 .200  
+C-M.Grudzielanek 2B   0  0  0  0 .667                                          
+  R.Ordonez SS        4  0  1  1 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  5 11  5                 Totals      32  2  7  2
+
+A-Pinch Ran For Piazza In 8th Inning
+B-Subbed Defensively (C ) For Baerga In 8th Inning
+C-Subbed Defensively (2B) For Harris In 8th Inning
+D-Pinch Hit For Wilson In 9th Inning
+
+Cubs............ 0 1 2  2 0 0  0 0 0  -  5 11  0
+Mets............ 0 0 1  1 0 0  0 0 0  -  2  7  0
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clement WIN(1-0)           9       7   2   2   4   7   0   3.18  A1
+[1]Totals                    9       7   2   2   4   7   0
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Trachsel LOSS(0-1)         3 1/3   8   5   5   0   4   2  13.50  A1 B9
+T.Gordon                     3       1   0   0   4   6   0   0.00  C1 D5
+J.Smoltz                     2 2/3   2   0   0   0   4   0   1.08  D6
+[1]Totals                    9      11   5   5   4  14   2
+
+ATTENDANCE- 51,013 DATE-  TIME- Day 
+UMPIRES- Travis Katzenmeier, Scott Higgins, Jim Reynolds, Charlie Williams
+T- 2:56
+LEFT ON BASE- Cubs:10  Mets: 9
+DOUBLE PLAYS- Cubs: 0  Mets: 0
+DOUBLES- S.Sosa(2nd), M.Stairs(1st), V.Castilla-2(2nd), M.Piazza(1st),
+         R.Ordonez(1st), J.Drew(3rd)
+TRIPLES- J.Reyes(1st)
+HOME RUNS- S.Sosa(2nd), D.Lee(2nd)
+SACRIFICE FLIES- L.Walker, R.Ventura
+WALKS- B.Bonds, S.Sosa-2, M.Stairs, L.Walker-2, J.Olerud, V.Wilson
+STRIKE OUTS- C.Patterson, C.Baerga-2, B.Bonds-3, M.Stairs, D.Lee-3, V.Castilla,
+             M.Piazza, R.Ordonez-2, J.Reyes-2, A.Huff-2, J.Drew, J.Olerud,
+             R.Alomar
+WEB GEMS- Bot 3rd: Barry Bonds robbed Larry Walker of an extra base hit.
+          Bot 3rd: Rey Ordonez robbed Aubrey Huff of a base hit.
+
+Matt Clement went the distance as the Chicago (NL) Cubs topped the New York
+(NL) Mets by a score of 5 to 2 at Shea Stadium.
+
+In the 2nd inning Chicago (NL) went on top for good plating an isolated run
+using 2 hits.  After the 4th inning, neither team was able to score.  
+
+The victory went to Clement(1-0) who went the distance allowing 2 runs. Steve
+Trachsel(0-1) was the loser.  Chicago (NL) scored big getting 5 runs off him
+in 3 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2004 Chicago (NL) Cubs at 2004 New York (NL) Mets
+C.Patter-A1  A1:F/7     B1:Si      C1:G/43>2  D1:K       E1:FC/12>
+                                   3                     3o
+                                                         
+C.Baerga-A1  A2:F/7     B2:Si>12   C2:K       *7*:K      E2:G/53
+D.Miller-E3                                              
+                                                         
+B.Bonds-A1   A3:P/3     B3:K       *5*:K      D3:W>b1    *9*:K
+                                                         
+                                                         
+S.Sosa-A1    *2*:HR>b#  B4:Do>2#   C4:W>b1    D4:W>12 b  E4:FO/2
+                        1#                    1          
+                                                         
+M.Stairs-A1  A5:F/8     B5:K       C5:Si>12   D5:W>23 1  E5:Do
+                                              2 b1       
+                                                         
+D.Lee-A1     A6:F/8     *4*:HR>b#  C6:K       D6:K       E6:K
+                                                         
+                                                         
+V.Castil-A1  A7:Do      B7:Do      C7:F/9     D7:K
+                                              
+                                              
+M.Piazza-A1  A8:K       B8:F/8     *6*:G/63   *8*:Do
+W.Harris-D9                                   
+M.Grudzi-E3                                   
+R.Ordone-A1  *3*:K      B9:Do>2#   C9:K       D9:G/23>2
+                                              3
+                                              
+
+J.Reyes-A1   A1:Si      B1:Tr      C1:K       *7*:K      E1:Si>13
+                                                         
+                                                         
+L.Walker-A1  A2:W>12 b  B2:SF/7>3  C2:W>b1    D2:G/63    E2:F/9
+             1          #                                
+                                                         
+A.Huff-A1    A3:K       B3:G/63    C3:Si>12   D3:K
+                                              
+                                              
+J.Drew-A1    A4:F/8>23  *4*:Do     C4:G/31    *8*:K
+                                              
+                                              
+K.Garcia-A1  A5:F/7     B5:F/9>23  *6*:G/43   D5:L/3
+                                              
+                                              
+J.Olerud-A1  *2*:K      B6:W>b1    C6:Si      D6:G/23
+                                              
+                                              
+R.Ventur-A1  A7:L/4     B7:SF/8>3  C7:L/4     *9*:G/63
+                        #                     
+                                              
+V.Wilson-A1  A8:G/63    B8:G/63    C8:W>12 b  D8:G/3
+D.Delluc-D8                        1          
+                                              
+R.Alomar-A1  *3*:K      *5*:F/7    C9:G/43    D9:Si
+                                              
+                                              
+
+

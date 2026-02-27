@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2004 Chicago (NL) Cubs At 2004 New York (NL) Mets        10/16/2004
+
+[1]  Cubs               AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Patterson CF      5  0  0  0 .000     J.Reyes SS          3  0  0  0 .000  
+  C.Baerga 2B         4  1  1  1 .143     L.Walker RF         5  0  1  1 .200  
+A-M.Grudzielanek 2B   1  0  0  0 .667     A.Huff DH           5  0  0  0 .200  
+  B.Bonds LF          2  1  0  0 .000     J.Drew CF           5  0  0  0 .500  
+  S.Sosa DH           5  0  2  1 .300     K.Garcia LF         4  1  3  1 .429  
+  M.Stairs RF         4  0  0  0 .250   B-E.Perez PH          1  0  0  0 .000  
+  D.Lee 1B            5  1  1  1 .167     J.Olerud 1B         4  0  1  0 .143  
+  V.Castilla 3B       5  0  1  0 .200   C-D.Dellucci PR       0  1  0  0 ----  
+  M.Piazza C          4  0  0  0 .125     R.Ventura 3B        4  0  0  0 .000  
+  R.Ordonez SS        3  0  0  0 .167   D-T.Wigginton PH      1  0  1  11.000  
+                                          V.Wilson C          3  2  2  1 .500  
+                                          R.Alomar 2B         2  0  1  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  3  5  3                 Totals      37  4  9  4
+
+A-Subbed Defensively (2B) For Baerga In 8th Inning
+B-Pinch Hit For Garcia In 11th Inning
+C-Pinch Ran For Olerud In 11th Inning
+D-Pinch Hit For Ventura In 11th Inning
+
+Cubs............ 0 1 0  1 0 0  0 1 0  0 0 -  3  5  0
+Mets............ 0 0 1  0 0 0  0 1 1  0 1 -  4  9  0
+
+[1]Cubs                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Wood                       6 2/3   4   1   1   6   8   0   1.35  A1 D1
+K.Farnsworth BS(1st)         1 2/3   3   2   2   0   1   2  10.80  D2 D9
+K.Wunsch LOSS(0-2)           2       2   1   1   0   2   0   5.79  E1
+[1]Totals                   10 1/3   9   4   4   6  11   2
+
+[1]Mets                     IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Brown                      5       4   2   2   1   6   2   3.60  A1 C2
+J.Smoltz                     2 2/3   1   1   1   2   0   0   1.59  C3 D5
+T.Gordon WIN(1-0)            3 1/3   0   0   0   1   3   0   0.00  D6
+[1]Totals                   11       5   3   3   4   9   2
+
+ATTENDANCE- 53,530 DATE-  TIME- Day 
+UMPIRES- Rich Rieker, Paul Emmel, Gerry Davis, Chris Guccione
+T- 3:09
+LEFT ON BASE- Cubs: 7  Mets: 7
+DOUBLE PLAYS- Cubs: 3  Mets: 0
+DOUBLES- S.Sosa(1st), T.Wigginton(1st)
+HOME RUNS- C.Baerga(1st), D.Lee(1st), K.Garcia(1st), V.Wilson(1st)
+STOLEN BASES- D.Dellucci(1st)
+WALKS- B.Bonds-2, M.Stairs, R.Ordonez, J.Reyes-2, J.Olerud, V.Wilson,
+       R.Alomar-2
+HIT BY PITCH- B.Bonds
+STRIKE OUTS- C.Patterson-2, C.Baerga, B.Bonds, S.Sosa, M.Stairs, D.Lee,
+             M.Piazza, R.Ordonez, J.Reyes, L.Walker, A.Huff-3, J.Drew, E.Perez,
+             R.Ventura-2, V.Wilson, R.Alomar
+GIDP- J.Reyes, J.Olerud
+WILD PITCHES- J.Smoltz
+
+Left fielder Karim Garcia connected with a 'big fly' as the New York (NL) Mets
+defeated the Chicago (NL) Cubs in 11 innings 4 to 3 at Shea Stadium.
+
+Both teams were tied at 3 runs apiece after nine innings.  New York (NL) came
+out the victor in the 11th inning.  After an out was recorded, John Olerud
+smacked a single.  Dellucci stole second with some aggressive base running.
+Ty Wigginton then doubled making New York (NL) the winners and sending the
+53,530 fans home happy.  New York (NL) had 9 hits overall, while Chicago (NL)
+had 5.  
+
+Tom Gordon(1-0) got credit for the victory, pitching 3 and 1/3 innings and
+allowing no runs. Kelly Wunsch(0-2) was charged with the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2004 Chicago (NL) Cubs at 2004 New York (NL) Mets
+C.Patter-A1  A1:G/43    B1:G/43    C1:K       *8*:G/31   *10*:K
+                                                         
+                                                         
+C.Baerga-A1  A2:F/8     *4*:HR>b#  C2:K       D2:F/8     E2:G/13
+M.Grudzi-D7                                              
+                                                         
+B.Bonds-A1   A3:K       B3:FO/2    *6*:HBP    D3:W>b1    E3:IW>b1
+                                                         
+                                                         
+S.Sosa-A1    *2*:G/63   B4:Si      C4:F/7     D4:WP>12   E4:K
+                                              Do>2#      
+                                                         
+M.Stairs-A1  A5:G/63    B5:K       C5:L/3     D5:W>b1    *11*:G/13
+                                                         
+                                                         
+D.Lee-A1     A6:HR>b#   B6:L/6     C6:F/7     D6:L/6     E6:K
+                                                         
+                                                         
+V.Castil-A1  A7:G/63    *5*:Si     *7*:G/63   *9*:G/3    E7:G/63
+                                                         
+                                                         
+M.Piazza-A1  *3*:G/63   B8:K       C8:G/53    D8:G/63
+                                              
+                                              
+R.Ordone-A1  A9:K       B9:W>12 b  C9:G/53    D9:G/63
+                        1                     
+                                              
+
+J.Reyes-A1   A1:K       B1:W>12 b  C1:P-DP/1  D1:W>23 1  E1:G-DP/4
+                        1          4>1o       2 b1       63>1o
+                                                         
+L.Walker-A1  A2:F/7     B2:Si>2#   C2:G/63    D2:F/8     *10*:K
+                        13                               
+                                                         
+A.Huff-A1    A3:G/13    B3:K       *6*:K      *8*:K      E3:F/7
+                                                         
+                                                         
+J.Drew-A1    *2*:K      *4*:F/8    C4:G/3     D4:F/9     E4:L/4
+                                                         
+                                                         
+K.Garcia-A1  A5:Si      B5:Si      C5:L/4     D5:HR>b#   *11*:K
+E.Perez-E5                                               
+                                                         
+J.Olerud-A1  A6:G-DP/6  B6:W>12 b  *7*:G/63   D6:G/53    E6:Si
+D.Delluc-E7  43>1o      1                                
+                                                         
+R.Ventur-A1  *3*:L/4    B7:K       C7:K       *9*:G/63   E7:SB>12
+T.Wiggin-E7                                              Do>2#
+                                                         
+V.Wilson-A1  A8:Si      B8:K       C8:W>b1    D8:HR>b#
+                                              
+                                              
+R.Alomar-A1  A9:K       *5*:W>b1   C9:W>12 b  D9:Si
+                                   1          
+                                              
+
+

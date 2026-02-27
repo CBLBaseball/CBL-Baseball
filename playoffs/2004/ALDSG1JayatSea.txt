@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2004 Toronto Blue Jays At 2004 Seattle Mariners          10/16/2004
+
+[1]  Blue Jays          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  R.Johnson LF        4  0  0  0 .000     I.Suzuki RF         4  0  0  0 .000  
+  B.Mueller 3B        4  0  2  0 .500     J.Vidro 2B          4  0  0  0 .000  
+  V.Wells CF          4  0  4  01.000     C.Delgado 1B        3  0  0  0 .000  
+  D.Ortiz 1B          4  0  0  0 .000   B-S.Spiezio 1B        0  0  0  0 ----  
+  J.Guillen RF        4  0  1  0 .250     A.Rodriguez SS      2  0  0  0 .000  
+  J.Phelps DH         2  0  0  0 .000     B.Giles LF          2  0  0  0 .000  
+D-F.Catalanotto PH    1  0  0  0 .000   C-M.Cameron LF        0  0  0  0 ----  
+  B.Santiago C        4  0  1  0 .250     E.Martinez DH       2  0  1  0 .500  
+E-E.Hinske PR         0  0  0  0 ----   A-C.Crawford PR,DH    0  1  0  0 ----  
+  D.Berg 2B           3  0  0  0 .000     J.Posada C          3  1  1  2 .333  
+F-O.Hudson PH         1  0  0  0 .000     M.Lowell 3B         3  0  1  0 .333  
+  C.Woodward SS       3  0  1  0 .333     R.Baldelli CF       3  0  1  0 .333  
+G-G.Myers PH          1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  0  9  0                 Totals      26  2  4  2
+
+A-Pinch Ran For Martinez In 8th Inning
+B-Subbed Defensively (1B) For Delgado In 9th Inning
+C-Subbed Defensively (LF) For Giles In 9th Inning
+D-Pinch Hit For Phelps In 9th Inning
+E-Pinch Ran For Santiago In 9th Inning
+F-Pinch Hit For Berg In 9th Inning
+G-Pinch Hit For Woodward In 9th Inning
+
+Blue Jays....... 0 0 0  0 0 0  0 0 0  -  0  9  0
+Mariners........ 0 0 0  0 0 0  0 2    -  2  4  0
+
+[1]Blue Jays                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay LOSS(0-1)         7 1/3   4   2   2   3   5   1   2.45  A1 C9
+J.Kershner                   0 2/3   0   0   0   0   1   0   0.00  D1
+[1]Totals                    8       4   2   2   3   6   1
+
+[1]Mariners                 IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Moyer WIN(1-0)             8       8   0   0   1   6   0   0.00  A1 D5
+R.Soriano SAVE(1st)          1       1   0   0   0   2   0   0.00  D6
+[1]Totals                    9       9   0   0   1   8   0
+
+ATTENDANCE- 44,777 DATE-  TIME- Night 
+UMPIRES- Jerry Crawford, Mike Everett, Brian Gorman, Mike Dimuro
+T- 2:43
+LEFT ON BASE- Blue Jays: 9  Mariners: 3
+DOUBLE PLAYS- Blue Jays: 1  Mariners: 1
+DOUBLES- M.Lowell(1st)
+HOME RUNS- J.Posada(1st)
+STOLEN BASES- C.Crawford(1st)
+WALKS- J.Phelps, A.Rodriguez, B.Giles, E.Martinez
+STRIKE OUTS- B.Mueller, D.Ortiz, J.Phelps-2, B.Santiago, O.Hudson, C.Woodward,
+             G.Myers, I.Suzuki, J.Vidro, C.Delgado, E.Martinez, M.Lowell,
+             R.Baldelli
+GIDP- J.Posada
+
+Jamie Moyer(1-0) and Roy Halladay(0-1) locked horns in a pitcher's duel with
+Moyer and the Seattle Mariners coming out on top of the Toronto Blue Jays 2
+to 0.
+
+Seattle erupted with the game winning runs in the bottom of the 8th inning
+scoring 2 runs using 3 hits.  Edgar Martinez led off and started the attack
+as he slapped a one-base hit.  Crawford swiped second base.  Jorge Posada
+then smashed a two-run homer (his 1st of the season).  Although they lost,
+Toronto did out-hit Seattle 9 to 4.  
+
+Moyer got relief help from Rafael Soriano who gained credit for his 1st save.
+[2]
+[1]SCORESHEET: 2004 Toronto Blue Jays at 2004 Seattle Mariners
+R.Johnso-A1  A1:L/6     *3*:G/53   C1:G/63    D1:F/7
+                                              
+                                              
+B.Muelle-A1  A2:Si      B2:Si      C2:K       *8*:F/8
+                                              
+                                              
+V.Wells-A1   A3:Si>12   B3:Si>13   *6*:Si     D3:Si
+                                              
+                                              
+D.Ortiz-A1   A4:K       B4:G/13>1  C4:L-DP/3  D4:L/3
+                        2          >1o        
+                                              
+J.Guille-A1  A5:Si>23   B5:F/7     C5:L/6     D5:L/6
+             12                               
+                                              
+J.Phelps-A1  A6:K       *4*:K      *7*:W>b1   *9*:G/13
+F.Catala-D6                                   
+                                              
+B.Santia-A1  *2*:G/13   B7:K       C7:L/6     D7:Si
+E.Hinske-D8                                   
+                                              
+D.Berg-A1    A8:L/6     B8:G/43    C8:FO/2    D8:K
+O.Hudson-D8                                   
+                                              
+C.Woodwa-A1  A9:F/8     *5*:K      C9:Si>13   D9:K
+G.Myers-D9                                    
+                                              
+
+I.Suzuki-A1  A1:F/8     B1:P/2     C1:G/43    D1:K
+                                              
+                                              
+J.Vidro-A1   A2:G/31    *4*:K      C2:L/4     D2:G/43
+                                              
+                                              
+C.Delgad-A1  A3:G/63    B3:K       *7*:F/7
+S.Spiezi-D3                        
+                                   
+A.Rodrig-A1  *2*:W>b1   B4:G/13    C4:G/31
+                                   
+                                   
+B.Giles-A1   A5:W>12 b  *5*:G/43   C5:G/43
+M.Camero-D3  1                     
+                                   
+E.Martin-A1  A6:K       B6:W>b1    *8*:Si
+C.Crawfo-C7                        
+                                   
+J.Posada-A1  A7:G-DP/4  B7:F/9     C7:SB>12
+             63>1o                 HR>2# b#
+                                   
+M.Lowell-A1  *3*:K      B8:Do>1o   C8:G/31
+                                   
+                                   
+R.Baldel-A1  A9:K       *6*:F/7    C9:Si
+                                   
+                                   
+
+

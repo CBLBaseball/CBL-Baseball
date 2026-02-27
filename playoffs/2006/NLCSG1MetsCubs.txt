@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2006 New York (NL) Mets At 2006 Chicago (NL) Cubs        10/18/2006
+
+[1]  Mets               AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Counsell 2B       3  0  0  0 .000     J.Encarnacion RF,CF 4  1  1  0 .455  
+  L.Walker RF         3  0  1  0 .333     J.Rodriguez DH      4  1  3  2 .421  
+  M.Sweeney 1B        4  0  0  0 .000     D.Lee 1B            4  0  0  0 .200  
+  D.Wright 3B         3  0  0  0 .000     A.Ramirez 3B        4  1  3  1 .321  
+  C.Floyd LF          3  0  1  0 .333     A.Soriano 2B        4  0  1  0 .219  
+  F.Catalanotto DH    3  0  1  0 .333   B-M.Scutaro 2B        0  0  0  0 .333  
+  G.Matthews Jr CF    3  0  0  0 .000     J.Jones LF,RF       4  1  2  2 .267  
+  R.Fick C            3  0  0  0 .000   C-C.Patterson RF      0  0  0  0 .000  
+  J.Reyes SS          3  0  0  0 .000     P.Lo Duca C         3  1  1  1 .300  
+                                          P.Wilson CF,LF      3  0  0  0 .192  
+                                        A-S.Finley CF         1  0  0  0 .000  
+                                          R.Clayton SS        4  1  1  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  3  0                 Totals      35  6 12  6
+
+A-Subbed Defensively (CF) For Wilson In 7th Inning
+B-Subbed Defensively (2B) For Soriano In 9th Inning
+C-Subbed Defensively (RF) For Jones In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  3  0
+Cubs............ 0 2 2  1 0 0  1 0    -  6 12  0
+
+[1]Mets (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Smoltz LOSS(0-1)           6 2/3  12   6   6   1   2   3   8.10  A1 D5
+T.Gordon                     1 1/3   0   0   0   1   0   0   0.00  D6
+[1]Totals                    8      12   6   6   2   2   3
+
+[1]Cubs (5-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Clemens WIN(4-0)           9       3   0   0   2   4   0   0.74  A1
+[1]Totals                    9       3   0   0   2   4   0
+
+ATTENDANCE- 36,731 DATE-  TIME- Day 
+T- 2:50
+LEFT ON BASE- Mets: 4  Cubs: 7
+DOUBLE PLAYS- Mets: 1  Cubs: 2
+DOUBLES- F.Catalanotto(1st), J.Jones(1st)
+HOME RUNS- J.Rodriguez(3rd), J.Jones(2nd), P.Lo Duca(1st)
+STOLEN BASES- S.Finley(1st)
+WALKS- C.Counsell, L.Walker, J.Encarnacion, P.Lo Duca
+HIT BY PITCH- D.Wright
+STRIKE OUTS- M.Sweeney, D.Wright, C.Floyd, J.Reyes, P.Wilson, R.Clayton
+GIDP- D.Wright, F.Catalanotto, D.Lee
+WEB GEMS- Bot 2nd: Gary Matthews Jr robbed Alfonso Soriano of an extra base hit.
+
+Roger Clemens allowed 3 hits while blanking New York (NL) as the Chicago (NL)
+Cubs defeated the New York (NL) Mets by a score of 6 to 0 at Wrigley
+Field.
+
+Clemens(4-0) was virtually untouchable.  He allowed just 3 hits and 2 walks in
+9 innings improving his ERA from 0.98 to 0.74.  Chicago (NL) rapped out 12
+hits for the afternoon.  
+
+John Smoltz(0-1) was the loser.  He served up 3 gopher balls in 6 and 2/3
+innings.
+[2]
+[1]SCORESHEET: 2006 New York (NL) Mets at 2006 Chicago (NL) Cubs
+C.Counse-A1  A1:L/4     B1:G/63    *6*:W>b1   D1:F/8
+                                              
+                                              
+L.Walker-A1  A2:W>b1    *4*:G/43   C2:F/8     *9*:Si
+                                              
+                                              
+M.Sweene-A1  A3:F/8     B3:G/43    C3:F/8     D3:K
+                                              
+                                              
+D.Wright-A1  A4:K       B4:HBP     C4:F/8     D4:G-DP/5
+                                              43>1o
+                                              
+C.Floyd-A1   *2*:K      B5:F/9     *7*:Si
+                                   
+                                   
+F.Catala-A1  A6:G/63    *5*:Do     C6:G-DP/1
+                                   63>1o
+                                   
+G.Matthe-A1  A7:G/31    B7:F/9     C7:L/4
+                                   
+                                   
+R.Fick-A1    *3*:L/3    B8:G/13    *8*:G/13
+                                   
+                                   
+J.Reyes-A1   A9:G/63    B9:G/13    C9:K
+                                   
+                                   
+
+J.Encarn-A1  A1:G/53    B1:Si>13   *5*:W>b1   *7*:G/63   E1:G/31
+                                                         
+                                                         
+J.Rodrig-A1  A2:G/31    B2:Si>3#   C2:Si>12   D2:HR>b#
+                        12                    
+                                              
+D.Lee-A1     A3:F/7     B3:G-DP/6  C3:L/5     D3:F/7
+                        43>23 1o              
+                                              
+A.Ramire-A1  *2*:Si     B4:Si>3#   C4:F/7     D4:Si
+                                              
+                                              
+A.Sorian-A1  A5:F/8     B5:P/5     C5:L/6     D5:Si>13
+M.Scutar-E2                                   
+                                              
+J.Jones-A1   A6:HR>1#   *4*:G/63   *6*:Do     D6:G/43
+C.Patter-E2  b#                               
+                                              
+P.Lo Duc-A1  A7:F/7     B7:HR>b#   C7:P/4     *8*:W>b1
+                                              
+                                              
+P.Wilson-A1  A8:K       B8:F/9     C8:F/7     D8:Force/
+S.Finley-D1                                   64>1o b1
+                                              
+R.Clayto-A1  *3*:Si     B9:K       C9:L/6     D9:SB>12
+                                              G/3>23
+                                              
+
+
