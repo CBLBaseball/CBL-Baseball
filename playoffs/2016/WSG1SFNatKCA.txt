@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2016 San Francisco Giants At 2016 Kansas City Royals     10/23/2016
+
+[1]  Giants             AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  A.Eaton CF          4  0  1  0 .236     N.Aoki LF           3  0  1  0 .476  
+  J.Panik 2B          4  0  2  1 .306   A-A.Gordon LF         2  0  0  0 .129  
+  B.Posey C           5  0  1  0 .260     A.Pagan DH          4  0  2  0 .368  
+  B.Belt 1B           4  0  0  0 .319   E-S.Perez PH,DH       1  0  0  0 .333  
+  K.Morales DH        4  0  0  0 .292     L.Cain CF,RF        5  0  0  0 .148  
+  J.Upton LF          4  0  0  0 .130     H.Kendrick 2B       4  0  1  0 .167  
+  P.Sandoval 3B       4  0  1  0 .214     M.Moustakas 3B      4  0  0  0 .140  
+  I.Desmond SS        4  1  1  0 .273     E.Hosmer 1B         4  0  1  0 .278  
+  I.Suzuki RF         2  0  0  0 .103     J.Rollins SS        3  0  1  0 .186  
+C-S.Pearce PH         1  0  0  0 .167   F-E.Nunez PH          0  0  0  0 .235  
+D-H.Pence RF          1  1  1  0 .467     M.Maldonado C       5  0  1  0 .182  
+                                          A.Rios RF           2  0  0  0 .182  
+                                        B-J.Dyson CF          2  0  0  0 .053  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  2  7  1                 Totals      39  0  7  0
+
+A-Subbed Defensively (LF) For Aoki In 6th Inning
+B-Subbed Defensively (CF) For Rios In 6th Inning
+C-Pinch Hit For Suzuki In 8th Inning
+D-Subbed Defensively (RF) For Pearce In 8th Inning
+E-Pinch Hit For Pagan In 10th Inning
+F-Pinch Hit For Rollins In 11th Inning
+
+Giants.......... 0 0 0  0 0 0  0 0 0  0 2 -  2  7  1
+Royals.......... 0 0 0  0 0 0  0 0 0  0 0 -  0  7  0
+
+[1]Giants (9-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner                  9 1/3   6   0   0   2   6   0   2.43  A1 D9
+H.Robles WIN(3-0)            0 2/3   0   0   0   0   1   0   0.00  E1 E2
+A.Chapman SAVE(5th)          1       1   0   0   2   0   0   3.52  E3
+[1]Totals                   11       7   0   0   4   7   0
+
+[1]Royals (8-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana                   8       4   0   0   0   5   0   1.60  A1 C9
+D.Robertson                  2       0   0   0   1   2   0   3.29  D1 D7
+R.Madson LOSS(1-1)           0       2   2   2   0   0   0  12.00  D8 D9
+W.Davis                      1       1   0   0   0   1   0   0.00  E1
+[1]Totals                   11       7   2   2   1   8   0
+
+ATTENDANCE- 38,367 DATE- Sunday, October 23rd 2016 TIME- Night 
+UMPIRES- Ted Barrett, Alfonso Marquez, Paul Schrieber, Will Little
+T- 3:22
+LEFT ON BASE- Giants: 5  Royals:11
+DOUBLE PLAYS- Giants: 1  Royals: 0
+ERRORS- P.Sandoval
+DOUBLES- J.Panik(4th)
+RBIs- J.Panik(7th)
+CAUGHT STEALING- P.Sandoval
+SACRIFICE HITS- A.Eaton, J.Rollins
+SACRIFICE FLIES- J.Panik
+WALKS- B.Belt, H.Kendrick, M.Moustakas, E.Hosmer, E.Nunez
+STRIKE OUTS- B.Posey, B.Belt-3, K.Morales, J.Upton-2, P.Sandoval, A.Gordon,
+             L.Cain, M.Moustakas, E.Hosmer-2, M.Maldonado-2
+GIDP- M.Moustakas
+WILD PITCHES- W.Davis
+RLISP 2-out- B.Belt, N.Aoki, B.Posey, A.Rios, M.Maldonado-3
+TEAM RISP- Giants: 0 for 3  Royals: 0 for 8
+WEB GEMS- Top 6th: Lorenzo Cain robbed Joe Panik of an extra base hit.
+
+Hansel Robles(3-0) was the winner as San Francisco Giants shutout the Kansas
+City Royals in 11 innings by a 2 to 0 score at Kauffman Stadium.
+
+Neither pitching staff had allowed a run after the regulation nine innings.
+San Francisco won the game in the 11th inning.  Ian Desmond led off and
+started the attack as he delivered a base-hit.  Hunter Pence was next and he
+stroked a single.  Adam Eaton then laid down a sacrifice bunt.  Wade Davis
+then let a pitch get away from him plating a run.  Joe Panik came up to bat
+and hit a deep fly scoring the final run of the inning.  Both teams finished
+the game with 7 hits.  
+
+Robles got relief help from Aroldis Chapman who gained credit for his 5th
+save.  Ryan Madson(1-1) was the losing pitcher in relief.  He was unable to
+retire a batter allowing 2 hits and no walks.
+
+[2]
+[1]SCORESHEET: 2016 San Francisco Giants at 2016 Kansas City Royals
+A.Eaton-A1   A1:F/7     B1:Si      *6*:G/31   *9*:F/8    E1:Sac/34
+                                                         >23 12
+                                                         
+J.Panik-A1   A2:Do      B2:Si>13   C2:F/9     D2:L/4     E2:WP>3#
+                                                         23 SF/7>3
+                                                         #
+B.Posey-A1   A3:G/53    B3:P/6     C3:G/53    D3:K       E3:Si
+                                                         
+                                                         
+B.Belt-A1    A4:K       *4*:F/8    *7*:K      *10*:W>b1  E4:K
+                                                         
+                                                         
+K.Morale-A1  *2*:F/7    B5:G/63    C5:F/8     D5:K
+                                              
+                                              
+J.Upton-A1   A6:G/13    B6:K       C6:K       D6:F/7
+                                              
+                                              
+P.Sandov-A1  A7:F/9     *5*:Si     *8*:K      D7:F/8
+                                              
+                                              
+I.Desmon-A1  *3*:F/9    B8:F/7     C8:F/7     *11*:Si
+                                              
+                                              
+I.Suzuki-A1  A9:G/3     B9:CS/26>  C9:G/43    D9:Si>12
+S.Pearce-C9             1o F/8                
+H.Pence-D1                                    
+
+N.Aoki-A1    A1:Si      B1:G/43    *5*:G/13   *8*:G/43   E1:K
+A.Gordon-C4                                              
+                                                         
+A.Pagan-A1   A2:Si>13   *3*:G/63   C2:L/6     D2:Si      E2:G/43
+S.Perez-E2                                               
+                                                         
+L.Cain-A1    A3:P/5     B3:K       C3:P/5     D3:F/7     *11*:F/7
+                                                         
+                                                         
+H.Kendri-A1  A4:W>12 b  B4:G/63    *6*:G/63   D4:F/8     E4:Si
+             1                                           
+                                                         
+M.Mousta-A1  A5:G-DP/4  *4*:W>b1   C5:K       *9*:P/6    E5:F/8>12
+             63>1o                                       
+                                                         
+E.Hosmer-A1  *2*:K      B6:F/8     C6:K       D6:Si      E6:W>b1
+                                                         
+                                                         
+J.Rollin-A1  A7:E/5     B7:Si>13   *7*:G/63   D7:Sac/14  E7:W>23 1
+E.Nunez-E7                                    >12        2 b1
+                                                         
+M.Maldon-A1  A8:Si>12   B8:K       C8:K       D8:P/5     E8:G/43
+                                                         
+                                                         
+A.Rios-A1    A9:F/7     B9:L/3     C9:G/43    *10*:G/63
+J.Dyson-C4                                    
+                                              
+
+

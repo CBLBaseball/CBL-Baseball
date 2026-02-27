@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2016 Kansas City Royals At 2016 Baltimore Orioles        10/11/2016
+
+[1]  Royals             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  E.Hosmer 1B         5  0  1  0 .267     R.Davis LF          4  0  2  0 .467  
+  L.Cain CF,RF        5  0  1  0 .179     C.Gomez CF          3  0  0  0 .100  
+  H.Kendrick 2B       5  0  2  1 .138   E-J.Schoop PH         1  0  1  0 .267  
+  A.Gordon LF         4  0  1  0 .158   F-J.Ellsbury PR,CF    0  0  0  0 .000  
+  M.Moustakas 3B      3  0  0  0 .174     A.Gonzalez 1B       4  1  1  1 .222  
+  S.Perez C           4  2  3  0 .400     M.Machado 3B        4  0  2  0 .185  
+A-E.Nunez PR          0  0  0  0 .167     C.Beltran DH        4  0  0  0 .241  
+C-J.Shuck RF          0  0  0  0 .400     C.Gonzalez RF       4  0  0  0 .240  
+G-J.Dyson CF          0  0  0  0 .000     C.Joseph C          3  0  1  0 .308  
+  A.Rios RF           3  0  1  0 .214   H-C.Coghlan PH        1  0  0  0 .154  
+B-A.Pagan PH          1  0  0  0 .286     F.Galvis 2B         3  0  0  0 .059  
+D-M.Maldonado C       0  0  0  0 .000     J.Hardy SS          3  0  1  0 .143  
+  N.Aoki DH           4  0  3  1 .375                                          
+  J.Rollins SS        4  1  1  0 .130                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  3 13  2                 Totals      34  1  8  1
+
+A-Pinch Ran For Perez In 8th Inning
+B-Pinch Hit For Rios In 8th Inning
+C-Subbed Defensively (RF) For Nunez In 8th Inning
+D-Subbed Defensively (C ) For Pagan In 8th Inning
+E-Pinch Hit For Gomez In 8th Inning
+F-Pinch Ran For Schoop In 8th Inning
+G-Subbed Defensively (CF) For Shuck In 9th Inning
+H-Pinch Hit For Joseph In 9th Inning
+
+Royals.......... 0 1 0  0 1 1  0 0 0  -  3 13  1
+Orioles......... 1 0 0  0 0 0  0 0 0  -  1  8  1
+
+[1]Royals (4-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana WIN(2-1)          5       6   1   1   0   3   1   1.77  A1 C3
+K.Herrera HOLD(1st)          2       0   0   0   0   3   0   0.00  C4 C9
+D.Robertson HOLD(2nd)        1       2   0   0   0   1   0   5.68  D1 D4
+W.Davis SAVE(4th)            1       0   0   0   0   0   0   0.00  D5
+[1]Totals                    9       8   1   1   0   7   1
+
+[1]Orioles (3-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Arrieta LOSS(1-2)          6      11   3   2   1   8   0   1.66  A1 D2
+A.Miller                     3       2   0   0   0   4   0   0.00  D3
+[1]Totals                    9      13   3   2   1  12   0
+
+ATTENDANCE- 46,055 DATE- Tuesday, October 11th 2016 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 3:05
+LEFT ON BASE- Royals:10  Orioles: 6
+DOUBLE PLAYS- Royals: 2  Orioles: 0
+ERRORS- E.Hosmer, J.Hardy
+DOUBLES- S.Perez(1st), M.Machado(2nd)
+HOME RUNS- A.Gonzalez(4th)
+RBIs- H.Kendrick(1st), N.Aoki(1st), A.Gonzalez(6th)
+STOLEN BASES- L.Cain(2nd), H.Kendrick-2(2nd), J.Rollins(1st)
+WALKS- A.Gordon
+HIT BY PITCH- M.Moustakas
+STRIKE OUTS- L.Cain-2, H.Kendrick-3, S.Perez, A.Rios, A.Pagan, N.Aoki,
+             J.Rollins-3, C.Gomez, A.Gonzalez, M.Machado, C.Joseph-2, J.Hardy-2
+GIDP- M.Machado, C.Coghlan
+WILD PITCHES- J.Quintana
+2-out RBI- A.Gonzalez, N.Aoki, H.Kendrick
+RLISP 2-out- J.Rollins, R.Davis, C.Beltran, N.Aoki-2, M.Moustakas-2, E.Hosmer-2
+TEAM RISP- Royals: 4 for 18  Orioles: 1 for 6
+
+In a game for the baseball purist, Jose Quintana(2-1) and Jake Arrieta(1-2)
+squared off in a tense pitching duel, Kansas City Royals finally emerged
+victorious over Baltimore Orioles, 3 to 1.
+
+Baltimore was unable to claim the lead after Kansas City went ahead in the top
+of the 5th inning scoring one runner utilizing 2 base hits.  Kansas City
+out-hit Baltimore for the game, 13 hits to 8.  
+
+Wade Davis was credited with his 4th save.
+[2]
+[1]SCORESHEET: 2016 Kansas City Royals at 2016 Baltimore Orioles
+E.Hosmer-A1  A1:G/43    B1:Si      C1:SB>12   D1:G/43    E1:Force/
+                                   L/4                   46>1o b1
+                                                         
+L.Cain-A1    A2:K       B2:PkOff/  C2:K       *7*:Si     *9*:G/63
+                        13>1o G/6                        
+                        3                                
+H.Kendri-A1  A3:K       *4*:Si     C3:Si>2#   D3:SB>12   E3:K
+                                              K          
+                                                         
+A.Gordon-A1  *2*:G/63   B4:SB>12   C4:SB>12   D4:G/43>2  E4:L/4
+                        Si>23      W>b1       3          
+                                                         
+M.Mousta-A1  A5:G/63    B5:HBP>12  C5:G/13    D5:G/13
+                                              
+                                              
+S.Perez-A1   A6:Si      B6:K       *6*:Do     *8*:Si
+E.Nunez-D7                                    
+J.Shuck-E2+                                   
+A.Rios-A1    A7:Si>12   B7:K       C7:G/63    D7:K
+A.Pagan-D7                                    
+M.Maldon-E2                                   
+N.Aoki-A1    A8:Si>2#1  B8:K       C8:Si+E/6  D8:Si>12
+             3 PkOff/1             >2#        
+             3>1o                             
+J.Rollin-A1  *3*:K      *5*:Si     C9:K       D9:K
+                                              
+                                              
+
+R.Davis-A1   A1:L/5     B1:G/63    C1:Si      *8*:Si
+                                              
+                                              
+C.Gomez-A1   A2:G/43    *3*:K      C2:P/6     D2:Si>13
+J.Schoop-D2                                   
+J.Ellsbu-D3                                   
+A.Gonzal-A1  A3:HR>b#   B3:F/8     C3:G/43    D3:K
+                                              
+                                              
+M.Machad-A1  A4:Si      B4:Do      *6*:K      D4:G-DP/6
+                                              43>1o
+                                              
+C.Beltra-A1  A5:G/63    B5:G/3     C5:G/63    *9*:G/3
+                                              
+                                              
+C.Gonzal-A1  *2*:F/8    *4*:G/63   C6:L/4     D6:E/3
+                                              
+                                              
+C.Joseph-A1  A7:Si      B7:K       *7*:K      D7:G-DP/6
+C.Coghla-D7                                   43>1o
+                                              
+F.Galvis-A1  A8:WP>12   B8:F/7     C8:F/8
+             F/9                   
+                                   
+J.Hardy-A1   A9:Si>23   *5*:K      C9:K
+                                   
+                                   
+
+

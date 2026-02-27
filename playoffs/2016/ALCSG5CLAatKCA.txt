@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2016 Cleveland Indians At 2016 Kansas City Royals        10/18/2016
+
+[1]  Indians            AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+     C.Santana DH        4  1  2  1 .267     N.Aoki LF           3  1  1  2 .500  
+     M.Brantley CF       4  0  0  0 .275   A-A.Gordon LF         0  0  0  0 .138  
+     R.Zimmerman 1B      2  0  0  0 .214     J.Shuck RF          2  1  1  0 .375  
+   C-L.Duda PH,1B        2  0  0  0 .207   B-J.Dyson CF          0  0  0  0 .059  
+     D.Freese 3B         2  0  0  0 .174     E.Hosmer 1B         4  0  2  1 .280  
+   E-A.Almonte PH        1  0  1  0 .222     H.Kendrick 2B       3  0  0  0 .159  
+   H-R.Chirinos C        1  0  0  0 .000     L.Cain CF,RF        3  0  0  0 .163  
+     A.Cabrera SS        3  0  1  0 .280     M.Moustakas 3B      4  1  2  1 .154  
+     J.Butler LF         3  0  1  0 .400     E.Nunez DH          2  0  0  0 .235  
+     G.Soto C            2  0  0  0 .286   D-A.Pagan PH,DH       2  0  2  0 .333  
+   F-D.Navarro PH        0  0  0  0 .222     S.Perez C           3  1  1  0 .344  
+   G-F.Lindor PH         1  0  0  0 .167     J.Rollins SS        2  0  0  0 .175  
+   I-J.Lowrie 3B         0  0  0  0 .286                                          
+     S.Choo RF           3  0  0  0 .161                                          
+     J.Kipnis 2B         3  0  0  0 .220                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      28  4  9  4
+
+A-Subbed Defensively (LF) For Aoki In 6th Inning
+B-Subbed Defensively (CF) For Shuck In 6th Inning
+C-Pinch Hit For Zimmerman In 6th Inning
+D-Pinch Hit For Nunez In 6th Inning
+E-Pinch Hit For Freese In 7th Inning
+F-Pinch Hit For Soto In 7th Inning
+G-Pinch Hit For Navarro In 7th Inning
+H-Subbed Defensively (C ) For Almonte In 7th Inning
+I-Subbed Defensively (3B) For Lindor In 7th Inning
+
+Indians......... 1 0 0  0 0 0  0 0 0  -  1  5  0
+Royals.......... 0 0 3  0 0 1  0 0    -  4  9  0
+
+[1]Indians (5-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Sanchez LOSS(0-1)          2 1/3   4   3   3   1   2   1  11.57  A1 B3
+J.Smith                      0 1/3   0   0   0   1   0   0   4.50  B4 B5
+R.Webb                       0 2/3   0   0   0   0   1   0   2.08  B6 B7
+D.Jennings                   2 1/3   3   1   1   1   0   1   2.25  B8 C8
+C.Allen                      0 2/3   1   0   0   0   0   0   1.59  C9 D3
+J.Manship                    1       1   0   0   0   0   0   0.00  D4 D7
+A.Chafin                     0 2/3   0   0   0   0   0   0   0.00  D8
+[1]Totals                    8       9   4   4   3   3   2
+
+[1]Royals (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Duffy WIN(1-0)             5 2/3   3   1   1   0   3   1   1.59  A1 C2
+K.Jepsen HOLD(2nd)           1       2   0   0   0   0   0   3.86  C3 C6
+D.Robertson SAVE(1st)        2 1/3   0   0   0   0   4   0   3.86  C7
+[1]Totals                    9       5   1   1   0   7   1
+
+ATTENDANCE- 37,573 DATE- Tuesday, October 18th 2016 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:25
+LEFT ON BASE- Indians: 3  Royals: 7
+DOUBLE PLAYS- Indians: 1  Royals: 1
+HOME RUNS- C.Santana(1st), N.Aoki(1st), M.Moustakas(3rd)
+RBIs- C.Santana(1st), N.Aoki-2(3rd), E.Hosmer(2nd), M.Moustakas(6th)
+STOLEN BASES- J.Shuck(2nd)
+CAUGHT STEALING- J.Shuck
+SACRIFICE HITS- J.Dyson, H.Kendrick, J.Rollins
+WALKS- J.Shuck, L.Cain, S.Perez
+HIT BY PITCH- A.Gordon
+STRIKE OUTS- C.Santana, L.Duda, D.Freese, R.Chirinos, J.Butler, S.Choo-2,
+             N.Aoki, M.Moustakas, E.Nunez
+GIDP- A.Cabrera, S.Perez
+2-out RBI- M.Moustakas
+RLISP 2-out- M.Moustakas, J.Rollins, L.Cain-2
+TEAM RISP- Indians: 0 for 0  Royals: 3 for 7
+
+The Kansas City Royals bested the Cleveland Indians by a 4 to 1 score at
+Kauffman Stadium.
+
+Kansas City had 3 runs cross the plate in the 3rd inning when they came up
+with 3 base hits.  The early run support proved sufficient for Danny
+Duffy(1-0) and Kansas City.  That was all the run support Duffy required.
+David Robertson pitched a perfect ninth to earn his 1st save.  
+
+Anibal Sanchez(0-1) absorbed the loss.  He was knocked around, surrendering 3
+runs in 2 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2016 Cleveland Indians at 2016 Kansas City Royals
+C.Santan-A1  A1:HR>b#   B1:L/5     C1:Si      D1:K
+                                              
+                                              
+M.Brantl-A1  A2:G/43    *4*:F/8    C2:F/9     *9*:G/63
+                                              
+                                              
+R.Zimmer-A1  A3:G/43    B3:G/63    C3:F/8     D3:K
+L.Duda-C3                                     
+                                              
+D.Freese-A1  A4:K       B4:G/13    *7*:Si     D4:K
+A.Almont-C4                                   
+R.Chirin-C8                                   
+A.Cabrer-A1  *2*:P/6    *5*:Si     C5:G-DP/3
+                                   63>1o
+                                   
+J.Butler-A1  A6:F/7     B6:K       C6:Si
+                                   
+                                   
+G.Soto-A1    A7:G/13    B7:L/6     C7:F/8
+D.Navarr-C7                        
+F.Lindor-C7+                       
+S.Choo-A1    *3*:F/7    B8:K       *8*:K
+                                   
+                                   
+J.Kipnis-A1  A9:L/4     *6*:G/63   C9:L/4
+                                   
+                                   
+
+N.Aoki-A1    A1:K       B1:HR>2#   *5*:G/63   *7*:HBP
+A.Gordon-C4             b#                    
+                                              
+J.Shuck-A1   A2:L/4     B2:W>b1    C2:Si      D2:Sac/34
+J.Dyson-C4                                    >12
+                                              
+E.Hosmer-A1  A3:G/43    B3:SB>12   C3:CS/26>  D3:Si>23
+                        Si>2#      1o G/3     
+                                              
+H.Kendri-A1  *2*:L/6    B4:Sac/34  *6*:P/2    D4:G/53>1
+                        >12                   2
+                                              
+L.Cain-A1    A5:F/8     B5:W>b1    C5:G/43    D5:G/53
+                                              
+                                              
+M.Mousta-A1  A6:Si      B6:K       C6:HR>b#   *8*:G/43
+                                              
+                                              
+E.Nunez-A1   A7:K       *4*:G/53   C7:Si      D7:Si
+A.Pagan-C7                                    
+                                              
+S.Perez-A1   *3*:Si     B8:F/8     C8:W>12 b  D8:G-DP/5
+                                   1          43>1o
+                                              
+J.Rollin-A1  A9:Sac/34  B9:F/8     C9:G/63
+             >12                   
+                                   
+
+

@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>2016 CBL Playoffs</title>
+<style>
+
+:root{
+    --bg:#f4efe3;
+    --ink:#111;
+    --card:#fff;
+    --border:#222;
+    --accent:#7a1f1f;
+    --accent2:#0b4a7d;
+    --muted:#555;
+    --shadow:0 8px 20px rgba(0,0,0,.15);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Georgia,serif;background:var(--bg);color:var(--ink);}
+  header{text-align:center;padding:40px 20px 26px;border-bottom:4px double #333;}
+  h1{margin:0;font-size:44px;font-weight:900;letter-spacing:.02em;}
+  .sub{margin-top:8px;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);}
+  .wrap{max-width:1100px;margin:0 auto;padding:26px 18px 60px;}
+
+  .section-title{margin:28px 0 10px;display:flex;align-items:center;justify-content:center;gap:12px;}
+  .section-title h2{margin:0;font-size:22px;font-weight:900;letter-spacing:.02em;}
+  .rule{height:2px;flex:1;max-width:220px;background:rgba(0,0,0,.18);border-radius:999px;}
+
+  .hero{
+    background:var(--card);
+    border:2px solid var(--border);
+    border-radius:18px;
+    box-shadow:var(--shadow);
+    padding:22px;
+    display:grid;
+    grid-template-columns:1fr;
+    gap:16px;
+    margin-top:18px;
+  }
+  .hero img{max-width:100%;height:auto;display:block;margin:0 auto;border-radius:14px;border:1px solid rgba(0,0,0,.10);background:#fff;}
+  .hero .headline{font-size:28px;font-weight:900;text-align:center;margin:0;}
+  .note{margin:0;text-align:center;color:var(--muted);font-weight:900;}
+
+  .series-line{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;font-weight:900;}
+  .logo{width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:#fff;border:1px solid #ccc;border-radius:12px;padding:6px;}
+  .logo img{max-width:100%;max-height:100%;object-fit:contain;}
+  .score{font-size:34px;line-height:1}
+  .vs{font-size:28px}
+
+  .links{margin:6px 0 0;text-align:center;color:var(--muted);line-height:1.7}
+  .links a{color:inherit;text-decoration:none;border-bottom:1px dotted rgba(0,0,0,.35);}
+  .links a:hover{color:var(--accent);border-bottom-color:var(--accent);}
+  .links .lbl{font-weight:900;color:var(--ink);}
+
+  .grid{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;}
+  .card{background:var(--card);border:2px solid var(--border);border-radius:18px;box-shadow:var(--shadow);overflow:hidden;}
+  .card .top{padding:14px 16px;border-bottom:1px solid rgba(0,0,0,.08);display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;}
+  .pill{background:var(--accent);color:#fff;padding:6px 10px;border-radius:999px;font-size:12px;font-weight:900;letter-spacing:.02em;white-space:nowrap;}
+  .pill.navy{background:var(--accent2);}
+  .card h3{margin:0;font-size:18px;font-weight:900;}
+  .card .body{padding:16px;}
+  .photo{width:100%;height:auto;display:block;border-radius:14px;border:1px solid rgba(0,0,0,.10);background:#fff;}
+  footer{text-align:center;padding:30px 12px;font-size:12px;color:#666;border-top:1px solid rgba(0,0,0,.10);}
+
+/* small tweak used on 2020 page as well */
+.series-title{margin:0 0 14px;font-size:20px;font-weight:900;text-align:center;}
+
+</style>
+</head>
+<body>
+
+<header>
+  <h1>2016 CBL Playoffs</h1>
+  <div class="sub">World Series • Championship Series • Division Series</div>
+</header>
+
+<main class="wrap">
+
+  <!-- WORLD SERIES (Top) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>World Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="hero" aria-label="World Series">
+    <img src="2016WorldSeries.png" alt="2016 World Series photo">
+    <p class="headline">Gordon’s game 7 walk off homer propels Royals to title!</p>
+
+    <div class="series-line" aria-label="World Series score">
+      <div class="logo"><img src="Royals.png" alt="Kansas City Royals logo"></div>
+      <div class="score">2</div>
+      <div class="vs">vs.</div>
+      <div class="logo"><img src="Giants.png" alt="San Francisco Giants logo"></div>
+      <div class="score">3</div>
+    </div>
+
+    <div class="links">
+      <span class="lbl">Box Scores:</span>
+      <a href="WSG1SFNatKCA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG2SFNatKCA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG3KCAatSFN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG4KCAatSFN.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG5KCAatSFN.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG6SFNatKCA.txt">Game 6</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG7SFNatKCA.txt">Game 7</a>
+    </div>
+  </section>
+
+  <!-- CHAMPIONSHIP SERIES (Middle) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>Championship Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="grid" aria-label="Championship Series">
+
+    <!-- NLCS -->
+    <article class="card">
+      <div class="top"><span class="pill">NLCS</span></div>
+      <div class="body">
+        <h3 class="series-title">Giants beat rival in 6 games to advance to World Series!</h3>
+          <img class="photo" src="2016NLCS.png" alt="2016 NLCS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Giants.png" alt="San Francisco Giants logo"></div>
+          <div class="score">3</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Giants.png" alt="San Francisco Giants logo"></div>
+          <div class="score">2</div>
+        </div>
+
+        
+          <span class="lbl">Box Scores:</span>
+          <a href="NLCSG1SFNatLAN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG2SFNatLAN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG3LANatSFN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG4LANatSFN.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG5LANatSFN.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG6SFNatLAN.txt">Game 6</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- ALCS -->
+    <article class="card">
+      <div class="top"><span class="pill navy">ALCS</span></div>
+      <div class="body">
+        <h3 class="series-title">Royals pitching scalps Indians for first ever WS birth!</h3>
+          <img class="photo" src="2016ALCS.png" alt="2016 ALCS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Royals.png" alt="Kansas City Royals logo"></div>
+          <div class="score">4</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Indians.png" alt="Cleveland Indians logo"></div>
+          <div class="score">4</div>
+        </div>
+
+        
+          <span class="lbl">Box Scores:</span>
+          <a href="ALCSG1KCAatCLA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG2KCAatCLA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG3CLAatKCA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG4CLAatKCA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG5CLAatKCA.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+  </section>
+
+  <!-- DIVISION SERIES (Bottom) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>Division Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="grid" aria-label="Division Series">
+
+    <!-- ALDS: Royals vs Twins -->
+    <article class="card">
+      <div class="top"><span class="pill navy">ALDS</span></div>
+      <div class="body">
+        <h3 class="series-title">Royals battle back from down 3-1 to take series!</h3>
+          <img class="photo" src="2016ALDS.png" alt="2016 ALDS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Royals.png" alt="Kansas City Royals logo"></div>
+          <div class="score">4</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Orioles.png" alt="Baltimore Orioles logo"></div>
+          <div class="score">4</div>
+        </div>
+
+        
+          <span class="lbl">Box Scores:</span>
+          <a href="ALDSG1KCAatBAA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG2KCAatBAA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG3BAAatKCA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG4BAAatKCA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG5BAAatKCA.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG6KCAatBAA.txt">Game 6</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG7KCAatBAA.txt">Game 7</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- ALDS: Yankees vs Athletics -->
+    <article class="card">
+      <div class="top"><span class="pill navy">ALDS</span></div>
+      <div class="body">
+        <h3 class="series-title">Indians make quick work of Athletics!</h3>
+          <img class="photo" src="2016ALDS.png" alt="2016 ALDS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Royals.png" alt="Kansas City Royals logo"></div>
+          <div class="score">4</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Athletics.png" alt="Oakland Athletics logo"></div>
+          <div class="score">1</div>
+        </div>
+
+        <div class="links">
+          <span class="lbl">Box Scores:</span>
+          <a href="ALDSG1CLAatOAA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG2CLAatOAA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG3OAAatCLA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG4OAAatCLA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG5OAAatCLA.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLDS: Mets vs Dodgers -->
+    <article class="card">
+      <div class="top"><span class="pill">NLDS</span></div>
+      <div class="body">
+        <h3 class="series-title">Giants advance to NLCS in 6 games!</h3>
+          <img class="photo" src="2016NLDS.png" alt="2016 NLDS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Giants.png" alt="San Francisco Giants logo"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Mets.png" alt="New York Mets logo"></div>
+          <div class="score">4</div>
+        </div>
+
+          <span class="lbl">Box Scores:</span>
+          <a href="NLDSG1SFNatNYN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG2SFNatNYN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG3NYNatSFN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG4NYNatSFN.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG5NYNatSFN.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG6SFNatNYN.txt">Game 6</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLDS: Cubs vs Phillies -->
+    <article class="card">
+      <div class="top"><span class="pill">NLDS</span></div>
+      <div class="body">
+        <h3 class="series-title">Dodgers sink Pirates ship!</h3>
+          <img class="photo" src="2016NLDS.png" alt="2016 NLDS graphic">
+        <div class="links" style="margin-top:10px;">
+
+        <div class="series-line" style="margin:0 0 12px;">
+          <div class="logo"><img src="Pirates.png" alt="Pittsburgh Pirates logo"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Giants.png" alt="San Francisco Giants logo"></div>
+          <div class="score">4</div>
+        </div>
+
+        <div class="links">
+          <span class="lbl">Box Scores:</span>
+          <a href="NLDSG1PINatLAN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG2PINatLAN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG3LANatPIN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG4LANatPIN.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG5LANatPIN.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+  </section>
+
+</main>
+
+<footer>Continental Baseball League Historical Archive</footer>
+
+</body>
+</html>

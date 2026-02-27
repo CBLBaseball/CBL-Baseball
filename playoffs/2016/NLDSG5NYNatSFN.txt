@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2016 New York (NL) Mets At 2016 San Francisco Giants      10/8/2016
+
+[1]  Mets               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  B.Zobrist 2B        3  1  2  1 .333     A.Eaton CF          4  0  0  0 .143  
+  N.Ahmed SS          2  0  0  1 .357     J.Panik 2B          3  0  1  0 .200  
+  F.Cervelli C        4  1  0  0 .188     B.Posey C           4  1  2  0 .500  
+  M.Byrd LF           4  1  2  2 .300     B.Belt 1B           4  1  1  2 .333  
+A-P.Bourjos LF        0  0  0  0 ----     K.Morales DH        4  0  0  0 .176  
+  M.Moreland 1B       3  0  0  0 .278     P.Sandoval 3B       4  0  0  0 .167  
+  I.De Jesus DH       4  0  1  0 .143     J.Upton LF          4  1  1  0 .056  
+  J.Reddick RF        4  0  0  0 .053     I.Desmond SS        3  0  1  0 .471  
+  Y.Solarte 3B        4  2  3  1 .500     I.Suzuki RF         3  0  0  1 .091  
+B-D.Wright 3B         0  0  0  0 .000                                          
+  J.Lagares CF        4  1  2  1 .286                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  6 10  6                 Totals      33  3  6  3
+
+A-Subbed Defensively (LF) For Byrd In 9th Inning
+B-Subbed Defensively (3B) For Solarte In 9th Inning
+
+Mets............ 1 0 0  0 2 0  0 2 1  -  6 10  1
+Giants.......... 2 1 0  0 0 0  0 0 0  -  3  6  0
+
+[1]Mets (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom WIN(1-1)            7 2/3   6   3   3   1   7   1   4.32  A1 D3
+P.Venditte HOLD(1st)         0 1/3   0   0   0   0   0   0   0.00  D4 D4
+K.Giles SAVE(2nd)            1       0   0   0   0   1   0   3.38  D5
+[1]Totals                    9       6   3   3   1   8   1
+
+[1]Giants (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels LOSS(0-2)           8      10   6   6   4   7   3   6.19  A1 E1
+O.Despaigne                  1       0   0   0   0   0   0   0.00  E2
+[1]Totals                    9      10   6   6   4   7   3
+
+ATTENDANCE- 39,840 DATE- Saturday, October 8th 2016 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 3:03
+LEFT ON BASE- Mets: 6  Giants: 4
+DOUBLE PLAYS- Mets: 1  Giants: 1
+ERRORS- B.Zobrist
+DOUBLES- M.Byrd(2nd), Y.Solarte-2(2nd), J.Lagares(1st)
+TRIPLES- J.Lagares(1st)
+HOME RUNS- B.Zobrist(1st), M.Byrd(2nd), Y.Solarte(2nd), B.Belt(2nd)
+RBIs- B.Zobrist(1st), N.Ahmed(1st), M.Byrd-2(4th), Y.Solarte(4th),
+      J.Lagares(2nd), B.Belt-2(4th), I.Suzuki(1st)
+SACRIFICE HITS- N.Ahmed-3
+WALKS- B.Zobrist-2, F.Cervelli, M.Moreland, J.Panik
+STRIKE OUTS- B.Zobrist, M.Byrd, M.Moreland-3, I.De Jesus, J.Lagares, B.Belt,
+             P.Sandoval-2, J.Upton-3, I.Desmond-2
+GIDP- B.Posey
+WILD PITCHES- C.Hamels
+2-out RBI- B.Belt-2
+RLISP 2-out- A.Eaton, F.Cervelli, B.Posey, J.Reddick
+TEAM RISP- Mets: 1 for 7  Giants: 0 for 3
+WEB GEMS- Top 2nd: Buster Posey blocked the plate, saving a run!
+
+In an entertaining game at AT&T Park the final score was the New York (NL)
+Mets 6, the San Francisco Giants 3.
+
+New York (NL) came through with the game-winning runs in the 8th inning
+plating 2 runs.  Francisco Cervelli led off and keyed the rally when he drew
+a walk.  Marlon Byrd next to the plate and he blasted a two-run home run.
+Jacob Degrom(1-1) got help from Ken Giles who pitched great and earned his
+2nd save.  
+
+Cole Hamels(0-2) was tagged with the loss.  He was touched for 3 homeruns in
+his 8 innings of work.
+[2]
+[1]SCORESHEET: 2016 New York (NL) Mets at 2016 San Francisco Giants
+B.Zobris-A1  A1:HR>b#   B1:Si      C1:K       D1:W>b1    E1:W>b1
+                                                         
+                                                         
+N.Ahmed-A1   A2:G/53    B2:Sac/34  C2:WP>23   D2:L/6     E2:Sac/14
+                        >12        Sac/14>3#             >12
+                                                         
+F.Cervel-A1  A3:F/7     B3:G/43    C3:L/6     *8*:W>b1   E3:F-DP/7
+                                                         2>3o
+                                                         
+M.Byrd-A1    A4:F/9     *4*:K      *6*:Do     D4:HR>1#
+P.Bourjo-E4                                   b#
+                                              
+M.Morela-A1  *2*:W>b1   B5:K       C5:K       D5:K
+                                              
+                                              
+I.De Jes-A1  A6:Force/  B6:Si      C6:K       D6:L/6
+             54>1o b1                         
+                                              
+J.Reddic-A1  A7:F/8     B7:G/43    C7:G/13    D7:G/3
+                                              
+                                              
+Y.Solart-A1  A8:Do>1o   *5*:Do     *7*:L/6    *9*:HR>b#
+D.Wright-E4                                   
+                                              
+J.Lagare-A1  *3*:L/6    B9:Do>2#   C9:K       D9:Tr
+                                              
+                                              
+
+A.Eaton-A1   A1:F/7     B1:F/8     C1:F/9     *8*:G/63
+                                              
+                                              
+J.Panik-A1   A2:G/63    *3*:W>b1   C2:Si>12   D2:G/43
+                                              
+                                              
+B.Posey-A1   A3:Si      B3:G-DP/6  C3:G/31    D3:Si
+                        43>1o                 
+                                              
+B.Belt-A1    A4:HR>1#   B4:F/7     *6*:K      D4:F/7
+             b#                               
+                                              
+K.Morale-A1  A5:G/63    *4*:F/8    C5:F/9     *9*:L/4
+                                              
+                                              
+P.Sandov-A1  *2*:G/43   B6:K       C6:K       D6:F/9
+                                              
+                                              
+J.Upton-A1   A7:Si      B7:K       *7*:K      D7:K
+                                              
+                                              
+I.Desmon-A1  A8:Si>13   *5*:K      C8:K
+                                   
+                                   
+I.Suzuki-A1  A9:G/43>3  B9:E/4     C9:G/43
+             # 12                  
+                                   
+
+

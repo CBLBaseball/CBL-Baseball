@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2016 Kansas City Royals At 2016 San Francisco Giants     10/28/2016
+
+[1]  Royals             AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  N.Aoki LF           1  0  0  0 .379     A.Eaton CF          4  1  2  0 .239  
+B-A.Gordon LF         1  0  1  0 .162     J.Panik 2B          3  0  3  1 .319  
+  A.Pagan DH          3  0  0  0 .276     B.Posey C           4  0  1  0 .308  
+  L.Cain CF,RF        3  0  0  0 .174     B.Belt 1B           4  0  0  0 .246  
+  H.Kendrick 2B       3  0  0  0 .197     K.Morales DH        3  0  0  0 .262  
+  M.Moustakas 3B      3  0  0  0 .155     H.Pence RF          4  1  1  1 .409  
+  E.Hosmer 1B         3  0  0  0 .221     J.Upton LF          3  0  0  0 .136  
+  J.Rollins SS        3  0  0  0 .200     P.Sandoval 3B       3  0  0  0 .196  
+  M.Maldonado C       2  0  0  0 .222     I.Desmond SS        3  0  0  0 .232  
+  A.Rios RF           2  0  1  0 .214                                          
+A-J.Dyson PR,CF       1  0  0  0 .077                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      25  0  2  0                 Totals      31  2  7  2
+
+A-Pinch Ran For Rios In 6th Inning
+B-Subbed Defensively (LF) For Aoki In 6th Inning
+
+Royals.......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Giants.......... 1 0 0  1 0 0  0 0    -  2  7  0
+
+[1]Royals (10-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Greinke LOSS(3-3)          8       7   2   2   2   6   1   1.33  A1
+[1]Totals                    8       7   2   2   2   6   1
+
+[1]Giants (11-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels WIN(3-2)            8       2   0   0   5   1   0   3.52  A1 D1
+A.Chapman SAVE(7th)          1       0   0   0   1   2   0   2.53  D2
+[1]Totals                    9       2   0   0   6   3   0
+
+ATTENDANCE- 40,514 DATE- Friday, October 28th 2016 TIME- Night 
+UMPIRES- Dana Demuth, Ron Kulpa, Ed Hickox, Lance Barrett
+T- 2:23
+LEFT ON BASE- Royals: 5  Giants: 7
+DOUBLE PLAYS- Royals: 0  Giants: 3
+DOUBLES- A.Rios(2nd), J.Panik(5th)
+HOME RUNS- H.Pence(1st)
+RBIs- J.Panik(8th), H.Pence(4th)
+STOLEN BASES- N.Aoki(1st), J.Dyson(2nd)
+CAUGHT STEALING- M.Moustakas
+WALKS- N.Aoki, A.Pagan, L.Cain, H.Kendrick, M.Moustakas, M.Maldonado, J.Panik,
+       K.Morales
+HIT BY PITCH- N.Aoki
+STRIKE OUTS- A.Pagan, M.Moustakas, E.Hosmer, B.Posey, B.Belt-2, K.Morales-2,
+             H.Pence
+GIDP- L.Cain-2, M.Moustakas
+RLISP 2-out- H.Pence-2, B.Belt-2, A.Pagan-2, M.Moustakas
+TEAM RISP- Royals: 0 for 3  Giants: 1 for 9
+
+Joe Panik had 3 base hits and Cole Hamels didn't allow a hit until the 6th
+inning as the San Francisco Giants defeated the Kansas City Royals by a score
+of 2 to 0 at AT&T Park.
+
+Hamels(3-2) contributed a very nicely pitched game. He was stingy on the
+mound, allowing just 2 hits and 5 walks in 8 innings seeing his ERA drop from
+4.26 to 3.52.  The left-handed Hamels had his no-hit bid broken up by Alex
+Rios who doubled with two outs in the 6th inning.  After the 4th inning,
+neither team was able to score.  
+
+Aroldis Chapman recorded the save, his 7th.  Zack Greinke(3-3) was the loser.
+He pitched 8 innings allowing 7 hits and 2 walks.
+[2]
+[1]SCORESHEET: 2016 Kansas City Royals at 2016 San Francisco Giants
+N.Aoki-A1    A1:G/43    *4*:HBP    C1:W>b1    *9*:Si
+A.Gordon-C3                                   
+                                              
+A.Pagan-A1   A2:W>b1    B2:F/9     C2:SB>23   D2:K
+                                   12 G/63    
+                                              
+L.Cain-A1    A3:G-DP/6  B3:G-DP/5  *7*:G/63   D3:W>12 b
+             43>1o      43>1o                 1
+                                              
+H.Kendri-A1  *2*:L/6    *5*:W>b1   C4:G/53    D4:L/6
+                                              
+                                              
+M.Mousta-A1  A5:W>b1    B5:G-DP/4  C5:G/13    D5:K
+                        63>1o                 
+                                              
+E.Hosmer-A1  A6:CS/26>  B6:K       *8*:G/63
+             1o G/43               
+                                   
+J.Rollin-A1  *3*:F/7    *6*:L/5    C7:G/53
+                                   
+                                   
+M.Maldon-A1  A8:G/31    B8:F/9     C8:W>b1
+                                   
+                                   
+A.Rios-A1    A9:FO/5    B9:Do      C9:F/7
+J.Dyson-C1                         
+                                   
+
+A.Eaton-A1   A1:Si      *3*:F/7    C1:Si      D1:F/8
+                                              
+                                              
+J.Panik-A1   A2:Do>1#   B2:Si      C2:Si>13   *8*:W>b1
+                                              
+                                              
+B.Posey-A1   A3:Si>23   B3:G/3>12  C3:K       D3:G/3>12
+                                              
+                                              
+B.Belt-A1    A4:K       B4:F/8     C4:K       D4:F/8
+                                              
+                                              
+K.Morale-A1  A5:K       *4*:K      *6*:F/9    D5:W>b1
+                                              
+                                              
+H.Pence-A1   A6:F/9     B6:HR>b#   C6:K       D6:G/53
+                                              
+                                              
+J.Upton-A1   *2*:G/63   B7:G/53    C7:G/63
+                                   
+                                   
+P.Sandov-A1  A8:F/7     B8:P/4     *7*:F/8
+                                   
+                                   
+I.Desmon-A1  A9:F/9     *5*:G/53   C9:L/6
+                                   
+                                   
+
+

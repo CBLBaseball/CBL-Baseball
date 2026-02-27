@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2016 Cleveland Indians At 2016 Oakland Athletics          10/4/2016
+
+[1]  Indians            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  S.Choo RF           4  2  2  1 .250     A.Pollock CF        4  1  1  1 .125  
+  J.Kipnis 2B         5  1  1  1 .100     M.Canha DH          4  0  1  1 .250  
+  M.Brantley LF       4  3  3  1 .714     P.Goldschmidt 1B    3  0  0  0 .167  
+  L.Duda 1B           5  2  2  5 .286     Y.Cespedes LF       4  0  0  0 .000  
+  S.Smith DH          4  1  1  0 .167     J.Donaldson 3B      4  1  1  1 .333  
+D-R.Zimmerman PH,DH   1  0  1  1 .500     S.Vogt C            3  0  0  0 .000  
+E-R.Chirinos C        0  0  0  0 .000     E.Sogard SS,2B      3  0  1  0 .333  
+  A.Almonte CF        4  0  0  0 .000     B.Burns RF          3  0  0  0 .167  
+  A.Cabrera SS        5  1  2  0 .333     J.Segura 2B,SS      3  2  2  1 .500  
+F-F.Lindor SS         0  0  0  0 .500                                          
+  L.Chisenhall 3B     2  0  0  1 .000                                          
+B-D.Freese PH,3B      1  1  0  0 .200                                          
+  G.Soto C            1  0  1  01.000                                          
+A-D.Navarro PH,C      2  0  0  0 .000                                          
+C-J.Butler PH         1  0  0  0 .750                                          
+  D.Salazar P         1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40 11 13 10                 Totals      31  4  6  4
+
+A-Pinch Hit For Soto In 3rd Inning
+B-Pinch Hit For Chisenhall In 8th Inning
+C-Pinch Hit For Navarro In 8th Inning
+D-Pinch Hit For Smith In 8th Inning
+E-Subbed Defensively (C ) For Zimmerman In 8th Inning
+F-Subbed Defensively (SS) For Cabrera In 9th Inning
+
+Indians......... 3 0 2  0 0 0  0 6 0  - 11 13  0
+Athletics....... 0 1 2  0 0 0  0 1 0  -  4  6  0
+
+[1]Indians (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Salazar WIN(1-0)           9       6   4   4   1   9   2   4.00  A1 C8
+[1]Totals                    9       6   4   4   1   9   2
+
+[1]Athletics (0-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.De La Rosa LOSS(0-1)       7       9   5   5   2   5   3   6.43  A1 D5
+C.Bassitt                    1       4   6   6   3   1   0  54.00  D6 E6
+P.Neshek                     1       0   0   0   0   1   0   0.00  E7
+[1]Totals                    9      13  11  11   5   7   3
+
+ATTENDANCE- 35,045 DATE- Tuesday, October 4th 2016 TIME- Night 
+UMPIRES- Laz Diaz, Mark Carlson, Scott Barry, Jeff Nelson
+T- 2:57
+LEFT ON BASE- Indians: 7  Athletics: 1
+DOUBLE PLAYS- Indians: 2  Athletics: 0
+DOUBLES- S.Choo(1st), M.Brantley(3rd), S.Smith(1st), A.Cabrera(1st),
+         G.Soto(1st)
+TRIPLES- L.Duda(1st), A.Pollock(1st)
+HOME RUNS- S.Choo(1st), M.Brantley(1st), L.Duda(1st), J.Donaldson(1st),
+           J.Segura(1st)
+RBIs- S.Choo(1st), J.Kipnis(1st), M.Brantley(1st), L.Duda-5(5th),
+      R.Zimmerman(1st), L.Chisenhall(1st), A.Pollock(1st), M.Canha(1st),
+      J.Donaldson(2nd), J.Segura(1st)
+WALKS- S.Choo, M.Brantley, A.Almonte, L.Chisenhall, D.Freese, P.Goldschmidt
+STRIKE OUTS- S.Choo, L.Duda, S.Smith, A.Almonte-2, A.Cabrera-2, A.Pollock-2,
+             P.Goldschmidt, Y.Cespedes-2, J.Donaldson-2, S.Vogt, B.Burns
+GIDP- P.Goldschmidt, B.Burns
+WILD PITCHES- C.Bassitt
+2-out RBI- L.Chisenhall, J.Kipnis, L.Duda-3, R.Zimmerman
+RLISP 2-out- S.Choo, D.Navarro-2, J.Kipnis
+TEAM RISP- Indians: 5 for 9  Athletics: 0 for 1
+
+Danny Salazar had a complete game and first baseman Lucas Duda touched them
+all and had 5 RBI at O.co Coliseum where the Cleveland Indians beat the
+Oakland Athletics 11 to 4.
+
+The Oakland fans didn't appreciate the big day Duda had.  He blasted a two-run
+home run in the 1st inning and tripled emptying the bases in the 8th inning.
+Cleveland had 13 hits for the night.  
+
+Salazar(1-0) finished the game allowing 4 runs in the victory. Rubby De La
+Rosa(0-1) ended up with the loss.  He served up 3 gopher balls in 7 innings.
+
+[2]
+[1]SCORESHEET: 2016 Cleveland Indians at 2016 Oakland Athletics
+S.Choo-A1    A1:HR>b#   B1:K       *4*:F/9    D1:Do      E1:WP>3#
+                                                         23 W>b1
+                                                         
+J.Kipnis-A1  A2:G/63    *3*:F/8    C2:FO/2    D2:G/43    E2:Si>3#
+                                                         13
+                                                         
+M.Brantl-A1  A3:Do      B3:HR>b#   C3:Si      *7*:F/7    E3:W>12 b
+                                                         1
+                                                         
+L.Duda-A1    A4:HR>2#   B4:K       C4:F/8     D4:F/8     E4:Tr>3#
+             b#                                          2# 1#
+                                                         
+S.Smith-A1   A5:G/43    B5:Do      *5*:G/13   D5:K       E5:Si>3#
+R.Zimmer-E5                                              
+R.Chirin-E7                                              
+A.Almont-A1  A6:G/31    B6:W>b1    C6:K       *8*:K      E6:L/4
+                                                         
+                                                         
+A.Cabrer-A1  *2*:K      B7:Si>23   C7:G/43    D7:Do      *9*:K
+F.Lindor-F1             12                               
+                                                         
+L.Chisen-A1  A8:L/4     B8:W>3# 2  *6*:F/8    D8:W>b1    E8:L/5
+D.Freese-D8             3 12 b1                          
+                                                         
+G.Soto-A1    A9:Do      B9:L/4     C9:L/4     D9:G/3>23  E9:F/9
+D.Navarr-B9                                   12         
+J.Butler-D9+                                             
+
+A.Polloc-A1  A1:L/5     B1:Tr>1#   *6*:K      D1:K
+                                              
+                                              
+M.Canha-A1   A2:Si      B2:G/3>3#  C2:F/8     D2:F/7
+                                              
+                                              
+P.Goldsc-A1  A3:G-DP/6  B3:K       C3:W>b1    *9*:G/53
+             43>1o                            
+                                              
+Y.Cesped-A1  *2*:G/43   *4*:G/43   C4:K       D4:K
+                                              
+                                              
+J.Donald-A1  A5:HR>b#   B5:K       *7*:K      D5:G/31
+                                              
+                                              
+S.Vogt-A1    A6:K       B6:G/43    C6:L/4
+                                   
+                                   
+E.Sogard-A1  A7:G/43    *5*:Si     C7:F/7
+                                   
+                                   
+B.Burns-A1   *3*:G/63   B8:G-DP/6  *8*:K
+                        43>1o      
+                                   
+J.Segura-A1  A9:Si      B9:F/7     C9:HR>b#
+                                   
+                                   
+
+

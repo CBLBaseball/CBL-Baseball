@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2016 San Francisco Giants At 2016 Kansas City Royals     10/24/2016
+
+[1]  Giants             AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  A.Eaton CF          4  1  1  1 .237     N.Aoki LF           4  0  0  0 .400  
+  J.Panik 2B          4  0  1  0 .300   C-A.Gordon LF         1  0  0  0 .125  
+  B.Posey C           4  0  2  1 .278     A.Pagan DH          3  0  1  0 .364  
+  B.Belt 1B           4  0  0  0 .294   B-A.Rios PH,DH        1  0  1  0 .217  
+  K.Morales DH        3  0  1  0 .294     L.Cain RF           4  0  0  0 .138  
+D-K.Tomlinson PR,DH   0  0  0  0 .400     H.Kendrick 2B       3  0  1  0 .176  
+  J.Upton LF          4  0  0  0 .120     M.Moustakas 3B      4  0  1  0 .149  
+  P.Sandoval 3B       4  1  1  0 .217     E.Hosmer 1B         3  0  0  0 .263  
+  I.Desmond SS        3  0  0  0 .255     J.Rollins SS        3  1  1  0 .196  
+  I.Suzuki RF         3  0  1  0 .125     M.Maldonado C       2  0  1  0 .231  
+                                        A-S.Perez PH,C        2  0  1  0 .343  
+                                          J.Dyson CF          2  0  0  0 .048  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      32  1  7  0
+
+A-Pinch Hit For Maldonado In 7th Inning
+B-Pinch Hit For Pagan In 8th Inning
+C-Subbed Defensively (LF) For Aoki In 9th Inning
+D-Pinch Ran For Morales In 9th Inning
+
+Giants.......... 0 0 1  0 0 1  0 0 0  -  2  7  1
+Royals.......... 0 0 0  0 0 0  0 0 1  -  1  7  1
+
+[1]Giants (10-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels WIN(2-2)            6 1/3   4   0   0   3   3   0   4.26  A1 C7
+H.Strickland HOLD(2nd)       0 1/3   0   0   0   0   1   0   0.00  C8 C8
+O.Perez HOLD(2nd)            0 2/3   0   0   0   0   1   0   0.00  C9 D1
+H.Robles                     0       1   0   0   0   0   0   0.00  D2 D2
+J.Soria HOLD(3rd)            0 2/3   0   0   0   0   1   0   8.10  D3 D4
+A.Chapman SAVE(6th)          1       2   1   0   1   2   0   3.12  D5
+[1]Totals                    9       7   1   0   4   8   0
+
+[1]Royals (8-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Greinke LOSS(3-2)          7       5   2   2   1   6   0   1.14  A1 C9
+K.Herrera                    1 2/3   2   0   0   0   1   0   1.69  D1 D6
+D.Robertson                  0 1/3   0   0   0   0   0   0   3.21  D7
+[1]Totals                    9       7   2   2   1   7   0
+
+ATTENDANCE- 37,770 DATE- Monday, October 24th 2016 TIME- Night 
+UMPIRES- Doug Eddings, Marvin Hudson, Cory Blaser, Jim Joyce
+T- 3:05
+LEFT ON BASE- Giants: 5  Royals: 9
+DOUBLE PLAYS- Giants: 1  Royals: 0
+ERRORS- J.Panik, M.Maldonado
+DOUBLES- A.Eaton(3rd), H.Kendrick(2nd)
+RBIs- A.Eaton(3rd), B.Posey(9th)
+STOLEN BASES- I.Suzuki(1st), J.Dyson(1st)
+CAUGHT STEALING- B.Posey
+SACRIFICE HITS- J.Dyson
+WALKS- K.Morales, H.Kendrick, E.Hosmer, J.Rollins, J.Dyson
+STRIKE OUTS- J.Panik, B.Posey, B.Belt-2, P.Sandoval, I.Desmond-2, A.Gordon,
+             A.Pagan, L.Cain-2, M.Moustakas-2, S.Perez, J.Dyson
+GIDP- E.Hosmer
+WILD PITCHES- A.Chapman
+2-out RBI- A.Eaton
+RLISP 2-out- J.Rollins, J.Panik, L.Cain, J.Upton-2, J.Dyson-2, A.Gordon-2
+TEAM RISP- Giants: 1 for 5  Royals: 1 for 9
+
+Cole Hamels(2-2) and Zack Greinke(3-2) locked horns in a pitcher's duel with
+Hamels and the San Francisco Giants coming out on top of the Kansas City
+Royals 2 to 1.
+
+San Francisco jumped on top to stay in the 3rd inning plating one baserunner
+utilizing 2 base hits.  Kansas City made it exciting in the 9th, but they
+were unable to push the needed runs across.  
+
+Hamels was helped out by Aroldis Chapman who recorded his 6th save.  Ned Yost
+was in a contemplative mood after the tough loss, 'It is really hard to lose
+this kind of a game.  It may seem weird to some, but it is easier to take the
+occasional blow-out loss.  It is the ones that just barely get away that hurt
+so much - like this one!'
+[2]
+[1]SCORESHEET: 2016 San Francisco Giants at 2016 Kansas City Royals
+A.Eaton-A1   A1:P/2     B1:Do>1#   C1:SB+E/2  *8*:G/53
+                                   >13 FC/52  
+                                   >3o        
+J.Panik-A1   A2:P/6     B2:K       C2:Si>13   D2:G/43
+                                              
+                                              
+B.Posey-A1   A3:G/43    *4*:K      C3:Si>3#   D3:Si CS/
+                                   12         26>1o
+                                              
+B.Belt-A1    *2*:G/63   B4:G/3     C4:K       *9*:K
+                                              
+                                              
+K.Morale-A1  A5:F/9     B5:G/31    C5:W>23 1  D5:Si
+K.Tomlin-D7                        2 b1       
+                                              
+J.Upton-A1   A6:L/5     *5*:L/6    C6:F/8     D6:F/8
+                                              
+                                              
+P.Sandov-A1  *3*:Si     B7:K       *7*:P/4    D7:F/8
+                                              
+                                              
+I.Desmon-A1  A8:K       B8:F/8     C8:K
+                                   
+                                   
+I.Suzuki-A1  A9:F/8     *6*:Si     C9:F/7
+                                   
+                                   
+
+N.Aoki-A1    A1:F/8     B1:L/4     *6*:G/13   *8*:F/7    E1:SB>12
+A.Gordon-D5                                              K
+                                                         
+A.Pagan-A1   A2:F/7     B2:Si>23   C2:K       D2:Si
+A.Rios-D2                                     
+                                              
+L.Cain-A1    A3:G/63    B3:K       C3:F/9     D3:K
+                                              
+                                              
+H.Kendri-A1  *2*:Do     *4*:F/8    *7*:W>b1   D4:F/7
+                                              
+                                              
+M.Mousta-A1  A5:P/6     B5:Si      C5:K       *9*:K
+                                              
+                                              
+E.Hosmer-A1  A6:G/63    B6:G-DP/4  C6:W>12 b  D6:G/13
+                        63>1o      1          
+                                              
+J.Rollin-A1  A7:P/6     *5*:P/6    C7:W>23 1  D7:Si
+                                   2 b1       
+                                              
+M.Maldon-A1  *3*:Si     B8:G/63    C8:K       D8:Si+E/4
+S.Perez-C8                                    >13
+                                              
+J.Dyson-A1   A9:Sac/34  B9:L/4     C9:K       D9:WP>3#
+             >12                              23 W>b1
+                                              
+
+

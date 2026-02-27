@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2016 Pittsburgh Pirates At 2016 Los Angeles(NL) Dodgers   10/3/2016
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  R.Raburn RF         4  2  3  2 .750     J.Pederson CF       4  2  2  1 .500  
+  J.Kang 3B           4  0  0  0 .000     E.Encarnacion 1B    4  1  1  0 .250  
+  P.Alvarez 1B        4  1  1  2 .250     A.Ethier LF         2  0  0  0 .000  
+  A.McCutchen CF      3  1  1  1 .333   A-Y.Puig PH,RF        2  0  1  1 .500  
+  R.Perez C           3  0  0  0 .000     M.Kemp DH           3  2  1  1 .333  
+D-A.Pujols PH         1  0  0  0 .000     J.Arencibia C       3  2  2  2 .667  
+  J.Harrison LF       4  0  0  0 .000   B-J.Uribe PH          1  0  0  0 .000  
+  D.Gregorius SS      4  0  0  0 .000   C-R.Martin C          0  0  0  0 ----  
+  J.Jaso DH           3  1  1  0 .333     D.Murphy 3B         3  1  0  0 .000  
+  N.Walker 2B         3  0  0  0 .000     J.Francoeur RF,LF   4  0  0  0 .000  
+                                          D.Gordon 2B         4  0  2  3 .500  
+                                          E.Escobar SS        3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  5  6  5                 Totals      33  8  9  8
+
+A-Pinch Hit For Ethier In 6th Inning
+B-Pinch Hit For Arencibia In 7th Inning
+C-Subbed Defensively (C ) For Uribe In 8th Inning
+D-Pinch Hit For Perez In 9th Inning
+
+Pirates......... 2 0 0  0 0 0  1 2 0  -  5  6  0
+Dodgers......... 2 0 0  1 0 4  1 0    -  8  9  0
+
+[1]Pirates (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Cole LOSS(0-1)             5       5   4   4   0   3   3   7.20  A1 C2
+T.Milone                     0 1/3   0   0   0   0   1   0   0.00  C3 C3
+J.Hughes                     0 1/3   2   3   3   2   1   0  81.00  C4 C8
+T.Wilhelmsen                 1 1/3   2   1   1   0   2   0   6.75  C9 D5
+R.Tepera                     1       0   0   0   0   1   0   0.00  D6
+[1]Totals                    8       9   8   8   2   8   3
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)           7 1/3   6   5   5   0  11   3   6.14  A1 D1
+A.Bastardo                   0 2/3   0   0   0   0   1   0   0.00  D2 D3
+C.Smith SAVE(1st)            1       0   0   0   1   1   0   0.00  D4
+[1]Totals                    9       6   5   5   1  13   3
+
+ATTENDANCE- 54,173 DATE- Monday, October 3rd 2016 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:18
+LEFT ON BASE- Pirates: 2  Dodgers: 3
+DOUBLE PLAYS- Pirates: 0  Dodgers: 0
+DOUBLES- J.Pederson(1st), E.Encarnacion(1st), J.Arencibia(1st), D.Gordon(1st)
+HOME RUNS- R.Raburn(1st), P.Alvarez(1st), A.McCutchen(1st), J.Pederson(1st),
+           M.Kemp(1st), J.Arencibia(1st)
+RBIs- R.Raburn-2(2nd), P.Alvarez-2(2nd), A.McCutchen(1st), J.Pederson(1st),
+      Y.Puig(1st), M.Kemp(1st), J.Arencibia-2(2nd), D.Gordon-3(3rd)
+STOLEN BASES- D.Gordon(1st)
+WALKS- A.McCutchen, M.Kemp, D.Murphy
+STRIKE OUTS- J.Kang-3, A.McCutchen-2, R.Perez-3, A.Pujols, J.Harrison,
+             D.Gregorius, J.Jaso, N.Walker, A.Ethier, Y.Puig, J.Uribe, D.Murphy,
+             J.Francoeur-2, E.Escobar-2
+WILD PITCHES- C.Smith
+2-out RBI- M.Kemp, D.Gordon-3
+RLISP 2-out- E.Escobar-2, D.Gregorius
+TEAM RISP- Pirates: 0 for 2  Dodgers: 3 for 8
+
+J.P. Arencibia jacked one out of the ballyard and had 2 RBI and Clayton
+Kershaw dominated striking out 11 Pittsburgh batters as the Los Angeles(NL)
+Dodgers bested the Pittsburgh Pirates 8 to 5 at Dodger Stadium.
+
+Kershaw(1-0) earned his pay with a solid performance for Los Angeles(NL).  He
+went 7 and 1/3 innings and surrended up 6 hits and no walks and surrendered 3
+'long-bombs'.  Los Angeles(NL) finished with 9 hits while Pittsburgh ended up
+with 6.  
+
+Kershaw got help from Carson Smith who was credited with his 1st save.  Gerrit
+Cole(0-1) took the loss.  He served up 3 gopher balls in 5 innings.  
+
+Clint Hurdle was upset after the game.  'I don't like to complain but did you
+see that umpires strike zone?', he said.  'Maybe they ought to start calling
+the strike zone the way it's printed in the rule book.'
+[2]
+[1]SCORESHEET: 2016 Pittsburgh Pirates at 2016 Los Angeles(NL) Dodgers
+R.Raburn-A1  A1:Si      B1:Si      *6*:F/7    D1:HR>1#
+                                              b#
+                                              
+J.Kang-A1    A2:K       B2:K       C2:G/63    D2:K
+                                              
+                                              
+P.Alvare-A1  A3:HR>1#   B3:G/43    C3:L/4     D3:F/9
+             b#                               
+                                              
+A.McCutc-A1  A4:K       *4*:K      *7*:HR>b#  *9*:W>b1
+                                              
+                                              
+R.Perez-A1   A5:K       B5:K       C5:K       D5:K
+A.Pujols-D5                                   
+                                              
+J.Harris-A1  *2*:L/6    B6:K       C6:F/9     D6:WP>12
+                                              L/6
+                                              
+D.Gregor-A1  A7:P/6     *5*:G/63   C7:K       D7:P/6
+                                              
+                                              
+J.Jaso-A1    A8:L/4     B8:K       *8*:Si
+                                   
+                                   
+N.Walker-A1  *3*:G/53   B9:L/6     C9:K
+                                   
+                                   
+
+J.Peders-A1  A1:HR>b#   *3*:G/63   C1:F/8     *7*:Do
+                                              
+                                              
+E.Encarn-A1  A2:L/5     B2:F/8     *6*:Do     D2:G/63
+                                              
+                                              
+A.Ethier-A1  A3:K       B3:L/4     C3:K       D3:Si>2#
+Y.Puig-C3                                     
+                                              
+M.Kemp-A1    A4:HR>b#   *4*:G/13   C4:W>b1    D4:F/8
+                                              
+                                              
+J.Arenci-A1  A5:G/63    B5:HR>b#   C5:Do>2#   D5:K
+J.Uribe-D5                         13         
+R.Martin-D6                                   
+D.Murphy-A1  *2*:K      B6:G/53    C6:IW>b1   *8*:G/63
+                                              
+                                              
+J.Franco-A1  A7:G/13    B7:L/6     C7:K       D7:K
+                                              
+                                              
+D.Gordon-A1  A8:Si      *5*:F/9    C8:Do>3#   D8:F/7
+                                   2# 1#      
+                                              
+E.Escoba-A1  A9:SB>12   B9:K       C9:K
+             PB>23 G/4             
+             3                     
+
+

@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2016 Cleveland Indians At 2016 Oakland Athletics          10/3/2016
+
+[1]  Indians            AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  J.Kipnis 2B         5  0  0  0 .000     A.Pollock CF        4  0  0  0 .000  
+  S.Choo RF           4  0  0  0 .000     B.Burns RF          3  0  1  0 .333  
+  M.Brantley CF,LF    3  2  2  0 .667   C-T.Beckham 2B        1  0  0  0 .000  
+  J.Butler LF         3  1  3  11.000     P.Goldschmidt 1B    3  1  1  1 .333  
+F-A.Almonte CF        0  0  0  0 ----     J.Donaldson 3B      2  0  1  1 .500  
+  F.Lindor SS         4  1  2  1 .500     Y.Cespedes LF       3  0  0  0 .000  
+  L.Duda 1B           2  0  0  0 .000     A.Ellis C           4  0  1  0 .250  
+D-R.Zimmerman PH,1B   1  0  0  0 .000     J.Phegley DH        3  0  0  0 .000  
+  D.Freese 3B         4  0  1  2 .250     M.Gonzalez 2B       3  0  2  0 .667  
+  S.Smith DH          2  0  0  0 .000   B-J.Bradley Jr PR,RF  1  0  0  0 .000  
+A-L.Chisenhall PH,DH  1  0  0  0 .000     J.Segura SS         3  1  1  0 .333  
+E-A.Cabrera PH,DH     1  0  0  0 .000                                          
+  R.Chirinos C        3  0  0  0 .000                                          
+G-S.Kazmir PH         1  0  0  0 .000                                          
+H-G.Soto C            0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  4  8  4                 Totals      30  2  7  2
+
+A-Pinch Hit For Smith In 6th Inning
+B-Pinch Ran For Gonzalez In 7th Inning
+C-Subbed Defensively (2B) For Burns In 8th Inning
+D-Pinch Hit For Duda In 8th Inning
+E-Pinch Hit For Chisenhall In 8th Inning
+F-Subbed Defensively (CF) For Butler In 8th Inning
+G-Pinch Hit For Chirinos In 9th Inning
+H-Subbed Defensively (C ) For Kazmir In 9th Inning
+
+Indians......... 1 0 0  0 0 0  0 3 0  -  4  8  0
+Athletics....... 1 0 1  0 0 0  0 0 0  -  2  7  0
+
+[1]Indians (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Keuchel WIN(1-0)           9       7   2   2   4  10   1   2.00  A1
+[1]Totals                    9       7   2   2   4  10   1
+
+[1]Athletics (0-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Gray LOSS(0-1)             7       7   4   4   4   6   0   5.14  A1 D5
+B.Schultz                    1       1   0   0   0   0   0   0.00  D6 D8
+S.Romo                       1       0   0   0   0   1   0   0.00  D9
+[1]Totals                    9       8   4   4   4   7   0
+
+ATTENDANCE- 34,426 DATE- Monday, October 3rd 2016 TIME- Night 
+UMPIRES- Brian Gorman, Tony Randazzo, Jim Wolf, David Rackley
+T- 2:41
+LEFT ON BASE- Indians: 7  Athletics: 6
+DOUBLE PLAYS- Indians: 3  Athletics: 1
+DOUBLES- M.Brantley-2(2nd), F.Lindor(1st), B.Burns(1st), J.Donaldson(1st)
+HOME RUNS- P.Goldschmidt(1st)
+RBIs- J.Butler(1st), F.Lindor(1st), D.Freese-2(2nd), P.Goldschmidt(1st),
+      J.Donaldson(1st)
+SACRIFICE FLIES- J.Donaldson
+WALKS- S.Choo, M.Brantley, J.Butler, L.Duda, P.Goldschmidt, J.Donaldson,
+       Y.Cespedes, J.Phegley
+STRIKE OUTS- J.Kipnis-2, S.Choo-2, S.Smith, R.Chirinos, S.Kazmir, A.Pollock-2,
+             T.Beckham, P.Goldschmidt-2, J.Donaldson, Y.Cespedes-2, A.Ellis,
+             J.Phegley
+GIDP- A.Cabrera, M.Gonzalez, J.Segura
+WILD PITCHES- D.Keuchel
+2-out RBI- J.Butler, P.Goldschmidt
+RLISP 2-out- L.Duda, F.Lindor, Y.Cespedes-2, L.Chisenhall, J.Bradley Jr-2
+TEAM RISP- Indians: 4 for 9  Athletics: 0 for 5
+
+Dallas Keuchel mowed down 10 Oakland batters as the Cleveland Indians
+outscored the Oakland Athletics 4 to 2.
+
+Keuchel(1-0) pitched a solid game. He surrendered only 7 hits and 4 walks in 9
+innings.  Cleveland totaled 8 hits on the night.  
+
+Sonny Gray(0-1) was tagged with the loss.  Keuchel, when asked about his 10
+strikeout performance noted, 'The important thing is that we won, if I get 20
+and we lose, what good does it do our team? But, on the other hand, since we
+won it feels great!'
+[2]
+[1]SCORESHEET: 2016 Cleveland Indians at 2016 Oakland Athletics
+J.Kipnis-A1  A1:G/43    *3*:K      C1:G/31    D1:K       E1:F/9
+                                                         
+                                                         
+S.Choo-A1    A2:G/31    B2:K       C2:W>b1    D2:K       E2:G/43
+                                                         
+                                                         
+M.Brantl-A1  A3:Do      B3:W>b1    C3:F/7     *8*:Do
+                                              
+                                              
+J.Butler-A1  A4:Si>2#   B4:Si>12   *6*:W>b1   D4:Si>23
+A.Almont-D9                                   
+                                              
+F.Lindor-A1  A5:Si>13   B5:G/53    C5:Force/  D5:Do>3#
+                                   46>1o b1   13
+                                              
+L.Duda-A1    A6:G/3     *4*:F/9    C6:W>12 b  D6:G/13
+R.Zimmer-D6                        1          
+                                              
+D.Freese-A1  *2*:G/63   B7:G/63    C7:L/6     D7:Si>3#
+                                              2#
+                                              
+S.Smith-A1   A8:G/13    B8:K       C8:G/43    D8:G-DP/3
+L.Chisen-C8                                   63>1o
+A.Cabrer-D8                                   
+R.Chirin-A1  A9:G/63    *5*:L/4    *7*:K      *9*:K
+S.Kazmir-D9                                   
+G.Soto-E3                                     
+
+A.Polloc-A1  A1:G/63    B1:K       *5*:K      *8*:F/9
+                                              
+                                              
+B.Burns-A1   A2:F/7     B2:Do>13   C2:G/53    D2:K
+T.Beckha-D1                                   
+                                              
+P.Goldsc-A1  A3:HR>b#   B3:IW>b1   C3:K       D3:K
+                                              
+                                              
+J.Donald-A1  A4:W>b1    B4:SF/8>3  *6*:K      *9*:Do
+                        # 23 12               
+                                              
+Y.Cesped-A1  A5:K       B5:F/8     C5:K       D5:W>b1
+                                              
+                                              
+A.Ellis-A1   *2*:K      *4*:Si     C6:G/63    D6:L/5
+                                              
+                                              
+J.Phegle-A1  A7:W>b1    B7:F/9     *7*:L/6    D7:K
+                                              
+                                              
+M.Gonzal-A1  A8:G-DP/6  B8:Si>13   C8:Si      D8:WP>23
+J.Bradle-C9  43>1o                            12 F/8
+                                              
+J.Segura-A1  *3*:Si     B9:F-DP/7  C9:G-DP/6
+                        2>3o 12    43>1o
+                                   
+
+

@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2016 Baltimore Orioles At 2016 Kansas City Royals         10/7/2016
+
+[1]  Orioles            AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  C.Gomez CF          4  0  0  0 .143     E.Hosmer 1B         5  0  2  0 .294  
+C-M.Mahtook LF        0  0  0  0 .333     J.Dyson CF          2  0  0  0 .000  
+  R.Davis LF          4  1  3  1 .400   B-J.Shuck PH,RF       2  0  1  0 .400  
+D-J.Ellsbury CF       0  0  0  0 .000     L.Cain RF,CF        4  0  1  0 .188  
+  A.Gonzalez 1B       4  1  1  1 .188     H.Kendrick 2B       4  0  0  0 .125  
+  M.Machado 3B        4  0  1  0 .125     A.Gordon LF         2  0  0  0 .111  
+  C.Beltran DH        4  0  2  0 .250     M.Moustakas 3B      4  0  1  0 .154  
+  C.Gonzalez RF       4  0  0  0 .143     S.Perez C           2  0  1  0 .400  
+  C.Joseph C          3  1  1  0 .333   F-A.Pagan PH          1  0  0  0 .333  
+E-M.Wieters C         1  0  0  0 .143   G-M.Maldonado C       0  0  0  0 .000  
+  F.Galvis SS,2B      2  0  0  0 .000     E.Nunez DH          4  0  0  0 .000  
+  J.Schoop 2B         1  0  0  0 .250     J.Rollins SS        3  0  0  0 .083  
+A-J.Hardy PH,SS       2  0  0  0 .000   H-N.Aoki PH           0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  8  2                 Totals      33  0  6  0
+
+A-Pinch Hit For Schoop In 5th Inning
+B-Pinch Hit For Dyson In 5th Inning
+C-Subbed Defensively (LF) For Gomez In 8th Inning
+D-Subbed Defensively (CF) For Davis In 8th Inning
+E-Subbed Defensively (C ) For Joseph In 8th Inning
+F-Pinch Hit For Perez In 8th Inning
+G-Subbed Defensively (C ) For Pagan In 9th Inning
+H-Pinch Hit For Rollins In 9th Inning
+
+Orioles......... 1 0 0  0 1 1  0 0 0  -  3  8  1
+Royals.......... 0 0 0  0 0 0  0 0 0  -  0  6  0
+
+[1]Orioles (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Arrieta WIN(1-1)           7 2/3   6   0   0   1   8   0   1.15  A1 D6
+A.Miller HOLD(2nd)           0 1/3   0   0   0   0   0   0   0.00  D7 D7
+J.Benoit                     0 1/3   0   0   0   0   1   0   0.00  D8 D9
+Z.Britton SAVE(3rd)          0 2/3   0   0   0   0   0   0   3.38  E1
+[1]Totals                    9       6   0   0   1   9   0
+
+[1]Royals (1-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana LOSS(1-1)         7 2/3   6   3   3   0   7   2   1.76  A1 D2
+K.Herrera                    0 1/3   1   0   0   0   1   0   0.00  D3 D4
+D.Robertson                  1       1   0   0   0   1   0   7.36  D5
+[1]Totals                    9       8   3   3   0   9   2
+
+ATTENDANCE- 39,473 DATE- Friday, October 7th 2016 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 2:29
+LEFT ON BASE- Orioles: 4  Royals:10
+DOUBLE PLAYS- Orioles: 1  Royals: 1
+ERRORS- M.Machado
+DOUBLES- C.Beltran(1st), C.Joseph(2nd), L.Cain(1st)
+HOME RUNS- R.Davis(1st), A.Gonzalez(2nd)
+RBIs- R.Davis(2nd), A.Gonzalez(3rd)
+STOLEN BASES- R.Davis-2(2nd), E.Hosmer(1st), S.Perez(1st)
+SACRIFICE HITS- F.Galvis
+WALKS- A.Gordon
+HIT BY PITCH- A.Gordon, S.Perez, N.Aoki
+STRIKE OUTS- A.Gonzalez, M.Machado-2, C.Beltran, M.Wieters, F.Galvis, J.Schoop,
+             J.Hardy-2, J.Dyson, J.Shuck, A.Gordon-2, M.Moustakas-2, E.Nunez-2,
+             J.Rollins
+GIDP- C.Gonzalez, E.Hosmer
+WILD PITCHES- J.Quintana
+2-out RBI- A.Gonzalez
+RLISP 2-out- F.Galvis, J.Dyson-2, E.Nunez-2, H.Kendrick, A.Gonzalez, A.Pagan,
+             M.Wieters
+TEAM RISP- Orioles: 0 for 6  Royals: 0 for 10
+
+In a game for the baseball purist, Jake Arrieta(1-1) and Jose Quintana(1-1)
+squared off in a tense pitching duel, Baltimore Orioles finally emerged
+victorious over Kansas City Royals, 3 to 0.
+
+Kansas City fell behind quickly as the Baltimore offense came through in the
+first inning scoring a single run.  That early run support was all that
+Arrieta required.  Baltimore had 8 hits for the night.  
+
+Arrieta was helped out by Zach Britton who recorded his 3rd save.
+[2]
+[1]SCORESHEET: 2016 Baltimore Orioles at 2016 Kansas City Royals
+C.Gomez-A1   A1:G/63    B1:G/63    C1:F/9     D1:P/6
+M.Mahtoo-D4                                   
+                                              
+R.Davis-A1   A2:F/9     B2:Si      *6*:HR>b#  D2:Si
+J.Ellsbu-D4                                   
+                                              
+A.Gonzal-A1  A3:HR>b#   B3:G/63    C3:G/43    D3:SB>12
+                                              SB>23 K
+                                              
+M.Machad-A1  A4:G/53    *4*:K      C4:K       *9*:Si
+                                              
+                                              
+C.Beltra-A1  *2*:Do     B5:P/6     C5:K       D5:Si>12
+                                              
+                                              
+C.Gonzal-A1  A6:F/7     B6:F/9     *7*:L/4    D6:G-DP/6
+                                              43>23 1o
+                                              
+C.Joseph-A1  A7:F/8     *5*:Do     C7:G/53    D7:K
+M.Wieter-D4                                   
+                                              
+F.Galvis-A1  A8:K       B8:Sac/14  C8:F/7
+                        >23        
+                                   
+J.Schoop-A1  *3*:K      B9:WP>3#   *8*:K
+J.Hardy-B9              K          
+                                   
+
+E.Hosmer-A1  A1:G/43    B1:E/5>23  C1:Si      D1:Si      E1:G-DP/6
+                                                         43>1o
+                                                         
+J.Dyson-A1   A2:F/8     B2:SB>12   C2:Si>12   D2:K
+J.Shuck-C2              K                     
+                                              
+L.Cain-A1    A3:G/63    *4*:Do     C3:FO/2    *8*:F/8
+                                              
+                                              
+H.Kendri-A1  *2*:F/7    B4:F/8     C4:G/53    D4:G/63
+                                              
+                                              
+A.Gordon-A1  A5:K       B5:W>b1    *6*:K      D5:HBP
+                                              
+                                              
+M.Mousta-A1  A6:K       B6:F/8     C6:K       D6:Si>12
+                                              
+                                              
+S.Perez-A1   *3*:Si     B7:HBP>23  C7:G/13    D7:G/13
+A.Pagan-D7              12                    
+M.Maldon-D8                                   
+E.Nunez-A1   A8:SB>12   B8:G/3     *7*:K      *9*:K
+             F/8                              
+                                              
+J.Rollin-A1  A9:K       *5*:F/9    C9:P/4     D9:HBP
+N.Aoki-D9                                     
+                                              
+
+

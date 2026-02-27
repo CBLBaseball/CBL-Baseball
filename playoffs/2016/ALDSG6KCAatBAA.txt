@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2016 Kansas City Royals At 2016 Baltimore Orioles        10/10/2016
+
+[1]  Royals             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  E.Hosmer 1B         4  2  2  1 .280     C.Coghlan LF        5  1  1  0 .167  
+  L.Cain CF,RF        3  1  0  0 .174     C.Beltran DH        5  0  2  0 .280  
+  H.Kendrick 2B       4  0  0  0 .083     A.Gonzalez 1B       4  2  2  2 .217  
+  A.Gordon LF         3  2  1  1 .133     M.Machado 3B        3  2  1  0 .130  
+  M.Moustakas 3B      4  2  2  4 .200     C.Gonzalez RF       3  1  2  4 .286  
+  E.Nunez DH          2  0  0  0 .167     J.Ellsbury CF       4  0  0  0 .000  
+A-N.Aoki PH,DH        2  0  0  0 .000   E-M.Mahtook PH        1  0  0  0 .250  
+  S.Perez C           4  0  0  0 .313     M.Wieters C         3  0  1  0 .200  
+  A.Rios RF           4  0  0  0 .182   B-P.Tucker PH         1  0  0  0 .000  
+D-J.Dyson CF          0  0  0  0 .000   C-C.Joseph C          1  0  0  0 .300  
+  J.Rollins SS        4  1  1  1 .105     J.Schoop 2B         3  0  0  0 .214  
+                                          F.Galvis SS         4  0  1  0 .071  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  8  6  7                 Totals      37  6 10  6
+
+A-Pinch Hit For Nunez In 6th Inning
+B-Pinch Hit For Wieters In 7th Inning
+C-Subbed Defensively (C ) For Tucker In 8th Inning
+D-Subbed Defensively (CF) For Rios In 9th Inning
+E-Pinch Hit For Ellsbury In 9th Inning
+
+Royals.......... 1 0 1  1 0 3  1 1 0  -  8  6  1
+Orioles......... 0 0 2  1 0 0  2 0 1  -  6 10  1
+
+[1]Royals (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Montgomery                 3 1/3   5   3   3   3   4   0   8.10  A1 B9
+R.Madson WIN(1-0)            3       4   2   2   1   2   1   6.00  C1 D6
+D.Robertson HOLD(1st)        1 2/3   1   1   1   0   2   1   6.75  D7 E3
+W.Davis SAVE(3rd)            1       0   0   0   1   0   0   0.00  E4
+[1]Totals                    9      10   6   6   5   8   2
+
+[1]Orioles (3-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Harvey LOSS(1-1)           8       6   8   7   2   6   5   4.50  A1 D7
+J.Benoit                     1       0   0   0   0   1   0   0.00  D8
+[1]Totals                    9       6   8   7   2   7   5
+
+ATTENDANCE- 41,375 DATE- Monday, October 10th 2016 TIME- Night 
+UMPIRES- Angel Hernandez, Paul Nauert, Adrian Johnson, Larry Vanover
+T- 3:04
+LEFT ON BASE- Royals: 2  Orioles:10
+DOUBLE PLAYS- Royals: 0  Orioles: 0
+ERRORS- M.Moustakas, C.Gonzalez
+DOUBLES- C.Coghlan(1st), C.Beltran(3rd), A.Gonzalez(1st), M.Machado(1st),
+         C.Gonzalez(2nd)
+HOME RUNS- E.Hosmer(1st), A.Gordon(2nd), M.Moustakas-2(2nd), J.Rollins(1st),
+           A.Gonzalez(3rd), C.Gonzalez(1st)
+RBIs- E.Hosmer(1st), A.Gordon(3rd), M.Moustakas-4(4th), J.Rollins(1st),
+      A.Gonzalez-2(5th), C.Gonzalez-4(4th)
+STOLEN BASES- L.Cain(1st)
+WALKS- E.Hosmer, A.Gordon, A.Gonzalez, M.Machado-2, C.Gonzalez-2
+HIT BY PITCH- L.Cain, J.Schoop
+STRIKE OUTS- E.Hosmer, L.Cain-2, H.Kendrick, S.Perez, A.Rios-2, C.Coghlan-2,
+             A.Gonzalez, M.Machado, J.Ellsbury-2, J.Schoop-2
+2-out RBI- A.Gonzalez
+RLISP 2-out- M.Moustakas, J.Ellsbury-2, M.Wieters, M.Machado-2
+TEAM RISP- Royals: 1 for 4  Orioles: 2 for 7
+WEB GEMS- Top 9th: Freddy Galvis robbed Eric Hosmer of a base hit.
+
+Third baseman Mike Moustakas launched 2 homeruns and had 4 RBI as the Kansas
+City Royals beat the Baltimore Orioles by a score of 8 to 6.
+
+Moustakas was a seemingly constant irritant to the hometown fans as he
+provided much of the offense for the visitors.  He smacked a three-run homer
+in the 6th inning and hit a bases-empty home run in the 8th inning.  Kansas
+City simply wore out the Baltimore pitching staff, scoring in 6 different
+innings.  
+
+The winning pitcher was Ryan Madson(1-0) who allowed 2 runs in 3 innings.
+Madson got help from Wade Davis who was credited with his 3rd save.  Matt
+Harvey(1-1) suffered the loss.  He was touched for 5 homeruns in his 8
+innings of work.  
+
+[2]
+[1]SCORESHEET: 2016 Kansas City Royals at 2016 Baltimore Orioles
+E.Hosmer-A1  A1:W>b1    B1:HR>b#   C1:K       D1:Si      E1:G/63
+                                                         
+                                                         
+L.Cain-A1    A2:K       B2:P/6     *6*:HBP    D2:K
+                                              
+                                              
+H.Kendri-A1  A3:G/43>1  B3:G/63    C3:SB>12   D3:K
+             2                     F/9        
+                                              
+A.Gordon-A1  A4:E/9>2#  *4*:HR>b#  C4:IW>b1   *8*:G/43
+             b2                               
+                                              
+M.Mousta-A1  A5:G/43    B5:L/5     C5:HR>2#   D5:HR>b#
+                                   1# b#      
+                                              
+E.Nunez-A1   *2*:G/31   B6:G/3     C6:G/43    D6:G/63
+N.Aoki-C6                                     
+                                              
+S.Perez-A1   A7:G/43    B7:L/6     C7:G/53    D7:K
+                                              
+                                              
+A.Rios-A1    A8:P/2     *5*:K      *7*:F/7    *9*:K
+J.Dyson-E2                                    
+                                              
+J.Rollin-A1  *3*:F/9    B9:G/53    C9:HR>b#   D9:G/43
+                                              
+                                              
+
+C.Coghla-A1  A1:K       B1:Do>1o   C1:Force/  D1:E/5     E1:K
+                                   54>1o b1              
+                                                         
+C.Beltra-A1  A2:Do      *3*:FO/2   C2:Si>13   D2:F/9     E2:F/7
+                                                         
+                                                         
+A.Gonzal-A1  A3:K       B3:W>b1    C3:Do>3#   D3:G/13    *9*:HR>b#
+                                   13                    
+                                                         
+M.Machad-A1  A4:W>b1    B4:Do>13   C4:K       *7*:W>b1   E4:G/53
+                                                         
+                                                         
+C.Gonzal-A1  A5:W>23 1  B5:Do>3#   *5*:G/43   D5:HR>1#   E5:W>b1
+             2 b1       2#                    b#         
+                                                         
+J.Ellsbu-A1  A6:K       B6:G/63>2  C6:K       D6:F/8     E6:F/7
+M.Mahtoo-E6             3                                
+                                                         
+M.Wieter-A1  *2*:G/63   B7:G/31    C7:Si      D7:L/4     E7:G/13
+P.Tucker-D7                                              
+C.Joseph-D9                                              
+J.Schoop-A1  A8:HBP     *4*:K      C8:F/7     D8:K
+                                              
+                                              
+F.Galvis-A1  A9:Force/  B9:Si      *6*:G/13   *8*:P/6
+             54>1o b1                         
+                                              
+
+

@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2016 Oakland Athletics At 2016 Cleveland Indians          10/7/2016
+
+[1]  Athletics          AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  A.Pollock CF        5  0  0  0 .111     S.Choo RF           4  0  1  0 .231  
+  B.Burns DH          4  0  0  0 .100     J.Kipnis 2B         4  0  0  0 .059  
+  P.Goldschmidt 1B    3  0  3  0 .385     M.Brantley CF       5  1  2  1 .467  
+  J.Donaldson 3B      4  0  0  0 .231     F.Lindor SS         2  0  0  0 .200  
+  S.Vogt C            3  0  2  0 .300   I-J.Butler PH         0  0  0  0 .714  
+E-A.Ellis PH          0  0  0  0 .250     C.Allen P           0  0  0  0 ----  
+F-B.Moss PH           1  0  0  0 .250     L.Duda 1B           4  0  1  0 .231  
+G-J.Phegley C         0  0  0  0 .000     D.Freese 3B         3  0  1  0 .273  
+  Y.Cespedes LF       4  1  1  0 .067   J-L.Chisenhall PH,3B  1  0  0  0 .200  
+  T.Beckham 2B        3  3  2  1 .500     S.Smith LF          3  0  2  0 .300  
+B-M.Canha RF          1  0  0  0 .333   D-G.Soto C            1  0  0  0 .500  
+  J.Bradley Jr RF     2  1  1  1 .143     R.Chirinos C        2  0  0  0 .000  
+A-M.Gonzalez PH,2B    2  1  1  3 .500   C-R.Zimmerman PH,LF   1  0  0  0 .286  
+H-E.Sogard 2B         0  0  0  0 .200     A.Cabrera DH,SS     4  0  0  0 .308  
+  J.Segura SS         4  0  1  1 .429                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  6 11  6                 Totals      34  1  7  1
+
+A-Pinch Hit For Bradley Jr In 6th Inning
+B-Subbed Defensively (RF) For Beckham In 6th Inning
+C-Pinch Hit For Chirinos In 6th Inning
+D-Subbed Defensively (C ) For Smith In 7th Inning
+E-Pinch Hit For Vogt In 7th Inning
+F-Pinch Hit For Ellis In 7th Inning
+G-Subbed Defensively (C ) For Moss In 7th Inning
+H-Subbed Defensively (2B) For Gonzalez In 8th Inning
+I-Pinch Hit For Lindor In 8th Inning
+J-Pinch Hit For Freese In 8th Inning
+
+Athletics....... 0 2 0  1 0 3  0 0 0  -  6 11  1
+Indians......... 0 0 0  0 0 0  0 1 0  -  1  7  0
+
+[1]Athletics (1-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Gray WIN(1-1)              5       5   0   0   2   7   0   3.00  A1 C4
+C.Bassitt HOLD(1st)          3 2/3   2   1   1   3   3   1  13.50  C5 E2
+H.Street SAVE(1st)           0 1/3   0   0   0   0   0   0   0.00  E3
+[1]Totals                    9       7   1   1   5  10   1
+
+[1]Indians (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Keuchel LOSS(1-1)          5 1/3  10   6   6   1   1   2   5.02  A1 C8
+D.Jennings                   1       1   0   0   1   0   0   0.00  C9 D4
+C.Allen                      2 2/3   0   0   0   0   3   0   0.00  D5 D9
+[1]Totals                    9      11   6   6   2   4   2
+
+ATTENDANCE- 37,121 DATE- Friday, October 7th 2016 TIME- Night 
+UMPIRES- Will Little, Ted Barrett, Alfonso Marquez, Paul Schrieber
+T- 3:20
+LEFT ON BASE- Athletics: 5  Indians:11
+DOUBLE PLAYS- Athletics: 1  Indians: 2
+ERRORS- J.Segura
+DOUBLES- S.Smith(2nd)
+TRIPLES- J.Bradley Jr(1st)
+HOME RUNS- T.Beckham(1st), M.Gonzalez(1st), M.Brantley(2nd)
+RBIs- T.Beckham(1st), J.Bradley Jr(1st), M.Gonzalez-3(3rd), J.Segura(3rd),
+      M.Brantley(2nd)
+STOLEN BASES- P.Goldschmidt(1st)
+WALKS- B.Burns, P.Goldschmidt, S.Choo, J.Kipnis, F.Lindor, J.Butler,
+       R.Zimmerman
+STRIKE OUTS- A.Pollock, M.Canha, M.Gonzalez, J.Segura, S.Choo-2, J.Kipnis,
+             F.Lindor, L.Duda, D.Freese, S.Smith, R.Chirinos, A.Cabrera-2
+GIDP- B.Moss, L.Duda
+2-out RBI- J.Bradley Jr, J.Segura
+RLISP 2-out- J.Donaldson, L.Duda, Y.Cespedes-2, R.Chirinos-2, F.Lindor,
+             R.Zimmerman, M.Brantley-2
+TEAM RISP- Athletics: 2 for 7  Indians: 1 for 7
+
+In a lop-sided win the Oakland Athletics ripped the Cleveland Indians by a 6
+to 1 count.
+
+Oakland took the lead for good in the 2nd inning when they scored 2 runs on 3
+hits.  That was all the offense they were to need.  For the game Oakland
+out-hit Cleveland 11 to 7.  
+
+The victory was credited to Sonny Gray(1-1) who went 5 innings, allowing no
+runs. Huston Street was credited with his 1st save.  Dallas Keuchel(1-1) was
+tagged with the loss.  Oakland scored big getting 6 runs off him in 5 and 1/3
+innings.  
+
+[2]
+[1]SCORESHEET: 2016 Oakland Athletics at 2016 Cleveland Indians
+A.Polloc-A1  A1:G/43    B1:G/63    C1:G/13    D1:F/7     E1:K
+                                                         
+                                                         
+B.Burns-A1   A2:G/63    *3*:F/8    *5*:F/9    *7*:W>b1   E2:FO/2
+                                                         
+                                                         
+P.Goldsc-A1  A3:Si      B3:W>b1    C3:Si      D3:Si>12
+                                              
+                                              
+J.Donald-A1  A4:SB>12   B4:F/8     C4:L-DP/6  D4:Force/
+             F/9                   3>1o       46>23 1o
+                                              b1
+S.Vogt-A1    *2*:G/43   B5:Si>13   *6*:Si     D5:G-DP/4
+A.Ellis-D5                                    63>1o
+B.Moss-D5+                                    
+Y.Cesped-A1  A6:F/7     B6:G/63    C6:Si>13   *8*:L/5
+                                              
+                                              
+T.Beckha-A1  A7:Si      *4*:HR>b#  C7:FC/42>  D7:K
+M.Canha-D2                         3o 12      
+                                              
+J.Bradle-A1  A8:Tr>1#   B8:G/31    C8:HR>2#   D8:K
+M.Gonzal-C8                        1# b#      
+E.Sogard-D9                                   
+J.Segura-A1  A9:Si>3#   B9:K       C9:G/53    *9*:G/43
+                                              
+                                              
+
+S.Choo-A1    A1:Si      B1:K       C1:W>b1    D1:F/9     E1:K
+                                                         
+                                                         
+J.Kipnis-A1  A2:F/8     B2:F/7     C2:K       D2:G/43    E2:W>23 1
+                                                         2 b1
+                                                         
+M.Brantl-A1  A3:Force/  *4*:G/43   C3:Si>13   *8*:HR>b#  E3:G/23
+             36>1o b1                                    
+                                                         
+F.Lindor-A1  A4:W>12 b  B4:K       C4:G/43    D4:W>b1
+J.Butler-D4  1                                
+C.Allen-D7                                    
+L.Duda-A1    A5:K       B5:Si      *6*:G/43   D5:G-DP/5
+                                              43>1o
+                                              
+D.Freese-A1  *2*:G/53   B6:Si>12   C6:K       D6:G/31
+L.Chisen-D6                                   
+                                              
+S.Smith-A1   A7:K       B7:Si>23   C7:Do      *9*:G/31
+G.Soto-C9               12                    
+                                              
+R.Chirin-A1  A8:G/63    B8:K       C8:G/53    D8:W>b1
+R.Zimmer-C8                                   
+                                              
+A.Cabrer-A1  *3*:K      *5*:G/3    *7*:K      D9:E/6>12
+                                              
+                                              
+
+

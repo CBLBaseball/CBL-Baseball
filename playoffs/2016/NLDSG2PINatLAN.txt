@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2016 Pittsburgh Pirates At 2016 Los Angeles(NL) Dodgers   10/4/2016
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  G.Polanco RF        3  0  1  1 .333     D.Gordon 2B         2  0  0  0 .333  
+  D.Gregorius SS      4  0  0  0 .000   B-E.Hernandez PH,2B   1  1  1  21.000  
+  A.McCutchen CF      4  0  1  0 .286     E.Encarnacion 1B    4  1  2  1 .375  
+  S.Marte LF          4  0  0  0 .000     D.Murphy 3B         4  1  2  1 .286  
+  A.Pujols 1B         4  1  2  1 .400     J.Pederson CF       4  1  1  1 .375  
+  P.Alvarez DH        3  1  1  1 .286     M.Kemp DH           4  0  1  0 .286  
+E-J.Harrison PH       1  0  0  0 .000     A.Ethier LF         4  0  1  0 .167  
+  J.Kang 3B           3  0  0  0 .000     E.Escobar SS        4  0  1  0 .143  
+  J.Castro C          2  1  1  0 .500     J.Francoeur RF      2  0  0  0 .000  
+A-R.Perez PH,C        1  0  0  0 .000   C-J.Uribe PH          1  0  0  0 .000  
+  N.Walker 2B         3  0  0  0 .000   D-M.Den Dekker RF     0  0  0  0 ----  
+                                          R.Martin C          4  1  1  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      34  5 10  5
+
+A-Pinch Hit For Castro In 7th Inning
+B-Pinch Hit For Gordon In 7th Inning
+C-Pinch Hit For Francoeur In 8th Inning
+D-Subbed Defensively (RF) For Uribe In 9th Inning
+E-Pinch Hit For Alvarez In 9th Inning
+
+Pirates......... 0 0 1  2 0 0  0 0 0  -  3  6  0
+Dodgers......... 0 0 0  0 0 2  3 0    -  5 10  0
+
+[1]Pirates (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Samardzija                 6       7   3   3   2   5   2   4.50  A1 C9
+C.Furbush L(0-1) BS(1st)     0 1/3   3   2   2   0   1   2  54.00  D1 D4
+A.Ramos                      1 2/3   0   0   0   0   1   0   0.00  D5
+[1]Totals                    8      10   5   5   2   7   4
+
+[1]Dodgers (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Lewis                      6       6   3   3   1   4   2   4.50  A1 C6
+T.Gott                       0 1/3   0   0   0   0   0   0   0.00  C7 C7
+N.Cotts WIN(1-0)             1 1/3   0   0   0   0   2   0   0.00  C8 D2
+C.Smith HOLD(1st)            1       0   0   0   0   1   0   0.00  D3 D5
+A.Bastardo SAVE(1st)         0 1/3   0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       6   3   3   1   7   2
+
+ATTENDANCE- 52,760 DATE- Tuesday, October 4th 2016 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:39
+LEFT ON BASE- Pirates: 3  Dodgers: 7
+DOUBLE PLAYS- Pirates: 0  Dodgers: 1
+DOUBLES- J.Castro(1st)
+HOME RUNS- A.Pujols(1st), P.Alvarez(2nd), E.Hernandez(1st), E.Encarnacion(1st),
+           D.Murphy(1st), J.Pederson(2nd)
+RBIs- G.Polanco(1st), A.Pujols(1st), P.Alvarez(3rd), E.Hernandez-2(2nd),
+      E.Encarnacion(1st), D.Murphy(1st), J.Pederson(2nd)
+WALKS- G.Polanco, D.Gordon, J.Francoeur
+STRIKE OUTS- G.Polanco, D.Gregorius, A.McCutchen-2, S.Marte, P.Alvarez, R.Perez,
+             E.Encarnacion, J.Pederson, M.Kemp, A.Ethier, J.Francoeur-2,
+             R.Martin
+GIDP- S.Marte
+2-out RBI- G.Polanco, A.Pujols, P.Alvarez
+RLISP 2-out- E.Encarnacion
+TEAM RISP- Pirates: 1 for 2  Dodgers: 0 for 3
+
+Edwin Encarnacion touched them all as the Los Angeles(NL) Dodgers beat the
+Pittsburgh Pirates by a score of 5 to 3.
+
+Neal Cotts(1-0) was dominant in relief.  No one got on base in his perfect 1
+and 1/3 innings.  Los Angeles(NL) had 10 hits for the night while Pittsburgh
+had 6.  
+
+Antonio Bastardo recorded the save, his 1st.  Charlie Furbush(0-1) was the
+losing pitcher in relief.  He pitched 1/3 of an inning allowing 3 hits and no
+walks.
+[2]
+[1]SCORESHEET: 2016 Pittsburgh Pirates at 2016 Los Angeles(NL) Dodgers
+G.Polanc-A1  A1:P/3     B1:Si>2#   C1:W>b1    *8*:K
+                                              
+                                              
+D.Gregor-A1  A2:L/4     B2:K       C2:F/7     D2:P/3
+                                              
+                                              
+A.McCutc-A1  A3:K       *4*:Si     *6*:P/5    D3:K
+                                              
+                                              
+S.Marte-A1   *2*:K      B4:G-DP/5  C4:F/9     *9*:G/31
+                        43>1o                 
+                                              
+A.Pujols-A1  A5:G/13    B5:HR>b#   C5:Si      D5:G/63
+                                              
+                                              
+P.Alvare-A1  A6:P/4     B6:HR>b#   C6:K       D6:G/63
+J.Harris-D6                                   
+                                              
+J.Kang-A1    *3*:G/43   B7:G/13    *7*:G/53
+                                   
+                                   
+J.Castro-A1  A8:Do      *5*:F/9    C8:K
+R.Perez-C8                         
+                                   
+N.Walker-A1  A9:FO/2    B9:F/7     C9:G/43
+                                   
+                                   
+
+D.Gordon-A1  A1:F/7     B1:W>b1    C1:L/4     D1:HR>1#
+E.Hernan-D1                                   b#
+                                              
+E.Encarn-A1  A2:Si      B2:F/8     C2:K       D2:HR>b#
+                                              
+                                              
+D.Murphy-A1  A3:Force/  B3:F/7     *6*:HR>b#  D3:Si
+             46>1o b1                         
+                                              
+J.Peders-A1  A4:L/4     *4*:F/7    C4:HR>b#   D4:K
+                                              
+                                              
+M.Kemp-A1    *2*:Si     B5:G/43    C5:F/7     D5:K
+                                              
+                                              
+A.Ethier-A1  A6:K       B6:G/43    C6:Si      D6:F/8
+                                              
+                                              
+E.Escoba-A1  A7:F/9     *5*:Si     C7:F/9     *8*:P/6
+                                              
+                                              
+J.Franco-A1  A8:K       B8:W>12 b  C8:K       D8:F/7
+J.Uribe-D8              1                     
+M.Den De-E1                                   
+R.Martin-A1  *3*:K      B9:Force/  *7*:Si     D9:L/4
+                        35>2o 12              
+                        b1                    
+
+

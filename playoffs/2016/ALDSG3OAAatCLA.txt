@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2016 Oakland Athletics At 2016 Cleveland Indians          10/6/2016
+
+[1]  Athletics          AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  A.Pollock CF        5  0  1  0 .154     F.Lindor SS         4  0  0  0 .250  
+  J.Bradley Jr RF     4  0  0  0 .000     D.Freese 3B         3  0  1  0 .250  
+  P.Goldschmidt 1B    4  0  1  0 .200   E-A.Almonte PH,CF     1  0  0  0 .000  
+  J.Donaldson 3B      3  1  1  1 .333     R.Zimmerman LF,1B   4  1  1  1 .333  
+  S.Vogt C            4  0  1  0 .143     D.Navarro C         2  0  1  0 .250  
+  Y.Cespedes LF       4  0  0  0 .000   C-S.Choo RF           1  0  0  0 .222  
+  B.Moss DH           3  1  1  0 .333     J.Butler RF         3  1  2  0 .714  
+  E.Sogard 2B         2  0  0  0 .200   D-L.Chisenhall CF,3B  1  0  1  0 .250  
+A-M.Gonzalez PH,2B    1  0  0  0 .500     A.Cabrera DH        3  1  2  0 .444  
+G-M.Canha PH          1  0  1  0 .400   F-S.Smith PH,DH       1  0  0  0 .143  
+  J.Segura SS         4  0  2  1 .500     M.Brantley CF,LF    3  0  0  0 .500  
+                                          L.Duda 1B           2  0  0  0 .222  
+                                        B-R.Chirinos PH,C     1  0  0  0 .000  
+                                          J.Kipnis 2B         3  0  0  0 .077  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2  8  2                 Totals      32  3  8  1
+
+A-Pinch Hit For Sogard In 7th Inning
+B-Pinch Hit For Duda In 7th Inning
+C-Subbed Defensively (RF) For Navarro In 8th Inning
+D-Subbed Defensively (CF) For Butler In 8th Inning
+E-Pinch Hit For Freese In 8th Inning
+F-Pinch Hit For Cabrera In 8th Inning
+G-Pinch Hit For Gonzalez In 9th Inning
+
+Athletics....... 0 0 0  0 1 0  0 1 0  -  2  8  1
+Indians......... 0 0 0  0 0 0  2 1    -  3  8  0
+
+[1]Athletics (0-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Pomeranz                   7       6   2   0   1   5   0   0.00  A1 D1
+P.Neshek LOSS(0-1)           1       2   1   1   0   1   1   4.50  D2
+[1]Totals                    8       8   3   1   1   6   1
+
+[1]Indians (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Kazmir                     4 2/3   3   1   1   2   8   0   1.93  A1 C1
+A.Chafin                     2 1/3   3   0   0   0   2   0   0.00  C2 D2
+J.Smith BS(1st)              0 1/3   1   1   1   0   1   1  27.00  D3 D4
+R.Webb WIN(1-0)              1       0   0   0   0   0   0   0.00  D5 D7
+J.Manship SAVE(1st)          0 2/3   1   0   0   0   0   0   0.00  D8
+[1]Totals                    9       8   2   2   2  11   1
+
+ATTENDANCE- 34,307 DATE- Thursday, October 6th 2016 TIME- Night 
+UMPIRES- Chad Fairchild, Vic Carapazza, Bill Miller, Mike Everitt
+T- 2:55
+LEFT ON BASE- Athletics: 8  Indians: 6
+DOUBLE PLAYS- Athletics: 1  Indians: 0
+ERRORS- J.Segura
+DOUBLES- P.Goldschmidt(1st), S.Vogt(1st), B.Moss(1st), L.Chisenhall(1st)
+HOME RUNS- J.Donaldson(2nd), R.Zimmerman(1st)
+RBIs- J.Donaldson(3rd), J.Segura(2nd), R.Zimmerman(2nd)
+STOLEN BASES- A.Cabrera(1st)
+WALKS- J.Donaldson, B.Moss, D.Navarro
+STRIKE OUTS- A.Pollock, J.Bradley Jr-2, P.Goldschmidt-3, S.Vogt, Y.Cespedes-3,
+             E.Sogard, F.Lindor, D.Freese, R.Zimmerman, S.Smith, L.Duda,
+             J.Kipnis
+GIDP- A.Cabrera
+RLISP 2-out- E.Sogard, L.Duda, J.Bradley Jr-2, Y.Cespedes, F.Lindor, S.Smith
+TEAM RISP- Athletics: 1 for 9  Indians: 1 for 9
+
+The Cleveland Indians and the Oakland Athletics locked up in an exciting
+one-run game at Progressive Field.  The final score was the Cleveland Indians
+3, the Oakland Athletics 2.
+
+The deciding run was scored by Cleveland in the bottom of the 8th.  After an
+out was recorded, Ryan Zimmerman blasted a solo shot.  Oakland made it
+exciting in the 9th, but they were unable to push the needed runs across.
+
+The victory was credited to Ryan Webb(1-0) who went 1 inning, allowing no
+runs. Webb was helped out by Jeff Manship who recorded his 1st save.  Pat
+Neshek(0-1) was the loser in relief.  
+
+[2]
+[1]SCORESHEET: 2016 Oakland Athletics at 2016 Cleveland Indians
+A.Polloc-A1  A1:K       B1:F/8     C1:G/63>1  D1:Si>13   E1:G/43
+                                   2                     
+                                                         
+J.Bradle-A1  A2:K       B2:G/43    C2:F/7     D2:K
+                                              
+                                              
+P.Goldsc-A1  A3:K       *4*:K      *6*:Do     *8*:K
+                                              
+                                              
+J.Donald-A1  *2*:G/63   B4:W>b1    C4:F/7     D4:HR>b#
+                                              
+                                              
+S.Vogt-A1    A5:Do      B5:K       C5:G/13    D5:G/43
+                                              
+                                              
+Y.Cesped-A1  A6:K       B6:K       C6:K       D6:F/7
+                                              
+                                              
+B.Moss-A1    A7:IW>b1   *5*:Do     *7*:F/8    *9*:F/8
+                                              
+                                              
+E.Sogard-A1  A8:G/13    B8:K       C8:G/63    D8:Si
+M.Gonzal-C8                                   
+M.Canha-D8                                    
+J.Segura-A1  *3*:G/63   B9:Si>2#   C9:Si      D9:F/9
+                                              
+                                              
+
+F.Lindor-A1  A1:F/9     B1:G/43    *6*:K      D1:G/13
+                                              
+                                              
+D.Freese-A1  A2:K       B2:G/63    C2:Si      *8*:L/4
+A.Almont-D2                                   
+                                              
+R.Zimmer-A1  A3:F/9     *4*:K      C3:L/5     D3:HR>b#
+                                              
+                                              
+D.Navarr-A1  *2*:Si     B4:W>b1    C4:P/6     D4:F/7
+S.Choo-D2                                     
+                                              
+J.Butler-A1  A5:G/3>12  B5:Si>12   *7*:Si     D5:Do
+L.Chisen-D2                                   
+                                              
+A.Cabrer-A1  A6:Si>23   B6:G-DP/1  C6:Si>13   D6:K
+S.Smith-D6              63>1o                 
+                                              
+M.Brantl-A1  A7:P/2     *5*:G/13   C7:SB>12
+                                   P/6
+                                   
+L.Duda-A1    A8:F/9     B8:K       C8:F/7
+R.Chirin-C8                        
+                                   
+J.Kipnis-A1  *3*:K      B9:F/8     C9:E/6>3#
+                                   2# b2 
+                                   
+
+

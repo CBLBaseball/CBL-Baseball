@@ -1,0 +1,150 @@
+[1]BOXSCORE: 2016 Oakland Athletics At 2016 Cleveland Indians          10/8/2016
+
+[1]  Athletics          AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  A.Pollock CF        4  1  2  1 .182     S.Choo RF           4  1  2  1 .294  
+  B.Burns DH          5  0  2  1 .200   H-D.Freese 3B         2  0  0  0 .231  
+  P.Goldschmidt 1B    5  0  1  0 .333     J.Kipnis 2B         6  0  2  0 .130  
+  J.Donaldson 3B      5  1  2  1 .278     M.Brantley CF,LF    6  1  3  1 .476  
+  Y.Cespedes LF       6  0  1  0 .095     L.Duda 1B           5  1  2  1 .278  
+  S.Vogt C            2  0  0  0 .250     F.Lindor SS         5  0  0  0 .133  
+A-A.Ellis PH,C        1  0  0  0 .200     S.Smith LF          3  0  0  0 .231  
+E-M.Canha PH          1  0  1  0 .429   D-G.Soto C            1  0  1  0 .667  
+F-J.Phegley C         2  0  0  0 .000   G-J.Butler PR         0  0  0  0 .714  
+  B.Moss RF           6  0  0  0 .100   I-R.Chirinos C        2  0  0  0 .000  
+  J.Segura SS         5  1  2  0 .421     A.Cabrera DH        5  0  2  1 .333  
+  E.Sogard 2B         0  0  0  0 .200     L.Chisenhall 3B,RF  4  1  0  0 .111  
+B-M.Gonzalez PH,2B    3  1  2  1 .556     D.Navarro C         2  0  0  0 .167  
+                                        C-A.Almonte PH,CF     3  1  2  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      45  4 13  4                 Totals      48  5 14  4
+
+A-Pinch Hit For Vogt In 6th Inning
+B-Pinch Hit For Sogard In 7th Inning
+C-Pinch Hit For Navarro In 7th Inning
+D-Subbed Defensively (C ) For Smith In 8th Inning
+E-Pinch Hit For Ellis In 8th Inning
+F-Subbed Defensively (C ) For Canha In 8th Inning
+G-Pinch Ran For Soto In 8th Inning
+H-Subbed Defensively (3B) For Choo In 9th Inning
+I-Subbed Defensively (C ) For Butler In 9th Inning
+
+Athletics....... 0 0 0  1 1 0  1 0 1  0 0 0  -  4 13  2
+Indians......... 0 0 2  0 0 0  2 0 0  0 0 1  -  5 14  2
+
+[1]Athletics (1-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Hahn                       6       8   4   4   2   3   1   6.00  A1 D1
+B.Schultz                    1       1   0   0   0   2   0   0.00  D2 D5
+S.Romo                       3       4   0   0   0   0   0   0.00  D6 E7
+J.Chavez LOSS(0-1)           1 1/3   1   1   0   2   2   0   0.00  E8
+[1]Totals                   11 1/3  14   5   4   4   7   1
+
+[1]Indians (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Anderson                   5 1/3   5   2   2   2   2   1   3.38  A1 C5
+A.Chafin                     0 2/3   0   0   0   1   1   0   0.00  C6 C8
+R.Webb                       0 2/3   2   1   1   0   0   0   5.40  C9 D2
+J.Smith                      1       1   0   0   0   2   0   6.75  D3 D6
+C.Allen BS(1st)              0 2/3   1   1   1   0   0   1   2.70  D7 D9
+J.Manship                    3       4   0   0   1   4   0   0.00  E1 F6
+D.Jennings WIN(1-0)          0 2/3   0   0   0   0   1   0   0.00  F7
+[1]Totals                   12      13   4   4   4  10   2
+
+ATTENDANCE- 36,476 DATE- Saturday, October 8th 2016 TIME- Night 
+UMPIRES- Jim Joyce, Doug Eddings, Marvin Hudson, Cory Blaser
+T- 4:44
+LEFT ON BASE- Athletics:13  Indians:12
+DOUBLE PLAYS- Athletics: 2  Indians: 1
+ERRORS- J.Chavez-2, J.Kipnis, D.Navarro
+DOUBLES- B.Burns-2(3rd), M.Gonzalez(1st), S.Choo(2nd), J.Kipnis(1st),
+         A.Cabrera-2(3rd)
+HOME RUNS- J.Donaldson(3rd), M.Gonzalez(2nd), L.Duda(2nd)
+RBIs- A.Pollock(2nd), B.Burns(1st), J.Donaldson(4th), M.Gonzalez(4th),
+      S.Choo(2nd), M.Brantley(3rd), L.Duda(6th), A.Cabrera(1st)
+STOLEN BASES- A.Pollock(1st), M.Brantley(1st)
+SACRIFICE HITS- B.Burns, E.Sogard-2
+WALKS- A.Pollock, P.Goldschmidt, J.Donaldson, J.Segura, L.Duda, F.Lindor,
+       A.Cabrera, L.Chisenhall
+HIT BY PITCH- A.Pollock
+STRIKE OUTS- B.Burns, P.Goldschmidt, J.Donaldson, Y.Cespedes-2, J.Phegley,
+             B.Moss-2, J.Segura-2, S.Choo, D.Freese, J.Kipnis, L.Duda-2,
+             F.Lindor-2
+GIDP- M.Gonzalez, D.Freese, A.Cabrera
+WILD PITCHES- J.Hahn, J.Chavez, C.Allen
+2-out RBI- L.Duda, B.Burns
+RLISP 2-out- F.Lindor-2, D.Navarro-2, P.Goldschmidt-3, J.Donaldson, L.Duda,
+             B.Moss, J.Segura, A.Cabrera, Y.Cespedes-2, J.Kipnis
+TEAM RISP- Athletics: 2 for 13  Indians: 2 for 18
+
+The Cleveland Indians edged the Oakland Athletics in 12 innings at Progressive
+Field by the score of 5 to 4.
+
+The score was tied at 4 after nine.  Cleveland won the game in the 12th
+inning.  Michael Brantley banged out a single.  Lucas Duda was next to the
+plate, but was promptly struck out.  Francisco Lindor then drew a walk.
+Robinson Chirinos came up and he reached on an error.  Asdrubal Cabrera
+stepped into the box and drew a walk resulting in an exciting win for
+Cleveland and a wild post-game celebration by the home town fans.  Cleveland
+totaled 14 hits on the night.  
+
+The winning pitcher was Dan Jennings(1-0) who allowed no runs in 2/3 of an
+inning. Jesse Chavez(0-1) was the losing pitcher in relief.  He was the
+victim of a defensive lapse and did not allow an earned run in the game.  
+
+[2]
+[1]SCORESHEET: 2016 Oakland Athletics at 2016 Cleveland Indians
+A.Polloc-A1  A1:L/6     B1:W>b1    C1:Si>2#   D1:Si      E1:G/63    F1:HBP
+                                                                    
+                                                                    
+B.Burns-A1   A2:K       B2:P/6     C2:L/4     D2:SB+E/2  E2:Do      F2:Sac/24
+                                              >13 Do>3#             >23 12
+                                                                    
+P.Goldsc-A1  A3:W>b1    B3:F/9     C3:Si>13   D3:G/63    E3:K       F3:L/6
+                                                                    
+                                                                    
+J.Donald-A1  A4:L/3     *4*:HR>b#  C4:F/9     *8*:K      *10*:Si    F4:W>b1
+                                                                    
+                                                                    
+Y.Cesped-A1  *2*:G/53   B5:G/53    *6*:K      D5:K       E5:Si>12   F5:G/63
+                                                                    
+                                                                    
+S.Vogt-A1    A6:G/63    B6:G/13    C6:G/43    D6:Si      E6:K       *12*:F/9
+A.Ellis-C6                                                          
+M.Canha-D6+                                                         
+B.Moss-A1    A7:G/53    B7:F/8     C7:K       D7:WP>12   E7:K       F7:G/43
+                                              F/7                   
+                                                                    
+J.Segura-A1  *3*:Si     *5*:Si     *7*:W>b1   *9*:E/4    E8:K       F8:K
+                                                                    
+                                                                    
+E.Sogard-A1  A9:Sac/24  B9:Sac/54  C9:G-DP/4  D9:PkOff/  *11*:Do
+M.Gonzal-C9  >12        >12        63>1o      13>1o HR>  
+                                              b#         
+
+S.Choo-A1    A1:K       *3*:Do     *5*:G/43   D1:Si>2#   E1:G-DP/5  F1:K
+D.Freese-D9                                   13         43>1o      
+                                                                    
+J.Kipnis-A1  A2:Do      B2:G/43>2  C2:G/63    D2:K       E2:Si      F2:WP>12
+                        3                                           G/31
+                                                                    
+M.Brantl-A1  A3:F/7     B3:FO/2    C3:Si      D3:Si>3#   E3:G/13    *12*:Si
+                                              13                    
+                                                                    
+L.Duda-A1    A4:W>b1    B4:WP>3#   C4:SB>12   D4:K       *10*:Si    F4:K
+                        HR>b#      F/8                              
+                                                                    
+F.Lindor-A1  A5:K       B5:G/63    *6*:K      D5:G/53    E5:G/43>1  F5:W>12 b
+                                                         2          1
+                                                                    
+S.Smith-A1   *2*:G/43   *4*:G/63   C6:G/43    *8*:Si     E6:G/53    F6:E/1>23
+G.Soto-D6                                                           12 
+J.Butler-D7+                                                        
+A.Cabrer-A1  A7:Do      B7:Do      C7:F/8     D7:G-DP/4  E7:G/63    F7:W>3# 2
+                                              63>1o                 3 12 b1
+                                                                    
+L.Chisen-A1  A8:G/43>2  B8:G/43>2  *7*:W>b1   D8:L/4     *11*:E/1
+             3          3                                
+                                                         
+D.Navarr-A1  A9:G/63    B9:F/9     C9:Si>12   *9*:Si     E9:F/8
+A.Almont-C9                                              
+                                                         
+
+

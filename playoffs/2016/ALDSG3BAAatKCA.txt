@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2016 Baltimore Orioles At 2016 Kansas City Royals         10/6/2016
+
+[1]  Orioles            AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  R.Davis LF          3  1  0  1 .167     A.Gordon LF         2  0  0  0 .143  
+C-C.Coghlan LF        0  0  0  0 .000     J.Dyson CF          4  0  0  0 .000  
+  C.Beltran DH        4  0  0  0 .167     E.Hosmer 1B         4  0  1  0 .250  
+  A.Gonzalez 1B       4  1  1  2 .167     H.Kendrick 2B       4  0  0  0 .167  
+  M.Machado 3B        4  0  0  0 .083     L.Cain RF           4  0  0  0 .167  
+  C.Gonzalez RF       4  0  1  0 .200     M.Moustakas 3B      4  1  1  0 .111  
+  C.Gomez CF          2  1  0  0 .333     J.Shuck DH          3  0  1  1 .333  
+D-J.Ellsbury CF       0  0  0  0 .000     S.Perez C           3  0  1  0 .375  
+  F.Galvis SS,2B      2  0  0  0 .000     J.Rollins SS        3  0  0  0 .111  
+  C.Joseph C          3  1  1  0 .333                                          
+B-M.Wieters C         0  0  0  0 .167                                          
+  J.Schoop 2B         2  0  0  0 .286                                          
+A-J.Hardy PH,SS       1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  4  3  3                 Totals      31  1  4  1
+
+A-Pinch Hit For Schoop In 8th Inning
+B-Subbed Defensively (C ) For Joseph In 8th Inning
+C-Subbed Defensively (LF) For Davis In 9th Inning
+D-Subbed Defensively (CF) For Gomez In 9th Inning
+
+Orioles......... 0 0 1  0 0 0  0 1 2  -  4  3  0
+Royals.......... 0 1 0  0 0 0  0 0 0  -  1  4  0
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Scherzer WIN(1-0)          7       3   1   1   2   7   0   1.29  A1 C8
+A.Miller HOLD(1st)           1       0   0   0   0   1   0   0.00  C9 D2
+Z.Britton SAVE(2nd)          1       1   0   0   0   1   0   4.50  D3
+[1]Totals                    9       4   1   1   2   9   0
+
+[1]Royals (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Chen                       7       2   1   1   0   6   0   1.29  A1 C5
+D.Robertson LOSS(0-1)        2       1   3   3   1   2   1  10.13  C6
+[1]Totals                    9       3   4   4   1   8   1
+
+ATTENDANCE- 36,885 DATE- Thursday, October 6th 2016 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:56
+LEFT ON BASE- Orioles: 1  Royals: 5
+DOUBLE PLAYS- Orioles: 0  Royals: 0
+DOUBLES- C.Joseph(1st), E.Hosmer(1st), M.Moustakas(1st)
+HOME RUNS- A.Gonzalez(1st)
+RBIs- R.Davis(1st), A.Gonzalez-2(2nd), J.Shuck(1st)
+STOLEN BASES- J.Shuck(1st)
+SACRIFICE HITS- F.Galvis
+WALKS- R.Davis, A.Gordon-2
+HIT BY PITCH- C.Gomez
+STRIKE OUTS- R.Davis-2, C.Beltran, M.Machado, C.Gonzalez, C.Joseph, J.Schoop,
+             J.Hardy, A.Gordon, E.Hosmer-2, L.Cain, M.Moustakas-3, J.Shuck,
+             J.Rollins
+WILD PITCHES- W.Chen, D.Robertson-2
+RLISP 2-out- F.Galvis, J.Rollins, J.Dyson, M.Moustakas
+TEAM RISP- Orioles: 1 for 6  Royals: 1 for 7
+
+At Kauffman Stadium the Baltimore Orioles outscored the Kansas City Royals 4
+to 1.
+
+Baltimore won the game with a run in the top of the 8th inning. Carlos Gomez
+was hit by a pitch.  Freddy Galvis next to the plate and he laid down a
+sacrifice bunt.  After another out, David Robertson then uncorked a wild one
+that found its way to the backstop.  Robertson then unleashed a wild pitch
+scoring the run.  Baltimore managed only 3 hits on the night.  
+
+Max Scherzer(1-0) got credit for the victory, pitching 7 innings and allowing
+1 run. Zach Britton recorded his 2nd save.  Robertson(0-1) was tagged with
+the loss in relief.  He was knocked around, surrendering 3 runs in 2 innings.
+
+[2]
+[1]SCORESHEET: 2016 Baltimore Orioles at 2016 Kansas City Royals
+R.Davis-A1   A1:K       B1:G/63>3  C1:K       *9*:W>b1
+C.Coghla-D6             #                     
+                                              
+C.Beltra-A1  A2:P/4     B2:K       C2:F/9     D2:G/13>1
+                                              2
+                                              
+A.Gonzal-A1  A3:F/9     *4*:G/43   *7*:G/31   D3:HR>2#
+                                              b#
+                                              
+M.Machad-A1  *2*:F/7    B4:K       C4:G/53    D4:F/7
+                                              
+                                              
+C.Gonzal-A1  A5:Si      B5:G/13    C5:F/9     D5:K
+                                              
+                                              
+C.Gomez-A1   A6:WP>12   *5*:G/63   *8*:HBP
+J.Ellsbu-D6  G/43>23               
+                                   
+F.Galvis-A1  A7:F/8     B7:G/53    C7:Sac/54
+                                   >12
+                                   
+C.Joseph-A1  *3*:Do     B8:K       C8:FO/2
+M.Wieter-D1                        
+                                   
+J.Schoop-A1  A9:F/9>23  *6*:K      C9:WP>23
+J.Hardy-C9                         WP>3# K
+                                   
+
+A.Gordon-A1  A1:W>b1    *3*:F/8    C1:W>12 b  D1:K
+                                   1          
+                                              
+J.Dyson-A1   A2:P/3     B2:G/63    C2:G/43    D2:F/9
+                                              
+                                              
+E.Hosmer-A1  A3:K       B3:G/63    *6*:K      *9*:Do
+                                              
+                                              
+H.Kendri-A1  A4:G/53    *4*:F/7    C4:G/3     D4:L/6
+                                              
+                                              
+L.Cain-A1    *2*:G/43   B5:F/7     C5:K       D5:F/8
+                                              
+                                              
+M.Mousta-A1  A6:Do      B6:K       *7*:K      D6:K
+                                              
+                                              
+J.Shuck-A1   A7:Si>2#   *5*:K      C7:F/8
+                                   
+                                   
+S.Perez-A1   A8:SB>12   B8:Si      C8:F/7
+             L/5                   
+                                   
+J.Rollin-A1  A9:F/8     B9:K       *8*:G/53
+                                   
+                                   
+
+

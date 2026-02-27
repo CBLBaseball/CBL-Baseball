@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2016 San Francisco Giants At 2016 New York (NL) Mets      10/3/2016
+
+[1]  Giants             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  A.Eaton CF          4  0  1  1 .250     B.Zobrist 2B        4  1  1  0 .250  
+  J.Panik 2B          4  0  0  0 .000     N.Ahmed SS          3  0  1  0 .333  
+  B.Posey C           4  1  1  0 .250   A-J.Reyes PH,SS       1  1  1  11.000  
+  B.Belt 1B           4  2  3  2 .750     F.Cervelli C        4  1  1  0 .250  
+  K.Morales DH        3  1  1  0 .333     M.Byrd LF           4  1  2  2 .500  
+  J.Upton LF          4  0  0  0 .000     M.Cuddyer DH        4  0  0  0 .000  
+  P.Sandoval 3B       4  1  1  1 .250     M.Moreland 1B       4  0  1  0 .250  
+  I.Desmond SS        3  0  0  1 .000   B-P.Bourjos PR        0  0  0  0 ----  
+  I.Suzuki RF         4  0  1  0 .250     Y.Solarte 3B        3  0  1  0 .333  
+                                        C-I.De Jesus PH       1  0  0  0 .000  
+                                          J.Reddick RF        4  0  0  0 .000  
+                                          J.Lagares CF        3  0  0  0 .000  
+                                        D-D.Wright PH         1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  8  5                 Totals      36  4  8  3
+
+A-Pinch Hit For Ahmed In 8th Inning
+B-Pinch Ran For Moreland In 9th Inning
+C-Pinch Hit For Solarte In 9th Inning
+D-Pinch Hit For Lagares In 9th Inning
+
+Giants.......... 0 3 0  0 0 0  0 2 0  -  5  8  1
+Mets............ 0 0 0  0 0 1  0 3 0  -  4  8  0
+
+[1]Giants (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner WIN(1-0)         7 2/3   7   4   3   0   8   2   3.52  A1 D4
+A.Chapman SAVE(1st)          1 1/3   1   0   0   0   3   0   0.00  D5
+[1]Totals                    9       8   4   3   0  11   2
+
+[1]Mets (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom LOSS(0-1)           9       8   5   5   1   7   1   5.00  A1
+[1]Totals                    9       8   5   5   1   7   1
+
+ATTENDANCE- 39,695 DATE- Monday, October 3rd 2016 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:31
+LEFT ON BASE- Giants: 4  Mets: 5
+DOUBLE PLAYS- Giants: 0  Mets: 0
+ERRORS- I.Desmond
+DOUBLES- K.Morales(1st)
+HOME RUNS- B.Belt(1st), J.Reyes(1st), M.Byrd(1st)
+RBIs- A.Eaton(1st), B.Belt-2(2nd), P.Sandoval(1st), I.Desmond(1st),
+      J.Reyes(1st), M.Byrd-2(2nd)
+SACRIFICE FLIES- I.Desmond
+WALKS- K.Morales
+STRIKE OUTS- A.Eaton, B.Belt, K.Morales, J.Upton-2, I.Suzuki-2, N.Ahmed,
+             F.Cervelli, M.Cuddyer-3, M.Moreland-2, I.De Jesus, J.Reddick-2,
+             J.Lagares
+2-out RBI- A.Eaton, J.Reyes, M.Byrd-2
+RLISP 2-out- J.Panik, P.Sandoval-2, M.Byrd
+TEAM RISP- Giants: 2 for 6  Mets: 0 for 2
+
+39,695 fans watched an exciting game at Citi Field.  The San Francisco Giants
+topped the New York (NL) Mets by the slimmest of margins, 5 to 4.
+
+Madison Bumgarner(1-0) delivered a fine performance for San Francisco.  He
+surrendered 7 hits and no walks in 7 and 2/3 innings.  Bumgarner chalked up 8
+strikeouts and gave up 2 homeruns.  New York (NL) made it exciting in the
+9th, but they were unable to push the needed runs across.  
+
+Aroldis Chapman gained credit for his 1st save.  Jacob Degrom(0-1) took the
+loss.  He allowed 8 hits and 1 walk in 9 innings.
+[2]
+[1]SCORESHEET: 2016 San Francisco Giants at 2016 New York (NL) Mets
+A.Eaton-A1   A1:G/63    B1:Si>3#   C1:K       D1:G/63
+                        13                    
+                                              
+J.Panik-A1   A2:F/9     B2:F/7     C2:F/9     *8*:G/63
+                                              
+                                              
+B.Posey-A1   A3:F/9     *3*:F/7    *6*:F/8    D3:Si
+                                              
+                                              
+B.Belt-A1    *2*:Si     B4:K       C4:Si      D4:HR>1#
+                                              b#
+                                              
+K.Morale-A1  A5:W>12 b  B5:K       C5:Do>13   D5:F/8
+             1                                
+                                              
+J.Upton-A1   A6:F/8     *4*:L/6    C6:K       D6:K
+                                              
+                                              
+P.Sandov-A1  A7:Si>2#   B7:F/7     C7:G/43    *9*:F/7
+             13                               
+                                              
+I.Desmon-A1  A8:SF/8>3  B8:P/2     *7*:L/6    D8:G/43
+             #                                
+                                              
+I.Suzuki-A1  A9:Si>13   *5*:K      C9:F/7     D9:K
+                                              
+                                              
+
+B.Zobris-A1  A1:F/7     *4*:G/63   C1:Si      D1:G/53
+                                              
+                                              
+N.Ahmed-A1   A2:K       B2:F/7     C2:Si>13   D2:HR>b#
+J.Reyes-D2                                    
+                                              
+F.Cervel-A1  A3:K       B3:P/5     C3:PB>3#   D3:Si
+                                   12 E/6>23  
+                                              
+M.Byrd-A1    *2*:F/7    *5*:Si     C4:G/63    D4:HR>1#
+                                              b#
+                                              
+M.Cuddye-A1  A5:K       B5:F/9     *7*:K      D5:K
+                                              
+                                              
+M.Morela-A1  A6:FO/2    B6:K       C6:K       *9*:Si
+P.Bourjo-D7                                   
+                                              
+Y.Solart-A1  *3*:G/31   B7:G/13    C7:Si      D7:K
+I.De Jes-D7                                   
+                                              
+J.Reddic-A1  A8:F/8     *6*:L/6    C8:K       D8:K
+                                              
+                                              
+J.Lagare-A1  A9:FO/2    B9:G/63    *8*:K      D9:G/63
+D.Wright-D9                                   
+                                              
+
+

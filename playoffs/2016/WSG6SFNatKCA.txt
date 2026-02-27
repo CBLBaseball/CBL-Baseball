@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2016 San Francisco Giants At 2016 Kansas City Royals     10/30/2016
+
+[1]  Giants             AB  R  H RBI AVG     Royals             AB  R  H RBI AVG
+  K.Tomlinson 2B      2  1  1  1 .375     N.Aoki LF           3  0  1  0 .375  
+A-S.Pearce PH         1  0  0  0 .125   D-A.Gordon PH,LF      2  0  0  0 .154  
+B-J.Panik 2B          1  0  0  0 .313     A.Pagan DH          3  0  1  0 .281  
+  A.Eaton CF          4  0  0  1 .227   E-E.Nunez PH,DH       2  0  0  0 .211  
+  B.Posey C           5  1  1  0 .300     L.Cain RF           2  2  1  0 .183  
+  B.Belt 1B           4  0  0  0 .231     H.Kendrick 2B       3  1  0  0 .188  
+  K.Morales DH        3  1  2  2 .281     M.Moustakas 3B      4  1  0  0 .145  
+  J.Upton LF          4  0  1  0 .143     E.Hosmer 1B         3  1  1  3 .225  
+  I.Desmond SS        4  0  0  0 .217     J.Rollins SS        4  0  0  0 .186  
+  I.Suzuki RF         4  1  1  0 .150   F-J.Shuck PH          1  0  1  1 .417  
+  P.Sandoval 3B       4  0  0  0 .182     M.Maldonado C       2  0  1  1 .250  
+                                        C-S.Perez PH,C        2  0  1  0 .357  
+                                          J.Dyson CF          4  0  1  0 .100  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  4  6  4                 Totals      35  5  8  5
+
+A-Pinch Hit For Tomlinson In 7th Inning
+B-Subbed Defensively (2B) For Pearce In 7th Inning
+C-Pinch Hit For Maldonado In 7th Inning
+D-Pinch Hit For Aoki In 7th Inning
+E-Pinch Hit For Pagan In 7th Inning
+F-Pinch Hit For Rollins In 10th Inning
+
+Giants.......... 0 1 1  0 1 0  0 1 0  0 -  4  6  0
+Royals.......... 0 1 0  0 0 0  0 3 0  1 -  5  8  0
+
+[1]Giants (11-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Santiago                   5 2/3   4   1   1   2   6   0   3.94  A1 C6
+J.Soria HOLD(4th)            0 1/3   1   0   0   0   0   0   5.06  C7 C8
+H.Robles HOLD(3rd)           1       0   2   2   2   1   0   2.70  C9 D4
+H.Strickland L(0-2)B(1st)    2 2/3   3   2   2   1   1   1   4.50  D5
+[1]Totals                    9 2/3   8   5   5   5   8   1
+
+[1]Royals (11-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Duffy                      4 1/3   4   3   3   2   4   2   3.60  A1 C2
+R.Madson                     2 2/3   0   0   0   0   2   0   6.00  C3 D1
+D.Robertson WIN(1-1)         3       2   1   1   0   4   0   3.12  D2
+[1]Totals                   10       6   4   4   2  10   2
+
+ATTENDANCE- 39,941 DATE- Sunday, October 30th 2016 TIME- Night 
+UMPIRES- Tony Randazzo, Jim Wolf, David Rackley, Brian Gorman
+T- 3:25
+LEFT ON BASE- Giants: 5  Royals: 8
+DOUBLE PLAYS- Giants: 1  Royals: 0
+TRIPLES- B.Posey(1st), I.Suzuki(1st)
+HOME RUNS- K.Tomlinson(1st), K.Morales(2nd), E.Hosmer(2nd)
+RBIs- K.Tomlinson(3rd), A.Eaton(4th), K.Morales-2(16th), E.Hosmer-3(5th),
+      J.Shuck(3rd), M.Maldonado(1st)
+STOLEN BASES- L.Cain(3rd), J.Dyson(3rd)
+SACRIFICE HITS- A.Eaton, H.Kendrick
+WALKS- K.Tomlinson, K.Morales, L.Cain-2, H.Kendrick, E.Hosmer-2
+HIT BY PITCH- L.Cain, M.Moustakas
+STRIKE OUTS- A.Eaton, B.Posey, B.Belt-3, J.Upton, I.Desmond-2, P.Sandoval-2,
+             A.Pagan, E.Nunez-2, L.Cain, H.Kendrick, E.Hosmer, M.Maldonado,
+             J.Dyson
+GIDP- A.Pagan
+WILD PITCHES- H.Santiago-2
+2-out RBI- M.Maldonado, K.Tomlinson, K.Morales, J.Shuck
+RLISP 2-out- N.Aoki, M.Moustakas, I.Desmond, B.Belt, H.Kendrick, E.Nunez
+TEAM RISP- Giants: 1 for 6  Royals: 3 for 11
+
+The Kansas City Royals and the San Francisco Giants locked up in an exciting
+one-run game at Kauffman Stadium.  The final score was the Kansas City Royals
+5, the San Francisco Giants 4 in 10 innings.
+
+The score was tied at 4 after nine.  Kansas City was victorious in the 10th
+inning.  Lorenzo Cain laced a single.  Howie Kendrick followed and he laid
+down a sacrifice bunt.  One out later, Eric Hosmer was walked intentionally.
+J.B. Shuck followed next and he ripped a base-knock making Kansas City
+victorious to the delight of the the home town crowd.  Kansas City totaled 8
+hits on the night.  
+
+David Robertson(1-1) picked up the victory, allowing 1 run in 3 innings.
+Hunter Strickland(0-2) was the loser in relief.  He pitched 2 and 2/3 innings
+and surrendered 3 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2016 San Francisco Giants at 2016 Kansas City Royals
+K.Tomlin-A1  A1:F/8     B1:HR>b#   C1:IW>b1   D1:G/43    *10*:G/13
+S.Pearce-D1                                              
+J.Panik-D2                                               
+A.Eaton-A1   A2:G/63    B2:K       C2:Sac+FC  *8*:F/7    E2:G/63
+                                   >3# 12 b1             
+                                                         
+B.Posey-A1   A3:L/5     *4*:G/53   C3:F/9>23  D3:Tr      E3:K
+                                                         
+                                                         
+B.Belt-A1    *2*:K      B4:G/13    C4:K       D4:K
+                                              
+                                              
+K.Morale-A1  A5:HR>b#   B5:W>b1    *6*:G/63   D5:Si>3#
+                                              
+                                              
+J.Upton-A1   A6:K       B6:Si>12   C6:F/7     D6:L/5
+                                              
+                                              
+I.Desmon-A1  A7:F/7     B7:F/7     C7:K       *9*:K
+                                              
+                                              
+I.Suzuki-A1  *3*:G/3    *5*:Tr     *7*:G/63   D8:G/23
+                                              
+                                              
+P.Sandov-A1  A9:F/8     B9:K       C9:L/4     D9:K
+                                              
+                                              
+
+N.Aoki-A1    A1:L/4     B1:G/13    *5*:Si     D1:F/9     E1:F/9
+A.Gordon-D1                                              
+                                                         
+A.Pagan-A1   A2:Si      *3*:K      C2:G-DP/5  D2:SB>12   E2:K
+E.Nunez-D2                         43>1o      K          
+                                                         
+L.Cain-A1    A3:K       B3:W>b1    C3:HBP     *8*:W>b1   *10*:Si
+                                                         
+                                                         
+H.Kendri-A1  A4:G/63    B4:WP>12   C4:SB>12   D4:W>12 b  E4:Sac/34
+                        WP>23 F/7  K          1          >12
+                                                         
+M.Mousta-A1  *2*:HBP    B5:P/4     *6*:F/8    D5:F/7     E5:G/63>2
+                                                         3
+                                                         
+E.Hosmer-A1  A6:G/63>1  *4*:W>b1   C6:K       D6:HR>2#   E6:IW>b1
+             2                                1# b#      
+                                                         
+J.Rollin-A1  A7:F/7     B7:F/7     C7:G/43    D7:F/8     E7:Si>3#
+J.Shuck-E7                                               12
+                                                         
+M.Maldon-A1  A8:Si>2#   B8:K       *7*:Si     D8:F/8
+S.Perez-C8                                    
+                                              
+J.Dyson-A1   A9:Si>12   B9:K       C9:Force/  *9*:L/4
+                                   26>1o b1   
+                                              
+
+

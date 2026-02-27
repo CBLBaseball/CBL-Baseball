@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2016 Los Angeles(NL) Dodgers At 2016 Pittsburgh Pirates   10/6/2016
+
+[1]  Dodgers            AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  D.Gordon 2B         4  1  2  0 .400     G.Polanco RF        4  0  0  0 .143  
+  J.Uribe 3B          3  0  0  0 .000     D.Gregorius SS      3  0  0  0 .000  
+  Y.Puig RF           0  0  0  0 .500     A.McCutchen CF      3  0  0  0 .200  
+B-D.Murphy PH         1  0  0  0 .250     S.Marte LF          3  0  0  0 .000  
+C-J.Francoeur RF      0  0  0  0 .000     A.Pujols 1B         4  0  1  0 .333  
+G-A.Ethier PH,RF      1  0  0  0 .143     P.Alvarez DH        4  1  2  1 .364  
+  C.Gimenez C         2  0  1  1 .500     J.Kang 3B           4  0  1  0 .091  
+D-R.Martin PH,C       2  0  1  0 .333     J.Castro C          2  0  0  0 .250  
+  M.Kemp DH           4  0  0  0 .182   E-J.Jaso PH           1  0  0  0 .250  
+  E.Encarnacion 1B    4  0  0  0 .250   F-R.Perez C           0  0  0  0 .000  
+  J.Pederson CF       3  1  1  0 .364   H-J.Harrison PH       1  0  0  0 .000  
+  E.Escobar SS        3  0  1  0 .200     N.Walker 2B         3  0  1  0 .111  
+  M.Den Dekker LF     0  0  0  0 ----                                          
+A-E.Hernandez PH,LF   3  0  0  1 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  6  2                 Totals      32  1  5  1
+
+A-Pinch Hit For Den Dekker In 2nd Inning
+B-Pinch Hit For Puig In 5th Inning
+C-Subbed Defensively (RF) For Murphy In 5th Inning
+D-Pinch Hit For Gimenez In 6th Inning
+E-Pinch Hit For Castro In 7th Inning
+F-Subbed Defensively (C ) For Jaso In 8th Inning
+G-Pinch Hit For Francoeur In 8th Inning
+H-Pinch Hit For Perez In 9th Inning
+
+Dodgers......... 1 1 0  0 0 0  0 0 0  -  2  6  0
+Pirates......... 0 0 0  0 1 0  0 0 0  -  1  5  0
+
+[1]Dodgers (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Gonzalez                   4 2/3   3   1   1   1   0   1   1.93  A1 B9
+A.Bastardo                   0 2/3   0   0   0   0   0   0   0.00  C1 C2
+T.Gott HOLD(1st)             0 1/3   1   0   0   1   0   0   0.00  C3 C5
+K.Jansen WIN(1-0)            3 1/3   1   0   0   1   7   0   0.00  C6
+[1]Totals                    9       5   1   1   3   7   1
+
+[1]Pirates (0-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Locke LOSS(0-1)            4 1/3   5   2   2   3   4   0   4.15  A1 C2
+T.Wilhelmsen                 3 1/3   0   0   0   0   3   0   1.93  C3 D2
+M.Melancon                   1 1/3   1   0   0   0   2   0   0.00  D3
+[1]Totals                    9       6   2   2   3   9   0
+
+ATTENDANCE- 38,376 DATE- Thursday, October 6th 2016 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:43
+LEFT ON BASE- Dodgers: 4  Pirates: 7
+DOUBLE PLAYS- Dodgers: 0  Pirates: 3
+DOUBLES- D.Gordon(2nd), N.Walker(1st)
+HOME RUNS- P.Alvarez(3rd)
+RBIs- C.Gimenez(1st), E.Hernandez(3rd), P.Alvarez(4th)
+STOLEN BASES- S.Marte(1st)
+WALKS- J.Uribe, Y.Puig-2, D.Gregorius, A.McCutchen, S.Marte
+STRIKE OUTS- A.Ethier, R.Martin, M.Kemp, E.Encarnacion-2, J.Pederson,
+             E.Escobar-2, E.Hernandez, G.Polanco, A.McCutchen, A.Pujols,
+             P.Alvarez-2, J.Jaso, J.Harrison
+GIDP- D.Murphy, C.Gimenez, M.Kemp
+RLISP 2-out- E.Encarnacion, J.Uribe, A.Pujols, G.Polanco, P.Alvarez, J.Harrison
+TEAM RISP- Dodgers: 1 for 7  Pirates: 0 for 4
+WEB GEMS- Top 1st: Didi Gregorius robbed Edwin Encarnacion of a base hit.
+          Top 2nd: Didi Gregorius robbed Juan Uribe of a base hit.
+
+The Los Angeles(NL) Dodgers edged the Pittsburgh Pirates at PNC Park by the
+score of 2 to 1.
+
+Los Angeles(NL) started with a bang, jumping out to an early lead in their
+half of the first scoring one runner utilizing 2 base hits.  Pittsburgh
+threatened in the 9th but their rally came up short.  
+
+The win went to Kenley Jansen(1-0) who allowed no runs in 3 and 1/3 innings.
+Jeff Locke(0-1) was tagged with the loss.  He gave up 2 runs and 5 hits in 4
+and 1/3 innings.
+[2]
+[1]SCORESHEET: 2016 Los Angeles(NL) Dodgers at 2016 Pittsburgh Pirates
+D.Gordon-A1  A1:Si      B1:G/43>2  C1:Do      *8*:G/13
+                        3                     
+                                              
+J.Uribe-A1   A2:F/8     B2:G/63    C2:W>b1    D2:FO/2
+                                              
+                                              
+Y.Puig-A1    A3:W>12 b  *3*:W>b1   C3:G-DP/4  D3:K
+D.Murphy-C3  1                     63>1o      
+J.Franco-C4+                                  
+C.Gimene-A1  A4:Si>2#   B4:G-DP/1  *6*:K      *9*:Si
+R.Martin-C4  13         63>1o                 
+                                              
+M.Kemp-A1    A5:K       B5:F/7     C5:G/63    D5:G-DP/6
+                                              43>1o
+                                              
+E.Encarn-A1  A6:G/63    *4*:K      C6:G/63    D6:K
+                                              
+                                              
+J.Peders-A1  *2*:Si     B7:G/43    *7*:K
+                                   
+                                   
+E.Escoba-A1  A8:Si>13   B8:K       C8:K
+                                   
+                                   
+M.Den De-A1  A9:G/3>3#  *5*:K      C9:F/7
+E.Hernan-A9  12                    
+                                   
+
+G.Polanc-A1  A1:P/4     B1:G/13    C1:PB>23   *8*:K
+                                   G/13       
+                                              
+D.Gregor-A1  A2:G/53    *4*:P/4    *6*:FO/2   D2:W>b1
+                                              
+                                              
+A.McCutc-A1  A3:F/9     B3:F/7     C3:W>b1    D3:K
+                                              
+                                              
+S.Marte-A1   *2*:P/6    B4:W>b1    C4:Force/  D4:F/7
+                                   54>1o b1   
+                                              
+A.Pujols-A1  A5:G/63    B5:SB>12   C5:Si>12   *9*:K
+                        G/31                  
+                                              
+P.Alvare-A1  A6:Si      *5*:HR>b#  C6:K       D6:K
+                                              
+                                              
+J.Kang-A1    A7:G/53    B7:F/8     *7*:F/8    D7:Si
+                                              
+                                              
+J.Castro-A1  *3*:L/4    B8:G/43    C8:K       D8:PB>12
+J.Jaso-C8                                     K
+R.Perez-D1+                                   
+N.Walker-A1  A9:G/53    B9:Do      C9:F/8
+                                   
+                                   
+
+
