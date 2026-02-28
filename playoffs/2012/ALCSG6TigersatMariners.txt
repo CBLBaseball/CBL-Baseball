@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2012 Detroit Tigers At 2012 Seattle Mariners             10/20/2012
+
+[1]  Tigers             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Jackson CF        4  1  1  0 .244     C.Crawford LF       3  0  0  0 .217  
+  S.Sizemore 3B       2  0  1  0 .200   D-M.Carp PH           1  0  0  0 .333  
+  C.Kotchman 1B       4  0  0  0 .316   E-F.Gutierrez CF      0  0  0  0 .385  
+  C.Granderson DH     3  1  0  0 .303     A.Jones CF,LF       3  0  0  0 .229  
+  A.Avila C           2  0  0  0 .226     L.Berkman DH        3  1  1  1 .319  
+  R.Raburn LF         2  0  2  2 .389     K.Seager 3B,2B      3  0  0  0 .214  
+B-A.Dirks LF          1  0  0  0 .000   F-M.Aviles PR         0  0  0  0 .200  
+  N.Evans RF          3  0  0  0 .111     J.Smoak 1B          3  0  0  0 .323  
+C-D.Kelly RF          0  0  0  0 .308     I.Suzuki RF         4  0  0  0 .250  
+  A.Escobar SS        3  0  0  0 .158     C.Ruiz C            2  0  0  0 .206  
+  J.Herrera 2B        3  0  0  0 .333     D.Ackley 2B         1  0  0  0 .179  
+                                        A-A.Rodriguez PH,3B   1  0  0  0 .308  
+                                          B.Ryan SS           2  0  0  0 .226  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      27  2  4  2                 Totals      26  1  1  1
+
+A-Pinch Hit For Ackley In 5th Inning
+B-Subbed Defensively (LF) For Raburn In 6th Inning
+C-Subbed Defensively (RF) For Evans In 7th Inning
+D-Pinch Hit For Crawford In 8th Inning
+E-Subbed Defensively (CF) For Carp In 9th Inning
+F-Pinch Ran For Seager In 9th Inning
+
+Tigers.......... 2 0 0  0 0 0  0 0 0  -  2  4  0
+Mariners........ 0 0 0  1 0 0  0 0 0  -  1  1  0
+
+[1]Tigers (7-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Rodriguez                  4       1   1   1   3   3   1   2.25  A1 B7
+A.Alburquerq WIN(1-0)        2       0   0   0   2   4   0   0.00  B8 C6
+J.Spence HOLD(1st)           1       0   0   0   0   2   0   6.75  C7 C9
+P.Coke HOLD(1st)             1       0   0   0   1   0   0   5.40  D1 D4
+F.Francisco SAVE(1st)        1       0   0   0   0   1   0   0.00  D5
+[1]Totals                    9       1   1   1   6  10   1
+
+[1]Mariners (7-6)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Morrow LOSS(1-2)           9       4   2   2   4   8   0   3.52  A1
+[1]Totals                    9       4   2   2   4   8   0
+
+ATTENDANCE- 45,620 DATE- Saturday, October 20th 2012 TIME- Night 
+UMPIRES- John Hirschbeck, Wally Bell, Laz Diaz, Scott Barry
+T- 2:38
+LEFT ON BASE- Tigers: 4  Mariners: 5
+DOUBLE PLAYS- Tigers: 0  Mariners: 0
+DOUBLES- R.Raburn(2nd)
+HOME RUNS- L.Berkman(3rd)
+STOLEN BASES- C.Granderson(2nd)
+CAUGHT STEALING- R.Raburn, M.Aviles
+SACRIFICE HITS- S.Sizemore, R.Raburn, B.Ryan
+WALKS- S.Sizemore, C.Granderson, A.Avila-2, A.Jones, L.Berkman, K.Seager,
+       J.Smoak, C.Ruiz, A.Rodriguez
+STRIKE OUTS- S.Sizemore, C.Kotchman-2, C.Granderson, A.Avila-2, A.Dirks,
+             A.Escobar, C.Crawford-2, A.Jones, L.Berkman, K.Seager-2, J.Smoak,
+             I.Suzuki, C.Ruiz, A.Rodriguez
+WILD PITCHES- B.Morrow
+2-out RBI- R.Raburn-2
+
+The Detroit Tigers nipped the Seattle Mariners 2 to 1 at SAFECO Field in a
+hard fought contest.
+
+The game started off with Detroit taking the lead in the first plating 2 runs
+utilizing 2 base hits.  Austin Jackson led off and started the attack as he
+slapped a base-hit.  Scott Sizemore came next and he laid down a sacrifice
+bunt.  One out later, Curtis Granderson came to the plate and drew a walk.
+Granderson was safe on a stolen base.  Alex Avila stepped into the box and
+was walked intentionally to load the bases.  Ryan Raburn added to the rally
+and doubled.  Neither team managed to score after the 4th inning.  
+
+Al Alburquerque(1-0) allowed no runs in 2 innings, and picked up the victory.
+Frank Francisco earned the save, his 1st.  Brandon Morrow(1-2) was hit with
+the loss.  
+
+[2]
+[1]SCORESHEET: 2012 Detroit Tigers at 2012 Seattle Mariners
+A.Jackso-A1  A1:Si      *3*:G/53   C1:G/63    *8*:F/8
+                                              
+                                              
+S.Sizemo-A1  A2:Sac/14  B2:W>b1    C2:Si      D2:K
+             >12                              
+                                              
+C.Kotchm-A1  A3:G/23>2  B3:K       C3:G/43    D3:K
+             3                                
+                                              
+C.Grande-A1  A4:W>b1    B4:K       *6*:F/9    *9*:G/31
+                                              
+                                              
+A.Avila-A1   A5:SB>12   *4*:W>b1   C5:K       D5:K
+             IW>b1                            
+                                              
+R.Raburn-A1  A6:Do>3#   B6:Sac/34  C6:Si CS/  D6:K
+A.Dirks-C7   2# 1o      >12        24>1o      
+                                              
+N.Evans-A1   *2*:G/63   B7:WP>23   *7*:F/9
+D.Kelly-D1              G/13       
+                                   
+A.Escoba-A1  A8:G/63    B8:K       C8:F/8
+                                   
+                                   
+J.Herrer-A1  A9:F/9     *5*:G/31   C9:G/13
+                                   
+                                   
+
+C.Crawfo-A1  A1:K       B1:G/43    C1:K       *8*:F/9
+M.Carp-D1                                     
+F.Gutier-D4                                   
+A.Jones-A1   A2:K       *4*:G/63   C2:W>b1    D2:G/53
+                                              
+                                              
+L.Berkma-A1  A3:W>b1    B3:HR>b#   C3:K       D3:FO/2
+                                              
+                                              
+K.Seager-A1  A4:K       B4:G/13    *6*:K      *9*:W>b1
+M.Aviles-D5                                   
+                                              
+J.Smoak-A1   *2*:F/9    B5:W>b1    C5:G/13    D5:CS/26>
+                                              1o K
+                                              
+I.Suzuki-A1  A6:G/63    B6:G/43    C6:K       D6:G/63
+                                              
+                                              
+C.Ruiz-A1    A7:P/4     *5*:W>b1   *7*:K
+                                   
+                                   
+D.Ackley-A1  *3*:F/9    B8:W>12 b  C8:K
+A.Rodrig-B8             1          
+                                   
+B.Ryan-A1    A9:F/9     B9:Sac/34  C9:G/13
+                        >23 12     
+                                   
+
+

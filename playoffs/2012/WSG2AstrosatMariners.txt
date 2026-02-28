@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2012 Houston Astros At 2012 Seattle Mariners             10/24/2012
+
+[1]  Astros             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  M.Bourn CF          5  0  3  1 .286     D.Ackley 2B         2  0  1  0 .222  
+  G.Sanchez 1B        5  0  1  0 .214   A-M.Aviles PH,2B      2  1  2  0 .263  
+  H.Pence RF          4  0  0  0 .214     A.Jones CF          4  0  1  1 .250  
+  T.Tulowitzki SS     4  0  2  0 .241     L.Berkman DH        3  1  1  0 .305  
+  A.Beltre 3B         4  1  2  1 .268     C.Crawford LF       4  0  2  0 .237  
+  C.Quentin DH        4  0  0  0 .159     A.Rodriguez 3B      4  0  2  0 .306  
+  A.Miles 2B          4  0  1  0 .389     J.Smoak 1B          3  0  0  1 .289  
+  M.Olivo C           4  1  1  0 .208     C.Ruiz C            3  0  0  0 .174  
+  J.Bourgeois LF      3  0  0  0 .154   B-M.Carp PH           1  0  0  0 .296  
+                                        C-Y.Torrealba C       0  0  0  0 .273  
+                                          I.Suzuki RF         4  0  0  0 .212  
+                                          B.Ryan SS           3  1  1  0 .268  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  2 10  2                 Totals      33  3 10  2
+
+A-Pinch Hit For Ackley In 8th Inning
+B-Pinch Hit For Ruiz In 9th Inning
+C-Subbed Defensively (C ) For Carp In 10th Inning
+
+Astros.......... 0 0 0  0 0 0  1 1 0  0 -  2 10  0
+Mariners........ 0 0 0  1 0 0  0 1 0  1 -  3 10  0
+
+[1]Astros (8-7)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana                    7       5   1   1   2   4   0   4.30  A1 C9
+J.Lopez BS(1st)              0 2/3   2   1   1   1   0   0   7.71  D1 D4
+W.Lopez LOSS(0-1)            1 1/3   3   1   1   0   1   0   1.23  D5
+[1]Totals                    9      10   3   3   3   5   0
+
+[1]Mariners (10-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez                  8 1/3   8   2   2   0   7   1   1.83  A1 D4
+L.Lynn                       0 2/3   0   0   0   0   2   0   6.75  D5 D6
+T.Hunter WIN(1-0)            1       2   0   0   0   0   0   7.50  D7
+[1]Totals                   10      10   2   2   0   9   1
+
+ATTENDANCE- 43,331 DATE- Wednesday, October 24th 2012 TIME- Night 
+UMPIRES- Rob Drake, Gary Darling, Bruce Dreckman, Paul Emmel
+T- 3:10
+LEFT ON BASE- Astros: 6  Mariners: 7
+DOUBLE PLAYS- Astros: 2  Mariners: 0
+DOUBLES- D.Ackley(3rd), M.Aviles(3rd), A.Rodriguez(3rd), B.Ryan(2nd)
+HOME RUNS- A.Beltre(6th)
+STOLEN BASES- M.Bourn(4th), T.Tulowitzki(1st), M.Olivo(1st)
+CAUGHT STEALING- M.Bourn, L.Berkman
+SACRIFICE HITS- J.Bourgeois, A.Jones
+SACRIFICE FLIES- J.Smoak
+WALKS- D.Ackley, L.Berkman, B.Ryan
+STRIKE OUTS- G.Sanchez, H.Pence-2, T.Tulowitzki-2, A.Beltre, C.Quentin-2,
+             A.Miles, D.Ackley, A.Jones, A.Rodriguez, J.Smoak, M.Carp
+GIDP- L.Berkman
+WEB GEMS- Top 1st: Carlos Ruiz blocked the plate, saving a run!
+          Bot 6th: Hunter Pence robbed Carl Crawford of an extra base hit.
+
+Mike Aviles had 2 base hits at SAFECO Field as the Seattle Mariners beat the
+Houston Astros in 10 innings by the count of 3 to 2.
+
+The game was deadlocked at 2 after nine full innings.  Seattle won the game in
+the 10th inning.  Brendan Ryan doubled.  Aviles next to the plate and he
+delivered a base-hit.  Adam Jones then ripped a single making Seattle
+victorious to the delight of the the home town crowd.  Both teams totaled 10
+hits on the night.  
+
+Tommy Hunter(1-0) got credit for the victory, pitching 1 inning and allowing
+no runs. Wilton Lopez(0-1) took the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2012 Houston Astros at 2012 Seattle Mariners
+M.Bourn-A1   A1:Si      B1:G/43    *6*:G/63   D1:Si>3#   E1:Si>12
+                                                         
+                                                         
+G.Sanche-A1  A2:SB>12   B2:G/63    C2:G/43    D2:CS/24>  E2:G/63
+             Si>2o                            1o K       
+                                                         
+H.Pence-A1   A3:K       *4*:K      C3:G/53    *9*:L/6
+                                              
+                                              
+T.Tulowi-A1  A4:K       B4:Si      *7*:K      D4:Si
+                                              
+                                              
+A.Beltre-A1  *2*:Si     B5:F/7     C5:HR>b#   D5:SB>12
+                                              K
+                                              
+C.Quenti-A1  A6:Force/  B6:F/7     C6:K       D6:K
+             46>1o b1                         
+                                              
+A.Miles-A1   A7:FO/3    *5*:G/13   C7:K       *10*:Si
+                                              
+                                              
+M.Olivo-A1   A8:F/7     B8:L/5     *8*:Si     D8:L/5
+                                              
+                                              
+J.Bourge-A1  *3*:L/6    B9:G/63    C9:SB>12   D9:Force/
+                                   Sac/24>23  14>1o b1
+                                              
+
+D.Ackley-A1  A1:W>b1    B1:K       *6*:Do     *8*:Do     E1:Si>23
+M.Aviles-D1                                              
+                                                         
+A.Jones-A1   A2:K       *4*:G/3    C2:F/7     D2:Sac/14  E2:Si>3#
+                                              >23        12
+                                                         
+L.Berkma-A1  A3:G-DP/4  B3:Si      C3:G/43>2  D3:IW>b1
+             63>1o                 3          
+                                              
+C.Crawfo-A1  *2*:F/7    B4:Si>12   C4:F/9     D4:CS/26>
+                                              3# 1o Si
+                                              
+A.Rodrig-A1  A5:K       B5:Si>23   *7*:Do     D5:F/9
+                        12                    
+                                              
+J.Smoak-A1   A6:K       B6:SF-DP/  C6:FC/25>  *9*:G/63
+                        95>3# 2o   23         
+                                              
+C.Ruiz-A1    *3*:F/8    *5*:P/4    C7:FO/5    D7:K
+M.Carp-D7                                     
+Y.Torrea-D9                                   
+I.Suzuki-A1  A8:F/7     B8:G/63    C8:FC/12>  D8:G/63
+                                   3o 12      
+                                              
+B.Ryan-A1    A9:W>b1    B9:G/43    C9:G/63    *10*:Do
+                                              
+                                              
+
+

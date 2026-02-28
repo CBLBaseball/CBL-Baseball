@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2012 Atlanta Braves At 2012 Chicago (NL) Cubs             10/7/2012
+
+[1]  Braves             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  E.Bonifacio LF      6  2  2  0 .389     S.Castro SS         5  1  1  0 .250  
+  O.Infante 2B        6  1  2  2 .211     R.Johnson LF        2  1  1  1 .200  
+  F.Freeman 1B        4  2  2  1 .267   B-T.Campana PH,LF     2  0  0  0 .000  
+  M.Stanton DH        5  1  2  1 .176   I-R.Theriot PH        1  0  0  0 .000  
+  J.Hamilton CF       3  2  3  1 .625     M.Joyce RF          5  3  4  3 .500  
+E-R.Tejada PH         1  0  0  0 .000     A.Ramirez 3B        5  0  3  2 .438  
+F-J.Gomes RF          1  0  0  0 .000     R.Hernandez C       2  0  1  0 .400  
+  B.McCann C          4  2  2  2 .462   C-D.Lee PH            1  0  0  0 .182  
+  Y.Escobar SS        4  1  1  1 .357   D-G.Soto C            2  0  0  0 .000  
+  J.Heyward RF        1  2  1  1 .091     A.Soriano DH        4  1  2  1 .300  
+A-R.Davis PH,RF,CF    3  0  1  0 .600     M.Byrd CF           3  0  0  0 .077  
+  C.Headley 3B        5  0  1  3 .250   G-A.Callaspo PH       1  0  0  0 .000  
+                                        H-C.Gentry CF         0  0  0  0 ----  
+                                          M.Moreland 1B       4  1  1  0 .308  
+                                          D.Barney 2B         4  1  2  1 .267  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43 13 17 12                 Totals      41  8 15  8
+
+A-Pinch Hit For Heyward In 4th Inning
+B-Pinch Hit For Johnson In 4th Inning
+C-Pinch Hit For Hernandez In 5th Inning
+D-Subbed Defensively (C ) For Lee In 6th Inning
+E-Pinch Hit For Hamilton In 6th Inning
+F-Subbed Defensively (RF) For Tejada In 6th Inning
+G-Pinch Hit For Byrd In 8th Inning
+H-Subbed Defensively (CF) For Callaspo In 9th Inning
+I-Pinch Hit For Campana In 9th Inning
+
+Braves.......... 3 1 4  3 0 0  0 2 0  - 13 17  1
+Cubs............ 3 2 0  0 1 0  0 1 1  -  8 15  0
+
+[1]Braves (3-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vazquez WIN(1-0)           8 1/3  14   8   6   0   5   2   6.48  A1 E3
+E.O'Flaherty                 0 2/3   1   0   0   0   0   0   0.00  E4
+[1]Totals                    9      15   8   6   0   5   2
+
+[1]Cubs (1-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Moseley LOSS(0-1)          2 2/3   8   8   8   2   4   0  27.00  A1 B9
+M.Adams                      1       3   3   3   0   0   0  13.50  C1 C6
+J.Samardzija                 3 1/3   4   2   2   0   4   0  12.27  C7 E2
+C.Marmol                     1       1   0   0   1   1   0   0.00  E3 E7
+A.Bailey                     1       1   0   0   0   2   0   0.00  E8
+[1]Totals                    9      17  13  13   3  11   0
+
+ATTENDANCE- 39,643 DATE- Sunday, October 7th 2012 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 3:14
+LEFT ON BASE- Braves: 7  Cubs: 6
+DOUBLE PLAYS- Braves: 1  Cubs: 0
+ERRORS- O.Infante
+DOUBLES- F.Freeman(1st), J.Hamilton-3(4th), B.McCann(2nd), J.Heyward(1st),
+         C.Headley(2nd), S.Castro(2nd), R.Johnson(1st), M.Joyce(3rd),
+         A.Ramirez(2nd), A.Soriano(1st)
+TRIPLES- E.Bonifacio(1st), O.Infante(1st)
+HOME RUNS- M.Joyce-2(3rd)
+STOLEN BASES- E.Bonifacio(1st), F.Freeman(2nd), R.Davis(2nd)
+WALKS- F.Freeman, B.McCann, J.Heyward
+HIT BY PITCH- Y.Escobar
+STRIKE OUTS- E.Bonifacio-3, O.Infante, F.Freeman, M.Stanton-2, B.McCann,
+             Y.Escobar, C.Headley-2, S.Castro, R.Johnson, D.Lee, A.Soriano,
+             M.Byrd
+GIDP- G.Soto
+WILD PITCHES- D.Moseley
+2-out RBI- O.Infante, A.Ramirez-2, J.Hamilton, B.McCann-2, Y.Escobar, A.Soriano,
+           D.Barney
+WEB GEMS- Bot 2nd: Brian McCann blocked the plate, saving a run!
+
+Center fielder Josh Hamilton hit 3 doubles at Wrigley Field where the Atlanta
+Braves beat the Chicago (NL) Cubs by the score of 13 to 8.
+
+Javier Vazquez(1-0) labored throughout the game but hung around to record a
+victory.  He gave up 8 runs in 8 and 1/3 innings and surrendered 2
+'long-bombs'.  Due to a poorly pitched ballgame, scoring in 5 different
+innings was still not enough for Chicago (NL) to come away with the victory.
+
+Dustin Moseley(0-1) absorbed the loss.  He was knocked around by Atlanta,
+allowing 8 hits and 2 walks in 2 and 2/3 innings.  Matt Joyce rocketed 2
+homeruns and had 3 RBI but his offense was not enough to carry Chicago (NL)
+to victory.
+[2]
+[1]SCORESHEET: 2012 Atlanta Braves at 2012 Chicago (NL) Cubs
+E.Bonifa-A1  A1:Si      B1:K       C1:G/13    D1:K       *8*:Tr     F1:K
+                                                                    
+                                                                    
+O.Infant-A1  A2:SB>12   B2:Tr>2#   *4*:F/9    D2:K       E2:Si>3#   F2:G/43
+             F/7                                                    
+                                                                    
+F.Freema-A1  A3:Do>2#   B3:F/8     C3:Si      *6*:K      E3:W>12 b
+                                                         1
+                                                         
+M.Stanto-A1  A4:Si>2#   *3*:K      C4:SB>12   D4:Si      E4:K
+                                   F/7                   
+                                                         
+J.Hamilt-A1  A5:Do>13   B5:Do      C5:Do>2#   D5:Force/  E5:F/7>23
+R.Tejada-D5                                   46>1o b1   12 
+J.Gomes-D7                                               
+B.McCann-A1  A6:WP>3#   B6:W>b1    C6:Do>2#   D6:G/43    E6:Si>3#
+             23 K                                        23
+                                                         
+Y.Escoba-A1  A7:G/53    B7:HBP>23  C7:Si>2#   *7*:K      E7:G/63
+                        12                               
+                                                         
+J.Heywar-A1  *2*:Do     B8:W>3# 2  C8:G/43    D8:G/13    *9*:Si
+R.Davis-C8              3 12 b1                          
+                                                         
+C.Headle-A1  A9:K       B9:Do>3#   *5*:FO/2   D9:L/4     E9:SB>12
+                        2# 1#                            K
+                                                         
+
+S.Castro-A1  A1:Do      B1:P/6     C1:F/7     D1:G/43    E1:K
+                                                         
+                                                         
+R.Johnso-A1  A2:Do>2#   B2:K       C2:L/3     *7*:F/8    *9*:F/8
+T.Campan-C2                                              
+R.Therio-E2                                              
+M.Joyce-A1   A3:HR>2#   B3:E/4>23  *5*:Do     D3:Si      E3:HR>b#
+             b#         12                               
+                                                         
+A.Ramire-A1  A4:Si      B4:Do>3#   C4:G/63    D4:F/7     E4:Si
+                        2# 1o                            
+                                                         
+R.Hernan-A1  A5:F/8     *3*:Si     C5:K       D5:L/5     E5:G-DP/4
+D.Lee-C5                                                 63>1o
+G.Soto-C8                                                
+A.Sorian-A1  A6:P/5     B6:K       C6:Si>2#   *8*:Do
+                                              
+                                              
+M.Byrd-A1    A7:G/63    B7:K       C7:G/43    D7:G/13
+A.Callas-D7                                   
+C.Gentry-E2                                   
+M.Morela-A1  *2*:Si     B8:G/31    *6*:G/43   D8:F/9>23
+                                              
+                                              
+D.Barney-A1  A9:Si>12   *4*:FO/5   C9:G/63    D9:Si>3#
+                                              
+                                              
+
+

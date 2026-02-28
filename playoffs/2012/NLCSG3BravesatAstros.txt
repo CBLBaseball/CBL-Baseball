@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2012 Atlanta Braves At 2012 Houston Astros               10/16/2012
+
+[1]  Braves             AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  E.Bonifacio 3B      5  0  2  0 .349     M.Bourn CF          3  0  1  0 .306  
+  O.Infante 2B        4  1  1  0 .238     B.Bogusevic LF      2  1  0  0 .143  
+  J.Hamilton CF       4  1  1  0 .486   A-N.Schierholtz PH,LF 1  0  0  0 .333  
+  M.Stanton DH        4  0  1  0 .216     H.Pence RF          4  0  1  0 .265  
+  B.McCann C          4  1  1  0 .212     T.Tulowitzki SS     4  2  2  2 .314  
+  F.Freeman 1B        3  1  2  4 .270     A.Beltre 3B         4  2  2  3 .265  
+  J.Heyward RF        4  0  0  0 .037     C.Quentin DH        3  0  0  0 .185  
+  Y.Escobar SS        4  0  2  0 .286     G.Sanchez 1B        3  0  1  0 .281  
+  S.Fuld LF           4  0  0  0 .143     A.Miles 2B          3  0  0  0 .485  
+                                          M.Olivo C           3  1  1  1 .290  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  4 10  4                 Totals      30  6  8  6
+
+A-Pinch Hit For Bogusevic In 7th Inning
+
+Braves.......... 0 0 0  0 0 3  0 1 0  -  4 10  0
+Astros.......... 2 0 0  2 0 1  1 0    -  6  8  0
+
+[1]Braves (5-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Beachy LOSS(2-1)        6 2/3   7   6   6   2   5   4   6.87  A1 D1
+C.Martinez                1 1/3   1   0   0   0   0   0   1.80  D2
+[1]Totals                    8       8   6   6   2   5   4
+
+[1]Astros (6-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Chacin WIN(3-0)         6       7   3   3   1   5   1   4.09  A1 C7
+G.Balfour HOLD(1st)       1       1   0   0   0   0   0   0.00  C8 D2
+J.Lopez HOLD(2nd)         1       2   1   1   0   0   0   5.40  D3 D7
+J.Putz SAVE(3rd)          1       0   0   0   0   1   0   0.00  D8
+[1]Totals                    9      10   4   4   1   6   1
+
+ATTENDANCE- 38,956 DATE- Tuesday, October 16th 2012 TIME- Night 
+UMPIRES- Tim McClelland, Ted Barrett, Brian Runge, Marvin Hudson
+T- 2:39
+LEFT ON BASE- Braves: 6  Astros: 2
+DOUBLE PLAYS- Braves: 1  Astros: 1
+DOUBLES- M.Bourn(3rd), T.Tulowitzki(3rd)
+HOME RUNS- F.Freeman(2nd), T.Tulowitzki(1st), A.Beltre-2(4th), M.Olivo(4th)
+STOLEN BASES- B.Bogusevic(2nd), A.Miles(1st)
+CAUGHT STEALING- M.Bourn
+WALKS- F.Freeman, M.Bourn, B.Bogusevic
+STRIKE OUTS- M.Stanton-2, B.McCann, J.Heyward, S.Fuld-2, H.Pence, T.Tulowitzki,
+             G.Sanchez, A.Miles, M.Olivo
+GIDP- S.Fuld, T.Tulowitzki
+2-out RBI- T.Tulowitzki-2, F.Freeman-4, A.Beltre, M.Olivo
+
+Third baseman Adrian Beltre ripped 2 homeruns and had 3 RBI as the Houston
+Astros topped the Atlanta Braves by a score of 6 to 4 at Minute Maid
+Park.
+
+Beltre helped send the fans home happy.  He smashed a two-run homer in the 4th
+inning and blasted a solo shot in the 6th inning.  J.J. Putz pitched a
+perfect ninth and was credited with his 3rd save.  
+
+The win was credited to Jhoulys Chacin(3-0) who went 6 innings allowing 3
+runs. Brandon Beachy(2-1) took the loss.  He served up 4 homeruns in his 6
+and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2012 Atlanta Braves at 2012 Houston Astros
+E.Bonifa-A1  A1:F/8     B1:Si      C1:F/8     D1:Si      E1:F/7
+                                                         
+                                                         
+O.Infant-A1  A2:P/6     B2:P/5     *6*:Si     D2:P/3
+                                              
+                                              
+J.Hamilt-A1  A3:G/63    *4*:G/13   C3:F/8     *8*:Si
+                                              
+                                              
+M.Stanto-A1  *2*:K      B4:Si      C4:K       D4:G/43>1
+                                              2
+                                              
+B.McCann-A1  A5:K       B5:F/8     C5:Si>12   D5:L/4
+                                              
+                                              
+F.Freema-A1  A6:W>b1    B6:G/43    C6:HR>2#   D6:Si>2#
+                                   1# b#      
+                                              
+J.Heywar-A1  A7:G/63    *5*:L/4    C7:K       D7:G/43
+                                              
+                                              
+Y.Escoba-A1  *3*:Si     B8:Si      *7*:G/53   *9*:G/53
+                                              
+                                              
+S.Fuld-A1    A9:G-DP/4  B9:K       C9:L/4     D9:K
+             63>1o                            
+                                              
+
+M.Bourn-A1   A1:F/8     *3*:G/43   C1:W>b1    D1:Do
+                                              
+                                              
+B.Boguse-A1  A2:W>b1    B2:G/31    C2:CS/26>  D2:F/8
+N.Schier-D2                        1o G/63    
+                                              
+H.Pence-A1   A3:SB>12   B3:G/43    *6*:K      *8*:Si
+             F/7                              
+                                              
+T.Tulowi-A1  A4:HR>2#   *4*:Do     C4:K       D4:G-DP/6
+             b#                               43>1o
+                                              
+A.Beltre-A1  A5:FO/2    B5:HR>2#   C5:HR>b#   D5:F/7
+                        b#                    
+                                              
+C.Quenti-A1  *2*:L/6    B6:F/8     C6:G/43
+                                   
+                                   
+G.Sanche-A1  A7:Si      B7:K       *7*:G/63
+                                   
+                                   
+A.Miles-A1   A8:Force/  B8:K       C8:G/43
+             64>1o b1              
+                                   
+M.Olivo-A1   A9:SB>12   *5*:G/13   C9:HR>b#
+             K                     
+                                   
+
+

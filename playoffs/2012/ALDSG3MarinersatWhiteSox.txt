@@ -1,0 +1,202 @@
+[1]BOXSCORE: 2012 Seattle Mariners At 2012 Chicago (AL) White Sox      10/6/2012
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  D.Ackley 2B         4  0  0  0 .333     G.Parra RF,CF       7  1  1  0 .214  
+H-C.Ruiz C            2  0  1  0 .125     A.Ramirez SS        6  1  2  1 .214  
+  I.Suzuki DH         6  0  1  0 .182     R.Braun LF          5  0  3  0 .286  
+  L.Berkman RF        6  0  1  0 .333     P.Konerko 1B        4  0  1  1 .462  
+  C.Crawford LF       6  0  1  0 .286     B.Dewitt 3B         1  0  0  0 .500  
+  J.Smoak 1B          4  0  1  0 .300   A-A.Craig PH          1  0  0  0 .500  
+  A.Jones CF          5  0  0  0 .286   B-B.Morel 3B          4  0  0  0 .300  
+  K.Seager 3B         2  1  1  0 .600     J.Harrison DH       6  0  2  0 .200  
+E-M.Carp PH           1  0  0  0 .250     A.Pierzynski C      5  0  0  0 .154  
+F-A.Rodriguez 3B      3  0  1  0 .600     G.Beckham 2B        3  0  0  0 .333  
+  Y.Torrealba C       3  0  1  0 .429   I-L.Duda PH           1  0  0  0 .200  
+G-M.Aviles PR,2B      3  0  0  0 .000   J-J.Altuve 2B         2  0  1  0 .800  
+  B.Ryan SS           4  0  1  1 .444     E.Chavez CF         1  0  0  0 .286  
+                                        C-J.Lucroy PH         1  0  0  0 .000  
+                                        D-B.Lillibridge RF    2  0  0  0 .000  
+                                        K-A.De Aza PH,RF      1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      49  1  9  1                 Totals      50  2 10  2
+
+A-Pinch Hit For Dewitt In 3rd Inning
+B-Subbed Defensively (3B) For Craig In 4th Inning
+C-Pinch Hit For Chavez In 4th Inning
+D-Subbed Defensively (RF) For Lucroy In 5th Inning
+E-Pinch Hit For Seager In 6th Inning
+F-Subbed Defensively (3B) For Carp In 6th Inning
+G-Pinch Ran For Torrealba In 7th Inning
+H-Subbed Defensively (C ) For Ackley In 7th Inning
+I-Pinch Hit For Beckham In 9th Inning
+J-Subbed Defensively (2B) For Duda In 10th Inning
+K-Pinch Hit For Lillibridge In 11th Inning
+
+Mariners........ 0 0 0  0 1 0  0 0 0  0 0 0  0 0 -  1  9  2
+White Sox....... 0 0 0  0 1 0  0 0 0  0 0 0  0 1 -  2 10  0
+
+[1]Mariners (1-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez                 10 2/3   8   1   1   3   8   0   0.84  A1 E8
+D.Pauley                     0 1/3   0   0   0   1   0   0   0.00  E9 F1
+L.Lynn                       1       1   0   0   0   0   0   0.00  F2 F5
+B.League LOSS(0-1)           1 1/3   1   1   1   0   1   0   6.75  F6
+[1]Totals                   13 1/3  10   2   2   4   9   0
+
+[1]White Sox (2-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson                    6       4   1   1   2   5   0   1.50  A1 C7
+J.Veras                      0 1/3   1   0   0   0   0   0   6.75  C8 C9
+D.Oliver                     1 2/3   1   0   0   0   1   0   0.00  D1 D6
+R.Thompson                   1       1   0   0   0   1   0   0.00  D7 E1
+C.Sale                       2 2/3   1   0   0   0   3   0   0.00  E2 E9
+M.Thornton WIN(1-0)          2 1/3   1   0   0   0   1   0   0.00  F1
+[1]Totals                   14       9   1   1   2  11   0
+
+ATTENDANCE- 36,918 DATE- Saturday, October 6th 2012 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 4:11
+LEFT ON BASE- Mariners:10  White Sox:14
+DOUBLE PLAYS- Mariners: 0  White Sox: 0
+ERRORS- D.Ackley, A.Jones
+DOUBLES- L.Berkman(1st), R.Braun(1st), P.Konerko(1st)
+TRIPLES- G.Parra(1st)
+STOLEN BASES- C.Crawford(2nd), M.Aviles(1st), B.Ryan(2nd), J.Harrison(1st),
+              J.Altuve(1st)
+CAUGHT STEALING- I.Suzuki
+SACRIFICE HITS- B.Ryan, A.Ramirez
+WALKS- J.Smoak-2, P.Konerko-2, A.Pierzynski, A.De Aza
+HIT BY PITCH- A.Jones, R.Braun
+STRIKE OUTS- D.Ackley-3, L.Berkman, C.Crawford, A.Jones-2, A.Rodriguez-2,
+             M.Aviles, B.Ryan, G.Parra, R.Braun-2, J.Harrison, A.Pierzynski,
+             G.Beckham, B.Lillibridge-2, A.De Aza
+WILD PITCHES- F.Hernandez, J.Johnson
+
+Alexei Ramirez had 2 base hits as the Chicago (AL) White Sox defeated the
+Seattle Mariners in 14 innings 2 to 1 at US Cellular Field.
+
+The game was deadlocked at 1 after nine full innings.  Chicago (AL) was
+victorious in the 14th inning.  Gerardo Parra tripled.  Ramirez came to the
+plate and worked the squeeze play to perfection giving Chicago (AL) the
+victory and sending the 36,918 home-town fans home happy.  Chicago (AL)
+finished with 10 hits in the victory.  
+
+Matt Thornton(1-0) got credit for the victory, pitching 2 and 1/3 innings and
+allowing no runs. Brandon League(0-1) absorbed the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Chicago (AL) White Sox
+D.Ackley-A1  A1:L/4     B1:K       C1:SB>12   D1:K       *10*:Si    F1:G/63
+C.Ruiz-D3                          K                                
+                                                                    
+I.Suzuki-A1  A2:G/43    *4*:G/53   C2:FO/5    D2:F/8     E2:Si>13   *13*:G/53
+                                                                    
+                                                                    
+L.Berkma-A1  A3:Do      B3:F/8     *6*:K      *8*:L/6    E3:CS/24>  F3:G/63
+                                                         1o P/4     
+                                                                    
+C.Crawfo-A1  A4:K       B4:Si      C4:F/7     D4:F/7     E4:F/9     F4:G/3
+                                                                    
+                                                                    
+J.Smoak-A1   *2*:G/31   B5:SB>12   C5:W>b1    D5:Si      *11*:G/13  *14*:L/6
+                        W>b1                                        
+                                                                    
+A.Jones-A1   A6:K       B6:WP>23   C6:HBP>12  D6:F/9     E6:G/43    F6:K
+                        12 F/8                                      
+                                                                    
+K.Seager-A1  A7:G/43    *5*:Si     C7:F/7     *9*:K      E7:K       F7:Si
+M.Carp-C7                                                           
+A.Rodrig-C8                                                         
+Y.Torrea-A1  *3*:G/63   B8:G/43>1  *7*:Si     D8:L/6     *12*:K     F8:Force/
+M.Aviles-C9             2                                           46>1o b1
+                                                                    
+B.Ryan-A1    A9:G/53    B9:Si>2#   C9:SB>12   D9:F/7     E9:K
+                                   Sac/14>23             
+                                                         
+
+G.Parra-A1   A1:G/43    *3*:F/8    *5*:G/63   *7*:K      E1:L/4     F1:G/63
+                                                                    
+                                                                    
+A.Ramire-A1  A2:G/43    B2:Si      C2:Si      D2:G/53    *10*:G/43  *12*:P/6
+                                                                    
+                                                                    
+R.Braun-A1   A3:Si      B3:K       C3:HBP>12  D3:Si      E3:K       F3:Do
+                                                                    
+                                                                    
+P.Konerk-A1  A4:G/53    B4:W>12 b  C4:Do>2#   D4:G/63    E4:W>b1    F4:G/53
+                        1          13                               
+                                                                    
+B.Dewitt-A1  *2*:G/43   B5:WP>23   C5:L/6     *8*:F/7    E5:F/8     F5:G/53
+A.Craig-B5              12 G/3                                      
+B.Morel-B6                                                          
+J.Harris-A1  A6:Si      *4*:Si+E/  C6:K       D6:P/6     *11*:G/53  *13*:P/6
+                        4                                           
+                                                                    
+A.Pierzy-A1  A7:SB>12   B7:G/63    *6*:G/63   D7:G/43    E7:K       F7:G/43
+             W>b1                                                   
+                                                                    
+G.Beckha-A1  A8:F/7     B8:G/53    C8:K       *9*:F/8    E8:Si      F8:E/8>b2
+L.Duda-D8                                                           
+J.Altuve-E2                                                         
+E.Chavez-A1  A9:P/4     B9:G/43    C9:K       D9:K       E9:SB>12   F9:K
+J.Lucroy-B9                                              IW>b1      
+B.Lillib-C1+                                                        
+
+
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Chicago (AL) White Sox
+D.Ackley-A1
+C.Ruiz-D3
+
+I.Suzuki-A1
+
+
+L.Berkma-A1
+
+
+C.Crawfo-A1
+
+
+J.Smoak-A1
+
+
+A.Jones-A1
+
+
+K.Seager-A1
+M.Carp-C7
+A.Rodrig-C8
+Y.Torrea-A1
+M.Aviles-C9
+
+B.Ryan-A1
+
+
+
+G.Parra-A1   *14*:Tr
+             
+             
+A.Ramire-A1  G2:Sac/14
+             >3#
+             
+R.Braun-A1
+
+
+P.Konerk-A1
+
+
+B.Dewitt-A1
+A.Craig-B5
+B.Morel-B6
+J.Harris-A1
+
+
+A.Pierzy-A1
+
+
+G.Beckha-A1
+L.Duda-D8
+J.Altuve-E2
+E.Chavez-A1
+J.Lucroy-B9
+B.Lillib-C1+
+
+

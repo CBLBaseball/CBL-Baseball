@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2012 Detroit Tigers At 2012 Boston Red Sox                10/3/2012
+
+[1]  Tigers             AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  A.Jackson CF        4  1  1  2 .250     J.Ellsbury CF       4  0  1  0 .250  
+  S.Sizemore 3B       4  0  0  0 .000     D.Pedroia 2B        4  0  1  0 .250  
+  C.Kotchman 1B       3  1  0  0 .000     D.Ortiz DH          4  0  0  0 .000  
+  C.Granderson DH     3  1  0  0 .000     M.Morse 1B          3  0  0  0 .000  
+  A.Avila C           3  0  0  0 .000     K.Youkilis 3B       3  0  0  0 .000  
+  R.Raburn LF         3  1  1  1 .333     J.Reddick RF        3  0  0  0 .000  
+A-D.Kelly LF          1  0  1  21.000     J.Thole C           3  0  0  0 .000  
+  B.Boesch RF         4  0  0  0 .000     J.Repko LF          2  0  0  0 .000  
+  A.Escobar SS        3  0  1  0 .333   B-E.Nunez PH          1  0  0  0 .000  
+  J.Herrera 2B        3  1  0  0 .000   C-V.Wells LF          0  0  0  0 ----  
+                                          A.Gonzalez SS       3  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  5  4  5                 Totals      30  0  3  0
+
+A-Subbed Defensively (LF) For Raburn In 8th Inning
+B-Pinch Hit For Repko In 8th Inning
+C-Subbed Defensively (LF) For Nunez In 9th Inning
+
+Tigers.......... 0 1 2  0 0 0  0 0 2  -  5  4  1
+Red Sox......... 0 0 0  0 0 0  0 0 0  -  0  3  1
+
+[1]Tigers (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Verlander WIN(1-0)         8       2   0   0   1   8   0   0.00  A1 C9
+P.Coke                       1       1   0   0   0   1   0   0.00  D1
+[1]Totals                    9       3   0   0   1   9   0
+
+[1]Red Sox (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett LOSS(0-1)          9       4   5   5   3   8   2   5.00  A1
+[1]Totals                    9       4   5   5   3   8   2
+
+ATTENDANCE- 35,886 DATE- Wednesday, October 3rd 2012 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 2:10
+LEFT ON BASE- Tigers: 2  Red Sox: 4
+DOUBLE PLAYS- Tigers: 1  Red Sox: 0
+ERRORS- J.Verlander, K.Youkilis
+DOUBLES- D.Kelly(1st)
+TRIPLES- A.Escobar(1st)
+HOME RUNS- A.Jackson(1st), R.Raburn(1st)
+WALKS- C.Kotchman, C.Granderson, A.Avila, M.Morse
+STRIKE OUTS- A.Jackson, S.Sizemore-2, C.Kotchman, A.Avila, R.Raburn-2,
+             A.Escobar, D.Pedroia, D.Ortiz, M.Morse-2, K.Youkilis-2, J.Thole-2,
+             J.Repko
+GIDP- J.Reddick
+2-out RBI- R.Raburn, D.Kelly-2
+
+Justin Verlander had a strong outing at Fenway Park as the Detroit Tigers beat
+the Boston Red Sox 5 to 0.
+
+Boston was unable to claim the lead after Detroit went ahead in the top of the
+2nd inning scoring a single run.  That was all the offense they were to need.
+Detroit had only 4 hits for the game.  
+
+Verlander(1-0) allowed no runs in 8 innings, and picked up the victory. Josh
+Beckett(0-1) was the losing pitcher.  He allowed just 5 runs and 4 hits in 9
+innings.  
+
+[2]
+[1]SCORESHEET: 2012 Detroit Tigers at 2012 Boston Red Sox
+A.Jackso-A1  A1:G/63    B1:HR>1#   C1:K       D1:F/8
+                        b#                    
+                                              
+S.Sizemo-A1  A2:K       B2:F/8     *6*:K      *9*:G/63
+                                              
+                                              
+C.Kotchm-A1  A3:F/8     B3:L/3     C3:K       D3:W>b1
+                                              
+                                              
+C.Grande-A1  *2*:E/5    *4*:F/8    C4:F/9     D4:W>12 b
+                                              1
+                                              
+A.Avila-A1   A5:PkOff/  B5:W>b1    *7*:F/8    D5:F/9
+             13>1o K                          
+                                              
+R.Raburn-A1  A6:HR>b#   B6:K       C6:K       D6:Do>2#
+D.Kelly-D2                                    1#
+                                              
+B.Boesch-A1  A7:G/43    B7:G/43    C7:F/7     D7:P/4
+                                              
+                                              
+A.Escoba-A1  *3*:Tr     *5*:K      *8*:G/63
+                                   
+                                   
+J.Herrer-A1  A9:FC/32>  B9:F/7     C9:G/63
+             3o                    
+                                   
+
+J.Ellsbu-A1  A1:F/9     B1:Si>12   *6*:F/7    *9*:G/43
+                                              
+                                              
+D.Pedroi-A1  A2:FO/2    B2:K       C2:F/9     D2:Si
+                                              
+                                              
+D.Ortiz-A1   A3:G/63    B3:Force/  C3:K       D3:F/8
+                        46>1o b1              
+                                              
+M.Morse-A1   *2*:W>b1   *4*:K      *7*:E/1    D4:K
+                                              
+                                              
+K.Youkil-A1  A5:G/43>1  B5:K       C5:K
+             2                     
+                                   
+J.Reddic-A1  A6:P/4     B6:G/3     C6:G-DP/4
+                                   63>1o
+                                   
+J.Thole-A1   A7:K       *5*:F/7    *8*:K
+                                   
+                                   
+J.Repko-A1   *3*:F/7    B8:K       C8:L/6
+E.Nunez-C8                         
+V.Wells-D1                         
+A.Gonzal-A1  A9:Si      B9:F/9     C9:F/8
+                                   
+                                   
+
+

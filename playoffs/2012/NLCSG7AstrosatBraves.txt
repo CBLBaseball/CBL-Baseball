@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2012 Houston Astros At 2012 Atlanta Braves               10/21/2012
+
+[1]  Astros             AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  M.Bourn CF          5  0  0  0 .269     R.Davis CF          3  1  1  2 .316  
+  G.Sanchez 1B        4  1  1  0 .222   C-S.Fuld PH,CF        1  0  0  0 .167  
+  H.Pence RF          4  1  2  1 .229   E-J.Fox PH            1  0  0  0 .000  
+  T.Tulowitzki SS     3  2  1  1 .245     C.Headley 3B        4  0  3  1 .387  
+  A.Beltre 3B         4  1  1  2 .250     Y.Escobar SS        3  0  1  0 .275  
+  C.Quentin DH        3  0  1  1 .194     E.Bonifacio LF      4  0  0  0 .333  
+  A.Miles 2B          4  0  0  0 .383     M.Stanton RF        4  0  1  0 .240  
+  M.Olivo C           3  0  0  0 .205     B.McCann C          4  1  1  1 .229  
+  J.Bourgeois LF      2  0  1  0 .150     J.Gomes DH          3  1  1  0 .154  
+A-B.Bogusevic PH      1  0  0  0 .125   D-J.Hamilton PH       1  0  0  0 .404  
+B-N.Schierholtz LF    0  0  0  0 .400     F.Freeman 1B        4  0  1  0 .231  
+                                          O.Infante 2B        4  1  2  0 .304  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  5  7  5                 Totals      36  4 11  4
+
+A-Pinch Hit For Bourgeois In 7th Inning
+B-Subbed Defensively (LF) For Bogusevic In 7th Inning
+C-Pinch Hit For Davis In 8th Inning
+D-Pinch Hit For Gomes In 9th Inning
+E-Pinch Hit For Fuld In 9th Inning
+
+Astros.......... 1 0 0  0 0 1  0 3 0  -  5  7  0
+Braves.......... 0 0 0  0 3 0  0 0 1  -  4 11  1
+
+[1]Astros (8-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price WIN(3-2)             7       8   3   3   0   8   0   5.79  A1 C9
+J.Benoit HOLD(3rd)           1       0   0   0   1   2   0   0.00  D1 D4
+J.Putz HOLD(1st)             0 2/3   3   1   1   0   1   1   2.45  D5 D9
+G.Balfour SAVE(1st)          0 1/3   0   0   0   0   1   0   0.00  E1
+[1]Totals                    9      11   4   4   1  12   1
+
+[1]Braves (7-7)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Beachy                     7       4   2   2   2   9   2   5.68  A1 C9
+E.O'Flaherty HOLD(2nd)       0 1/3   0   0   0   0   0   0   0.00  D1 D1
+C.Martinez L(1-1) BS(1st)    0 1/3   3   3   3   1   0   0   5.68  D2 D6
+M.Lindstrom                  0 1/3   0   0   0   0   1   0   0.00  D7 D7
+C.Kimbrel                    1       0   0   0   1   1   0   2.25  D8
+[1]Totals                    9       7   5   5   4  11   2
+
+ATTENDANCE- 48,964 DATE- Sunday, October 21st 2012 TIME- Night 
+UMPIRES- Angel Hernandez, Paul Schrieber, Chad Fairchild, Joe West
+T- 2:45
+LEFT ON BASE- Astros: 6  Braves: 6
+DOUBLE PLAYS- Astros: 1  Braves: 0
+ERRORS- Y.Escobar
+DOUBLES- A.Beltre(3rd), C.Headley(5th), O.Infante(1st)
+TRIPLES- R.Davis(1st)
+HOME RUNS- H.Pence(4th), T.Tulowitzki(2nd), B.McCann(4th)
+CAUGHT STEALING- C.Headley
+SACRIFICE HITS- N.Schierholtz
+WALKS- G.Sanchez, T.Tulowitzki, C.Quentin, M.Olivo, Y.Escobar
+STRIKE OUTS- M.Bourn-2, G.Sanchez-2, H.Pence, C.Quentin-2, A.Miles, M.Olivo,
+             J.Bourgeois, B.Bogusevic, S.Fuld, J.Fox, E.Bonifacio-4,
+             M.Stanton-2, J.Gomes, F.Freeman-2, O.Infante
+GIDP- B.McCann
+WILD PITCHES- C.Kimbrel
+2-out RBI- H.Pence, A.Beltre-2, C.Quentin
+WEB GEMS- Bot 3rd: Aaron Miles robbed Omar Infante of a base hit.
+
+Right fielder Hunter Pence hit one over the fence as the Houston Astros topped
+the Atlanta Braves by a score of 5 to 4 at Turner Field.
+
+Houston came through with the game-winning runs in the 8th inning with 3 runs
+on 3 base hits.  After an out was recorded, Gaby Sanchez was the sparkplug
+when he laced a base-knock.  After another out, Troy Tulowitzki came to bat
+and drew a walk.  Adrian Beltre then doubled.  Carlos Quentin was up next and
+he lined a base-hit.  Aaron Miles got his turn next, but he was a strikeout
+victim.  Atlanta had a chance to come back in the 9th but they came up short.
+
+David Price(3-2) was the winner allowing 3 runs in 7 innings. Price was helped
+out by Grant Balfour who recorded his 1st save.  Cristhian Martinez(1-1) was
+the loser in relief.  
+
+[2]
+[1]SCORESHEET: 2012 Houston Astros at 2012 Atlanta Braves
+M.Bourn-A1   A1:K       B1:PkOff/  C1:G/63    *8*:F/7    E1:FC/12>
+                        13>1o K                          3o
+                                                         
+G.Sanche-A1  A2:F/7     B2:W>b1    C2:K       D2:Si      E2:K
+                                                         
+                                                         
+H.Pence-A1   A3:HR>b#   B3:Si>12   *6*:K      D3:G/63>1
+                                              2
+                                              
+T.Tulowi-A1  A4:G/63    B4:G/63    C4:HR>b#   D4:W>b1
+                                              
+                                              
+A.Beltre-A1  *2*:E/6    *4*:F/7    C5:L/6     D5:Do>2#
+                                              1#
+                                              
+C.Quenti-A1  A6:K       B6:W>b1    C6:K       D6:Si>3#
+                                              
+                                              
+A.Miles-A1   A7:Force/  B7:L/4     *7*:G/63   D7:K
+             36>1o b1                         
+                                              
+M.Olivo-A1   A8:F/8     B8:L/4     C8:K       *9*:W>b1
+                                              
+                                              
+J.Bourge-A1  *3*:Si     *5*:K      C9:K       D9:WP>12
+B.Boguse-C9                                   Sac/54>23
+N.Schier-D1                                   
+
+R.Davis-A1   A1:G/63    B1:F/7     C1:Tr>3#   *8*:K      E1:K
+S.Fuld-D1                          2#                    
+J.Fox-E1                                                 
+C.Headle-A1  A2:Si      B2:Do      C2:Si>3#   D2:G/3
+                                              
+                                              
+Y.Escoba-A1  A3:Si>12   B3:G/63    C3:CS/24>  D3:W>b1
+                                   1o G/43    
+                                              
+E.Bonifa-A1  A4:K       *4*:K      *6*:K      D4:K
+                                              
+                                              
+M.Stanto-A1  A5:K       B5:F/7     C5:Si      *9*:K
+                                              
+                                              
+B.McCann-A1  *2*:F/7    B6:P/3     C6:G-DP/4  D6:HR>b#
+                                   63>1o      
+                                              
+J.Gomes-A1   A7:G/53    *5*:Si     *7*:K      D7:F/9
+J.Hamilt-D7                                   
+                                              
+F.Freema-A1  A8:P/3     B8:K       C8:K       D8:Si
+                                              
+                                              
+O.Infant-A1  *3*:G/43   B9:Do>13   C9:K       D9:Si>12
+                                              
+                                              
+
+

@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2012 Seattle Mariners At 2012 Houston Astros             10/26/2012
+
+[1]  Mariners           AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  A.Jones DH          3  0  1  0 .254     M.Bourn CF          4  0  1  0 .284  
+  Y.Torrealba C       4  0  0  1 .231     B.Bogusevic LF      3  0  1  0 .182  
+  L.Berkman RF        3  0  0  0 .290   B-N.Schierholtz LF    0  0  0  0 .400  
+  M.Aviles 2B         3  0  0  0 .227     H.Pence RF          4  0  0  0 .200  
+A-D.Ackley PH,2B      1  0  0  0 .216     T.Tulowitzki SS     3  1  0  0 .230  
+  A.Rodriguez 3B      4  0  0  0 .275     A.Beltre 3B         2  1  1  0 .276  
+  J.Smoak 1B          4  0  0  0 .262     C.Quentin DH        2  0  0  0 .152  
+  F.Gutierrez CF      3  1  2  0 .389     G.Sanchez 1B        3  0  1  2 .220  
+D-K.Blanks PH         0  0  0  0 .100     A.Miles 2B          3  0  0  0 .368  
+  C.Crawford LF       2  0  1  0 .246   C-W.Valdez 2B         0  0  0  0 .000  
+E-C.Ruiz PH           1  0  0  0 .170     M.Olivo C           3  0  0  0 .196  
+  B.Ryan SS           1  0  0  0 .262                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  4  1                 Totals      27  2  4  2
+
+A-Pinch Hit For Aviles In 8th Inning
+B-Subbed Defensively (LF) For Bogusevic In 9th Inning
+C-Subbed Defensively (2B) For Miles In 9th Inning
+D-Pinch Hit For Gutierrez In 9th Inning
+E-Pinch Hit For Crawford In 9th Inning
+
+Mariners........ 0 0 1  0 0 0  0 0 0  -  1  4  0
+Astros.......... 0 0 0  2 0 0  0 0    -  2  4  0
+
+[1]Mariners (10-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister LOSS(2-3)           8       4   2   2   1   2   0   3.74  A1
+[1]Totals                    8       4   2   2   1   2   0
+
+[1]Astros (9-7)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Price WIN(4-2)             7 1/3   4   1   1   4   7   0   4.95  A1 D3
+J.Benoit HOLD(4th)           0 2/3   0   0   0   0   1   0   0.00  D4 D5
+J.Putz SAVE(4th)             1       0   0   0   1   0   0   3.38  D6
+[1]Totals                    9       4   1   1   5   8   0
+
+ATTENDANCE- 39,040 DATE- Friday, October 26th 2012 TIME- Night 
+UMPIRES- Sam Holbrook, Gerry Davis, Bill Hohn, Greg Gibson
+T- 2:21
+LEFT ON BASE- Mariners: 8  Astros: 5
+DOUBLE PLAYS- Mariners: 0  Astros: 0
+DOUBLES- G.Sanchez(4th)
+STOLEN BASES- A.Jones(1st), M.Bourn(5th)
+SACRIFICE HITS- C.Crawford, B.Ryan
+WALKS- A.Jones, L.Berkman, K.Blanks, B.Ryan-2, T.Tulowitzki
+HIT BY PITCH- B.Bogusevic, A.Beltre, C.Quentin
+STRIKE OUTS- A.Jones, Y.Torrealba, L.Berkman-2, D.Ackley, A.Rodriguez,
+             J.Smoak-2, M.Bourn, T.Tulowitzki
+2-out RBI- G.Sanchez-2
+
+David Price(4-2) and Doug Fister(2-3) locked horns in a pitcher's duel with
+Price and the Houston Astros coming out on top of the Seattle Mariners 2 to
+1.
+
+Houston scored 2 runs in the bottom of the 4th inning.  After an out was
+recorded, Troy Tulowitzki initiated the scoring spurt when he drew a walk.
+Adrian Beltre stepped up to the plate and he was hit by a pitch.  After
+another out, Gaby Sanchez came to the plate and doubled.  Neither team
+managed to score after the 4th inning.  
+
+J.J. Putz preserved the game for Price, recording his his 4th.
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Houston Astros
+A.Jones-A1   A1:L/4     B1:W>23 1  C1:K       D1:Si>13
+                        2 b1                  
+                                              
+Y.Torrea-A1  A2:F/9     B2:G/43>3  C2:K       D2:SB>12
+                        # 23 12               FC/52>3o
+                                              23
+L.Berkma-A1  A3:L/6     B3:K       *6*:K      D3:W>12 b
+                                              1
+                                              
+M.Aviles-A1  *2*:G/13   *4*:G/53   C4:G/63    D4:K
+D.Ackley-D4                                   
+                                              
+A.Rodrig-A1  A5:G/53    B5:G/63    C5:K       D5:G/63
+                                              
+                                              
+J.Smoak-A1   A6:G/63    B6:K       *7*:K      *9*:G/43
+                                              
+                                              
+F.Gutier-A1  *3*:Si     *5*:Si     C7:G/43    D7:W>b1
+K.Blanks-D7                                   
+                                              
+C.Crawfo-A1  A8:Sac/34  B8:Si>12   C8:G/31    D8:F/9
+C.Ruiz-D8    >12                              
+                                              
+B.Ryan-A1    A9:W>b1    B9:Sac/34  *8*:W>b1   D9:F/8
+                        >23 12                
+                                              
+
+M.Bourn-A1   A1:F/9     B1:Si      C1:G/23    D1:K
+                                              
+                                              
+B.Boguse-A1  A2:Si      B2:SB>12   *6*:HBP    *8*:F/9
+N.Schier-D5             L/4                   
+                                              
+H.Pence-A1   A3:F/7     *4*:G/63   C3:F/8     D3:G/53
+                                              
+                                              
+T.Tulowi-A1  A4:L/4     B4:W>b1    C4:F/9     D4:K
+                                              
+                                              
+A.Beltre-A1  *2*:G/3    B5:HBP>12  C5:Si>12
+                                   
+                                   
+C.Quenti-A1  A6:F/8     B6:F/8     C6:HBP>23
+                                   12 
+                                   
+G.Sanche-A1  A7:L/6     B7:Do>2#   C7:L/5
+                        1#         
+                                   
+A.Miles-A1   *3*:G/31   *5*:F/7    *7*:G/13
+W.Valdez-D5                        
+                                   
+M.Olivo-A1   A9:G/43    B9:F/9     C9:P/6
+                                   
+                                   
+
+

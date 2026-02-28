@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2012 Seattle Mariners At 2012 Chicago (AL) White Sox      10/8/2012
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  I.Suzuki RF         4  1  2  1 .368     A.Pierzynski DH     5  0  1  0 .238  
+  L.Berkman DH        4  0  1  1 .300     A.Ramirez SS        5  2  3  2 .261  
+  M.Aviles 2B         3  0  0  0 .000     R.Braun LF          5  1  1  1 .227  
+  M.Carp 1B           3  0  1  0 .250     P.Konerko 1B        4  1  2  1 .476  
+B-A.Jones PH          1  0  0  0 .316     J.Lucroy C          3  2  1  3 .200  
+  A.Rodriguez 3B      3  0  0  0 .333     B.Lillibridge RF    3  1  0  0 .000  
+C-K.Blanks PH         1  0  0  0 .000     G.Parra CF          3  2  1  1 .235  
+  Y.Torrealba C       3  0  0  0 .300     A.Craig 3B          1  0  1  0 .429  
+  F.Gutierrez CF      3  1  1  0 .333   A-B.Morel 3B          1  0  1  0 .333  
+  C.Crawford LF       3  1  1  1 .238     G.Beckham 2B        2  2  1  2 .333  
+  B.Ryan SS           2  0  0  0 .308                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  3  6  3                 Totals      32 11 12 10
+
+A-Subbed Defensively (3B) For Craig In 6th Inning
+B-Pinch Hit For Carp In 9th Inning
+C-Pinch Hit For Rodriguez In 9th Inning
+
+Mariners........ 0 0 3  0 0 0  0 0 0  -  3  6  0
+White Sox....... 1 0 0  0 3 0  6 1    - 11 12  0
+
+[1]Mariners (2-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Morrow LOSS(0-1)           6       4   5   5   3   6   1   7.50  A1 C7
+L.Lynn                       0 2/3   4   4   4   0   0   0  21.60  C8 D4
+T.Hunter                     1 1/3   4   2   2   1   0   1  10.80  D5
+[1]Totals                    8      12  11  11   4   6   2
+
+[1]White Sox (3-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Danks WIN(1-0)             9       6   3   3   1   7   0   3.00  A1
+[1]Totals                    9       6   3   3   1   7   0
+
+ATTENDANCE- 39,299 DATE- Monday, October 8th 2012 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:43
+LEFT ON BASE- Mariners: 2  White Sox: 4
+DOUBLE PLAYS- Mariners: 0  White Sox: 2
+DOUBLES- L.Berkman(2nd), C.Crawford(1st), G.Beckham(2nd)
+TRIPLES- F.Gutierrez(1st)
+HOME RUNS- A.Ramirez(1st), J.Lucroy(1st)
+CAUGHT STEALING- B.Morel
+SACRIFICE HITS- B.Ryan, B.Morel, G.Beckham
+WALKS- M.Aviles, J.Lucroy, B.Lillibridge, A.Craig, G.Beckham
+HIT BY PITCH- G.Parra
+STRIKE OUTS- M.Aviles, M.Carp, Y.Torrealba, F.Gutierrez, C.Crawford, B.Ryan-2,
+             A.Pierzynski, P.Konerko, J.Lucroy, B.Lillibridge-2, G.Beckham
+GIDP- L.Berkman, A.Rodriguez
+WILD PITCHES- B.Morrow-2
+2-out RBI- R.Braun, P.Konerko, J.Lucroy-3, A.Ramirez
+
+John Danks went the distance and shortstop Alexei Ramirez blasted a homerun
+and had 2 RBI as the Chicago (AL) White Sox outscored the Seattle Mariners 11
+to 3.
+
+Danks(1-0) was very good in the win.  He gave up just 6 hits and 1 walk in 9
+innings.  Chicago (AL) had a total of 12 hits for the game.  
+
+Brandon Morrow(0-1) was hit with the loss.  He surrendered 5 runs and 4 hits
+in 6 innings.
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Chicago (AL) White Sox
+I.Suzuki-A1  A1:Si      B1:Si>3#   C1:G/13    D1:F/8
+                                              
+                                              
+L.Berkma-A1  A2:G-DP/6  B2:Do>1#   C2:L/6     D2:G/53
+             43>1o                            
+                                              
+M.Aviles-A1  A3:G/43    B3:W>b1    *6*:K      *9*:G/43
+                                              
+                                              
+M.Carp-A1    *2*:K      B4:F/8     C4:Si      D4:L/4
+A.Jones-D4                                    
+                                              
+A.Rodrig-A1  A5:G/53    B5:G/43    C5:G-DP/5  D5:G/63
+K.Blanks-D5                        43>1o      
+                                              
+Y.Torrea-A1  A6:F/7     *4*:G/63   *7*:K
+                                   
+                                   
+F.Gutier-A1  *3*:Tr     B7:G/53    C7:K
+                                   
+                                   
+C.Crawfo-A1  A8:Do>3#   B8:K       C8:F/9
+                                   
+                                   
+B.Ryan-A1    A9:Sac/34  *5*:K      *8*:K
+             >23                   
+                                   
+
+A.Pierzy-A1  A1:F/8     B1:G/43    C1:K       D1:G/63    E1:Si>13
+                                                         
+                                                         
+A.Ramire-A1  A2:HR>b#   *4*:F/9    C2:P/6     D2:Si>23   E2:Si>3#
+                                                         13
+                                                         
+R.Braun-A1   A3:G/63    B3:G/53    *6*:L/5    D3:Si>3#   E3:L/6
+                                              13         
+                                                         
+P.Konerk-A1  A4:K       B4:L/5     C4:Si      D4:Si>3#
+                                              13
+                                              
+J.Lucroy-A1  *2*:G/53   *5*:W>b1   C5:K       D5:HR>3#
+                                              1# b#
+                                              
+B.Lillib-A1  A6:K       B6:WP>12   C6:K       D6:G/63
+                        W>b1                  
+                                              
+G.Parra-A1   A7:F/8     B7:Si>2#   *7*:HBP    *8*:G/13
+                        13                    
+                                              
+A.Craig-A1   *3*:Si     B8:W>12 b  C8:Sac/14  D8:Si
+B.Morel-C3              1          >12        
+                                              
+G.Beckha-A1  A9:PkOff/  B9:WP>3#   C9:Do>2#   D9:CS/24>
+             13>1o K    23 12 Sac             1o W>b1
+                        /14>3# 23             
+
+

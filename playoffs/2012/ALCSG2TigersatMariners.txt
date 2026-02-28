@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2012 Detroit Tigers At 2012 Seattle Mariners             10/14/2012
+
+[1]  Tigers             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Jackson CF        4  1  1  0 .333     M.Aviles 2B         3  1  1  1 .091  
+  S.Sizemore 3B       4  0  0  0 .143     L.Berkman LF,1B     3  1  1  1 .364  
+  C.Kotchman 1B       5  0  2  1 .375     C.Ruiz C            1  0  0  0 .130  
+  C.Granderson DH     3  0  0  0 .263   A-Y.Torrealba PH,C    2  0  1  2 .286  
+  A.Avila C           2  0  0  0 .300     M.Carp DH           4  1  1  0 .313  
+  R.Raburn LF         3  0  0  0 .333     A.Rodriguez 3B      3  1  1  0 .318  
+  N.Evans RF          4  0  1  0 .167   C-A.Jones PH          1  0  0  0 .258  
+  A.Escobar SS        4  0  0  0 .227   D-K.Seager 3B         0  0  0  0 .429  
+  R.Santiago 2B       3  1  1  0 .250     J.Smoak 1B          1  1  0  0 .318  
+                                        B-C.Crawford LF       2  0  0  0 .176  
+                                          I.Suzuki RF         4  0  1  2 .294  
+                                          F.Gutierrez CF      3  1  2  1 .444  
+                                          B.Ryan SS           0  1  0  0 .190  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  5  1                 Totals      27  7  8  7
+
+A-Pinch Hit For Ruiz In 2nd Inning
+B-Subbed Defensively (LF) For Smoak In 4th Inning
+C-Pinch Hit For Rodriguez In 8th Inning
+D-Subbed Defensively (3B) For Jones In 9th Inning
+
+Tigers.......... 0 0 0  0 2 0  0 0 0  -  2  5  0
+Mariners........ 0 6 0  0 0 0  1 0    -  7  8  0
+
+[1]Tigers (5-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.De La Rosa LOSS(1-1)       4 1/3   8   6   6   1   0   0   5.40  A1 C3
+P.Coke                       2       0   1   1   2   1   0   4.50  C4 D2
+E.Frieri                     1 2/3   0   0   0   0   2   0   3.00  D3
+[1]Totals                    8       8   7   7   3   3   0
+
+[1]Mariners (5-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Morrow WIN(1-1)            8       4   2   2   5   9   0   4.50  A1 D7
+T.Hunter                     0 2/3   1   0   0   1   1   0   9.00  D8 E2
+J.Outman                     0 1/3   0   0   0   0   1   0   0.00  E3
+[1]Totals                    9       5   2   2   6  11   0
+
+ATTENDANCE- 43,571 DATE- Sunday, October 14th 2012 TIME- Night 
+UMPIRES- Dana Demuth, Kerwin Danley, Doug Eddings, Paul Nauert
+T- 3:17
+LEFT ON BASE- Tigers:10  Mariners: 3
+DOUBLE PLAYS- Tigers: 0  Mariners: 0
+DOUBLES- N.Evans(1st), M.Aviles(1st), L.Berkman(3rd), F.Gutierrez(1st)
+STOLEN BASES- B.Ryan(3rd)
+CAUGHT STEALING- I.Suzuki
+SACRIFICE HITS- M.Aviles, B.Ryan-2
+SACRIFICE FLIES- Y.Torrealba
+WALKS- A.Jackson, S.Sizemore, A.Avila-2, R.Raburn, R.Santiago, L.Berkman,
+       J.Smoak, B.Ryan
+HIT BY PITCH- C.Granderson
+STRIKE OUTS- A.Jackson, S.Sizemore, C.Kotchman, C.Granderson-2, A.Avila-2,
+             R.Raburn, N.Evans, A.Escobar, R.Santiago, M.Carp-2, A.Jones
+WILD PITCHES- J.De La Rosa-2, B.Morrow
+2-out RBI- M.Aviles, L.Berkman, Y.Torrealba
+
+Center fielder Franklin Gutierrez had 2 base hits as the Seattle Mariners
+bested the Detroit Tigers 7 to 2 at SAFECO Field.
+
+Brandon Morrow(1-1) was in control of the game from the outset.  He allowed
+just 4 hits and 5 walks in 8 innings.  Morrow racked up 9 strikeouts lowering
+his ERA to 4.50.  Seattle had 8 hits for the night while Detroit had 5.
+
+Jorge De La Rosa(1-1) ended up with the loss.  Seattle scored big getting 6
+runs off him in 4 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2012 Detroit Tigers at 2012 Seattle Mariners
+A.Jackso-A1  A1:K       B1:L/6     C1:W>12 b  D1:G/43    E1:Si
+                                   1                     
+                                                         
+S.Sizemo-A1  A2:G/63    B2:K       C2:F/8     D2:G/43    E2:W>12 b
+                                                         1
+                                                         
+C.Kotchm-A1  A3:Si      B3:G/43    C3:Si>2#   *8*:G/43   E3:K
+                                   13                    
+                                                         
+C.Grande-A1  A4:K       *4*:G/53   C4:WP>3#   D4:HBP
+                                   12 K       
+                                              
+A.Avila-A1   *2*:W>b1   B5:W>b1    C5:K       D5:K
+                                              
+                                              
+R.Raburn-A1  A6:Force/  B6:L/5     *6*:K      D6:W>12 b
+             36>1o b1                         1
+                                              
+N.Evans-A1   A7:L/6     B7:Do>13   C7:K       D7:G/13
+                                              
+                                              
+A.Escoba-A1  A8:K       B8:G/63    C8:L/6     *9*:G/43
+                                              
+                                              
+R.Santia-A1  *3*:Si     *5*:W>b1   *7*:F/9    D9:K
+                                              
+                                              
+
+M.Aviles-A1  A1:G/53    B1:Do>3#   C1:P/6     D1:SB>12
+                                              Sac/14>23
+                                              
+L.Berkma-A1  A2:G/31    B2:WP>23   C2:F/8     D2:IW>b1
+                        Do>3#                 
+                                              
+C.Ruiz-A1    A3:G/63    B3:Si>2#   *5*:FO/2   D3:SF/9>3
+Y.Torrea-B3                                   # 12
+                                              
+M.Carp-A1    *2*:Si     B4:WP>12   C4:K       D4:K
+                        G/63                  
+                                              
+A.Rodrig-A1  A5:Si>13   *3*:G/63   C5:G/13    *8*:K
+A.Jones-D5                                    
+K.Seager-D8                                   
+J.Smoak-A1   A6:W>12 b  B6:G/63    *6*:G/31   D6:F/9
+C.Crawfo-B8  1                                
+                                              
+I.Suzuki-A1  A7:Si>3#   B7:F/8     C7:G/63    D7:G/63
+             2# 13                            
+                                              
+F.Gutier-A1  A8:CS/24>  *4*:Si     C8:G/13
+             1o Do>3#              
+                                   
+B.Ryan-A1    A9:Sac/34  B9:Sac/14  *7*:W>b1
+             >23        >12        
+                                   
+
+

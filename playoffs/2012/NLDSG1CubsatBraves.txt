@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2012 Chicago (NL) Cubs At 2012 Atlanta Braves             10/3/2012
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  R.Johnson LF,CF     5  1  1  0 .200     J.Heyward RF        4  0  0  0 .000  
+  D.Barney 2B         4  1  2  1 .500     O.Infante 2B        4  0  0  0 .000  
+  S.Castro SS         4  1  2  1 .500     F.Freeman 1B        4  1  1  1 .250  
+  A.Ramirez 3B        4  0  1  0 .250     M.Stanton DH        3  2  1  1 .333  
+  R.Hernandez C       4  0  1  1 .250     J.Hamilton CF,LF    4  0  1  0 .250  
+  M.Joyce RF          4  0  2  1 .500     C.Headley 3B        2  1  1  0 .500  
+  M.Byrd CF           3  0  0  0 .000   A-J.Gomes PH          1  0  0  0 .000  
+C-A.Soriano PH,LF     1  0  0  0 .000   B-R.Davis CF          0  0  0  0 ----  
+  D.Lee 1B            4  1  1  0 .250     B.McCann C          3  2  2  3 .667  
+  M.Moreland DH       3  1  1  1 .333   D-R.Tejada PH         1  0  0  0 .000  
+F-R.Theriot PH        0  0  0  0 ----   E-F.Cervelli C        0  0  0  0 ----  
+G-T.Campana PH        1  0  0  0 .000     Y.Escobar SS        4  0  0  0 .000  
+                                          E.Bonifacio LF,3B   4  0  3  1 .750  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 11  5                 Totals      34  6  9  6
+
+A-Pinch Hit For Headley In 7th Inning
+B-Subbed Defensively (CF) For Gomes In 8th Inning
+C-Pinch Hit For Byrd In 8th Inning
+D-Pinch Hit For McCann In 8th Inning
+E-Subbed Defensively (C ) For Tejada In 9th Inning
+F-Pinch Hit For Moreland In 9th Inning
+G-Pinch Hit For Theriot In 9th Inning
+
+Cubs............ 3 1 0  1 0 0  0 0 0  -  5 11  1
+Braves.......... 1 0 0  3 0 1  1 0    -  6  9  1
+
+[1]Cubs (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Collmenter                 6 1/3   7   5   4   2   2   2   5.68  A1 D2
+M.Adams LOSS(0-1)            1 2/3   2   1   1   0   3   1   5.40  D3
+[1]Totals                    8       9   6   5   2   5   3
+
+[1]Braves (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hudson                     6 2/3  10   5   4   0   5   1   5.40  A1 D3
+C.Martinez WIN(1-0)          1       1   0   0   0   0   0   0.00  D4 D6
+J.Venters HOLD(1st)          0 2/3   0   0   0   0   0   0   0.00  D7 D8
+C.Kimbrel SAVE(1st)          0 2/3   0   0   0   0   2   0   0.00  D9
+[1]Totals                    9      11   5   4   0   7   1
+
+ATTENDANCE- 48,370 DATE- Wednesday, October 3rd 2012 TIME- Day 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 2:41
+LEFT ON BASE- Cubs: 5  Braves: 6
+DOUBLE PLAYS- Cubs: 0  Braves: 1
+ERRORS- A.Ramirez, Y.Escobar
+DOUBLES- S.Castro(1st), M.Joyce(1st), B.McCann(1st)
+HOME RUNS- M.Moreland(1st), F.Freeman(1st), M.Stanton(1st), B.McCann(1st)
+STOLEN BASES- M.Byrd(1st)
+CAUGHT STEALING- S.Castro
+WALKS- M.Stanton, C.Headley
+STRIKE OUTS- R.Johnson-3, M.Joyce, M.Byrd, D.Lee, T.Campana, O.Infante,
+             F.Freeman, R.Tejada, Y.Escobar, E.Bonifacio
+GIDP- R.Hernandez
+2-out RBI- F.Freeman, D.Barney, E.Bonifacio, M.Stanton
+
+Brian McCann homered and had 3 RBI as the Atlanta Braves defeated the Chicago
+(NL) Cubs by the score of 6 to 5 at Turner Field.
+
+Atlanta went ahead for good in the bottom of the 7th inning plating one
+baserunner on 2 base hits.  After two were out Mike Stanton delivered a solo
+blast.  Josh Hamilton next to the plate and he slapped a single.  Atlanta
+took care of Chicago (NL) with no trouble in the 9th.  
+
+The winning pitcher was Cristhian Martinez(1-0) who allowed no runs in 1
+inning. Craig Kimbrel was credited with his 1st save.  Mike Adams(0-1) took
+the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2012 Chicago (NL) Cubs at 2012 Atlanta Braves
+R.Johnso-A1  A1:Si      B1:G/63    C1:K       *7*:K      E1:K
+                                                         
+                                                         
+D.Barney-A1  A2:Si>13   B2:G/63    C2:Si>2#   D2:G/63
+                                   13         
+                                              
+S.Castro-A1  A3:Do>3#   B3:F/9     C3:F/8     D3:Si CS/
+             13                               24>1o
+                                              
+A.Ramire-A1  A4:P/3     *3*:L/6    *5*:Si     *8*:F/8
+                                              
+                                              
+R.Hernan-A1  A5:Si>3#   B5:G/53    C5:G-DP/1  D5:G/43
+             23                    63>1o      
+                                              
+M.Joyce-A1   A6:Do>3#   B6:G/53    C6:K       D6:Si
+             13                               
+                                              
+M.Byrd-A1    A7:FC/52>  *4*:F/8    *6*:K      D7:G/3
+A.Sorian-D7  3o 23                            
+                                              
+D.Lee-A1     A8:SB>12   B8:Si      C8:F/9     *9*:G/63
+             K                                
+                                              
+M.Morela-A1  *2*:HR>b#  B9:E/6>12  C9:L/4     D9:K
+R.Therio-D9                                   
+T.Campan-D9                                   
+
+J.Heywar-A1  A1:F/9     B1:Force/  C1:L/3     D1:F/8
+                        64>1o b1              
+                                              
+O.Infant-A1  A2:G/43    B2:K       *5*:F/8    *7*:P/6
+                                              
+                                              
+F.Freema-A1  A3:HR>b#   B3:G/63    C3:P/4     D3:K
+                                              
+                                              
+M.Stanto-A1  A4:L/4     *4*:W>b1   C4:G/63    D4:HR>b#
+                                              
+                                              
+J.Hamilt-A1  *2*:P/4    B5:P/6     *6*:G/13   D5:Si
+                                              
+                                              
+C.Headle-A1  A6:Si      B6:W>12 b  C6:F/8     D6:P/6
+J.Gomes-D6              1                     
+R.Davis-D7                                    
+B.McCann-A1  A7:F/7     B7:HR>2#   C7:Do      *8*:K
+R.Tejada-D7             1# b#                 
+F.Cervel-E1                                   
+Y.Escoba-A1  A8:F/9     B8:K       C8:E/5>23  D8:F/8
+                                              
+                                              
+E.Bonifa-A1  *3*:Si     B9:Si      C9:Si>3#   D9:K
+                                   13         
+                                              
+
+

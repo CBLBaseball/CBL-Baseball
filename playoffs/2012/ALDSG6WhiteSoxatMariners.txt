@@ -1,0 +1,118 @@
+[1]BOXSCORE: 2012 Chicago (AL) White Sox At 2012 Seattle Mariners     10/10/2012
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Pierzynski C      4  0  1  0 .240     C.Ruiz C            4  0  1  0 .133  
+  A.Ramirez SS        3  0  0  0 .231     I.Suzuki RF         4  0  0  0 .304  
+  R.Braun LF          3  0  0  0 .200     L.Berkman DH        4  0  0  0 .250  
+  P.Konerko 1B        4  0  1  0 .440     C.Crawford LF       3  1  0  0 .208  
+  L.Duda RF           2  0  0  0 .100     J.Smoak 1B          3  1  3  0 .353  
+A-B.Lillibridge RF    0  0  0  0 .000     A.Jones CF          3  1  1  2 .318  
+E-G.Parra PH          1  0  0  0 .222     K.Seager 3B         2  0  0  0 .429  
+  B.Morel 3B          4  1  1  0 .313   B-Y.Torrealba PH      1  0  0  0 .273  
+  B.Dewitt DH         3  0  2  1 .375   D-M.Aviles 2B         0  0  0  0 .000  
+  G.Beckham 2B        3  0  1  0 .333     B.Ryan SS           3  0  0  0 .250  
+  E.Chavez CF         3  0  0  0 .200     D.Ackley 2B         2  0  0  0 .286  
+                                        C-A.Rodriguez PH,3B   1  0  1  1 .385  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  6  1                 Totals      30  3  6  3
+
+A-Subbed Defensively (RF) For Duda In 7th Inning
+B-Pinch Hit For Seager In 7th Inning
+C-Pinch Hit For Ackley In 7th Inning
+D-Subbed Defensively (2B) For Torrealba In 8th Inning
+E-Pinch Hit For Lillibridge In 9th Inning
+
+White Sox....... 0 1 0  0 0 0  0 0 0  -  1  6  0
+Mariners........ 0 0 0  0 0 0  3 0    -  3  6  0
+
+[1]White Sox (3-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Humber LOSS(0-2)           6       5   3   3   1   7   0  10.38  A1 C6
+R.Thompson                   0 2/3   0   0   0   0   1   0   0.00  C7 C8
+D.Oliver                     1 1/3   1   0   0   0   0   0   0.00  C9
+[1]Totals                    8       6   3   3   1   8   0
+
+[1]Mariners (3-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Pineda WIN(2-0)            9       6   1   1   2   6   0   1.06  A1
+[1]Totals                    9       6   1   1   2   6   0
+
+ATTENDANCE- 45,342 DATE- Wednesday, October 10th 2012 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 2:27
+LEFT ON BASE- White Sox: 5  Mariners: 4
+DOUBLE PLAYS- White Sox: 0  Mariners: 2
+DOUBLES- B.Morel(1st), J.Smoak(2nd), A.Jones(1st)
+SACRIFICE HITS- A.Ramirez
+WALKS- R.Braun, L.Duda, C.Crawford
+STRIKE OUTS- A.Ramirez-2, R.Braun-2, P.Konerko-2, I.Suzuki, L.Berkman-3,
+             A.Jones, K.Seager, B.Ryan, D.Ackley
+GIDP- P.Konerko, B.Morel
+2-out RBI- A.Rodriguez
+
+Michael Pineda allowed Eric Wedge to rest his bullpen, tossing a complete game
+as the Seattle Mariners topped the Chicago (AL) White Sox by a score of 3 to
+1 at SAFECO Field.
+
+Pineda(2-0) pitched a solid game.  He didn't give up much, just 6 hits and 2
+walks in 9 innings.  Chicago (AL) was set down quietly in the 9th.  
+
+Philip Humber(0-2) was charged with the loss.  He surrendered 3 runs and 5
+hits in 6 innings.
+[2]
+[1]SCORESHEET: 2012 Chicago (AL) White Sox at 2012 Seattle Mariners
+A.Pierzy-A1  A1:Si      *3*:F/7    C1:G/43    *8*:L/4
+                                              
+                                              
+A.Ramire-A1  A2:Sac/54  B2:K       *6*:K      D2:G/63
+             >12                              
+                                              
+R.Braun-A1   A3:K       B3:K       C3:W>b1    D3:G/63
+                                              
+                                              
+P.Konerk-A1  A4:K       *4*:Si     C4:G-DP/5  *9*:K
+                                   43>1o      
+                                              
+L.Duda-A1    *2*:F/8    B5:W>12 b  *7*:L/4    D5:G/63
+B.Lillib-D1             1                     
+G.Parra-D5                                    
+B.Morel-A1   A6:Do      B6:G-DP/4  C6:FO/5    D6:G/63
+                        63>23 1o              
+                                              
+B.Dewitt-A1  A7:Si>2#   B7:G/43    C7:Si
+                                   
+                                   
+G.Beckha-A1  A8:F/8     *5*:G/63   C8:Si>13
+                                   
+                                   
+E.Chavez-A1  A9:F/8     B9:G/63    C9:Force/
+                                   46>1o b1
+                                   
+
+C.Ruiz-A1    A1:Si      B1:L/6     *6*:G/63   D1:F/9
+                                              
+                                              
+I.Suzuki-A1  A2:FO/5    B2:K       C2:F/9     *8*:P/3
+                                              
+                                              
+L.Berkma-A1  A3:K       *4*:K      C3:K       D3:G/13
+                                              
+                                              
+C.Crawfo-A1  A4:F/8     B4:G/43    *7*:W>b1   D4:G/53
+                                              
+                                              
+J.Smoak-A1   *2*:Si     B5:Si      C5:Do>13
+                                   
+                                   
+A.Jones-A1   A6:K       B6:FO/2    C6:Do>3#
+                                   2#
+                                   
+K.Seager-A1  A7:K       *5*:P/6    C7:F/7
+Y.Torrea-C7                        
+M.Aviles-D2                        
+B.Ryan-A1    A8:G/63    B8:G/63    C8:K
+                                   
+                                   
+D.Ackley-A1  *3*:K      B9:G/31    C9:Si>2#
+A.Rodrig-C9                        
+                                   
+
+

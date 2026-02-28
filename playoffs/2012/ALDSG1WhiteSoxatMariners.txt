@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2012 Chicago (AL) White Sox At 2012 Seattle Mariners      10/3/2012
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Ramirez SS        5  1  1  0 .200     D.Ackley 2B         2  1  1  0 .500  
+  R.Braun LF          5  1  1  0 .200   J-F.Gutierrez PH      1  0  0  0 .000  
+  P.Konerko 1B        6  1  3  0 .500     C.Ruiz C            5  0  0  0 .000  
+  A.Pierzynski C      4  1  1  1 .250     L.Berkman RF        4  0  2  2 .500  
+H-J.Lucroy PH,C       0  0  0  1 ----     C.Crawford LF       4  0  1  0 .250  
+  A.De Aza CF         2  0  0  0 .000     J.Smoak 1B          3  1  1  1 .333  
+D-E.Chavez PH,RF      3  0  1  0 .333     K.Seager 3B         2  0  1  0 .500  
+  A.Craig DH          3  2  2  3 .667   F-M.Carp PH           0  0  0  0 ----  
+E-J.Harrison PH,DH    2  0  0  0 .000   G-A.Rodriguez 3B      0  0  0  0 ----  
+  J.Altuve 2B         2  1  2  01.000     A.Jones CF          4  0  1  0 .250  
+A-B.Dewitt PH         1  1  1  21.000     I.Suzuki DH         4  0  1  0 .250  
+C-G.Beckham 2B        1  0  1  01.000     B.Ryan SS           3  1  2  0 .667  
+  L.Duda RF           2  1  1  1 .500   I-Y.Torrealba PH      1  0  0  0 .000  
+B-G.Parra PH,RF,CF    3  1  1  0 .333                                          
+  B.Morel 3B          4  0  3  1 .750                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43 10 18  9                 Totals      33  3 10  3
+
+A-Pinch Hit For Altuve In 5th Inning
+B-Pinch Hit For Duda In 5th Inning
+C-Subbed Defensively (2B) For Dewitt In 5th Inning
+D-Pinch Hit For De Aza In 6th Inning
+E-Pinch Hit For Craig In 6th Inning
+F-Pinch Hit For Seager In 6th Inning
+G-Subbed Defensively (3B) For Carp In 7th Inning
+H-Pinch Hit For Pierzynski In 7th Inning
+I-Pinch Hit For Ryan In 9th Inning
+J-Pinch Hit For Ackley In 9th Inning
+
+White Sox....... 0 0 0  3 6 0  1 0 0  - 10 18  0
+Mariners........ 0 0 2  0 0 1  0 0 0  -  3 10  2
+
+[1]White Sox (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay WIN(1-0)          7 2/3   9   3   3   4   4   1   3.52  A1 D6
+R.Thompson                   1 1/3   1   0   0   0   0   0   0.00  D7
+[1]Totals                    9      10   3   3   4   4   1
+
+[1]Mariners (0-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister LOSS(0-1)           4 1/3   9   7   7   2   2   1  14.54  A1 C6
+T.Hunter                     2       7   3   2   1   1   1   9.00  C7 E3
+D.Pauley                     1 1/3   1   0   0   1   1   0   0.00  E4 E9
+F.Salas                      1 1/3   1   0   0   0   0   0   0.00  F1
+[1]Totals                    9      18  10   9   4   4   2
+
+ATTENDANCE- 45,942 DATE- Wednesday, October 3rd 2012 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 3:40
+LEFT ON BASE- White Sox:13  Mariners: 8
+DOUBLE PLAYS- White Sox: 4  Mariners: 0
+ERRORS- C.Crawford, J.Smoak
+DOUBLES- J.Altuve(1st), L.Duda(1st)
+TRIPLES- L.Berkman(1st)
+HOME RUNS- A.Craig(1st), B.Dewitt(1st), J.Smoak(1st)
+STOLEN BASES- E.Chavez(1st), C.Crawford(1st)
+SACRIFICE HITS- A.Ramirez, J.Lucroy
+SACRIFICE FLIES- J.Lucroy
+WALKS- R.Braun, A.De Aza, G.Beckham, B.Morel, D.Ackley-2, M.Carp, A.Rodriguez
+HIT BY PITCH- J.Smoak
+STRIKE OUTS- P.Konerko, J.Harrison, L.Duda, B.Morel, D.Ackley, C.Crawford,
+             J.Smoak, A.Jones
+GIDP- C.Ruiz-3, K.Seager
+2-out RBI- L.Berkman-2, A.Craig, L.Duda, B.Morel, J.Smoak
+
+The Chicago (AL) White Sox had an easy time of it at SAFECO Field defeating
+the Seattle Mariners by a score of 10 to 3.
+
+Chicago (AL) took the lead for good in the 4th inning when they scored 3 runs
+on 4 hits.  Chicago (AL) out-hit Seattle for the game, 18 hits to 10.  
+
+The victory went to Roy Halladay(1-0) who went 7 and 2/3 innings, allowing 3
+runs. Doug Fister(0-1) was the losing pitcher.  He was hit hard and gave up 9
+hits and 2 walks in 4 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2012 Chicago (AL) White Sox at 2012 Seattle Mariners
+A.Ramire-A1  A1:G/63    B1:Sac/14  C1:G/53    D1:P/6     E1:Si      F1:G/63
+                        >12                                         
+                                                                    
+R.Braun-A1   A2:F/8     B2:G/63    *5*:W>b1   D2:E/7>3#  E2:Si>12   *9*:F/9
+                                              13 b2                 
+                                                                    
+P.Konerk-A1  A3:K       B3:G/63    C3:Si>13   D3:F/8     E3:Si>23   F3:Si
+                                                         12         
+                                                                    
+A.Pierzy-A1  *2*:F/8    *4*:G/43   C4:Si>3#   *6*:F/9    E4:SF/8>3  F4:Sac/14
+J.Lucroy-E4                        13                    #          >12
+                                                                    
+A.De Aza-A1  A5:W>b1    B5:G/43    C5:G/43>1  D5:Si      E5:F/9     F5:FO/2
+E.Chavez-D5                        2                                
+                                                                    
+A.Craig-A1   A6:Force/  B6:HR>b#   C6:Si>3#   D6:SB>12   *8*:K
+J.Harris-D6  36>1o b1              2#         G/63       
+                                                         
+J.Altuve-A1  A7:Do>13   B7:Si      C7:HR>2#   D7:W>b1    E7:Si
+B.Dewitt-C7                        b#                    
+G.Beckha-D4                                              
+L.Duda-A1    A8:K       B8:Do>1#   C8:Si      D8:F/9     E8:L/4
+G.Parra-C8                                               
+                                                         
+B.Morel-A1   *3*:Si     B9:Si+E/3  C9:Si>13   *7*:K      E9:W>12 b
+                        >3#                              1
+                                                         
+
+D.Ackley-A1  A1:Si      B1:W>12 b  C1:K       D1:W>12 b  E1:G/53
+F.Gutier-E1             1                     1          
+                                                         
+C.Ruiz-A1    A2:G-DP/6  B2:F/8     C2:G-DP/6  D2:G-DP/4  E2:G/63
+             43>1o                 43>1o      63>1o      
+                                                         
+L.Berkma-A1  A3:Si      B3:Tr>2#   *6*:G/43   *8*:G/43
+                        1#                    
+                                              
+C.Crawfo-A1  A4:G/63    B4:G/43    C4:K       D4:Si
+                                              
+                                              
+J.Smoak-A1   *2*:HBP    *4*:K      C5:HR>b#   D5:SB>12
+                                              G/13
+                                              
+K.Seager-A1  A6:G-DP/1  B6:Si      C6:W>b1    D6:W>b1
+M.Carp-C6    63>1o                            
+A.Rodrig-C8                                   
+A.Jones-A1   A7:K       B7:L/6     C7:F/7     D7:Si>23
+                                              12
+                                              
+I.Suzuki-A1  *3*:G/43   B8:Force/  *7*:Si     D8:G/3
+                        46>1o b1              
+                                              
+B.Ryan-A1    A9:Si      *5*:Si     C9:F/7     *9*:F/8
+Y.Torrea-D9                                   
+                                              
+
+

@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2012 Houston Astros At 2012 Philadelphia Phillies         10/8/2012
+
+[1]  Astros             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  M.Bourn CF          4  1  1  0 .300     C.Utley 2B          3  1  1  0 .286  
+  J.Bourgeois LF      4  0  0  0 .000   B-J.Thome PH          1  0  0  0 .000  
+  H.Pence RF          4  1  2  2 .222   C-N.Punto 2B          0  0  0  0 ----  
+  T.Tulowitzki SS     4  0  1  0 .350     M.Young DH          5  0  1  0 .400  
+  A.Beltre 3B         3  1  1  0 .316     D.Dejesus RF        5  2  1  0 .214  
+  G.Sanchez 1B        3  0  1  0 .353     J.Bautista 3B       4  2  2  0 .167  
+  T.Wigginton DH      4  0  0  1 .000     R.Howard 1B         4  1  1  4 .400  
+  A.Miles 2B          3  0  0  0 .556     V.Martinez C        3  2  3  2 .500  
+  M.Olivo C           3  0  0  0 .278     J.Mayberry Jr LF    1  0  0  0 .538  
+                                        A-T.Gwynn Jr PH,LF    1  0  0  0 .200  
+                                          S.Victorino CF      4  1  2  1 .238  
+                                          J.Rollins SS        4  0  1  2 .211  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      35  9 12  9
+
+A-Pinch Hit For Mayberry Jr In 4th Inning
+B-Pinch Hit For Utley In 7th Inning
+C-Subbed Defensively (2B) For Thome In 8th Inning
+
+Astros.......... 0 1 2  0 0 0  0 0 0  -  3  6  1
+Phillies........ 2 1 0  0 5 0  1 0    -  9 12  0
+
+[1]Astros (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Gallardo LOSS(0-1)         4 2/3   8   8   6   2   5   1  10.24  A1 C8
+M.Guerrier                   1 1/3   2   0   0   0   0   0   0.00  C9 D5
+C.Hensley                    2       2   1   1   1   2   0   3.38  D6
+[1]Totals                    8      12   9   7   3   7   1
+
+[1]Phillies (2-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels WIN(1-0)            9       6   3   3   2   7   1   5.40  A1
+[1]Totals                    9       6   3   3   2   7   1
+
+ATTENDANCE- 40,202 DATE- Monday, October 8th 2012 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:53
+LEFT ON BASE- Astros: 4  Phillies: 8
+DOUBLE PLAYS- Astros: 0  Phillies: 1
+ERRORS- G.Sanchez
+DOUBLES- M.Bourn(2nd), H.Pence(2nd), J.Bautista(1st), V.Martinez-2(3rd),
+         S.Victorino(1st)
+TRIPLES- S.Victorino(1st)
+HOME RUNS- H.Pence(2nd), R.Howard(2nd)
+SACRIFICE HITS- T.Gwynn Jr-2
+WALKS- A.Beltre, G.Sanchez, J.Bautista, R.Howard, V.Martinez
+HIT BY PITCH- C.Utley
+STRIKE OUTS- J.Bourgeois, H.Pence, T.Tulowitzki, G.Sanchez, T.Wigginton,
+             A.Miles, M.Olivo, J.Thome, D.Dejesus, J.Bautista, R.Howard,
+             J.Mayberry Jr, S.Victorino-2
+GIDP- A.Beltre
+2-out RBI- V.Martinez-2, S.Victorino, J.Rollins
+WEB GEMS- Top 1st: David Dejesus robbed Troy Tulowitzki of an extra base hit.
+
+Cole Hamels pitched a complete game as the Philadelphia Phillies topped the
+Houston Astros by a score of 9 to 3 at Citizens Bank Park.
+
+Hamels(1-0) had a solid outing for Philadelphia.  He went 9 innings allowing 6
+hits and 2 walks.  Philadelphia finished with 12 hits in the victory.
+
+Yovani Gallardo(0-1) ended up with the loss.  He got hit pretty hard, allowing
+8 hits and 2 walks in 4 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2012 Houston Astros at 2012 Philadelphia Phillies
+M.Bourn-A1   A1:G/43    *3*:Do     C1:L/4     *8*:G/31
+                                              
+                                              
+J.Bourge-A1  A2:K       B2:G/13    C2:G/31    D2:L/5
+                                              
+                                              
+H.Pence-A1   A3:Do      B3:HR>2#   *6*:L/6    D3:K
+                        b#                    
+                                              
+T.Tulowi-A1  A4:F/9     B4:K       C4:Si      *9*:F/8
+                                              
+                                              
+A.Beltre-A1  *2*:W>b1   B5:G/63    C5:G-DP/6  D5:Si
+                                   43>1o      
+                                              
+G.Sanche-A1  A6:Si>13   *4*:G/63   *7*:W>b1   D6:K
+                                              
+                                              
+T.Wiggin-A1  A7:G/53>3  B7:G/63    C7:K       D7:F/8
+             # 12                             
+                                              
+A.Miles-A1   A8:F/7     B8:G/63    C8:K
+                                   
+                                   
+M.Olivo-A1   A9:K       *5*:P/2    C9:G/53
+                                   
+                                   
+
+C.Utley-A1   A1:F/9     B1:G/43    *5*:HBP    *6*:Si     E1:K
+J.Thome-E1                                               
+N.Punto-E2                                               
+M.Young-A1   A2:G/31    B2:G/43    C2:L/6     D2:Si>12   *8*:F/9
+                                                         
+                                                         
+D.Dejesu-A1  A3:E/3     *3*:K      C3:Si>13   D3:G/23>2  E3:F/8
+                                              3 12       
+                                                         
+J.Bautis-A1  A4:Si>12   B4:K       C4:W>12 b  D4:P/5     E4:Do
+                                   1                     
+                                                         
+R.Howard-A1  A5:W>23 1  B5:K       C5:HR>3#   D5:F/8     E5:F/7
+             2 b1                  2# 1# b#              
+                                                         
+V.Martin-A1  A6:Do>3#   *4*:Si     C6:Do      *7*:W>b1
+             2# 13                            
+                                              
+J.Mayber-A1  A7:K       B7:Sac/24  C7:G/43>2  D7:Sac/24
+T.Gwynn -B7             >12        3          >12
+                                              
+S.Victor-A1  *2*:Tr     B8:K       C8:Do>3#   D8:K
+                                              
+                                              
+J.Rollin-A1  A9:G/43>3  B9:L/6     C9:G/31    D9:Si>2#
+             #                                
+                                              
+
+

@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2012 Seattle Mariners At 2012 Detroit Tigers             10/18/2012
+
+[1]  Mariners           AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  D.Ackley 2B         2  1  0  0 .185     A.Jackson CF        4  0  0  0 .243  
+A-M.Aviles PH,2B      2  0  1  1 .200     A.Escobar SS        4  0  1  0 .171  
+  A.Jones CF,RF       5  2  2  0 .244     C.Kotchman 1B       4  0  0  0 .353  
+  L.Berkman RF,1B     4  0  0  1 .318     C.Granderson RF     4  2  3  1 .333  
+  M.Carp DH           4  2  2  2 .348     A.Avila C           3  1  0  0 .241  
+E-I.Suzuki PH,DH      1  0  0  0 .275     B.Boesch DH         4  0  1  1 .269  
+  J.Smoak 1B          4  0  2  1 .357     W.Betemit 3B        2  0  0  0 .462  
+F-F.Gutierrez PH,CF   1  0  0  0 .385   C-S.Sizemore PH,3B    1  0  0  0 .167  
+  C.Crawford LF       4  1  3  1 .233     A.Dirks LF          2  0  0  0 .000  
+  C.Ruiz C            2  0  0  0 .219   D-R.Raburn PH,LF      2  0  0  0 .313  
+B-Y.Torrealba PH,C    2  0  0  0 .273     R.Santiago 2B       2  0  0  0 .182  
+  K.Seager 3B         1  1  0  0 .273                                          
+  B.Ryan SS           4  0  1  1 .241                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  7 11  7                 Totals      32  3  5  2
+
+A-Pinch Hit For Ackley In 6th Inning
+B-Pinch Hit For Ruiz In 7th Inning
+C-Pinch Hit For Betemit In 7th Inning
+D-Pinch Hit For Dirks In 7th Inning
+E-Pinch Hit For Carp In 9th Inning
+F-Pinch Hit For Smoak In 9th Inning
+
+Mariners........ 3 0 0  0 0 2  2 0 0  -  7 11  1
+Tigers.......... 0 0 0  0 0 1  0 0 2  -  3  5  2
+
+[1]Mariners (7-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(1-0)         8       5   3   3   2  13   1   1.73  A1 D6
+F.Salas                      1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       5   3   3   2  14   1
+
+[1]Tigers (6-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lecure LOSS(0-1)           5 2/3   5   5   5   4   7   0   6.43  A1 C9
+P.Coke                       0 2/3   5   2   2   0   0   0   6.35  D1 D6
+E.Frieri                     1 1/3   0   0   0   1   2   0   1.69  D7 E2
+J.Spence                     0 1/3   0   0   0   0   0   0  27.00  E3 E3
+A.Alburquerq                 0 1/3   0   0   0   0   0   0   0.00  E4 E4
+F.Francisco                  0 2/3   1   0   0   0   1   0   0.00  E5
+[1]Totals                    9      11   7   7   5  10   0
+
+ATTENDANCE- 39,953 DATE- Thursday, October 18th 2012 TIME- Night 
+UMPIRES- Tim McClelland, Ted Barrett, Brian Runge, Marvin Hudson
+T- 3:07
+LEFT ON BASE- Mariners: 9  Tigers: 5
+DOUBLE PLAYS- Mariners: 1  Tigers: 0
+ERRORS- D.Ackley, C.Granderson, W.Betemit
+DOUBLES- M.Aviles(2nd), A.Jones(2nd), M.Carp(2nd), J.Smoak(3rd),
+         C.Crawford-2(3rd)
+HOME RUNS- C.Granderson(3rd)
+SACRIFICE HITS- C.Ruiz
+SACRIFICE FLIES- L.Berkman
+WALKS- D.Ackley, C.Crawford, K.Seager-3, A.Avila, R.Santiago
+HIT BY PITCH- S.Sizemore
+STRIKE OUTS- D.Ackley, A.Jones, M.Carp, J.Smoak-2, C.Crawford, C.Ruiz,
+             Y.Torrealba-2, K.Seager, A.Jackson-3, A.Escobar, C.Kotchman-4,
+             A.Avila, B.Boesch-2, W.Betemit, R.Raburn, R.Santiago
+GIDP- S.Sizemore
+2-out RBI- B.Ryan, M.Aviles, C.Granderson
+WEB GEMS- Top 6th: Alex Avila blocked the plate, saving a run!
+
+Felix Hernandez whiffed 13 batters as the Seattle Mariners beat the Detroit
+Tigers by a score of 7 to 3.
+
+Hernandez(1-0) looked very much in control throughout the night.  He allowed
+just 5 hits and 2 walks in 8 innings.  Seattle out-hit Detroit for the game,
+11 hits to 5.  
+
+Sam Lecure(0-1) was the loser.  Hernandez didn't realize how many strikeouts
+he was racking up.  When told he had 13 he was obviously surprised, 'No
+kidding? Man, I knew that I had a decent total, but I didn't think I had K'd
+that many.  Say, that's pretty good, isn't it?'
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Detroit Tigers
+D.Ackley-A1  A1:W>b1    *2*:FO/3   C1:K       D1:Do>2#   *8*:G/31
+M.Aviles-D1                                   1o         
+                                                         
+A.Jones-A1   A2:Si+E/5  B2:E/9>b2  *5*:G/43   *7*:Do     E2:K
+             >13                                         
+                                                         
+L.Berkma-A1  A3:SF/7>3  B3:F/9     C3:L/4     D3:FO/5    E3:G/43
+             # 23                                        
+                                                         
+M.Carp-A1    A4:Do>3#   B4:P/2     C4:K       D4:Si>2#   *9*:G/53
+I.Suzuki-E4                                              
+                                                         
+J.Smoak-A1   A5:Do>2#   *3*:K      *6*:K      D5:Si>13   E5:L/4
+F.Gutier-E5                                              
+                                                         
+C.Crawfo-A1  A6:W>b1    B6:K       C6:Do      D6:Si>3#   E6:Do
+                                              12         
+                                                         
+C.Ruiz-A1    A7:K       B7:G/43    C7:Sac/34  D7:K       E7:K
+Y.Torrea-D7                        >23                   
+                                                         
+K.Seager-A1  A8:W>23 1  *4*:K      C8:W>b1    D8:W>23 1
+             2 b1                             2 b1
+                                              
+B.Ryan-A1    A9:G/13    B9:G/63    C9:Si>3#   D9:F/8
+                                   12         
+                                              
+
+A.Jackso-A1  A1:K       B1:K       C1:G/63    *8*:K
+                                              
+                                              
+A.Escoba-A1  A2:Si      B2:K       *6*:G/13   D2:G/63
+                                              
+                                              
+C.Kotchm-A1  A3:K       *4*:K      C3:K       D3:K
+                                              
+                                              
+C.Grande-A1  A4:Si>13   B4:G/43    C4:HR>b#   *9*:Si
+                                              
+                                              
+A.Avila-A1   A5:K       B5:E/4     C5:G/43    D5:W>12 b
+                                              1
+                                              
+B.Boesch-A1  *2*:K      B6:K       *7*:F/8    D6:Si>2#
+                                              13
+                                              
+W.Betemi-A1  A7:K       *5*:L/4    C7:HBP     D7:G-DP/6
+S.Sizemo-C7                                   43>3# 1o
+                                              
+A.Dirks-A1   A8:G/31    B8:G/63    C8:F/7     D8:K
+R.Raburn-C8                                   
+                                              
+R.Santia-A1  *3*:K      B9:W>b1    C9:G/13
+                                   
+                                   
+
+

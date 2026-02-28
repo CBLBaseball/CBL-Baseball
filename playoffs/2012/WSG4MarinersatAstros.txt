@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2012 Seattle Mariners At 2012 Houston Astros             10/27/2012
+
+[1]  Mariners           AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  C.Crawford LF       6  0  2  0 .254     M.Bourn CF          5  1  1  0 .278  
+  C.Ruiz C            4  1  3  0 .216     G.Sanchez 1B        5  1  2  0 .234  
+C-F.Gutierrez PR,CF   1  0  0  0 .368     H.Pence RF          5  0  1  0 .200  
+  L.Berkman DH        4  0  2  0 .303     T.Tulowitzki SS     5  0  1  0 .227  
+  A.Jones CF,RF       5  0  1  0 .250     A.Beltre 3B         5  1  2  0 .286  
+  J.Smoak 1B          3  1  2  0 .289     C.Quentin DH        5  2  3  4 .196  
+  I.Suzuki RF         3  0  0  0 .200     A.Miles 2B          3  0  0  0 .350  
+A-K.Blanks PH,RF      1  0  0  0 .091     M.Olivo C           4  1  1  1 .200  
+D-Y.Torrealba C       1  0  0  0 .222     J.Martinez LF       2  0  0  0 .077  
+  A.Rodriguez 3B      5  1  2  2 .289   B-N.Schierholtz PH,LF 2  0  1  0 .417  
+  D.Ackley 2B         4  1  0  0 .195                                          
+  B.Ryan SS           5  1  2  2 .277                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42  5 14  4                 Totals      41  6 12  5
+
+A-Pinch Hit For Suzuki In 7th Inning
+B-Pinch Hit For Martinez In 7th Inning
+C-Pinch Ran For Ruiz In 9th Inning
+D-Subbed Defensively (C ) For Blanks In 9th Inning
+
+Mariners........ 0 0 0  3 1 0  0 1 0  0 0 -  5 14  0
+Astros.......... 1 1 3  0 0 0  0 0 0  0 1 -  6 12  1
+
+[1]Mariners (10-8)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Morrow                     6 2/3  10   5   5   0   6   2   4.25  A1 D2
+F.Salas                      1 1/3   1   0   0   1   2   0   0.00  D3 D8
+J.Outman                     0 2/3   0   0   0   0   1   0   2.08  D9 E1
+L.Lynn                       1 1/3   0   0   0   0   2   0   5.40  E2 E5
+D.Pauley LOSS(1-2)           0       1   1   1   0   0   1   6.75  E6
+[1]Totals                   10      12   6   6   1  11   3
+
+[1]Astros (10-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Gallardo                   6 1/3  10   4   2   4   6   0   5.40  A1 D5
+G.Balfour BS(1st)            1 2/3   1   1   1   0   2   1   1.29  D6 E1
+M.Guerrier                   2 1/3   3   0   0   0   0   0   0.00  E2 F1
+W.Lopez WIN(1-1)             0 2/3   0   0   0   1   0   0   1.13  F2
+[1]Totals                   11      14   5   3   5   8   1
+
+ATTENDANCE- 38,538 DATE- Saturday, October 27th 2012 TIME- Night 
+UMPIRES- Dana Demuth, Kerwin Danley, Doug Eddings, Paul Nauert
+T- 3:11
+LEFT ON BASE- Mariners:11  Astros: 6
+DOUBLE PLAYS- Mariners: 1  Astros: 3
+ERRORS- H.Pence
+DOUBLES- B.Ryan(3rd), G.Sanchez-2(6th), H.Pence(4th), C.Quentin(2nd)
+TRIPLES- M.Bourn(3rd)
+HOME RUNS- A.Rodriguez(1st), C.Quentin-2(4th), M.Olivo(5th)
+CAUGHT STEALING- J.Smoak
+SACRIFICE HITS- A.Jones
+WALKS- C.Ruiz, L.Berkman-2, J.Smoak, D.Ackley, A.Miles
+HIT BY PITCH- J.Smoak
+STRIKE OUTS- C.Crawford-2, I.Suzuki-2, A.Rodriguez, D.Ackley-2, B.Ryan, M.Bourn,
+             H.Pence-2, T.Tulowitzki-2, A.Beltre, C.Quentin-2, M.Olivo-2,
+             N.Schierholtz
+GIDP- C.Ruiz, J.Smoak, K.Blanks, M.Bourn
+BALKS- B.Morrow
+2-out RBI- C.Quentin-3, B.Ryan-2, A.Rodriguez
+
+Carlos Quentin cracked 2 homeruns and had 4 RBI as the Houston Astros bested
+the Seattle Mariners in 11 innings 6 to 5 at Minute Maid Park.
+
+The score was tied at 5 after nine.  Houston came out on top in the 11th
+inning.  Quentin smashed a solo-shot out of the park giving Houston the
+victory as 38,538 happy fans celebrated wildly.  Houston managed 12 hits in
+their victory.  
+
+Wilton Lopez(1-1) was the winner allowing no runs in 2/3 of an inning. David
+Pauley(1-2) absorbed the loss in relief.  'Actually, I didn't feel that
+comfortable at the plate tonight' Quentin said after the game.  'Despite
+that, I'm happy with the results!
+[2]
+[1]SCORESHEET: 2012 Seattle Mariners at 2012 Houston Astros
+C.Crawfo-A1  A1:Si      B1:K       C1:K       D1:G/43    E1:L/4     F1:Si
+                                                                    
+                                                                    
+C.Ruiz-A1    A2:G-DP/6  B2:Si>12   *5*:Si     D2:W>b1    *9*:Si     F2:G/43>1
+F.Gutier-E3  43>1o                                                  2
+                                                                    
+L.Berkma-A1  A3:Si      B3:Si>23   C3:W>12 b  D3:P/6     E3:F/8     F3:IW>b1
+                        12         1                                
+                                                                    
+A.Jones-A1   A4:G/63    B4:G/13    C4:Sac/14  *7*:F/8    E4:Si>12   F4:G/63
+                                   >23 12                           
+                                                                    
+J.Smoak-A1   *2*:Si     *4*:HBP    C5:W>b1    D5:Si      E5:G-DP/5
+                                                         43>1o
+                                                         
+I.Suzuki-A1  A6:CS/26>  B6:F/8     C6:K       D6:G-DP/1  *10*:F/8
+K.Blanks-D6  1o K                             63>1o      
+Y.Torrea-E6                                              
+A.Rodrig-A1  A7:K       B7:F/8     C7:Si>3#   *8*:HR>b#  E7:G/63
+                                   23 12                 
+                                                         
+D.Ackley-A1  *3*:K      B8:W>12 b  C8:G/43    D8:K       E8:FO/3
+                        1                                
+                                                         
+B.Ryan-A1    A9:Si      B9:Do+E/9  *6*:F/8    D9:K       *11*:F/8
+                        >2# 1# b#                        
+                                                         
+
+M.Bourn-A1   A1:Tr      B1:G/31    C1:K       D1:G-DP/5  E1:F/8
+                                              43>1o      
+                                                         
+G.Sanche-A1  A2:Bk>3#   *3*:Do     *5*:G/43   D2:Do      E2:F/9
+             P/4                                         
+                                                         
+H.Pence-A1   A3:G/3     B3:K       C3:Do      D3:K       *10*:G/63
+                                                         
+                                                         
+T.Tulowi-A1  A4:Si      B4:G/63    C4:F/8     *8*:K      E4:K
+                                                         
+                                                         
+A.Beltre-A1  A5:Si>13   B5:Si>23   C5:F/7     D5:G/13    E5:K
+                                                         
+                                                         
+C.Quenti-A1  A6:K       B6:HR>3#   *6*:K      D6:Do      *11*:HR>b
+                        1# b#                            #
+                                                         
+A.Miles-A1   *2*:G/63   B7:G/31    C7:G/53    D7:IW>b1
+                                              
+                                              
+M.Olivo-A1   A8:HR>b#   *4*:K      C8:K       D8:L/5
+                                              
+                                              
+J.Martin-A1  A9:F/8     B9:F/8     *7*:Si     *9*:K
+N.Schier-C9                                   
+                                              
+
+

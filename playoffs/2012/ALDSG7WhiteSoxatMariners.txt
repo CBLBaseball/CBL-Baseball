@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2012 Chicago (AL) White Sox At 2012 Seattle Mariners     10/11/2012
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Altuve 2B         2  0  1  0 .636     C.Crawford LF       4  1  1  0 .214  
+A-G.Beckham 2B        2  0  1  0 .357     C.Ruiz C            3  2  1  1 .167  
+  A.Ramirez SS        4  0  1  0 .233     L.Berkman DH        4  0  4  0 .357  
+  R.Braun LF          4  1  2  1 .241     M.Carp 1B           4  0  2  1 .333  
+  P.Konerko 1B        4  0  1  0 .414   C-F.Gutierrez PR,CF   0  0  0  0 .333  
+  L.Duda RF           4  0  0  0 .071     A.Rodriguez 3B      4  0  1  0 .353  
+  A.Craig DH          3  0  1  0 .400     I.Suzuki RF         4  0  1  0 .296  
+E-J.Lucroy PH,DH      1  0  0  0 .167     A.Jones CF          4  0  1  0 .308  
+  E.Chavez CF         2  0  1  0 .250   D-J.Smoak 1B          0  0  0  0 .353  
+B-G.Parra CF          2  0  1  0 .250     D.Ackley 2B         2  1  0  0 .250  
+  A.Pierzynski C      4  0  0  0 .207     B.Ryan SS           4  0  0  0 .200  
+  B.Morel 3B          3  0  1  0 .316                                          
+F-B.Dewitt PH         1  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  1 10  1                 Totals      33  4 11  2
+
+A-Subbed Defensively (2B) For Altuve In 3rd Inning
+B-Subbed Defensively (CF) For Chavez In 4th Inning
+C-Pinch Ran For Carp In 7th Inning
+D-Subbed Defensively (1B) For Jones In 8th Inning
+E-Pinch Hit For Craig In 8th Inning
+F-Pinch Hit For Morel In 9th Inning
+
+White Sox....... 0 0 0  0 0 0  0 1 0  -  1 10  2
+Mariners........ 1 0 1  2 0 0  0 0    -  4 11  0
+
+[1]White Sox (3-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay LOSS(1-2)         7      11   4   1   2   6   0   2.28  A1 D7
+C.Sale                       1       0   0   0   1   0   0   0.00  D8
+[1]Totals                    8      11   4   1   3   6   0
+
+[1]Mariners (4-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister WIN(2-1)            8      10   1   1   0   4   1   3.98  A1 D6
+B.League SAVE(2nd)           1       0   0   0   0   0   0   2.70  D7
+[1]Totals                    9      10   1   1   0   4   1
+
+ATTENDANCE- 46,102 DATE- Thursday, October 11th 2012 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 2:28
+LEFT ON BASE- White Sox: 8  Mariners:10
+DOUBLE PLAYS- White Sox: 1  Mariners: 1
+ERRORS- P.Konerko, B.Morel
+DOUBLES- B.Morel(2nd)
+HOME RUNS- R.Braun(1st)
+STOLEN BASES- F.Gutierrez(1st)
+CAUGHT STEALING- C.Crawford
+SACRIFICE HITS- D.Ackley
+SACRIFICE FLIES- C.Ruiz
+WALKS- C.Crawford, C.Ruiz, D.Ackley
+STRIKE OUTS- A.Ramirez, R.Braun, L.Duda-2, C.Ruiz, M.Carp, A.Rodriguez,
+             I.Suzuki, A.Jones-2
+GIDP- R.Braun, M.Carp
+2-out RBI- M.Carp
+
+Mike Carp had 2 base hits as the Seattle Mariners outscored the Chicago (AL)
+White Sox 4 to 1.
+
+The game started off with Seattle taking the lead in the first scoring a
+single run utilizing 2 base hits.  Chicago (AL) was set down quietly in the
+9th.  
+
+The win went to Doug Fister(2-1) who allowed 1 run in 8 innings. Brandon
+League earned the save, his 2nd.  The losing pitcher was Roy Halladay(1-2).
+He was knocked around by Seattle, allowing 11 hits and 2 walks in 7 innings.
+
+[2]
+[1]SCORESHEET: 2012 Chicago (AL) White Sox at 2012 Seattle Mariners
+J.Altuve-A1  A1:F/9     B1:Si      *5*:Si     D1:F/7
+G.Beckha-B5                                   
+                                              
+A.Ramire-A1  A2:G/53    B2:Si>12   C2:K       D2:G/31
+                                              
+                                              
+R.Braun-A1   A3:Si      B3:K       C3:G-DP/6  *8*:HR>b#
+                                   43>1o      
+                                              
+P.Konerk-A1  A4:Si>13   B4:F/7     *6*:G/63   D4:G/63
+                                              
+                                              
+L.Duda-A1    A5:K       *4*:G/63   C5:G/43    D5:K
+                                              
+                                              
+A.Craig-A1   *2*:G/63   B6:Si      C6:G/53    D6:G/53
+J.Lucroy-D6                                   
+                                              
+E.Chavez-A1  A7:G/43    B7:Si>12   *7*:Si     *9*:F/8
+G.Parra-C1                                    
+                                              
+A.Pierzy-A1  A8:F/8     B8:F/9     C8:Force/  D8:F/9
+                                   36>1o b1   
+                                              
+B.Morel-A1   *3*:F/8    B9:L/4     C9:Do>13   D9:G/63
+B.Dewitt-D9                                   
+                                              
+
+C.Crawfo-A1  A1:F/8     B1:F/8     C1:E/3>23  D1:Si      E1:W>b1
+                                                         
+                                                         
+C.Ruiz-A1    A2:Si      *3*:W>b1   C2:SF/8>3  D2:CS/24>  E2:G/43
+                                   #          1o K       
+                                                         
+L.Berkma-A1  A3:Si>13   B3:Si>13   C3:Si>12   *7*:Si
+                                              
+                                              
+M.Carp-A1    A4:K       B4:G-DP/5  C4:Si>2#   D4:Si>13
+F.Gutier-D5             43>3# 1o   12         
+                                              
+A.Rodrig-A1  A5:E/5>3#  B5:Si      C5:K       D5:SB>12
+             12                               L/6
+                                              
+I.Suzuki-A1  A6:G/43    B6:Si>13   *5*:K      D6:G/53
+                                              
+                                              
+A.Jones-A1   *2*:Si     B7:K       C7:K       D7:G/43
+J.Smoak-D8                                    
+                                              
+D.Ackley-A1  A8:Sac/34  *4*:W>b1   C8:F/7     *8*:G/63
+             >12                              
+                                              
+B.Ryan-A1    A9:G/63>2  B9:G/3>12  *6*:G/63   D9:F/8
+             3                                
+                                              
+
+

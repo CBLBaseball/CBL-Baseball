@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2012 Boston Red Sox At 2012 Detroit Tigers                10/6/2012
+
+[1]  Red Sox            AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  J.Ellsbury CF       4  0  0  0 .100     A.Jackson CF        4  0  0  0 .308  
+  D.Pedroia 2B        4  0  2  0 .250     A.Escobar SS        4  0  0  0 .200  
+  D.Ortiz DH          4  0  1  0 .091     C.Granderson RF     4  0  2  0 .417  
+  J.Reddick RF        3  0  0  0 .143     C.Kotchman 1B       4  1  1  0 .273  
+C-V.Wells PH          0  0  0  0 .000     A.Avila C           4  1  2  1 .417  
+D-E.Thames PH         0  0  0  0 .500     B.Boesch DH         4  1  2  1 .200  
+  M.Morse LF          4  0  0  0 .091     S.Sizemore 3B       2  1  1  0 .125  
+  B.Allen 1B          3  0  2  0 .500     R.Raburn LF         2  0  1  1 .500  
+E-L.Marson PH         0  0  0  0 .500   A-D.Kelly LF          1  0  0  0 .250  
+  K.Youkilis 3B       4  0  0  0 .100     R.Santiago 2B       2  0  0  1 .200  
+  J.Thole C           2  0  1  0 .167   B-J.Herrera 2B        0  0  0  0 .000  
+  A.Gonzalez SS       3  0  0  0 .222                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  0  6  0                 Totals      31  4  9  4
+
+A-Subbed Defensively (LF) For Raburn In 8th Inning
+B-Subbed Defensively (2B) For Santiago In 8th Inning
+C-Pinch Hit For Reddick In 9th Inning
+D-Pinch Hit For Wells In 9th Inning
+E-Pinch Hit For Allen In 9th Inning
+
+Red Sox......... 0 0 0  0 0 0  0 0 0  -  0  6  0
+Tigers.......... 0 1 0  3 0 0  0 0    -  4  9  0
+
+[1]Red Sox (0-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Bedard LOSS(0-1)           6       8   4   4   1   4   0   6.00  A1 C9
+D.Bard                       0 2/3   0   0   0   0   1   0  18.00  D1 D2
+C.Ramos                      1 1/3   1   0   0   1   2   0   0.00  D3
+[1]Totals                    8       9   4   4   2   7   0
+
+[1]Tigers (3-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Nicasio WIN(1-0)           7       5   0   0   1   5   0   0.00  A1 C7
+A.Alburquerq                 1       0   0   0   0   1   0   0.00  C8 D1
+R.Soriano                    0 1/3   0   0   0   0   0   0   0.00  D2 D2
+D.Schlereth                  0       1   0   0   0   0   0   ----  D3 D3
+F.Francisco                  0 1/3   0   0   0   0   1   0   0.00  D4 D5
+J.Spence                     0       0   0   0   1   0   0   ----  D6 D6
+E.Frieri SAVE(1st)           0 1/3   0   0   0   0   0   0   6.75  D7
+[1]Totals                    9       6   0   0   2   7   0
+
+ATTENDANCE- 40,457 DATE- Saturday, October 6th 2012 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 2:32
+LEFT ON BASE- Red Sox: 7  Tigers: 7
+DOUBLE PLAYS- Red Sox: 0  Tigers: 1
+DOUBLES- D.Pedroia(1st), B.Allen(1st), A.Avila(2nd), B.Boesch(1st),
+         R.Raburn(1st)
+CAUGHT STEALING- D.Pedroia
+SACRIFICE HITS- R.Raburn, R.Santiago
+WALKS- L.Marson, J.Thole, S.Sizemore-2
+HIT BY PITCH- E.Thames
+STRIKE OUTS- J.Ellsbury, D.Ortiz, J.Reddick-2, M.Morse-2, B.Allen, A.Jackson-3,
+             C.Granderson, C.Kotchman, B.Boesch, R.Santiago
+WILD PITCHES- E.Bedard
+PASSED BALLS- A.Avila
+2-out RBI- R.Raburn
+
+Catcher Alex Avila had 2 base hits at Comerica Park as the Detroit Tigers beat
+the Boston Red Sox 4 to 0.
+
+Detroit went ahead for good in the bottom of the 2nd inning scoring one runner
+utilizing 2 base hits.  After two outs Scott Sizemore lined a single.  Ryan
+Raburn next to the plate and he doubled.  Ramon Santiago got his chance to
+keep things going, but he went down on strikes.  That early run support was
+enough for Juan Nicasio(1-0) and Detroit.  After the 4th inning, neither team
+was able to score.  
+
+Nicasio got help from Ernesto Frieri who was credited with his 1st save.  Erik
+Bedard(0-1) was the loser.  He surrendered 4 runs and 8 hits in 6 innings.
+[2]
+[1]SCORESHEET: 2012 Boston Red Sox at 2012 Detroit Tigers
+J.Ellsbu-A1  A1:G/63    *3*:L/4    C1:G/43    D1:K
+                                              
+                                              
+D.Pedroi-A1  A2:Do      B2:Si      *6*:G/63   *9*:F/9
+                                              
+                                              
+D.Ortiz-A1   A3:PB>23   B3:CS/26>  C3:G/13    D3:Si
+             K          1o G/63               
+                                              
+J.Reddic-A1  A4:F/7     *4*:K      C4:K       D4:HBP>12
+V.Wells-D4                                    
+E.Thames-D4                                   
+M.Morse-A1   *2*:K      B5:G/13    *7*:F/8    D5:K
+                                              
+                                              
+B.Allen-A1   A6:Do      B6:K       C6:Si      D6:W>23 1
+L.Marson-D6                                   2 b1
+                                              
+K.Youkil-A1  A7:G/43>2  *5*:G/13   C7:L-DP/6  D7:F/7
+             3                     3>1o       
+                                              
+J.Thole-A1   A8:IW>b1   B8:Si      *8*:G/63
+                                   
+                                   
+A.Gonzal-A1  A9:G/53    B9:Force/  C9:G/63
+                        26>1o b1   
+                                   
+
+A.Jackso-A1  A1:K       *3*:G/43   C1:K       *7*:K
+                                              
+                                              
+A.Escoba-A1  A2:G/43    B2:G/43    *5*:F/7    D2:F/8
+                                              
+                                              
+C.Grande-A1  A3:Si      B3:F/9     C3:Si      D3:K
+                                              
+                                              
+C.Kotchm-A1  A4:G/43    *4*:Si     C4:F/8     *8*:K
+                                              
+                                              
+A.Avila-A1   *2*:F/8    B5:WP>12   C5:Si>13   D5:G/43
+                        Do>2#                 
+                                              
+B.Boesch-A1  A6:F/8     B6:Si>2#   C6:K       D6:Do
+                                              
+                                              
+S.Sizemo-A1  A7:Si      B7:W>12 b  *6*:F/8    D7:IW>b1
+                        1                     
+                                              
+R.Raburn-A1  A8:Do>1#   B8:Sac/34  C8:G/43    D8:F/8
+D.Kelly-D4              >23 12                
+                                              
+R.Santia-A1  A9:K       B9:Sac/24  C9:F/9
+J.Herrer-D4             >3# 23     
+                                   
+
+

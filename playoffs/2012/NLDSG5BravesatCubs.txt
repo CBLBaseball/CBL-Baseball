@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2012 Atlanta Braves At 2012 Chicago (NL) Cubs             10/8/2012
+
+[1]  Braves             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  E.Bonifacio LF      4  1  1  1 .364     S.Castro SS         5  0  2  0 .286  
+  O.Infante 2B        4  1  1  0 .217     T.Campana LF        5  0  1  1 .125  
+  F.Freeman 1B        3  0  1  1 .278     M.Joyce RF          4  0  1  0 .450  
+  M.Stanton DH        4  0  1  0 .190     A.Ramirez 3B        3  0  0  0 .368  
+  J.Hamilton CF       3  0  1  1 .579   D-A.Callaspo 3B       0  0  0  0 .000  
+  B.McCann C          4  0  0  0 .353     R.Hernandez C       3  1  1  0 .385  
+  Y.Escobar SS        4  0  1  0 .333   A-R.Theriot PH        1  0  0  0 .000  
+  J.Heyward RF        2  0  0  0 .077   B-G.Soto C            0  0  0  0 .000  
+E-J.Gomes PH          1  0  0  0 .000     A.Soriano DH        3  2  1  0 .308  
+  C.Headley 3B        3  1  1  0 .267     M.Moreland 1B       2  2  1  1 .333  
+                                          M.Byrd CF           3  1  2  1 .188  
+                                        C-C.Gentry PH,CF      1  1  1  11.000  
+                                          D.Barney 2B         4  0  2  3 .316  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  7  3                 Totals      34  7 12  7
+
+A-Pinch Hit For Hernandez In 7th Inning
+B-Subbed Defensively (C ) For Theriot In 8th Inning
+C-Pinch Hit For Byrd In 8th Inning
+D-Subbed Defensively (3B) For Ramirez In 9th Inning
+E-Pinch Hit For Heyward In 9th Inning
+
+Braves.......... 0 0 0  0 0 3  0 0 0  -  3  7  0
+Cubs............ 0 2 0  1 0 2  0 2    -  7 12  0
+
+[1]Braves (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hudson LOSS(0-1)           5 1/3   8   5   5   2   4   0   6.75  A1 C9
+C.Luebke                     2 2/3   4   2   2   1   2   0   3.38  D1
+[1]Totals                    8      12   7   7   3   6   0
+
+[1]Cubs (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Collmenter                 5 1/3   5   3   3   0   2   0   5.40  A1 C2
+M.Adams WIN(1-1) BS(1st)     1       2   0   0   1   1   0   9.82  C3 C8
+C.Marmol SAVE(2nd)           2 2/3   0   0   0   1   4   0   0.00  C9
+[1]Totals                    9       7   3   3   2   7   0
+
+ATTENDANCE- 40,497 DATE- Monday, October 8th 2012 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 3:05
+LEFT ON BASE- Braves: 5  Cubs: 8
+DOUBLE PLAYS- Braves: 0  Cubs: 1
+DOUBLES- C.Headley(3rd), A.Soriano(2nd), M.Moreland(1st), M.Byrd-2(2nd)
+STOLEN BASES- M.Joyce-2(2nd), A.Soriano(1st)
+SACRIFICE FLIES- F.Freeman, M.Moreland
+WALKS- J.Hamilton, J.Heyward, A.Ramirez, A.Soriano, M.Moreland
+HIT BY PITCH- M.Joyce
+STRIKE OUTS- E.Bonifacio-2, M.Stanton-2, B.McCann, Y.Escobar, C.Headley,
+             S.Castro-2, M.Joyce-2, R.Theriot, M.Byrd
+GIDP- J.Heyward
+WILD PITCHES- T.Hudson
+2-out RBI- D.Barney, M.Byrd, J.Hamilton, T.Campana
+WEB GEMS- Bot 8th: Chase Headley robbed Darwin Barney of a base hit.
+
+The Chicago (NL) Cubs bested the Atlanta Braves by a 7 to 3 score at Wrigley
+Field.
+
+Chicago (NL) took the lead for good in the bottom of the 6th inning scoring 2
+runs on 3 hits.  After an out was recorded, Mitch Moreland initiated the
+scoring spurt when he drew a walk.  Marlon Byrd stepped up to the plate and
+he doubled.  Darwin Barney then lined a base-hit.  Starlin Castro was up next
+and he laced a base-knock.  Castro took second on the throw.  Chicago (NL)
+had 12 hits overall, while Atlanta had 7.  
+
+Mike Adams(1-1) was the winner allowing no runs in 1 inning. Carlos Marmol
+preserved the game for Adams, recording his his 2nd.  Tim Hudson(0-1)
+suffered the loss.  He was knocked around by Chicago (NL), allowing 8 hits
+and 2 walks in 5 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2012 Atlanta Braves at 2012 Chicago (NL) Cubs
+E.Bonifa-A1  A1:G/43    *4*:K      C1:Si>2#   D1:K
+                                              
+                                              
+O.Infant-A1  A2:G/63    B2:G/63    C2:Si>13   *8*:P/6
+                                              
+                                              
+F.Freema-A1  A3:G/43    B3:Si      C3:SF/8>3  D3:G/13
+                                   #          
+                                              
+M.Stanto-A1  *2*:K      B4:P/6     C4:Si>13   D4:K
+                                              
+                                              
+J.Hamilt-A1  A5:F/8     *5*:G/43   C5:Si>3#   *9*:W>b1
+                                   13         
+                                              
+B.McCann-A1  A6:L/4     B6:G/43    C6:P/4     D6:K
+                                              
+                                              
+Y.Escoba-A1  *3*:Si     B7:F/8     *7*:K      D7:G/13>1
+                                              2
+                                              
+J.Heywar-A1  A8:G-DP/3  *6*:G/43   C8:W>b1    D8:F/9
+J.Gomes-D8   63>1o                            
+                                              
+C.Headle-A1  A9:G/43    B9:Do      C9:K
+                                   
+                                   
+
+S.Castro-A1  A1:K       B1:K       *5*:G/63   D1:Si>1o   E1:Si>23
+                                                         
+                                                         
+T.Campan-A1  A2:F/8     *3*:G/23   C2:G/63    D2:G/3     E2:Si>3#
+                                                         12
+                                                         
+M.Joyce-A1   A3:HBP     B3:K       C3:Si      *7*:K      E3:F/7
+                                                         
+                                                         
+A.Ramire-A1  A4:SB>12   B4:G/43    C4:SB>12   D4:G/13
+A.Callas-E4  G/3                   WP>23 W>b  
+                                   1          
+R.Hernan-A1  *2*:Si     *4*:F/9    C5:G/63    D5:K
+R.Therio-D5                                   
+G.Soto-D6                                     
+A.Sorian-A1  A6:Do>13   B6:F/8     *6*:G/13   *8*:W>b1
+                                              
+                                              
+M.Morela-A1  A7:SF/8>3  B7:Do      C7:W>b1    D7:SB>12
+             #                                L/4
+                                              
+M.Byrd-A1    A8:K       B8:Do>2#   C8:Do>13   D8:Si>2#
+C.Gentry-D8                                   
+                                              
+D.Barney-A1  A9:Si>2#   B9:G/43>2  C9:Si>3#   D9:G/53
+                        3          2#         
+                                              
+
+

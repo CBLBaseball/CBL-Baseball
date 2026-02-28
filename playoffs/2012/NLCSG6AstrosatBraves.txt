@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2012 Houston Astros At 2012 Atlanta Braves               10/20/2012
+
+[1]  Astros             AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  M.Bourn CF          4  0  0  0 .298     E.Bonifacio LF,3B   5  0  1  1 .357  
+  G.Sanchez 1B        4  0  0  0 .220     Y.Escobar SS        5  0  0  0 .271  
+  H.Pence RF          3  0  0  0 .205     F.Freeman 1B        3  0  0  0 .229  
+  T.Tulowitzki SS     3  0  0  0 .239     M.Stanton DH        3  1  1  0 .239  
+  A.Beltre 3B         3  0  0  0 .250     J.Hamilton CF       3  1  1  1 .413  
+  C.Quentin DH        2  0  0  0 .182     C.Headley 3B        3  3  2  0 .333  
+A-T.Wigginton PH,DH   1  0  1  0 .333   C-R.Davis RF          0  0  0  0 .313  
+  A.Miles 2B          3  0  0  0 .419     B.McCann C          4  1  2  2 .227  
+  M.Olivo C           3  0  0  0 .220     O.Infante 2B        4  0  2  2 .288  
+  J.Bourgeois LF      3  0  1  0 .111     J.Heyward RF        3  0  1  0 .088  
+                                        B-S.Fuld PH,LF        1  0  1  0 .182  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  0  2  0                 Totals      34  6 11  6
+
+A-Pinch Hit For Quentin In 8th Inning
+B-Pinch Hit For Heyward In 8th Inning
+C-Subbed Defensively (RF) For Headley In 9th Inning
+
+Astros.......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Braves.......... 0 2 0  3 0 0  0 1    -  6 11  0
+
+[1]Astros (7-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Santana LOSS(0-1)          7 2/3  11   6   6   2   6   0   7.04  A1 E1
+C.Hensley                    0 1/3   0   0   0   0   0   0   5.40  E2
+[1]Totals                    8      11   6   6   2   6   0
+
+[1]Braves (7-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Vazquez WIN(2-1)           9       2   0   0   0   7   0   3.96  A1
+[1]Totals                    9       2   0   0   0   7   0
+
+ATTENDANCE- 44,893 DATE- Saturday, October 20th 2012 TIME- Night 
+UMPIRES- Dale Scott, Jerry Meals, C.B. Bucknor, Dan Iassogna
+T- 2:27
+LEFT ON BASE- Astros: 2  Braves: 8
+DOUBLE PLAYS- Astros: 0  Braves: 0
+DOUBLES- T.Wigginton(1st), B.McCann(3rd)
+TRIPLES- M.Stanton(1st)
+STOLEN BASES- J.Bourgeois(1st)
+SACRIFICE FLIES- J.Hamilton
+WALKS- F.Freeman, C.Headley
+HIT BY PITCH- M.Stanton
+STRIKE OUTS- M.Bourn-3, G.Sanchez, A.Beltre, C.Quentin, M.Olivo, Y.Escobar,
+             F.Freeman, M.Stanton, B.McCann, O.Infante, J.Heyward
+WILD PITCHES- E.Santana
+2-out RBI- O.Infante, E.Bonifacio
+
+Javier Vazquez carried a no-hitter into the 6th inning as the Atlanta Braves
+defeated the Houston Astros 6 to 0 at Turner Field.
+
+Vazquez(2-1) escaped virtually unscathed against the Houston hitters.  He gave
+up just 2 hits and no walks in 9 innings lowering his ERA from 6.19 to 3.96.
+The right-handed Vazquez lost his no-hit bid when Jason Bourgeois singled
+with two outs in the 6th inning.  Atlanta totaled 11 hits on the night.
+
+Ervin Santana(0-1) took the loss.  He was unable to control the Atlanta
+offense and allowed 11 hits and 2 walks in 7 and 2/3 innings.  
+
+Brad Mills lamented, 'Vazquez was really aggressive tonight.  He kept coming
+after our hitters.  Heck, why not. he kept sitting our guys down one after
+another - like so many bowling pins!'
+[2]
+[1]SCORESHEET: 2012 Houston Astros at 2012 Atlanta Braves
+M.Bourn-A1   A1:P/2     *4*:K      C1:SB>12   D1:K
+                                   K          
+                                              
+G.Sanche-A1  A2:F/8     B2:K       *7*:L/5    D2:L/5
+                                              
+                                              
+H.Pence-A1   A3:L/6     B3:F/8     C3:P/2
+                                   
+                                   
+T.Tulowi-A1  *2*:G/63   *5*:F/8    C4:G/63
+                                   
+                                   
+A.Beltre-A1  A5:G/43    B5:F/8     *8*:K
+                                   
+                                   
+C.Quenti-A1  A6:K       B6:G/43    C6:Do
+T.Wiggin-C6                        
+                                   
+A.Miles-A1   *3*:G/43   *6*:L/4    C7:F/8
+                                   
+                                   
+M.Olivo-A1   A8:F/7     B8:F/9     C8:K
+                                   
+                                   
+J.Bourge-A1  A9:FO/2    B9:Si      *9*:G/43
+                                   
+                                   
+
+E.Bonifa-A1  A1:G/43    *3*:G/43   C1:F/8     D1:F/8     E1:Si>2#
+                                                         13
+                                                         
+Y.Escoba-A1  A2:G/53    B2:K       *5*:G/63   D2:F/8     E2:F/8
+                                                         
+                                                         
+F.Freema-A1  A3:G/31    B3:K       C3:W>b1    *7*:F/8
+                                              
+                                              
+M.Stanto-A1  *2*:Tr     *4*:K      C4:HBP>12  D4:F/7
+                                              
+                                              
+J.Hamilt-A1  A5:SF/8>3  B5:Si      C5:G/43>2  D5:G/43
+             #                     3 12       
+                                              
+C.Headle-A1  A6:Si      B6:W>12 b  C6:F/8     *8*:Si
+R.Davis-E3              1                     
+                                              
+B.McCann-A1  A7:G/43>1  B7:Do>2#   *6*:Si     D7:K
+             2          1#                    
+                                              
+O.Infant-A1  A8:Si>2#   B8:Si>3#   C8:F/8     D8:K
+                                              
+                                              
+J.Heywar-A1  A9:WP>12   B9:K       C9:Si>12   D9:Si>12
+S.Fuld-D9    F/9                              
+                                              
+
+

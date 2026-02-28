@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2012 Philadelphia Phillies At 2012 Houston Astros         10/4/2012
+
+[1]  Phillies           AB  R  H RBI AVG     Astros             AB  R  H RBI AVG
+  C.Utley 2B          4  0  3  1 .600     M.Bourn CF          4  0  2  2 .429  
+  M.Young DH          5  1  2  0 .500     J.Martinez LF       4  0  0  0 .000  
+  D.Dejesus RF        5  1  2  0 .400   A-N.Schierholtz LF    0  0  0  0 ----  
+  J.Bautista 3B       3  0  0  0 .000     H.Pence RF          4  0  1  0 .286  
+  R.Howard 1B         4  1  2  1 .571     T.Tulowitzki SS     4  1  2  0 .500  
+  V.Martinez C        4  0  0  1 .000     A.Beltre 3B         4  1  2  0 .375  
+  T.Gwynn Jr LF       4  1  1  1 .250     C.Quentin DH        4  1  1  1 .143  
+B-J.Molina PH         1  0  0  0 .000     G.Sanchez 1B        2  2  0  0 .167  
+  S.Victorino CF      5  0  1  1 .111     A.Miles 2B          3  1  2  2 .714  
+  J.Rollins SS        3  2  1  1 .286     M.Olivo C           4  1  2  2 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  6 12  6                 Totals      33  7 12  7
+
+A-Subbed Defensively (LF) For Martinez In 9th Inning
+B-Pinch Hit For Gwynn Jr In 9th Inning
+
+Phillies........ 0 2 2  1 0 1  0 0 0  -  6 12  0
+Astros.......... 0 0 1  4 0 1  0 1    -  7 12  1
+
+[1]Phillies (0-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels                     6      10   6   6   3   8   1   9.00  A1 D3
+A.Ogando LOSS(0-1)           2       2   1   1   0   1   1   4.91  D4
+[1]Totals                    8      12   7   7   3   9   2
+
+[1]Astros (2-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Gallardo                   5      11   6   5   3   1   1   9.00  A1 D2
+M.Guerrier                   2       1   0   0   1   1   0   0.00  D3 E1
+G.Balfour WIN(1-0)           1       0   0   0   1   1   0   0.00  E2 E5
+J.Putz SAVE(1st)             1       0   0   0   0   0   0   0.00  E6
+[1]Totals                    9      12   6   5   5   3   1
+
+ATTENDANCE- 40,639 DATE- Thursday, October 4th 2012 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 3:25
+LEFT ON BASE- Phillies:11  Astros: 7
+DOUBLE PLAYS- Phillies: 1  Astros: 1
+ERRORS- M.Bourn
+DOUBLES- D.Dejesus(1st), H.Pence(1st), T.Tulowitzki(2nd)
+TRIPLES- T.Gwynn Jr(1st)
+HOME RUNS- J.Rollins(1st), A.Miles(1st), M.Olivo(2nd)
+STOLEN BASES- M.Bourn(1st)
+SACRIFICE FLIES- V.Martinez, M.Bourn, A.Miles
+WALKS- C.Utley, J.Bautista-2, R.Howard, J.Rollins, J.Martinez, G.Sanchez-2
+STRIKE OUTS- M.Young-2, D.Dejesus, J.Martinez-3, H.Pence, A.Beltre, C.Quentin,
+             G.Sanchez, M.Olivo-2
+GIDP- D.Dejesus, H.Pence
+WILD PITCHES- C.Hamels, M.Guerrier
+2-out RBI- T.Gwynn Jr, S.Victorino, M.Olivo-2, M.Bourn
+
+Aaron Miles blasted a homerun and had 2 RBI at Minute Maid Park where the
+Houston Astros beat the Philadelphia Phillies 7 to 6.
+
+The game was won by Houston with a run in the bottom of the 8th inning.  After
+two outs Miguel Olivo delivered a solo blast.  Michael Bourn stepped into the
+batter's box and he ripped a base-hit.  Bourn got a good lead and stole
+second.  J.D. Martinez was a strikeout victim, unable to help out.  Grant
+Balfour(1-0) was helped out by J.J. Putz who pitched a perfect ninth and
+recorded his 1st save.  
+
+Alexi Ogando(0-1) took the loss in relief.  He gave up 1 run and 2 hits in 2
+innings.
+[2]
+[1]SCORESHEET: 2012 Philadelphia Phillies at 2012 Houston Astros
+C.Utley-A1   A1:Si      *3*:G/3    C1:Si>3#   D1:W>b1    E1:WP>12
+                                                         Si>23
+                                                         
+M.Young-A1   A2:F/8     B2:Si      C2:K       D2:Si>12   E2:K
+                                                         
+                                                         
+D.Dejesu-A1  A3:G-DP/5  B3:Do>13   C3:Si>13   D3:K       E3:P/4
+             43>1o                                       
+                                                         
+J.Bautis-A1  *2*:F/9    B4:W>b1    C4:F/9     D4:G/3>23  E4:W>12 b
+                                              12         1
+                                                         
+R.Howard-A1  A5:W>b1    B5:Si>3#   *5*:Si     D5:F/9     E5:G/43
+                        23 12                            
+                                                         
+V.Martin-A1  A6:L/3     B6:SF/8>3  C6:L/3     *7*:G/43   *9*:G/43
+                        #                                
+                                                         
+T.Gwynn -A1  A7:Tr>1#   B7:F/8     C7:F/7     D7:G/13    E7:F/8
+J.Molina-E7                                              
+                                                         
+S.Victor-A1  A8:Si>3#   *4*:G/53   C8:G/13    D8:L/4     E8:F/8
+                                                         
+                                                         
+J.Rollin-A1  A9:G/13    B9:E/8>b3  *6*:HR>b#  *8*:W>b1
+                                              
+                                              
+
+M.Bourn-A1   A1:F/9     B1:F/8     C1:Si>3#   D1:SF/7>3  E1:Si
+                                   13         #          
+                                                         
+J.Martin-A1  A2:W>b1    B2:F/9     C2:K       D2:K       E2:SB>12
+N.Schier-E3                                              K
+                                                         
+H.Pence-A1   A3:G-DP/6  *4*:K      *5*:G/63   *7*:Do
+             43>1o                            
+                                              
+T.Tulowi-A1  *2*:Do     B4:Si      C4:G/63    D4:P/5
+                                              
+                                              
+A.Beltre-A1  A5:WP>23   B5:Si>13   C5:Si      D5:L/6
+             K                                
+                                              
+C.Quenti-A1  A6:K       B6:Si>3#   C6:F/8     D6:P/5
+                        13                    
+                                              
+G.Sanche-A1  A7:K       B7:W>12 b  *6*:W>b1   *8*:G/43
+                        1                     
+                                              
+A.Miles-A1   *3*:HR>b#  B8:SF/9>3  C8:Si>13   D8:L/3
+                        # 23                  
+                                              
+M.Olivo-A1   A9:K       B9:Si>3#   C9:K       D9:HR>b#
+                        13                    
+                                              
+
+

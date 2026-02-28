@@ -1,0 +1,116 @@
+[1]BOXSCORE: 2012 Chicago (NL) Cubs At 2012 Atlanta Braves            10/10/2012
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  S.Castro SS         4  0  1  0 .280     E.Bonifacio 3B      3  0  0  0 .320  
+  D.Barney 2B         4  0  0  0 .261     O.Infante 2B        4  0  1  0 .222  
+  M.Joyce RF          4  0  0  0 .375     F.Freeman 1B        4  0  1  0 .273  
+  A.Ramirez 3B        3  1  2  1 .409     M.Stanton DH        3  0  0  0 .167  
+A-A.Callaspo 3B       0  0  0  0 .000     J.Hamilton CF       3  0  0  0 .500  
+  A.Soriano LF        4  1  2  0 .353     B.McCann C          3  0  0  0 .300  
+B-C.Gentry LF         0  0  0  01.000     Y.Escobar SS        3  0  1  0 .333  
+  M.Moreland DH       4  0  0  0 .263     J.Heyward RF        3  0  0  0 .063  
+  D.Lee 1B            3  0  0  0 .143     R.Davis LF          3  0  1  0 .500  
+  M.Byrd CF           3  1  1  2 .211                                          
+  G.Soto C            3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      29  0  4  0
+
+A-Subbed Defensively (3B) For Ramirez In 9th Inning
+B-Subbed Defensively (LF) For Soriano In 9th Inning
+
+Cubs............ 0 1 0  0 0 0  2 0 0  -  3  6  0
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+
+[1]Cubs (3-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Tomlin WIN(2-0)            7 2/3   4   0   0   1   2   0   0.00  A1 C8
+A.Bailey SAVE(1st)           1 1/3   0   0   0   0   0   0   0.00  C9
+[1]Totals                    9       4   0   0   1   2   0
+
+[1]Braves (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hanson LOSS(0-2)           6       5   2   2   0   4   1   3.00  A1 C5
+J.Venters                    1       1   1   1   0   2   1   5.40  C6 C9
+C.Martinez                   2       0   0   0   1   2   0   0.00  D1
+[1]Totals                    9       6   3   3   1   8   2
+
+ATTENDANCE- 45,264 DATE- Wednesday, October 10th 2012 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 2:12
+LEFT ON BASE- Cubs: 3  Braves: 3
+DOUBLE PLAYS- Cubs: 1  Braves: 1
+DOUBLES- S.Castro(3rd), A.Ramirez(3rd), A.Soriano-2(4th)
+HOME RUNS- A.Ramirez(1st), M.Byrd(2nd)
+CAUGHT STEALING- E.Bonifacio
+WALKS- A.Ramirez, E.Bonifacio
+STRIKE OUTS- S.Castro, M.Joyce, A.Soriano, M.Moreland-2, D.Lee, G.Soto-2,
+             M.Stanton, J.Hamilton
+GIDP- M.Moreland, R.Davis
+2-out RBI- M.Byrd-2
+
+Josh Tomlin(2-0) and Tommy Hanson(0-2) treated the Atlanta fans to a fine
+pitching duel at Turner Field.  The Chicago (NL) Cubs eventually emerged as
+victors over the Atlanta Braves by the score of 3 to 0.
+
+Atlanta was unable to claim the lead after Chicago (NL) went ahead in the 2nd
+inning scoring a single run using 2 hits.  That early run support was all
+that Tomlin required.  Tomlin was helped out by Andrew Bailey who pitched a
+perfect ninth and recorded his 1st save.  
+
+[2]
+[1]SCORESHEET: 2012 Chicago (NL) Cubs at 2012 Atlanta Braves
+S.Castro-A1  A1:G/63    B1:Do      C1:G/63    *8*:K
+                                              
+                                              
+D.Barney-A1  A2:G/3     B2:F/9>23  *6*:F/7    D2:G/53
+                                              
+                                              
+M.Joyce-A1   A3:F/8     B3:L/3     C3:K       D3:F/9
+                                              
+                                              
+A.Ramire-A1  *2*:HR>b#  *4*:Do     C4:F/9     *9*:W>b1
+A.Callas-D7                                   
+                                              
+A.Sorian-A1  A5:Do      B5:G/53    *7*:Do     D5:K
+C.Gentry-D7                                   
+                                              
+M.Morela-A1  A6:K       B6:L/4     C6:K       D6:G-DP/6
+                                              43>1o
+                                              
+D.Lee-A1     A7:K       B7:F/7     C7:G/43>2
+                                   3
+                                   
+M.Byrd-A1    A8:P/6     *5*:F/8    C8:HR>3#
+                                   b#
+                                   
+G.Soto-A1    *3*:K      B9:F/8     C9:K
+                                   
+                                   
+
+E.Bonifa-A1  A1:W>b1    B1:L/4     *6*:F/7    *9*:G/63
+                                              
+                                              
+O.Infant-A1  A2:CS/24>  B2:G/63    C2:L/5     D2:L/6
+             1o Si                            
+                                              
+F.Freema-A1  A3:F/8     *4*:Si     C3:P/6     D3:F/9
+                                              
+                                              
+M.Stanto-A1  A4:F/7     B4:K       *7*:G/13
+                                   
+                                   
+J.Hamilt-A1  *2*:K      B5:G/43>1  C5:G/13
+                        2          
+                                   
+B.McCann-A1  A6:L/4     B6:L/4     C6:L/4
+                                   
+                                   
+Y.Escoba-A1  A7:G/53    *5*:Si     *8*:F/7
+                                   
+                                   
+J.Heywar-A1  *3*:G/43   B8:P/6     C8:G/31
+                                   
+                                   
+R.Davis-A1   A9:Si      B9:G-DP/6  C9:G/53
+                        43>1o      
+                                   
+
+

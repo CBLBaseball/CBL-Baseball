@@ -1,0 +1,139 @@
+[1]BOXSCORE: 2012 Houston Astros At 2012 Seattle Mariners             10/23/2012
+
+[1]  Astros             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  M.Bourn CF          6  0  1  1 .259     C.Crawford LF       5  1  0  0 .218  
+  G.Sanchez 1B        6  0  1  0 .216     C.Ruiz C            5  1  1  0 .186  
+  H.Pence RF          4  1  1  1 .231     L.Berkman RF,1B     4  0  2  0 .304  
+  T.Tulowitzki SS     5  0  0  0 .222     K.Seager 3B         3  1  2  2 .263  
+  A.Beltre 3B         4  1  1  0 .250   D-A.Rodriguez PH,3B   1  0  0  0 .281  
+  C.Quentin DH        4  0  0  0 .175     J.Smoak 1B          3  0  0  0 .314  
+  A.Miles 2B          3  0  2  0 .400   E-F.Gutierrez PH,CF   2  0  0  0 .333  
+B-T.Wigginton PH      1  0  1  1 .400     I.Suzuki DH         4  0  0  0 .229  
+C-W.Valdez 2B         1  0  0  0 .000   I-K.Blanks PH         1  0  0  0 .100  
+  M.Olivo C           5  0  1  0 .204     A.Jones CF,RF       4  1  2  1 .250  
+  J.Bourgeois LF      3  1  1  0 .174     D.Ackley 2B         2  0  2  0 .206  
+F-B.Bogusevic PH      0  0  0  0 .125   A-M.Aviles PR,2B      2  0  0  0 .176  
+G-J.Martinez PH       1  0  0  0 .091     B.Ryan SS           3  0  1  1 .263  
+H-N.Schierholtz LF    0  0  0  0 .400                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43  3  9  3                 Totals      39  4 10  4
+
+A-Pinch Ran For Ackley In 7th Inning
+B-Pinch Hit For Miles In 8th Inning
+C-Subbed Defensively (2B) For Wigginton In 8th Inning
+D-Pinch Hit For Seager In 8th Inning
+E-Pinch Hit For Smoak In 8th Inning
+F-Pinch Hit For Bourgeois In 9th Inning
+G-Pinch Hit For Bogusevic In 9th Inning
+H-Subbed Defensively (LF) For Martinez In 9th Inning
+I-Pinch Hit For Suzuki In 11th Inning
+
+Astros.......... 0 0 0  0 1 0  0 2 0  0 0 -  3  9  0
+Mariners........ 0 0 2  0 0 1  0 0 0  0 1 -  4 10  1
+
+[1]Astros (8-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Gallardo                   7       7   3   3   2   3   0   5.97  A1 D2
+G.Balfour                    0 2/3   1   0   0   2   0   0   0.00  D3 D7
+J.Benoit                     2 1/3   0   0   0   0   3   0   0.00  D8 E5
+J.Putz LOSS(0-1)             0 2/3   2   1   1   0   0   0   4.15  E6
+[1]Totals                   10 2/3  10   4   4   4   6   0
+
+[1]Mariners (9-6)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Pineda                     7 2/3   6   3   3   2   9   1   1.80  A1 D6
+D.Pauley BS(1st)             0       1   0   0   0   0   0   4.50  D7 D7
+L.Lynn                       0 1/3   0   0   0   0   0   0   7.71  D8 D8
+J.Outman                     0 2/3   0   0   0   0   1   0   2.45  D9 E1
+F.Salas                      1 2/3   2   0   0   0   1   0   0.00  E2 E8
+B.League WIN(1-1)            0 2/3   0   0   0   1   0   0   1.80  E9
+[1]Totals                   11       9   3   3   3  11   1
+
+ATTENDANCE- 44,151 DATE- Tuesday, October 23rd 2012 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 3:32
+LEFT ON BASE- Astros:11  Mariners: 8
+DOUBLE PLAYS- Astros: 0  Mariners: 0
+ERRORS- C.Crawford
+DOUBLES- A.Miles(4th), L.Berkman(4th), A.Jones(3rd), D.Ackley-2(2nd),
+         B.Ryan(1st)
+TRIPLES- M.Bourn(2nd)
+HOME RUNS- H.Pence(5th)
+STOLEN BASES- J.Bourgeois(2nd)
+CAUGHT STEALING- A.Jones
+SACRIFICE HITS- B.Ryan-2
+WALKS- H.Pence, A.Beltre, N.Schierholtz, L.Berkman, A.Rodriguez, A.Jones,
+       D.Ackley
+HIT BY PITCH- C.Quentin
+STRIKE OUTS- M.Bourn-2, G.Sanchez-2, H.Pence-2, T.Tulowitzki, A.Beltre,
+             C.Quentin, M.Olivo-2, C.Crawford-2, C.Ruiz, A.Jones, B.Ryan-2
+2-out RBI- K.Seager-2, A.Jones, T.Wigginton, B.Ryan
+
+One run was the difference at SAFECO Field as the Seattle Mariners defeated
+the Houston Astros in 11 innings 4 to 3.
+
+Both teams were tied at 3 runs apiece after nine innings.  Seattle won it in
+the 11th inning.  After an out was recorded, Adam Jones doubled.  After
+another out, Brendan Ryan came to bat and doubled giving Seattle the win much
+to the delight of the home town crowd.  Seattle had 10 hits for the night.
+
+The victory went to Brandon League(1-1) who went 2/3 of an inning, allowing no
+runs. The loss was charged to J.J. Putz(0-1) in relief.  He surrendered 1 run
+and 2 hits in 2/3 of an inning.
+[2]
+[1]SCORESHEET: 2012 Houston Astros at 2012 Seattle Mariners
+M.Bourn-A1   A1:F/8     *3*:F/9    C1:SB>12   D1:K       E1:K       F1:F/9>23
+                                   Tr>2#                            
+                                                                    
+G.Sanche-A1  A2:F/8     B2:Si      C2:K       D2:L/6     E2:K       F2:L/6
+                                                                    
+                                                                    
+H.Pence-A1   A3:W>b1    B3:K       C3:K       *8*:HR>b#  *10*:G/53
+                                                         
+                                                         
+T.Tulowi-A1  A4:K       B4:G/43    C4:F/8     D4:F/7     E4:G/63
+                                                         
+                                                         
+A.Beltre-A1  *2*:P/5    *4*:K      *6*:G/43   D5:W>b1    E5:Si
+                                                         
+                                                         
+C.Quenti-A1  A6:HBP     B6:K       C6:F/9     D6:G/13>1  E6:F/7
+                                              2          
+                                                         
+A.Miles-A1   A7:E/7>12  B7:Si      C7:Do      D7:Si>2#   *11*:P/6
+T.Wiggin-D7                                              
+W.Valdez-D9                                              
+M.Olivo-A1   A8:K       B8:G/13    C8:K       D8:G/53    E8:Si
+                                                         
+                                                         
+J.Bourge-A1  A9:G/13    *5*:Si     *7*:G/53   *9*:F/7    E9:W>12 b
+B.Boguse-D9                                              1
+J.Martin-D9+                                             
+
+C.Crawfo-A1  A1:G/63    B1:FC/12>  *5*:K      D1:G/43>2  E1:K
+                        3o                    3          
+                                                         
+C.Ruiz-A1    A2:F/9     B2:Si>12   C2:G/43    D2:G/63    E2:K
+                                                         
+                                                         
+L.Berkma-A1  A3:Si      B3:W>23 1  C3:P/3     *8*:Do     *10*:P/6
+                        2 b1                             
+                                                         
+K.Seager-A1  A4:G/63    B4:Si>3#   *6*:Si     D4:W>b1    E4:F/9
+A.Rodrig-D4             2# 13                            
+                                                         
+J.Smoak-A1   *2*:G/31   B5:F/9     C5:F/8>12  D5:P/3     E5:F/8
+F.Gutier-D5                                              
+                                                         
+I.Suzuki-A1  A6:F/9     *4*:L/4    C6:F/8     D6:G/3>23  *11*:G/63
+K.Blanks-E6                                   12         
+                                                         
+A.Jones-A1   A7:G/63    B7:K       C7:Si>2#   D7:IW>b1   E7:Do
+                                   CS/26>1o              
+                                                         
+D.Ackley-A1  *3*:Do     B8:Do      *7*:W>b1   D8:G/13    E8:P/4
+M.Aviles-C9                                              
+                                                         
+B.Ryan-A1    A9:Sac/24  B9:K       C9:Sac/34  *9*:K      E9:Do>2#
+             >23                   >12                   
+                                                         
+
+
