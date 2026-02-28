@@ -1,0 +1,190 @@
+[1]BOXSCORE: 2011 San Diego Padres At 2011 New York (NL) Mets          10/8/2011
+
+[1]  Padres             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  K.Johnson 2B        3  0  0  0 .176     O.Hudson 2B         5  0  0  0 .304  
+  E.Longoria 3B       5  1  2  1 .238     J.Reyes SS          5  1  2  1 .375  
+  R.Ludwick RF        6  0  1  0 .143     I.Davis 1B          4  1  1  0 .200  
+  J.Thome DH          4  2  1  1 .231     D.Wright 3B         4  2  1  2 .273  
+C-M.Ramirez PH        0  1  0  0 .167     N.Johnson DH        3  1  1  1 .333  
+  A.Kearns LF         6  1  2  2 .214   A-C.Gomez PH          1  1  1  0 .625  
+  C.Denorfia CF       5  2  3  2 .556     S.Hairston CF       5  0  0  0 .083  
+  R.Branyan 1B        6  3  4  4 .385     D.Nava LF           4  0  2  1 .600  
+  J.Carroll SS        3  1  1  0 .385     W.Harris RF         4  0  1  0 .167  
+  N.Hundley C         4  0  1  0 .154     G.Kottaras C        1  0  0  1 .000  
+B-E.Hinske PH         2  1  2  1 .571                                          
+D-A.Ellis C           0  0  0  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      44 12 17 11                 Totals      36  6  9  6
+
+A-Pinch Hit For Johnson In 8th Inning
+B-Pinch Hit For Hundley In 10th Inning
+C-Pinch Hit For Thome In 10th Inning
+D-Subbed Defensively (C ) For Hinske In 10th Inning
+
+Padres.......... 0 0 1  3 0 0  1 0 0  7 - 12 17  0
+Mets............ 3 0 0  1 0 0  0 1 0  1 -  6  9  2
+
+[1]Padres (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Pineiro                 7       5   4   4   4   6   3   5.54  A1 D3
+J.Valverde BS(1st)        0 2/3   1   1   1   2   1   0  16.20  D4 D8
+J.Peralta WIN(1-0)        1 1/3   1   0   0   0   2   0   0.00  D9 E4
+B.Wagner                  1       2   1   1   0   1   0   9.00  E5
+[1]Totals                   10       9   6   6   6  10   3
+
+[1]Mets (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Lowe                    5       7   4   4   5   2   1   7.20  A1 C9
+B.Lyon                    2 2/3   1   1   1   2   1   1   1.59  D1 D9
+P.Feliciano               0       0   0   0   1   0   0   9.00  E1 E1
+C.Park                    1 1/3   2   0   0   1   1   0   3.18  E2 E8
+F.Rodriguez LOSS(0-1)     1       7   7   6   1   2   0  20.25  E9
+[1]Totals                   10      17  12  11  10   6   2
+
+ATTENDANCE- 41,552 DATE- Saturday, October 8th 2011 TIME- Night 
+UMPIRES- Jerry Layne, Tony Randazzo, Chris Guccione, Laz Diaz
+T- 4:00
+LEFT ON BASE- Padres:12  Mets:10
+DOUBLE PLAYS- Padres: 0  Mets: 2
+ERRORS- D.Wright, G.Kottaras
+DOUBLES- C.Denorfia-2(2nd), R.Branyan-2(3rd), D.Nava(2nd)
+HOME RUNS- J.Thome(2nd), R.Branyan(1st), J.Reyes(1st), D.Wright(2nd),
+           N.Johnson(1st)
+STOLEN BASES- E.Longoria(1st), J.Carroll(2nd), J.Reyes(1st), C.Gomez(1st)
+CAUGHT STEALING- J.Carroll, E.Hinske
+SACRIFICE HITS- C.Gomez, D.Nava, G.Kottaras-2
+WALKS- K.Johnson-3, E.Longoria, J.Thome, M.Ramirez, C.Denorfia, J.Carroll-3,
+       O.Hudson, I.Davis, D.Wright, W.Harris, G.Kottaras-2
+STRIKE OUTS- K.Johnson, R.Ludwick, J.Thome-2, A.Kearns, N.Hundley, O.Hudson-2,
+             I.Davis, D.Wright-2, N.Johnson, S.Hairston-3, D.Nava
+GIDP- E.Longoria, C.Denorfia
+BALKS- D.Lowe
+2-out RBI- E.Longoria, D.Nava, A.Kearns-2, C.Denorfia, R.Branyan-2, E.Hinske
+
+Russell Branyan had 4 hits and 4 RBI at Citi Field as the San Diego Padres
+beat the New York (NL) Mets in 10 innings 12 to 6.
+
+Both teams were tied at 5 runs apiece after nine innings.  San Diego won the
+game in the 10th inning.  The big moment was provided by Austin Kearns who
+helped quiet the crowd when he delivered a single scoring two baserunners.
+Overall San Diego out-hit New York (NL) 17 to 9.  
+
+The victory was credited to Joel Peralta(1-0) who went 1 and 1/3 innings,
+allowing no runs. Francisco Rodriguez(0-1) took the loss in relief.  'I just
+got in the box, looked for a pitch and swung,' Branyan said.  'That's it'
+[2]
+[1]SCORESHEET: 2011 San Diego Padres at 2011 New York (NL) Mets
+K.Johnso-A1  A1:L/4     B1:W>b1    C1:G/43    D1:W>12 b  E1:W>b1    F1:K
+                                              1                     
+                                                                    
+E.Longor-A1  A2:G/63    B2:Si>2#   *5*:F/7    D2:G-DP/6  E2:W>12 b  F2:Si>13
+                        13                    23>3o 23   1          
+                                              12                    
+R.Ludwic-A1  A3:L/6     B3:SB>12   C3:Si      D3:G/63    E3:F/8     F3:K
+                        G/43                                        
+                                                                    
+J.Thome-A1   *2*:K      *4*:W>b1   C4:F/9     *7*:HR>b#  *9*:K      F4:W>12 b
+M.Ramire-F4                                                         1
+                                                                    
+A.Kearns-A1  A5:E/5     B5:Bk>12   C5:Si>13   D5:G/43    E5:FO/2    F5:Si>3#
+                        K                                           2# 13
+                                                                    
+C.Denorf-A1  A6:G-DP/6  B6:Do>2#   C6:W>12 b  D6:L/6     E6:Si      F6:Do>3#
+             43>1o                 1                                13
+                                                                    
+R.Branya-A1  *3*:Do     B7:HR>2#   C7:G/63    D7:F/7     E7:Si>12   F7:Do>3#
+                        b#                                          2#
+                                                                    
+J.Carrol-A1  A8:G/63    B8:W>b1    *6*:W>b1   *8*:W>b1   E8:F/8     F8:Si>23
+                                                                    
+                                                                    
+N.Hundle-A1  A9:G/53    B9:G/43>1  C9:Si>13   D9:CS/24>  *10*:Si    F9:SB+E/2
+E.Hinske-E9             2                     1o K                  >3# 13 Si
+A.Ellis-G1                                                          >3#
+
+O.Hudson-A1  A1:G/31    B1:K       C1:Force/  D1:W>12 b  *9*:K      F1:F/8
+                                   46>1o b1   1                     
+                                                                    
+J.Reyes-A1   A2:HR>b#   *3*:G/43   C2:Force/  D2:L/4     E2:Si
+                                   46>1o b1              
+                                                         
+I.Davis-A1   A3:Si      B3:G/43    C3:W>12 b  D3:K       E3:SB>12
+                                   1                     F/8
+                                                         
+D.Wright-A1  A4:HR>1#   B4:G/63    C4:K       *8*:W>b1   E4:K
+             b#                                          
+                                                         
+N.Johnso-A1  A5:K       *4*:HR>b#  *6*:G/53   D5:Sac/34  *10*:Si
+C.Gomez-D5                                    >12        
+                                                         
+S.Hairst-A1  A6:G/43    B6:G/63    C6:K       D6:K       E6:SB>12
+                                                         K
+                                                         
+D.Nava-A1    *2*:Do     B7:G/31    C7:K       D7:Si>2#   E7:Sac+FC
+                                                         >23 b1
+                                                         
+W.Harris-A1  A8:FC/35>  B8:G/43    *7*:F/9    D8:W>12 b  E8:Si>12
+             2o                               1          
+                                                         
+G.Kottar-A1  A9:Sac/24  *5*:W>b1   C9:W>b1    D9:G/43    E9:Sac/24
+             >12                                         >3# 23 12
+                                                         
+
+
+[2]
+[1]SCORESHEET: 2011 San Diego Padres at 2011 New York (NL) Mets
+K.Johnso-A1
+
+
+E.Longor-A1
+
+
+R.Ludwic-A1
+
+
+J.Thome-A1
+M.Ramire-F4
+
+A.Kearns-A1
+
+
+C.Denorf-A1
+
+
+R.Branya-A1
+
+
+J.Carrol-A1
+
+
+N.Hundle-A1
+E.Hinske-E9
+A.Ellis-G1
+
+O.Hudson-A1
+
+
+J.Reyes-A1
+
+
+I.Davis-A1
+
+
+D.Wright-A1
+
+
+N.Johnso-A1
+C.Gomez-D5
+
+S.Hairst-A1
+
+
+D.Nava-A1
+
+
+W.Harris-A1
+
+
+G.Kottar-A1
+
+
+
+

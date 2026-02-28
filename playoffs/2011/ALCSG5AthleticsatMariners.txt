@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2011 Oakland Athletics At 2011 Seattle Mariners          10/18/2011
+
+[1]  Athletics          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Torres CF         4  0  0  0 .303     I.Suzuki RF         4  0  1  0 .340  
+  D.Barton 1B         3  0  0  0 .279     F.Gutierrez CF      4  0  0  0 .150  
+  M.Prado 3B          3  0  0  0 .175     C.Crawford LF       4  0  0  1 .261  
+  C.Gonzalez LF       3  1  1  1 .391     M.Bradley DH        3  0  1  0 .250  
+  M.Ellis 2B          3  0  0  0 .222   A-J.Dyson PR,DH       0  0  0  0 ----  
+  K.Suzuki C          3  0  0  0 .080   E-A.Jones PH          1  0  0  0 .357  
+  N.Morgan DH         3  0  0  0 .000     A.Rodriguez 3B      3  0  0  0 .273  
+  N.Swisher RF        3  0  0  0 .256     L.Castillo 2B       3  0  1  0 .412  
+  C.Pennington SS     3  0  0  0 .270   B-B.Ryan SS           0  0  0  0 .100  
+                                          P.Janish SS,2B      2  1  1  0 .333  
+                                          Y.Torrealba C       2  0  1  0 .188  
+                                        C-J.Herrera PH        0  0  0  0 .235  
+                                        D-C.Ruiz C            0  0  0  0 .240  
+                                          J.Smoak 1B          0  1  0  1 .211  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  1  1  1                 Totals      26  2  5  2
+
+A-Pinch Ran For Bradley In 6th Inning
+B-Subbed Defensively (SS) For Castillo In 7th Inning
+C-Pinch Hit For Torrealba In 7th Inning
+D-Subbed Defensively (C ) For Herrera In 8th Inning
+E-Pinch Hit For Dyson In 8th Inning
+
+Athletics....... 0 0 0  0 0 0  0 1 0  -  1  1  0
+Mariners........ 0 0 1  0 0 0  1 0    -  2  5  0
+
+[1]Athletics (6-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Anderson LOSS(1-1)         8       5   2   2   2   4   0   1.06  A1
+[1]Totals                    8       5   2   2   2   4   0
+
+[1]Mariners (7-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Silva WIN(1-0)             9       1   1   1   0   6   1   1.00  A1
+[1]Totals                    9       1   1   1   0   6   1
+
+ATTENDANCE- 45,081 DATE- Tuesday, October 18th 2011 TIME- Night 
+UMPIRES- Chris Guccione, Laz Diaz, Jerry Layne, Tony Randazzo
+T- 2:10
+LEFT ON BASE- Athletics: 0  Mariners: 5
+DOUBLE PLAYS- Athletics: 0  Mariners: 0
+DOUBLES- P.Janish(2nd)
+TRIPLES- L.Castillo(1st)
+HOME RUNS- C.Gonzalez(2nd)
+STOLEN BASES- J.Dyson(3rd)
+SACRIFICE HITS- J.Herrera, J.Smoak
+SACRIFICE FLIES- J.Smoak
+WALKS- P.Janish, J.Smoak
+STRIKE OUTS- M.Prado, C.Gonzalez-2, M.Ellis-2, C.Pennington, F.Gutierrez,
+             A.Rodriguez, L.Castillo, P.Janish
+
+Carlos Silva took a no-hitter into the 8th inning as the Seattle Mariners
+topped the Oakland Athletics by a score of 2 to 1 at SAFECO
+Field.
+
+Silva(1-0) escaped virtually unscathed against the Oakland hitters. He didn't
+give up much, just 1 hit and no walks in 9 innings.  The right-handed Silva
+lost his chance for a no-hitter when Carlos Gonzalez homered with nobody out
+in the 8th inning.  Seattle had just 5 hits for the night.  
+
+Brett Anderson(1-1) was the losing pitcher.  He surrendered 5 hits and 2 walks
+in 8 innings.
+[2]
+[1]SCORESHEET: 2011 Oakland Athletics at 2011 Seattle Mariners
+A.Torres-A1  A1:L/3     *4*:F/9    *7*:G/63   D1:L/4
+                                              
+                                              
+D.Barton-A1  A2:G/63    B2:G/43    C2:P/6
+                                   
+                                   
+M.Prado-A1   A3:G/63    B3:F/8     C3:K
+                                   
+                                   
+C.Gonzal-A1  *2*:K      *5*:K      *8*:HR>b#
+                                   
+                                   
+M.Ellis-A1   A5:K       B5:K       C5:G/53
+                                   
+                                   
+K.Suzuki-A1  A6:L/5     B6:F/9     C6:G/63
+                                   
+                                   
+N.Morgan-A1  *3*:G/43   *6*:L/4    C7:F/7
+                                   
+                                   
+N.Swishe-A1  A8:G/43    B8:L/4     *9*:F/9
+                                   
+                                   
+C.Pennin-A1  A9:L/4     B9:G/43    C9:K
+                                   
+                                   
+
+I.Suzuki-A1  A1:G/31    B1:Si>13   C1:G/43>2  D1:G/43
+                                   3          
+                                              
+F.Gutier-A1  A2:K       B2:G/13>1  C2:G/43    *8*:P/6
+                        2                     
+                                              
+C.Crawfo-A1  A3:G/3     B3:G/43>3  *6*:G/43   D3:F/8
+                        # 23                  
+                                              
+M.Bradle-A1  *2*:F/7    B4:L/6     C4:Si      D4:G/53
+J.Dyson-C5                                    
+A.Jones-D4                                    
+A.Rodrig-A1  A5:K       *4*:F/8    C5:SB>12
+                                   FO/2
+                                   
+L.Castil-A1  A6:Tr      B6:G/63    C6:K
+B.Ryan-C7                          
+                                   
+P.Janish-A1  A7:W>b1    B7:K       *7*:Do
+                                   
+                                   
+Y.Torrea-A1  A8:G/63    *5*:Si     C8:Sac/34
+J.Herrer-C8                        >23
+C.Ruiz-D2                          
+J.Smoak-A1   *3*:W>b1   B9:Sac/34  C9:SF/8>3
+                        >12        #
+                                   
+
+

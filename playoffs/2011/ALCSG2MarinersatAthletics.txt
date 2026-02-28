@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Oakland Athletics          10/14/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  I.Suzuki RF         5  4  4  2 .400     D.Barton 1B         3  0  1  0 .290  
+  M.Bradley DH        3  0  1  0 .222     C.Gonzalez LF       4  1  1  0 .382  
+A-A.Jones PH          2  0  1  1 .400     S.Duncan DH         3  1  1  2 .091  
+  C.Ruiz C            3  1  2  0 .273     A.Rosales 2B        4  0  0  0 .462  
+B-B.Ryan PH           1  0  0  0 .125     C.Ross CF           4  1  1  1 .125  
+C-Y.Torrealba C       1  0  0  0 .000     N.Swisher RF        4  0  0  0 .286  
+  A.Rodriguez 3B      5  1  1  3 .303     C.Pennington SS     4  0  2  0 .296  
+  C.Crawford LF       5  0  2  2 .324     R.Hernandez C       2  0  0  0 .500  
+  P.Janish SS         3  0  0  0 .333   D-K.Suzuki PH,C       2  0  0  0 .050  
+E-W.Valdez PH,SS      1  0  0  0 .273     M.Prado 3B          4  0  1  0 .241  
+  L.Castillo 2B       4  1  2  0 .462                                          
+  F.Gutierrez CF      4  0  0  0 .172                                          
+  J.Smoak 1B          4  1  2  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  8 15  8                 Totals      34  3  7  3
+
+A-Pinch Hit For Bradley In 6th Inning
+B-Pinch Hit For Ruiz In 7th Inning
+C-Subbed Defensively (C ) For Ryan In 7th Inning
+D-Pinch Hit For Hernandez In 7th Inning
+E-Pinch Hit For Janish In 9th Inning
+
+Mariners........ 1 0 1  0 3 0  0 3 0  -  8 15  0
+Athletics....... 0 1 0  0 0 0  0 2 0  -  3  7  1
+
+[1]Mariners (5-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Santana WIN(1-0)           9       7   3   3   0   9   2   3.00  A1
+[1]Totals                    9       7   3   3   0   9   2
+
+[1]Athletics (5-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Braden LOSS(0-1)           7 2/3  14   8   8   1   3   1   6.00  A1 E1
+J.Karstens                   1 1/3   1   0   0   0   1   0   7.71  E2
+[1]Totals                    9      15   8   8   1   4   1
+
+ATTENDANCE- 33,130 DATE- Friday, October 14th 2011 TIME- Night 
+UMPIRES- James Hoye, Randy Marsh, Mike Winters, Lance Barksdale
+T- 3:23
+LEFT ON BASE- Mariners: 7  Athletics: 6
+DOUBLE PLAYS- Mariners: 0  Athletics: 1
+ERRORS- A.Rosales
+DOUBLES- C.Crawford(3rd), C.Pennington(2nd)
+HOME RUNS- A.Rodriguez(1st), S.Duncan(1st), C.Ross(1st)
+STOLEN BASES- I.Suzuki(3rd), C.Pennington(4th)
+CAUGHT STEALING- M.Bradley
+WALKS- P.Janish
+HIT BY PITCH- D.Barton, S.Duncan
+STRIKE OUTS- M.Bradley, C.Ruiz, Y.Torrealba, J.Smoak, C.Gonzalez, S.Duncan-2,
+             A.Rosales-3, C.Ross-2, N.Swisher
+2-out RBI- C.Crawford-2, I.Suzuki-2, A.Jones
+
+Ichiro Suzuki had 4 hits and 2 RBI and Johan Santana allowed Daron Brown to
+rest his bullpen, tossing a complete game at McAfee Coliseum as the Seattle
+Mariners beat the Oakland Athletics 8 to 3.
+
+Seattle jumped on top of Oakland in the top of the 3rd inning plating an
+isolated run utilizing 3 base hits.  Seattle banged out 15 hits on the night.
+
+The win was credited to Santana(1-0) who went the whole way allowing 3 runs.
+Dallas Braden(0-1) was charged with the loss.  He was knocked around pretty
+good, giving up 8 runs in 7 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Oakland Athletics
+I.Suzuki-A1  A1:Si      *3*:Si     *5*:Si     D1:F/7     E1:Si>3#
+                                                         2#
+                                                         
+M.Bradle-A1  A2:Si>12   B2:L/5     C2:K       D2:G/53    E2:SB>12
+A.Jones-D2                                               Si>2#
+                                                         
+C.Ruiz-A1    A3:K       B3:Si>12   C3:Si>13   *7*:G/53   E3:K
+B.Ryan-D3                                                
+Y.Torrea-D6                                              
+A.Rodrig-A1  A4:L/6     B4:F/8     C4:HR>3#   D4:F/8     *9*:P/6
+                                   2# b#                 
+                                                         
+C.Crawfo-A1  A5:Si>2#1  B5:Do>2#   C5:P/4     D5:F/9     E5:G/63
+             3 CS/2>3o  13                               
+             12                                          
+P.Janish-A1  *2*:G/13   B6:F/7     C6:W>b1    *8*:G/43   E6:F/7
+W.Valdez-E6                                              
+                                                         
+L.Castil-A1  A7:Si      *4*:E/4    C7:F/7     D7:Si
+                                              
+                                              
+F.Gutier-A1  A8:G/43>1  B8:F-DP/9  *6*:P/6    D8:F/7
+             2          3>1o                  
+                                              
+J.Smoak-A1   A9:G/53    B9:K       C9:Si      D9:Si>13
+                                              
+                                              
+
+D.Barton-A1  A1:F/8     B1:HBP>12  C1:Si      D1:G/3
+                                              
+                                              
+C.Gonzal-A1  A2:F/9     B2:K       C2:F/9     *8*:Si
+                                              
+                                              
+S.Duncan-A1  A3:HBP     B3:K       C3:K       D3:HR>1#
+                                              b#
+                                              
+A.Rosale-A1  A4:G/31    B4:K       *6*:K      D4:K
+                                              
+                                              
+C.Ross-A1    *2*:HR>b#  *4*:K      C5:F/7     D5:K
+                                              
+                                              
+N.Swishe-A1  A6:G/13    B6:G/63    C6:K       D6:G/43
+                                              
+                                              
+C.Pennin-A1  A7:G/63    B7:Si      *7*:Do     *9*:FO/5
+                                              
+                                              
+R.Hernan-A1  A8:G/63    B8:SB>12   C8:P/6     D8:P/6
+K.Suzuki-C8             G/63                  
+                                              
+M.Prado-A1   *3*:Si     *5*:L/6    C9:G/63    D9:F/8
+                                              
+                                              
+
+

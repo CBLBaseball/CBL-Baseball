@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Philadelphia Phillies      10/30/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  P.Janish SS         2  0  0  0 .286     C.Utley 2B          3  0  1  0 .178  
+A-B.Ryan PH,SS        2  0  0  0 .115     J.Werth RF          4  0  1  0 .253  
+  I.Suzuki RF         4  0  2  0 .316     A.Dunn DH           4  0  0  0 .234  
+  C.Ruiz C            3  0  0  0 .213     J.Bautista 3B       4  0  1  0 .180  
+  C.Crawford LF       4  0  0  0 .237     R.Howard 1B         4  0  3  0 .203  
+  A.Rodriguez 3B      3  0  0  0 .264   D-J.Rollins PR        0  0  0  0 .289  
+  J.Herrera 2B        3  0  0  0 .267     J.Uribe SS          3  0  0  0 .111  
+  F.Gutierrez CF      3  0  0  0 .154   E-P.Polanco PH        1  0  0  0 .107  
+  A.Jones DH          3  1  1  1 .364     R.Ibanez LF         3  0  1  0 .156  
+  J.Smoak 1B          3  0  1  0 .182     S.Victorino CF      3  0  0  0 .220  
+                                          B.Schneider C       1  0  0  0 .200  
+                                        B-R.Ankiel PH         0  0  0  0 .071  
+                                        C-J.Molina C          1  0  0  0 .304  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  4  1                 Totals      31  0  7  0
+
+A-Pinch Hit For Janish In 6th Inning
+B-Pinch Hit For Schneider In 6th Inning
+C-Subbed Defensively (C ) For Ankiel In 7th Inning
+D-Pinch Ran For Howard In 9th Inning
+E-Pinch Hit For Uribe In 9th Inning
+
+Mariners........ 0 0 0  0 0 0  0 0 1  -  1  4  0
+Phillies........ 0 0 0  0 0 0  0 0 0  -  0  7  0
+
+[1]Mariners (12-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(5-1)         9       7   0   0   1   8   0   1.81  A1
+[1]Totals                    9       7   0   0   1   8   0
+
+[1]Phillies (10-8)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Lee LOSS(2-3)              9       4   1   1   1   8   1   2.14  A1
+[1]Totals                    9       4   1   1   1   8   1
+
+ATTENDANCE- 41,708 DATE- Sunday, October 30th 2011 TIME- Night 
+UMPIRES- Chuck Meriwether, Eric Cooper, Scott Barry, Mike Reilly
+T- 2:08
+LEFT ON BASE- Mariners: 3  Phillies: 6
+DOUBLE PLAYS- Mariners: 2  Phillies: 0
+DOUBLES- I.Suzuki(5th), J.Smoak(1st), C.Utley(1st), J.Bautista(2nd)
+HOME RUNS- A.Jones(6th)
+CAUGHT STEALING- I.Suzuki
+SACRIFICE HITS- C.Utley
+WALKS- C.Ruiz, R.Ankiel
+STRIKE OUTS- P.Janish, B.Ryan, C.Ruiz-2, C.Crawford-2, F.Gutierrez, J.Smoak,
+             J.Werth-3, A.Dunn-3, R.Howard, R.Ibanez
+GIDP- J.Bautista, J.Uribe
+
+Felix Hernandez tossed a complete game shutout as the Seattle Mariners beat
+the Philadelphia Phillies by a score of 1 to 0.
+
+The game was won by Seattle when they scored a run in the 9th inning.  Adam
+Jones smashed a bases-empty 'big-fly'.  One out later, Brendan Ryan got his
+chance to keep things going, but he went down on strikes.  Ichiro Suzuki then
+doubled.  Carlos Ruiz followed next and he was walked intentionally.
+Although they lost, Philadelphia did out-hit Seattle 7 to 4.
+
+Hernandez(5-1) went the distance for the shutout. Cliff Lee(2-3) took the
+loss.  He allowed just 1 run and 4 hits in 9 innings.  
+
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Philadelphia Phillies
+P.Janish-A1  A1:K       B1:G/63    C1:P/6     D1:K
+B.Ryan-C1                                     
+                                              
+I.Suzuki-A1  A2:F/7     *4*:Si     *7*:G/13   D2:Do
+                                              
+                                              
+C.Ruiz-A1    A3:P/6     B3:CS/24>  C3:K       D3:IW>b1
+                        1o K                  
+                                              
+C.Crawfo-A1  *2*:K      B4:L/3     C4:K       D4:L/3
+                                              
+                                              
+A.Rodrig-A1  A5:L/5     *5*:G/53   *8*:G/13
+                                   
+                                   
+J.Herrer-A1  A6:L/5     B6:G/63    C6:G/53
+                                   
+                                   
+F.Gutier-A1  *3*:F/7    B7:L/5     C7:K
+                                   
+                                   
+A.Jones-A1   A8:G/63    *6*:G/53   *9*:HR>b#
+                                   
+                                   
+J.Smoak-A1   A9:Do      B9:K       C9:G/63
+                                   
+                                   
+
+C.Utley-A1   A1:F/9     B1:G/63    C1:Sac/24  D1:Do
+                                   >12        
+                                              
+J.Werth-A1   A2:K       *4*:Si     C2:K       D2:K
+                                              
+                                              
+A.Dunn-A1    A3:K       B3:K       C3:K       *9*:G/43
+                                              
+                                              
+J.Bautis-A1  *2*:G/53   B4:G-DP/6  *7*:Do     D4:G/63
+                        43>1o                 
+                                              
+R.Howard-A1  A5:Si      *5*:Si     C5:K       D5:Si
+J.Rollin-D6                                   
+                                              
+J.Uribe-A1   A6:G/3>12  B6:G-DP/6  C6:P/5     D6:Force/
+P.Polanc-D6             43>1o                 54>1o b1
+                                              
+R.Ibanez-A1  A7:F/8     B7:Si      C7:K
+                                   
+                                   
+S.Victor-A1  *3*:P/6    B8:P/6     *8*:G/31
+                                   
+                                   
+B.Schnei-A1  A9:F/8     *6*:W>b1   C9:F/8
+R.Ankiel-B9                        
+J.Molina-C4                        
+
+

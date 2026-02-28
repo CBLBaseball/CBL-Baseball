@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2011 St. Louis Cardinals At 2011 Philadelphia Phillies    10/7/2011
+
+[1]  Cardinals          AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  J.Jay CF            5  1  3  1 .556     J.Werth RF          4  0  2  1 .222  
+  B.Zobrist 2B        5  1  1  2 .100     P.Polanco 2B        3  0  0  0 .167  
+  L.Milledge LF       4  0  0  0 .091   A-V.Martinez PH       1  0  0  0 .222  
+  M.Cabrera 1B        4  0  3  0 .412     A.Dunn DH           3  0  0  0 .333  
+  J.Drew RF           4  0  1  0 .059     J.Bautista 3B       4  0  0  0 .000  
+  J.Kubel DH          4  0  0  0 .278     R.Howard 1B         3  0  0  0 .125  
+  Y.Molina C          4  1  1  0 .375     J.Uribe SS          3  0  0  0 .250  
+  E.Aybar SS          4  0  1  0 .133     R.Ibanez LF         3  0  0  0 .167  
+  F.Lopez 3B          4  1  1  1 .250     J.Molina C          3  0  0  0 .000  
+                                          S.Victorino CF      2  1  1  0 .154  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  4 11  4                 Totals      29  1  3  1
+
+A-Pinch Hit For Polanco In 9th Inning
+
+Cardinals....... 2 1 0  1 0 0  0 0 0  -  4 11  1
+Phillies........ 0 0 0  0 0 1  0 0 0  -  1  3  0
+
+[1]Cardinals (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wainwright WIN(2-0)        7       3   1   1   1   5   0   1.80  A1 C7
+J.Motte HOLD(1st)            1       0   0   0   0   1   0   0.00  C8 D1
+R.Franklin SAVE(2nd)         1       0   0   0   2   0   0   3.00  D2
+[1]Totals                    9       3   1   1   3   6   0
+
+[1]Phillies (2-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels LOSS(0-2)           6       8   4   4   0   5   2   4.85  A1 C8
+M.Delcarmen                  1       0   0   0   0   0   0   0.00  C9 D2
+J.Contreras                  0 1/3   2   0   0   0   0   0   0.00  D3 D5
+R.Mahay                      0 1/3   0   0   0   0   0   0  27.00  D6 D6
+B.Badenhop                   1 1/3   1   0   0   0   1   0   0.00  D7
+[1]Totals                    9      11   4   4   0   6   2
+
+ATTENDANCE- 41,913 DATE- Friday, October 7th 2011 TIME- Night 
+UMPIRES- Paul Nauert, Tom Hallion, Phil Cuzzi, Angel Campos
+T- 3:05
+LEFT ON BASE- Cardinals: 7  Phillies: 5
+DOUBLE PLAYS- Cardinals: 2  Phillies: 0
+ERRORS- M.Cabrera
+DOUBLES- J.Jay(1st), M.Cabrera-2(2nd), J.Werth(1st)
+TRIPLES- S.Victorino(1st)
+HOME RUNS- B.Zobrist(1st), F.Lopez(1st)
+WALKS- A.Dunn, R.Howard, S.Victorino
+HIT BY PITCH- J.Uribe
+STRIKE OUTS- B.Zobrist, L.Milledge-2, M.Cabrera, Y.Molina, F.Lopez, J.Werth,
+             R.Howard-2, J.Uribe, R.Ibanez, S.Victorino
+GIDP- J.Molina
+2-out RBI- F.Lopez, J.Jay
+
+Adam Wainwright delivered 7 solid innings at Citizen's Bank Park as the St.
+Louis Cardinals beat the Philadelphia Phillies by the count of 4 to 1.
+
+St. Louis started with a bang, jumping out to an early lead in their half of
+the first scoring 2 runners on 3 hits.  That early run support was enough for
+Wainwright(2-0) and St. Louis.  St. Louis out-hit Philadelphia for the game,
+11 hits to 3.  
+
+Ryan Franklin recorded his 2nd save.  Cole Hamels(0-2) took the loss.  He
+allowed 8 hits and no walks in 6 innings.
+[2]
+[1]SCORESHEET: 2011 St. Louis Cardinals at 2011 Philadelphia Phillies
+J.Jay-A1     A1:Si      B1:G/43    C1:Do>3#   D1:G/63    E1:Si
+                                   13                    
+                                                         
+B.Zobris-A1  A2:HR>1#   *3*:K      C2:G/53    D2:F/7     E2:G/43
+             b#                                          
+                                                         
+L.Milled-A1  A3:F/7     B3:K       *5*:K      *8*:L/4
+                                              
+                                              
+M.Cabrer-A1  A4:Si      B4:Do      C4:K       D4:Do
+                                              
+                                              
+J.Drew-A1    A5:F/7     B5:G/13    C5:F/7     D5:Si>23
+                                              
+                                              
+J.Kubel-A1   A6:F/7     *4*:F/8    *6*:G/43   D6:L/4
+                                              
+                                              
+Y.Molina-A1  *2*:G/43   B7:Si      C7:G/13    D7:K
+                                              
+                                              
+E.Aybar-A1   A8:G/13    B8:Si>13   C8:G/63    *9*:G/43
+                                              
+                                              
+F.Lopez-A1   A9:HR>b#   B9:K       *7*:F/8    D9:F/8
+                                              
+                                              
+
+J.Werth-A1   A1:Si      B1:K       C1:Do>3#   D1:G/43
+                                              
+                                              
+P.Polanc-A1  A2:Force/  *4*:G/43   C2:F/9     *9*:G/43
+V.Martin-D2  54>1o b1                         
+                                              
+A.Dunn-A1    A3:L-DP/4  B3:E/3     C3:G/3>23  D3:W>b1
+             3>1o                             
+                                              
+J.Bautis-A1  *2*:G/53   B4:F/8     C4:G/43    D4:F/7
+                                              
+                                              
+R.Howard-A1  A5:K       B5:G/31    *7*:K      D5:W>12 b
+                                              1
+                                              
+J.Uribe-A1   A6:K       *5*:HBP    C6:G/53    D6:G/63
+                                              
+                                              
+R.Ibanez-A1  *3*:G/43   B7:K       C7:G/43
+                                   
+                                   
+J.Molina-A1  A8:F/8     B8:G-DP/4  *8*:G/53
+                        63>1o      
+                                   
+S.Victor-A1  A9:W>b1    *6*:Tr     C9:K
+                                   
+                                   
+
+

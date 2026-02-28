@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2011 Oakland Athletics At 2011 Minnesota Twins            10/6/2011
+
+[1]  Athletics          AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  A.Torres CF         4  1  2  1 .300     M.Young DH          4  0  1  0 .300  
+  D.Barton 1B         5  0  1  1 .286   E-A.Casilla PR,DH     0  0  0  0 ----  
+  C.Gonzalez LF       5  0  2  0 .625     J.Mauer C           4  0  1  0 .077  
+  J.Cust DH           4  0  0  0 .286     R.Weeks 2B          4  1  1  1 .154  
+F-S.Duncan PH         1  0  0  0 .000     D.Young LF          4  0  0  0 .077  
+  M.Prado 3B          4  1  1  0 .154     M.Cuddyer 1B,RF     4  0  1  0 .167  
+G-M.Izturis 3B        0  0  0  0 .667     D.Valencia 3B       3  0  0  0 .000  
+  N.Swisher RF        4  1  1  0 .273   H-R.Brignac PH        1  0  1  01.000  
+B-K.Suzuki C          0  0  0  0 .000     S.Drew SS           4  0  0  0 .077  
+  R.Hernandez C       3  1  2  0 .714     R.Davis RF,CF       2  1  1  0 .400  
+A-C.Ross PH,RF        1  0  0  0 .111     D.Span CF           2  0  0  0 .182  
+  M.Ellis 2B          4  0  2  2 .231   C-J.Gomes PH          0  0  0  0 ----  
+  C.Pennington SS     4  1  2  0 .364   D-J.Morneau PH,1B     1  1  1  2 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  5 13  4                 Totals      33  3  7  3
+
+A-Pinch Hit For Hernandez In 8th Inning
+B-Subbed Defensively (C ) For Swisher In 8th Inning
+C-Pinch Hit For Span In 8th Inning
+D-Pinch Hit For Gomes In 8th Inning
+E-Pinch Ran For Young In 8th Inning
+F-Pinch Hit For Cust In 9th Inning
+G-Subbed Defensively (3B) For Prado In 9th Inning
+H-Pinch Hit For Valencia In 9th Inning
+
+Athletics....... 0 1 0  2 0 0  0 0 2  -  5 13  0
+Twins........... 0 0 0  1 0 0  0 2 0  -  3  7  0
+
+[1]Athletics (2-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Braden                     7 1/3   3   2   2   1   1   1   2.45  A1 C8
+H.Street WIN(1-0) BS(1st)    0 2/3   2   1   1   0   0   1  13.50  C9 D2
+A.Bailey SAVE(1st)           1       2   0   0   0   1   0   0.00  D3
+[1]Totals                    9       7   3   3   1   2   2
+
+[1]Twins (1-2)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Slowey                     6 2/3  10   3   3   1   5   0   4.05  A1 D3
+E.Mujica LOSS(0-1)           1 2/3   2   2   2   0   3   0   4.91  D4 E1
+B.Duensing                   0 1/3   1   0   0   0   0   0   3.86  E2 E3
+H.Bell                       0 1/3   0   0   0   0   1   0   0.00  E4
+[1]Totals                    9      13   5   5   1   9   0
+
+ATTENDANCE- 36,594 DATE- Thursday, October 6th 2011 TIME- Night 
+UMPIRES- Eric Cooper, Scott Barry, Mike Reilly, Chuck Meriwether
+T- 2:58
+LEFT ON BASE- Athletics: 8  Twins: 4
+DOUBLE PLAYS- Athletics: 1  Twins: 1
+DOUBLES- A.Torres(1st), D.Barton(3rd), J.Mauer(1st)
+HOME RUNS- R.Weeks(1st), J.Morneau(2nd)
+STOLEN BASES- A.Torres(1st), R.Davis(2nd)
+WALKS- A.Torres, R.Davis
+STRIKE OUTS- D.Barton-2, J.Cust-2, S.Duncan, M.Prado, N.Swisher-2, C.Ross,
+             R.Weeks, D.Valencia
+GIDP- C.Pennington, J.Mauer
+
+Center fielder Andres Torres had 2 base hits and Dallas Braden had an
+impressive outing at Target Field where the Oakland Athletics beat the
+Minnesota Twins by the score of 5 to 3.
+
+Oakland erupted with the game winning runs in the top of the 9th inning
+scoring 2 runs using 3 hits.  After an out was recorded, Cliff Pennington
+keyed the rally when he lined a single.  Torres followed next and he doubled.
+Daric Barton then doubled.  One out later, Shelley Duncan followed, but he
+was set down on strikes.  Oakland ended up with 13 hits for the game while
+Minnesota had 7.  
+
+Huston Street(1-0) picked up the victory, allowing 1 run in 2/3 of an inning.
+Andrew Bailey recorded the save, his 1st.  Edward Mujica(0-1) took the loss
+in relief.  
+
+[2]
+[1]SCORESHEET: 2011 Oakland Athletics at 2011 Minnesota Twins
+A.Torres-A1  A1:G/43    B1:W>12 b  C1:Si      D1:F/9     E1:Do>1#
+                        1                                
+                                                         
+D.Barton-A1  A2:F/9     B2:P/4     C2:SB>12   D2:K       E2:Do>3#
+                                   K                     
+                                                         
+C.Gonzal-A1  A3:Si      *3*:G/13   *5*:G/53   D3:Si>13   E3:F/8
+                                                         
+                                                         
+J.Cust-A1    A4:K       B4:F/8     C4:K       D4:G/43    E4:K
+S.Duncan-E4                                              
+                                                         
+M.Prado-A1   *2*:Si     B5:G/63    C5:G/53    *8*:K
+M.Izturi-E5                                   
+                                              
+N.Swishe-A1  A6:K       *4*:Si     *6*:L/4    D6:K
+K.Suzuki-D8                                   
+                                              
+R.Hernan-A1  A7:Si>13   B7:Si>13   C7:F/9     D7:K
+C.Ross-D7                                     
+                                              
+M.Ellis-A1   A8:Si>3#   B8:Si>3#   C8:G/31    *9*:G/13
+             12         13                    
+                                              
+C.Pennin-A1  A9:Force/  B9:G-DP/6  *7*:Si     D9:Si
+             46>23 1o   43>3# 1o              
+             b1                               
+
+M.Young-A1   A1:F/7     B1:F/7     C1:G/53    D1:Si
+A.Casill-D2                                   
+                                              
+J.Mauer-A1   A2:P/3     *4*:G/13   C2:Do      D2:G-DP/4
+                                              63>1o
+                                              
+R.Weeks-A1   A3:L/5     B3:HR>b#   C3:P/6     *9*:K
+                                              
+                                              
+D.Young-A1   *2*:G/31   B4:F/8     *7*:F/9    D4:G/53
+                                              
+                                              
+M.Cuddye-A1  A5:G/43    B5:L/4     C5:P/6     D5:Si
+                                              
+                                              
+D.Valenc-A1  A6:F/8     *5*:G/63   C6:K       D6:Si>13
+R.Brigna-D6                                   
+                                              
+S.Drew-A1    *3*:G/63   B7:G/63    *8*:G/43   D7:F/9
+                                              
+                                              
+R.Davis-A1   A8:W>b1    B8:L/5     C8:Si
+                                   
+                                   
+D.Span-A1    A9:SB>12   *6*:G/31   C9:HR>1#
+J.Gomes-C9   F/8                   b#
+J.Mornea-C9                        
+
+

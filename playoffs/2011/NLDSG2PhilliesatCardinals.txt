@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2011 Philadelphia Phillies At 2011 St. Louis Cardinals    10/4/2011
+
+[1]  Phillies           AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  C.Utley 2B          5  0  0  0 .000     C.Maybin CF         4  0  0  0 .125  
+  J.Werth RF          5  1  2  1 .222     B.Zobrist 2B        4  0  0  0 .111  
+  A.Dunn DH           3  0  2  0 .400     J.Drew RF           4  0  0  0 .000  
+  J.Bautista 3B,LF    4  0  0  0 .000     M.Cabrera 1B        4  0  0  0 .375  
+  R.Howard 1B         4  1  1  1 .250     J.Kubel DH          4  0  1  0 .250  
+  V.Martinez C        3  0  0  0 .000     L.Milledge LF       2  0  0  0 .000  
+A-P.Polanco 3B        1  0  0  0 .000     E.Aybar SS          2  0  1  0 .200  
+  J.Rollins SS        3  0  2  0 .667   C-J.Lowrie PH,SS      0  0  0  0 ----  
+  R.Ibanez LF         3  1  1  0 .333     O.Vizquel 3B        2  0  0  0 .000  
+B-B.Schneider C       1  0  0  0 .250   D-L.Morrison PH       1  0  0  0 .000  
+  S.Victorino CF      3  0  1  1 .143   E-F.Lopez 3B          0  0  0  0 ----  
+                                          Y.Molina C          3  0  1  0 .571  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  9  3                 Totals      30  0  3  0
+
+A-Subbed Defensively (3B) For Martinez In 6th Inning
+B-Subbed Defensively (C ) For Ibanez In 6th Inning
+C-Pinch Hit For Aybar In 7th Inning
+D-Pinch Hit For Vizquel In 7th Inning
+E-Subbed Defensively (3B) For Morrison In 8th Inning
+
+Phillies........ 1 0 0  1 0 1  0 0 0  -  3  9  1
+Cardinals....... 0 0 0  0 0 0  0 0 0  -  0  3  0
+
+[1]Phillies (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Lee WIN(1-0)               9       3   0   0   2  12   0   0.00  A1
+[1]Totals                    9       3   0   0   2  12   0
+
+[1]Cardinals (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Arroyo LOSS(0-1)           7       9   3   3   1   4   2   3.86  A1 D4
+K.McClellan                  2       0   0   0   1   3   0   0.00  D5
+[1]Totals                    9       9   3   3   2   7   2
+
+ATTENDANCE- 42,164 DATE- Tuesday, October 4th 2011 TIME- Night 
+UMPIRES- Mike Winters, Lance Barksdale, James Hoye, Randy Marsh
+T- 2:34
+LEFT ON BASE- Phillies: 8  Cardinals: 5
+DOUBLE PLAYS- Phillies: 0  Cardinals: 1
+ERRORS- J.Werth
+DOUBLES- R.Ibanez(2nd), S.Victorino(1st)
+HOME RUNS- J.Werth(1st), R.Howard(1st)
+STOLEN BASES- Y.Molina(1st)
+WALKS- A.Dunn, J.Rollins, L.Milledge, J.Lowrie
+HIT BY PITCH- S.Victorino
+STRIKE OUTS- J.Werth-3, J.Bautista, R.Howard-2, P.Polanco, C.Maybin-3,
+             B.Zobrist-2, J.Drew-2, M.Cabrera-2, J.Kubel, O.Vizquel, Y.Molina
+GIDP- J.Bautista
+2-out RBI- S.Victorino
+
+Jayson Werth hit one over the fence and Cliff Lee shut down the St. Louis
+batters on just 3 hits as the Philadelphia Phillies defeated the St. Louis
+Cardinals by a score of 3 to 0 at Busch Stadium.
+
+Lee(1-0) was on top of his game.  He gave up just 3 hits and 2 walks in 9
+innings.  Lee struckout 12 St. Louis batters.  Philadelphia managed 9 hits in
+their victory.  
+
+Bronson Arroyo(0-1) suffered the loss.  He pitched 7 innings and surrendered 9
+hits and 1 walk. Lee was obviously very pleased with his performance in the
+aftermath of the game, 'It was just one of those games where everything
+worked.  My arm felt great, heck, I could have pitched another two or three
+innings.  I only hope that I can do it again next time out!'
+[2]
+[1]SCORESHEET: 2011 Philadelphia Phillies at 2011 St. Louis Cardinals
+C.Utley-A1   A1:FO/2    B1:P/3     C1:P/6     D1:G/43    E1:P/4
+                                                         
+                                                         
+J.Werth-A1   A2:HR>b#   B2:Si      *5*:K      *7*:K      E2:K
+                                                         
+                                                         
+A.Dunn-A1    A3:G/43    B3:Si>13   C3:W>b1    D3:Si
+                                              
+                                              
+J.Bautis-A1  A4:F/7     B4:F/8     C4:K       D4:G-DP/5
+                                              43>1o
+                                              
+R.Howard-A1  *2*:K      *4*:HR>b#  C5:G/43    *8*:K
+                                              
+                                              
+V.Martin-A1  A6:F/8     B6:F/9     *6*:L/3    D6:K
+P.Polanc-D2                                   
+                                              
+J.Rollin-A1  A7:Si      B7:Si      C7:L/3     D7:W>b1
+                                              
+                                              
+R.Ibanez-A1  A8:G/23    B8:F/8     C8:Do      D8:F/9
+B.Schnei-D2                                   
+                                              
+S.Victor-A1  *3*:P/3    B9:HBP>12  C9:Do>2#   *9*:G/43
+                                              
+                                              
+
+C.Maybin-A1  A1:K       B1:SB>12   C1:K       D1:K
+                        G/63                  
+                                              
+B.Zobris-A1  A2:L/6     *4*:K      C2:K       D2:P/6
+                                              
+                                              
+J.Drew-A1    A3:K       B3:K       *7*:F/8    *9*:F/9
+                                              
+                                              
+M.Cabrer-A1  *2*:F/8    B4:K       C4:K       D4:FO/2
+                                              
+                                              
+J.Kubel-A1   A5:F/8     *5*:K      C5:Si      D5:F/9
+                                              
+                                              
+L.Milled-A1  A6:G/43    B6:L/5     C6:W>12 b
+                                   1
+                                   
+E.Aybar-A1   *3*:F/7    B7:Si+E/9  C7:IW>23
+J.Lowrie-C7                        12 b1
+                                   
+O.Vizque-A1  A8:G/13    B8:K       C8:F/8
+L.Morris-C8                        
+F.Lopez-C9                         
+Y.Molina-A1  A9:Si      *6*:F/8    *8*:K
+                                   
+                                   
+
+

@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Baltimore Orioles           10/3/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  A.Jones DH          5  1  3  0 .600     C.Guillen 2B        5  0  2  0 .400  
+  I.Suzuki RF         4  2  2  0 .500     N.Markakis RF       5  1  2  1 .400  
+  A.Rodriguez 3B      4  2  2  2 .500     A.Gonzalez 1B       4  0  1  1 .250  
+  C.Crawford LF       5  1  1  2 .200     V.Guerrero DH       4  0  1  0 .250  
+  C.Ruiz C            4  1  2  2 .500     L.Scott LF          3  0  1  0 .333  
+  L.Berkman 1B        2  0  1  0 .500     C.Young CF          4  1  1  1 .250  
+A-J.Smoak PH,1B       1  0  0  0 .000     I.Stewart 3B        4  0  0  0 .000  
+  F.Gutierrez CF      4  0  0  0 .000     M.Wieters C         3  1  0  0 .000  
+  W.Valdez 2B         4  1  1  1 .250     J.Hardy SS          3  0  1  0 .333  
+  B.Ryan SS           3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  8 12  7                 Totals      35  3  9  3
+
+A-Pinch Hit For Berkman In 8th Inning
+
+Mariners........ 0 0 0  1 0 2  0 5 0  -  8 12  0
+Orioles......... 0 1 1  0 0 0  0 0 1  -  3  9  1
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(1-0)         8 2/3   9   3   3   4   3   1   3.12  A1 E2
+R.Perry                      0 1/3   0   0   0   0   0   0   0.00  E3
+[1]Totals                    9       9   3   3   4   3   1
+
+[1]Orioles (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+U.Jimenez LOSS(0-1)          7       7   3   3   2   2   0   3.86  A1 D1
+R.Perez                      0       2   3   3   1   0   0   ----  D2 D4
+K.Wood                       1       2   2   0   0   2   0   0.00  D5 D9
+Z.Braddock                   1       1   0   0   1   1   0   0.00  E1
+[1]Totals                    9      12   8   6   4   5   0
+
+ATTENDANCE- 45,944 DATE- Monday, October 3rd 2011 TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 3:10
+LEFT ON BASE- Mariners: 5  Orioles: 9
+DOUBLE PLAYS- Mariners: 1  Orioles: 3
+ERRORS- L.Scott
+DOUBLES- A.Jones(1st), I.Suzuki(1st), W.Valdez(1st), N.Markakis(1st),
+         L.Scott(1st), J.Hardy(1st)
+TRIPLES- A.Rodriguez(1st)
+HOME RUNS- C.Young(1st)
+STOLEN BASES- C.Crawford(1st)
+WALKS- I.Suzuki, A.Rodriguez, L.Berkman, B.Ryan, A.Gonzalez, L.Scott, M.Wieters,
+       J.Hardy
+STRIKE OUTS- A.Rodriguez, C.Crawford, J.Smoak, F.Gutierrez-2, V.Guerrero,
+             L.Scott, J.Hardy
+GIDP- A.Jones, A.Rodriguez, L.Berkman, C.Young
+WILD PITCHES- U.Jimenez
+2-out RBI- W.Valdez, N.Markakis
+
+Third baseman Alex Rodriguez had 2 base hits and 2 RBI at Camden Yards as the
+Seattle Mariners beat the Baltimore Orioles 8 to 3.
+
+In the 6th inning Seattle went on top for good as they scored 2 runs on 3 base
+hits.  The key offensive moment was provided by Rodriguez who helped quiet
+the crowd when he laced a one-base hit plating two runs.  Seattle had 12 hits
+for the game and Baltimore had 9.  
+
+The win was credited to Felix Hernandez(1-0) who went 8 and 2/3 innings
+allowing 3 runs. The loss was charged to Ubaldo Jimenez(0-1).  He pitched 7
+innings allowing 7 hits and 2 walks.
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Baltimore Orioles
+A.Jones-A1   A1:Si      B1:G-DP/5  *6*:Si     D1:G/63    *9*:Do
+                        43>1o                            
+                                                         
+I.Suzuki-A1  A2:Force/  *4*:G/13   C2:Do>13   *8*:Si     E2:W>b1
+             64>1o b1                                    
+                                                         
+A.Rodrig-A1  A3:K       B3:Tr      C3:Si>3#   D3:W>12 b  E3:G-DP/5
+                                   2#         1          4>2o 1o
+                                                         
+C.Crawfo-A1  A4:P/4     B4:G/63>3  C4:Force/  D4:Si>2#   E4:K
+                        #          14>1o b1   13         
+                                                         
+C.Ruiz-A1    *2*:Si     B5:G/63    C5:FO/2    D5:SB>12
+                                              Si>3# 2#
+                                              
+L.Berkma-A1  A6:G-DP/5  *5*:Si     C6:W>12 b  D6:K
+J.Smoak-D6   43>1o                 1          
+                                              
+F.Gutier-A1  A7:K       B7:Force/  C7:G/53    D7:K
+                        36>1o b1              
+                                              
+W.Valdez-A1  *3*:G/13   B8:WP>12   *7*:G/13   D8:Do+E/7
+                        G/63                  >1# b#
+                                              
+B.Ryan-A1    A9:W>b1    B9:F/9     C9:G/63    D9:P/5
+                                              
+                                              
+
+C.Guille-A1  A1:Si      B1:G/63    *5*:L/4    D1:F/9     E1:Si>13
+                                                         
+                                                         
+N.Markak-A1  A2:F/7     *3*:Do     C2:G/63    D2:F/7     E2:Si>3#
+                                                         12
+                                                         
+A.Gonzal-A1  A3:F/8     B3:Si>2#   C3:W>b1    D3:G/13    E3:F/8
+                                                         
+                                                         
+V.Guerre-A1  A4:Si>12   B4:K       C4:G/31    *8*:G/43
+                                              
+                                              
+L.Scott-A1   A5:Force/  B5:W>12 b  *6*:Do     D5:K
+             46>1o b1   1                     
+                                              
+C.Young-A1   *2*:HR>b#  B6:G-DP/6  C6:G/63    D6:G/53
+                        43>1o                 
+                                              
+I.Stewar-A1  A7:G/43    *4*:G/63   C7:F/8     *9*:G/3
+                                              
+                                              
+M.Wieter-A1  A8:F/8     B8:G/31    C8:G/63    D8:W>b1
+                                              
+                                              
+J.Hardy-A1   A9:Do      B9:F/8     *7*:W>b1   D9:K
+                                              
+                                              
+
+

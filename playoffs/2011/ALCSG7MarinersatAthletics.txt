@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Oakland Athletics          10/21/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  I.Suzuki RF         3  1  1  1 .327     A.Torres CF         3  1  0  0 .297  
+  L.Berkman 1B        5  0  0  0 .222     D.Barton 1B         4  0  2  0 .333  
+B-J.Dyson PR          0  0  0  01.000     J.Cust DH           4  0  0  1 .250  
+C-J.Smoak 1B          0  0  0  0 .200     C.Gonzalez LF       4  0  0  0 .400  
+  C.Ruiz C            5  0  1  0 .212     M.Prado 3B          4  0  2  0 .205  
+  C.Crawford LF       4  2  2  1 .259     N.Swisher RF        4  0  0  0 .244  
+  A.Rodriguez 3B      4  1  1  0 .288     R.Hernandez C       2  0  1  0 .333  
+  A.Jones DH          4  0  2  1 .382     M.Ellis 2B          3  0  1  0 .212  
+  J.Herrera 2B        2  1  2  1 .316     C.Pennington SS     3  0  0  0 .262  
+A-B.Ryan PH,SS        2  0  1  0 .136                                          
+  F.Gutierrez CF      3  0  0  0 .152                                          
+  W.Valdez SS,2B      3  0  0  1 .286                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5 10  5                 Totals      31  1  6  1
+
+A-Pinch Hit For Herrera In 5th Inning
+B-Pinch Ran For Berkman In 9th Inning
+C-Subbed Defensively (1B) For Dyson In 9th Inning
+
+Mariners........ 1 0 0  3 1 0  0 0 0  -  5 10  0
+Athletics....... 0 0 0  0 0 1  0 0 0  -  1  6  1
+
+[1]Mariners (8-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(3-1)         9       6   1   1   2   9   0   2.38  A1
+[1]Totals                    9       6   1   1   2   9   0
+
+[1]Athletics (7-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren LOSS(2-2)            9      10   5   5   3   5   0   2.61  A1
+[1]Totals                    9      10   5   5   3   5   0
+
+ATTENDANCE- 34,935 DATE- Friday, October 21st 2011 TIME- Night 
+UMPIRES- Gary Darling, Wally Bell, Marty Foster, Paul Emmel
+T- 2:46
+LEFT ON BASE- Mariners: 7  Athletics: 5
+DOUBLE PLAYS- Mariners: 2  Athletics: 1
+ERRORS- D.Haren
+DOUBLES- I.Suzuki(4th), A.Rodriguez(2nd), D.Barton-2(9th), M.Prado(3rd)
+STOLEN BASES- J.Dyson(5th), C.Crawford-2(4th)
+SACRIFICE FLIES- I.Suzuki
+WALKS- I.Suzuki, F.Gutierrez, W.Valdez, A.Torres, R.Hernandez
+STRIKE OUTS- I.Suzuki, L.Berkman-2, C.Ruiz, A.Jones, D.Barton-2, J.Cust,
+             C.Gonzalez-2, R.Hernandez, M.Ellis, C.Pennington-2
+GIDP- W.Valdez, M.Ellis, C.Pennington
+2-out RBI- A.Jones
+WEB GEMS- Bot 9th: Felix Hernandez robbed Nick Swisher of a base hit.
+
+Felix Hernandez was able to finish what he started and was credited with a
+complete game as the Seattle Mariners defeated the Oakland Athletics by a
+score of 5 to 1 at McAfee Coliseum.
+
+Seattle promptly took the lead in their half of the first plating an isolated
+run on 2 base hits.  Ichiro Suzuki doubled.  Lance Berkman dug into the
+batters box next, but he struck out.  Carlos Ruiz then lashed a single.  Carl
+Crawford followed next and he would hit into a force play.  Crawford then
+stole second base.  Seattle managed 10 hits in their victory.
+
+Hernandez(3-1) picked up the complete game victory, allowing 1 run. Dan
+Haren(2-2) suffered the loss.  He gave up 5 runs and 10 hits in 9 innings.
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Oakland Athletics
+I.Suzuki-A1  A1:Do      *3*:W>b1   C1:SF/9>3  D1:K       E1:F/9
+                                   # 23                  
+                                                         
+L.Berkma-A1  A2:K       B2:PkOff/  C2:G/31    *7*:L/4    E2:E/1
+J.Dyson-E3              13>1o K                          
+J.Smoak-E4                                               
+C.Ruiz-A1    A3:Si>23   B3:F/7     *5*:G/63   D3:G/13    E3:SB>12
+                                                         K
+                                                         
+C.Crawfo-A1  A4:Force/  *4*:Si     C4:Si      D4:G/63
+             64>3# 1o                         
+             b1                               
+A.Rodrig-A1  A5:SB>12   B5:Do>13   C5:SB>12   *8*:F/7
+             F/7                   G/53       
+                                              
+A.Jones-A1   *2*:Si     B6:L/6     C6:Si>2#   D6:K
+                                              
+                                              
+J.Herrer-A1  A7:Si>12   B7:Si>3#   C7:P/6     D7:Si
+B.Ryan-C7               23                    
+                                              
+F.Gutier-A1  A8:F/8     B8:W>12 b  *6*:F/7    D8:L/6
+                        1                     
+                                              
+W.Valdez-A1  A9:G-DP/6  B9:W>3# 2  C9:F/9     *9*:G/63
+             43>1o      3 12 b1               
+                                              
+
+A.Torres-A1  A1:F/9     B1:L/4     C1:W>b1    D1:G/31
+                                              
+                                              
+D.Barton-A1  A2:K       *4*:Do     C2:Do>13   D2:K
+                                              
+                                              
+J.Cust-A1    A3:K       B3:F/9>23  C3:G/43>3  *9*:L/4
+                                   # 23       
+                                              
+C.Gonzal-A1  *2*:F/7    B4:K       C4:K       D4:F/8
+                                              
+                                              
+M.Prado-A1   A5:Do      B5:F/7     *7*:G/63   D5:Si
+                                              
+                                              
+N.Swishe-A1  A6:L/4     *5*:F/8    C6:G/53    D6:G/13
+                                              
+                                              
+R.Hernan-A1  A7:K       B7:W>b1    C7:Si
+                                   
+                                   
+M.Ellis-A1   *3*:Si     B8:G-DP/6  C8:K
+                        43>1o      
+                                   
+C.Pennin-A1  A9:G-DP/6  *6*:K      *8*:K
+             43>1o                 
+                                   
+
+

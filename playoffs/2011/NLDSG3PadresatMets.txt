@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2011 San Diego Padres At 2011 New York (NL) Mets          10/6/2011
+
+[1]  Padres             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  K.Johnson 2B        4  0  1  0 .250     O.Hudson 2B         4  1  1  0 .308  
+  E.Longoria 3B       4  2  1  0 .250     J.Reyes SS          5  1  2  1 .267  
+  R.Ludwick RF        4  2  2  4 .182     I.Davis 1B          4  1  3  1 .250  
+  J.Hairston Jr SS    5  1  1  0 .200     D.Wright 3B         5  0  0  0 .286  
+  M.Ramirez DH        5  1  1  0 .167     J.Willingham LF     4  0  1  1 .300  
+  C.Denorfia CF       4  2  2  1 .500     A.Jones RF          4  0  0  0 .250  
+  E.Hinske 1B         3  0  2  1 .400     S.Hairston CF       2  2  0  0 .000  
+  A.Kearns LF         4  0  1  0 .250     B.Conrad DH         4  1  1  0 .250  
+  N.Hundley C         4  0  1  0 .143     R.Barajas C         4  1  2  2 .364  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  8 12  6                 Totals      36  7 10  5
+
+
+Padres.......... 0 2 4  2 0 0  0 0 0  -  8 12  1
+Mets............ 1 3 0  0 1 0  0 0 2  -  7 10  2
+
+[1]Padres (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Pineiro WIN(1-0)           6       8   5   4   1   4   1   6.00  A1 C9
+L.Gregerson HOLD(1st)        2       0   0   0   0   1   0   0.00  D1 D6
+J.Valverde SAVE(1st)         1       2   2   2   2   0   0  18.00  D7
+[1]Totals                    9      10   7   6   3   5   1
+
+[1]Mets (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Takahashi LOSS(0-1)        2 2/3   8   6   4   1   2   1  13.50  A1 B7
+C.Park                       3       3   2   0   0   4   1   4.15  B8 D2
+S.Burnett                    1 1/3   0   0   0   0   1   0   0.00  D3 D7
+B.Lyon                       2       1   0   0   1   1   0   0.00  D8
+[1]Totals                    9      12   8   4   2   8   2
+
+ATTENDANCE- 40,802 DATE- Thursday, October 6th 2011 TIME- Night 
+UMPIRES- Eric Cooper, Scott Barry, Mike Reilly, Chuck Meriwether
+T- 3:25
+LEFT ON BASE- Padres: 7  Mets: 6
+DOUBLE PLAYS- Padres: 1  Mets: 2
+ERRORS- K.Johnson, O.Hudson, A.Jones
+DOUBLES- E.Longoria(1st), M.Ramirez(1st), A.Kearns(1st), J.Reyes(2nd)
+TRIPLES- O.Hudson(2nd)
+HOME RUNS- R.Ludwick-2(2nd), R.Barajas(3rd)
+SACRIFICE HITS- E.Hinske
+WALKS- K.Johnson, E.Longoria, I.Davis, S.Hairston-2
+HIT BY PITCH- R.Ludwick, C.Denorfia, O.Hudson
+STRIKE OUTS- E.Longoria, M.Ramirez-2, C.Denorfia, E.Hinske, A.Kearns-2,
+             N.Hundley, D.Wright-2, A.Jones-2, S.Hairston
+GIDP- K.Johnson, A.Kearns, J.Reyes
+WILD PITCHES- J.Valverde, B.Lyon
+PASSED BALLS- N.Hundley
+2-out RBI- R.Barajas-2, J.Reyes, E.Hinske, R.Ludwick-2
+
+Right fielder Ryan Ludwick ripped 2 homeruns and had 4 RBI as the San Diego
+Padres defeated the New York (NL) Mets 8 to 7 at Citi Field.
+
+Ludwick provided much of the offense.  He blasted a two-run home run in the
+3rd inning and cracked a two-run shot in the 4th inning.  New York (NL) tried
+unsuccessfully to come back in the 9th.  
+
+The win was credited to Joel Pineiro(1-0) who went 6 innings allowing 5 runs.
+Jose Valverde got the save, his 1st.  Hisanori Takahashi(0-1) was the losing
+pitcher.  San Diego knocked him around a bit, as he gave up 6 runs in 2 and
+2/3 innings.  
+
+'Just one or two mistakes were all it took to beat us tonight' Jerry Manuel
+said.  'We take these games one day at a time, but this one was hard to
+take.'
+[2]
+[1]SCORESHEET: 2011 San Diego Padres at 2011 New York (NL) Mets
+K.Johnso-A1  A1:W>b1    *3*:G/43   C1:G-DP/4  D1:Si      E1:F/9
+                                   63>1o                 
+                                                         
+E.Longor-A1  A2:L/6     B2:Do      C2:E/4     D2:K       E2:W>b1
+                                                         
+                                                         
+R.Ludwic-A1  A3:L/4     B3:HR>2#   C3:HR>1#   D3:HBP>12  E3:WP>23
+                        b#         b#                    12 G/63
+                                                         
+J.Hairst-A1  A4:P/6     B4:Si      C4:L/6     D4:F/9     *9*:G/43
+                                                         
+                                                         
+M.Ramire-A1  *2*:Do     B5:K       *5*:K      *7*:G/63   E5:F/7
+                                                         
+                                                         
+C.Denorf-A1  A6:Si>2#   B6:Si+E/9  C6:HBP     D6:G/63    E6:K
+                        >1#                              
+                                                         
+E.Hinske-A1  A7:Si>13   B7:Si>3#   C7:Sac/34  D7:K
+                                   >12        
+                                              
+A.Kearns-A1  A8:G-DP/6  B8:K       C8:K       *8*:Do
+             43>3# 1o                         
+                                              
+N.Hundle-A1  A9:K       *4*:Si     *6*:G/43   D9:F/8
+                                              
+                                              
+
+O.Hudson-A1  A1:L/4     B1:Tr      C1:F/7     *7*:G/43   E1:WP>3#
+                                                         23 12 HBP
+                                                         
+J.Reyes-A1   A2:Do      B2:Si>3#   C2:G/31    D2:G/53    E2:G-DP/4
+                                                         63>3# 23
+                                                         1o
+I.Davis-A1   A3:Si>2#   B3:Si>12   *5*:Si+E/  D3:F/9     E3:W>b1
+                                   4                     
+                                                         
+D.Wright-A1  A4:K       B4:F/8     C4:K       *8*:F/7    E4:G/13
+                                                         
+                                                         
+J.Willin-A1  A5:PB>12   *3*:Si     C5:G/43>3  D5:F/8
+             L/6                   #          
+                                              
+A.Jones-A1   *2*:G/13   B6:K       C6:G/63    D6:K
+                                              
+                                              
+S.Hairst-A1  A7:W>b1    B7:K       *6*:G/43   *9*:W>b1
+                                              
+                                              
+B.Conrad-A1  A8:F/8     B8:L/3     C8:F/8     D8:Si>12
+                                              
+                                              
+R.Baraja-A1  A9:HR>1#   *4*:F/7    C9:L/4     D9:Si>23
+             b#                               12
+                                              
+
+

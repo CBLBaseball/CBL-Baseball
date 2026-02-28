@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Philadelphia Phillies      10/23/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  I.Suzuki RF         3  0  1  1 .328     J.Werth RF          3  0  1  0 .304  
+  M.Bradley DH        4  0  0  0 .167     R.Ankiel LF         2  0  0  0 .125  
+  C.Ruiz C            4  0  0  0 .189   B-J.Francoeur PH,LF   1  0  0  0 .286  
+  A.Rodriguez 3B      4  0  1  0 .286   E-R.Ibanez PH         0  0  0  0 .129  
+  C.Crawford LF       4  0  0  0 .241   F-C.Utley PH,2B       1  0  0  0 .129  
+  F.Gutierrez CF      3  0  1  0 .163     A.Dunn DH           3  0  0  0 .267  
+  L.Castillo 2B       2  1  1  0 .421   G-J.Molina PH         0  0  0  0 .375  
+A-B.Ryan SS           1  0  0  0 .130     J.Bautista 3B,LF    2  0  0  0 .140  
+  J.Smoak 1B          3  0  1  0 .217     R.Howard 1B         3  0  0  0 .185  
+  P.Janish SS,2B      3  0  0  0 .318     J.Uribe SS          2  0  0  0 .143  
+                                        C-J.Rollins PH,SS     2  0  0  0 .276  
+                                          B.Schneider C       2  0  0  0 .167  
+                                        D-V.Martinez PH,C     2  0  0  0 .188  
+                                          P.Polanco 2B,3B     3  0  0  0 .115  
+                                          S.Victorino CF      3  0  1  0 .310  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      29  0  2  0
+
+A-Subbed Defensively (SS) For Castillo In 5th Inning
+B-Pinch Hit For Ankiel In 6th Inning
+C-Pinch Hit For Uribe In 7th Inning
+D-Pinch Hit For Schneider In 7th Inning
+E-Pinch Hit For Francoeur In 8th Inning
+F-Pinch Hit For Ibanez In 8th Inning
+G-Pinch Hit For Dunn In 9th Inning
+
+Mariners........ 0 0 1  0 0 0  0 0 0  -  1  5  0
+Phillies........ 0 0 0  0 0 0  0 0 0  -  0  2  0
+
+[1]Mariners (9-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hunter WIN(1-0)            5       1   0   0   2   2   0   0.90  A1 C1
+H.Kuo HOLD(2nd)              1 2/3   0   0   0   0   1   0   1.35  C2 C6
+R.Perry HOLD(2nd)            1       0   0   0   0   1   0   5.40  C7 C9
+B.League                     0       1   0   0   0   0   0   4.91  D1 D1
+B.Tallet HOLD(1st)           0 1/3   0   0   0   0   0   0   7.36  D2 D2
+D.Aardsma SAVE(1st)          1       0   0   0   2   2   0   4.15  D3
+[1]Totals                    9       2   0   0   4   6   0
+
+[1]Phillies (8-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels LOSS(1-3)           9       5   1   1   1  11   0   3.16  A1
+[1]Totals                    9       5   1   1   1  11   0
+
+ATTENDANCE- 42,235 DATE- Sunday, October 23rd 2011 TIME- Night 
+UMPIRES- Tim Tschida, Bob Davidson, Jeff Nelson, Mark Carlson
+T- 2:32
+LEFT ON BASE- Mariners: 4  Phillies: 7
+DOUBLE PLAYS- Mariners: 0  Phillies: 1
+DOUBLES- L.Castillo(1st), S.Victorino(6th)
+WALKS- I.Suzuki, J.Werth, J.Molina, J.Bautista-2
+HIT BY PITCH- R.Howard
+STRIKE OUTS- M.Bradley-3, C.Ruiz, A.Rodriguez-3, C.Crawford-2, F.Gutierrez,
+             J.Smoak, R.Ankiel, A.Dunn, R.Howard, J.Rollins-2, P.Polanco
+GIDP- C.Ruiz
+
+At Citizen's Bank Park, the Philadelphia fans witnessed a great pitcher's
+duel.  Tommy Hunter(1-0) finally bested his Philadelphia opposite, Cole
+Hamels(1-3), by the score of 1 to 0.
+
+The game's lone run was scored in the top of the 3rd inning.  Luis Castillo
+doubled.  Justin Smoak was next and he lined a base-hit.  After an out was
+recorded, Ichiro Suzuki came to bat and ripped a one-base hit.  Milton
+Bradley was next to bat, but he was a strikeout victim.  Carlos Ruiz got his
+chance to keep things going, but he went down on strikes.  That early run
+support was enough for Hunter and Seattle.  Seattle had 5 hits for the night
+while Philadelphia had 2.  
+
+David Aardsma earned his 1st save.  Hamels ended up with the loss.  He pitched
+9 innings giving up only 5 hits and 1 walk.
+
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Philadelphia Phillies
+I.Suzuki-A1  A1:W>b1    B1:Si>3#   *6*:F/9    D1:G/53
+                        12                    
+                                              
+M.Bradle-A1  A2:K       B2:K       C2:K       *9*:G/53
+                                              
+                                              
+C.Ruiz-A1    A3:G-DP/6  B3:K       C3:L/6     D3:G/63
+             43>1o                            
+                                              
+A.Rodrig-A1  *2*:K      *4*:K      *7*:K      D4:Si
+                                              
+                                              
+C.Crawfo-A1  A5:K       B5:G/43    C5:F/7     D5:K
+                                              
+                                              
+F.Gutier-A1  A6:K       B6:G/53    C6:Si
+                                   
+                                   
+L.Castil-A1  *3*:Do     *5*:G/63   C7:L/5
+B.Ryan-C1                          
+                                   
+J.Smoak-A1   A8:Si>23   B8:K       *8*:F/8
+                                   
+                                   
+P.Janish-A1  A9:P/3     B9:G/63    C9:F/7
+                                   
+                                   
+
+J.Werth-A1   A1:W>b1    *3*:F/7    C1:F/8     D1:Si
+                                              
+                                              
+R.Ankiel-A1  A2:F/9     B2:K       *6*:F/9    D2:F/8
+J.Franco-C2                                   
+R.Ibanez-D2+                                  
+A.Dunn-A1    A3:K       B3:P/4     C3:F/9     *9*:W>b1
+J.Molina-D3                                   
+                                              
+J.Bautis-A1  A4:W>12 b  *4*:G/13   C4:L/4     D4:W>12 b
+             1                                1
+                                              
+R.Howard-A1  A5:HBP>23  B5:F/9     *7*:G/13   D5:K
+             12                               
+                                              
+J.Uribe-A1   A6:L/4     B6:G/53    C6:K       D6:K
+J.Rollin-C6                                   
+                                              
+B.Schnei-A1  *2*:F/8    *5*:G/63   C7:F/8     D7:G/43
+V.Martin-C7                                   
+                                              
+P.Polanc-A1  A8:G/53    B8:L/6     *8*:K
+                                   
+                                   
+S.Victor-A1  A9:P/6     B9:Do      C9:G/43
+                                   
+                                   
+
+

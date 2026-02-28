@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2011 Philadelphia Phillies At 2011 San Diego Padres      10/14/2011
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Werth RF          5  0  2  0 .257     K.Johnson 2B        4  0  1  0 .185  
+  A.Dunn DH           4  1  2  1 .360     E.Longoria 3B       4  0  1  0 .242  
+D-V.Martinez PH       1  0  0  0 .214     J.Thome DH          3  0  0  0 .188  
+  J.Bautista 3B,LF    3  0  0  0 .036     R.Ludwick LF        3  0  2  0 .323  
+  R.Howard 1B         4  0  1  0 .176     R.Branyan 1B        3  0  0  0 .350  
+  J.Molina C          3  1  1  0 .385   B-N.Cruz PH,RF        0  0  0  0 .000  
+  R.Ibanez LF         2  0  0  0 .136     A.Kearns RF         4  1  1  1 .211  
+A-P.Polanco 3B        1  0  0  0 .143   C-E.Hinske 1B         0  0  0  0 .444  
+  J.Rollins SS        3  0  1  1 .316     T.Gwynn Jr CF       3  0  0  0 .125  
+  S.Victorino CF      3  0  0  0 .321     J.Carroll SS        3  0  0  0 .261  
+  C.Utley 2B          4  0  0  0 .136     A.Ellis C           2  0  0  0 .167  
+                                        E-M.Ramirez PH        1  0  0  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      30  1  5  1
+
+A-Subbed Defensively (3B) For Ibanez In 6th Inning
+B-Pinch Hit For Branyan In 8th Inning
+C-Subbed Defensively (1B) For Kearns In 9th Inning
+D-Pinch Hit For Dunn In 9th Inning
+E-Pinch Hit For Ellis In 9th Inning
+
+Phillies........ 0 0 1  0 0 1  0 0 0  -  2  7  0
+Padres.......... 0 0 0  1 0 0  0 0 0  -  1  5  0
+
+[1]Phillies (6-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+I.Kennedy WIN(2-0)           7       3   1   1   3   6   1   3.00  A1 C9
+J.Thatcher HOLD(1st)         0 2/3   2   0   0   0   2   0   0.00  D1 D4
+B.Lidge SAVE(1st)            1 1/3   0   0   0   1   3   0   0.00  D5
+[1]Totals                    9       5   1   1   4  11   1
+
+[1]Padres (4-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Pineiro LOSS(1-1)          6 1/3   7   2   2   4   2   1   4.66  A1 D4
+J.Peralta                    1       0   0   0   0   1   0   0.00  D5 D6
+B.Wagner                     1 1/3   0   0   0   0   1   0   3.00  D7 E1
+L.Gregerson                  0 1/3   0   0   0   0   1   0   4.15  E2
+[1]Totals                    9       7   2   2   4   5   1
+
+ATTENDANCE- 42,355 DATE- Friday, October 14th 2011 TIME- Night 
+UMPIRES- Chad Fairchild, Larry Vanover, Sam Holbrook, Dan Iassogna
+T- 3:12
+LEFT ON BASE- Phillies: 9  Padres: 8
+DOUBLE PLAYS- Phillies: 1  Padres: 1
+DOUBLES- J.Werth(4th), A.Dunn(2nd), J.Rollins(1st)
+HOME RUNS- A.Dunn(4th), A.Kearns(1st)
+CAUGHT STEALING- K.Johnson
+SACRIFICE HITS- A.Ellis
+WALKS- J.Bautista, R.Ibanez, J.Rollins, S.Victorino, J.Thome, N.Cruz,
+       T.Gwynn Jr, J.Carroll
+HIT BY PITCH- J.Molina, R.Ludwick
+STRIKE OUTS- A.Dunn, V.Martinez, R.Howard, P.Polanco, C.Utley, K.Johnson,
+             J.Thome-2, R.Branyan, A.Kearns-3, T.Gwynn Jr-2, J.Carroll,
+             M.Ramirez
+GIDP- J.Carroll
+
+In a game for the baseball purist, Ian Kennedy(2-0) and Joel Pineiro(1-1)
+squared off in a tense pitching duel, Philadelphia Phillies finally emerged
+victorious over San Diego Padres, 2 to 1.
+
+Philadelphia came up with 1 run in the top of the 6th inning.  Philadelphia
+had a total of 7 hits for the game.  Brad Lidge recorded the save, his 1st.
+
+[2]
+[1]SCORESHEET: 2011 Philadelphia Phillies at 2011 San Diego Padres
+J.Werth-A1   A1:G/63    B1:G/31    C1:Do      *7*:Si     E1:G/31
+                                                         
+                                                         
+A.Dunn-A1    A2:Do      *3*:HR>b#  C2:G/43>2  D2:K       E2:K
+V.Martin-E2                        3                     
+                                                         
+J.Bautis-A1  A3:F/7     B3:G/63    C3:L/6     D3:IW>12
+                                              b1
+                                              
+R.Howard-A1  A4:P/4     B4:F/9     *6*:K      D4:Si>23
+                                              12
+                                              
+J.Molina-A1  *2*:Si     B5:G/43    C5:HBP     D5:F-DP/7
+                                              4>2o
+                                              
+R.Ibanez-A1  A6:Force/  *4*:L/3    C6:W>12 b  *8*:K
+P.Polanc-D1  14>1o b1              1          
+                                              
+J.Rollin-A1  A7:W>12 b  B7:F/9     C7:Do>2#   D7:G/31
+             1                     13         
+                                              
+S.Victor-A1  A8:W>23 1  B8:P/6     C8:FC/42>  D8:G/63
+             2 b1                  3o 23      
+                                              
+C.Utley-A1   A9:P/4     *5*:G/3    C9:F/7     *9*:K
+                                              
+                                              
+
+K.Johnso-A1  A1:Si      B1:F/7     C1:F/8     *8*:K
+                                              
+                                              
+E.Longor-A1  A2:CS/24>  B2:L/6     C2:G/63    D2:Si
+             1o F/7                           
+                                              
+J.Thome-A1   A3:K       B3:IW>23   *6*:L/4    D3:K
+                        12 b1                 
+                                              
+R.Ludwic-A1  *2*:HBP    B4:G/23    C4:Si      D4:Si>12
+                                              
+                                              
+R.Branya-A1  A5:F/9     *4*:F/7    C5:K       D5:W>23 1
+N.Cruz-D5                                     2 b1
+                                              
+A.Kearns-A1  A6:K       B6:HR>b#   C6:K       D6:K
+E.Hinske-D7                                   
+                                              
+T.Gwynn -A1  A7:K       B7:K       *7*:W>b1   *9*:G/13
+                                              
+                                              
+J.Carrol-A1  *3*:W>b1   B8:F/9     C8:G-DP/6  D8:K
+                                   43>1o      
+                                              
+A.Ellis-A1   A9:Sac>12  *5*:F/8    C9:F/9     D9:K
+M.Ramire-D9                                   
+                                              
+
+

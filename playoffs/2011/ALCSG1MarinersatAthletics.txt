@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2011 Seattle Mariners At 2011 Oakland Athletics          10/13/2011
+
+[1]  Mariners           AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  C.Ruiz C            4  0  0  0 .211     A.Torres CF         3  1  1  0 .348  
+B-W.Valdez SS         0  0  0  0 .300     D.Barton 1B         2  1  1  0 .286  
+  I.Suzuki RF         4  0  1  0 .333     J.Cust DH           2  0  0  1 .308  
+  L.Berkman 1B        4  2  2  0 .333     C.Gonzalez LF       4  0  0  0 .400  
+  C.Crawford LF       4  0  2  0 .310     M.Prado 3B,2B       4  1  2  1 .240  
+  A.Rodriguez 3B      3  0  1  2 .321     K.Suzuki C          4  0  0  0 .056  
+  J.Herrera 2B        4  0  0  0 .000     M.Ellis 2B          2  0  1  0 .294  
+  A.Jones DH          3  0  0  0 .389   C-N.Swisher PH        1  1  1  2 .333  
+  F.Gutierrez CF      3  0  0  0 .200   D-M.Izturis 3B        0  0  0  0 .300  
+  B.Ryan SS           2  0  0  0 .133     C.Ross RF           4  0  0  0 .100  
+A-Y.Torrealba PH,C    1  0  0  0 .000     C.Pennington SS     4  0  1  0 .261  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  6  2                 Totals      30  4  7  4
+
+A-Pinch Hit For Ryan In 8th Inning
+B-Subbed Defensively (SS) For Ruiz In 8th Inning
+C-Pinch Hit For Ellis In 8th Inning
+D-Subbed Defensively (3B) For Swisher In 9th Inning
+
+Mariners........ 0 0 0  1 0 0  0 0 1  -  2  6  0
+Athletics....... 0 0 2  0 0 0  0 2    -  4  7  0
+
+[1]Mariners (4-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez LOSS(2-1)        8       7   4   4   5  10   1   2.81  A1
+[1]Totals                    8       7   4   4   5  10   1
+
+[1]Athletics (5-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren WIN(2-1)             8       4   1   1   0   7   0   1.57  A1 D1
+H.Street                     0 2/3   1   1   1   0   1   0  13.50  D2 D4
+A.Bailey SAVE(3rd)           0 1/3   1   0   0   0   0   0   0.00  D5
+[1]Totals                    9       6   2   2   0   8   0
+
+ATTENDANCE- 32,598 DATE- Thursday, October 13th 2011 TIME- Night 
+UMPIRES- Dan Iassogna, Chad Fairchild, Larry Vanover, Sam Holbrook
+T- 2:32
+LEFT ON BASE- Mariners: 4  Athletics: 8
+DOUBLE PLAYS- Mariners: 0  Athletics: 0
+DOUBLES- L.Berkman(2nd), C.Crawford(2nd), A.Rodriguez(1st), A.Torres(5th)
+HOME RUNS- N.Swisher(1st)
+STOLEN BASES- C.Crawford(2nd)
+SACRIFICE FLIES- A.Rodriguez, J.Cust
+WALKS- A.Torres, D.Barton-2, J.Cust, M.Ellis
+STRIKE OUTS- C.Ruiz, I.Suzuki, A.Rodriguez, J.Herrera-2, F.Gutierrez-2, B.Ryan,
+             A.Torres, D.Barton, J.Cust, C.Gonzalez-3, M.Prado, C.Ross-2,
+             C.Pennington
+WILD PITCHES- F.Hernandez
+2-out RBI- M.Prado, A.Rodriguez
+
+Dan Haren delivered 8 solid innings at McAfee Coliseum where the Oakland
+Athletics beat the Seattle Mariners by the score of 4 to 2.
+
+Seattle was unable to claim the lead after Oakland went ahead in the bottom of
+the 3rd inning when they scored 2 runs on 2 hits.  Seattle tried
+unsuccessfully to come back in the 9th.  
+
+The victory was credited to Haren(2-1) who went 8 innings, allowing 1 run.
+Haren got help from Andrew Bailey who was credited with his 3rd save.  Felix
+Hernandez(2-1) was the losing pitcher.  
+
+[2]
+[1]SCORESHEET: 2011 Seattle Mariners at 2011 Oakland Athletics
+C.Ruiz-A1    A1:K       B1:L/6     *6*:F/9    D1:G/63
+W.Valdez-D2                                   
+                                              
+I.Suzuki-A1  A2:Si      *4*:F/9    C2:G/43    *9*:K
+                                              
+                                              
+L.Berkma-A1  A3:Force/  B3:Si      C3:G/63    D3:Do
+             64>1o b1                         
+                                              
+C.Crawfo-A1  A4:G/63    B4:Si>13   *7*:Do     D4:G/3>23
+                                              
+                                              
+A.Rodrig-A1  *2*:G/23   B5:SB>12   C5:K       D5:Do>3#
+                        SF/7>3#               
+                                              
+J.Herrer-A1  A6:K       B6:G/43    C6:K       D6:G/3
+                                              
+                                              
+A.Jones-A1   A7:F/9     *5*:G/53   C7:G/63
+                                   
+                                   
+F.Gutier-A1  *3*:K      B8:K       *8*:G/53
+                                   
+                                   
+B.Ryan-A1    A9:G/53    B9:K       C9:G/53
+Y.Torrea-C9                        
+                                   
+
+A.Torres-A1  A1:F/8     *3*:W>b1   C1:K       *7*:Do
+                                              
+                                              
+D.Barton-A1  A2:W>b1    B2:Si>12   C2:W>12 b  D2:K
+                                   1          
+                                              
+J.Cust-A1    A3:W>12 b  B3:WP>23   C3:K       D3:F/8
+             1          12 SF/9>3             
+                        #                     
+C.Gonzal-A1  A4:K       B4:K       *5*:F/9    D4:K
+                                              
+                                              
+M.Prado-A1   A5:K       B5:Si>2#   C5:F/8     *8*:Si
+                                              
+                                              
+K.Suzuki-A1  *2*:G/63   B6:G/63    C6:G/13    D6:P/4
+                                              
+                                              
+M.Ellis-A1   A7:Si      *4*:W>b1   *6*:F/9    D7:HR>1#
+N.Swishe-D7                                   b#
+M.Izturi-E1                                   
+C.Ross-A1    A8:F/9     B8:G/43>1  C8:K       D8:K
+                        2                     
+                                              
+C.Pennin-A1  A9:F/8     B9:Si>23   C9:F/9     D9:K
+                                              
+                                              
+
+

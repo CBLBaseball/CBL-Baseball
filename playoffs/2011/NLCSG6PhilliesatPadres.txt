@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2011 Philadelphia Phillies At 2011 San Diego Padres      10/20/2011
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Werth RF          5  2  3  3 .302     J.Hairston Jr SS    3  0  1  0 .273  
+  A.Dunn DH           5  0  0  0 .286   D-R.Ludwick PH        1  0  0  0 .313  
+  J.Bautista 3B,LF    4  1  2  1 .146     K.Johnson 2B        3  0  0  0 .238  
+  R.Howard 1B         4  0  1  0 .196     E.Longoria 3B       4  0  0  0 .204  
+  J.Molina C          3  0  1  0 .375     J.Thome DH          3  0  0  0 .154  
+A-P.Polanco PH,3B     0  0  0  0 .130   E-M.Ramirez PH        1  0  1  0 .368  
+  R.Ibanez LF         3  0  0  0 .129     N.Cruz RF           4  0  0  0 .167  
+B-B.Schneider C       0  0  0  0 .200     R.Branyan 1B        3  0  0  0 .296  
+  J.Rollins SS        3  1  0  0 .296     N.Hundley C         2  0  1  0 .261  
+  S.Victorino CF      4  0  1  1 .308   C-A.Ellis PH,C        1  0  0  0 .125  
+  C.Utley 2B          4  1  1  0 .133     A.Kearns LF         3  0  0  0 .167  
+                                          C.Denorfia CF       3  0  1  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  9  5                 Totals      31  0  4  0
+
+A-Pinch Hit For Molina In 8th Inning
+B-Subbed Defensively (C ) For Ibanez In 8th Inning
+C-Pinch Hit For Hundley In 8th Inning
+D-Pinch Hit For Hairston Jr In 9th Inning
+E-Pinch Hit For Thome In 9th Inning
+
+Phillies........ 1 1 0  0 3 0  0 0 0  -  5  9  1
+Padres.......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+
+[1]Phillies (8-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Moyer WIN(1-0)             7       3   0   0   0   3   0   0.00  A1 C6
+B.Badenhop                   1 2/3   0   0   0   1   2   0   0.00  C7 D3
+J.Thatcher                   0 1/3   1   0   0   0   1   0   0.00  D4
+[1]Totals                    9       4   0   0   1   6   0
+
+[1]Padres (6-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Pineiro LOSS(1-2)          5       8   5   5   0   0   3   5.55  A1 C5
+L.Gregerson                  3       1   0   0   1   3   0   4.70  C6 D8
+J.Peralta                    1       0   0   0   0   0   0   6.75  D9
+[1]Totals                    9       9   5   5   1   3   3
+
+ATTENDANCE- 41,878 DATE- Thursday, October 20th 2011 TIME- Night 
+UMPIRES- Laz Diaz, Jerry Layne, Tony Randazzo, Chris Guccione
+T- 2:41
+LEFT ON BASE- Phillies: 6  Padres: 5
+DOUBLE PLAYS- Phillies: 1  Padres: 0
+ERRORS- S.Victorino
+DOUBLES- J.Werth(6th), N.Hundley(3rd)
+TRIPLES- S.Victorino(3rd)
+HOME RUNS- J.Werth-2(6th), J.Bautista(2nd)
+SACRIFICE HITS- J.Rollins
+WALKS- R.Ibanez, K.Johnson
+HIT BY PITCH- P.Polanco
+STRIKE OUTS- R.Howard, J.Rollins, C.Utley, E.Longoria, N.Cruz, R.Branyan-2,
+             A.Kearns-2
+GIDP- K.Johnson
+2-out RBI- S.Victorino
+
+Jayson Werth knocked 2 homeruns and had 3 RBI and Jamie Moyer came through
+with a solid 7 innings as the Philadelphia Phillies defeated the San Diego
+Padres by the score of 5 to 0 at Petco Park.
+
+Werth provided the offensive punch.  He hit a bases-empty home run in the 1st
+inning, bombed a two-run dinger in the 5th inning and doubled in the 7th
+inning.  Philadelphia had 9 hits for the night while San Diego had 4.  
+
+The win went to Moyer(1-0) who allowed no runs in 7 innings. Joel Pineiro(1-2)
+was the losing pitcher.  He served up 3 gopher balls in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2011 Philadelphia Phillies at 2011 San Diego Padres
+J.Werth-A1   A1:HR>b#   *3*:G/63   C1:HR>1#   D1:Do      E1:G/53
+                                   b#                    
+                                                         
+A.Dunn-A1    A2:G/43    B2:G/43    C2:G/31    D2:L/4     E2:F/8
+                                                         
+                                                         
+J.Bautis-A1  A3:F/7     B3:Si      C3:HR>b#   D3:F/9
+                                              
+                                              
+R.Howard-A1  A4:G/63    B4:Si>12   C4:G/31    *8*:K
+                                              
+                                              
+J.Molina-A1  *2*:Si     B5:G/23    C5:F/8     D5:HBP
+P.Polanc-D5                                   
+                                              
+R.Ibanez-A1  A6:FO/3    *4*:FO/2   *6*:F/8    D6:W>12 b
+B.Schnei-D9                                   1
+                                              
+J.Rollin-A1  A7:Force/  B7:F/9     C7:K       D7:Sac/34
+             46>1o b1                         >23 12
+                                              
+S.Victor-A1  A8:Tr>1#   B8:G/43    C8:L/4     D8:L/4
+                                              
+                                              
+C.Utley-A1   A9:G/63    *5*:Si     *7*:K      *9*:G/43
+                                              
+                                              
+
+J.Hairst-A1  A1:Si      *4*:E/8>b  C1:F/8     *9*:F/7
+R.Ludwic-D1             2                     
+                                              
+K.Johnso-A1  A2:G-DP/6  B2:G/3>23  C2:F/8     D2:W>b1
+             43>1o                            
+                                              
+E.Longor-A1  A3:L/6     B3:F/9     C3:G/53    D3:K
+                                              
+                                              
+J.Thome-A1   *2*:L/4    B4:G/3     *7*:F/8    D4:Si>12
+M.Ramire-D4                                   
+                                              
+N.Cruz-A1    A5:G/3     *5*:F/9    C5:F/8     D5:K
+                                              
+                                              
+R.Branya-A1  A6:K       B6:K       C6:G/13
+                                   
+                                   
+N.Hundle-A1  *3*:F/8    B7:Do      *8*:G/63
+A.Ellis-C7                         
+                                   
+A.Kearns-A1  A8:K       B8:G/53    C8:K
+                                   
+                                   
+C.Denorf-A1  A9:P/5     *6*:Si     C9:F/9
+                                   
+                                   
+
+

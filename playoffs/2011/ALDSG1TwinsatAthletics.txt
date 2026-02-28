@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2011 Minnesota Twins At 2011 Oakland Athletics            10/3/2011
+
+[1]  Twins              AB  R  H RBI AVG     Athletics          AB  R  H RBI AVG
+  M.Young 3B          4  1  1  0 .250     A.Torres CF         4  2  1  0 .250  
+  D.Span DH           4  1  1  1 .250     D.Barton 1B         4  3  2  1 .500  
+  J.Mauer C           4  0  0  1 .000     J.Cust DH           3  0  2  1 .667  
+  D.Young LF          4  0  0  0 .000   A-S.Duncan PH         1  0  0  0 .000  
+  J.Morneau 1B        3  0  1  0 .333   D-A.Rosales PH        1  1  1  11.000  
+E-R.Brignac PH        1  0  1  01.000     C.Gonzalez LF       5  2  5  41.000  
+  R.Weeks 2B          3  0  0  0 .000     N.Swisher RF        3  0  1  1 .333  
+  S.Drew SS           4  1  1  0 .250   C-M.Izturis 2B        1  1  1  11.000  
+  M.Cuddyer RF        3  0  0  0 .000     C.Pennington SS     4  1  2  0 .500  
+  R.Davis CF          3  0  2  1 .667     M.Prado 3B          5  0  1  1 .200  
+                                          M.Ellis 2B          3  0  0  0 .000  
+                                        B-C.Ross PH,RF        2  0  0  0 .000  
+                                          K.Suzuki C          4  1  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  7  3                 Totals      40 11 16 10
+
+A-Pinch Hit For Cust In 7th Inning
+B-Pinch Hit For Ellis In 7th Inning
+C-Subbed Defensively (2B) For Swisher In 8th Inning
+D-Pinch Hit For Duncan In 8th Inning
+E-Pinch Hit For Morneau In 9th Inning
+
+Twins........... 0 0 1  0 0 0  0 0 2  -  3  7  0
+Athletics....... 0 0 0  0 2 0  3 6    - 11 16  0
+
+[1]Twins (0-1)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Pavano LOSS(0-1)           6       7   3   3   2   6   0   4.50  A1 D1
+J.Lopez                      0       0   1   1   1   0   0   ----  D2 D2
+E.Mujica                     0 1/3   0   0   0   0   0   0   0.00  D3 D3
+B.Duensing                   0       2   1   1   0   0   0   ----  D4 D5
+K.Loe                        1       3   3   3   1   1   0  27.00  D6 E3
+K.Farnsworth                 0 2/3   4   3   3   0   0   2  40.50  E4
+[1]Totals                    8      16  11  11   4   7   2
+
+[1]Athletics (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren WIN(1-0)             8       4   1   1   0   6   0   1.13  A1 C9
+J.Karstens                   1       3   2   2   0   0   0  18.00  D1
+[1]Totals                    9       7   3   3   0   6   0
+
+ATTENDANCE- 32,617 DATE- Monday, October 3rd 2011 TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 3:18
+LEFT ON BASE- Twins: 4  Athletics:10
+DOUBLE PLAYS- Twins: 0  Athletics: 1
+DOUBLES- R.Brignac(1st), S.Drew(1st), D.Barton(1st), J.Cust(1st),
+         C.Gonzalez-2(2nd), C.Pennington(1st), M.Prado(1st)
+TRIPLES- D.Span(1st)
+HOME RUNS- C.Gonzalez(1st), M.Izturis(1st)
+STOLEN BASES- C.Gonzalez(1st), C.Pennington(1st), K.Suzuki(1st)
+WALKS- A.Torres, D.Barton, N.Swisher, C.Pennington
+HIT BY PITCH- R.Weeks, K.Suzuki
+STRIKE OUTS- M.Young, D.Span, J.Morneau-2, R.Weeks, S.Drew, A.Torres, D.Barton,
+             J.Cust, N.Swisher, M.Ellis, K.Suzuki-2
+GIDP- M.Young
+PASSED BALLS- J.Mauer-2
+2-out RBI- D.Barton, J.Cust
+
+Carlos Gonzalez had 5 hits and 4 RBI and Dan Haren pitched 8 strong innings as
+the Oakland Athletics defeated the Minnesota Twins by the score of 11 to 3 at
+McAfee Coliseum.
+
+Gonzalez had a good evening at the plate.  He ripped a base-hit in the 1st
+inning, doubled in the 4th inning, stroked a single in the 5th inning,
+doubled plating a run in the 7th inning and rifled a three-run blast in the
+8th inning.  Minnesota was out-hit by Oakland, 16 hits to 7.  
+
+Haren(1-0) picked up the victory, allowing 1 run in 8 innings. Carl
+Pavano(0-1) was charged with the loss.  'Gonzalez led the way - we just
+jumped on his back and let him take us,' Haren said. 'I'm glad I don't have
+to face him. I'm glad he's on my team.'
+[2]
+[1]SCORESHEET: 2011 Minnesota Twins at 2011 Oakland Athletics
+M.Young-A1   A1:F/7     B1:G-DP/3  C1:K       *9*:Si
+                        63>1o                 
+                                              
+D.Span-A1    A2:K       *4*:F/9    C2:G/3     D2:Tr>1#
+                                              
+                                              
+J.Mauer-A1   A3:G/53    B3:F/9     *7*:F/9    D3:G/13>3
+                                              #
+                                              
+D.Young-A1   *2*:G/43   B4:G/53    C4:L/6     D4:P/6
+                                              
+                                              
+J.Mornea-A1  A5:K       *5*:K      C5:Si      D5:Do
+R.Brigna-D5                                   
+                                              
+R.Weeks-A1   A6:K       B6:G/63    C6:G/43    D6:HBP
+                                              
+                                              
+S.Drew-A1    *3*:Do     B7:G/63    *8*:K      D7:L/4
+                                              
+                                              
+M.Cuddye-A1  A8:F/7     *6*:G/63   C8:P/5
+                                   
+                                   
+R.Davis-A1   A9:Si>2#   B9:Si      C9:G/53
+                                   
+                                   
+
+A.Torres-A1  A1:L/3     B1:G/31    C1:SB>12   *7*:W>b1   E1:Si
+                                   K                     
+                                                         
+D.Barton-A1  A2:G/3     B2:K       C2:PB>23   D2:W>12 b  E2:Si>13
+                                   Do>3#      1          
+                                                         
+J.Cust-A1    A3:Do      *4*:K      C3:Si>2#   D3:G/53>2  E3:Si>3#
+S.Duncan-D3                                   3 12       13
+A.Rosale-E3                                              
+C.Gonzal-A1  A4:Si>23   B4:Do      C4:Si>13   D4:PB>3#   E4:HR>3#
+                                              23 Do>3#   1# b#
+                                                         
+N.Swishe-A1  A5:G/3     B5:K       C5:SB>12   D5:Si>2#   E5:HR>b#
+M.Izturi-D9                        IW>b1                 
+                                                         
+C.Pennin-A1  *2*:G/63   B6:Si>23   C6:F/9     D6:W>b1    E6:Do
+                                                         
+                                                         
+M.Prado-A1   A7:G/63    B7:SB>12   *6*:G/53   D7:F/8     E7:Do>2#
+                        F/8                              
+                                                         
+M.Ellis-A1   A8:F/8     *5*:F/8    C8:K       D8:Force/  E8:G/63
+C.Ross-D8                                     54>1o b1   
+                                                         
+K.Suzuki-A1  *3*:K      B9:HBP     C9:F/8     *8*:K      E9:P/6
+                                                         
+                                                         
+
+

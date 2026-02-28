@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2011 Philadelphia Phillies At 2011 Seattle Mariners      10/27/2011
+
+[1]  Phillies           AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  C.Utley 2B          4  0  1  0 .154     I.Suzuki RF         4  0  1  0 .324  
+  J.Werth RF          4  0  0  0 .269     M.Bradley DH        2  0  2  0 .227  
+  A.Dunn DH           3  0  0  0 .255   A-A.Jones PH          1  0  0  0 .375  
+  J.Bautista 3B,LF    3  1  2  1 .185     A.Rodriguez 3B      4  0  0  0 .273  
+  R.Howard 1B         3  0  0  0 .177     F.Gutierrez CF      3  0  0  0 .153  
+  J.Molina C          2  0  0  0 .286   G-L.Berkman PH        0  0  0  0 .194  
+  R.Ibanez LF         3  0  0  0 .128     Y.Torrealba C       4  0  1  0 .240  
+B-R.Ankiel LF         0  0  0  0 .077     J.Herrera 2B        4  0  1  0 .308  
+C-P.Polanco 3B        0  0  0  0 .115     C.Crawford LF       3  0  0  0 .232  
+  J.Rollins SS        3  0  0  0 .286     W.Valdez SS         2  0  1  0 .310  
+  S.Victorino CF      3  0  0  0 .245   D-P.Janish PH         1  0  1  0 .333  
+                                        E-J.Dyson PR,1B       0  0  0  01.000  
+                                          J.Smoak 1B          2  0  0  0 .179  
+                                        F-B.Ryan PH,SS        0  0  0  0 .125  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  1  3  1                 Totals      30  0  7  0
+
+A-Pinch Hit For Bradley In 6th Inning
+B-Subbed Defensively (LF) For Ibanez In 7th Inning
+C-Subbed Defensively (3B) For Ankiel In 8th Inning
+D-Pinch Hit For Valdez In 8th Inning
+E-Pinch Ran For Janish In 8th Inning
+F-Pinch Hit For Smoak In 8th Inning
+G-Pinch Hit For Gutierrez In 9th Inning
+
+Phillies........ 0 0 0  1 0 0  0 0 0  -  1  3  0
+Mariners........ 0 0 0  0 0 0  0 0 0  -  0  7  1
+
+[1]Phillies (9-7)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Moyer WIN(2-0)             7       6   0   0   1   2   0   0.00  A1 C8
+J.Thatcher HOLD(2nd)         1       0   0   0   0   0   0   0.00  C9 D2
+B.Lidge HOLD(2nd)            0 2/3   0   0   0   1   0   0   3.38  D3 D5
+C.Breslow SAVE(1st)          0 1/3   1   0   0   0   1   0   0.00  D6
+[1]Totals                    9       7   0   0   2   3   0
+
+[1]Mariners (11-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Pauley LOSS(1-1)           9       3   1   1   3   2   1   1.16  A1
+[1]Totals                    9       3   1   1   3   2   1
+
+ATTENDANCE- 47,316 DATE- Thursday, October 27th 2011 TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 2:23
+LEFT ON BASE- Phillies: 3  Mariners: 7
+DOUBLE PLAYS- Phillies: 1  Mariners: 3
+ERRORS- J.Smoak
+HOME RUNS- J.Bautista(4th)
+STOLEN BASES- I.Suzuki(4th), J.Dyson(6th)
+CAUGHT STEALING- M.Bradley
+SACRIFICE HITS- A.Jones, B.Ryan
+WALKS- A.Dunn, J.Bautista, J.Molina, L.Berkman, C.Crawford
+STRIKE OUTS- A.Dunn-2, F.Gutierrez, C.Crawford, W.Valdez
+GIDP- J.Werth, R.Howard, J.Molina, A.Rodriguez
+
+Jamie Moyer(2-0) and David Pauley(1-1) treated the Seattle fans to a fine
+pitching duel at SAFECO Field.  The Philadelphia Phillies eventually emerged
+as victors over the Seattle Mariners by the score of 1 to 0.
+
+The winning run, and the only run, was scored by Philadelphia in the top of
+the 4th inning.  Seattle threatened in the 9th but Philadelphia was able to
+put down the rally.  
+
+Moyer got help from Craig Breslow who earned his 1st save.  'You have to give
+Seattle credit, they fought us tough to the end' Charlie Manuel said.  'It
+could have gone either way, but I'm glad we pulled out the victory.'
+[2]
+[1]SCORESHEET: 2011 Philadelphia Phillies at 2011 Seattle Mariners
+C.Utley-A1   A1:F/8     B1:G/43    *6*:Si     D1:G/31
+                                              
+                                              
+J.Werth-A1   A2:G/63    B2:F/7     C2:G-DP/5  *9*:F/8
+                                   43>1o      
+                                              
+A.Dunn-A1    A3:W>b1    *4*:F/9    C3:K       D3:K
+                                              
+                                              
+J.Bautis-A1  A4:Si>12   B4:HR>b#   *7*:W>b1   D4:G/63
+                                              
+                                              
+R.Howard-A1  A5:G/43    B5:E/3     C5:G-DP/6
+                                   43>1o
+                                   
+J.Molina-A1  *2*:G/63   B6:G-DP/6  C6:W>b1
+                        43>1o      
+                                   
+R.Ibanez-A1  A7:F/8     *5*:G/43   C7:G/63
+R.Ankiel-C8                        
+P.Polanc-D2                        
+J.Rollin-A1  A8:G/43    B8:P/4     *8*:G/63
+                                   
+                                   
+S.Victor-A1  *3*:G/43   B9:G/3     C9:G/53
+                                   
+                                   
+
+I.Suzuki-A1  A1:G/63    B1:L/3     *6*:Si     D1:FC/32>
+                                              3o
+                                              
+M.Bradle-A1  A2:Si      B2:Si CS/  C2:SB>12   D2:P/5
+A.Jones-C2              24>1o      Sac/14>23  
+                                              
+A.Rodrig-A1  A3:G-DP/6  *4*:G/63   C3:L/6     *9*:L/6
+             43>1o                            
+                                              
+F.Gutier-A1  *2*:F/7    B4:G/43    C4:K       D4:W>b1
+L.Berkma-D4                                   
+                                              
+Y.Torrea-A1  A5:Si      B5:G/3     *7*:G/63   D5:F/8
+                                              
+                                              
+J.Herrer-A1  A6:G/43>1  *5*:G/63   C6:P/5     D6:Si>13
+             2                                
+                                              
+C.Crawfo-A1  A7:W>b1    B7:G/43    C7:F/7     D7:K
+                                              
+                                              
+W.Valdez-A1  A8:K       B8:Si      *8*:Si
+P.Janish-C8                        
+J.Dyson-C9                         
+J.Smoak-A1   *3*:F/7    B9:G/63    C9:SB>12
+B.Ryan-C9                          Sac/14>23
+                                   
+
+

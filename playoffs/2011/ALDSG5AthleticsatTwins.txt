@@ -1,0 +1,117 @@
+[1]BOXSCORE: 2011 Oakland Athletics At 2011 Minnesota Twins            10/8/2011
+
+[1]  Athletics          AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  A.Torres CF         5  1  2  0 .350     M.Young 3B          4  0  1  0 .278  
+  D.Barton 1B         4  0  1  1 .261     J.Mauer C           4  0  0  0 .143  
+  J.Cust DH           3  1  1  1 .364     R.Weeks 2B          4  0  1  0 .200  
+C-S.Duncan PH         1  0  0  0 .000     D.Young LF          4  0  1  0 .095  
+  C.Gonzalez LF       3  0  1  0 .500     M.Cuddyer 1B        3  0  2  0 .333  
+  N.Swisher RF        3  0  1  1 .222     J.Gomes DH          4  0  0  0 .000  
+  C.Pennington SS     4  0  0  0 .263     Y.Betancourt SS     4  0  1  0 .250  
+  M.Prado 3B          4  1  1  0 .190     D.Span CF           4  0  2  0 .235  
+  M.Ellis 2B          2  0  1  0 .267     R.Davis RF          3  0  0  0 .235  
+A-C.Ross PH           1  0  0  0 .154                                          
+B-M.Izturis 2B        1  0  1  0 .500                                          
+  K.Suzuki C          4  1  1  1 .071                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4 10  4                 Totals      34  0  8  0
+
+A-Pinch Hit For Ellis In 7th Inning
+B-Subbed Defensively (2B) For Ross In 7th Inning
+C-Pinch Hit For Cust In 9th Inning
+
+Athletics....... 0 0 0  0 0 0  4 0 0  -  4 10  0
+Twins........... 0 0 0  0 0 0  0 0 0  -  0  8  0
+
+[1]Athletics (3-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Anderson WIN(1-0)          9       8   0   0   1   3   0   0.00  A1
+[1]Totals                    9       8   0   0   1   3   0
+
+[1]Twins (2-3)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Baker                      5 2/3   4   0   0   1   8   0   0.00  A1 C4
+B.Duensing LOSS(0-1)         0 1/3   1   1   1   1   0   0   6.00  C5 C7
+E.Mujica                     3       5   3   3   1   4   0   6.75  C8
+[1]Totals                    9      10   4   4   3  12   0
+
+ATTENDANCE- 36,114 DATE- Saturday, October 8th 2011 TIME- Night 
+UMPIRES- Larry Vanover, Sam Holbrook, Dan Iassogna, Chad Fairchild
+T- 2:50
+LEFT ON BASE- Athletics: 8  Twins: 8
+DOUBLE PLAYS- Athletics: 1  Twins: 1
+DOUBLES- A.Torres-2(4th), J.Cust(2nd), M.Prado(2nd), M.Cuddyer(2nd)
+SACRIFICE HITS- D.Barton
+WALKS- J.Cust, C.Gonzalez, N.Swisher, M.Cuddyer
+STRIKE OUTS- A.Torres-2, D.Barton-3, J.Cust-2, S.Duncan, C.Pennington,
+             M.Prado-2, C.Ross, R.Weeks-2, J.Gomes
+GIDP- K.Suzuki, R.Davis
+WILD PITCHES- B.Anderson
+2-out RBI- J.Cust, N.Swisher
+
+Brett Anderson pitched a complete game shutout as the Oakland Athletics
+defeated the Minnesota Twins by a score of 4 to 0 at Target
+Field.
+
+Anderson(1-0) was solid in the win.  He was stingy on the mound, allowing just
+8 hits and 1 walk in 9 innings.  Oakland banged out 10 hits on the night.
+
+The losing pitcher was Brian Duensing(0-1) in relief.  He surrendered 1 hit
+and 1 walk in 1/3 of an inning.
+[2]
+[1]SCORESHEET: 2011 Oakland Athletics at 2011 Minnesota Twins
+A.Torres-A1  A1:F/7     B1:Do      *6*:K      D1:Do>13   *9*:K
+                                                         
+                                                         
+D.Barton-A1  A2:Si      B2:K       C2:K       D2:Sac/34  E2:K
+                                              >3# 23     
+                                                         
+J.Cust-A1    A3:K       *4*:K      C3:W>b1    D3:Do>3#   E3:K
+S.Duncan-E3                                              
+                                                         
+C.Gonzal-A1  A4:G/43    B4:F/9     C4:Si>13   D4:IW>b1
+                                              
+                                              
+N.Swishe-A1  *2*:L/4    B5:F/9     C5:W>12 b  D5:Si>2#
+                                   1          13
+                                              
+C.Pennin-A1  A6:G/43    *5*:K      C6:G/63    D6:F/9
+                                              
+                                              
+M.Prado-A1   A7:K       B7:K       *7*:Do     *8*:G/63
+                                              
+                                              
+M.Ellis-A1   *3*:G/63   B8:Si      C8:K       D8:Si
+C.Ross-C8                                     
+M.Izturi-D7                                   
+K.Suzuki-A1  A9:P/6     B9:G/63    C9:Si>2#   D9:G-DP/5
+                                              43>1o
+                                              
+
+M.Young-A1   A1:Si      *3*:G/53   C1:G/63    *8*:G/63
+                                              
+                                              
+J.Mauer-A1   A2:WP>12   B2:F/8     *6*:G/13   D2:G/43
+             L/4                              
+                                              
+R.Weeks-A1   A3:K       B3:G/31    C3:K       D3:Si
+                                              
+                                              
+D.Young-A1   A4:F/9     *4*:G/31   C4:Si      D4:F/9
+                                              
+                                              
+M.Cuddye-A1  *2*:Si     B5:Do      C5:W>12 b  *9*:G/43
+                                   1          
+                                              
+J.Gomes-A1   A6:K       B6:F/9     C6:G/31    D6:F/7
+                                              
+                                              
+Y.Betanc-A1  A7:L/6     B7:G/63    *7*:P/6    D7:Si
+                                              
+                                              
+D.Span-A1    A8:Si>12   *5*:Si     C8:G/3     D8:G/43
+                                              
+                                              
+R.Davis-A1   A9:P/6     B9:G-DP/6  C9:L/6
+                        43>1o      
+                                   
+
+

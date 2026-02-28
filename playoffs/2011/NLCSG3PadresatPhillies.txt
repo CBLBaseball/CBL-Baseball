@@ -1,0 +1,114 @@
+[1]BOXSCORE: 2011 San Diego Padres At 2011 Philadelphia Phillies      10/16/2011
+
+[1]  Padres             AB  R  H RBI AVG     Phillies           AB  R  H RBI AVG
+  J.Carroll SS        4  0  0  0 .222     P.Polanco 2B        4  0  0  0 .111  
+  K.Johnson 2B        5  1  2  0 .219     J.Werth RF          4  0  1  0 .256  
+  E.Longoria 3B       4  1  2  0 .270     A.Dunn DH           4  0  1  0 .345  
+  N.Cruz RF           4  1  1  1 .056     J.Bautista 3B       3  0  0  0 .032  
+  M.Ramirez DH        2  0  1  2 .357     R.Howard 1B         4  0  1  0 .184  
+  C.Denorfia CF       4  0  1  0 .316     M.Ramirez C         3  0  0  0 .000  
+  A.Kearns LF         4  0  1  0 .217     J.Uribe SS          3  0  0  0 .133  
+  E.Hinske 1B         4  0  1  0 .385     R.Ibanez LF         3  0  1  0 .160  
+  N.Hundley C         2  0  0  0 .176     S.Victorino CF      3  0  0  0 .290  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  9  3                 Totals      31  0  4  0
+
+
+Padres.......... 0 0 0  0 0 3  0 0 0  -  3  9  0
+Phillies........ 0 0 0  0 0 0  0 0 0  -  0  4  0
+
+[1]Padres (5-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Latos WIN(3-0)             9       4   0   0   1  10   0   1.04  A1
+[1]Totals                    9       4   0   0   1  10   0
+
+[1]Phillies (6-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Lee LOSS(2-1)              8       9   3   3   3   6   0   2.13  A1 D8
+J.Contreras                  0 2/3   0   0   0   0   0   0   0.00  D9 E1
+R.Mahay                      0 1/3   0   0   0   0   0   0   9.00  E2
+[1]Totals                    9       9   3   3   3   6   0
+
+ATTENDANCE- 40,314 DATE- Sunday, October 16th 2011 TIME- Night 
+UMPIRES- Randy Marsh, Mike Winters, Lance Barksdale, James Hoye
+T- 2:41
+LEFT ON BASE- Padres: 8  Phillies: 5
+DOUBLE PLAYS- Padres: 0  Phillies: 1
+DOUBLES- K.Johnson(1st), E.Longoria(3rd), M.Ramirez(3rd), C.Denorfia(3rd),
+         J.Werth(5th), R.Howard(2nd), R.Ibanez(3rd)
+STOLEN BASES- N.Cruz(2nd)
+SACRIFICE HITS- J.Carroll, N.Hundley
+WALKS- M.Ramirez-2, N.Hundley, J.Bautista
+STRIKE OUTS- K.Johnson, N.Cruz, C.Denorfia, E.Hinske-2, N.Hundley, A.Dunn-3,
+             J.Bautista, R.Howard-2, M.Ramirez-2, J.Uribe-2
+GIDP- C.Denorfia
+
+Second baseman Kelly Johnson had 2 base hits and Mat Latos whiffed 10 batters
+at Citizen's Bank Park where the San Diego Padres beat the Philadelphia
+Phillies by the score of 3 to 0.
+
+Latos(3-0) was simply too much for the Philadelphia batters.  He surrendered
+only 4 hits and 1 walk in 9 innings seeing his ERA drop from 1.59 to 1.04.
+San Diego finished with 9 hits in the victory.  
+
+Cliff Lee(2-1) was given the loss.  He allowed 9 hits and 3 walks in 8
+innings.  Bud Black was very impressed with his pitcher, Latos, 'He had
+unusually good pitch placement tonight.  It was almost unfair - but a
+beautiful game to watch from where I sat'
+[2]
+[1]SCORESHEET: 2011 San Diego Padres at 2011 Philadelphia Phillies
+J.Carrol-A1  A1:F/8     B1:P/1     C1:F/9     D1:G/63    E1:Sac/14
+                                                         >23
+                                                         
+K.Johnso-A1  A2:Do      B2:K       *6*:Si     D2:P/4     E2:G/31
+                                                         
+                                                         
+E.Longor-A1  A3:G/53    B3:Do>13   C3:Si>12   *8*:L/5
+                                              
+                                              
+N.Cruz-A1    A4:P/6     B4:F/7     C4:Si>2#   D4:K
+                                   13         
+                                              
+M.Ramire-A1  *2*:F/8    *4*:W>b1   C5:SB>12   D5:W>b1
+                                   Do>3# 2#   
+                                              
+C.Denorf-A1  A6:K       B6:G-DP/6  C6:F/8     D6:Do>13
+                        43>1o                 
+                                              
+A.Kearns-A1  A7:Si      B7:G/43    C7:G/53    D7:G/63
+                                              
+                                              
+E.Hinske-A1  A8:P/4     *5*:K      C8:K       *9*:Si
+                                              
+                                              
+N.Hundle-A1  *3*:W>b1   B9:K       *7*:F/9    D9:Sac/14
+                                              >12
+                                              
+
+P.Polanc-A1  A1:L/5     B1:G/63    *6*:F/9    D1:L/5
+                                              
+                                              
+J.Werth-A1   A2:Do      *4*:L/6    C2:F/7     *9*:G/63
+                                              
+                                              
+A.Dunn-A1    A3:K       B3:Si      C3:K       D3:K
+                                              
+                                              
+J.Bautis-A1  A4:K       B4:F/7     *7*:G/43   D4:W>b1
+                                              
+                                              
+R.Howard-A1  *2*:K      B5:Do>13   C5:K       D5:F/8
+                                              
+                                              
+M.Ramire-A1  A6:K       B6:F/7     C6:K
+                                   
+                                   
+J.Uribe-A1   A7:K       *5*:G/31   *8*:K
+                                   
+                                   
+R.Ibanez-A1  *3*:L/4    B8:G/3     C8:Do
+                                   
+                                   
+S.Victor-A1  A9:P/3     B9:L/4     C9:F/7
+                                   
+                                   
+
+

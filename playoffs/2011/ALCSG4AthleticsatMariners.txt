@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2011 Oakland Athletics At 2011 Seattle Mariners          10/17/2011
+
+[1]  Athletics          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Torres CF         4  0  1  0 .345     A.Jones DH          3  0  0  1 .370  
+  D.Barton 1B         5  2  3  0 .300     I.Suzuki RF         4  0  0  0 .349  
+  J.Cust DH           3  1  2  1 .316     L.Berkman 1B        4  0  1  0 .286  
+  C.Gonzalez LF       4  0  1  1 .395     C.Crawford LF       4  0  1  0 .286  
+  M.Prado 3B,2B       4  0  0  0 .189     A.Rodriguez 3B      4  1  2  1 .293  
+  N.Swisher RF        4  0  0  0 .278     Y.Torrealba C       3  0  2  0 .143  
+  R.Hernandez C       3  0  1  0 .389   C-J.Dyson PR          0  1  0  0 ----  
+A-K.Suzuki PH,C       2  0  1  1 .091   E-C.Ruiz C            1  0  0  0 .240  
+  M.Ellis 2B          3  0  1  0 .250     F.Gutierrez CF      4  1  1  0 .167  
+B-M.Izturis PH,3B     2  0  0  0 .250     J.Herrera 2B        4  1  3  2 .235  
+  C.Pennington SS     3  0  1  0 .294     B.Ryan SS           2  0  0  0 .100  
+                                        D-J.Smoak PH          1  0  0  0 .211  
+                                        F-W.Valdez SS         0  0  0  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  3 11  3                 Totals      34  4 10  4
+
+A-Pinch Hit For Hernandez In 7th Inning
+B-Pinch Hit For Ellis In 7th Inning
+C-Pinch Ran For Torrealba In 7th Inning
+D-Pinch Hit For Ryan In 7th Inning
+E-Subbed Defensively (C ) For Dyson In 8th Inning
+F-Subbed Defensively (SS) For Smoak In 8th Inning
+
+Athletics....... 0 0 0  0 0 0  2 1 0  -  3 11  0
+Mariners........ 0 0 0  0 0 0  2 1 1  -  4 10  1
+
+[1]Athletics (6-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Haren                      6       8   2   2   0   5   0   1.86  A1 C8
+C.Hensley L(0-2) BS(1st)     2 1/3   2   2   2   0   3   2   9.00  C9
+[1]Totals                    8 1/3  10   4   4   0   8   2
+
+[1]Mariners (6-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez                  7       8   2   2   6   8   0   2.76  A1 D8
+R.Perry                      0 2/3   2   1   1   1   0   0   6.75  D9 E3
+H.Kuo                        1       1   0   0   0   0   0   0.00  E4 E7
+B.Tallet WIN(1-2)            0 1/3   0   0   0   0   0   0   8.10  E8
+[1]Totals                    9      11   3   3   7   8   0
+
+ATTENDANCE- 44,567 DATE- Monday, October 17th 2011 TIME- Night 
+UMPIRES- Phil Cuzzi, Angel Campos, Paul Nauert, Tom Hallion
+T- 3:02
+LEFT ON BASE- Athletics:14  Mariners: 6
+DOUBLE PLAYS- Athletics: 0  Mariners: 2
+ERRORS- L.Berkman
+DOUBLES- A.Torres(7th), D.Barton-2(6th), J.Cust(3rd), M.Ellis(1st),
+         Y.Torrealba(1st)
+HOME RUNS- A.Rodriguez(2nd), J.Herrera(1st)
+SACRIFICE FLIES- A.Jones
+WALKS- A.Torres, J.Cust-2, C.Gonzalez, M.Prado, N.Swisher, C.Pennington
+STRIKE OUTS- A.Torres, C.Gonzalez-2, N.Swisher, R.Hernandez-2, M.Izturis,
+             C.Pennington, A.Jones-2, I.Suzuki-3, L.Berkman, C.Crawford,
+             F.Gutierrez
+GIDP- A.Torres, M.Ellis
+WILD PITCHES- F.Hernandez-2
+2-out RBI- K.Suzuki, C.Gonzalez, A.Rodriguez
+
+In a thriling finish the Seattle Mariners pulled off the win over the Oakland
+Athletics by a score of 4 to 3 at SAFECO Field.
+
+The game was decided in the 9th inning.  After an out was recorded, Jonathan
+Herrera hit a bases-empty home run making Seattle the victor and beginning a
+joyous home town celebration.  The teams had been locked in a scoreless duel
+until the 7th inning.  
+
+Brian Tallet(1-2) went 1/3 of an inning allowing no runs for the win. Clay
+Hensley(0-2) was the losing pitcher in relief.  He pitched 2 and 1/3 innings
+allowing 2 hits and no walks.
+[2]
+[1]SCORESHEET: 2011 Oakland Athletics at 2011 Seattle Mariners
+A.Torres-A1  A1:G/43    B1:Do      C1:W>b1    D1:K       E1:G-DP/6
+                                                         43>1o
+                                                         
+D.Barton-A1  A2:Si      B2:G/63>2  C2:F/7     *7*:Do     E2:Do
+                        3                                
+                                                         
+J.Cust-A1    A3:F/9     B3:W>b1    C3:Do>13   D3:WP>23   E3:W>b1
+                                              Si>3#      
+                                                         
+C.Gonzal-A1  A4:K       B4:W>12 b  C4:F/8     D4:K       E4:Si>2#
+                        1                                13
+                                                         
+M.Prado-A1   *2*:E/3    B5:F/8     *6*:L/6    D5:W>12 b  E5:Force/
+                                              1          64>1o b1
+                                                         
+N.Swishe-A1  A6:WP>12   *4*:F/8    C6:W>b1    D6:F/9>23  *9*:F/9
+             K                                           
+                                                         
+R.Hernan-A1  A7:K       B7:Si      C7:K       D7:Si>3#   E7:G/63
+K.Suzuki-D7                                   13         
+                                                         
+M.Ellis-A1   A8:F/8     B8:G-DP/6  C8:Do>13   D8:K       E8:L/4
+M.Izturi-D8             43>1o                            
+                                                         
+C.Pennin-A1  *3*:P/6    *5*:K      C9:W>b1    *8*:Si
+                                              
+                                              
+
+A.Jones-A1   A1:G/43    B1:K       *6*:K      D1:SF/9>3
+                                              # 23
+                                              
+I.Suzuki-A1  A2:K       B2:F/7     C2:K       D2:K
+                                              
+                                              
+L.Berkma-A1  A3:F/8     *4*:F/7    C3:Si      *8*:K
+                                              
+                                              
+C.Crawfo-A1  *2*:G/43   B4:K       C4:Si>12   D4:G/43
+                                              
+                                              
+A.Rodrig-A1  A5:Si      B5:L/6     C5:G/63    D5:HR>b#
+                                              
+                                              
+Y.Torrea-A1  A6:Do>13   *5*:F/8    *7*:Si     D6:G/43
+J.Dyson-C7                                    
+C.Ruiz-D3                                     
+F.Gutier-A1  A7:FC/12>  B7:G/63    C7:Si>13   *9*:K
+             3o 23                            
+                                              
+J.Herrer-A1  A8:G/43    B8:Si      C8:Si>3#   D8:HR>b#
+                                   13         
+                                              
+B.Ryan-A1    *3*:P/6    B9:G/13    C9:G/43>1
+J.Smoak-C9                         2
+W.Valdez-D3                        
+
+

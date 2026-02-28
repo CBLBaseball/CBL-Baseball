@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2011 Oakland Athletics At 2011 Seattle Mariners          10/16/2011
+
+[1]  Athletics          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.Torres CF         2  0  1  0 .360     A.Jones DH          4  1  2  2 .417  
+C-C.Ross PH,CF,RF     2  0  0  0 .115     I.Suzuki RF         4  0  1  0 .385  
+  D.Barton 1B         4  1  0  0 .257     L.Berkman 1B        2  0  0  0 .294  
+  M.Prado 3B          4  0  0  0 .212   E-Y.Torrealba C       1  0  0  0 .000  
+  C.Gonzalez LF       5  0  3  1 .410     C.Crawford LF       4  0  0  0 .289  
+  M.Ellis 2B          4  0  0  0 .238     A.Rodriguez 3B      4  0  0  0 .270  
+G-A.Rosales PH        1  1  1  1 .500     F.Gutierrez CF      3  0  0  0 .156  
+I-M.Izturis 2B        0  0  0  0 .300   J-J.Herrera PH        1  0  1  0 .077  
+  J.Cust DH           3  0  0  0 .250     L.Castillo 2B       1  0  0  0 .429  
+H-S.Duncan PH         1  0  0  0 .083   A-J.Dyson PR          0  0  0  0 ----  
+  N.Swisher RF        4  0  2  0 .313   B-B.Ryan SS           2  0  0  0 .111  
+F-N.Morgan PR,CF      0  1  0  0 ----     C.Ruiz C            2  0  0  0 .250  
+  R.Hernandez C       3  0  0  0 .400   D-J.Smoak PH,1B       2  0  0  0 .222  
+  C.Pennington SS     4  0  1  1 .290     W.Valdez SS,2B      3  1  1  0 .286  
+                                        K-P.Janish PH         1  0  0  0 .308  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  3  8  3                 Totals      34  2  5  2
+
+A-Pinch Ran For Castillo In 5th Inning
+B-Subbed Defensively (SS) For Dyson In 6th Inning
+C-Pinch Hit For Torres In 8th Inning
+D-Pinch Hit For Ruiz In 8th Inning
+E-Subbed Defensively (C ) For Berkman In 9th Inning
+F-Pinch Ran For Swisher In 9th Inning
+G-Pinch Hit For Ellis In 10th Inning
+H-Pinch Hit For Cust In 10th Inning
+I-Subbed Defensively (2B) For Rosales In 10th Inning
+J-Pinch Hit For Gutierrez In 10th Inning
+K-Pinch Hit For Valdez In 10th Inning
+
+Athletics....... 0 0 0  0 0 0  0 1 1  1 -  3  8  0
+Mariners........ 0 0 2  0 0 0  0 0 0  0 -  2  5  0
+
+[1]Athletics (6-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Cahill WIN(2-0)            9       4   2   2   2   6   1   1.93  A1 D5
+A.Bailey SAVE(4th)           1       1   0   0   0   1   0   0.00  D6
+[1]Totals                   10       5   2   2   2   7   1
+
+[1]Mariners (5-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Pauley                     5 1/3   4   0   0   2   2   0   1.26  A1 C4
+H.Kuo HOLD(1st)              2       0   0   0   0   0   0   0.00  C5 C9
+B.League HOLD(1st)           0 1/3   1   1   1   2   1   0   3.86  D1 D4
+D.Aardsma BS(1st)            1 1/3   2   1   1   1   1   0   2.70  D5 E2
+B.Tallet LOSS(0-2)           1       1   1   1   0   1   1   9.00  E3
+[1]Totals                   10       8   3   3   5   5   1
+
+ATTENDANCE- 45,544 DATE- Sunday, October 16th 2011 TIME- Night 
+UMPIRES- Mike Reilly, Chuck Meriwether, Eric Cooper, Scott Barry
+T- 2:36
+LEFT ON BASE- Athletics: 9  Mariners: 4
+DOUBLE PLAYS- Athletics: 1  Mariners: 1
+DOUBLES- A.Torres(6th)
+HOME RUNS- A.Rosales(1st), A.Jones(3rd)
+STOLEN BASES- C.Gonzalez(3rd), J.Dyson(2nd), W.Valdez(1st)
+WALKS- A.Torres, D.Barton, M.Prado, J.Cust, R.Hernandez, L.Berkman, L.Castillo
+STRIKE OUTS- A.Torres, C.Ross-2, D.Barton, C.Gonzalez, A.Rodriguez,
+             F.Gutierrez-2, L.Castillo, B.Ryan, J.Smoak, P.Janish
+GIDP- M.Ellis, C.Crawford
+2-out RBI- A.Jones-2, C.Gonzalez, A.Rosales
+
+Carlos Gonzalez had 3 base hits and Trevor Cahill delivered 9 solid innings at
+SAFECO Field where the Oakland Athletics beat the Seattle Mariners in 10
+innings by the score of 3 to 2.
+
+The game was deadlocked at 2 after nine full innings.  Oakland won it in the
+10th inning.  After two were out Adam Rosales blasted a solo shot.  Oakland
+totaled 8 hits on the night.  
+
+The winning pitcher was Cahill(2-0) who allowed 2 runs in 9 innings. Cahill
+got help from Andrew Bailey who earned his 4th save.  The losing pitcher was
+Brian Tallet(0-2) in relief.  
+
+[2]
+[1]SCORESHEET: 2011 Oakland Athletics at 2011 Seattle Mariners
+A.Torres-A1  A1:K       B1:Do      C1:W>12 b  D1:K       E1:K
+C.Ross-D1                          1                     
+                                                         
+D.Barton-A1  A2:F/8     B2:F/8     C2:K       D2:W>b1    E2:G/31
+                                                         
+                                                         
+M.Prado-A1   A3:G/63    B3:FO/2    *6*:F/9    D3:W>12 b  *10*:G/63
+                                              1          
+                                                         
+C.Gonzal-A1  *2*:Si     *4*:G/53   C4:Si      D4:Si>2#   E4:K
+                                              13         
+                                                         
+M.Ellis-A1   A5:SB>12   B5:G/31    C5:G-DP/6  D5:G/31    E5:HR>b#
+A.Rosale-E5  G/53                  43>1o                 
+M.Izturi-E7                                              
+J.Cust-A1    A6:W>b1    B6:G/13    *7*:F/7    *9*:L/4    E6:F/8
+S.Duncan-E6                                              
+                                                         
+N.Swishe-A1  A7:Force/  *5*:Si     C7:F/8     D7:Si
+N.Morgan-D8  64>23 1o                         
+             b1                               
+R.Hernan-A1  A8:G/63    B8:Force/  C8:G/63    D8:W>12 b
+                        54>1o b1              1
+                                              
+C.Pennin-A1  *3*:F/7    B9:F/8     *8*:P/6    D9:Si>2#
+                                              13
+                                              
+
+A.Jones-A1   A1:F/7     B1:SB>12   *6*:G/31   D1:Si
+                        HR>2# b#              
+                                              
+I.Suzuki-A1  A2:FO/2    B2:G/43    C2:Si      D2:F/7
+                                              
+                                              
+L.Berkma-A1  A3:L/4     *4*:W>b1   C3:L/4     *9*:G/31
+Y.Torrea-D3                                   
+                                              
+C.Crawfo-A1  *2*:F/8    B4:G-DP/4  C4:L/6     D4:F/9
+                        63>1o                 
+                                              
+A.Rodrig-A1  A5:K       B5:F/9     *7*:G/43   D5:G/43
+                                              
+                                              
+F.Gutier-A1  A6:G/53    *5*:K      C6:K       *10*:Si
+J.Herrer-D6                                   
+                                              
+L.Castil-A1  *3*:K      B7:W>b1    C7:K       D7:G/3>12
+J.Dyson-B8                                    
+B.Ryan-C1                                     
+C.Ruiz-A1    A8:F/7     B8:SB>12   *8*:K      D8:G/43>2
+J.Smoak-C8              F/8                   3
+                                              
+W.Valdez-A1  A9:Si      B9:G/53    C9:G/43    D9:K
+P.Janish-D9                                   
+                                              
+
+

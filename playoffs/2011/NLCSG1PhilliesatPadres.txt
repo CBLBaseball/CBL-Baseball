@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2011 Philadelphia Phillies At 2011 San Diego Padres      10/13/2011
+
+[1]  Phillies           AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Werth RF          5  1  1  1 .233     J.Carroll SS        3  1  0  0 .300  
+  A.Dunn DH           4  2  2  0 .333     K.Johnson 2B        4  1  1  0 .174  
+  J.Bautista 3B,LF    3  0  0  1 .040     E.Longoria 3B       4  1  2  1 .241  
+  R.Howard 1B         5  0  1  1 .167     M.Ramirez DH        2  0  1  2 .364  
+  J.Molina C          2  0  1  1 .400   C-J.Hairston Jr PH    1  0  0  0 .167  
+A-V.Martinez PH,C     2  0  0  0 .231     N.Cruz RF           2  0  0  0 .000  
+  R.Ibanez LF         2  0  0  1 .150   D-A.Kearns PH,RF      1  0  0  0 .200  
+B-P.Polanco PH,3B     2  0  0  0 .154     C.Denorfia CF       2  0  0  0 .333  
+  J.Rollins SS        5  1  2  0 .313   E-T.Gwynn Jr PH,CF    2  0  0  0 .200  
+  S.Victorino CF      5  2  2  2 .360     N.Hundley C         2  0  1  0 .200  
+  C.Utley 2B          3  3  2  1 .167     E.Hinske 1B         2  0  0  0 .444  
+G-J.Uribe PH,2B       0  0  0  0 .167   F-R.Branyan PH,1B     1  0  0  0 .412  
+                                          R.Ludwick LF        3  0  1  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  9 11  8                 Totals      29  3  6  3
+
+A-Pinch Hit For Molina In 5th Inning
+B-Pinch Hit For Ibanez In 6th Inning
+C-Pinch Hit For Ramirez In 6th Inning
+D-Pinch Hit For Cruz In 6th Inning
+E-Pinch Hit For Denorfia In 6th Inning
+F-Pinch Hit For Hinske In 7th Inning
+G-Pinch Hit For Utley In 9th Inning
+
+Phillies........ 2 2 3  0 2 0  0 0 0  -  9 11  0
+Padres.......... 3 0 0  0 0 0  0 0 0  -  3  6  0
+
+[1]Phillies (5-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Hamels WIN(1-2)            9       6   3   3   3   8   0   4.09  A1
+[1]Totals                    9       6   3   3   3   8   0
+
+[1]Padres (4-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Jackson LOSS(0-3)          2 2/3   6   7   7   4   2   1   9.72  A1 C1
+L.Gregerson                  2       3   2   2   0   3   0   4.50  C2 D2
+B.Wagner                     0 2/3   2   0   0   1   1   0   5.40  D3 D7
+M.Adams                      2       0   0   0   0   2   0   1.80  D8 E4
+J.Valverde                   1 2/3   0   0   0   1   2   0   6.75  E5
+[1]Totals                    9      11   9   9   6  10   1
+
+ATTENDANCE- 41,814 DATE- Thursday, October 13th 2011 TIME- Night 
+UMPIRES- Adrian Johnson, Mike Dimuro, Dale Scott, Jerry Meals
+T- 3:18
+LEFT ON BASE- Phillies:10  Padres: 3
+DOUBLE PLAYS- Phillies: 1  Padres: 0
+DOUBLES- J.Werth(3rd), A.Dunn(1st), E.Longoria(2nd), M.Ramirez(2nd),
+         N.Hundley(1st)
+TRIPLES- S.Victorino(2nd)
+HOME RUNS- S.Victorino(3rd)
+STOLEN BASES- C.Utley(1st)
+CAUGHT STEALING- J.Hairston Jr, N.Hundley
+SACRIFICE HITS- A.Kearns
+WALKS- J.Werth, A.Dunn, J.Bautista-2, R.Ibanez, J.Uribe, J.Carroll,
+       J.Hairston Jr, N.Hundley
+HIT BY PITCH- J.Molina, C.Utley
+STRIKE OUTS- J.Werth, A.Dunn, J.Bautista, R.Howard-2, J.Molina, V.Martinez,
+             P.Polanco, J.Rollins-2, E.Longoria, M.Ramirez, N.Cruz-2, A.Kearns,
+             C.Denorfia, T.Gwynn Jr, E.Hinske
+GIDP- J.Carroll
+WILD PITCHES- E.Jackson
+2-out RBI- S.Victorino-2, J.Werth, R.Howard
+
+Cole Hamels tossed a complete game and center fielder Shane Victorino cracked
+a homer and had 2 RBI as the Philadelphia Phillies beat the San Diego Padres
+by a score of 9 to 3.
+
+Hamels(1-2) put on a good performance.  He allowed only 6 hits and 3 walks in
+9 innings lowering his ERA to 4.09.  Philadelphia had a total of 11 hits for
+the game.  
+
+The loss was charged to Edwin Jackson(0-3).  He got hammered, allowing 6 hits
+and 4 walks in 2 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2011 Philadelphia Phillies at 2011 San Diego Padres
+J.Werth-A1   A1:W>b1    B1:L/6     C1:Do>1#   D1:SB>12   *7*:F/9    F1:L/6
+                                              K                     
+                                                                    
+A.Dunn-A1    A2:W>12 b  B2:Do>13   C2:G/63    D2:Si>23   E2:K
+             1                                           
+                                                         
+J.Bautis-A1  A3:W>23 1  B3:G/53>3  *4*:K      D3:W>12 b  E3:FO/2
+             2 b1       # 23                  1          
+                                                         
+R.Howard-A1  A4:K       B4:WP>3#   C4:G/13    D4:Si>3#   *8*:K
+                        F/7                   23 12      
+                                                         
+J.Molina-A1  A5:Si>3#   *3*:K      C5:HBP     D5:G/43    E5:K
+V.Martin-D5  23 12                                       
+                                                         
+R.Ibanez-A1  A6:W>3# 2  B6:G/43    C6:G/13    *6*:K      E6:G/63
+P.Polanc-D6  3 12 b1                                     
+                                                         
+J.Rollin-A1  A7:L/4     B7:Si      *5*:K      D7:Si      *9*:K
+                                                         
+                                                         
+S.Victor-A1  A8:Force/  B8:HR>1#   C8:Tr      D8:F/7     E8:G/43
+             64>1o b1   b#                               
+                                                         
+C.Utley-A1   *2*:Si     B9:HBP     C9:Si>3#   D9:P/4     E9:W>b1
+J.Uribe-E9                                               
+                                                         
+
+J.Carrol-A1  A1:W>b1    B1:L/6     C1:G-DP/5  *8*:F/7
+                                   43>1o      
+                                              
+K.Johnso-A1  A2:Si>12   *3*:G/31   C2:P/5     D2:G/63
+                                              
+                                              
+E.Longor-A1  A3:Do>2#   B3:G/43    *6*:Si     D3:K
+             13                               
+                                              
+M.Ramire-A1  A4:Do>3#   B4:K       C4:F/7     *9*:W>b1
+J.Hairst-C4  2#                               
+                                              
+N.Cruz-A1    A5:K       *4*:K      C5:K       D5:Sac/24
+A.Kearns-C5                                   >12
+                                              
+C.Denorf-A1  A6:K       B6:F/9     C6:K       D6:CS/25>
+T.Gwynn -C6                                   2o L/4
+                                              
+N.Hundle-A1  A7:L/6     B7:W>b1    *7*:Do
+                                   
+                                   
+E.Hinske-A1  *2*:K      B8:G/31    C8:F/9
+R.Branya-C8                        
+                                   
+R.Ludwic-A1  A9:F/7     *5*:Si     C9:G/63 C
+                                   S/25>2o
+                                   
+
+
