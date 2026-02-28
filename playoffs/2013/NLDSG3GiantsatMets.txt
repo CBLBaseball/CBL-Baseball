@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2013 San Francisco Giants At 2013 New York (NL) Mets      10/6/2013
+
+[1]  Giants             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Cabrera LF        5  0  2  1 .357     T.Hunter RF         4  1  2  0 .231  
+  H.Kendrick 2B       5  0  0  0 .071     M.Baxter LF         3  1  1  0 .333  
+  C.Beltran RF        5  0  1  0 .308   A-A.Torres CF         1  0  0  0 .000  
+  B.Posey C           4  0  1  0 .250     D.Wright 3B         4  1  2  1 .385  
+  J.Willingham DH     3  1  1  0 .273     D.Murphy 2B         3  0  0  0 .333  
+  W.Rosario 1B,3B,1B  3  0  0  0 .000   B-J.Herrera 2B        1  0  0  0 .000  
+  J.Pacheco 3B        3  0  1  0 .250     J.Jaso C            3  0  1  2 .111  
+D-J.Giambi PH         1  0  0  0 .000   C-K.Shoppach C        0  0  0  0 .250  
+E-G.Blanco PR         0  0  0  0 ----     I.Davis 1B          3  0  0  0 .000  
+F-P.Sandoval PR,3B    0  0  0  0 .125     G.Kottaras DH       3  0  0  0 .000  
+  I.Desmond SS        3  1  2  1 .182     K.Nieuwenhuis CF,LF 3  0  1  0 .143  
+  B.Upton CF          4  0  0  0 .333     B.Crawford SS       2  0  1  0 .455  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  2  8  2                 Totals      30  3  8  3
+
+A-Subbed Defensively (CF) For Baxter In 8th Inning
+B-Subbed Defensively (2B) For Murphy In 8th Inning
+C-Subbed Defensively (C ) For Jaso In 8th Inning
+D-Pinch Hit For Pacheco In 8th Inning
+E-Pinch Ran For Giambi In 8th Inning
+F-Pinch Ran For Blanco In 8th Inning
+
+Giants.......... 0 1 0  0 0 1  0 0 0  -  2  8  1
+Mets............ 0 0 0  0 0 3  0 0    -  3  8  1
+
+[1]Giants (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain LOSS(0-1)             7       8   3   3   1   1   0   3.86  A1 D1
+J.Putz                       1       0   0   0   0   1   0   0.00  D2
+[1]Totals                    8       8   3   3   1   2   0
+
+[1]Mets (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Gee WIN(1-0)               9       8   2   2   4   6   0   2.00  A1
+[1]Totals                    9       8   2   2   4   6   0
+
+ATTENDANCE- 41,200 DATE- Sunday, October 6th 2013 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 2:58
+LEFT ON BASE- Giants:11  Mets: 4
+DOUBLE PLAYS- Giants: 3  Mets: 0
+ERRORS- I.Desmond, D.Gee
+DOUBLES- J.Willingham(2nd), I.Desmond(1st), M.Baxter(1st), J.Jaso(1st)
+TRIPLES- M.Cabrera(1st)
+STOLEN BASES- M.Cabrera(1st), I.Desmond(1st), D.Wright(1st)
+WALKS- B.Posey, J.Willingham, W.Rosario, I.Desmond, B.Crawford
+STRIKE OUTS- C.Beltran-2, B.Posey, J.Willingham, W.Rosario, I.Desmond, A.Torres,
+             J.Jaso
+GIDP- T.Hunter-2, M.Baxter
+2-out RBI- M.Cabrera
+RLISP 2-out- M.Cabrera-2, B.Upton, B.Posey, J.Willingham, W.Rosario-2,
+             B.Crawford, H.Kendrick, G.Kottaras
+
+Dillon Gee allowed Terry Collins to rest his bullpen, tossing a complete game
+and David Wright had 2 base hits as the New York (NL) Mets defeated the San
+Francisco Giants by the score of 3 to 2 at Citi Field.
+
+Gee(1-0) gave a fine effort for New York (NL).  He was reached for 8 hits and
+4 walks in 9 innings.  The San Francisco bats were silent in the 9th.  
+
+Matt Cain(0-1) ended up with the loss.  He allowed 3 runs and 8 hits in 7
+innings.
+[2]
+[1]SCORESHEET: 2013 San Francisco Giants at 2013 New York (NL) Mets
+M.Cabrer-A1  A1:G/63    B1:F/8     *5*:Si     D1:Tr>2#   E1:L/4
+                                                         
+                                                         
+H.Kendri-A1  A2:F/9     *3*:G/63   C2:SB>12   D2:F/8     *9*:G/53
+                                   G/63>23               
+                                                         
+C.Beltra-A1  A3:Si      B3:K       C3:K       *7*:G/43   E3:F/7
+                                                         
+                                                         
+B.Posey-A1   A4:K       B4:F/9     C4:W>b1    D4:Si      E4:L/5
+                                                         
+                                                         
+J.Willin-A1  *2*:Do     *4*:F/7    C5:W>12 b  D5:K
+                                   1          
+                                              
+W.Rosari-A1  A6:W>b1    B6:K       C6:F/7     D6:P/6
+                                              
+                                              
+J.Pachec-A1  A7:L/6     B7:Si      *6*:F/7    *8*:E/1
+J.Giambi-D7                                   
+G.Blanco-D8+                                  
+I.Desmon-A1  A8:Si>2#   B8:W>12 b  C8:Do      D8:K
+             13         1                     
+                                              
+B.Upton-A1   A9:SB>12   B9:G/31    C9:G/63    D9:F/8
+             L/6                              
+                                              
+
+T.Hunter-A1  A1:Si      B1:G-DP/6  *6*:Si     D1:G-DP/6
+                        43>1o                 43>1o
+                                              
+M.Baxter-A1  A2:G-DP/6  *4*:F/9    C2:Do>13   *8*:K
+A.Torres-D2  43>1o                            
+                                              
+D.Wright-A1  A3:Si      B3:G/53    C3:Si>3#   D3:F/8
+                                   23         
+                                              
+D.Murphy-A1  A4:G/13    B4:G/31    C4:SB>12   D4:G/63
+J.Herrer-D2                        G/43       
+                                              
+J.Jaso-A1    *2*:K      *5*:L/4    C5:Do>3#
+K.Shoppa-D2                        2#
+                                   
+I.Davis-A1   A6:G/43    B6:E/6     C6:L/4
+                                   
+                                   
+G.Kottar-A1  A7:G/43    B7:F/9     C7:L/4
+                                   
+                                   
+K.Nieuwe-A1  *3*:L/4    B8:Si>12   *7*:F/8
+                                   
+                                   
+B.Crawfo-A1  A9:W>b1    B9:F/7     C9:Si
+                                   
+                                   
+
+

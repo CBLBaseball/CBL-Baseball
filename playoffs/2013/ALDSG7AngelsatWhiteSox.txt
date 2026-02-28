@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2013 Los Angeles(AL) Angels At 2013 Chicago (AL) White S 10/11/2013
+
+[1]  Angels             AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  D.Uggla 2B          4  0  1  0 .167     D.Viciedo DH        3  1  1  2 .167  
+  W.Bloomquist SS     1  0  0  0 .188   D-I.Falu PH,DH        1  0  0  0 .500  
+A-M.Izturis PH,SS     3  0  0  0 .071   H-P.Konerko PH,DH     0  0  0  1 .353  
+K-D.Wise PH           1  0  0  0 .200     J.Altuve 2B         3  0  0  0 .182  
+  A.Callaspo 3B       3  0  0  0 .130   E-J.Lucroy PH         1  0  0  0 .267  
+G-C.Johnson PH,3B     1  0  0  0 .231   F-G.Beckham   ,2B     1  0  0  0 .250  
+  M.Holliday LF       3  1  2  0 .273     R.Braun LF          4  1  1  0 .267  
+  H.Ramirez DH        4  1  2  2 .480     A.Craig 1B          4  2  3  1 .269  
+  J.Ruggiano CF       2  0  0  0 .357     A.Rios RF           5  1  2  0 .323  
+C-T.Colvin PH,CF      2  0  2  0 .333     A.Pierzynski C      4  3  2  0 .455  
+  M.Trumbo RF         4  1  1  1 .222     A.Ramirez SS        5  1  3  4 .379  
+  C.Davis 1B          4  1  1  1 .318     C.Nelson 3B         1  0  0  0 .375  
+  M.Napoli C          2  0  1  0 .235   B-E.Chavez 3B         3  0  2  1 .462  
+J-D.Ross PH           1  0  0  0 .333   I-T.Campana PH,3B     1  0  0  0 .500  
+                                          A.De Aza CF         2  1  1  1 .217  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4 10  4                 Totals      38 10 15 10
+
+A-Pinch Hit For Bloomquist In 3rd Inning
+B-Subbed Defensively (3B) For Nelson In 4th Inning
+C-Pinch Hit For Ruggiano In 6th Inning
+D-Pinch Hit For Viciedo In 6th Inning
+E-Pinch Hit For Altuve In 6th Inning
+F-Subbed Defensively (  ) For Lucroy In 7th Inning
+G-Pinch Hit For Callaspo In 7th Inning
+H-Pinch Hit For Falu In 7th Inning
+I-Pinch Hit For Chavez In 8th Inning
+J-Pinch Hit For Napoli In 9th Inning
+K-Pinch Hit For Izturis In 9th Inning
+
+Angels.......... 0 4 0  0 0 0  0 0 0  -  4 10  0
+White Sox....... 0 5 0  0 0 1  3 1    - 10 15  0
+
+[1]Angels (3-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Rodriguez LOSS(0-1)        1 2/3   5   5   5   0   1   2   9.72  A1 B1
+J.Collmenter                 3 1/3   4   1   1   2   3   0   3.86  B2 C8
+K.Uehara                     1 1/3   1   1   1   0   0   0   2.70  C9 D4
+J.Norberto                   0 1/3   2   2   2   0   0   0  27.00  D5 D8
+L.Avilan                     0 1/3   0   0   0   2   0   0   0.00  D9 E2
+F.Rodney                     1       3   1   1   0   0   0   9.82  E3
+[1]Totals                    8      15  10  10   4   4   2
+
+[1]White Sox (4-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Buehrle                    2       3   4   4   1   3   3  10.29  A1 B1
+M.Estrada WIN(1-1)           4 1/3   5   0   0   1   6   0   6.17  B2 D1
+D.Oliver HOLD(1st)           2 1/3   2   0   0   0   3   0   0.00  D2 E2
+R.Ross                       0 1/3   0   0   0   0   0   0   0.00  E3
+[1]Totals                    9      10   4   4   2  12   3
+
+ATTENDANCE- 40,376 DATE- Friday, October 11th 2013 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 3:03
+LEFT ON BASE- Angels: 8  White Sox:10
+DOUBLE PLAYS- Angels: 1  White Sox: 0
+DOUBLES- R.Braun(2nd), A.Pierzynski(1st), A.De Aza(1st)
+HOME RUNS- H.Ramirez(3rd), M.Trumbo(1st), C.Davis(1st), D.Viciedo(1st),
+           A.Craig(2nd)
+STOLEN BASES- T.Colvin(1st)
+WALKS- M.Holliday, M.Napoli, P.Konerko, R.Braun, A.Craig, A.De Aza
+HIT BY PITCH- D.Uggla, C.Johnson, A.Pierzynski, A.De Aza
+STRIKE OUTS- D.Uggla-2, M.Izturis, A.Callaspo, M.Holliday, H.Ramirez,
+             J.Ruggiano, M.Trumbo, C.Davis-2, M.Napoli, D.Ross, J.Altuve-2,
+             R.Braun, A.Rios
+WILD PITCHES- W.Rodriguez
+PASSED BALLS- M.Napoli
+2-out RBI- A.De Aza, D.Viciedo-2, A.Ramirez-2, E.Chavez, P.Konerko
+RLISP 2-out- D.Viciedo, A.Ramirez, M.Trumbo, J.Lucroy, C.Johnson-2,
+             M.Holliday-2, A.Pierzynski, A.De Aza, G.Beckham-2, T.Campana
+WEB GEMS- Bot 8th: Tyler Colvin robbed Ryan Braun of an extra base hit.
+
+Shortstop Alexei Ramirez had 3 base hits and 4 RBI at US Cellular Field as the
+Chicago (AL) White Sox beat the Los Angeles(AL) Angels by the count of 10 to
+4.
+
+Chicago (AL) scored 5 runs in the decisive bottom of the 2nd inning when they
+had 5 base hits.  The key offensive moment was provided by Dayan Viciedo who
+excited the crowd when he blasted a two-run home run.  Chicago (AL) ended up
+with 15 hits for the game while Los Angeles(AL) had 10.  
+
+The win went to Marco Estrada(1-1) who allowed no runs in 4 and 1/3 innings.
+Wandy Rodriguez(0-1) was the losing pitcher.  He pitched 1 and 2/3 innings
+giving up 5 hits and no walks.
+[2]
+[1]SCORESHEET: 2013 Los Angeles(AL) Angels at 2013 Chicago (AL) White Sox
+D.Uggla-A1   A1:K       B1:K       C1:F/9     D1:HBP>12  E1:Si
+                                                         
+                                                         
+W.Bloomq-A1  A2:G/63    *3*:K      C2:L/4     D2:G/43>2  E2:F/7
+M.Izturi-B2                                   3 12       
+D.Wise-E2                                                
+A.Callas-A1  A3:F/8     B3:G/3     C3:K       D3:HBP     E3:G/53
+C.Johnso-D3                                              
+                                                         
+M.Hollid-A1  *2*:W>b1   B4:Si      *6*:Si     D4:K
+                                              
+                                              
+H.Ramire-A1  A5:HR>1#   B5:Si>1o   C5:PkOff/  *8*:L/6
+             b#                    13>1o K    
+                                              
+J.Ruggia-A1  A6:P/2     *4*:K      C6:Si      D6:Si
+T.Colvin-C6                                   
+                                              
+M.Trumbo-A1  A7:HR>b#   B7:K       C7:SB>12   D7:F/8
+                                   F/7        
+                                              
+C.Davis-A1   A8:HR>b#   B8:G/63    *7*:K      D8:K
+                                              
+                                              
+M.Napoli-A1  A9:K       *5*:W>b1   C9:Si      *9*:K
+D.Ross-D9                                     
+                                              
+
+D.Vicied-A1  A1:G/53    B1:WP>23   C1:G/53    D1:L-DP/4  E1:W>3# 2
+I.Falu-D1               HR>3# b#              5>3o       3 12 b1
+P.Konerk-E1                                              
+J.Altuve-A1  A2:K       B2:K       *5*:L/6    D2:F/7     E2:FO/5
+J.Lucroy-D2                                              
+G.Beckha-D3                                              
+R.Braun-A1   A3:G/63    *3*:W>b1   C3:K       *7*:Do     *8*:F/8
+                                                         
+                                                         
+A.Craig-A1   *2*:HR>b#  B4:Si>12   C4:W>b1    D4:G/53    E4:Si
+                                                         
+                                                         
+A.Rios-A1    A5:Si      B5:K       C5:G/53    D5:F/9>23  E5:Si>13
+                                                         
+                                                         
+A.Pierzy-A1  A6:Si>13   B6:F/8     *6*:Do     D6:HBP     E6:L/4
+                                                         
+                                                         
+A.Ramire-A1  A7:G/3>3#  B7:L/6     C7:Si>2#   D7:Si>3#   E7:Si>3#
+             12                               13         12
+                                                         
+C.Nelson-A1  A8:PB>23   *4*:G/13   C8:Si>13   D8:Si>3#   E8:P/4
+E.Chavez-B8  G/13                             12         
+T.Campan-E8                                              
+A.De Aza-A1  A9:Do>3#   B9:L/4     C9:HBP>12  D9:W>23 1
+                                              2 b1
+                                              
+
+

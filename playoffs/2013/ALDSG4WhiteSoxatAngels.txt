@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 Los Angeles(AL) Angel 10/7/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  P.Konerko 1B        4  0  2  0 .417     M.Izturis 2B        3  0  0  0 .000  
+D-T.Campana PR        0  0  0  01.000   A-W.Bloomquist PH,2B  1  0  0  0 .200  
+  E.Chavez 3B         5  0  1  0 .375     A.Callaspo 3B       4  0  0  0 .214  
+  R.Braun LF          4  0  3  0 .235     C.Johnson DH        3  1  1  0 .375  
+  A.Rios RF           4  0  1  0 .235   B-D.Uggla PH,DH       1  0  0  0 .100  
+  A.Craig DH          4  1  2  1 .250     T.Colvin RF         4  1  2  0 .333  
+  A.Pierzynski C      4  0  2  0 .600     M.Holliday LF       2  0  0  0 .308  
+  A.Ramirez SS        4  0  1  0 .294   C-J.Ruggiano LF       0  0  0  0 .333  
+  J.Altuve 2B         4  0  0  0 .143     C.Davis 1B          2  0  1  1 .417  
+  A.De Aza CF         4  0  0  0 .214     D.Ross C            3  0  1  1 .333  
+                                          D.Wise CF           2  0  0  0 .000  
+                                          H.Ramirez SS        3  0  1  0 .429  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  1 12  1                 Totals      28  2  6  2
+
+A-Pinch Hit For Izturis In 7th Inning
+B-Pinch Hit For Johnson In 8th Inning
+C-Subbed Defensively (LF) For Holliday In 9th Inning
+D-Pinch Ran For Konerko In 9th Inning
+
+White Sox....... 0 0 0  0 0 1  0 0 0  -  1 12  1
+Angels.......... 0 0 0  2 0 0  0 0    -  2  6  0
+
+[1]White Sox (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Fiers LOSS(0-1)            6 2/3   6   2   2   1   7   0   2.70  A1 C9
+D.Oliver                     1 1/3   0   0   0   0   2   0   0.00  D1
+[1]Totals                    8       6   2   2   1   9   0
+
+[1]Angels (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Williams WIN(1-0)          6 1/3  10   1   1   1   6   1   1.42  A1 D3
+K.Uehara HOLD(1st)           0 2/3   0   0   0   0   0   0   0.00  D4 D4
+L.Ayala HOLD(1st)            1       1   0   0   0   2   0   0.00  D5 D8
+F.Rodney SAVE(2nd)           1       1   0   0   0   0   0  10.13  D9
+[1]Totals                    9      12   1   1   1   8   1
+
+ATTENDANCE- 41,590 DATE- Monday, October 7th 2013 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 2:25
+LEFT ON BASE- White Sox:10  Angels: 5
+DOUBLE PLAYS- White Sox: 1  Angels: 1
+ERRORS- M.Fiers
+DOUBLES- T.Colvin(1st)
+HOME RUNS- A.Craig(1st)
+CAUGHT STEALING- T.Campana
+SACRIFICE HITS- D.Wise
+SACRIFICE FLIES- C.Davis
+WALKS- P.Konerko, M.Holliday
+STRIKE OUTS- P.Konerko, A.Pierzynski-2, A.Ramirez, J.Altuve-3, A.De Aza,
+             M.Izturis, A.Callaspo, C.Johnson, D.Uggla, T.Colvin, C.Davis,
+             D.Wise, H.Ramirez-2
+GIDP- A.Rios, M.Izturis
+2-out RBI- D.Ross
+RLISP 2-out- A.Craig, D.Ross, A.Rios, A.De Aza-2, D.Wise, W.Bloomquist-2
+
+In a game for the baseball purist, Jerome Williams(1-0) and Mike Fiers(0-1)
+squared off in a tense pitching duel, Los Angeles(AL) Angels finally emerged
+victorious over Chicago (AL) White Sox, 2 to 1.
+
+Williams pitched a fine game.  He went 6 and 1/3 innings allowing 10 hits and
+1 walk.  Chicago (AL) had a chance to come back in the 9th but they came up
+short.  
+
+Williams was helped out by Fernando Rodney who recorded his 2nd save.  'We
+just made a lot of mistakes, mostly mental,' Ozzie Guillen said.  'It's bad
+enough when the other team beats you, but when you start beating yourselves,
+that's really bad.'
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 Los Angeles(AL) Angels
+P.Konerk-A1  A1:K       B1:Si      *5*:G/43   *7*:W>b1   E1:Si
+T.Campan-E2                                              
+                                                         
+E.Chavez-A1  A2:Si      B2:L/4     C2:G/63    D2:F/9     E2:CS/26>
+                                                         1o L/4
+                                                         
+R.Braun-A1   A3:F/7     B3:Si>13   C3:Si      D3:Si>12
+                                              
+                                              
+A.Rios-A1    A4:Si>13   B4:G/53    C4:F/8     D4:G-DP/6
+                                              43>1o
+                                              
+A.Craig-A1   A5:Force/  *4*:Si     *6*:HR>b#  *8*:G/53
+             54>1o b1                         
+                                              
+A.Pierzy-A1  *2*:K      B6:Si>12   C6:Si      D6:K
+                                              
+                                              
+A.Ramire-A1  A7:K       B7:G/63>2  C7:F/9     D7:Si
+                        3 12                  
+                                              
+J.Altuve-A1  A8:K       B8:G/63    C8:K       D8:K
+                                              
+                                              
+A.De Aza-A1  *3*:F/8    B9:K       C9:L/4     *9*:L/4
+                                              
+                                              
+
+M.Izturi-A1  A1:G/43    B1:K       C1:G-DP/4  D1:G/53
+W.Bloomq-D1                        63>1o      
+                                              
+A.Callas-A1  A2:G/43    *4*:L/6    C2:F/9     *8*:K
+                                              
+                                              
+C.Johnso-A1  A3:G/63    B3:Si      *6*:K      D3:K
+D.Uggla-D3                                    
+                                              
+T.Colvin-A1  *2*:Do     B4:Si>13   C4:K       D4:G/43
+                                              
+                                              
+M.Hollid-A1  A5:G/53    B5:W>12 b  C5:L/6
+J.Ruggia-D5             1          
+                                   
+C.Davis-A1   A6:K       B6:SF/9>3  *7*:Si
+                        # 23       
+                                   
+D.Ross-A1    A7:L/6     B7:Si>3#   C7:E/1>12
+                        12         
+                                   
+D.Wise-A1    *3*:G/31   B8:K       C8:Sac/14
+                                   >23 12
+                                   
+H.Ramire-A1  A9:K       *5*:Si     C9:K
+                                   
+                                   
+
+

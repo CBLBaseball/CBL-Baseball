@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 Los Angeles(AL) Angel 10/8/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  P.Konerko 1B        1  0  0  0 .385     M.Izturis 2B        3  0  1  0 .091  
+B-T.Campana PR        0  0  0  01.000   F-D.Ross C            1  1  1  1 .500  
+C-E.Chavez 1B         1  0  0  0 .333     A.Callaspo 3B       4  0  0  0 .167  
+  J.Altuve 2B         2  0  1  0 .188     C.Johnson DH        3  1  0  0 .273  
+A-I.Falu PH,2B        1  0  1  2 .667     T.Colvin RF         3  0  0  0 .250  
+D-G.Beckham 2B        1  0  0  0 .500   H-J.Ruggiano PH,RF    1  1  1  2 .400  
+  R.Braun LF          5  1  1  1 .227     M.Holliday LF       3  0  0  0 .250  
+  A.Craig DH          2  0  0  0 .222     C.Davis 1B          3  0  1  0 .400  
+  A.Rios RF           5  0  2  0 .273   I-M.Trumbo PH,1B      1  0  1  1 .300  
+  C.Nelson 3B         5  1  2  0 .417     M.Napoli C          2  0  0  0 .250  
+  A.Ramirez SS        4  1  1  0 .286   E-W.Bloomquist PH,2B  2  0  0  0 .167  
+  J.Lucroy C          3  0  1  0 .333     D.Wise CF           3  2  2  0 .222  
+G-A.Pierzynski PH,C   1  0  0  0 .500     H.Ramirez SS        3  1  2  2 .471  
+  A.De Aza CF         4  0  0  0 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  9  3                 Totals      32  6  9  6
+
+A-Pinch Hit For Altuve In 4th Inning
+B-Pinch Ran For Konerko In 6th Inning
+C-Subbed Defensively (1B) For Campana In 6th Inning
+D-Subbed Defensively (2B) For Falu In 6th Inning
+E-Pinch Hit For Napoli In 7th Inning
+F-Subbed Defensively (C ) For Izturis In 8th Inning
+G-Pinch Hit For Lucroy In 8th Inning
+H-Pinch Hit For Colvin In 8th Inning
+I-Pinch Hit For Davis In 8th Inning
+
+White Sox....... 0 0 0  2 0 0  0 0 1  -  3  9  0
+Angels.......... 0 0 1  0 0 1  0 4    -  6  9  0
+
+[1]White Sox (2-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson                    5 1/3   4   2   2   0   5   1   5.84  A1 C1
+M.Estrada LOSS(0-1)          2 1/3   3   3   3   1   0   0   9.82  C2 D3
+S.Marshall                   0 1/3   2   1   1   1   0   0   6.75  D4
+[1]Totals                    8       9   6   6   2   5   1
+
+[1]Angels (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver WIN(1-1)            9       9   3   3   7   9   1   6.00  A1
+[1]Totals                    9       9   3   3   7   9   1
+
+ATTENDANCE- 45,356 DATE- Tuesday, October 8th 2013 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:47
+LEFT ON BASE- White Sox:12  Angels: 4
+DOUBLE PLAYS- White Sox: 0  Angels: 1
+DOUBLES- M.Izturis(1st), D.Ross(1st), J.Ruggiano(1st)
+HOME RUNS- R.Braun(1st), H.Ramirez(2nd)
+STOLEN BASES- T.Campana(1st), A.Ramirez(2nd), C.Davis(1st), D.Wise(1st)
+WALKS- P.Konerko-3, I.Falu, A.Craig-3, C.Johnson, M.Holliday
+STRIKE OUTS- J.Altuve, R.Braun-3, A.Craig, C.Nelson-3, A.De Aza, C.Johnson,
+             M.Holliday, C.Davis, M.Napoli, D.Wise
+2-out RBI- H.Ramirez, I.Falu-2, J.Ruggiano-2, M.Trumbo
+RLISP 2-out- A.Rios-2, A.Craig, P.Konerko-2, R.Braun-2, I.Falu, W.Bloomquist-2,
+             C.Johnson, M.Holliday
+
+Jered Weaver completed the game without help from the bullpen as the Los
+Angeles(AL) Angels defeated the Chicago (AL) White Sox 6 to 3 at Angels
+Stadium.
+
+Los Angeles(AL) scored the winning runs in the 8th inning when they came up
+with 4 runs on 4 hits.  The biggest moment was provided by Justin Ruggiano
+who made the crowd happy when he doubled scoring two baserunners.  Both teams
+finished the game with 9 hits.  
+
+Weaver(1-1) got the victory, allowing 3 runs for the game. Marco Estrada(0-1)
+was the losing pitcher in relief.  He gave up 3 runs in 2 and 1/3 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 Los Angeles(AL) Angels
+P.Konerk-A1  A1:W>b1    *3*:G/53   C1:W>b1    D1:W>b1    E1:G/3
+T.Campan-D2                                              
+E.Chavez-D4                                              
+J.Altuve-A1  A2:K       B2:Si      C2:Si>3#   D2:SB>12   *9*:G/43
+I.Falu-C2                          2# 13      IW>b1      
+G.Beckha-D4                                              
+R.Braun-A1   A3:K       B3:G/3>12  C3:K       D3:K       E3:HR>b#
+                                                         
+                                                         
+A.Craig-A1   A4:W>12 b  B4:IW>b1   *5*:K      *7*:G/53   E4:W>b1
+             1                                           
+                                                         
+A.Rios-A1    A5:F/7     B5:L/6     C5:Si      D5:Si      E5:L/5
+                                                         
+                                                         
+C.Nelson-A1  *2*:K      *4*:Si     C6:Si>12   D6:K       E6:K
+                                                         
+                                                         
+A.Ramire-A1  A7:F/8     B7:Si>13   C7:L-DP/6  D7:G/13
+                                   4>2o       
+                                              
+J.Lucroy-A1  A8:Si      B8:SB>12   *6*:FO/5   *8*:G/63
+A.Pierzy-D8             P/5                   
+                                              
+A.De Aza-A1  A9:P/3     B9:G/43    C9:K       D9:F/9
+                                              
+                                              
+
+M.Izturi-A1  A1:G/63    B1:L/3     C1:Do>1o   D1:Do>1#
+D.Ross-C8                                     
+                                              
+A.Callas-A1  A2:G/63    *4*:G/53   C2:FC/62>  D2:L/4
+                                   3o         
+                                              
+C.Johnso-A1  A3:K       B3:P/2     C3:L/6     D3:W>b1
+                                              
+                                              
+T.Colvin-A1  *2*:G/43   B4:G/43    *7*:G/63   D4:Do>2#
+J.Ruggia-D4                                   1#
+                                              
+M.Hollid-A1  A5:F/9     *5*:K      C5:L/4     D5:IW>b1
+                                              
+                                              
+C.Davis-A1   A6:K       B6:G/3     C6:Si      D6:Si>3#
+M.Trumbo-D6                                   12
+                                              
+M.Napoli-A1  *3*:K      B7:F/7     C7:SB>12   D7:G/23
+W.Bloomq-C7                        L/6        
+                                              
+D.Wise-A1    A8:K       *6*:Si     *8*:Si
+                                   
+                                   
+H.Ramire-A1  A9:HR>b#   B9:SB>12   C9:F/8
+                        Si>2#      
+                                   
+
+

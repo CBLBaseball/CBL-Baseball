@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2013 New York (NL) Mets At 2013 San Francisco Giants      10/4/2013
+
+[1]  Mets               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  A.Torres CF         4  1  0  0 .000     M.Cabrera LF        4  0  1  1 .333  
+  D.Murphy 2B         4  0  2  1 .444     B.Belt 1B           5  0  1  0 .364  
+A-J.Herrera 2B        1  0  0  0 .000     B.Posey C           3  1  1  0 .250  
+  D.Wright 3B         5  1  2  1 .333     C.Beltran RF        4  1  2  0 .375  
+  T.Hunter RF         3  1  1  0 .111     J.Willingham DH     4  0  2  1 .250  
+  C.Jones DH          5  1  1  0 .100     P.Sandoval 3B       3  1  1  0 .125  
+  R.Ludwick LF        1  1  1  2 .286   D-J.Pacheco PH,3B     1  0  0  0 .000  
+B-K.Nieuwenhuis LF    0  0  0  0 .000     H.Kendrick 2B       4  0  1  1 .111  
+  B.Wallace 1B        3  0  0  0 .000     I.Desmond SS        3  1  0  0 .000  
+C-I.Davis 1B          0  0  0  0 .000     B.Upton CF          3  0  1  1 .500  
+  K.Shoppach C        4  0  1  1 .250   E-W.Rosario PH        1  0  0  0 .000  
+  B.Crawford SS       4  0  1  0 .444                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  9  5                 Totals      35  4 10  4
+
+A-Subbed Defensively (2B) For Murphy In 8th Inning
+B-Subbed Defensively (LF) For Ludwick In 8th Inning
+C-Subbed Defensively (1B) For Wallace In 8th Inning
+D-Pinch Hit For Sandoval In 8th Inning
+E-Pinch Hit For Upton In 9th Inning
+
+Mets............ 1 0 1  1 0 2  0 0 0  -  5  9  0
+Giants.......... 0 0 0  1 0 0  2 1 0  -  4 10  1
+
+[1]Mets (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon WIN(1-0)             6 1/3   7   3   3   2   2   0   4.26  A1 C9
+M.Storey HOLD(1st)           0 1/3   1   0   0   0   0   0   0.00  D1 D2
+D.O'Day HOLD(1st)            1 1/3   2   1   1   0   1   0   5.40  D3 D8
+J.Rauch SAVE(1st)            1       0   0   0   0   1   0   0.00  D9
+[1]Totals                    9      10   4   4   2   4   0
+
+[1]Giants (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner LOSS(0-1)        9       9   5   4   3  13   2   4.00  A1
+[1]Totals                    9       9   5   4   3  13   2
+
+ATTENDANCE- 40,632 DATE- Friday, October 4th 2013 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 3:02
+LEFT ON BASE- Mets: 9  Giants: 7
+DOUBLE PLAYS- Mets: 1  Giants: 1
+ERRORS- M.Bumgarner
+DOUBLES- D.Murphy(2nd), K.Shoppach(1st), B.Posey(2nd), C.Beltran(1st),
+         J.Willingham(1st)
+HOME RUNS- D.Wright(1st), R.Ludwick(1st)
+STOLEN BASES- A.Torres(1st)
+SACRIFICE HITS- A.Torres
+SACRIFICE FLIES- R.Ludwick, M.Cabrera
+WALKS- T.Hunter, R.Ludwick-2, B.Posey, I.Desmond
+HIT BY PITCH- T.Hunter, B.Wallace
+STRIKE OUTS- A.Torres, T.Hunter-2, C.Jones-4, B.Wallace, K.Shoppach-3,
+             B.Crawford-2, B.Belt, J.Pacheco, B.Upton, W.Rosario
+GIDP- D.Wright, P.Sandoval
+WILD PITCHES- M.Bumgarner
+2-out RBI- D.Wright, R.Ludwick, K.Shoppach, H.Kendrick
+RLISP 2-out- C.Beltran, I.Desmond, H.Kendrick, B.Crawford, T.Hunter, C.Jones-2,
+             B.Posey
+WEB GEMS- Bot 1st: Daniel Murphy robbed Carlos Beltran of a base hit.
+
+David Wright touched them all as the New York (NL) Mets defeated the San
+Francisco Giants by the score of 5 to 4 at AT&T Park.
+
+New York (NL) promptly took the lead in their half of the first scoring one
+runner.  After two outs Wright providing the offense himself as he belted a
+solo home run.  Torii Hunter was the next batter, but he struck out.  New
+York (NL) banged out 9 hits on the night.  
+
+Bartolo Colon(1-0) allowed 3 runs in 6 and 1/3 innings, and picked up the
+victory. Jon Rauch earned the save, his 1st.  Madison Bumgarner(0-1) suffered
+the loss.  Despite the loss, he struckout 13 New York (NL) batters in 9
+innings.  
+
+[2]
+[1]SCORESHEET: 2013 New York (NL) Mets at 2013 San Francisco Giants
+A.Torres-A1  A1:F/7     B1:E/1     C1:Sac/14  *7*:K      *9*:F/8
+                                   >12                   
+                                                         
+D.Murphy-A1  A2:G/63    B2:SB>12   C2:WP>23   D2:Do      E2:G/63
+J.Herrer-E1             Si>2#      FC/12>3o              
+                                                         
+D.Wright-A1  A3:HR>b#   B3:G-DP/6  C3:P/6     D3:F/9     E3:Si
+                        43>1o                            
+                                                         
+T.Hunter-A1  A4:K       *4*:K      *6*:HBP    D4:IW>b1   E4:Si>13
+                                                         
+                                                         
+C.Jones-A1   *2*:K      B5:K       C5:Si>13   D5:K       E5:K
+                                                         
+                                                         
+R.Ludwic-A1  A6:W>b1    B6:HR>b#   C6:SF/8>3  *8*:W>b1
+K.Nieuwe-E1                        # 12       
+                                              
+B.Wallac-A1  A7:F/8     B7:HBP     C7:K       D7:F/8
+I.Davis-E1                                    
+                                              
+K.Shoppa-A1  A8:K       B8:K       C8:Do>2#   D8:K
+                                              
+                                              
+B.Crawfo-A1  *3*:K      *5*:Si     C9:K       D9:Force/
+                                              64>1o b1
+                                              
+
+M.Cabrer-A1  A1:G/63    B1:G/43    C1:Si      D1:SF/8>3  E1:F/7
+                                              #          
+                                                         
+B.Belt-A1    A2:L/4     B2:K       C2:L/4     D2:Si>13   E2:F/8
+                                                         
+                                                         
+B.Posey-A1   A3:Do      *4*:W>b1   *6*:F/7    D3:F/8
+                                              
+                                              
+C.Beltra-A1  A4:G/43    B4:Si>13   C4:G/3     *8*:Do
+                                              
+                                              
+J.Willin-A1  *2*:Do     B5:Si>3#   C5:G/63    D5:G/53
+                        12                    
+                                              
+P.Sandov-A1  A6:FO/2    B6:G-DP/4  *7*:Si     D6:K
+J.Pachec-D6             63>23 1o              
+                                              
+H.Kendri-A1  A7:G/63    B7:G/13    C7:F/9     D7:Si>2#
+                                              
+                                              
+I.Desmon-A1  A8:G/53    *5*:G/63   C8:W>12 b  D8:L/5
+                                   1          
+                                              
+B.Upton-A1   *3*:K      B9:G/53    C9:Si>2#   *9*:K
+W.Rosari-D9                        13         
+                                              
+
+

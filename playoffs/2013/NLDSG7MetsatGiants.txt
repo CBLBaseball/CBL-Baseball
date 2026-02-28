@@ -1,0 +1,139 @@
+[1]BOXSCORE: 2013 New York (NL) Mets At 2013 San Francisco Giants     10/11/2013
+
+[1]  Mets               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  T.Hunter RF         3  1  0  0 .345     I.Desmond SS        4  1  1  0 .250  
+  D.Murphy 2B         5  0  0  0 .179     M.Cabrera LF        4  1  1  0 .355  
+  D.Wright 3B         5  2  2  1 .393     B.Posey 1B,C        4  1  1  1 .286  
+  I.Davis 1B          4  0  1  1 .150     J.Willingham DH     3  1  1  0 .231  
+  R.Ludwick LF        3  1  3  2 .316     C.Beltran RF        2  1  0  0 .240  
+D-K.Shoppach C        1  0  0  0 .111   G-G.Blanco RF         0  0  0  0 ----  
+  J.Jaso C            1  0  1  0 .214     W.Rosario C         4  2  3  2 .375  
+A-M.Baxter PH         1  0  1  0 .375   H-P.Sandoval 3B       0  0  0  0 .286  
+B-G.Kottaras C        1  0  0  0 .125     J.Pacheco 3B        3  0  0  0 .214  
+C-K.Nieuwenhuis PH,LF 1  0  1  0 .333   F-B.Belt PH,1B        1  0  1  2 .353  
+  A.Torres CF         4  0  1  0 .125     H.Kendrick 2B       4  1  1  2 .161  
+  B.Wallace DH        3  1  2  0 .455     B.Upton CF          4  0  0  0 .321  
+E-C.Jones PH,DH       1  0  0  0 .158                                          
+  B.Crawford SS       3  0  0  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 12  4                 Totals      33  8  9  7
+
+A-Pinch Hit For Jaso In 3rd Inning
+B-Subbed Defensively (C ) For Baxter In 3rd Inning
+C-Pinch Hit For Kottaras In 7th Inning
+D-Subbed Defensively (C ) For Ludwick In 7th Inning
+E-Pinch Hit For Wallace In 8th Inning
+F-Pinch Hit For Pacheco In 8th Inning
+G-Subbed Defensively (RF) For Beltran In 9th Inning
+H-Subbed Defensively (3B) For Rosario In 9th Inning
+
+Mets............ 2 1 1  0 0 0  1 0 0  -  5 12  1
+Giants.......... 3 0 0  1 0 0  1 3    -  8  9  1
+
+[1]Mets (3-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dickey LOSS(0-2)           7 1/3   8   8   8   3   8   2   6.65  A1 D6
+C.Breslow                    0 1/3   1   0   0   0   0   0  23.14  D7 D8
+D.O'Day                      0 1/3   0   0   0   0   1   0   5.40  D9
+[1]Totals                    8       9   8   8   3   9   2
+
+[1]Giants (4-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy                      4       7   4   3   2   2   1   3.43  A1 C3
+R.Betancourt                 2 1/3   2   0   0   1   1   0   0.00  C4 D3
+S.Romo WIN(2-0)              2 1/3   2   1   1   0   3   1   2.08  D4 E3
+J.Putz                       0 1/3   1   0   0   0   1   0   0.00  E4
+[1]Totals                    9      12   5   4   3   7   2
+
+ATTENDANCE- 38,643 DATE- Friday, October 11th 2013 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 2:34
+LEFT ON BASE- Mets: 9  Giants: 4
+DOUBLE PLAYS- Mets: 0  Giants: 1
+ERRORS- R.Dickey, J.Pacheco
+DOUBLES- R.Ludwick-2(3rd), B.Wallace-2(2nd), J.Willingham(3rd)
+HOME RUNS- D.Wright(2nd), R.Ludwick(2nd), W.Rosario(3rd), H.Kendrick(1st)
+SACRIFICE HITS- B.Crawford
+SACRIFICE FLIES- I.Davis
+WALKS- T.Hunter-2, R.Ludwick, J.Willingham, C.Beltran-2
+STRIKE OUTS- T.Hunter, D.Murphy, D.Wright, K.Shoppach, G.Kottaras, B.Wallace,
+             B.Crawford, I.Desmond, M.Cabrera, J.Willingham, C.Beltran,
+             W.Rosario, J.Pacheco, H.Kendrick, B.Upton-2
+GIDP- D.Murphy
+2-out RBI- R.Ludwick-2
+RLISP 2-out- J.Jaso, H.Kendrick-2, T.Hunter, D.Murphy, B.Crawford-2, A.Torres,
+             B.Upton
+
+In a game at AT&T Park the San Francisco Giants got by the New York (NL) Mets
+by the score of 8 to 5.
+
+San Francisco came through with the game-winning runs in the 8th inning with 3
+runs on 3 base hits.  After an out was recorded, Josh Willingham jump-started
+the rally as he doubled.  Carlos Beltran came next and he was walked
+intentionally.  Wilin Rosario then laced a base-knock to load the bases.
+Brandon Belt followed next and he slapped a one-base hit.  Howie Kendrick
+stepped into the box and would ground out.  B.J. Upton got his chance to keep
+things going, but he went down on strikes.  This was the kind of game that
+many fans love as the lead changed hands 5 times.  
+
+The win went to Sergio Romo(2-0) who allowed 1 run in 2 and 1/3 innings. R.A.
+Dickey(0-2) was charged with the loss.  He was not very effective,
+surrendering 8 runs in 7 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2013 New York (NL) Mets at 2013 San Francisco Giants
+T.Hunter-A1  A1:W>b1    B1:E/5>3#  *4*:G/43   D1:IW>b1   E1:K
+                        b2                               
+                                                         
+D.Murphy-A1  A2:F/9     B2:F/9     C2:K       D2:G-DP/3  *9*:F/8
+                                              63>1o      
+                                                         
+D.Wright-A1  A3:Si>13   *3*:HR>b#  C3:G/53    *7*:L/5    E3:K
+                                                         
+                                                         
+I.Davis-A1   A4:SF/8>3  B4:G/43    *5*:F/9    D4:F/7     E4:Si
+             #                                           
+                                                         
+R.Ludwic-A1  A5:Do>1#   B5:W>b1    C5:Do      D5:HR>b#   E5:K
+K.Shoppa-D8                                              
+                                                         
+J.Jaso-A1    A6:Si>2o   B6:Si>12   C6:K       D6:Si
+M.Baxter-B6                                   
+G.Kottar-C1+                                  
+A.Torres-A1  *2*:L/4    B7:Si>23   C7:G/31    D7:F/7
+                        12                    
+                                              
+B.Wallac-A1  A8:Do      B8:K       *6*:Do     *8*:F/9
+C.Jones-D8                                    
+                                              
+B.Crawfo-A1  A9:G/43>2  B9:L/4     C9:Sac/34  D9:K
+             3                     >23        
+                                              
+
+I.Desmon-A1  A1:Si      B1:K       *5*:G/53   D1:G/43
+                                              
+                                              
+M.Cabrer-A1  A2:Si>12   B2:G/43    C2:K       D2:G/31
+                                              
+                                              
+B.Posey-A1   A3:Si>2#   *3*:G/63   C3:G/63    *8*:G/43
+             13                               
+                                              
+J.Willin-A1  A4:W>12 b  B4:K       *6*:P/2    D4:Do
+             1                                
+                                              
+C.Beltra-A1  A5:FO/2    B5:K       C5:W>b1    D5:IW>b1
+G.Blanco-E1                                   
+                                              
+W.Rosari-A1  A6:Si+E/1  *4*:HR>b#  C6:K       D6:Si>23
+P.Sandov-E1  >3# 2# 13                        12
+                                              
+J.Pachec-A1  A7:G/53    B7:F/7     C7:K       D7:Si>3#
+B.Belt-D7                                     2# 13
+                                              
+H.Kendri-A1  A8:K       B8:G/43    *7*:HR>b#  D8:G/43>3
+                                              # 12
+                                              
+B.Upton-A1   *2*:K      B9:FO/2    C9:G/3     D9:K
+                                              
+                                              
+
+

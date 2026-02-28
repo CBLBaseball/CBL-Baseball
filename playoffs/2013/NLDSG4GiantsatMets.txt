@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2013 San Francisco Giants At 2013 New York (NL) Mets      10/7/2013
+
+[1]  Giants             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Cabrera LF        4  0  0  1 .278     T.Hunter RF         5  1  2  1 .278  
+  P.Sandoval 3B       4  2  3  2 .333     M.Baxter LF         3  1  1  0 .333  
+  B.Posey C           3  1  0  0 .200   A-R.Ludwick PH        1  0  0  0 .250  
+  C.Beltran RF        3  1  0  0 .250     D.Wright 3B         3  0  1  0 .375  
+  J.Willingham DH     4  1  1  1 .267     D.Murphy 2B         4  0  1  0 .313  
+  B.Belt 1B           4  1  1  1 .333     I.Davis 1B          3  0  1  1 .091  
+  H.Kendrick 2B       4  0  1  3 .111     C.Jones DH          3  1  1  1 .154  
+  I.Desmond SS        4  1  1  0 .200     G.Kottaras C        4  1  1  1 .143  
+  B.Upton CF          4  1  2  0 .375     A.Torres CF         3  0  0  0 .000  
+                                          B.Crawford SS       3  0  0  0 .357  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  8  9  8                 Totals      32  4  8  4
+
+A-Pinch Hit For Baxter In 9th Inning
+
+Giants.......... 0 0 0  4 0 0  3 1 0  -  8  9  0
+Mets............ 0 2 1  0 1 0  0 0 0  -  4  8  0
+
+[1]Giants (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy WIN(1-0)             6       7   4   4   4   6   3   2.65  A1 D1
+R.Betancourt HOLD(1st)       1 2/3   1   0   0   0   3   0   0.00  D2 D7
+J.Affeldt                    1 1/3   0   0   0   0   0   0   0.00  D8
+[1]Totals                    9       8   4   4   4   9   3
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dickey LOSS(0-1)           6 2/3   8   7   7   2  11   1   5.02  A1 D2
+D.O'Day                      1 1/3   1   1   1   0   1   1   6.00  D3 D7
+B.Parnell                    1       0   0   0   0   0   0   2.70  D8
+[1]Totals                    9       9   8   8   2  12   2
+
+ATTENDANCE- 38,144 DATE- Monday, October 7th 2013 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 3:08
+LEFT ON BASE- Giants: 2  Mets: 7
+DOUBLE PLAYS- Giants: 2  Mets: 1
+DOUBLES- H.Kendrick(1st), I.Davis(1st)
+TRIPLES- M.Baxter(1st)
+HOME RUNS- P.Sandoval(1st), J.Willingham(1st), T.Hunter(1st), C.Jones(1st),
+           G.Kottaras(1st)
+STOLEN BASES- B.Upton(1st)
+SACRIFICE FLIES- M.Cabrera, I.Davis
+WALKS- B.Posey, C.Beltran, M.Baxter, D.Wright, C.Jones, A.Torres
+HIT BY PITCH- B.Crawford
+STRIKE OUTS- M.Cabrera, P.Sandoval, B.Posey, C.Beltran-2, J.Willingham-2,
+             B.Belt, H.Kendrick-2, I.Desmond, B.Upton, T.Hunter, D.Wright-2,
+             D.Murphy-2, I.Davis, G.Kottaras-2, B.Crawford
+GIDP- B.Posey, T.Hunter, R.Ludwick
+2-out RBI- B.Belt, H.Kendrick-3, P.Sandoval-2
+RLISP 2-out- I.Davis, I.Desmond, B.Posey, C.Jones, G.Kottaras-2, A.Torres
+
+At Citi Field the San Francisco Giants plated 4 runs in the 4th inning and
+outdistanced the New York (NL) Mets by a final score of 8 to 4.
+
+Jake Peavy(1-0) labored throughout the game but hung around to record a
+victory.  He gave up 4 runs in 6 innings and surrendered 3 'round-trippers'.
+San Francisco had a total of 9 hits for the game.  
+
+R.A. Dickey(0-1) was the loser.  He allowed San Francisco 7 runs in 6 and 2/3
+innings of work.
+[2]
+[1]SCORESHEET: 2013 San Francisco Giants at 2013 New York (NL) Mets
+M.Cabrer-A1  A1:G/63    *4*:F/9    C1:SB>12   D1:SF/7>3  E1:FO/3
+                                   K          #          
+                                                         
+P.Sandov-A1  A2:Si      B2:Si      C2:K       D2:HR>1#
+                                              b#
+                                              
+B.Posey-A1   A3:G-DP/1  B3:W>12 b  C3:K       D3:FO/2
+             63>1o      1                     
+                                              
+C.Beltra-A1  *2*:K      B4:W>23 1  *6*:K      *8*:P/3
+                        2 b1                  
+                                              
+J.Willin-A1  A5:K       B5:K       C5:G/43    D5:HR>b#
+                                              
+                                              
+B.Belt-A1    A6:K       B6:Si>3#   C6:L/4     D6:G/31
+                        23 12                 
+                                              
+H.Kendri-A1  *3*:K      B7:Do>3#   *7*:L/6    D7:K
+                        2# 1#                 
+                                              
+I.Desmon-A1  A8:K       B8:G/13    C8:Si      *9*:F/9
+                                              
+                                              
+B.Upton-A1   A9:K       *5*:Si     C9:Si>13   D9:P/2
+                                              
+                                              
+
+T.Hunter-A1  A1:Si      B1:G-DP/6  *5*:HR>b#  D1:K       E1:F/7
+                        43>1o                            
+                                                         
+M.Baxter-A1  A2:W>12 b  *3*:Tr     C2:L/4     *7*:F/7    E2:G-DP/1
+R.Ludwic-E2  1                                           63>1o
+                                                         
+D.Wright-A1  A3:K       B3:W>b1    C3:Si      D3:K
+                                              
+                                              
+D.Murphy-A1  A4:F/8     B4:K       C4:Si>12   D4:K
+                                              
+                                              
+I.Davis-A1   A5:K       B5:SF/7>3  C5:Force/  *8*:Do
+                        #          46>23 1o   
+                                   b1         
+C.Jones-A1   *2*:HR>b#  B6:G/63    C6:W>12 b  D6:G/13
+                                   1          
+                                              
+G.Kottar-A1  A7:HR>b#   *4*:K      C7:F/9     D7:K
+                                              
+                                              
+A.Torres-A1  A8:W>b1    B8:F/7     *6*:F/8    D8:G/53
+                                              
+                                              
+B.Crawfo-A1  A9:L/4     B9:G/43    C9:K       *9*:HBP
+                                              
+                                              
+
+

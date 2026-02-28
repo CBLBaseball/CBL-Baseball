@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2013 San Francisco Giants At 2013 Chicago (AL) White Sox 10/26/2013
+
+[1]  Giants             AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  M.Cabrera LF        4  0  1  0 .344     D.Viciedo DH        3  1  1  1 .308  
+  I.Desmond SS        4  0  1  0 .241   A-I.Falu PH,DH        1  0  0  0 .333  
+  B.Posey 1B          4  0  1  0 .258     J.Altuve 2B         3  0  1  1 .264  
+  C.Beltran RF        4  0  1  0 .259   B-E.Chavez PH,3B      1  0  0  0 .321  
+  J.Willingham DH     4  1  0  0 .207     R.Braun LF          4  0  1  0 .237  
+  J.Pacheco 3B        4  1  1  0 .214     A.Craig 1B          4  0  0  0 .241  
+  W.Rosario C         4  1  2  3 .321     J.Lucroy C          4  0  2  0 .300  
+  H.Kendrick 2B       4  0  0  0 .230     A.Rios RF           4  0  0  0 .242  
+  B.Upton CF          4  0  1  0 .305     C.Nelson 3B,2B      3  0  1  0 .333  
+                                          A.Ramirez SS        3  0  0  0 .262  
+                                          A.De Aza CF         3  1  1  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  3  8  3                 Totals      33  2  7  2
+
+A-Pinch Hit For Viciedo In 8th Inning
+B-Pinch Hit For Altuve In 8th Inning
+
+Giants.......... 0 0 0  0 0 3  0 0 0  -  3  8  0
+White Sox....... 1 0 0  0 1 0  0 0 0  -  2  7  1
+
+[1]Giants (11-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner WIN(3-1)         7       7   2   2   0   7   1   3.76  A1 C9
+R.Betancourt HOLD(2nd)       1       0   0   0   0   0   0   1.35  D1 D3
+S.Romo SAVE(1st)             1       0   0   0   0   2   0   1.42  D4
+[1]Totals                    9       7   2   2   0   9   1
+
+[1]White Sox (8-8)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay LOSS(2-1)         7 2/3   8   3   2   0   7   1   2.78  A1 D5
+D.Oliver                     0 1/3   0   0   0   0   0   0   0.00  D6 D6
+M.Lindstrom                  1       0   0   0   0   1   0   1.50  D7
+[1]Totals                    9       8   3   2   0   8   1
+
+ATTENDANCE- 38,111 DATE- Saturday, October 26th 2013 TIME- Night 
+UMPIRES- Paul Nauert, Dana Demuth, Kerwin Danley, Doug Eddings
+T- 2:18
+LEFT ON BASE- Giants: 6  White Sox: 4
+DOUBLE PLAYS- Giants: 1  White Sox: 0
+ERRORS- A.Craig
+DOUBLES- J.Altuve(3rd), A.De Aza(3rd)
+HOME RUNS- W.Rosario(4th), D.Viciedo(3rd)
+STOLEN BASES- B.Upton(5th)
+STRIKE OUTS- M.Cabrera, I.Desmond, B.Posey, C.Beltran, J.Pacheco, H.Kendrick-2,
+             B.Upton, D.Viciedo, J.Altuve, R.Braun, A.Craig-3, A.Rios-2,
+             A.De Aza
+GIDP- A.Ramirez
+BALKS- M.Bumgarner
+2-out RBI- J.Altuve
+RLISP 2-out- A.Rios, W.Rosario, I.Desmond, B.Posey, R.Braun-2
+
+The San Francisco Giants edged the Chicago (AL) White Sox at US Cellular Field
+by the score of 3 to 2.
+
+Chicago (AL) surrendered all of the runs San Francisco needed in the 6th
+inning plating 3 runs using 2 hits.  After an out was recorded, Josh
+Willingham keyed the rally when he reached on an error.  Jordan Pacheco next
+to the plate and he laced a base-hit.  Wilin Rosario then belted a three-run
+homer.  Howie Kendrick was the next batter, but he struck out.  B.J. Upton
+followed, but he was set down on strikes.  San Francisco had 8 hits for the
+night.  
+
+The victory went to Madison Bumgarner(3-1) who went 7 innings, allowing 2
+runs. Bumgarner got relief help from Sergio Romo who gained credit for his
+1st save.  Roy Halladay(2-1) was the loser.  He allowed 8 hits and no walks
+in 7 and 2/3 innings.  
+
+Wth the win San Francisco now has a record of a league leading 11-4.  Still in
+a bad slump, with this loss, Chicago (AL) is 0-10 lately and 8-8 on the year.
+[2]
+[1]SCORESHEET: 2013 San Francisco Giants at 2013 Chicago (AL) White Sox
+M.Cabrer-A1  A1:G/43    B1:Si      C1:SB>12   *7*:G/13
+                                   K          
+                                              
+I.Desmon-A1  A2:F/9     B2:K       C2:Si>23   D2:G/31
+                                              
+                                              
+B.Posey-A1   A3:Si      B3:G/13    C3:G/63    D3:K
+                                              
+                                              
+C.Beltra-A1  A4:K       *4*:Si     *6*:G/31   *8*:G/43
+                                              
+                                              
+J.Willin-A1  *2*:F/8    B5:G/31>1  C5:E/3     D5:G/43
+                        2                     
+                                              
+J.Pachec-A1  A6:P/6     B6:K       C6:Si>13   D6:G/53
+                                              
+                                              
+W.Rosari-A1  A7:Si      B7:F/8     C7:HR>3#   *9*:F/7
+                                   1# b#      
+                                              
+H.Kendri-A1  A8:G/31    *5*:F/8    C8:K       D8:K
+                                              
+                                              
+B.Upton-A1   *3*:F/7    B9:Si      C9:K       D9:G/63
+                                              
+                                              
+
+D.Vicied-A1  A1:HR>b#   *3*:K      C1:F/9     *8*:F/9
+I.Falu-D1                                     
+                                              
+J.Altuve-A1  A2:F/9     B2:K       C2:Do>2#   D2:G/3
+E.Chavez-D2                                   
+                                              
+R.Braun-A1   A3:Si      B3:K       C3:Bk>23   D3:G/63
+                                   G/3        
+                                              
+A.Craig-A1   A4:K       *4*:K      *6*:F/8    *9*:K
+                                              
+                                              
+J.Lucroy-A1  A5:Si>12   B5:Si      C5:F/8     D5:F/7
+                                              
+                                              
+A.Rios-A1    A6:G/53    B6:K       C6:L/5     D6:K
+                                              
+                                              
+C.Nelson-A1  *2*:F/9    B7:G/63    *7*:Si
+                                   
+                                   
+A.Ramire-A1  A8:F/8     *5*:G/63   C8:G-DP/6
+                                   43>1o
+                                   
+A.De Aza-A1  A9:K       B9:Do      C9:L/4
+                                   
+                                   
+
+

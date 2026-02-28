@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2013 New York (NL) Mets At 2013 San Francisco Giants     10/10/2013
+
+[1]  Mets               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  T.Hunter RF         4  1  2  1 .385     I.Desmond SS        4  0  1  0 .250  
+  D.Murphy 2B         3  0  0  0 .217     M.Cabrera LF        4  1  3  0 .370  
+C-J.Herrera 2B        1  0  0  0 .000     B.Posey C ,1B       4  0  1  0 .292  
+  D.Wright 3B         4  0  1  0 .391     J.Willingham DH     4  0  1  1 .217  
+  I.Davis 1B          4  1  1  0 .125     C.Beltran RF        4  0  1  0 .261  
+  R.Ludwick LF        4  0  1  1 .188     W.Rosario 1B,C      4  0  1  0 .250  
+D-A.Torres CF         0  0  0  0 .083   E-G.Blanco PR         0  0  0  0 ----  
+  J.Jaso C            4  0  1  0 .154     H.Kendrick 2B       3  0  1  0 .148  
+  K.Nieuwenhuis CF,LF 4  0  2  0 .273     J.Pacheco 3B        2  0  1  0 .273  
+  C.Jones DH          2  0  1  0 .167   B-P.Sandoval PH,3B    2  0  0  0 .286  
+A-M.Baxter PH,DH      1  0  0  0 .286     B.Upton CF          3  0  0  0 .375  
+  B.Crawford SS       3  0  0  0 .294   F-B.Belt PH           1  0  0  0 .313  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  9  2                 Totals      35  1 10  1
+
+A-Pinch Hit For Jones In 7th Inning
+B-Pinch Hit For Pacheco In 7th Inning
+C-Subbed Defensively (2B) For Murphy In 8th Inning
+D-Subbed Defensively (CF) For Ludwick In 8th Inning
+E-Pinch Ran For Rosario In 9th Inning
+F-Pinch Hit For Upton In 9th Inning
+
+Mets............ 2 0 0  0 0 0  0 0 0  -  2  9  1
+Giants.......... 0 0 0  0 0 0  0 1 0  -  1 10  1
+
+[1]Mets (3-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon WIN(2-0)             8 1/3  10   1   1   0   5   0   2.45  A1 D7
+B.Parnell HOLD(1st)          0 1/3   0   0   0   0   1   0   2.45  D8 D8
+J.Rauch SAVE(2nd)            0 1/3   0   0   0   0   0   0   0.00  D9
+[1]Totals                    9      10   1   1   0   6   0
+
+[1]Giants (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain LOSS(0-2)             8 1/3   9   2   2   2   6   1   2.93  A1 D8
+M.Capps                      0 2/3   0   0   0   1   0   0   0.00  D9
+[1]Totals                    9       9   2   2   3   6   1
+
+ATTENDANCE- 41,624 DATE- Thursday, October 10th 2013 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 3:20
+LEFT ON BASE- Mets: 9  Giants: 8
+DOUBLE PLAYS- Mets: 2  Giants: 2
+ERRORS- B.Colon, B.Upton
+DOUBLES- I.Davis(2nd), R.Ludwick(1st), K.Nieuwenhuis(1st)
+TRIPLES- M.Cabrera(2nd)
+HOME RUNS- T.Hunter(3rd)
+SACRIFICE HITS- B.Crawford, H.Kendrick
+WALKS- T.Hunter, D.Murphy, M.Baxter
+STRIKE OUTS- D.Murphy, D.Wright, I.Davis, R.Ludwick, K.Nieuwenhuis, M.Baxter,
+             I.Desmond, B.Posey, W.Rosario, P.Sandoval, B.Upton-2
+GIDP- D.Wright, C.Jones, M.Cabrera, P.Sandoval
+2-out RBI- R.Ludwick, J.Willingham
+RLISP 2-out- J.Jaso, C.Beltran, W.Rosario-2, D.Wright, B.Posey, T.Hunter-3,
+             J.Herrera-2, B.Belt
+
+Bartolo Colon(2-0) and Matt Cain(0-2) locked horns in a pitcher's duel with
+Colon and the New York (NL) Mets coming out on top of the San Francisco
+Giants 2 to 1.
+
+New York (NL) claimed the early lead in the first inning as they scored 2 runs
+on 3 base hits.  That was all Colon needed.  San Francisco tried
+unsuccessfully to come back in the 9th.  
+
+Jon Rauch recorded the save, his 2nd.
+[2]
+[1]SCORESHEET: 2013 New York (NL) Mets at 2013 San Francisco Giants
+T.Hunter-A1  A1:HR>b#   *3*:F/9    C1:Si>12   D1:F/7     E1:IW>b1
+                                                         
+                                                         
+D.Murphy-A1  A2:G/63    B2:W>b1    C2:K       *8*:G/43   E2:Force/
+J.Herrer-D6                                              54>1o b1
+                                                         
+D.Wright-A1  A3:G/63    B3:G-DP/1  C3:K       D3:Si
+                        63>1o                 
+                                              
+I.Davis-A1   A4:Do      *4*:G/63   *6*:F/9    D4:K
+                                              
+                                              
+R.Ludwic-A1  A5:Do>2#   B5:G/43    C5:K       D5:F/7
+A.Torres-D6                                   
+                                              
+J.Jaso-A1    A6:G/63    B6:Si      C6:F/8     *9*:E/8>b
+                                              2
+                                              
+K.Nieuwe-A1  *2*:Si     B7:K       *7*:Do     D7:G/43>2
+                                              3
+                                              
+C.Jones-A1   A8:G-DP/4  *5*:Si     C8:K       D8:IW>b1
+M.Baxter-C8  63>1o                            
+                                              
+B.Crawfo-A1  A9:G/63    B9:Force/  C9:G/43>2  D9:Sac/34
+                        16>1o b1   3          >12
+                                              
+
+I.Desmon-A1  A1:G/63    *3*:Si     C1:K       *8*:G/63
+                                              
+                                              
+M.Cabrer-A1  A2:Si      B2:G-DP/4  C2:Si>12   D2:Tr
+                        63>1o                 
+                                              
+B.Posey-A1   A3:E/1>12  B3:Si      C3:G/63    D3:K
+                                              
+                                              
+J.Willin-A1  A4:L/6     B4:F/9     *6*:G/23   D4:Si>3#
+                                              
+                                              
+C.Beltra-A1  A5:Si>23   *4*:G/43   C5:P/2     D5:G/43
+             12                               
+                                              
+W.Rosari-A1  A6:K       B6:G/3     C6:F/7     *9*:Si
+G.Blanco-D8                                   
+                                              
+H.Kendri-A1  *2*:G/53   B7:F/9     *7*:Si     D7:Sac/14
+                                              >12
+                                              
+J.Pachec-A1  A8:F/9     *5*:Si     C8:G-DP/5  D8:K
+P.Sandov-C8                        43>1o      
+                                              
+B.Upton-A1   A9:K       B9:K       C9:G/53    D9:F/9
+B.Belt-D9                                     
+                                              
+
+

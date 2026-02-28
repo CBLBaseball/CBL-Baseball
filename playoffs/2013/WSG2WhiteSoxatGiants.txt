@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 San Francisco Giants 10/24/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  P.Konerko 1B        4  1  2  0 .280     M.Cabrera LF        4  3  3  0 .350  
+C-I.Falu PH           1  0  0  0 .400     B.Belt 1B           5  0  1  1 .303  
+D-C.Tracy 1B          1  0  1  1 .333     B.Posey C           5  0  1  1 .259  
+  E.Chavez 3B         3  0  0  1 .333     C.Beltran RF        4  0  1  1 .259  
+A-T.Campana PR        0  0  0  0 .250     J.Willingham DH     3  0  0  0 .222  
+B-C.Nelson 3B         2  0  0  0 .333   F-G.Blanco PR,DH      0  0  0  0 ----  
+  R.Braun LF          2  0  1  0 .236     P.Sandoval 3B       4  0  1  0 .303  
+  A.Pierzynski C      4  0  0  0 .333     H.Kendrick 2B       4  0  2  0 .246  
+E-J.Lucroy PH,C       1  0  0  0 .269     I.Desmond SS        3  1  0  0 .241  
+  A.Craig DH          3  0  2  1 .259     B.Upton CF          4  0  0  0 .309  
+  A.Rios RF           5  0  0  0 .258                                          
+  A.De Aza CF         4  1  3  0 .245                                          
+  A.Ramirez SS        5  0  1  0 .276                                          
+  J.Altuve 2B         4  1  0  0 .260                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39  3 10  3                 Totals      36  4  9  3
+
+A-Pinch Ran For Chavez In 7th Inning
+B-Subbed Defensively (3B) For Campana In 7th Inning
+C-Pinch Hit For Konerko In 8th Inning
+D-Subbed Defensively (1B) For Falu In 8th Inning
+E-Pinch Hit For Pierzynski In 9th Inning
+F-Pinch Ran For Willingham In 9th Inning
+
+White Sox....... 0 0 0  0 2 0  0 0 0  1 -  3 10  0
+Giants.......... 0 0 0  1 0 1  0 0 0  2 -  4  9  2
+
+[1]White Sox (8-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson                    8 1/3   8   2   2   1   8   0   5.35  A1 D5
+S.Marshall                   0 1/3   0   0   0   0   0   0   3.00  D6 D6
+J.Henderson LOSS(0-1)        1       1   2   2   2   1   0   4.15  D7
+[1]Totals                    9 2/3   9   4   4   3   9   0
+
+[1]Giants (10-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Peavy                      7 2/3   7   2   0   7   4   0   2.86  A1 D9
+J.Putz                       1 1/3   1   0   0   1   1   0   0.00  E1 E6
+R.Betancourt WIN(1-0)        1       2   1   1   0   1   0   1.59  E7
+[1]Totals                   10      10   3   1   8   6   0
+
+ATTENDANCE- 41,918 DATE- Thursday, October 24th 2013 TIME- Night 
+UMPIRES- Bill Hohn, Greg Gibson, Sam Holbrook, Gerry Davis
+T- 2:52
+LEFT ON BASE- White Sox:14  Giants: 5
+DOUBLE PLAYS- White Sox: 0  Giants: 3
+ERRORS- B.Belt, P.Sandoval
+DOUBLES- R.Braun(3rd), A.Craig(3rd), M.Cabrera-2(3rd)
+STOLEN BASES- T.Campana(4th), A.De Aza(4th), J.Altuve(3rd), H.Kendrick(3rd),
+              I.Desmond(4th)
+CAUGHT STEALING- B.Belt, H.Kendrick
+WALKS- E.Chavez, R.Braun-3, A.Craig-2, A.De Aza, J.Altuve, M.Cabrera,
+       J.Willingham, I.Desmond
+STRIKE OUTS- P.Konerko, I.Falu, A.Pierzynski, A.Rios, A.Ramirez-2, B.Belt,
+             B.Posey-2, J.Willingham, H.Kendrick, I.Desmond-2, B.Upton-2
+GIDP- R.Braun, A.Pierzynski, A.Rios
+WILD PITCHES- J.Henderson, J.Peavy
+2-out RBI- A.Craig, C.Beltran, C.Tracy, B.Posey
+RLISP 2-out- A.De Aza, A.Rios-3, B.Upton-2, P.Konerko, I.Falu, A.Craig,
+             H.Kendrick, B.Posey-2
+
+The San Francisco Giants nipped the Chicago (AL) White Sox in 10 innings 4 to
+3 at AT&T Park in a hard fought contest.
+
+The game was deadlocked at 2 after nine full innings.  Finally, San Francisco
+pulled the game out in the 10th inning.  Ian Desmond led off and he drew a
+walk.  Desmond was safe at second on a stolen base.  B.J. Upton struck out,
+unable to help the rally.  Melky Cabrera was up next and he was walked
+intentionally.  After another out, Jim Henderson came to the plate and
+uncorked a wild pitch.  Buster Posey added to the outburst and delivered a
+one-base hit.  San Francisco finished with 9 hits in the victory.  
+
+The win went to Rafael Betancourt(1-0) who allowed 1 run in 1 inning.
+Henderson(0-1) was tagged with the loss in relief.  He allowed 2 runs and 1
+hit in 1 inning.
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 San Francisco Giants
+P.Konerk-A1  A1:K       B1:Si      C1:SB>12   D1:F/7     E1:K       F1:Si>2#
+I.Falu-E1                          Si>23                            
+C.Tracy-E2                                                          
+E.Chavez-A1  A2:G/23    B2:E/3>12  C2:E/5>3#  *7*:W>b1   *9*:G/43   F2:F/7
+T.Campan-D3                        13 b2                            
+C.Nelson-D6                                                         
+R.Braun-A1   A3:W>b1    B3:G-DP/1  C3:IW>b1   D3:SB>12   E3:Do
+                        63>1o                 IW>b1      
+                                                         
+A.Pierzy-A1  A4:F/8     *4*:G/63   C4:K       D4:G-DP/5  E4:G/63
+J.Lucroy-E4                                   4>2o 1o    
+                                                         
+A.Craig-A1   *2*:Si     B5:Do      C5:W>3# 2  D5:F/8     E5:IW>b1
+                                   3 12 b1               
+                                                         
+A.Rios-A1    A6:G-DP/1  B6:K       C6:F/8     *8*:G/53   E6:L/6
+             63>1o                                       
+                                                         
+A.De Aza-A1  A7:W>b1    B7:F/7     *6*:Si     D7:Si      *10*:Si
+                                                         
+                                                         
+A.Ramire-A1  A8:F/8     *5*:FO/5   C8:K       D8:Si>12   E8:SB>12
+                                                         K
+                                                         
+J.Altuve-A1  *3*:G/43   B9:W>b1    C9:WP>12   D9:Force/  E9:L/5
+                                   F/9>23     64>23 1o   
+                                              b1         
+
+M.Cabrer-A1  A1:G/53    *4*:Do     *6*:Do     D1:Si      E1:IW>b1
+                                                         
+                                                         
+B.Belt-A1    A2:F/7     B2:Si>2#   C2:G/63    D2:K       E2:G/43>2
+                                                         3 12
+                                                         
+B.Posey-A1   A3:K       B3:CS/24>  C3:K       D3:F/8     E3:WP>3#
+                        1o G/13                          23 Si>3#
+                                                         
+C.Beltra-A1  *2*:F/9    B4:F/8     C4:Si>2#   *9*:F/8
+                                              
+                                              
+J.Willin-A1  A5:F/9     *5*:K      C5:G/63    D5:W>b1
+G.Blanco-D6                                   
+                                              
+P.Sandov-A1  A6:G/43    B6:Si      *7*:G/23   D6:G/43>1
+                                              2
+                                              
+H.Kendri-A1  *3*:K      B7:Si>13   C7:Si      D7:G/43
+                                              
+                                              
+I.Desmon-A1  A8:G/63    B8:SB>12   C8:CS/24>  *10*:W>b1
+                        K          1o K       
+                                              
+B.Upton-A1   A9:G/53    B9:F/8     *8*:K      D9:SB>12
+                                              K
+                                              
+
+

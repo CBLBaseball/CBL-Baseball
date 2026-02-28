@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2013 Los Angeles(AL) Angels At 2013 Chicago (AL) White So 10/4/2013
+
+[1]  Angels             AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  D.Uggla 2B          5  0  1  0 .200     P.Konerko 1B        5  0  1  1 .375  
+H-M.Izturis PR,2B     0  0  0  0 .000     C.Nelson 3B         1  1  1  0 .500  
+  W.Bloomquist SS     5  1  2  0 .333   B-E.Chavez PH,3B      1  1  1  11.000  
+  A.Callaspo 3B       2  2  1  0 .333   E-D.Viciedo PH        0  0  0  0 ----  
+  J.Ruggiano CF       4  0  0  0 .200   F-I.Falu 3B           0  0  0  01.000  
+C-D.Wise CF           0  0  0  0 .000   J-T.Campana PH        1  0  1  11.000  
+  M.Holliday LF       3  2  1  0 .286     R.Braun LF          5  1  0  0 .000  
+D-T.Colvin LF         1  0  0  0 .200     A.Rios RF           5  0  1  0 .222  
+  H.Ramirez DH        4  2  2  4 .500     A.Craig DH          3  1  0  1 .143  
+  M.Trumbo RF         4  1  1  0 .200     A.Pierzynski C      0  0  0  01.000  
+  C.Davis 1B          4  0  2  2 .286   A-J.Lucroy PH,C       3  0  2  2 .333  
+  M.Napoli C          3  1  2  3 .333     A.Ramirez SS        4  1  1  0 .250  
+G-C.Johnson PH        1  0  0  0 .250     J.Altuve 2B         4  0  0  0 .333  
+I-D.Ross C            0  0  0  0 ----     A.De Aza CF         4  1  1  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  9 12  9                 Totals      36  6  9  6
+
+A-Pinch Hit For Pierzynski In 4th Inning
+B-Pinch Hit For Nelson In 6th Inning
+C-Subbed Defensively (CF) For Ruggiano In 7th Inning
+D-Subbed Defensively (LF) For Holliday In 7th Inning
+E-Pinch Hit For Chavez In 7th Inning
+F-Subbed Defensively (3B) For Viciedo In 8th Inning
+G-Pinch Hit For Napoli In 8th Inning
+H-Pinch Ran For Uggla In 8th Inning
+I-Subbed Defensively (C ) For Johnson In 8th Inning
+J-Pinch Hit For Falu In 9th Inning
+
+Angels.......... 0 0 2  3 3 0  1 0 0  -  9 12  2
+White Sox....... 0 0 0  1 0 2  1 1 1  -  6  9  0
+
+[1]Angels (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Millwood WIN(1-0)          6 2/3   6   4   3   3   4   1   4.05  A1 D1
+J.Norberto                   0 1/3   0   1   0   1   0   0   0.00  D2 D4
+J.Collmenter                 1 1/3   3   1   1   0   1   0   6.75  D5 E2
+F.Rodney SAVE(1st)           0 2/3   0   0   0   0   1   0   0.00  E3
+[1]Totals                    9       9   6   4   4   6   1
+
+[1]White Sox (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale LOSS(0-1)             4       5   7   7   4   5   1  15.75  A1 C3
+M.Estrada                    2 2/3   4   2   2   1   1   1   6.75  C4 D5
+M.Lindstrom                  0 2/3   1   0   0   0   0   0   0.00  D6 D8
+R.Ross                       1 2/3   2   0   0   0   1   0   0.00  D9
+[1]Totals                    9      12   9   9   5   7   2
+
+ATTENDANCE- 39,880 DATE- Friday, October 4th 2013 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 2:44
+LEFT ON BASE- Angels: 6  White Sox: 7
+DOUBLE PLAYS- Angels: 2  White Sox: 0
+ERRORS- A.Callaspo, J.Norberto
+DOUBLES- D.Uggla(1st), W.Bloomquist(1st), H.Ramirez(1st), C.Nelson(1st),
+         T.Campana(1st)
+TRIPLES- J.Lucroy(1st)
+HOME RUNS- H.Ramirez(1st), M.Napoli(1st), E.Chavez(1st)
+STOLEN BASES- R.Braun(1st), A.Ramirez(1st)
+CAUGHT STEALING- W.Bloomquist, C.Davis
+SACRIFICE HITS- D.Wise
+WALKS- A.Callaspo-3, M.Holliday, H.Ramirez, C.Nelson, D.Viciedo, A.Craig,
+       A.Pierzynski
+STRIKE OUTS- D.Uggla, J.Ruggiano-2, M.Trumbo-2, C.Davis, C.Johnson, P.Konerko,
+             R.Braun, A.Ramirez, J.Altuve, A.De Aza-2
+GIDP- R.Braun, J.Lucroy
+WILD PITCHES- C.Sale
+2-out RBI- C.Davis-2, M.Napoli, J.Lucroy, H.Ramirez-4, P.Konerko
+RLISP 2-out- D.Uggla, A.Craig, A.Ramirez, M.Trumbo-2, R.Braun, W.Bloomquist,
+             J.Altuve, H.Ramirez, A.Rios
+WEB GEMS- Top 4th: Alexei Ramirez robbed Dan Uggla of a base hit.
+          Bot 6th: Kevin Millwood robbed Allen Craig of a base hit.
+
+The Los Angeles(AL) Angels bested the Chicago (AL) White Sox by a 9 to 6 score
+at US Cellular Field.
+
+Hanley Ramirez provided much of the offense.  He rifled a three-run blast in
+the 5th inning and doubled scoring a run in the 7th inning.  Despite scoring
+in 5 separate innings, Chicago (AL) could not get the win.  
+
+Kevin Millwood(1-0) got credit for the victory, pitching 6 and 2/3 innings and
+allowing 4 runs. Millwood got help from Fernando Rodney who was credited with
+his 1st save.  Chris Sale(0-1) was charged with the loss.  He was knocked
+around pretty good, giving up 7 runs in 4 innings.  
+
+[2]
+[1]SCORESHEET: 2013 Los Angeles(AL) Angels at 2013 Chicago (AL) White Sox
+D.Uggla-A1   A1:K       B1:F/8     C1:G/63    D1:L/6     E1:Do
+M.Izturi-E2                                              
+                                                         
+W.Bloomq-A1  A2:G/63    B2:L/5     *5*:Do     *7*:Si     E2:F/9
+                                                         
+                                                         
+A.Callas-A1  A3:G/43    *4*:W>b1   C3:W>b1    D3:CS/26>  *9*:Si
+                                              1o W>b1    
+                                                         
+J.Ruggia-A1  *2*:K      B4:K       C4:F/7     D4:L/6     E4:Sac/54
+D.Wise-D8                                                >12
+                                                         
+M.Hollid-A1  A5:L/6     B5:WP>12   C5:Force/  D5:Si>12   E5:F/9>23
+T.Colvin-D8             W>b1       16>23 1o              
+                                   b1                    
+H.Ramire-A1  A6:L/5     B6:W>23 1  C6:HR>3#   D6:Do>2#   E6:F/8
+                        2 b1       1# b#      13         
+                                                         
+M.Trumbo-A1  *3*:Si     B7:K       C7:K       D7:L/6
+                                              
+                                              
+C.Davis-A1   A8:K       B8:Si>3#   *6*:Si     *8*:F/9
+                        2# 13                 
+                                              
+M.Napoli-A1  A9:HR>1#   B9:Si>3#   C9:CS/24>  D9:K
+C.Johnso-D9  b#         12         1o F/9     
+D.Ross-E3                                     
+
+P.Konerk-A1  A1:K       B1:L/5     C1:G/63    D1:Si>2#   E1:F/9>12
+                                                         
+                                                         
+C.Nelson-A1  A2:W>b1    *4*:Do     *6*:HR>b#  D2:W>12 b  E2:Do>2#
+E.Chavez-C2                                   1          
+D.Vicied-D2+                                             
+R.Braun-A1   A3:G-DP/5  B3:F/7     C3:E/5     D3:G/63    E3:K
+             43>1o                                       
+                                                         
+A.Rios-A1    *2*:G/63   B4:G/63    C4:SB>12   *8*:E/1    E4:F/7
+                                   Si>23                 
+                                                         
+A.Craig-A1   A5:G/63    B5:IW>b1   C5:Force/  D5:Force/
+                                   16>3# 1o   46>1o b1
+                                   b1         
+A.Pierzy-A1  A6:W>b1    B6:Si>2#   C6:G-DP/6  D6:Tr>1#
+J.Lucroy-B6             13         43>1o      
+                                              
+A.Ramire-A1  A7:K       B7:G/31    *7*:Si     D7:F/8
+                                              
+                                              
+J.Altuve-A1  *3*:G/63   *5*:G/63   C8:SB>12   D8:K
+                                   G/63       
+                                              
+A.De Aza-A1  A9:F/9     B9:K       C9:K       *9*:Si
+                                              
+                                              
+
+

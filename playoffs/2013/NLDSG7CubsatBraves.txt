@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2013 Chicago (NL) Cubs At 2013 Atlanta Braves            10/11/2013
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  S.Castro SS         5  0  2  1 .290     C.Blackmon LF       4  0  1  0 .250  
+  D.Barney 2B         5  0  1  0 .276     A.Simmons SS        4  0  1  0 .250  
+  Y.Alonso 1B         4  0  0  0 .179     J.Heyward RF        4  0  0  0 .148  
+  A.Ramirez 3B        3  1  0  0 .280     C.Headley 3B        4  0  1  0 .222  
+  A.Soriano DH        4  0  2  0 .370     J.Hamilton CF       4  0  1  0 .304  
+  C.Gentry CF         4  0  2  0 .455     C.Ransom DH         3  0  1  0 .125  
+  G.Parra LF          4  1  1  0 .278     O.Infante 2B        2  0  0  0 .240  
+  D.Mastroianni RF    3  1  3  1 .429   B-E.Bonifacio PH      1  0  0  0 .000  
+  G.Soto C            4  2  2  3 .385     F.Freeman 1B        4  0  0  0 .208  
+                                          G.Laird C           2  0  1  0 .667  
+                                        A-B.McCann PH,C       1  0  1  0 .267  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 13  5                 Totals      33  0  7  0
+
+A-Pinch Hit For Laird In 7th Inning
+B-Pinch Hit For Infante In 9th Inning
+
+Cubs............ 0 0 0  0 0 0  0 1 4  -  5 13  0
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  7  0
+
+[1]Cubs (4-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Wood WIN(1-1)              7 1/3   6   0   0   1   4   0   3.52  A1 D3
+A.Cashner HOLD(1st)          0 2/3   1   0   0   0   2   0   0.00  D4 D6
+B.Ziegler                    0 1/3   0   0   0   0   0   0   0.00  D7 D7
+J.Russell                    0 2/3   0   0   0   0   0   0   0.00  D8
+[1]Totals                    9       7   0   0   1   6   0
+
+[1]Braves (3-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Holland                    7       7   0   0   1   4   0   0.00  A1 C8
+C.Kimbrel LOSS(0-1)          1       2   2   2   1   1   0   9.00  C9 D4
+G.Perkins                    0 2/3   3   3   3   0   0   1  16.88  D5 D9
+B.Badenhop                   0 1/3   1   0   0   0   0   0   3.86  E1
+[1]Totals                    9      13   5   5   2   5   1
+
+ATTENDANCE- 48,401 DATE- Friday, October 11th 2013 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 2:41
+LEFT ON BASE- Cubs: 6  Braves: 8
+DOUBLE PLAYS- Cubs: 1  Braves: 2
+DOUBLES- A.Soriano(4th), C.Headley(1st), B.McCann(1st)
+TRIPLES- S.Castro(1st)
+HOME RUNS- G.Soto(3rd)
+STOLEN BASES- D.Mastroianni(1st)
+CAUGHT STEALING- D.Mastroianni
+WALKS- A.Ramirez, D.Mastroianni, O.Infante
+HIT BY PITCH- C.Ransom
+STRIKE OUTS- S.Castro, D.Barney, A.Ramirez, G.Parra-2, A.Simmons, J.Heyward,
+             C.Headley, J.Hamilton-2, C.Ransom
+GIDP- G.Soto-2, F.Freeman
+2-out RBI- D.Mastroianni, G.Soto-3
+RLISP 2-out- A.Simmons-2, C.Ransom, O.Infante, Y.Alonso
+
+Travis Wood(1-1)with help from the bullpen shutout Atlanta while the Chicago
+(NL) Cubs scored 5 runs in an evening game at Turner Field.
+
+Wood pitched well for Chicago (NL) in their victory.  He went 7 and 1/3
+innings surrendering 6 hits and 1 walk seeing his ERA drop from 6.75 to 3.52.
+Chicago (NL) had 13 hits for the game and Atlanta had 7.  
+
+Craig Kimbrel(0-1) absorbed the loss in relief.  He pitched 1 inning and
+surrendered 2 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2013 Chicago (NL) Cubs at 2013 Atlanta Braves
+S.Castro-A1  A1:L/6     *3*:P/5    C1:K       D1:Tr>1#   E1:Si
+                                                         
+                                                         
+D.Barney-A1  A2:Si      B2:P/6     *6*:L/6    D2:K       E2:G/63
+                                                         
+                                                         
+Y.Alonso-A1  A3:P/6     B3:G/3     C3:G/13    D3:F/9
+                                              
+                                              
+A.Ramire-A1  A4:K       *4*:G/43   C4:F/7     *9*:W>b1
+                                              
+                                              
+A.Sorian-A1  *2*:Si     B5:Do      *7*:G/43   D5:F/7
+                                              
+                                              
+C.Gentry-A1  A6:Si>12   B6:Si      C6:L/5     D6:L/6
+                                              
+                                              
+G.Parra-A1   A7:F/9     B7:K       C7:K       D7:Si>13
+                                              
+                                              
+D.Mastro-A1  A8:W>23 1  *5*:Si     *8*:Si     D8:Si>3#
+             2 b1                             13
+                                              
+G.Soto-A1    A9:G-DP/3  B9:G-DP/6  C9:SB>12   D9:HR>3#
+             63>1o      43>1o      CS/25>2o   1# b#
+                                   Si         
+
+C.Blackm-A1  A1:G/3     B1:G/13    C1:Si>13   D1:G/63
+                                              
+                                              
+A.Simmon-A1  A2:Si      B2:K       C2:P/6     D2:G/63
+                                              
+                                              
+J.Heywar-A1  A3:Force/  *4*:G/43   *6*:F/8    *8*:K
+             64>1o b1                         
+                                              
+C.Headle-A1  A4:G/63    B4:G/43    C4:Do      D4:K
+                                              
+                                              
+J.Hamilt-A1  *2*:P/4    B5:Si      C5:K       D5:K
+                                              
+                                              
+C.Ransom-A1  A6:L/5     B6:K       C6:HBP     *9*:Si
+                                              
+                                              
+O.Infant-A1  A7:W>b1    *5*:F/7    C7:L/5     D7:Force/
+E.Bonifa-D7                                   46>1o b1
+                                              
+F.Freema-A1  A8:G/43    B8:G/43    *7*:G/43   D8:G-DP/4
+                                              63>1o
+                                              
+G.Laird-A1   *3*:G/63   B9:Si      C9:Do
+B.McCann-C9                        
+                                   
+
+

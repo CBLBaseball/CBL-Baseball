@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2013 New York (AL) Yankees At 2013 Oakland A's            10/3/2013
+
+[1]  Yankees            AB  R  H RBI AVG     A's                AB  R  H RBI AVG
+  D.Jeter SS          4  0  0  0 .000     N.Aoki RF           4  1  1  0 .250  
+  N.Swisher DH        3  0  1  0 .333     M.Prado 3B          4  1  3  0 .750  
+  C.Wells LF          2  0  0  0 .000     C.Gonzalez LF       4  0  2  1 .500  
+D-J.Pierre PH         1  0  1  01.000     Y.Cespedes CF       3  0  1  1 .333  
+  M.Teixeira 1B       4  0  0  0 .000     P.Goldschmidt 1B    4  0  1  0 .250  
+  K.Frandsen 3B       4  0  0  0 .000     J.Donaldson C       3  0  1  0 .333  
+  R.Cano 2B           4  0  2  0 .500   A-K.Suzuki C          1  0  0  0 .000  
+  C.Crisp CF          3  0  0  0 .000     E.Young Jr DH       3  0  1  0 .333  
+  I.Suzuki RF         3  0  1  0 .333     C.Pennington SS     2  0  1  0 .500  
+  E.Kratz C           2  0  0  0 .000     M.Ellis 2B          3  0  1  0 .333  
+B-D.Dejesus PH        0  0  0  0 ----                                          
+C-C.Snyder C          0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  5  0                 Totals      31  2 12  2
+
+A-Subbed Defensively (C ) For Donaldson In 8th Inning
+B-Pinch Hit For Kratz In 8th Inning
+C-Subbed Defensively (C ) For Dejesus In 8th Inning
+D-Pinch Hit For Wells In 9th Inning
+
+Yankees......... 0 0 0  0 0 0  0 0 0  -  0  5  1
+A's............. 1 0 0  0 1 0  0 0    -  2 12  0
+
+[1]Yankees (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Nolasco LOSS(0-1)          6 2/3  11   2   2   1   2   0   2.70  A1 D1
+O.Dotel                      1       1   0   0   1   0   0   0.00  D2 D5
+D.Thayer                     0 1/3   0   0   0   0   0   0   0.00  D6
+[1]Totals                    8      12   2   2   2   2   0
+
+[1]A's (1-0)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Gonzalez WIN(1-0)          6       3   0   0   2   4   0   0.00  A1 C4
+W.Davis HOLD(1st)            1       1   0   0   0   1   0   0.00  C5 C8
+J.Arredondo HOLD(1st)        1       0   0   0   1   0   0   0.00  C9 D2
+H.Street SAVE(1st)           1       1   0   0   0   2   0   0.00  D3
+[1]Totals                    9       5   0   0   3   7   0
+
+ATTENDANCE- 34,351 DATE- Thursday, October 3rd 2013 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 2:45
+LEFT ON BASE- Yankees: 6  A's: 7
+DOUBLE PLAYS- Yankees: 4  A's: 1
+ERRORS- C.Snyder
+DOUBLES- R.Cano-2(2nd), I.Suzuki(1st), M.Prado(1st), J.Donaldson(1st)
+STOLEN BASES- Y.Cespedes(1st)
+CAUGHT STEALING- C.Gonzalez
+WALKS- N.Swisher, C.Wells, D.Dejesus, Y.Cespedes, C.Pennington
+STRIKE OUTS- D.Jeter, C.Wells-2, M.Teixeira, K.Frandsen, R.Cano, C.Crisp,
+             J.Donaldson, E.Young Jr
+GIDP- D.Jeter, N.Aoki, C.Gonzalez, Y.Cespedes, J.Donaldson
+2-out RBI- Y.Cespedes
+RLISP 2-out- D.Jeter, E.Young Jr, C.Pennington, E.Kratz, I.Suzuki, M.Prado,
+             K.Suzuki
+
+Martin Prado had 3 base hits as the Oakland A's topped the New York (AL)
+Yankees by a score of 2 to 0 at O.co Coliseum.
+
+Gio Gonzalez(1-0) pitched a fine game.  He went 6 innings surrendering 3 hits
+and 2 walks.  Overall Oakland out-hit New York (AL) 12 to 5.  
+
+Gonzalez got help from Huston Street who earned his 1st save.  Ricky
+Nolasco(0-1) was charged with the loss.  He gave up 11 hits and 1 walk in 6
+and 2/3 innings.
+[2]
+[1]SCORESHEET: 2013 New York (AL) Yankees at 2013 Oakland A's
+D.Jeter-A1   A1:G/53    B1:G/53    *6*:K      D1:G-DP/5
+                                              43>1o
+                                              
+N.Swishe-A1  A2:G/43    *4*:Si     C2:W>b1    D2:F/8
+                                              
+                                              
+C.Wells-A1   A3:W>b1 P  B3:K       C3:K       *9*:Si
+J.Pierre-D3  kOff/13>1                        
+             o                                
+M.Teixei-A1  *2*:G/63   B4:L/6     C4:L/6     D4:K
+                                              
+                                              
+K.Frands-A1  A5:G/63    B5:K       *7*:G/63   D5:Force/
+                                              64>1o b1
+                                              
+R.Cano-A1    A6:G/43    *5*:Do     C6:Do      D6:K
+                                              
+                                              
+C.Crisp-A1   *3*:F/9    B7:F/9>23  C7:K
+                                   
+                                   
+I.Suzuki-A1  A8:Do      B8:L/4     C8:G/63
+                                   
+                                   
+E.Kratz-A1   A9:G/53    B9:G/43    *8*:W>b1
+D.Dejesu-C9                        
+C.Snyder-D3                        
+
+N.Aoki-A1    A1:G/31    *3*:G/3    C1:Si      D1:G-DP/4
+                                              63>23 1o
+                                              
+M.Prado-A1   A2:Do      B2:Si      C2:Si>13   D2:G/63
+                                              
+                                              
+C.Gonzal-A1  A3:G/3>23  B3:G-DP/3  C3:Si>3#   *8*:Si
+                        63>1o      12         
+                                              
+Y.Cesped-A1  A4:Si>3#   *4*:F/8    C4:G-DP/6  D4:CS/24>
+                                   43>1o      1o W>b1
+                                              
+P.Goldsc-A1  A5:G/13    B5:G/13    *6*:Si     D5:F/7
+                                              
+                                              
+J.Donald-A1  *2*:K      B6:Do      C6:G-DP/5  D6:SB+E/2
+K.Suzuki-D3                        43>1o      >13 F/9
+                                              
+E.Young -A1  A7:K       B7:Si>23   C7:F/9
+                                   
+                                   
+C.Pennin-A1  A8:Si      B8:F/9     *7*:W>b1
+                                   
+                                   
+M.Ellis-A1   A9:G/53    *5*:G/13   C9:Si>12
+                                   
+                                   
+
+

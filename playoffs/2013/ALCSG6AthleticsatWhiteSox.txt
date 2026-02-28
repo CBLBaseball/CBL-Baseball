@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2013 Oakland A's At 2013 Chicago (AL) White Sox          10/20/2013
+
+[1]  A's                AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Aoki RF           5  1  1  0 .140     D.Viciedo DH        4  2  2  1 .300  
+  M.Prado 3B          3  1  1  0 .393   B-C.Nelson PH,DH      1  0  0  0 .357  
+  C.Gonzalez LF       4  0  1  0 .346     A.Craig 3B          5  2  2  4 .235  
+  Y.Cespedes CF       4  1  1  2 .292   D-E.Chavez 3B         0  0  0  0 .450  
+  M.Maldonado C       4  1  1  2 .167     R.Braun LF          2  1  0  0 .224  
+  P.Goldschmidt 1B    4  1  2  1 .292     J.Lucroy C          2  0  0  0 .280  
+  B.Moss DH           2  0  1  0 .250     A.Rios RF           4  1  1  2 .296  
+A-J.Donaldson PH,DH   1  0  0  0 .267     A.De Aza CF         3  0  0  0 .143  
+  C.Pennington SS     3  0  0  0 .240     J.Altuve 2B         4  0  1  0 .279  
+C-J.Weeks PH          1  0  0  0 .267   E-G.Beckham 2B        0  0  0  0 .167  
+  M.Ellis 2B          3  0  0  0 .219     P.Konerko 1B        4  0  0  0 .262  
+                                          A.Ramirez SS        3  1  2  0 .300  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  8  5                 Totals      32  7  8  7
+
+A-Pinch Hit For Moss In 8th Inning
+B-Pinch Hit For Viciedo In 8th Inning
+C-Pinch Hit For Pennington In 9th Inning
+D-Subbed Defensively (3B) For Craig In 9th Inning
+E-Subbed Defensively (2B) For Altuve In 9th Inning
+
+A's............. 2 0 0  1 2 0  0 0 0  -  5  8  0
+White Sox....... 0 0 2  0 3 0  2 0    -  7  8  0
+
+[1]A's (6-7)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Gonzalez LOSS(2-1)         7       7   7   7   6   5   4   3.15  A1 D7
+W.Davis                      1       1   0   0   0   2   0   3.38  D8
+[1]Totals                    8       8   7   7   6   7   4
+
+[1]White Sox (8-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay WIN(2-0)          7 2/3   8   5   5   2   5   3   3.00  A1 D6
+D.Oliver HOLD(2nd)           0 2/3   0   0   0   0   2   0   0.00  D7 D8
+M.Lindstrom SAVE(1st)        0 2/3   0   0   0   0   1   0   2.08  D9
+[1]Totals                    9       8   5   5   2   8   3
+
+ATTENDANCE- 40,176 DATE- Sunday, October 20th 2013 TIME- Night 
+UMPIRES- Dana Demuth, Kerwin Danley, Doug Eddings, Paul Nauert
+T- 2:53
+LEFT ON BASE- A's: 5  White Sox: 7
+DOUBLE PLAYS- A's: 0  White Sox: 1
+DOUBLES- N.Aoki(1st), C.Gonzalez(2nd), B.Moss(2nd), A.Ramirez(3rd)
+HOME RUNS- Y.Cespedes(5th), M.Maldonado(2nd), P.Goldschmidt(3rd),
+           D.Viciedo(2nd), A.Craig-2(4th), A.Rios(3rd)
+WALKS- M.Prado, M.Ellis, R.Braun-2, J.Lucroy-2, A.De Aza, A.Ramirez
+HIT BY PITCH- B.Moss
+STRIKE OUTS- N.Aoki, P.Goldschmidt-2, J.Donaldson, C.Pennington, J.Weeks,
+             M.Ellis-2, D.Viciedo, C.Nelson, A.Craig-2, J.Lucroy, A.De Aza,
+             J.Altuve
+GIDP- C.Gonzalez
+2-out RBI- Y.Cespedes-2, M.Maldonado-2
+RLISP 2-out- M.Ellis, N.Aoki-2, M.Maldonado, J.Altuve, A.Craig
+
+Third baseman Allen Craig knocked 2 homeruns and had 4 RBI as the Chicago (AL)
+White Sox defeated the Oakland A's by a score of 7 to 5 at US Cellular
+Field.
+
+Craig enjoyed a fine evening at the plate.  He smashed a bases-empty 'big-fly'
+in the 3rd inning and launched a three-run homer in the 5th inning.  Both
+teams finished the game with 8 hits.  
+
+The win went to Roy Halladay(2-0) who allowed 5 runs in 7 and 2/3 innings.
+Halladay was helped out by Matt Lindstrom who recorded his 1st save.  The
+losing pitcher was Gio Gonzalez(2-1).  He allowed 4 homeruns in 7 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2013 Oakland A's at 2013 Chicago (AL) White Sox
+N.Aoki-A1    A1:Do      B1:K       C1:G/63    *7*:F/7    E1:F/9
+                                                         
+                                                         
+M.Prado-A1   A2:W>b1    *3*:F/7    *5*:Si     D2:F/8
+                                              
+                                              
+C.Gonzal-A1  A3:G-DP/4  B3:Do      C3:F/8     D3:F/9
+             63>23 1o                         
+                                              
+Y.Cesped-A1  A4:HR>3#   B4:L/6     C4:L/6     *8*:F/9
+             b#                               
+                                              
+M.Maldon-A1  A5:F/8     B5:F/9     C5:HR>1#   D5:F/9
+                                   b#         
+                                              
+P.Goldsc-A1  *2*:K      *4*:HR>b#  C6:K       D6:Si
+                                              
+                                              
+B.Moss-A1    A7:Do      B7:HBP     *6*:G/31   D7:K
+J.Donald-D7                                   
+                                              
+C.Pennin-A1  A8:K       B8:G/3>12  C8:F/8     *9*:K
+J.Weeks-D8                                    
+                                              
+M.Ellis-A1   A9:W>b1    B9:F/8     C9:K       D9:K
+                                              
+                                              
+
+D.Vicied-A1  A1:K       B1:HR>b#   C1:Si>13   D1:F/7     E1:K
+C.Nelson-E1                                              
+                                                         
+A.Craig-A1   A2:G/53    B2:HR>b#   C2:HR>3#   D2:K       E2:K
+E.Chavez-E3                        1# b#                 
+                                                         
+R.Braun-A1   A3:W>b1    B3:G/53    C3:G/63    *7*:W>b1
+                                              
+                                              
+J.Lucroy-A1  A4:K       B4:W>b1    C4:W>b1    D4:G/3>12
+                                              
+                                              
+A.Rios-A1    *2*:G/63   B5:F/9     C5:F/7     D5:HR>2#
+                                              b#
+                                              
+A.De Aza-A1  A6:G/13    *4*:K      C6:W>12 b  D6:F/7
+                                   1          
+                                              
+J.Altuve-A1  A7:Si      B7:L/6     C7:K       D7:F/8
+G.Beckha-E3                                   
+                                              
+P.Konerk-A1  A8:G/53    B8:G/63    *6*:L/5    *8*:G/63
+                                              
+                                              
+A.Ramire-A1  *3*:G/43   *5*:W>b1   C9:Do      D9:Si
+                                              
+                                              
+
+

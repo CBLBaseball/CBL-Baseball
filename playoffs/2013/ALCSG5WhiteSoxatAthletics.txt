@@ -1,0 +1,147 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 Oakland A's          10/18/2013
+
+[1]  White Sox          AB  R  H RBI AVG     A's                AB  R  H RBI AVG
+  P.Konerko DH        6  1  3  2 .289     N.Aoki RF           5  1  1  0 .135  
+  C.Nelson 3B         4  1  2  0 .370     M.Prado 3B          6  2  2  1 .396  
+B-T.Campana PR        0  0  0  0 .333     C.Gonzalez LF       4  0  3  1 .354  
+C-E.Chavez 3B         1  0  0  0 .450     Y.Cespedes CF       3  0  0  0 .295  
+  R.Braun LF          4  0  1  1 .234     M.Maldonado C       3  0  1  1 .143  
+  A.Craig 1B          5  0  1  1 .217   D-J.Donaldson PH,C    0  0  0  0 .286  
+  A.Rios RF           5  2  2  1 .300     P.Goldschmidt 1B    3  0  0  0 .273  
+  J.Lucroy C          2  0  1  0 .304     B.Moss DH           2  0  0  0 .222  
+A-A.Pierzynski PH,C   3  1  1  0 .400   E-C.Cowgill PH,DH     1  0  0  0 .250  
+  A.De Aza CF         5  0  0  0 .154     C.Pennington SS     2  0  0  0 .273  
+  A.Ramirez SS        5  0  1  0 .277   F-E.Young Jr PH       1  0  0  0 .273  
+  J.Altuve 2B         4  0  1  0 .282   G-R.Cedeno SS         0  0  0  0 .182  
+                                          M.Ellis 2B          4  0  0  0 .241  
+                                        H-J.Weeks PH          1  0  1  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      44  5 13  5                 Totals      35  3  8  3
+
+A-Pinch Hit For Lucroy In 6th Inning
+B-Pinch Ran For Nelson In 10th Inning
+C-Subbed Defensively (3B) For Campana In 10th Inning
+D-Pinch Hit For Maldonado In 10th Inning
+E-Pinch Hit For Moss In 10th Inning
+F-Pinch Hit For Pennington In 10th Inning
+G-Subbed Defensively (SS) For Young Jr In 11th Inning
+H-Pinch Hit For Ellis In 11th Inning
+
+White Sox....... 0 1 0  0 0 2  0 0 0  0 2 -  5 13  2
+A's............. 1 0 0  0 2 0  0 0 0  0 0 -  3  8  1
+
+[1]White Sox (7-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson                    9       7   3   2   7   8   0   6.23  A1 E4
+J.Henderson                  0 1/3   0   0   0   1   0   0   0.00  E5 E6
+S.Marshall                   0 1/3   0   0   0   0   1   0   3.38  E7 E7
+D.Oliver WIN(1-0)            1 1/3   1   0   0   0   1   0   0.00  E8
+[1]Totals                   11       8   3   2   8  10   0
+
+[1]A's (6-6)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Karstens                   5       5   3   3   1   5   1   6.35  A1 C3
+M.Belisle BS(1st)            2       3   0   0   0   1   0   0.00  C4 D2
+W.Davis                      2       1   0   0   1   1   0   3.72  D3 D9
+H.Street LOSS(0-1)           1       3   2   2   0   0   0   4.50  E1 E6
+R.Cook                       1       1   0   0   1   2   0   1.80  E7
+[1]Totals                   11      13   5   5   3   9   1
+
+ATTENDANCE- 33,641 DATE- Friday, October 18th 2013 TIME- Night 
+UMPIRES- Sam Holbrook, Gerry Davis, Bill Hohn, Greg Gibson
+T- 3:55
+LEFT ON BASE- White Sox: 9  A's:11
+DOUBLE PLAYS- White Sox: 2  A's: 1
+ERRORS- J.Lucroy, A.Ramirez, M.Maldonado
+DOUBLES- C.Nelson(2nd), A.Rios(1st), J.Lucroy(1st)
+HOME RUNS- A.Rios(2nd)
+STOLEN BASES- T.Campana(3rd), R.Braun(4th), A.Ramirez(3rd), N.Aoki-2(4th),
+              C.Gonzalez(3rd), C.Pennington(2nd)
+CAUGHT STEALING- R.Braun, M.Maldonado, P.Goldschmidt
+SACRIFICE HITS- J.Donaldson
+SACRIFICE FLIES- M.Maldonado
+WALKS- C.Nelson, R.Braun, J.Altuve, N.Aoki, C.Gonzalez, Y.Cespedes,
+       P.Goldschmidt-2, B.Moss-2, C.Pennington
+HIT BY PITCH- Y.Cespedes, C.Pennington
+STRIKE OUTS- P.Konerko, E.Chavez, A.Craig-2, A.Pierzynski, A.De Aza-2,
+             A.Ramirez-2, N.Aoki, C.Gonzalez, Y.Cespedes, M.Maldonado,
+             P.Goldschmidt, B.Moss, C.Cowgill, C.Pennington, E.Young Jr,
+             M.Ellis
+GIDP- N.Aoki, M.Ellis
+2-out RBI- P.Konerko-2
+RLISP 2-out- Y.Cespedes, A.Rios, J.Altuve-3, P.Goldschmidt, N.Aoki, C.Nelson,
+             A.Pierzynski, A.Craig, E.Young Jr-2, E.Chavez
+
+Alex Rios slammed a homerun as the Chicago (AL) White Sox defeated the Oakland
+A's in 11 innings by a score of 5 to 3 at O.co Coliseum.
+
+Both teams had scored 3 runs after nine full innings.  Chicago (AL) came out
+the victor in the 11th inning.  Rios kicked off the action when he doubled.
+A.J. Pierzynski next to the plate and he laced a base-knock.  After another
+out, Alexei Ramirez struck out, unable to help the rally.  Jose Altuve
+stepped in and he drew a walk to load the bases.  Paul Konerko came to the
+plate and stroked a base-hit.  Eric Chavez got his chance to keep things
+going, but he went down on strikes.  Oakland was out-hit by Chicago (AL), 13
+hits to 8.  
+
+Darren Oliver(1-0) was the winner allowing no runs in 1 and 1/3 innings.
+Huston Street(0-1) was the loser in relief.  He pitched 1 inning allowing 3
+hits and no walks.
+
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 Oakland A's
+P.Konerk-A1  A1:F/8     B1:K       *6*:Si     D1:Si>13   *10*:F/9   F1:Si>3#
+                                                                    2# 13
+                                                                    
+C.Nelson-A1  A2:G/63    *4*:Do     C2:W>12 b  D2:G/63    E2:Si      F2:K
+T.Campan-E3                        1                                
+E.Chavez-E5                                                         
+R.Braun-A1   A3:G/13    B3:G/43>2  C3:Si>2#   *8*:W>b1   E3:SB>12
+                        3          13                    F/9
+                                                         
+A.Craig-A1   *2*:K      B4:K       C4:CS>1o   D4:SB>12   E4:G/53
+                                   Si>3#      G/53       
+                                                         
+A.Rios-A1    A5:HR>b#   B5:G/63    C5:F/8     D5:F/7     *11*:Do
+                                                         
+                                                         
+J.Lucroy-A1  A6:F/8     *5*:Do     C6:G/53    D6:K       E6:Si>23
+A.Pierzy-C6                                              
+                                                         
+A.De Aza-A1  A7:G/63    B7:K       *7*:K      *9*:G/63   E7:G/31>1
+                                                         2
+                                                         
+A.Ramire-A1  *3*:K      B8:G/13    C8:FO/5    D8:Si      E8:K
+                                                         
+                                                         
+J.Altuve-A1  A9:F/8     B9:L/6     C9:Si      D9:SB+E/2  E9:W>b1
+                                              >13 L-DP/  
+                                              5>3o       
+
+N.Aoki-A1    A1:F/8     *3*:Si     C1:W>b1    D1:L/4     E1:K       F1:G-DP/6
+                                                                    43>1o
+                                                                    
+M.Prado-A1   A2:Si+E/6  B2:SB>12   C2:SB+E/2  *7*:G/13   E2:G/13    F2:FO/2
+                        F/7        >13 Si>3#                        
+                                                                    
+C.Gonzal-A1  A3:Si>2#   B3:K       C3:W>12 b  D3:Si      *10*:Si
+                                   1                     
+                                                         
+Y.Cesped-A1  A4:K       B4:G/63    C4:HBP>23  D4:F/8     E4:SB>12
+                                   12                    W>b1
+                                                         
+M.Maldon-A1  A5:K       *4*:Si     C5:SF/8>3  D5:F/8     E5:Sac>23
+J.Donald-E5                        #                     12 
+                                                         
+P.Goldsc-A1  *2*:W>b1   B6:CS>1o   C6:G/63    *8*:K      E6:W>b1
+                        G/3                              
+                                                         
+B.Moss-A1    A7:CS>1o   B7:W>b1    *6*:G/43   D7:K       E7:K
+C.Cowgil-E7  W>b1                                        
+                                                         
+C.Pennin-A1  A8:W>12 b  B8:Force/  C8:HBP     D8:K       E8:K
+E.Young -E8  1          64>1o b1                         
+R.Cedeno-E9                                              
+M.Ellis-A1   A9:G-DP/5  *5*:F/8    C9:SB>12   *9*:F/7    *11*:Si
+J.Weeks-E9   43>1o                 K                     
+                                                         
+
+

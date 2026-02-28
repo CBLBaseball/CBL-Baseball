@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2013 Oakland A's At 2013 New York (AL) Yankees            10/8/2013
+
+[1]  A's                AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  N.Aoki RF           5  0  0  0 .095     J.Pierre LF         3  1  1  0 .429  
+  M.Prado 3B          5  2  2  1 .455     D.Jeter SS          4  1  1  0 .318  
+  C.Gonzalez LF       4  2  2  3 .429     D.Dejesus CF        4  1  1  0 .214  
+  Y.Cespedes CF       5  2  3  1 .350     C.Ruiz C            2  0  1  1 .727  
+  P.Goldschmidt 1B    5  1  2  0 .316   D-C.Wells PH          1  0  0  0 .000  
+  B.Moss DH           2  1  0  0 .333     R.Cano 2B           4  0  1  0 .316  
+C-J.Donaldson PH,DH   1  0  0  0 .125     M.Teixeira 1B       4  0  1  0 .158  
+  C.Pennington SS     4  1  1  3 .273     N.Swisher DH        3  0  1  0 .389  
+  K.Suzuki C          4  0  1  1 .308     I.Suzuki RF         2  0  0  0 .313  
+  M.Ellis 2B          3  0  0  0 .286     P.Polanco 3B        2  0  0  0 .333  
+                                        A-C.Crisp PH          1  0  0  0 .111  
+                                        B-K.Frandsen 3B       0  0  0  0 .222  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  9 11  9                 Totals      30  3  7  1
+
+A-Pinch Hit For Polanco In 7th Inning
+B-Subbed Defensively (3B) For Crisp In 8th Inning
+C-Pinch Hit For Moss In 8th Inning
+D-Pinch Hit For Ruiz In 9th Inning
+
+A's............. 0 1 4  0 1 0  0 0 3  -  9 11  0
+Yankees......... 3 0 0  0 0 0  0 0 0  -  3  7  0
+
+[1]A's (3-2)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Cahill WIN(1-1)            6 2/3   7   3   3   3   3   0   8.31  A1 C8
+H.Street HOLD(1st)           0 1/3   0   0   0   0   0   0   0.00  C9 C9
+M.Belisle SAVE(1st)          2       0   0   0   0   1   0   0.00  D1
+[1]Totals                    9       7   3   3   3   4   0
+
+[1]Yankees (2-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Nolasco LOSS(0-2)          7       8   6   6   2   6   3   5.27  A1 D5
+A.Ogando                     1 2/3   3   3   3   0   0   2  21.60  D6 E4
+D.Thayer                     0 1/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    9      11   9   9   2   7   5
+
+ATTENDANCE- 50,116 DATE- Tuesday, October 8th 2013 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:58
+LEFT ON BASE- A's: 5  Yankees: 3
+DOUBLE PLAYS- A's: 4  Yankees: 0
+DOUBLES- Y.Cespedes(1st), P.Goldschmidt(1st)
+HOME RUNS- M.Prado(2nd), C.Gonzalez-2(2nd), Y.Cespedes(2nd), C.Pennington(1st)
+STOLEN BASES- C.Gonzalez(2nd)
+WALKS- B.Moss, M.Ellis, J.Pierre, C.Ruiz, I.Suzuki
+HIT BY PITCH- C.Gonzalez
+STRIKE OUTS- Y.Cespedes-2, P.Goldschmidt-2, B.Moss, C.Pennington, M.Ellis,
+             D.Jeter-2, N.Swisher, P.Polanco
+GIDP- D.Jeter, R.Cano, M.Teixeira, P.Polanco
+WILD PITCHES- T.Cahill
+2-out RBI- K.Suzuki, C.Pennington-3, C.Gonzalez-2, Y.Cespedes
+RLISP 2-out- Y.Cespedes, N.Aoki, B.Moss, I.Suzuki, C.Crisp-2, K.Suzuki
+WEB GEMS- Top 6th: Placido Polanco robbed Kurt Suzuki of a base hit.
+          Top 7th: Placido Polanco robbed Carlos Gonzalez of a base hit.
+          Bot 7th: Mark Ellis robbed Coco Crisp of a base hit.
+
+Carlos Gonzalez smashed 2 homeruns and had 3 RBI at Yankee Stadium as the
+Oakland A's beat the New York (AL) Yankees 9 to 3.
+
+Gonzalez had a big evening at the plate.  He cracked a solo homerun in the 5th
+inning and clubbed a two-run home run in the 9th inning.  Oakland ended up
+with 11 hits for the game while New York (AL) had 7.  
+
+The victory was credited to Trevor Cahill(1-1) who went 6 and 2/3 innings,
+allowing 3 runs. Matt Belisle recorded his 1st save.  Ricky Nolasco(0-2) was
+the loser.  He surrendered 6 runs in 7 innings and saw his ERA increase from
+2.70 to 5.27.  
+
+[2]
+[1]SCORESHEET: 2013 Oakland A's at 2013 New York (AL) Yankees
+N.Aoki-A1    A1:G/13    B1:F/8     C1:L/4     D1:G/13    E1:G/23
+                                                         
+                                                         
+M.Prado-A1   A2:P/6     *3*:HR>b#  C2:F/7     *7*:L/6    E2:Si
+                                                         
+                                                         
+C.Gonzal-A1  A3:HBP     B3:G/31    *5*:HR>b#  D3:G/53    E3:HR>1#
+                                                         b#
+                                                         
+Y.Cesped-A1  A4:SB>12   B4:Do      C4:Si      D4:K       E4:HR>b#
+             K                                           
+                                                         
+P.Goldsc-A1  *2*:Si     B5:L/6     C5:K       *8*:Do     E5:K
+                                                         
+                                                         
+B.Moss-A1    A6:G/43>1  B6:W>b1    C6:K       D6:L/6
+J.Donald-D6  2                                
+                                              
+C.Pennin-A1  A7:K       B7:HR>2#   C7:F/8     D7:G/43>2
+                        1# b#                 3
+                                              
+K.Suzuki-A1  A8:Si>2#   B8:G/53    *6*:G/53   D8:P/6
+                                              
+                                              
+M.Ellis-A1   A9:W>12 b  *4*:G/63   C9:K       *9*:F/9
+             1                                
+                                              
+
+J.Pierre-A1  A1:W>b1    *3*:F/8    *6*:Si     *8*:G/43
+                                              
+                                              
+D.Jeter-A1   A2:Si>13   B2:K       C2:G-DP/5  D2:K
+                                   43>1o      
+                                              
+D.Dejesu-A1  A3:WP>3#   B3:F/7     C3:G/43    D3:F/9
+             12 Si>23                         
+                                              
+C.Ruiz-A1    A4:Si>3#   *4*:G/53   *7*:W>b1   *9*:F/9
+C.Wells-D4   13                               
+                                              
+R.Cano-A1    A5:G-DP/4  B5:Si      C5:F/8     D5:L/4
+             63>3# 1o                         
+                                              
+M.Teixei-A1  A6:G/3     B6:G-DP/3  C6:Si>13   D6:G/13
+                        63>1o                 
+                                              
+N.Swishe-A1  *2*:Si     *5*:L/4    C7:K
+                                   
+                                   
+I.Suzuki-A1  A8:FO/3    B8:G/63    C8:W>12 b
+                                   1
+                                   
+P.Polanc-A1  A9:G-DP/6  B9:K       C9:Force/
+C.Crisp-C9   43>1o                 46>1o b1
+K.Frands-D1                        
+
+

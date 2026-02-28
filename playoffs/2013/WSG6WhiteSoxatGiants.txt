@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 San Francisco Giants 10/30/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  D.Viciedo DH        3  1  1  0 .313     M.Cabrera LF        4  0  0  0 .364  
+  J.Altuve 2B         4  1  3  4 .270     B.Belt 1B           3  0  0  0 .263  
+  R.Braun LF          4  0  0  0 .225   A-J.Giambi PH,1B      1  0  0  0 .000  
+  A.Craig 1B          5  0  0  0 .254     B.Posey C           3  0  0  0 .257  
+  J.Lucroy C          5  2  2  0 .333     C.Beltran RF        4  0  2  0 .239  
+  A.Rios RF           4  1  2  1 .244     J.Willingham DH     2  0  1  0 .206  
+  C.Nelson 3B         5  2  3  1 .366     H.Kendrick 2B       3  0  1  0 .225  
+  A.Ramirez SS        4  0  0  0 .274     I.Desmond SS        4  0  1  0 .243  
+  A.De Aza CF         4  1  2  1 .266     J.Pacheco 3B        4  0  0  0 .250  
+                                          B.Upton CF          4  0  1  0 .282  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  8 13  7                 Totals      32  0  6  0
+
+A-Pinch Hit For Belt In 8th Inning
+
+White Sox....... 0 0 1  3 0 1  0 0 3  -  8 13  0
+Giants.......... 0 0 0  0 0 0  0 0 0  -  0  6  2
+
+[1]White Sox (11-8)         IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson WIN(2-1)           9       6   0   0   4   7   0   4.34  A1
+[1]Totals                    9       6   0   0   4   7   0
+
+[1]Giants (11-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner LOSS(3-2)        9      13   8   6   3   5   2   4.18  A1
+[1]Totals                    9      13   8   6   3   5   2
+
+ATTENDANCE- 39,648 DATE- Wednesday, October 30th 2013 TIME- Night 
+UMPIRES- Jim Reynolds, Mike Dimuro, Andy Fletcher, Tim Welke
+T- 3:20
+LEFT ON BASE- White Sox: 8  Giants:10
+DOUBLE PLAYS- White Sox: 0  Giants: 1
+ERRORS- I.Desmond, J.Pacheco
+DOUBLES- D.Viciedo(1st), J.Altuve-2(5th), A.Rios-2(3rd), C.Nelson(3rd)
+HOME RUNS- J.Altuve(2nd), A.De Aza(1st)
+STOLEN BASES- A.De Aza(6th)
+CAUGHT STEALING- A.Rios, H.Kendrick
+SACRIFICE FLIES- J.Altuve
+WALKS- D.Viciedo-2, R.Braun, M.Cabrera, J.Willingham-2, H.Kendrick
+HIT BY PITCH- A.Rios, B.Posey
+STRIKE OUTS- D.Viciedo, R.Braun, A.Craig, C.Nelson, A.Ramirez, M.Cabrera,
+             C.Beltran, J.Willingham, H.Kendrick, J.Pacheco, B.Upton-2
+GIDP- A.Ramirez
+2-out RBI- J.Altuve, A.De Aza, A.Rios
+RLISP 2-out- R.Braun-5, A.Craig-2, J.Willingham, H.Kendrick-3, B.Belt,
+             I.Desmond, C.Nelson
+
+Josh Johnson whitewashed San Francisco as the Chicago (AL) White Sox topped
+the San Francisco Giants by a score of 8 to 0 at AT&T Park.
+
+Jose Altuve was a seemingly constant irritant to the hometown fans as he
+provided much of the offense for the visitors.  He doubled scoring a run in
+the 3rd inning, doubled in the 4th inning and cleared the fences for a
+two-run home run in the 9th inning.  Chicago (AL) totaled 13 hits on the
+night.  
+
+Johnson(2-1) was credited with the shutout, his first of the year. The loss
+was charged to Madison Bumgarner(3-2).  He was unable to control the Chicago
+(AL) offense and allowed 13 hits and 3 walks in 9 innings.  
+
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 San Francisco Giants
+D.Vicied-A1  A1:G/63    B1:K       C1:W>b1    D1:SB>12   *9*:Do
+                                              IW>b1      
+                                                         
+J.Altuve-A1  A2:F/8     B2:Do>2#   C2:Do>13   D2:SF/7>3  E2:HR>2#
+                        13                    #          b#
+                                                         
+R.Braun-A1   A3:G/63    B3:IW>b1   C3:K       D3:G/63    E3:G/63
+                                                         
+                                                         
+A.Craig-A1   *2*:K      B4:G/63    *5*:G/13   *7*:G/53   E4:G/31
+                                                         
+                                                         
+J.Lucroy-A1  A5:G/63    *4*:Si     C5:G/43    D5:F/7     E5:Si+E/5
+                                                         
+                                                         
+A.Rios-A1    A6:G/53    B6:Do>13   C6:G/63    D6:HBP CS  E6:Do>2#
+                                              /24>1o     
+                                                         
+C.Nelson-A1  *3*:Si     B7:Si>3#   *6*:Do     *8*:G/63   E7:K
+                        23                               
+                                                         
+A.Ramire-A1  A8:E/6>12  B8:G-DP/6  C8:G/53    D8:K
+                        43>3# 1o              
+                                              
+A.De Aza-A1  A9:F/8     B9:HR>b#   C9:Si>23   D9:G/63
+                                              
+                                              
+
+M.Cabrer-A1  A1:G/63    *4*:G/43   C1:W>12 b  D1:K       E1:F/7
+                                   1                     
+                                                         
+B.Belt-A1    A2:G/3     B2:G/43    C2:L/4     *8*:G/43
+J.Giambi-D2                                   
+                                              
+B.Posey-A1   A3:F/7     B3:HBP     *6*:L/6    D3:F/8
+                                              
+                                              
+C.Beltra-A1  *2*:K      B4:Si>12   C4:G/43    D4:Si
+                                              
+                                              
+J.Willin-A1  A5:K       B5:W>23 1  C5:Si      D5:W>12 b
+                        2 b1                  1
+                                              
+H.Kendri-A1  A6:Si CS/  B6:K       C6:W>12 b  D6:F/7
+             24>1o                 1          
+                                              
+I.Desmon-A1  *3*:F/8    *5*:Si     C7:G/23    *9*:G/63
+                                              
+                                              
+J.Pachec-A1  A8:G/13    B8:K       *7*:G/53   D8:F/9
+                                              
+                                              
+B.Upton-A1   A9:K       B9:K       C9:F/8     D9:Si
+                                              
+                                              
+
+

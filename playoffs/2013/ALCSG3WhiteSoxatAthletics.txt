@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 Oakland A's          10/16/2013
+
+[1]  White Sox          AB  R  H RBI AVG     A's                AB  R  H RBI AVG
+  P.Konerko DH        3  0  0  0 .241     N.Aoki RF           4  0  0  0 .143  
+  J.Altuve 2B         4  0  2  0 .281     M.Prado 3B          4  0  1  0 .419  
+  R.Braun LF          4  0  0  0 .244     P.Goldschmidt 1B    3  0  0  0 .237  
+  A.Craig 1B          3  0  0  0 .216     Y.Cespedes CF       3  0  1  0 .351  
+A-E.Chavez PH         1  0  0  0 .474     M.Ellis 2B          3  0  0  0 .273  
+  A.Rios RF           3  0  0  0 .268     E.Young Jr DH       3  1  1  0 .300  
+B-A.Pierzynski PH     1  0  0  0 .389     C.Gonzalez LF       3  1  1  0 .350  
+  J.Lucroy C          3  1  0  0 .286     R.Cedeno SS         2  0  0  0 .222  
+  C.Nelson 3B         3  0  2  1 .400     K.Suzuki C          3  0  1  2 .320  
+  A.Ramirez SS        3  0  0  0 .308                                          
+  A.De Aza CF         3  0  0  0 .194                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      28  2  5  2
+
+A-Pinch Hit For Craig In 9th Inning
+B-Pinch Hit For Rios In 9th Inning
+
+White Sox....... 0 1 0  0 0 0  0 0 0  -  1  4  0
+A's............. 0 2 0  0 0 0  0 0    -  2  5  1
+
+[1]White Sox (5-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale LOSS(1-2)             8       5   2   2   1   8   0   5.29  A1
+[1]Totals                    8       5   2   2   1   8   0
+
+[1]A's (6-4)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Gonzalez WIN(2-0)          8       4   1   0   1   8   0   1.65  A1 D2
+R.Cook SAVE(2nd)             1       0   0   0   0   0   0   2.25  D3
+[1]Totals                    9       4   1   0   1   8   0
+
+ATTENDANCE- 33,447 DATE- Wednesday, October 16th 2013 TIME- Night 
+UMPIRES- Angel Hernandez, Paul Schrieber, Chad Fairchild, Joe West
+T- 2:02
+LEFT ON BASE- White Sox: 4  A's: 3
+DOUBLE PLAYS- White Sox: 0  A's: 1
+ERRORS- Y.Cespedes
+DOUBLES- J.Altuve(1st), Y.Cespedes(3rd), K.Suzuki(2nd)
+TRIPLES- C.Nelson(1st)
+STOLEN BASES- E.Young Jr(1st)
+WALKS- P.Konerko, R.Cedeno
+STRIKE OUTS- P.Konerko, J.Altuve, R.Braun, A.Craig-2, A.Ramirez, A.De Aza-2,
+             N.Aoki, M.Prado, P.Goldschmidt, Y.Cespedes, M.Ellis, E.Young Jr,
+             C.Gonzalez, K.Suzuki
+GIDP- R.Braun
+2-out RBI- C.Nelson
+RLISP 2-out- N.Aoki, A.Craig-2, M.Ellis, A.Ramirez
+
+Gio Gonzalez came through with a solid 8 innings as the Oakland A's defeated
+the Chicago (AL) White Sox by a score of 2 to 1 at O.co Coliseum.
+
+Oakland came up with 2 runs in the bottom of the 2nd inning when they came up
+with 3 base hits.  After an out was recorded, Eric Young Jr began the Oakland
+spurt when he stroked a single.  Young Jr was running on the next pitch and
+he stole second.  Carlos Gonzalez then lined a single.  Ronny Cedeno stepped
+in and he drew a walk to load the bases.  Kurt Suzuki came to the plate and
+doubled.  That was all Gonzalez(2-0) needed.  The pitchers took over after
+the 2nd inning as neither team was able to score again.  
+
+Gonzalez got help from Ryan Cook who earned his 2nd save.  Chris Sale(1-2)
+took the loss.  He allowed just 2 runs and 5 hits in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 Oakland A's
+P.Konerk-A1  A1:K       B1:W>b1    C1:L/6     D1:F/8
+                                              
+                                              
+J.Altuve-A1  A2:Si      B2:Do>13   C2:K       D2:F/7
+                                              
+                                              
+R.Braun-A1   A3:G-DP/6  B3:K       *6*:L/5    *9*:G/3
+             43>1o                            
+                                              
+A.Craig-A1   *2*:K      B4:K       C4:F/9     D4:F/8
+E.Chavez-D4                                   
+                                              
+A.Rios-A1    A5:G/63    *4*:F/7    C5:L/5     D5:G/43
+A.Pierzy-D5                                   
+                                              
+J.Lucroy-A1  A6:E/8>b2  B6:F/8     *7*:F/8
+                                   
+                                   
+C.Nelson-A1  A7:Si>2#   B7:Tr      C7:L/6
+                                   
+                                   
+A.Ramire-A1  A8:G/63    B8:K       C8:F/9
+                                   
+                                   
+A.De Aza-A1  *3*:L/4    *5*:K      *8*:K
+                                   
+                                   
+
+N.Aoki-A1    A1:G/53    B1:G/63    C1:K       D1:G/63
+                                              
+                                              
+M.Prado-A1   A2:Si      *3*:F/8    C2:G/31    D2:K
+                                              
+                                              
+P.Goldsc-A1  A3:K       B3:F/9     *6*:F/7
+                                   
+                                   
+Y.Cesped-A1  A4:K       B4:Do      C4:G/63
+                                   
+                                   
+M.Ellis-A1   *2*:K      B5:F/7     C5:G/63
+                                   
+                                   
+E.Young -A1  A6:Si      *4*:K      *7*:G/43
+                                   
+                                   
+C.Gonzal-A1  A7:SB>12   B7:K       C7:F/7
+             Si>23                 
+                                   
+R.Cedeno-A1  A8:W>12 b  B8:G/43    C8:G/53
+             1                     
+                                   
+K.Suzuki-A1  A9:Do>3#   *5*:K      *8*:F/9
+             2# 1o                 
+                                   
+
+

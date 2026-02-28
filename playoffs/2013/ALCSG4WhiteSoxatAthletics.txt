@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 Oakland A's          10/17/2013
+
+[1]  White Sox          AB  R  H RBI AVG     A's                AB  R  H RBI AVG
+  P.Konerko DH        3  2  1  0 .250     N.Aoki RF           5  0  0  0 .128  
+  J.Altuve 2B         3  1  1  2 .286     M.Prado 3B          4  1  1  1 .404  
+C-E.Chavez PH,3B      0  0  0  0 .474     P.Goldschmidt 1B    3  1  3  2 .293  
+  R.Braun LF          2  1  0  0 .233     Y.Cespedes CF       4  0  0  0 .317  
+  A.Rios RF           4  1  2  1 .289     M.Ellis 2B          3  0  1  0 .280  
+  A.Craig 1B          4  0  1  1 .220     J.Donaldson DH      3  0  1  0 .286  
+  A.Pierzynski C      4  1  2  1 .409   E-B.Moss PH           0  0  0  0 .250  
+  C.Nelson 3B         3  0  0  0 .348   F-C.Cowgill PH,DH     0  0  0  0 .286  
+D-G.Beckham 2B        1  0  0  0 .167     C.Gonzalez LF       4  0  0  0 .318  
+  A.De Aza CF         3  0  0  0 .176     R.Cedeno SS         2  0  0  0 .182  
+G-T.Campana CF        0  0  0  0 .333   A-M.Maldonado PH      1  1  1  1 .091  
+  A.Ramirez SS        3  0  0  0 .286   B-C.Pennington SS     0  0  0  0 .300  
+                                        H-J.Weeks PH          1  0  0  0 .231  
+                                          K.Suzuki C          4  1  1  0 .310  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  6  7  5                 Totals      34  4  8  4
+
+A-Pinch Hit For Cedeno In 7th Inning
+B-Subbed Defensively (SS) For Maldonado In 8th Inning
+C-Pinch Hit For Altuve In 8th Inning
+D-Subbed Defensively (2B) For Nelson In 8th Inning
+E-Pinch Hit For Donaldson In 8th Inning
+F-Pinch Hit For Moss In 8th Inning
+G-Subbed Defensively (CF) For De Aza In 9th Inning
+H-Pinch Hit For Pennington In 9th Inning
+
+White Sox....... 3 0 2  0 0 0  0 0 1  -  6  7  1
+A's............. 0 0 3  0 0 0  1 0 0  -  4  8  0
+
+[1]White Sox (6-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Buehrle WIN(1-0)           6       6   3   3   2   1   1   7.62  A1 C7
+M.Lindstrom HOLD(2nd)        1 1/3   2   1   1   0   0   1   2.45  C8 D4
+J.Henderson HOLD(3rd)        0 1/3   0   0   0   0   0   0   0.00  D5 D5
+L.Perez HOLD(1st)            0 1/3   0   0   0   1   0   0   0.00  D6 D7
+D.Oliver SAVE(2nd)           1       0   0   0   0   0   0   0.00  D8
+[1]Totals                    9       8   4   4   3   1   2
+
+[1]A's (6-5)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Cahill LOSS(2-2)           7       6   5   5   3   5   1   6.12  A1 D1
+M.Belisle                    1       0   0   0   1   0   0   0.00  D2 D4
+W.Davis                      1       1   1   1   1   0   1   4.70  D5
+[1]Totals                    9       7   6   6   5   5   2
+
+ATTENDANCE- 34,224 DATE- Thursday, October 17th 2013 TIME- Night 
+UMPIRES- Paul Emmel, Rob Drake, Gary Darling, Bruce Dreckman
+T- 3:00
+LEFT ON BASE- White Sox: 2  A's: 6
+DOUBLE PLAYS- White Sox: 2  A's: 3
+ERRORS- A.Ramirez
+DOUBLES- A.Craig(2nd), P.Goldschmidt(3rd), K.Suzuki(3rd)
+TRIPLES- A.Rios(1st)
+HOME RUNS- J.Altuve(1st), A.Pierzynski(2nd), P.Goldschmidt(2nd),
+           M.Maldonado(1st)
+STOLEN BASES- R.Braun(3rd)
+CAUGHT STEALING- A.De Aza
+WALKS- P.Konerko, E.Chavez, R.Braun-2, A.De Aza, P.Goldschmidt, M.Ellis,
+       C.Cowgill
+STRIKE OUTS- P.Konerko, J.Altuve, C.Nelson, A.De Aza, A.Ramirez, M.Ellis
+GIDP- A.Rios, A.Craig, C.Nelson, Y.Cespedes-2
+BALKS- T.Cahill
+2-out RBI- A.Rios, A.Craig
+RLISP 2-out- A.Pierzynski, C.Gonzalez-2, C.Cowgill
+WEB GEMS- Bot 9th: Gordon Beckham robbed Norichika Aoki of a base hit.
+
+Catcher A.J. Pierzynski lofted one into the 'cheap seats' as the Chicago (AL)
+White Sox bested the Oakland A's 6 to 4 at O.co Coliseum.
+
+Chicago (AL) set the tone of the game in the first inning when they came up
+with 3 runs on 2 hits.  The critical plate appearance was by Jose Altuve who
+disappointed the partisan crowd when he smashed a two-run homer.  Mark
+Buehrle(1-0) got relief help from Darren Oliver who was excellent in relief
+and gained credit for his 2nd save.  
+
+The losing pitcher was Trevor Cahill(2-2).  He pitched 7 innings and
+surrendered 6 hits and 3 walks.
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 Oakland A's
+P.Konerk-A1  A1:W>b1    *3*:Si     *5*:K      D1:G/3
+                                              
+                                              
+J.Altuve-A1  A2:HR>1#   B2:K       C2:F/7     *8*:W>b1
+E.Chavez-D2  b#                               
+                                              
+R.Braun-A1   A3:W>b1    B3:Bk>12   C3:W>b1    D3:F/7
+                        G/43>23               
+                                              
+A.Rios-A1    A4:SB>12   B4:Tr>3#   C4:F/9     D4:G-DP/6
+             Si>23                            43>1o
+                                              
+A.Craig-A1   A5:G-DP/5  B5:Do>3#   *6*:F/8    *9*:F/7
+             43>3# 1o                         
+                                              
+A.Pierzy-A1  A6:G/43    B6:G/63    C6:Si      D6:HR>b#
+                                              
+                                              
+C.Nelson-A1  *2*:K      *4*:F/9    C7:G-DP/6  D7:F/7
+G.Beckha-D5                        43>1o      
+                                              
+A.De Aza-A1  A8:G/43    B8:K       *7*:G/43   D8:W>b1 C
+T.Campan-D9                                   S/24>1o
+                                              
+A.Ramire-A1  A9:K       B9:F/7     C9:G/63
+                                   
+                                   
+
+N.Aoki-A1    A1:E/6     B1:G/3>23  C1:FO/5    D1:F/8     E1:G/43
+                                                         
+                                                         
+M.Prado-A1   A2:F/9     B2:Si>3#   C2:F/7     D2:G/63
+                                              
+                                              
+P.Goldsc-A1  A3:W>12 b  B3:HR>1#   *6*:Si     *8*:Do
+             1          b#                    
+                                              
+Y.Cesped-A1  A4:G-DP/6  B4:L/5     C4:G-DP/6  D4:F/8
+             43>1o                 43>1o      
+                                              
+M.Ellis-A1   *2*:W>b1   B5:K       C5:Si      D5:L/6
+                                              
+                                              
+J.Donald-A1  A6:F/9     *4*:F/7    C6:Si>12   D6:IW>b1
+B.Moss-D6                                     
+C.Cowgil-D6                                   
+C.Gonzal-A1  A7:F/8     B7:F/9     C7:Force/  D7:F/9
+                                   54>1o b1   
+                                              
+R.Cedeno-A1  A8:G/43    B8:P/6     *7*:HR>b#  *9*:G/63
+M.Maldon-C8                                   
+C.Pennin-D3+                                  
+K.Suzuki-A1  *3*:Do     *5*:L/4    C9:G/53    D9:L/6
+                                              
+                                              
+
+

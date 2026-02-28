@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 San Francisco Giants 10/23/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  P.Konerko 1B        4  0  1  0 .261     M.Cabrera LF        3  0  1  0 .321  
+  E.Chavez 3B         4  0  0  0 .375     B.Belt 1B           4  0  0  0 .321  
+  R.Braun LF          4  0  1  0 .226     B.Posey C           4  0  1  0 .264  
+  A.Pierzynski C      4  0  1  0 .379     C.Beltran RF        4  0  0  0 .260  
+  A.Rios RF           3  0  0  0 .281     J.Willingham DH     4  0  1  0 .235  
+  A.De Aza CF         3  0  3  0 .200   B-G.Blanco PR         0  1  0  0 ----  
+  A.Ramirez SS        3  0  0  0 .283     P.Sandoval 3B       4  0  1  1 .310  
+  J.Altuve 2B         3  0  1  0 .283     H.Kendrick 2B       3  0  0  0 .226  
+  C.Tracy DH          2  0  0  0 .000     I.Desmond SS        3  0  0  0 .255  
+A-T.Campana PH,DH     1  0  0  0 .250     B.Upton CF          3  0  2  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  0  7  0                 Totals      32  1  6  1
+
+A-Pinch Hit For Tracy In 8th Inning
+B-Pinch Ran For Willingham In 9th Inning
+
+White Sox....... 0 0 0  0 0 0  0 0 0  -  0  7  1
+Giants.......... 0 0 0  0 0 0  0 0 1  -  1  6  0
+
+[1]White Sox (8-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Estrada                    8       5   0   0   1   7   0   3.66  A1 D2
+M.Lindstrom LOSS(1-1)        0 2/3   0   1   0   0   0   0   1.80  D3 D5
+S.Marshall                   0       1   0   0   0   0   0   3.38  D6
+[1]Totals                    8 2/3   6   1   0   1   7   0
+
+[1]Giants (9-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain WIN(2-3)              9       7   0   0   0   8   0   2.48  A1
+[1]Totals                    9       7   0   0   0   8   0
+
+ATTENDANCE- 38,156 DATE- Wednesday, October 23rd 2013 TIME- Night 
+UMPIRES- Gary Darling, Bruce Dreckman, Paul Emmel, Rob Drake
+T- 2:53
+LEFT ON BASE- White Sox: 4  Giants: 5
+DOUBLE PLAYS- White Sox: 0  Giants: 1
+ERRORS- J.Altuve
+DOUBLES- A.De Aza(2nd), J.Altuve(2nd), B.Posey(4th), P.Sandoval(2nd),
+         B.Upton(4th)
+STOLEN BASES- B.Upton(4th)
+CAUGHT STEALING- A.De Aza, M.Cabrera
+WALKS- M.Cabrera
+STRIKE OUTS- E.Chavez, R.Braun, A.Pierzynski, A.Rios-2, A.Ramirez, C.Tracy,
+             T.Campana, B.Belt, B.Posey, C.Beltran, J.Willingham, P.Sandoval,
+             I.Desmond, B.Upton
+GIDP- E.Chavez
+2-out RBI- P.Sandoval
+RLISP 2-out- C.Beltran, A.Ramirez, B.Belt-2, C.Tracy, M.Cabrera
+WEB GEMS- Top 7th: Howie Kendrick robbed Alex Rios of a base hit.
+
+Matt Cain whitewashed Chicago (AL) at AT&T Park as the San Francisco Giants
+won a thriller over the Chicago (AL) White Sox in, 1 to 0.
+
+San Francisco won the game with a run in the bottom of the 9th inning.  After
+two were out Josh Willingham reached on an error.  Pablo Sandoval stepped up
+to the plate and he doubled giving San Francisco the victory as 38,156 happy
+fans celebrated wildly.  San Francisco had just 6 hits for the night.
+
+Cain(2-3) was credited with the shutout, his first of the year. Matt
+Lindstrom(1-1) suffered the loss in relief.  'It's been a rough ride lately,
+but this was a good win for us' said Bruce Bochy, 'Maybe this will put us
+back on track.'
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 San Francisco Giants
+P.Konerk-A1  A1:G/63    B1:G/53    *6*:G/43   *9*:Si
+                                              
+                                              
+E.Chavez-A1  A2:K       *4*:F/9    C2:F/7     D2:G-DP/6
+                                              43>1o
+                                              
+R.Braun-A1   A3:K       B3:F/7     C3:F/9     D3:Si
+                                              
+                                              
+A.Pierzy-A1  *2*:G/63   B4:Si      *7*:K      D4:F/8
+                                              
+                                              
+A.Rios-A1    A5:K       B5:K       C5:G/43
+                                   
+                                   
+A.De Aza-A1  A6:Do      *5*:Si     C6:Si CS/
+                                   24>1o
+                                   
+A.Ramire-A1  A7:K       B7:Force/  *8*:P/4
+                        14>1o b1   
+                                   
+J.Altuve-A1  *3*:L/5    B8:Do>1o   C8:G/63
+                                   
+                                   
+C.Tracy-A1   A9:K       B9:G/13    C9:K
+T.Campan-C9                        
+                                   
+
+M.Cabrer-A1  A1:Si      B1:SB>12   C1:G/13    D1:IW>b1
+                        F/7                   
+                                              
+B.Belt-A1    A2:L/4     B2:G/3     C2:G/63    D2:K
+                                              
+                                              
+B.Posey-A1   A3:CS/24>  *4*:K      *7*:G/53   *9*:G/53
+             1o Do                            
+                                              
+C.Beltra-A1  A4:G/43    B4:K       C4:G/13    D4:F/7
+                                              
+                                              
+J.Willin-A1  *2*:L/6    B5:K       C5:Si      D5:E/4
+G.Blanco-D6                                   
+                                              
+P.Sandov-A1  A6:L/3     *5*:L/3    C6:K       D6:Do>1#
+                                              
+                                              
+H.Kendri-A1  A7:F/9     B7:F/7     *8*:F/8
+                                   
+                                   
+I.Desmon-A1  *3*:K      B8:G/63    C8:G/63
+                                   
+                                   
+B.Upton-A1   A9:Si      *6*:K      C9:Do
+                                   
+                                   
+
+

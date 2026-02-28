@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2013 New York (AL) Yankees At 2013 Oakland A's           10/11/2013
+
+[1]  Yankees            AB  R  H RBI AVG     A's                AB  R  H RBI AVG
+  D.Jeter SS          4  0  0  0 .290     N.Aoki RF           5  0  1  1 .100  
+  N.Swisher DH        4  0  1  0 .321     M.Prado 3B          4  0  2  1 .433  
+  C.Wells LF          2  0  0  1 .100     C.Gonzalez LF       4  0  1  0 .379  
+C-D.Dejesus PH,LF     1  0  0  0 .167     Y.Cespedes CF       4  1  1  1 .333  
+  M.Teixeira 1B       4  0  1  0 .250     M.Maldonado C       4  0  0  0 .000  
+  C.Ruiz C            2  1  0  0 .611     P.Goldschmidt 1B    4  0  1  0 .269  
+D-J.Pierre PH         1  0  0  0 .400     B.Moss DH           4  0  0  0 .167  
+F-K.Frandsen 3B       0  0  0  0 .222     C.Pennington SS     2  0  0  0 .267  
+  C.Crisp CF          5  0  3  0 .353   A-C.Cowgill PH        1  0  1  0 .500  
+  R.Cano 2B           5  0  1  0 .296   B-R.Cedeno SS         1  0  0  0 .200  
+  P.Polanco 3B        4  0  0  1 .250     M.Ellis 2B          3  2  1  0 .316  
+E-C.Snyder PH,C       1  0  0  0 .000                                          
+  I.Suzuki RF         4  1  2  0 .280                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  2  8  2                 Totals      36  3  8  3
+
+A-Pinch Hit For Pennington In 7th Inning
+B-Subbed Defensively (SS) For Cowgill In 8th Inning
+C-Pinch Hit For Wells In 9th Inning
+D-Pinch Hit For Ruiz In 10th Inning
+E-Pinch Hit For Polanco In 10th Inning
+F-Subbed Defensively (3B) For Pierre In 10th Inning
+
+Yankees......... 0 1 0  0 1 0  0 0 0  0 -  2  8  0
+A's............. 0 0 1  1 0 0  0 0 0  1 -  3  8  1
+
+[1]Yankees (3-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Hughes                     6 2/3   5   2   2   0   7   1   2.03  A1 C7
+S.Doolittle                  0 2/3   2   0   0   0   1   0   0.00  C8 D2
+D.Thayer                     0 1/3   0   0   0   0   1   0   0.00  D3 D3
+O.Dotel LOSS(0-2)            1 2/3   1   1   1   1   3   0   3.86  D4
+[1]Totals                    9 1/3   8   3   3   1  12   1
+
+[1]A's (4-3)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Gonzalez                   7 1/3   5   2   2   4   9   0   2.33  A1 D7
+H.Street                     1 2/3   1   0   0   0   1   0   0.00  D8 E3
+R.Cook WIN(1-0)              1       2   0   0   0   2   0   3.00  E4
+[1]Totals                   10       8   2   2   4  12   0
+
+ATTENDANCE- 31,940 DATE- Friday, October 11th 2013 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 3:23
+LEFT ON BASE- Yankees:12  A's: 5
+DOUBLE PLAYS- Yankees: 0  A's: 1
+ERRORS- G.Gonzalez
+DOUBLES- N.Swisher(3rd), I.Suzuki(2nd), M.Prado(3rd), P.Goldschmidt(2nd),
+         M.Ellis(2nd)
+TRIPLES- N.Aoki(1st)
+HOME RUNS- Y.Cespedes(3rd)
+SACRIFICE FLIES- C.Wells
+WALKS- D.Jeter, N.Swisher, M.Teixeira, C.Ruiz, M.Ellis
+HIT BY PITCH- C.Wells, C.Ruiz
+STRIKE OUTS- D.Jeter-3, N.Swisher-2, C.Ruiz-2, C.Crisp-2, R.Cano, C.Snyder,
+             I.Suzuki, C.Gonzalez-3, Y.Cespedes, M.Maldonado-2, P.Goldschmidt-2,
+             B.Moss-3, M.Ellis
+GIDP- P.Polanco
+2-out RBI- M.Prado
+RLISP 2-out- I.Suzuki, C.Gonzalez, P.Polanco, C.Crisp-2, D.Jeter, C.Cowgill,
+             M.Ellis, D.Dejesus, C.Snyder
+WEB GEMS- Top 4th: Yoenis Cespedes robbed Robinson Cano of an extra base hit.
+
+The Oakland A's nipped the New York (AL) Yankees in 10 innings 3 to 2 at O.co
+Coliseum in a hard fought contest.
+
+The score was tied at 2 after nine. Finally, Oakland prevailed in the 10th
+inning.  After an out was recorded, Mark Ellis drew a walk.  Norichika Aoki
+followed and he tripled giving Oakland the win as 31,940 happy fans joyfully
+celebrated.  Both teams totaled 8 hits on the night.  
+
+Ryan Cook(1-0) went 1 inning allowing no runs for the victory. Octavio
+Dotel(0-2) absorbed the loss in relief.  He allowed 1 run and 1 hit in 1 and
+2/3 innings.
+[2]
+[1]SCORESHEET: 2013 New York (AL) Yankees at 2013 Oakland A's
+D.Jeter-A1   A1:G/63    *3*:K      C1:W>12 b  D1:K       E1:K
+                                   1                     
+                                                         
+N.Swishe-A1  A2:K       B2:K       C2:W>23 1  *7*:F/7    E2:Do
+                                   2 b1                  
+                                                         
+C.Wells-A1   A3:HBP     B3:L/6     C3:SF/9>3  D3:L/6     E3:G/43
+D.Dejesu-E3                        # 23                  
+                                                         
+M.Teixei-A1  A4:F/8     *4*:G/13   C4:W>12 b  D4:E/1     *10*:Si
+                                   1                     
+                                                         
+C.Ruiz-A1    *2*:HBP    B5:W>b1    C5:K       D5:K       E5:F/8
+J.Pierre-E5                                              
+K.Frands-E9                                              
+C.Crisp-A1   A6:Si>12   B6:Si>12   C6:K       *8*:Si     E6:K
+                                                         
+                                                         
+R.Cano-A1    A7:G/23>2  B7:F/8     *6*:G/43   D7:K       E7:Si>13
+             3 12                                        
+                                                         
+P.Polanc-A1  A8:G/63>3  B8:L/6     C8:G/43    D8:G-DP/4  E8:K
+C.Snyder-E8  # 23                             63>1o      
+                                                         
+I.Suzuki-A1  A9:K       *5*:Si     C9:Do      *9*:G/13
+                                              
+                                              
+
+N.Aoki-A1    A1:P/6     B1:G/3>23  C1:G/43    *8*:F/9    E1:Tr>1#
+                                                         
+                                                         
+M.Prado-A1   A2:G/13    B2:Do>3#   *6*:G/13   D2:Si
+                                              
+                                              
+C.Gonzal-A1  A3:Si      B3:K       C3:K       D3:K
+                                              
+                                              
+Y.Cesped-A1  A4:F/9     *4*:HR>b#  C4:G/63    D4:K
+                                              
+                                              
+M.Maldon-A1  *2*:K      B5:G/31    *7*:L/5    *9*:K
+                                              
+                                              
+P.Goldsc-A1  A6:K       B6:K       C6:Do      D6:F/8
+                                              
+                                              
+B.Moss-A1    A7:K       B7:K       C7:G/53    D7:K
+                                              
+                                              
+C.Pennin-A1  *3*:G/43   *5*:F/9    C8:Si>23   *10*:G/31
+C.Cowgil-C8                                   
+R.Cedeno-D1                                   
+M.Ellis-A1   A9:Do      B9:L/6     C9:K       D9:W>b1
+                                              
+                                              
+
+

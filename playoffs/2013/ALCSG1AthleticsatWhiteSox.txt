@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2013 Oakland A's At 2013 Chicago (AL) White Sox          10/13/2013
+
+[1]  A's                AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Aoki RF           4  2  2  4 .147     P.Konerko DH        4  0  0  0 .286  
+  M.Prado 3B          5  2  2  1 .429     C.Nelson 3B         1  0  0  0 .353  
+  C.Gonzalez LF       4  0  1  1 .364   B-A.Pierzynski PH,3B, 3  0  0  0 .357  
+  Y.Cespedes CF       4  1  1  1 .323     R.Braun LF          3  0  0  0 .242  
+  P.Goldschmidt 1B    5  0  1  0 .258     A.Craig 1B          3  0  0  0 .241  
+  B.Moss DH           2  1  2  1 .286     A.Rios RF           2  0  0  0 .303  
+A-J.Donaldson PH,DH   3  1  2  0 .273     J.Lucroy C          2  0  1  0 .294  
+  C.Pennington SS     3  2  1  0 .278   E-T.Campana PH        1  0  0  0 .333  
+C-C.Cowgill PH        1  0  0  0 .400   F-E.Chavez 3B         0  0  0  0 .462  
+D-R.Cedeno SS         1  1  1  0 .333     A.Ramirez SS        3  0  0  0 .344  
+  K.Suzuki C          4  1  2  2 .333     J.Altuve 2B         3  0  1  0 .200  
+  J.Weeks 2B          3  1  0  1 .222     A.De Aza CF         2  0  0  0 .200  
+G-M.Ellis 2B          0  0  0  0 .316                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      39 12 15 11                 Totals      27  0  2  0
+
+A-Pinch Hit For Moss In 4th Inning
+B-Pinch Hit For Nelson In 4th Inning
+C-Pinch Hit For Pennington In 6th Inning
+D-Subbed Defensively (SS) For Cowgill In 6th Inning
+E-Pinch Hit For Lucroy In 8th Inning
+F-Subbed Defensively (3B) For Campana In 9th Inning
+G-Subbed Defensively (2B) For Weeks In 9th Inning
+
+A's............. 2 5 1  0 1 1  0 0 2  - 12 15  0
+White Sox....... 0 0 0  0 0 0  0 0 0  -  0  2  1
+
+[1]A's (5-3)                IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Cahill WIN(2-1)            5       1   0   0   1   4   0   6.00  A1 B7
+T.Blackley                   1       1   0   0   0   0   0   0.00  B8 C2
+M.Belisle                    2       0   0   0   0   1   0   0.00  C3 C8
+W.Davis                      1       0   0   0   1   0   0   1.59  C9
+[1]Totals                    9       2   0   0   2   5   0
+
+[1]White Sox (4-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson LOSS(1-1)          9      15  12  11   5   5   3   8.02  A1
+[1]Totals                    9      15  12  11   5   5   3
+
+ATTENDANCE- 37,210 DATE- Sunday, October 13th 2013 TIME- Night 
+UMPIRES- Andy Fletcher, Tim Welke, Jim Reynolds, Mike Dimuro
+T- 3:08
+LEFT ON BASE- A's: 7  White Sox: 2
+DOUBLE PLAYS- A's: 2  White Sox: 1
+ERRORS- J.Lucroy
+DOUBLES- M.Prado-2(5th), C.Pennington(3rd)
+HOME RUNS- N.Aoki(1st), Y.Cespedes(4th), B.Moss(1st)
+STOLEN BASES- N.Aoki-2(2nd), M.Prado(1st), Y.Cespedes(2nd), C.Pennington(1st),
+              J.Weeks(1st)
+SACRIFICE FLIES- J.Weeks
+WALKS- N.Aoki-2, C.Gonzalez, Y.Cespedes, J.Weeks, A.Rios, A.De Aza
+HIT BY PITCH- K.Suzuki
+STRIKE OUTS- Y.Cespedes, P.Goldschmidt-2, J.Weeks-2, P.Konerko, C.Nelson,
+             A.Pierzynski, R.Braun-2
+GIDP- C.Cowgill, P.Konerko, A.Ramirez
+WILD PITCHES- T.Blackley
+2-out RBI- N.Aoki
+RLISP 2-out- P.Goldschmidt, M.Prado-2, A.Pierzynski-2
+
+Trevor Cahill had an impressive outing at US Cellular Field as the Oakland
+A's, running on all cylinders, ripped the Chicago (AL) White Sox by a large
+12 to 0 margin.
+
+Norichika Aoki enjoyed a big evening at the plate.  He smacked a three-run
+homer in the 2nd inning and laced a base-hit scoring a run in the 5th inning.
+Oakland dominated offensively as they scored in 6 different innings.  
+
+The win was credited to Cahill(2-1) who went 5 innings allowing no runs. The
+loss was charged to Josh Johnson(1-1).  He surrended 3 homeruns in his 9
+innings.  
+
+[2]
+[1]SCORESHEET: 2013 Oakland A's at 2013 Chicago (AL) White Sox
+N.Aoki-A1    A1:W>b1    B1:HR>2#   C1:W>12 b  D1:SB>12   E1:F/9     F1:F/9
+                        1# b#      1          Si>2#                 
+                                                                    
+M.Prado-A1   A2:SB>12   B2:Do      C2:G/63    D2:SB>12   *8*:G/63
+             Do>2#                            G/53       
+                                                         
+C.Gonzal-A1  A3:SB+E/2  B3:Si>2#   *4*:W>b1   *6*:G/31   E3:G/43
+             >2# F/8                                     
+                                                         
+Y.Cesped-A1  A4:K       B4:W>b1    C4:F/8     D4:HR>b#   E4:F/9
+                                                         
+                                                         
+P.Goldsc-A1  A5:F/8     B5:SB>12   C5:K       D5:Si      *9*:G/63
+                        K                                
+                                                         
+B.Moss-A1    *2*:HR>b#  *3*:Si     C6:F/8     D6:Si>13   E6:Si
+J.Donald-C6                                              
+                                                         
+C.Pennin-A1  A7:Do      B7:Force/  *5*:G/63   D7:G-DP/6  E7:Si>13
+C.Cowgil-D7             36>1o b1              43>1o      
+R.Cedeno-D8                                              
+K.Suzuki-A1  A8:HBP     B8:SB>12   C8:L/4     *7*:F/9    E8:Si>3#
+                        Si>2#                            13
+                                                         
+J.Weeks-A1   A9:K       B9:FO/2    C9:W>b1    D9:K       E9:SF/9>3
+M.Ellis-F2                                               #
+                                                         
+
+P.Konerk-A1  A1:K       *4*:L/5    C1:F/7     D1:G-DP/6
+                                              43>1o
+                                              
+C.Nelson-A1  A2:K       B2:K       C2:WP>23   D2:F/8
+A.Pierzy-B2                        G/43       
+                                              
+R.Braun-A1   A3:K       B3:G/43    *7*:K
+                                   
+                                   
+A.Craig-A1   *2*:F/8    *5*:G/3    C4:F/9
+                                   
+                                   
+A.Rios-A1    A5:F/9     B5:W>b1    C5:F/7
+                                   
+                                   
+J.Lucroy-A1  A6:G/63    B6:Si>13   *8*:F/9
+T.Campan-C6                        
+E.Chavez-C9                        
+A.Ramire-A1  *3*:G/63   B7:G-DP/6  C7:G/43
+                        43>1o      
+                                   
+J.Altuve-A1  A8:G/43    *6*:Si     C8:G/63
+                                   
+                                   
+A.De Aza-A1  A9:G/31    B9:G/13>1  *9*:W>b1
+                        2          
+                                   
+
+

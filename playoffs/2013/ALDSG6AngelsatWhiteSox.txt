@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2013 Los Angeles(AL) Angels At 2013 Chicago (AL) White S 10/10/2013
+
+[1]  Angels             AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  D.Uggla 2B          4  1  1  1 .143     P.Konerko 1B        4  0  1  0 .353  
+  W.Bloomquist SS     3  0  1  0 .200     C.Nelson 3B         3  0  1  1 .400  
+  A.Callaspo 3B       2  0  0  0 .150   C-E.Chavez 3B         1  1  1  0 .400  
+E-C.Johnson PH,3B     1  0  0  0 .250     R.Braun LF          4  2  2  2 .269  
+  J.Ruggiano CF       2  0  1  0 .417     A.Rios RF           4  0  2  1 .308  
+A-T.Colvin PH,CF      1  0  0  0 .231     A.Craig DH          4  0  0  0 .182  
+F-D.Ross PH           1  0  0  0 .400     A.De Aza CF         3  0  1  0 .190  
+  M.Holliday LF       3  0  0  0 .211     J.Altuve 2B         3  0  1  0 .211  
+  H.Ramirez DH        4  0  2  0 .476   D-G.Beckham 2B        1  0  0  0 .333  
+  M.Trumbo RF         4  0  0  0 .214     J.Lucroy C          2  0  0  0 .286  
+  C.Davis 1B          3  0  0  0 .333   B-A.Pierzynski PH,C   1  0  0  0 .429  
+  M.Napoli C          3  0  0  0 .200     A.Ramirez SS        3  2  2  1 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      33  5 11  5
+
+A-Pinch Hit For Ruggiano In 6th Inning
+B-Pinch Hit For Lucroy In 7th Inning
+C-Subbed Defensively (3B) For Nelson In 8th Inning
+D-Subbed Defensively (2B) For Altuve In 8th Inning
+E-Pinch Hit For Callaspo In 8th Inning
+F-Pinch Hit For Colvin In 9th Inning
+
+Angels.......... 1 0 0  0 0 0  0 0 0  -  1  5  1
+White Sox....... 1 0 1  0 0 0  1 2    -  5 11  0
+
+[1]Angels (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Millwood LOSS(1-1)         7       9   4   4   1   5   2   4.61  A1 D2
+L.Ayala                      1       2   1   1   0   0   0   2.45  D3
+[1]Totals                    8      11   5   5   1   5   2
+
+[1]White Sox (3-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale WIN(1-1)              5       3   1   1   3   6   1   8.00  A1 C3
+J.Henderson HOLD(2nd)        1 2/3   0   0   0   0   2   0   0.00  C4 C7
+R.Ross HOLD(1st)             1       1   0   0   0   2   0   0.00  C8 D2
+M.Lindstrom HOLD(1st)        0 1/3   0   0   0   0   1   0   0.00  D3 D3
+S.Marshall                   1       1   0   0   0   2   0   3.86  D4
+[1]Totals                    9       5   1   1   3  13   1
+
+ATTENDANCE- 39,683 DATE- Thursday, October 10th 2013 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 2:43
+LEFT ON BASE- Angels: 6  White Sox: 5
+DOUBLE PLAYS- Angels: 1  White Sox: 1
+ERRORS- M.Napoli
+DOUBLES- J.Ruggiano(2nd), H.Ramirez(2nd), R.Braun(1st), A.Ramirez(1st)
+HOME RUNS- D.Uggla(1st), R.Braun(2nd), A.Ramirez(2nd)
+STOLEN BASES- W.Bloomquist(1st), A.De Aza(2nd)
+CAUGHT STEALING- A.Rios
+WALKS- W.Bloomquist, A.Callaspo, M.Holliday, A.De Aza
+STRIKE OUTS- D.Uggla-2, W.Bloomquist, C.Johnson, T.Colvin, D.Ross, M.Holliday-2,
+             H.Ramirez, M.Trumbo-2, M.Napoli-2, P.Konerko, C.Nelson-2, A.Craig,
+             J.Lucroy
+GIDP- M.Holliday, R.Braun
+2-out RBI- R.Braun, A.Ramirez
+RLISP 2-out- C.Davis-2, J.Lucroy-2, C.Johnson
+
+Ryan Braun blasted a homerun and had 2 RBI at US Cellular Field as the Chicago
+(AL) White Sox beat the Los Angeles(AL) Angels 5 to 1.
+
+Chicago (AL) jumped on top to stay in the 3rd inning plating one baserunner
+using 2 hits.  That early run support was enough for Chris Sale(1-1) and
+Chicago (AL).  Chicago (AL) had 11 hits for the night while Los Angeles(AL)
+had 5.  
+
+Kevin Millwood(1-1) was the loser.  He pitched 7 innings allowing 9 hits and 1
+walk.
+[2]
+[1]SCORESHEET: 2013 Los Angeles(AL) Angels at 2013 Chicago (AL) White Sox
+D.Uggla-A1   A1:HR>b#   B1:K       C1:G/63    D1:K
+                                              
+                                              
+W.Bloomq-A1  A2:K       B2:W>b1    C2:F/9     D2:Si
+                                              
+                                              
+A.Callas-A1  A3:G/63    B3:G/53    *6*:W>b1   D3:SB>12
+C.Johnso-D3                                   K
+                                              
+J.Ruggia-A1  A4:F/7     *4*:Do     C4:K       *9*:K
+T.Colvin-C4                                   
+D.Ross-D4                                     
+M.Hollid-A1  *2*:K      B5:W>b1    C5:G-DP/5  D5:K
+                                   43>1o      
+                                              
+H.Ramire-A1  A6:Do      B6:K       *7*:L/6    D6:Si
+                                              
+                                              
+M.Trumbo-A1  A7:G/53    B7:K       C7:K       D7:G/63
+                                              
+                                              
+C.Davis-A1   A8:G/23    B8:G/43    C8:L/4
+                                   
+                                   
+M.Napoli-A1  *3*:K      *5*:G/43   *8*:K
+                                   
+                                   
+
+P.Konerk-A1  A1:G/43    B1:K       C1:Si      D1:G/3
+                                              
+                                              
+C.Nelson-A1  A2:K       B2:Si>2#   C2:K       *8*:Si
+E.Chavez-D2                                   
+                                              
+R.Braun-A1   A3:HR>b#   B3:G-DP/1  C3:F/9     D3:Do>1#
+                        63>1o                 
+                                              
+A.Rios-A1    A4:FO/2    *4*:L/6    *6*:Si     D4:Si>3#
+                                              
+                                              
+A.Craig-A1   *2*:F/8    B5:K       C5:CS/24>  D5:L/6
+                                   1o F/7     
+                                              
+A.De Aza-A1  A6:W>b1    B6:Si      C6:L/4     D6:F/7
+                                              
+                                              
+J.Altuve-A1  A7:F/9     B7:Si>12   *7*:G/53   D7:FO/2
+G.Beckha-D2                                   
+                                              
+J.Lucroy-A1  A8:SB+E/2  B8:F/8     C8:G/53
+A.Pierzy-C8  >13 K                 
+                                   
+A.Ramire-A1  *3*:Do     *5*:F/8    C9:HR>b#
+                                   
+                                   
+
+

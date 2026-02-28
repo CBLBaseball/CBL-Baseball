@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2013 Chicago (NL) Cubs At 2013 San Francisco Giants      10/14/2013
+
+[1]  Cubs               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  S.Castro SS         5  0  1  0 .300     I.Desmond SS        3  0  1  0 .265  
+  D.Barney 2B         5  0  1  0 .237     M.Cabrera LF        4  0  0  0 .275  
+  Y.Alonso 1B         5  1  1  0 .189     B.Posey C ,1B       4  1  1  1 .257  
+C-E.Carrera CF        0  0  0  0 .400     C.Beltran RF        4  0  0  0 .219  
+  A.Ramirez 3B        4  3  3  3 .324     J.Willingham DH     4  0  1  0 .265  
+  A.Soriano DH        4  1  1  0 .343     W.Rosario 1B,C      4  0  0  0 .300  
+  M.Joyce RF,LF,RF    3  1  1  1 .267     J.Pacheco 3B        3  0  0  0 .176  
+  C.Gentry CF         3  0  1  2 .471     H.Kendrick 2B       3  0  1  0 .211  
+B-M.Moreland PH,RF,1B 1  0  1  0 .250     B.Upton CF          3  0  1  0 .314  
+  G.Parra LF,CF,LF    3  0  0  0 .227                                          
+  S.Clevenger C       2  0  1  0 .364                                          
+A-G.Soto PH,C         2  0  0  0 .313                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  6 11  6                 Totals      32  1  5  1
+
+A-Pinch Hit For Clevenger In 7th Inning
+B-Pinch Hit For Gentry In 8th Inning
+C-Subbed Defensively (CF) For Alonso In 9th Inning
+
+Cubs............ 0 1 0  2 0 2  0 1 0  -  6 11  0
+Giants.......... 1 0 0  0 0 0  0 0 0  -  1  5  0
+
+[1]Cubs (5-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Garza WIN(1-1)             9       5   1   1   1  11   1   4.50  A1
+[1]Totals                    9       5   1   1   1  11   1
+
+[1]Giants (5-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain LOSS(0-3)             7 2/3  11   6   6   2   2   3   4.30  A1 D8
+F.Rodriguez                  1 1/3   0   0   0   0   1   0   0.00  D9
+[1]Totals                    9      11   6   6   2   3   3
+
+ATTENDANCE- 39,873 DATE- Monday, October 14th 2013 TIME- Night 
+UMPIRES- Dale Scott, Jerry Meals, C.B. Bucknor, Dan Iassogna
+T- 3:07
+LEFT ON BASE- Cubs: 6  Giants: 5
+DOUBLE PLAYS- Cubs: 0  Giants: 1
+DOUBLES- C.Gentry(1st)
+HOME RUNS- A.Ramirez-2(2nd), M.Joyce(1st), B.Posey(2nd)
+WALKS- M.Joyce, G.Parra, I.Desmond
+STRIKE OUTS- D.Barney, Y.Alonso, A.Soriano, M.Cabrera, B.Posey, C.Beltran-4,
+             J.Willingham, W.Rosario-2, J.Pacheco, B.Upton
+GIDP- Y.Alonso
+2-out RBI- B.Posey, M.Joyce, C.Gentry-2
+RLISP 2-out- B.Posey, M.Joyce, G.Parra-2, G.Soto
+WEB GEMS- Bot 4th: Starlin Castro robbed Josh Willingham of a base hit.
+
+Matt Garza retired 11 batters on strikeouts and third baseman Aramis Ramirez
+cracked 2 homeruns and had 3 RBI as the Chicago (NL) Cubs outscored the San
+Francisco Giants 6 to 1.
+
+Ramirez enjoyed a big evening at the plate.  He cleared the fences for a
+two-run home run in the 4th inning, lined a base-hit in the 6th inning and
+cracked a solo homerun in the 8th inning.  Chicago (NL) finished with 11 hits
+in the victory.  
+
+Garza(1-1) got the victory, allowing 1 run for the game. Matt Cain(0-3) took
+the loss.  He served up 3 homeruns in his 7 and 2/3 innings.  
+
+'I had my good stuff tonight.' Garza said. 'As the game went along I started
+to get the feeling that I was going to strike out a bunch of hitters.'
+[2]
+[1]SCORESHEET: 2013 Chicago (NL) Cubs at 2013 San Francisco Giants
+S.Castro-A1  A1:G/43    B1:P/6     C1:G/53    D1:Si      *9*:G/63
+                                                         
+                                                         
+D.Barney-A1  A2:F/9     *4*:K      *6*:G/63   D2:Si>13   E2:F/7
+                                                         
+                                                         
+Y.Alonso-A1  A3:F/8     B3:Si      C3:G/31    D3:G-DP/4  E3:K
+E.Carrer-E4                                   63>1o      
+                                                         
+A.Ramire-A1  *2*:F/9    B4:HR>1#   C4:Si      *8*:HR>b#
+                        b#                    
+                                              
+A.Sorian-A1  A5:G/63    B5:P/5     C5:Si>12   D5:K
+                                              
+                                              
+M.Joyce-A1   A6:HR>b#   B6:G/43    C6:W>23 1  D6:G/63
+                                   2 b1       
+                                              
+C.Gentry-A1  A7:L/5     *5*:L/6    C7:Do>3#   D7:Si
+M.Morela-D7                        2# 13      
+                                              
+G.Parra-A1   *3*:FO/2   B8:G/13    C8:P/4     D8:W>12 b
+                                              1
+                                              
+S.Cleven-A1  A9:G/43    B9:Si      *7*:P/4    D9:G/43
+G.Soto-C9                                     
+                                              
+
+I.Desmon-A1  A1:F/7     B1:W>b1    C1:G/63    D1:Si
+                                              
+                                              
+M.Cabrer-A1  A2:F/8     B2:Force/  *6*:G/63   D2:K
+                        14>23 1o              
+                        b1                    
+B.Posey-A1   A3:HR>b#   B3:F/8     C3:F/8     D3:K
+                                              
+                                              
+C.Beltra-A1  A4:K       *4*:K      C4:K       *9*:K
+                                              
+                                              
+J.Willin-A1  *2*:F/9    B5:G/63    *7*:Si     D5:K
+                                              
+                                              
+W.Rosari-A1  A6:F/7     B6:K       C6:P/6     D6:K
+                                              
+                                              
+J.Pachec-A1  A7:G/53    *5*:FO/2   C7:K
+                                   
+                                   
+H.Kendri-A1  *3*:Si     B8:G/13    C8:F/9
+                                   
+                                   
+B.Upton-A1   A9:G/43>1  B9:Si      *8*:K
+             2                     
+                                   
+
+

@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2013 Chicago (AL) White Sox At 2013 San Francisco Giants 10/31/2013
+
+[1]  White Sox          AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  P.Konerko 1B        5  0  1  0 .266     M.Cabrera LF        4  0  0  0 .346  
+  A.De Aza CF         5  0  2  0 .275     P.Sandoval 3B       4  0  0  0 .300  
+  R.Braun LF          3  0  0  0 .216     B.Posey C ,1B       4  1  2  1 .269  
+  A.Pierzynski C      3  0  0  0 .295     C.Beltran RF        3  1  1  0 .243  
+A-T.Campana PR        0  0  0  0 .250     J.Willingham DH     4  1  1  1 .208  
+B-J.Lucroy C          0  0  0  0 .333     W.Rosario 1B,C      3  0  1  0 .333  
+  A.Craig DH          4  0  2  0 .267     H.Kendrick 2B       3  0  0  0 .216  
+  C.Nelson 3B         3  1  0  0 .341   C-J.Giambi PH         1  0  1  1 .333  
+  A.Rios RF           4  0  1  0 .244     I.Desmond SS        3  0  0  0 .233  
+  A.Ramirez SS        4  0  1  1 .273     B.Upton CF          3  0  1  0 .284  
+  J.Altuve 2B         4  1  2  0 .284                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2  9  1                 Totals      32  3  7  3
+
+A-Pinch Ran For Pierzynski In 8th Inning
+B-Subbed Defensively (C ) For Campana In 8th Inning
+C-Pinch Hit For Kendrick In 9th Inning
+
+White Sox....... 0 1 0  0 0 0  0 0 1  -  2  9  1
+Giants.......... 0 0 0  1 0 0  1 0 1  -  3  7  1
+
+[1]White Sox (11-9)         IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Halladay                7 2/3   5   2   2   1   7   2   2.67  A1 D1
+D.Oliver LOSS(1-1)        1       2   1   1   1   1   0   0.93  D2
+[1]Totals                    8 2/3   7   3   3   2   8   2
+
+[1]Giants (12-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain                    7       7   1   1   2   7   0   3.23  A1 D2
+S.Romo HOLD(1st)          1 2/3   1   1   0   1   1   0   1.13  D3 D9
+J.Putz WIN(2-1) BS(2nd)   0 1/3   1   0   0   0   1   0   4.70  E1
+[1]Totals                    9       9   2   1   3   9   0
+
+ATTENDANCE- 38,784 DATE- Thursday, October 31st 2013 TIME- Night 
+UMPIRES- C.B. Bucknor, Dan Iassogna, Dale Scott, Jerry Meals
+T- 3:07
+LEFT ON BASE- White Sox: 9  Giants: 4
+DOUBLE PLAYS- White Sox: 0  Giants: 1
+ERRORS- R.Braun, B.Posey
+DOUBLES- C.Beltran(2nd)
+TRIPLES- A.De Aza(1st)
+HOME RUNS- B.Posey(3rd), J.Willingham(4th)
+STOLEN BASES- A.De Aza(7th), T.Campana(5th), J.Altuve(4th)
+CAUGHT STEALING- A.De Aza, B.Upton
+WALKS- R.Braun, A.Pierzynski, C.Nelson, C.Beltran, W.Rosario
+STRIKE OUTS- P.Konerko, A.De Aza, R.Braun, A.Pierzynski, A.Craig-2, C.Nelson,
+             A.Rios-2, M.Cabrera, P.Sandoval-2, C.Beltran-2, J.Willingham,
+             W.Rosario-2
+GIDP- C.Nelson
+PASSED BALLS- W.Rosario
+2-out RBI- A.Ramirez, J.Giambi
+RLISP 2-out- C.Beltran, J.Willingham, J.Altuve, A.Pierzynski-2, R.Braun,
+             A.De Aza-3, C.Nelson, W.Rosario
+
+San Francisco Giants won a dramatic crowd-pleaser over Chicago (AL) White Sox
+at AT&T Park pulling it out in their last at bats, 3 to 2.
+
+The game was decided in the 9th inning.  After an out was recorded, Carlos
+Beltran doubled.  After another out, Wilin Rosario came to bat and was walked
+intentionally.  Jason Giambi then delivered a one-base hit giving San
+Francisco the win and sending the home town fans into a frenzy.  San
+Francisco had a total of 7 hits for the game.  
+
+The win was credited to J.J. Putz(2-1) who went 1/3 of an inning allowing no
+runs. The loss was charged to Darren Oliver(1-1) in relief.  He allowed 2
+hits and 1 walk in 1 inning.  
+
+[2]
+[1]SCORESHEET: 2013 Chicago (AL) White Sox at 2013 San Francisco Giants
+P.Konerk-A1  A1:E/3     *3*:L/5    C1:G/63    D1:SB>12   E1:Si>13
+                                              K          
+                                                         
+A.De Aza-A1  A2:Force/  B2:Si      C2:Tr      D2:G/23    E2:PB>3#
+             46>1o b1                                    12 K
+                                                         
+R.Braun-A1   A3:CS/24>  B3:SB>12   C3:IW>b1   *8*:G/13
+             1o F/8     K                     
+                                              
+A.Pierzy-A1  *2*:K      B4:P/4     C4:F/7     D4:W>b1
+T.Campan-D5                                   
+J.Lucroy-D7                                   
+A.Craig-A1   A5:K       *4*:Si     *6*:Si     D5:SB>12
+                                              K
+                                              
+C.Nelson-A1  A6:W>b1    B6:K       C6:G-DP/6  D6:G/63
+                                   43>1o      
+                                              
+A.Rios-A1    A7:Si>13   B7:K       C7:K       *9*:G/31
+                                              
+                                              
+A.Ramire-A1  A8:Si>3#   B8:G/63    *7*:G/63   D8:F/7
+             13                               
+                                              
+J.Altuve-A1  A9:P/5     *5*:G/63   C9:Si      D9:Si
+                                              
+                                              
+
+M.Cabrer-A1  A1:F/8     B1:G/53    *6*:K      D1:G/13
+                                              
+                                              
+P.Sandov-A1  A2:L/4     B2:L/4     C2:K       D2:K
+                                              
+                                              
+B.Posey-A1   A3:E/7>b3  *4*:HR>b#  C3:Si      *9*:G/63
+                                              
+                                              
+C.Beltra-A1  A4:W>b1    B4:K       C4:K       D4:Do
+                                              
+                                              
+J.Willin-A1  A5:K       B5:G/23    *7*:HR>b#  D5:G/63
+                                              
+                                              
+W.Rosari-A1  *2*:K      B6:Si PkO  C6:K       D6:IW>b1
+                        ff/13>1o              
+                                              
+H.Kendri-A1  A7:F/9     *5*:F/9    C7:G/43    D7:Si>2#
+J.Giambi-D7                                   13
+                                              
+I.Desmon-A1  A8:F/9     B8:F/9     C8:L/5
+                                   
+                                   
+B.Upton-A1   *3*:G/63   B9:Si CS/  *8*:F/8
+                        26>1o      
+                                   
+
+

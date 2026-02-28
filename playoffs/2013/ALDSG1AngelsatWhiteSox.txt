@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2013 Los Angeles(AL) Angels At 2013 Chicago (AL) White So 10/3/2013
+
+[1]  Angels             AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  M.Izturis 2B        3  1  0  0 .000     P.Konerko 1B        3  0  2  1 .667  
+  A.Callaspo 3B       4  1  1  3 .250     C.Nelson 3B         3  1  1  3 .333  
+  C.Johnson DH        3  1  1  1 .333   B-I.Falu PH           1  0  1  21.000  
+E-M.Trumbo PH,DH      1  0  0  0 .000   C-T.Campana PR        0  0  0  0 ----  
+  T.Colvin RF         4  1  1  0 .250   D-E.Chavez 3B         0  0  0  0 ----  
+  M.Holliday LF       4  1  1  2 .250     R.Braun LF          4  0  0  0 .000  
+  C.Davis 1B          3  0  0  0 .000     A.Rios RF           4  1  1  1 .250  
+G-J.Ruggiano PH       1  0  1  01.000     A.Craig DH          4  0  1  0 .250  
+  M.Napoli C          3  0  0  0 .000     J.Lucroy C          3  0  0  0 .000  
+  D.Wise CF           3  0  0  0 .000   F-A.Pierzynski PH,C   1  0  1  01.000  
+H-W.Bloomquist PH     1  0  0  0 .000     A.Ramirez SS        4  1  1  0 .250  
+  H.Ramirez SS        4  1  2  0 .500     J.Altuve 2B         2  1  2  01.000  
+                                        A-G.Beckham 2B        1  1  1  01.000  
+                                          A.De Aza CF         1  2  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  6  7  6                 Totals      31  7 11  7
+
+A-Subbed Defensively (2B) For Altuve In 7th Inning
+B-Pinch Hit For Nelson In 7th Inning
+C-Pinch Ran For Falu In 7th Inning
+D-Subbed Defensively (3B) For Campana In 8th Inning
+E-Pinch Hit For Johnson In 8th Inning
+F-Pinch Hit For Lucroy In 8th Inning
+G-Pinch Hit For Davis In 9th Inning
+H-Pinch Hit For Wise In 9th Inning
+
+Angels.......... 1 1 0  1 0 0  0 3 0  -  6  7  0
+White Sox....... 0 0 4  0 0 1  2 0    -  7 11  0
+
+[1]Angels (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver LOSS(0-1)           6       9   7   7   0   6   2  10.50  A1 D1
+K.Uehara                     0 2/3   1   0   0   0   0   0   0.00  D2 D3
+L.Ayala                      1 1/3   1   0   0   0   3   0   0.00  D4
+[1]Totals                    8      11   7   7   0   9   2
+
+[1]White Sox (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Johnson WIN(1-0)           7       6   6   6   2   5   3   7.71  A1 D2
+J.Henderson HOLD(1st)        1       0   0   0   0   1   0   0.00  D3 D5
+S.Marshall SAVE(1st)         1       1   0   0   0   2   0   0.00  D6
+[1]Totals                    9       7   6   6   2   8   3
+
+ATTENDANCE- 39,442 DATE- Thursday, October 3rd 2013 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 3:02
+LEFT ON BASE- Angels: 3  White Sox: 3
+DOUBLE PLAYS- Angels: 1  White Sox: 0
+TRIPLES- T.Colvin(1st), A.Pierzynski(1st)
+HOME RUNS- A.Callaspo(1st), C.Johnson(1st), M.Holliday(1st), C.Nelson(1st),
+           A.Rios(1st)
+CAUGHT STEALING- T.Campana, A.Pierzynski
+SACRIFICE FLIES- P.Konerko
+WALKS- M.Izturis, M.Napoli
+HIT BY PITCH- A.De Aza-2
+STRIKE OUTS- A.Callaspo, C.Johnson, T.Colvin, C.Davis-2, M.Napoli-2,
+             W.Bloomquist, C.Nelson, R.Braun, A.Rios-2, A.Craig-2, J.Lucroy,
+             A.Ramirez, A.De Aza
+GIDP- R.Braun
+2-out RBI- C.Johnson
+RLISP 2-out- A.De Aza, A.Rios
+WEB GEMS- Bot 5th: Maicer Izturis robbed Ryan Braun of a base hit.
+
+The Chicago (AL) White Sox nipped the Los Angeles(AL) Angels 7 to 6 at US
+Cellular Field in a hard fought contest.
+
+Josh Johnson(1-0) had a fairly solid outing.  He was reached for 6 hits and 2
+walks in 7 innings and surrendered 3 'round-trippers'.  Los Angeles(AL) had a
+chance to come back in the 9th but they came up short.  
+
+Sean Marshall recorded the save, his 1st.  Jered Weaver(0-1) suffered the
+loss.  He was knocked around, surrendering 7 runs in 6 innings.  
+
+Ozzie Guillen was in a talkative mood in the clubhouse, 'Great game! If only
+we could win all of the close ones - wouldn't that be nice! Since that's not
+going to happen, I think I'll savor this one for a little while.'
+[2]
+[1]SCORESHEET: 2013 Los Angeles(AL) Angels at 2013 Chicago (AL) White Sox
+M.Izturi-A1  A1:P/4     B1:F/8     C1:F/8     D1:W>12 b
+                                              1
+                                              
+A.Callas-A1  A2:F/9     B2:L/6     C2:K       D2:HR>2#
+                                              1# b#
+                                              
+C.Johnso-A1  A3:HR>b#   B3:F/8     *6*:K      D3:G/43
+M.Trumbo-D3                                   
+                                              
+T.Colvin-A1  A4:F/8     *4*:Tr     C4:G/63    D4:K
+                                              
+                                              
+M.Hollid-A1  *2*:HR>b#  B5:G/63>3  C5:F/8     D5:F/8
+                        #                     
+                                              
+C.Davis-A1   A6:K       B6:G/43    *7*:K      *9*:Si
+J.Ruggia-D6                                   
+                                              
+M.Napoli-A1  A7:F/9     B7:W>b1    C7:K       D7:K
+                                              
+                                              
+D.Wise-A1    A8:F/9     B8:G/3     C8:G/43    D8:K
+W.Bloomq-D8                                   
+                                              
+H.Ramire-A1  *3*:Si     *5*:L/6    *8*:Si     D9:F/7
+                                              
+                                              
+
+P.Konerk-A1  A1:G/63    B1:SF/9>3  *5*:Si     D1:Si>23
+                        #                     12
+                                              
+C.Nelson-A1  A2:F/8     B2:HR>2#   C2:K       D2:Si>3#
+I.Falu-D2               1# b#                 2# 13
+T.Campan-D3+                                  
+R.Braun-A1   A3:K       B3:F/8     C3:G-DP/4  D3:CS/24>
+                                   63>1o      1o G/53
+                                              
+A.Rios-A1    *2*:G/53   B4:K       *6*:HR>b#  D4:K
+                                              
+                                              
+A.Craig-A1   A5:K       *4*:Si     C5:F/7     *8*:K
+                                              
+                                              
+J.Lucroy-A1  A6:L/6     B6:K       C6:G/63    D6:Tr
+A.Pierzy-D6                                   
+                                              
+A.Ramire-A1  *3*:Si     B7:F/7     C7:G/63    D7:CS/2>3
+                                              o K
+                                              
+J.Altuve-A1  A8:Si>12   B8:Si>12   *7*:Si
+G.Beckha-C8                        
+                                   
+A.De Aza-A1  A9:HBP>23  B9:K       C9:HBP>12
+             12                    
+                                   
+
+

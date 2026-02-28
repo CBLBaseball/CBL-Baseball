@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2013 Chicago (NL) Cubs At 2013 Atlanta Braves             10/3/2013
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  S.Castro SS         4  1  2  1 .500     J.Heyward RF        3  1  1  0 .333  
+  D.Barney 2B         4  2  3  2 .750     R.Tejada SS         3  0  1  1 .333  
+  Y.Alonso 1B         5  0  1  0 .200   B-E.Bonifacio PH      1  0  0  0 .000  
+F-X.Paul RF           0  0  0  0 ----   C-B.McCann C          1  0  0  0 .000  
+  A.Ramirez 3B        5  2  2  2 .400     J.Gomes LF          5  0  0  0 .000  
+  A.Soriano DH        5  1  3  1 .600     F.Freeman 1B        3  0  0  0 .000  
+  M.Joyce RF,LF       5  0  1  0 .200     C.Headley 3B        4  1  0  0 .000  
+  S.Clevenger C       4  1  2  1 .500     G.Stanton DH        4  0  2  0 .500  
+E-G.Soto PH,C         1  0  0  0 .000     J.Hamilton CF       2  0  0  0 .000  
+  G.Parra LF,CF       4  0  0  0 .000     G.Laird C           2  0  2  01.000  
+  C.Gentry CF         3  1  2  0 .667   A-C.Ransom PH,SS      0  0  0  1 ----  
+D-M.Moreland PH,RF,1B 1  0  0  0 .000     O.Infante 2B        4  0  1  0 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  8 16  7                 Totals      32  2  7  2
+
+A-Pinch Hit For Laird In 7th Inning
+B-Pinch Hit For Tejada In 7th Inning
+C-Subbed Defensively (C ) For Bonifacio In 8th Inning
+D-Pinch Hit For Gentry In 8th Inning
+E-Pinch Hit For Clevenger In 9th Inning
+F-Subbed Defensively (RF) For Alonso In 9th Inning
+
+Cubs............ 1 0 2  0 2 1  1 0 1  -  8 16  0
+Braves.......... 1 0 0  0 0 0  0 1 0  -  2  7  0
+
+[1]Cubs (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dempster WIN(1-0)          6 1/3   6   1   1   4   7   0   1.42  A1 D1
+B.Ziegler                    1       0   0   0   0   1   0   0.00  D2 D3
+T.Gorzelanny                 0 1/3   1   1   1   2   0   0  27.00  D4 D7
+S.Feldman                    1 1/3   0   0   0   1   2   0   0.00  D8
+[1]Totals                    9       7   2   2   7  10   0
+
+[1]Braves (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hudson LOSS(0-1)           9      16   8   8   1   2   0   8.00  A1
+[1]Totals                    9      16   8   8   1   2   0
+
+ATTENDANCE- 46,386 DATE- Thursday, October 3rd 2013 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 3:00
+LEFT ON BASE- Cubs: 8  Braves:10
+DOUBLE PLAYS- Cubs: 2  Braves: 1
+DOUBLES- Y.Alonso(1st), A.Ramirez(1st), A.Soriano-2(2nd), M.Joyce(1st),
+         S.Clevenger(1st)
+STOLEN BASES- J.Heyward(1st)
+SACRIFICE FLIES- S.Castro
+WALKS- D.Barney, J.Heyward-2, F.Freeman, J.Hamilton-2, C.Ransom-2
+STRIKE OUTS- M.Joyce, G.Parra, J.Heyward-2, R.Tejada, B.McCann, J.Gomes-4,
+             C.Headley, O.Infante
+GIDP- M.Joyce, R.Tejada, E.Bonifacio
+WILD PITCHES- R.Dempster
+2-out RBI- A.Ramirez, A.Soriano, S.Clevenger, C.Ransom
+RLISP 2-out- A.Soriano-2, C.Headley, G.Laird, O.Infante-4, M.Joyce, Y.Alonso,
+             J.Hamilton
+
+At Turner Field the Atlanta Braves were battered 8 to 2 by the Chicago (NL)
+Cubs.
+
+Chicago (NL) took the lead for keeps in the 3rd inning scoring 2 runs using 3
+hits.  Craig Gentry got things going when he laced a single.  Starlin Castro
+was next and he slapped a one-base hit.  Castro took second on the throw.
+Darwin Barney then slapped a single.  That scoring would be all that was
+needed.  Chicago (NL) kept the pressure on throughout the contest as they
+scored in 6 different innings.  
+
+The win went to Ryan Dempster(1-0) who allowed 1 run in 6 and 1/3 innings. Tim
+Hudson(0-1) was given the loss.  He pitched 9 innings giving up 16 hits and 1
+walk.
+
+[2]
+[1]SCORESHEET: 2013 Chicago (NL) Cubs at 2013 Atlanta Braves
+S.Castro-A1  A1:G/53    B1:Si>13   *5*:G/63   D1:SF/8>3  E1:Si
+                                              #          
+                                                         
+D.Barney-A1  A2:Si      B2:Si>3#   C2:Si      D2:W>12 b  E2:Force/
+                        2#                    1          54>1o b1
+                                                         
+Y.Alonso-A1  A3:Do>13   B3:G/63>1  C3:P/4     D3:G/13    E3:G/43
+X.Paul-E8               2                                
+                                                         
+A.Ramire-A1  A4:G/63>3  B4:FO/2    C4:Do>1#   *7*:FO/2   *9*:Si
+             # 23                                        
+                                                         
+A.Sorian-A1  A5:G/53    B5:G/53    C5:Do>2#   D5:Do      E5:Si>13
+                                                         
+                                                         
+M.Joyce-A1   *2*:G/63   *4*:Do     C6:F/8     D6:K       E6:G-DP/4
+                                                         63>3# 1o
+                                                         
+S.Cleven-A1  A7:L/4     B7:G/43>2  *6*:Do     D7:Si>2#   E7:F/7
+G.Soto-E7               3                                
+                                                         
+G.Parra-A1   A8:G/43    B8:FC/32>  C8:K       D8:Force/
+                        3o                    64>1o b1
+                                              
+C.Gentry-A1  *3*:Si     B9:Force/  C9:Si>23   *8*:G/43
+M.Morela-D9             54>1o b1              
+                                              
+
+J.Heywar-A1  A1:W>b1    *3*:W>b1   *5*:K      D1:Si>23   *9*:K
+                                              12         
+                                                         
+R.Tejada-A1  A2:SB>12   B2:G-DP/6  C2:K       D2:G-DP/4  E2:K
+E.Bonifa-D2  Si>2#      43>1o                 63>1o      
+B.McCann-D3                                              
+J.Gomes-A1   A3:WP>12   B3:K       C3:K       *8*:K      E3:F/7
+             K                                           
+                                                         
+F.Freema-A1  A4:G/43>2  *4*:G/43   *6*:G/31   D4:W>b1
+             3                                
+                                              
+C.Headle-A1  A5:G/43    B5:L/4     C5:K       D5:Force/
+                                              64>1o b1
+                                              
+G.Stanto-A1  *2*:F/7    B6:Si      C6:F/7     D6:Si>12
+                                              
+                                              
+J.Hamilt-A1  A7:F/8     B7:W>12 b  *7*:G/43   D7:W>23 1
+                        1                     2 b1
+                                              
+G.Laird-A1   A8:Si      B8:Si>23   C8:W>b1    D8:W>3# 2
+C.Ransom-C8             12                    3 12 b1
+                                              
+O.Infant-A1  A9:F/9     B9:K       C9:Si>12   D9:F/9
+                                              
+                                              
+
+

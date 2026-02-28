@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2013 San Francisco Giants At 2013 Chicago (NL) Cubs      10/17/2013
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  M.Cabrera LF        4  3  3  0 .327     S.Castro SS         5  0  1  0 .260  
+  P.Sandoval 3B       3  1  2  0 .320     D.Barney 2B         5  0  2  0 .234  
+A-J.Pacheco PH,3B     3  1  2  2 .250     Y.Alonso 1B         5  0  1  0 .178  
+  B.Posey 1B          6  1  4  3 .289     A.Ramirez 3B        5  3  2  2 .326  
+  W.Rosario C         4  1  1  1 .292     A.Soriano DH        4  1  2  0 .395  
+  C.Beltran RF        6  2  3  1 .310     M.Moreland RF       3  0  1  0 .333  
+  J.Willingham DH     6  0  0  0 .209     W.Castillo C        3  1  2  2 .250  
+  B.Upton CF          5  2  2  4 .311     D.Mastroianni LF,CF 3  0  0  0 .250  
+  H.Kendrick 2B       5  1  1  1 .229     C.Gentry CF         2  0  2  1 .526  
+  I.Desmond SS        5  2  2  2 .273   B-M.Joyce PH,LF       2  0  0  0 .238  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      47 14 20 14                 Totals      37  5 13  5
+
+A-Pinch Hit For Sandoval In 5th Inning
+B-Pinch Hit For Gentry In 6th Inning
+
+Giants.......... 0 0 0 10 0 0  3 0 1  - 14 20  1
+Cubs............ 0 1 0  3 1 0  0 0 0  -  5 13  0
+
+[1]Giants (7-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Bumgarner WIN(2-1)         7      12   5   3   0   5   2   4.02  A1 D5
+F.Rodriguez                  2       1   0   0   1   0   0   0.00  D6
+[1]Totals                    9      13   5   3   1   5   2
+
+[1]Cubs (5-6)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Wood LOSS(1-2)             7      17  13  13   4   6   3   7.66  A1 E6
+S.Feldman                    2       3   1   1   0   2   0   6.23  E7
+[1]Totals                    9      20  14  14   4   8   3
+
+ATTENDANCE- 37,195 DATE- Thursday, October 17th 2013 TIME- Night 
+UMPIRES- Paul Emmel, Rob Drake, Gary Darling, Bruce Dreckman
+T- 3:38
+LEFT ON BASE- Giants:10  Cubs: 8
+DOUBLE PLAYS- Giants: 1  Cubs: 0
+ERRORS- P.Sandoval
+DOUBLES- P.Sandoval(1st), B.Posey(3rd), B.Upton(3rd), A.Soriano(8th),
+         W.Castillo(1st)
+TRIPLES- M.Cabrera(3rd)
+HOME RUNS- C.Beltran(1st), B.Upton(1st), I.Desmond(1st), A.Ramirez-2(4th)
+STOLEN BASES- W.Castillo(1st)
+CAUGHT STEALING- C.Gentry
+SACRIFICE HITS- M.Moreland, D.Mastroianni
+WALKS- M.Cabrera-2, W.Rosario-2, W.Castillo
+STRIKE OUTS- W.Rosario-2, J.Willingham-4, B.Upton, I.Desmond, D.Barney,
+             Y.Alonso, A.Soriano, D.Mastroianni, M.Joyce
+GIDP- A.Ramirez
+2-out RBI- B.Upton-4, C.Gentry, A.Ramirez
+RLISP 2-out- D.Mastroianni, B.Posey, W.Rosario-2, M.Moreland, W.Castillo,
+             J.Willingham-2, M.Joyce
+
+Center fielder B.J. Upton smacked a grand slam as the San Francisco Giants
+defeated the Chicago (NL) Cubs 14 to 5 at Wrigley Field.
+
+Upton enjoyed a fine evening at the plate.  He doubled in the 4th inning and
+quieted the crowd by clouting a Grand Slam in the 4th inning.  San Francisco
+bats were hot in the 4th inning when they had 10 runs on 9 hits.  San
+Francisco had 20 hits overall, while Chicago (NL) had 13.  
+
+Madison Bumgarner(2-1) got the win allowing 5 runs in 7 innings. Travis
+Wood(1-2) took the loss.  He surrended 3 homeruns in his 7 innings.  
+
+[2]
+[1]SCORESHEET: 2013 San Francisco Giants at 2013 Chicago (NL) Cubs
+M.Cabrer-A1  A1:G/43    B1:W>b1    C1:Si      D1:W>b1    E1:Si>12   *9*:Tr
+                                                                    
+                                                                    
+P.Sandov-A1  A2:G/43    B2:Si>12   C2:Do>13   D2:Force/  E2:Si>2#   F2:Si>3#
+J.Pachec-D2                                   54>1o b1   13         
+                                                                    
+B.Posey-A1   A3:F/7     B3:Si>23   C3:Do>3#   D3:F/7     E3:Si>3#   F3:Si>12
+                        12         2#                    13         
+                                                                    
+W.Rosari-A1  *2*:W>b1   B4:K       C4:W>b1    *6*:L/6    E4:Si>3#   F4:K
+                                                         12         
+                                                                    
+C.Beltra-A1  A5:F/9     *4*:HR>b#  C5:Si>23   D5:Si      E5:F/8     F5:L/3
+                                   12                               
+                                                                    
+J.Willin-A1  A6:K       B6:F/7     C6:K       D6:K       E6:K       F6:F/7
+                                                                    
+                                                                    
+B.Upton-A1   A7:F/8     B7:Do      C7:HR>3#   D7:K       *8*:G/13
+                                   2# 1# b#              
+                                                         
+H.Kendri-A1  *3*:G/13   B8:Si>2#   C8:F/8     *7*:F/8    E8:G/43
+                                                         
+                                                         
+I.Desmon-A1  A9:L/6     B9:HR>1#   *5*:G/63   D9:Si      E9:K
+                        b#                               
+                                                         
+
+S.Castro-A1  A1:G/23    B1:CS/24>  C1:L/6     D1:Si      *9*:L/5
+                        1o L/6                           
+                                                         
+D.Barney-A1  A2:P/5     B2:Si      *5*:L/6    D2:K       E2:Si
+                                                         
+                                                         
+Y.Alonso-A1  A3:G/43    B3:K       C3:G/13    *7*:Si     E3:L/4
+                                                         
+                                                         
+A.Ramire-A1  *2*:HR>b#  *4*:E/5    C4:HR>b#   D4:G-DP/6  E4:F/7
+                                              43>1o      
+                                                         
+A.Sorian-A1  A5:F/8     B5:Si>12   C5:Do      D5:K
+                                              
+                                              
+M.Morela-A1  A6:F/7     B6:Sac/54  C6:Si>23   *8*:F/8
+                        >23 12                
+                                              
+W.Castil-A1  A7:Do      B7:Si>3#   C7:F/9     D7:W>b1
+                        2#                    
+                                              
+D.Mastro-A1  A8:K       B8:P/3     *6*:F/9    D8:Sac/34
+                                              >12
+                                              
+C.Gentry-A1  *3*:Si     B9:SB>12   C9:K       D9:G/63
+M.Joyce-C9              Si>2#                 
+                                              
+
+

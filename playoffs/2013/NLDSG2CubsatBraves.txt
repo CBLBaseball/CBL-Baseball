@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2013 Chicago (NL) Cubs At 2013 Atlanta Braves             10/4/2013
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  S.Castro SS         3  0  0  1 .286     J.Heyward RF        4  0  0  0 .143  
+  D.Barney 2B         3  0  0  0 .429     R.Tejada SS         4  0  1  0 .286  
+  Y.Alonso 1B         4  0  0  0 .111   B-A.Simmons SS        0  0  0  0 ----  
+  A.Ramirez 3B        4  0  0  0 .222     J.Hamilton LF       3  2  1  1 .200  
+  A.Soriano DH        4  1  2  1 .556     C.Headley 3B        3  1  1  1 .143  
+C-X.Paul PR           0  0  0  0 ----     F.Freeman 1B        2  0  0  0 .000  
+  E.Carrera LF        2  1  2  01.000     O.Infante 2B        3  0  0  1 .143  
+D-G.Parra PH          1  0  0  0 .000     B.McCann C          2  0  0  0 .000  
+  W.Castillo C        3  0  0  0 .000     G.Stanton DH        3  0  1  0 .429  
+E-S.Clevenger PH      1  0  0  0 .400     J.Dyson CF          2  0  0  0 .000  
+  D.Mastroianni RF    1  0  0  0 .000                                          
+A-M.Moreland PH,RF    1  0  0  0 .000                                          
+  C.Gentry CF         3  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  4  2                 Totals      26  3  4  3
+
+A-Pinch Hit For Mastroianni In 7th Inning
+B-Subbed Defensively (SS) For Tejada In 9th Inning
+C-Pinch Ran For Soriano In 9th Inning
+D-Pinch Hit For Carrera In 9th Inning
+E-Pinch Hit For Castillo In 9th Inning
+
+Cubs............ 0 0 0  0 1 1  0 0 0  -  2  4  0
+Braves.......... 1 0 0  2 0 0  0 0    -  3  4  1
+
+[1]Cubs (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Samardzija LOSS(0-1)       8       4   3   2   3   7   1   2.25  A1
+[1]Totals                    8       4   3   2   3   7   1
+
+[1]Braves (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Minor WIN(1-0)             8       3   2   1   3  10   1   1.13  A1 D4
+C.Kimbrel SAVE(1st)          1       1   0   0   0   1   0   0.00  D5
+[1]Totals                    9       4   2   1   3  11   1
+
+ATTENDANCE- 48,787 DATE- Friday, October 4th 2013 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 2:38
+LEFT ON BASE- Cubs: 5  Braves: 2
+DOUBLE PLAYS- Cubs: 2  Braves: 0
+ERRORS- R.Tejada
+DOUBLES- G.Stanton(1st)
+HOME RUNS- A.Soriano(1st), J.Hamilton(1st)
+STOLEN BASES- D.Barney(1st), X.Paul(1st), E.Carrera-2(2nd)
+CAUGHT STEALING- X.Paul
+SACRIFICE FLIES- S.Castro
+WALKS- D.Barney, E.Carrera, D.Mastroianni, F.Freeman, B.McCann, J.Dyson
+STRIKE OUTS- S.Castro, D.Barney, Y.Alonso-2, A.Ramirez-2, A.Soriano, G.Parra,
+             W.Castillo-2, M.Moreland, J.Heyward-3, R.Tejada, J.Hamilton,
+             F.Freeman, O.Infante
+GIDP- J.Heyward, G.Stanton
+WILD PITCHES- J.Samardzija
+PASSED BALLS- W.Castillo
+2-out RBI- J.Hamilton, A.Soriano
+RLISP 2-out- A.Ramirez, D.Barney, R.Tejada, W.Castillo
+
+Mike Minor dominated striking out 10 Chicago (NL) batters as the Atlanta
+Braves beat the Chicago (NL) Cubs by a score of 3 to 2.
+
+Minor(1-0) was very good in the win.  He allowed only 3 hits and 3 walks in 8
+innings.  Chicago (NL) threatened in the 9th but their rally came up short.
+
+Minor got help from Craig Kimbrel who earned his 1st save.  Jeff
+Samardzija(0-1) absorbed the loss.  The Atlanta fans were thrilled by the
+performance put forth by Minor, but it was clearly his strikeouts that they
+enjoyed most. 'When he reached 10 strikeouts the fans showed him their
+appreciation with a loud cheer.' Fredi Gonzalez said following the game.
+[2]
+[1]SCORESHEET: 2013 Chicago (NL) Cubs at 2013 Atlanta Braves
+S.Castro-A1  A1:G/43    B1:G/63    C1:SF/9>3  D1:K
+                                   # 23       
+                                              
+D.Barney-A1  A2:W>b1    B2:F/8     C2:G/43    *8*:K
+                                              
+                                              
+Y.Alonso-A1  A3:SB>12   *4*:F/9    *6*:K      D3:L/4
+             K                                
+                                              
+A.Ramire-A1  A4:L/6     B4:F/8     C4:K       D4:K
+                                              
+                                              
+A.Sorian-A1  *2*:G/43   B5:K       C5:HR>b#   *9*:Si
+X.Paul-D6                                     
+                                              
+E.Carrer-A1  A6:Si      *5*:Si     C6:W>b1    D6:SB>12
+G.Parra-D6                                    CS/25>2o
+                                              K
+W.Castil-A1  A7:K       B7:SB>12   C7:SB>12   D7:G/43
+S.Cleven-D7             K          L/5        
+                                              
+D.Mastro-A1  A8:G/53    B8:W>b1    *7*:K
+M.Morela-C8                        
+                                   
+C.Gentry-A1  *3*:L/6    B9:E/6>23  C9:L/5
+                        12         
+                                   
+
+J.Heywar-A1  A1:K       B1:K       C1:G-DP/4  D1:K
+                                   63>23 1o   
+                                              
+R.Tejada-A1  A2:G/53    *4*:Si     C2:F/8     D2:K
+A.Simmon-D3                                   
+                                              
+J.Hamilt-A1  A3:HR>b#   B3:Force/  *6*:K
+                        46>1o b1   
+                                   
+C.Headle-A1  A4:L/4     B4:WP>12   C4:G/53
+                        Si>2#      
+                                   
+F.Freema-A1  *2*:G/43   B5:PB>23   C5:K
+                        W>b1       
+                                   
+O.Infant-A1  A6:K       B6:Force/  *7*:FO/2
+                        26>3# 1o   
+                        b1         
+B.McCann-A1  A7:G/63    B7:F/8     C7:W>b1
+                                   
+                                   
+G.Stanto-A1  *3*:F/9    *5*:Do     C8:G-DP/6
+                                   43>1o
+                                   
+J.Dyson-A1   A9:F/8     B9:W>b1    *8*:G/31
+                                   
+                                   
+
+

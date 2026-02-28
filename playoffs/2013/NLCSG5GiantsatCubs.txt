@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2013 San Francisco Giants At 2013 Chicago (NL) Cubs      10/18/2013
+
+[1]  Giants             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  M.Cabrera LF        4  0  1  2 .321     S.Castro SS         4  0  0  0 .241  
+  J.Pacheco 3B        4  0  0  0 .208     M.Moreland RF       4  0  3  0 .393  
+  B.Posey C           4  0  0  0 .265     Y.Alonso 1B         2  0  0  0 .170  
+  J.Willingham DH     4  1  2  1 .234     A.Ramirez 3B        4  0  0  0 .298  
+  C.Beltran RF        4  0  0  0 .283     A.Soriano DH        4  0  0  0 .362  
+  J.Thome 1B          4  0  0  0 .000     G.Parra CF          3  0  0  0 .207  
+  H.Kendrick 2B       2  2  1  0 .240     S.Clevenger C       2  0  0  0 .267  
+  B.Upton CF          3  2  1  0 .313     D.Barney 2B         3  0  0  0 .220  
+  I.Desmond SS        4  0  1  1 .271     X.Paul LF           3  0  1  0 .375  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  5  6  4                 Totals      29  0  4  0
+
+
+Giants.......... 0 0 2  0 2 0  0 1 0  -  5  6  1
+Cubs............ 0 0 0  0 0 0  0 0 0  -  0  4  1
+
+[1]Giants (8-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Cain WIN(1-3)              8       3   0   0   2   3   0   3.19  A1 D1
+F.Rodriguez                  0       1   0   0   1   0   0   0.00  D2 D3
+J.Putz                       1       0   0   0   0   0   0   0.00  D4
+[1]Totals                    9       4   0   0   3   3   0
+
+[1]Cubs (5-7)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Dempster LOSS(2-1)         7       5   4   3   1   6   0   3.21  A1 D1
+T.Gorzelanny                 2       1   1   1   1   1   1   7.71  D2
+[1]Totals                    9       6   5   4   2   7   1
+
+ATTENDANCE- 39,579 DATE- Friday, October 18th 2013 TIME- Night 
+UMPIRES- Sam Holbrook, Gerry Davis, Bill Hohn, Greg Gibson
+T- 2:23
+LEFT ON BASE- Giants: 4  Cubs: 5
+DOUBLE PLAYS- Giants: 3  Cubs: 0
+ERRORS- I.Desmond, S.Clevenger
+DOUBLES- M.Cabrera(1st), M.Moreland(1st)
+HOME RUNS- J.Willingham(2nd)
+STOLEN BASES- H.Kendrick(2nd), B.Upton(3rd), I.Desmond(3rd)
+WALKS- H.Kendrick, B.Upton, Y.Alonso-2, S.Clevenger
+HIT BY PITCH- H.Kendrick
+STRIKE OUTS- J.Pacheco, J.Willingham-2, J.Thome, B.Upton, I.Desmond-2,
+             S.Castro-2, X.Paul
+GIDP- Y.Alonso, A.Ramirez-2
+PASSED BALLS- S.Clevenger
+2-out RBI- J.Willingham
+RLISP 2-out- A.Soriano-2, B.Posey, S.Castro, I.Desmond
+
+Designated hitter Josh Willingham lofted one into the 'cheap seats' and Matt
+Cain went 8 solid innings as the San Francisco Giants defeated the Chicago
+(NL) Cubs by a score of 5 to 0 at Wrigley Field.
+
+San Francisco jumped on top of Chicago (NL) in the top of the 3rd inning when
+they scored 2 runs on 2 hits.  That scoring would be all that was needed.
+San Francisco had only 6 hits for the night.  
+
+Cain(1-3) got credit for the victory, pitching 8 innings and allowing no runs.
+Ryan Dempster(2-1) was the loser.  San Francisco now has a record of a league
+leading 8-4.  Chicago (NL) can't seem to snap out of their recent 'funk'.
+Now they have a miserable 1-9 record over the last couple weeks.
+[2]
+[1]SCORESHEET: 2013 San Francisco Giants at 2013 Chicago (NL) Cubs
+M.Cabrer-A1  A1:G/3     B1:SB>12   C1:Do>3#   D1:G/23
+                        L/4        2#         
+                                              
+J.Pachec-A1  A2:K       B2:PB>3#   C2:P/2     *8*:F/7
+                        23 FC/12>             
+                        3o                    
+B.Posey-A1   A3:G/63    B3:G/63    C3:G/63    D3:G/53
+                                              
+                                              
+J.Willin-A1  *2*:K      *4*:K      *6*:Si     D4:HR>b#
+                                              
+                                              
+C.Beltra-A1  A5:G/43    B5:G/43    C5:P/4     D5:G/53
+                                              
+                                              
+J.Thome-A1   A6:L/6     B6:L/4     C6:K       *9*:F/9
+                                              
+                                              
+H.Kendri-A1  *3*:Si     *5*:HBP    C7:G/63    D7:W>b1
+                                              
+                                              
+B.Upton-A1   A8:W>12 b  B8:Si>13   *7*:K      D8:L/5
+             1                                
+                                              
+I.Desmon-A1  A9:Si>2#   B9:SB>12   C9:G/63    D9:SB+E/2
+             13         K                     >13 K
+                                              
+
+S.Castro-A1  A1:K       B1:F/7     C1:L/6     D1:K
+                                              
+                                              
+M.Morela-A1  A2:Si      *4*:Si     *6*:F/7    *9*:Do
+                                              
+                                              
+Y.Alonso-A1  A3:F/9     B3:G-DP/1  C3:W>b1    D3:W>b1
+                        63>1o                 
+                                              
+A.Ramire-A1  A4:F/7     B4:E/6>b2  C4:G-DP/6  D4:G-DP/4
+                                   43>1o      63>23 1o
+                                              
+A.Sorian-A1  *2*:G/63   B5:F/8     *7*:G/43   D5:F/7
+                                              
+                                              
+G.Parra-A1   A6:L/4     *5*:G/43   C6:L/4
+                                   
+                                   
+S.Cleven-A1  A7:G/63    B7:W>b1    C7:G/63
+                                   
+                                   
+D.Barney-A1  *3*:G/63   B8:Force/  *8*:F/7
+                        54>1o b1   
+                                   
+X.Paul-A1    A9:F/8     B9:Si>12   C9:K
+                                   
+                                   
+
+

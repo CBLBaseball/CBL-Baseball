@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2013 Atlanta Braves At 2013 Chicago (NL) Cubs             10/6/2013
+
+[1]  Braves             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  J.Gomes LF          3  2  2  1 .250     S.Castro SS         5  0  1  0 .250  
+A-E.Bonifacio CF      2  0  0  0 .000     D.Barney 2B         3  0  0  1 .300  
+  R.Tejada SS         4  0  0  0 .182     Y.Alonso 1B         4  0  0  0 .077  
+  J.Heyward RF        3  0  0  1 .100     A.Ramirez 3B        4  1  2  0 .308  
+  G.Stanton DH        3  1  1  1 .400     A.Soriano DH        4  0  2  1 .538  
+C-C.Ransom PH,DH      1  0  0  0 .000     M.Moreland RF       4  0  1  0 .167  
+  C.Headley 3B        4  0  0  0 .091     M.Joyce LF          4  0  1  0 .222  
+  J.Hamilton CF,LF    4  2  2  0 .333     S.Clevenger C       3  1  1  0 .375  
+  O.Infante 2B        3  2  2  0 .300   D-G.Soto PH           1  0  0  0 .000  
+  F.Freeman 1B        3  0  1  2 .125     G.Parra CF          3  0  2  0 .250  
+  G.Laird C           2  1  1  2 .750                                          
+B-B.McCann PH,C       2  0  1  0 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  8 10  7                 Totals      35  2 10  2
+
+A-Subbed Defensively (CF) For Gomes In 5th Inning
+B-Pinch Hit For Laird In 7th Inning
+C-Pinch Hit For Stanton In 9th Inning
+D-Pinch Hit For Clevenger In 9th Inning
+
+Braves.......... 0 0 0  2 3 0  1 0 2  -  8 10  0
+Cubs............ 0 0 0  1 1 0  0 0 0  -  2 10  0
+
+[1]Braves (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Medlen WIN(1-0)            9      10   2   2   0   7   0   2.00  A1
+[1]Totals                    9      10   2   2   0   7   0
+
+[1]Cubs (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Wood LOSS(0-1)             8       6   6   6   0   8   3   6.75  A1 D3
+S.Feldman                    1       4   2   2   0   1   0   7.71  D4
+[1]Totals                    9      10   8   8   0   9   3
+
+ATTENDANCE- 37,797 DATE- Sunday, October 6th 2013 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 2:50
+LEFT ON BASE- Braves: 2  Cubs: 8
+DOUBLE PLAYS- Braves: 0  Cubs: 0
+DOUBLES- O.Infante(1st), A.Ramirez(2nd), A.Soriano(3rd), G.Parra(1st)
+TRIPLES- J.Gomes(1st)
+HOME RUNS- J.Gomes(1st), G.Stanton(1st), G.Laird(1st)
+SACRIFICE HITS- O.Infante, G.Parra
+SACRIFICE FLIES- J.Heyward, F.Freeman, D.Barney
+STRIKE OUTS- J.Gomes, E.Bonifacio, J.Heyward-2, G.Stanton, C.Ransom, C.Headley,
+             J.Hamilton-2, S.Castro-3, A.Ramirez, A.Soriano, M.Moreland,
+             M.Joyce
+WILD PITCHES- T.Wood
+PASSED BALLS- S.Clevenger
+2-out RBI- G.Stanton, G.Laird-2, J.Gomes, F.Freeman
+RLISP 2-out- M.Joyce, Y.Alonso-2, S.Clevenger, F.Freeman, E.Bonifacio, S.Castro
+
+Jonny Gomes slammed a homerun and Kris Medlen completed the game without help
+from the bullpen at Wrigley Field as the Atlanta Braves beat the Chicago (NL)
+Cubs by the count of 8 to 2.
+
+Atlanta went ahead for good in the top of the 4th inning when they tallied 2
+runs on 2 hits.  Both teams finished the game with 10 hits.  
+
+The win was credited to Medlen(1-0) who went the whole way allowing 2 runs.
+Travis Wood(0-1) suffered the loss.  He allowed 3 homeruns in 8 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2013 Atlanta Braves at 2013 Chicago (NL) Cubs
+J.Gomes-A1   A1:K       *4*:Tr     C1:HR>b#   *8*:K      E1:F/7
+E.Bonifa-C3                                              
+                                                         
+R.Tejada-A1  A2:F/8     B2:L/6     C2:F/9     D2:F/7
+                                              
+                                              
+J.Heywar-A1  A3:F/8     B3:SF/7>3  *6*:K      D3:K
+                        #                     
+                                              
+G.Stanto-A1  *2*:G/43   B4:HR>b#   C4:K       *9*:K
+C.Ransom-D4                                   
+                                              
+C.Headle-A1  A5:F/9     B5:K       C5:G/63    D5:G/31
+                                              
+                                              
+J.Hamilt-A1  A6:K       *5*:K      *7*:Si     D6:Si
+                                              
+                                              
+O.Infant-A1  *3*:P/6    B7:Do      C7:WP>12   D7:Si>13
+                                   Sac/14>23  
+                                              
+F.Freema-A1  A8:G/43    B8:F/9     C8:SF/8>3  D8:PB>3#
+                                   #          12 Si>2#
+                                              
+G.Laird-A1   A9:L/6     B9:HR>2#   C9:G/43    D9:Si>13
+B.McCann-C9             b#                    
+                                              
+
+S.Castro-A1  A1:K       B1:Si      C1:K       D1:K       E1:FO/2
+                                                         
+                                                         
+D.Barney-A1  A2:G/31    B2:G/43>1  C2:SF/8>3  D2:G/43>1
+                        2          #          2
+                                              
+Y.Alonso-A1  A3:G/13    *4*:G/43   C3:G/43    D3:FO/2
+                                              
+                                              
+A.Ramire-A1  *2*:L/6    B4:Do      *6*:Si     *8*:K
+                                              
+                                              
+A.Sorian-A1  A5:Si      B5:Do>2#   C5:K       D5:G/53
+                                              
+                                              
+M.Morela-A1  A6:F/9     B6:L/4     C6:Si>12   D6:K
+                                              
+                                              
+M.Joyce-A1   A7:K       B7:FO/3    C7:F/8     *9*:Si
+                                              
+                                              
+S.Cleven-A1  *3*:G/63   *5*:Si     C8:G/3     D8:FO/5
+G.Soto-D8                                     
+                                              
+G.Parra-A1   A9:F/8     B9:Do>13   *7*:Si     D9:Sac/24
+                                              >12
+                                              
+
+
