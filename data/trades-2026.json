@@ -1,5 +1,33 @@
 [
   {
+    "leftDate": "2/27/2026",
+    "rightDate": "",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Yankees",
+        "items": [
+          "TJ Friedl"
+        ]
+      },
+      {
+        "name": "Angels",
+        "items": [
+          "NYA DP (3rd)",
+          "NYA DP (1st) (2027)"
+        ]
+      },
+      {
+        "name": "",
+        "items": []
+      },
+      {
+        "name": "",
+        "items": []
+      }
+    ]
+  },
+  {
     "leftDate": "2/26/2006",
     "rightDate": "2/26/2026",
     "phase": "",
