@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2014 Atlanta Braves At 2014 Los Angeles(NL) Dodgers       10/6/2014
+
+[1]  Braves             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  O.Infante 2B        4  0  0  0 .182     D.Nava LF           4  1  1  0 .417  
+  A.Hicks CF          4  0  1  0 .111     S.Gennett 2B        3  0  2  0 .667  
+  J.Gomes LF          3  0  1  0 .143   D-E.Lucas PH          1  0  0  0 .500  
+G-J.Hamilton PH       1  0  0  0 .400   F-J.Uribe 3B          0  0  0  0 .200  
+  F.Freeman 1B        3  0  0  0 .083     Y.Puig RF           4  0  0  0 .167  
+  C.Headley 3B        3  0  1  0 .182     E.Encarnacion 1B    3  1  1  0 .273  
+  G.Stanton DH        2  0  1  0 .167     A.Rodriguez 3B      3  0  1  1 .200  
+B-J.Dyson PH,DH       1  0  0  0 .000   E-S.Schumaker PH,2B   1  0  1  1 .250  
+  J.Heyward RF        3  0  0  0 .250     A.Ethier CF         3  1  1  0 .143  
+  E.Gattis C          2  0  0  0 .200     M.Scutaro DH        3  0  1  0 .308  
+C-B.McCann PH,C       1  0  0  0 .400     M.Kawasaki SS       2  0  0  0 .400  
+  A.Simmons SS        3  0  0  0 .091   A-J.Nix PH,SS         0  0  0  1 .571  
+                                          R.Martin C          3  0  0  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  4  0                 Totals      30  3  8  3
+
+A-Pinch Hit For Kawasaki In 7th Inning
+B-Pinch Hit For Stanton In 8th Inning
+C-Pinch Hit For Gattis In 8th Inning
+D-Pinch Hit For Gennett In 8th Inning
+E-Pinch Hit For Rodriguez In 8th Inning
+F-Subbed Defensively (3B) For Lucas In 9th Inning
+G-Pinch Hit For Gomes In 9th Inning
+
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+Dodgers......... 1 0 0  0 0 0  1 1    -  3  8  1
+
+[1]Braves (0-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Teheran LOSS(0-1)          6       6   2   2   1   8   0   3.00  A1 C7
+G.Perkins                    1       0   0   0   0   1   0   0.00  C8 D1
+D.Carpenter                  1       2   1   1   0   0   0   5.40  D2
+[1]Totals                    8       8   3   3   1   9   0
+
+[1]Dodgers (3-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu WIN(1-0)               7       3   0   0   0   3   0   0.00  A1 C5
+J.Crain HOLD(1st)            0 2/3   0   0   0   0   0   0   0.00  C6 C7
+P.Rodriguez HOLD(2nd)        0 1/3   0   0   0   0   1   0   0.00  C8 C8
+K.Jansen SAVE(1st)           1       1   0   0   0   1   0  13.50  C9
+[1]Totals                    9       4   0   0   0   5   0
+
+ATTENDANCE- 50,778 DATE- Monday, October 6th 2014 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 2:35
+LEFT ON BASE- Braves: 3  Dodgers: 5
+DOUBLE PLAYS- Braves: 0  Dodgers: 1
+ERRORS- S.Schumaker
+DOUBLES- J.Gomes(1st), C.Headley(1st), E.Encarnacion(2nd)
+RBIs- A.Rodriguez(1st), S.Schumaker(1st), J.Nix(1st)
+CAUGHT STEALING- S.Schumaker
+SACRIFICE FLIES- J.Nix
+WALKS- E.Encarnacion
+STRIKE OUTS- A.Hicks, J.Gomes, J.Hamilton, E.Gattis, B.McCann, D.Nava-2,
+             Y.Puig-2, A.Rodriguez-2, A.Ethier, M.Kawasaki, R.Martin
+WILD PITCHES- D.Carpenter
+2-out RBI- A.Rodriguez, S.Schumaker
+RLISP 2-out- A.Ethier, E.Gattis, A.Rodriguez, J.Hamilton
+
+Hyun-Jin Ryu delivered 7 solid innings at Dodger Stadium as the Los
+Angeles(NL) Dodgers beat the Atlanta Braves by the count of 3 to 0.
+
+Los Angeles(NL) jumped out to the early lead in the first inning plating an
+isolated run using 3 hits.  That was all the offense they were to need.  For
+the game Los Angeles(NL) out-hit Atlanta 8 to 4.  
+
+Ryu(1-0) went 7 innings allowing no runs for the win. Kenley Jansen preserved
+the game for Ryu, recording his his 1st save.  Julio Teheran(0-1) was the
+loser.  
+
+[2]
+[1]SCORESHEET: 2014 Atlanta Braves at 2014 Los Angeles(NL) Dodgers
+O.Infant-A1  A1:G/43    B1:F/7     C1:G/53    D1:F/8
+                                              
+                                              
+A.Hicks-A1   A2:K       *4*:L/5    C2:F/7     D2:Si+E/4
+                                              
+                                              
+J.Gomes-A1   A3:F/7     B3:Do      *7*:K      D3:K
+J.Hamilt-D3                                   
+                                              
+F.Freema-A1  *2*:G/43   B4:L-DP/4  C4:G/3
+                        >2o        
+                                   
+C.Headle-A1  A5:G/43    *5*:Do     C5:G/63
+                                   
+                                   
+G.Stanto-A1  A6:Si      B6:F/8     *8*:G/13
+J.Dyson-C6                         
+                                   
+J.Heywar-A1  A7:F/9     B7:G/53    C7:F/9
+                                   
+                                   
+E.Gattis-A1  *3*:K      B8:G/43    C8:K
+B.McCann-C8                        
+                                   
+A.Simmon-A1  A9:G/3     *6*:L/6    *9*:P/3
+                                   
+                                   
+
+D.Nava-A1    A1:Si      *3*:K      *6*:L/4    D1:K
+                                              
+                                              
+S.Gennet-A1  A2:Si>12   B2:G/43    C2:Si      *8*:F/8
+E.Lucas-D2                                    
+J.Uribe-D6                                    
+Y.Puig-A1    A3:K       B3:K       C3:F/8     D3:G/53
+                                              
+                                              
+E.Encarn-A1  A4:F/7     *4*:G/63   C4:W>12 b  D4:Do
+                                   1          
+                                              
+A.Rodrig-A1  A5:Si>2#   B5:K       C5:K       D5:WP>23S
+S.Schuma-D5  13                               i>3# CS/2
+                                              6>1o
+A.Ethier-A1  A6:K       B6:F/8     *7*:Si
+                                   
+                                   
+M.Scutar-A1  *2*:L/5    *5*:G/53   C7:Si>13
+                                   
+                                   
+M.Kawasa-A1  A8:P/4     B8:K       C8:SF/7>3
+J.Nix-C8                           #
+                                   
+R.Martin-A1  A9:K       B9:F/8     C9:F/7
+                                   
+                                   
+
+

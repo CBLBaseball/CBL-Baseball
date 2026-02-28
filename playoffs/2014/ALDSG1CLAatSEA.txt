@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2014 Cleveland Indians At 2014 Seattle Mariners           10/3/2014
+
+[1]  Indians            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Kipnis DH         4  0  0  0 .000     J.Segura SS         3  1  0  0 .000  
+  M.Brantley LF       4  0  0  0 .000     D.Ackley 2B         3  0  0  0 .000  
+  S.Choo CF           3  1  0  0 .000     R.Raburn LF         2  0  1  0 .500  
+  C.Santana C         3  0  0  0 .000     R.Ibanez DH         3  0  0  1 .000  
+  D.Freese 3B         3  0  2  1 .667     N.Freiman 1B        2  0  1  0 .500  
+  A.Hill 2B           3  0  0  0 .000   A-M.Sierra PH         1  0  0  0 .000  
+  D.Young RF          2  0  0  0 .000   B-J.Smoak 1B          1  0  0  0 .000  
+E-C.Ross PH,RF        1  0  0  0 .000     A.Jones CF          3  0  0  0 .000  
+  L.Duda 1B           3  0  1  0 .333     M.Saunders RF       3  1  1  0 .333  
+  A.Cabrera SS        3  0  0  0 .000     M.Zunino C          2  0  0  0 .000  
+                                        C-B.Miller PH         1  0  0  0 .000  
+                                        D-G.Soto C            0  0  0  0 ----  
+                                          K.Seager 3B         3  0  1  1 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  3  1                 Totals      27  2  4  2
+
+A-Pinch Hit For Freiman In 6th Inning
+B-Subbed Defensively (1B) For Sierra In 7th Inning
+C-Pinch Hit For Zunino In 7th Inning
+D-Subbed Defensively (C ) For Miller In 8th Inning
+E-Pinch Hit For Young In 8th Inning
+
+Indians......... 0 0 0  0 0 0  1 0 0  -  1  3  0
+Mariners........ 0 0 0  0 0 1  1 0    -  2  4  0
+
+[1]Indians (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sabathia                   5 1/3   1   1   1   3   3   0   1.69  A1 C3
+M.Albers                     0 2/3   0   0   0   0   0   0   0.00  C4 C5
+N.Cotts LOSS(0-1)            1       2   1   1   0   1   0   9.00  C6 D1
+J.Blevins                    1       1   0   0   0   2   0   0.00  D2
+[1]Totals                    8       4   2   2   3   6   0
+
+[1]Mariners (1-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma WIN(1-0)           9       3   1   1   1   7   0   1.00  A1
+[1]Totals                    9       3   1   1   1   7   0
+
+ATTENDANCE- 47,659 DATE- Friday, October 3rd 2014 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 2:23
+LEFT ON BASE- Indians: 2  Mariners: 6
+DOUBLE PLAYS- Indians: 0  Mariners: 1
+DOUBLES- D.Freese(1st), R.Raburn(1st), N.Freiman(1st), M.Saunders(1st),
+         K.Seager(1st)
+RBIs- D.Freese(1st), R.Ibanez(1st), K.Seager(1st)
+SACRIFICE FLIES- R.Ibanez
+WALKS- S.Choo, J.Segura, D.Ackley, R.Raburn
+HIT BY PITCH- R.Raburn
+STRIKE OUTS- J.Kipnis-2, S.Choo, C.Santana, D.Freese, D.Young, L.Duda,
+             R.Ibanez-2, J.Smoak, A.Jones, M.Saunders, K.Seager
+GIDP- J.Kipnis
+2-out RBI- D.Freese, K.Seager
+RLISP 2-out- D.Young, M.Zunino, M.Sierra, A.Hill, J.Segura, J.Smoak
+
+Hisashi Iwakuma threw a 3 hitter as the Seattle Mariners defeated the
+Cleveland Indians 2 to 1 at SAFECO Field.
+
+In the bottom of the 7th inning Seattle scored 1 run.  After an out was
+recorded, Michael Saunders doubled.  One out later, Kyle Seager came up and
+he doubled.  The game was a scoreless duel until the 6th inning.  
+
+The victory was credited to Iwakuma(1-0) who went the distance, allowing 1
+run. Neal Cotts(0-1) absorbed the loss in relief.  He allowed 1 run and 2
+hits in 1 inning.  
+
+'I thought it was my best performance in a long time,' said Iwakuma. 'I had
+good command early in the game. I had my control and composure and everything
+went well.'
+[2]
+[1]SCORESHEET: 2014 Cleveland Indians at 2014 Seattle Mariners
+J.Kipnis-A1  A1:F/9     *4*:K      C1:G-DP/4  *9*:K
+                                   63>1o      
+                                              
+M.Brantl-A1  A2:F/7     B2:G/43    *7*:G/43   D2:P/6
+                                              
+                                              
+S.Choo-A1    A3:F/8     B3:K       C3:W>b1    D3:G/3
+                                              
+                                              
+C.Santan-A1  *2*:K      *5*:L/4    C4:G/3>12
+                                   
+                                   
+D.Freese-A1  A5:K       B5:Si      C5:Do>2#
+                                   
+                                   
+A.Hill-A1    A6:L/6     B6:G/3>12  C6:L/5
+                                   
+                                   
+D.Young-A1   *3*:F/8    B7:K       *8*:F/9
+C.Ross-C7                          
+                                   
+L.Duda-A1    A8:L/3     *6*:Si     C8:K
+                                   
+                                   
+A.Cabrer-A1  A9:FO/2    B9:Force/  C9:L/4
+                        46>1o b1   
+                                   
+
+J.Segura-A1  A1:F/7     *4*:L/6    C1:W>b1    D1:G/31
+                                              
+                                              
+D.Ackley-A1  A2:L/4     B2:F/9     C2:W>12 b  *8*:G/13
+                                   1          
+                                              
+R.Raburn-A1  A3:F/8     B3:HBP     C3:W>23 1  D3:Do
+                                   2 b1       
+                                              
+R.Ibanez-A1  *2*:G/43   B4:K       C4:SF/8>3  D4:K
+                                   #          
+                                              
+N.Freima-A1  A5:G/63    *5*:Do     C5:G/43    D5:K
+M.Sierra-C5                                   
+J.Smoak-C6                                    
+A.Jones-A1   A6:F/8     B6:G/43>2  *7*:K
+                        3          
+                                   
+M.Saunde-A1  *3*:F/7    B7:K       C7:Do
+                                   
+                                   
+M.Zunino-A1  A8:G/63    B8:L/5     C8:G/23>2
+B.Miller-C8                        3
+G.Soto-D2                          
+K.Seager-A1  A9:L/4     *6*:K      C9:Do>3#
+                                   
+                                   
+
+

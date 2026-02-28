@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2014 Los Angeles(NL) Dodgers At 2014 Los Angeles(AL) Ang 10/23/2014
+
+[1]  Dodgers            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  D.Nava LF           5  0  2  0 .383     C.Gonzalez LF       2  1  0  0 .382  
+  S.Gennett 2B        3  0  0  0 .478   C-S.Rodriguez PH,LF,2 2  0  0  0 .091  
+  E.Encarnacion 1B    4  1  0  0 .205     K.Calhoun RF        3  1  1  0 .211  
+  A.Ethier CF         3  1  1  0 .250   D-C.Culberson PH      1  0  0  0 .000  
+F-M.Kemp PH,CF        1  0  0  0 .125   E-M.Ozuna RF          0  0  0  0 .381  
+  Y.Puig RF           4  1  2  3 .179     M.Holliday DH       4  1  2  2 .188  
+  A.Rodriguez 3B      4  2  2  1 .250     C.Davis 1B          4  2  2  2 .267  
+  M.Scutaro DH        4  0  1  1 .304     C.Johnson 3B        4  0  1  1 .244  
+  M.Kawasaki SS       1  0  0  0 .190   I-W.Ramirez LF        0  0  0  0 .200  
+A-E.Lucas PH,SS       0  0  0  0 .200     A.Callaspo 2B,3B    3  0  2  1 .268  
+G-S.Schumaker PH      1  0  0  0 .100     E.Aybar SS          4  1  1  0 .273  
+H-J.Nix SS            0  0  0  0 .500     A.Pierzynski C      2  0  0  0 .229  
+  R.Martin C          3  0  0  0 .200   B-H.Sanchez PH,C      1  0  0  0 .250  
+J-J.Uribe PH          1  0  0  0 .250     P.Bourjos CF        3  1  2  1 .267  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  8  5                 Totals      33  7 11  7
+
+A-Pinch Hit For Kawasaki In 6th Inning
+B-Pinch Hit For Pierzynski In 6th Inning
+C-Pinch Hit For Gonzalez In 6th Inning
+D-Pinch Hit For Calhoun In 6th Inning
+E-Subbed Defensively (RF) For Culberson In 7th Inning
+F-Pinch Hit For Ethier In 7th Inning
+G-Pinch Hit For Lucas In 8th Inning
+H-Subbed Defensively (SS) For Schumaker In 8th Inning
+I-Subbed Defensively (LF) For Johnson In 9th Inning
+J-Pinch Hit For Martin In 9th Inning
+
+Dodgers......... 0 0 0  4 0 0  0 1 0  -  5  8  0
+Angels.......... 0 0 1  0 5 0  1 0    -  7 11  0
+
+[1]Dodgers (8-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Kuroda LOSS(3-1)           5       9   6   6   1   3   0   3.26  A1 C7
+P.Rodriguez                  1 1/3   1   1   1   1   1   1   2.08  C8 D4
+J.Veras                      1 2/3   1   0   0   0   3   0   0.00  D5
+[1]Totals                    8      11   7   7   2   7   1
+
+[1]Angels (9-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Hernandez WIN(1-0)         5       5   4   4   3   2   1   7.20  A1 C5
+D.Oliver HOLD(1st)           1 1/3   1   0   0   1   0   0   0.00  C6 D2
+T.Watson HOLD(4th)           0 2/3   0   0   0   0   1   0   0.00  D3 D4
+A.Simon                      0 2/3   1   1   1   0   0   1   5.79  D5 D7
+K.Uehara SAVE(8th)           1 1/3   1   0   0   0   1   0   0.00  D8
+[1]Totals                    9       8   5   5   4   4   2
+
+ATTENDANCE- 42,588 DATE- Thursday, October 23rd 2014 TIME- Night 
+UMPIRES- Paul Nauert, Dana Demuth, Kerwin Danley, Doug Eddings
+T- 2:47
+LEFT ON BASE- Dodgers: 7  Angels: 6
+DOUBLE PLAYS- Dodgers: 0  Angels: 0
+DOUBLES- Y.Puig(4th), M.Scutaro(4th), C.Johnson(2nd), P.Bourjos(1st)
+HOME RUNS- Y.Puig(1st), A.Rodriguez(1st), C.Davis(7th)
+RBIs- Y.Puig-3(7th), A.Rodriguez(3rd), M.Scutaro(2nd), M.Holliday-2(7th),
+      C.Davis-2(11th), C.Johnson(3rd), A.Callaspo(2nd), P.Bourjos(1st)
+STOLEN BASES- S.Gennett(1st)
+SACRIFICE HITS- S.Gennett, P.Bourjos
+SACRIFICE FLIES- A.Callaspo
+WALKS- S.Gennett, E.Encarnacion, M.Kawasaki, E.Lucas, C.Gonzalez, H.Sanchez
+STRIKE OUTS- S.Gennett, E.Encarnacion, A.Rodriguez, S.Schumaker, S.Rodriguez-2,
+             K.Calhoun, C.Johnson-2, E.Aybar, P.Bourjos
+WILD PITCHES- H.Kuroda
+2-out RBI- Y.Puig-3, M.Scutaro
+RLISP 2-out- K.Calhoun, R.Martin-2, E.Aybar-2, A.Ethier, C.Culberson, M.Kemp
+WEB GEMS- Top 3rd: Erick Aybar robbed Munenori Kawasaki of a base hit.
+          Bot 3rd: Scooter Gennett robbed Carlos Gonzalez of a base hit.
+
+Chris Davis slammed a homerun and had 2 RBI at Angels Stadium as the Los
+Angeles(AL) Angels beat the Los Angeles(NL) Dodgers 7 to 5.
+
+Los Angeles(AL) scored 5 runs in the decisive 5th inning when they came up
+with 5 base hits.  The crucial at-bat was provided by Matt Holliday who
+brought the crowd to their feet when he laced a single which was good for two
+runs.  Los Angeles(AL) out-hit Los Angeles(NL) for the game, 11 hits to 8.
+
+Roberto Hernandez(1-0) got credit for the victory, pitching 5 innings and
+allowing 4 runs. Koji Uehara earned his 8th save.  Hiroki Kuroda(3-1)
+absorbed the loss.  He allowed Los Angeles(AL) 6 runs in 5 innings of work.
+
+'I didn't have my best stuff but sometimes you just get lucky,' Hernandez
+said, 'this was one of those times.'
+[2]
+[1]SCORESHEET: 2014 Los Angeles(NL) Dodgers at 2014 Los Angeles(AL) Angels
+D.Nava-A1    A1:L/4     *4*:G/31   *5*:F/9    *7*:Si     E1:Si
+                                                         
+                                                         
+S.Gennet-A1  A2:K       B2:L/6     C2:W>b1    D2:Sac/24  E2:F/9
+                                              >12        
+                                                         
+E.Encarn-A1  A3:F/7     B3:W>b1    C3:SB>12   D3:K       E3:F/9
+                                   G/53                  
+                                                         
+A.Ethier-A1  *2*:G/53   B4:Si>12   C4:P/5     D4:F/9
+M.Kemp-D4                                     
+                                              
+Y.Puig-A1    A5:F/9     B5:HR>2#   *6*:Do     *8*:F/7
+                        1# b#                 
+                                              
+A.Rodrig-A1  A6:K       B6:Si      C6:F/8     D6:HR>b#
+                                              
+                                              
+M.Scutar-A1  *3*:G/63   B7:Do>1#   C7:F/8     D7:G/63
+                                              
+                                              
+M.Kawasa-A1  A8:G/63    B8:IW>b1   C8:IW>b1   D8:K
+E.Lucas-C8                                    
+S.Schuma-D8+                                  
+R.Martin-A1  A9:G/63    B9:L/6     C9:G/13    *9*:F/8
+J.Uribe-D9                                    
+                                              
+
+C.Gonzal-A1  A1:F/7     B1:G/43>2  C1:W>12 b  D1:K       E1:K
+S.Rodrig-D1             3          1                     
+                                                         
+K.Calhou-A1  A2:K       B2:L/4     C2:Si>23   D2:F/8
+C.Culber-D2                        12         
+M.Ozuna-D3                                    
+M.Hollid-A1  A3:G/53    *4*:Si     C3:Si>3#   *7*:G/43
+                                   2# 12      
+                                              
+C.Davis-A1   *2*:G/3    B4:Force/  C4:Si>2#   D4:HR>b#
+                        46>1o b1   13         
+                                              
+C.Johnso-A1  A5:K       B5:Force/  C5:Do>3#   D5:K
+W.Ramire-E2             26>1o b1   13         
+                                              
+A.Callas-A1  A6:L/3     B6:Si>12   C6:SF/7>3  D6:Si
+                                   #          
+                                              
+E.Aybar-A1   *3*:Si     B7:K       C7:WP>23   D7:F/8
+                                   G/13       
+                                              
+A.Pierzy-A1  A8:G/3>12  *5*:F/7    *6*:W>b1   *8*:F/8
+H.Sanche-C8                                   
+                                              
+P.Bourjo-A1  A9:Do>2#   B9:Si      C9:Sac/14  D9:K
+                                   >12        
+                                              
+
+

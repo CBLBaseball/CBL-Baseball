@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2014 Los Angeles(NL) Dodgers At 2014 Los Angeles(AL) Ang 10/24/2014
+
+[1]  Dodgers            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  M.Scutaro 2B        6  1  3  1 .327     M.Ozuna CF,RF,CF    4  0  0  0 .320  
+  D.Nava LF           4  2  3  0 .412     C.Johnson 3B        4  2  1  0 .244  
+  E.Encarnacion 1B    5  0  0  0 .182     C.Gonzalez LF,CF    3  0  2  2 .405  
+  Y.Puig RF           3  3  3  4 .238   H-W.Ramirez PH,RF     1  0  0  0 .167  
+  S.Van Slyke DH      3  0  0  0 .308     M.Holliday DH       4  1  1  0 .192  
+  A.Rodriguez 3B      3  1  1  1 .263     C.Davis 1B          3  0  0  0 .250  
+B-E.Lucas PH,3B       1  0  0  0 .167     E.Aybar SS          4  0  1  2 .271  
+E-J.Uribe PH,3B       1  0  1  2 .276     A.Pierzynski C      4  0  0  0 .205  
+  M.Kemp CF           4  1  0  0 .100     K.Calhoun RF        1  0  0  0 .200  
+  R.Martin C          4  0  1  0 .205   A-M.Trumbo PH,RF      1  0  0  0 .190  
+F-A.Ethier PH         1  0  0  0 .243   C-C.Culberson PH,LF   1  0  0  0 .000  
+G-A.Ellis C           0  0  0  0 .000   I-W.Rodriguez PH      1  0  0  0 .000  
+  J.Nix SS            3  0  1  0 .455     A.Callaspo 2B       3  1  2  0 .295  
+D-M.Kawasaki PH,SS    2  0  0  0 .174                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  8 13  8                 Totals      34  4  7  4
+
+A-Pinch Hit For Calhoun In 5th Inning
+B-Pinch Hit For Rodriguez In 6th Inning
+C-Pinch Hit For Trumbo In 6th Inning
+D-Pinch Hit For Nix In 7th Inning
+E-Pinch Hit For Lucas In 8th Inning
+F-Pinch Hit For Martin In 8th Inning
+G-Subbed Defensively (C ) For Ethier In 8th Inning
+H-Pinch Hit For Gonzalez In 8th Inning
+I-Pinch Hit For Culberson In 9th Inning
+
+Dodgers......... 0 1 2  0 1 2  0 2 0  -  8 13  1
+Angels.......... 0 0 2  0 0 2  0 0 0  -  4  7  1
+
+[1]Dodgers (9-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu WIN(2-0)               5 1/3   5   4   2   1   5   0   2.89  A1 C5
+J.Veras HOLD(2nd)            1 2/3   2   0   0   0   3   0   0.00  C6 D2
+P.Rodriguez                  1       0   0   0   0   1   0   1.69  D3 D5
+K.Jansen                     1       0   0   0   0   2   0   4.00  D6
+[1]Totals                    9       7   4   2   1  11   0
+
+[1]Angels (9-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver LOSS(0-2)           5 2/3   9   6   6   1   2   3   4.34  A1 D2
+T.Watson                     0       1   0   0   2   0   0   0.00  D3 D5
+J.Collmenter                 1 2/3   2   2   2   1   2   0   5.40  D6 E5
+A.Simon                      0 1/3   1   0   0   0   1   0   5.40  E6 E7
+L.Avilan                     1 1/3   0   0   0   1   1   0   3.86  E8
+[1]Totals                    9      13   8   8   5   6   3
+
+ATTENDANCE- 44,974 DATE- Friday, October 24th 2014 TIME- Night 
+UMPIRES- Tim McClelland, Ted Barrett, Brian Runge, Marvin Hudson
+T- 3:19
+LEFT ON BASE- Dodgers:13  Angels: 4
+DOUBLE PLAYS- Dodgers: 1  Angels: 1
+ERRORS- A.Rodriguez, C.Davis
+DOUBLES- J.Uribe(2nd), R.Martin(3rd), C.Gonzalez(5th), M.Holliday(2nd),
+         E.Aybar(2nd)
+HOME RUNS- Y.Puig-2(3rd), A.Rodriguez(2nd)
+RBIs- M.Scutaro(3rd), Y.Puig-4(11th), A.Rodriguez(4th), J.Uribe-2(5th),
+      C.Gonzalez-2(6th), E.Aybar-2(6th)
+STOLEN BASES- M.Kemp(1st)
+WALKS- D.Nava, E.Encarnacion, Y.Puig, S.Van Slyke-2, C.Davis
+HIT BY PITCH- D.Nava, Y.Puig, M.Kemp
+STRIKE OUTS- M.Scutaro, E.Encarnacion, M.Kemp-3, R.Martin, M.Ozuna, C.Johnson-2,
+             M.Holliday, C.Davis-2, E.Aybar, A.Pierzynski-2, C.Culberson,
+             W.Rodriguez
+GIDP- S.Van Slyke, M.Ozuna
+2-out RBI- M.Scutaro, A.Rodriguez, C.Gonzalez-2, Y.Puig-2
+RLISP 2-out- D.Nava, M.Holliday, E.Encarnacion, E.Lucas-2, C.Culberson-2,
+             M.Scutaro, A.Ethier-2
+
+Yasiel Puig ripped 2 homeruns and had 4 RBI at Angels Stadium where the Los
+Angeles(NL) Dodgers beat the Los Angeles(AL) Angels by the score of 8 to
+4.
+
+Puig was a thorn in the side of the hometown fans as he enjoyed a fine day at
+their team's expense.  He ripped a solo home run in the 3rd inning, blasted a
+solo shot in the 5th inning and laced a one-base hit plating two runs in the
+6th inning.  For the game Los Angeles(NL) out-hit Los Angeles(AL) 13 to 7.
+
+Hyun-Jin Ryu(2-0) allowed 4 runs in 5 and 1/3 innings, and picked up the
+victory. Jered Weaver(0-2) was the loser.  He allowed 3 homeruns in 5 and 2/3
+innings of work.  
+
+'We really needed this win' said Don Mattingly.  'That first drink of water at
+the end of a drought sure does taste good!'
+[2]
+[1]SCORESHEET: 2014 Los Angeles(NL) Dodgers at 2014 Los Angeles(AL) Angels
+M.Scutar-A1  A1:E/3>b2  B1:Si>3#   C1:Si      D1:Si      E1:K       F1:G/43
+                        13                                          
+                                                                    
+D.Nava-A1    A2:HBP     B2:L/4     C2:Si>13   D2:Si>12   *8*:Si     F2:W>b1
+                                                                    
+                                                                    
+E.Encarn-A1  A3:G/43>2  *3*:G/53   C3:F/8     D3:W>23 1  E3:F/8     F3:K
+             3 12                             2 b1                  
+                                                                    
+Y.Puig-A1    A4:IW>b1   B4:HR>b#   *5*:HR>b#  D4:Si>3#   E4:HBP>12
+                                              2# 13      
+                                                         
+S.Van Sl-A1  A5:G-DP/1  B5:L/6     C5:L/6     D5:W>12 b  E5:W>23 1
+             23>3o                            1          2 b1
+                                                         
+A.Rodrig-A1  *2*:F/9    B6:HR>b#   C6:G/63    D6:G/63    E6:Do>3#
+E.Lucas-D6                                               2# 13
+J.Uribe-E6                                               
+M.Kemp-A1    A7:HBP     B7:K       C7:G/63    *7*:K      E7:K
+                                                         
+                                                         
+R.Martin-A1  A8:SB>12   *4*:F/8    *6*:G/53   D8:Do      E8:G/43
+A.Ethier-E8  K                                           
+A.Ellis-E9                                               
+J.Nix-A1     A9:Si>23   B9:L/5     C9:G/13    D9:G/43>2  *9*:G/53
+M.Kawasa-D9                                   3          
+                                                         
+
+M.Ozuna-A1   A1:G/43    B1:F/7     C1:K       D1:G-DP/6
+                                              43>1o
+                                              
+C.Johnso-A1  A2:K       B2:E/5>12  *6*:Si     D2:K
+                                              
+                                              
+C.Gonzal-A1  A3:Si      B3:Do>2#   C3:F/9     *8*:G/43
+W.Ramire-D3             1#                    
+                                              
+M.Hollid-A1  A4:G/63    B4:K       C4:Do>13   D4:F/7
+                                              
+                                              
+C.Davis-A1   *2*:L/4    *4*:K      C5:W>b1    D5:K
+                                              
+                                              
+E.Aybar-A1   A6:K       B6:G/53    C6:Do>3#   *9*:L/4
+                                   2# 13      
+                                              
+A.Pierzy-A1  A7:G/43    B7:G/31    C7:K       D7:K
+                                              
+                                              
+K.Calhou-A1  *3*:L/4    *5*:F/9    C8:K       D8:K
+M.Trumbo-B8                                   
+C.Culber-C8+                                  
+A.Callas-A1  A9:Si      B9:L/5     *7*:Si
+                                   
+                                   
+
+

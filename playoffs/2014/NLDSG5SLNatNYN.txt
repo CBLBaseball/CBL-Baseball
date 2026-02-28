@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2014 St. Louis Cardinals At 2014 New York (NL) Mets       10/8/2014
+
+[1]  Cardinals          AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Carpenter 2B      4  0  1  0 .118     S.Victorino RF      4  0  1  0 .455  
+  B.Zobrist RF        1  0  0  0 .105     J.Satin DH          2  1  0  0 .000  
+  M.Cabrera 3B        4  0  0  0 .238     D.Wright 3B         4  0  1  0 .273  
+  M.Adams 1B          3  0  1  0 .417     D.Murphy 2B         3  0  1  0 .286  
+C-D.Robinson PR       0  0  0  0 .000   A-L.Forsythe 2B       1  0  0  0 .000  
+D-L.Overbay 1B        0  0  0  0 .000     M.Byrd LF           1  0  0  1 .278  
+  Y.Molina C          4  0  2  0 .286   B-J.Lagares CF        1  0  0  0 .000  
+  J.Lowrie DH         4  0  0  0 .111     J.Loney 1B          4  0  0  0 .182  
+  S.Robinson LF       4  0  2  0 .400     J.Ruggiano CF,LF    1  0  0  0 .067  
+  J.Jay CF            4  0  1  0 .333     B.Crawford SS       2  0  0  0 .158  
+  P.Kozma SS          3  0  1  0 .267     R.Doumit C          3  1  1  1 .167  
+E-G.Laird PH          1  0  0  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  0  8  0                 Totals      26  2  4  2
+
+A-Subbed Defensively (2B) For Murphy In 8th Inning
+B-Subbed Defensively (CF) For Byrd In 8th Inning
+C-Pinch Ran For Adams In 8th Inning
+D-Subbed Defensively (1B) For Robinson In 8th Inning
+E-Pinch Hit For Kozma In 9th Inning
+
+Cardinals....... 0 0 0  0 0 0  0 0 0  -  0  8  0
+Mets............ 0 0 0  1 1 0  0 0    -  2  4  0
+
+[1]Cardinals (2-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wainwright LOSS(1-1)       8       4   2   2   5   6   1   2.12  A1
+[1]Totals                    8       4   2   2   5   6   1
+
+[1]Mets (3-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon WIN(1-1)             8 1/3   8   0   0   4   4   0   1.93  A1 D8
+B.Parnell SAVE(2nd)          0 2/3   0   0   0   0   0   0   3.00  D9
+[1]Totals                    9       8   0   0   4   4   0
+
+ATTENDANCE- 39,180 DATE- Wednesday, October 8th 2014 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:39
+LEFT ON BASE- Cardinals: 9  Mets: 7
+DOUBLE PLAYS- Cardinals: 0  Mets: 2
+DOUBLES- Y.Molina(2nd)
+HOME RUNS- R.Doumit(1st)
+RBIs- M.Byrd(9th), R.Doumit(1st)
+CAUGHT STEALING- D.Robinson
+SACRIFICE HITS- B.Crawford
+SACRIFICE FLIES- M.Byrd
+WALKS- B.Zobrist-3, M.Adams, J.Satin-2, M.Byrd, J.Ruggiano-2
+STRIKE OUTS- M.Carpenter, M.Adams, J.Lowrie-2, S.Victorino, J.Satin, D.Wright,
+             L.Forsythe, J.Loney-2
+GIDP- J.Jay, G.Laird
+WILD PITCHES- B.Colon
+2-out RBI- R.Doumit
+RLISP 2-out- Y.Molina, S.Victorino, S.Robinson, M.Cabrera, D.Murphy-2, J.Jay-2,
+             R.Doumit
+
+At Citi Field, the New York (NL) fans witnessed a great pitcher's duel.
+Bartolo Colon(1-1) finally bested his St. Louis opposite, Adam
+Wainwright(1-1), by the score of 2 to 0.
+
+St. Louis never recovered after New York (NL) took the lead in the bottom of
+the 4th inning scoring one runner.  St. Louis threatened in the 9th but their
+rally came up short.  
+
+Bobby Parnell earned his 2nd save.  Wainwright suffered the loss.  Terry
+Collins was beaming after the game, 'Not only were we making good contact,
+but a lot of balls we hit seemed to have 'eyes'! I just love winning these
+tight ones! It was just our evening - no doubt about it!'
+[2]
+[1]SCORESHEET: 2014 St. Louis Cardinals at 2014 New York (NL) Mets
+M.Carpen-A1  A1:Si      B1:G/43    C1:G/43>1  D1:K
+                                   2          
+                                              
+B.Zobris-A1  A2:W>12 b  B2:W>b1    C2:W>b1    D2:F/7
+             1                                
+                                              
+M.Cabrer-A1  A3:Force/  B3:G/63    C3:F/9     *8*:G/63
+             46>23 1o                         
+             b1                               
+M.Adams-A1   A4:K       *4*:G/31   *6*:W>b1   D4:Si
+D.Robins-D5                                   
+L.Overba-D6                                   
+Y.Molina-A1  A5:P/4     B5:Do      C5:Si>12   D5:CS/24>
+                                              1o L/4
+                                              
+J.Lowrie-A1  *2*:K      B6:F/9     C6:K       *9*:G/53
+                                              
+                                              
+S.Robins-A1  A7:Si      B7:F/9     C7:F/8     D7:Si
+                                              
+                                              
+J.Jay-A1     A8:G-DP/4  *5*:G/13   C8:WP>23   D8:Si>13
+             63>1o                 12 G/63    
+                                              
+P.Kozma-A1   *3*:F/9    B9:Si      *7*:P/5    D9:G-DP/4
+G.Laird-D9                                    63>1o
+                                              
+
+S.Victor-A1  A1:F/8     B1:K       C1:Si      *7*:G/63
+                                              
+                                              
+J.Satin-A1   A2:K       *4*:W>b1   C2:W>12 b  D2:F/7
+                                   1          
+                                              
+D.Wright-A1  A3:F/8     B3:F/9     C3:Si>23   D3:K
+                                   12         
+                                              
+D.Murphy-A1  *2*:L/4    B4:Si>13   C4:G/3     *8*:K
+L.Forsyt-D4                                   
+                                              
+M.Byrd-A1    A5:G/63    B5:SF/8>3  *6*:W>b1   D5:F/7
+J.Lagare-D4             #                     
+                                              
+J.Loney-A1   A6:F/8     B6:K       C6:K       D6:L/4
+                                              
+                                              
+J.Ruggia-A1  *3*:W>b1   *5*:F/9    C7:W>12 b
+                                   1
+                                   
+B.Crawfo-A1  A8:Sac/34  B8:G/63    C8:L/4
+             >12                   
+                                   
+R.Doumit-A1  A9:FO/2    B9:HR>b#   C9:Force/
+                                   46>1o b1
+                                   
+
+

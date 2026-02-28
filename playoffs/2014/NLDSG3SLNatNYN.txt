@@ -1,0 +1,201 @@
+[1]BOXSCORE: 2014 St. Louis Cardinals At 2014 New York (NL) Mets       10/6/2014
+
+[1]  Cardinals          AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Carpenter 2B      4  1  0  0 .100     S.Victorino RF      5  0  1  0 .500  
+  B.Zobrist RF        6  0  1  0 .143     D.Murphy 2B         6  1  1  0 .214  
+  M.Cabrera 3B        5  0  0  1 .250     J.Loney 1B          5  1  1  0 .214  
+  M.Adams 1B          3  1  2  1 .333     M.Byrd DH           6  0  1  1 .385  
+C-L.Overbay PH        0  0  0  0 .000     D.Navarro C         5  1  2  1 .400  
+D-K.Frandsen PH,1B    2  0  0  0 .000     B.Wallace 3B        5  1  0  0 .000  
+  Y.Molina C          5  1  3  1 .333   E-D.Wright 3B         0  0  0  0 .286  
+  J.Jay CF            5  0  1  0 .231     B.Crawford SS       5  1  3  3 .231  
+  J.Lowrie DH         5  0  1  1 .182     J.Ruggiano CF,LF    5  0  1  0 .100  
+  R.Grossman LF       3  1  1  0 .250     E.Young Jr LF       1  0  0  0 .000  
+  P.Kozma SS          3  0  0  0 .250   A-J.Satin PH          1  0  0  0 .000  
+                                        B-J.Lagares CF        2  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  4  9  4                 Totals      46  5 10  5
+
+A-Pinch Hit For Young Jr In 7th Inning
+B-Subbed Defensively (CF) For Satin In 8th Inning
+C-Pinch Hit For Adams In 9th Inning
+D-Pinch Hit For Overbay In 9th Inning
+E-Subbed Defensively (3B) For Wallace In 13th Inning
+
+Cardinals....... 0 1 0  1 0 0  2 0 0  0 0 0  0 -  4  9  1
+Mets............ 0 0 0  1 0 2  0 0 1  0 0 0  1 -  5 10  1
+
+[1]Cardinals (1-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kluber                     5 2/3   7   3   3   1   6   1   4.76  A1 C7
+J.Kelly                      0 1/3   0   0   0   0   0   0   0.00  C8 C8
+M.Wacha HOLD(1st)            2       0   0   0   0   4   0   0.00  C9 D5
+T.Rosenthal BS(1st)          1 2/3   1   1   1   1   2   1   5.40  D6 E3
+S.Maness LOSS(0-1)           2 2/3   2   1   1   0   1   0   3.38  E4
+[1]Totals                   12 1/3  10   5   5   2  13   2
+
+[1]Mets (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Parker                     6 1/3   5   3   2   2   2   1   2.84  A1 C9
+L.Hawkins                    0       0   1   1   2   0   0   3.86  D1 D2
+C.Fien BS(1st)               0 2/3   1   0   0   1   0   0   0.00  D3 D6
+C.Qualls                     1 1/3   1   0   0   1   0   0   0.00  D7 E3
+S.Rice                       0 1/3   0   0   0   0   0   0   0.00  E4 E4
+J.Grilli                     3       1   0   0   1   2   0   0.00  E5 F5
+B.Parnell WIN(1-0)           1 1/3   1   0   0   1   0   0   3.86  F6
+[1]Totals                   13       9   4   3   8   4   1
+
+ATTENDANCE- 39,094 DATE- Monday, October 6th 2014 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 4:44
+LEFT ON BASE- Cardinals:13  Mets: 6
+DOUBLE PLAYS- Cardinals: 0  Mets: 0
+ERRORS- M.Carpenter, D.Murphy
+DOUBLES- M.Adams(1st), R.Grossman(1st), M.Byrd(2nd), B.Crawford(1st),
+         J.Ruggiano(1st)
+TRIPLES- Y.Molina(1st)
+HOME RUNS- M.Adams(1st), D.Navarro(1st), B.Crawford(1st)
+RBIs- M.Cabrera(3rd), M.Adams(1st), Y.Molina(2nd), J.Lowrie(1st), M.Byrd(8th),
+      D.Navarro(1st), B.Crawford-3(3rd)
+STOLEN BASES- R.Grossman(2nd)
+CAUGHT STEALING- R.Grossman
+SACRIFICE HITS- J.Jay, R.Grossman, P.Kozma-3, E.Young Jr
+SACRIFICE FLIES- M.Cabrera, J.Lowrie
+WALKS- M.Carpenter-3, B.Zobrist, M.Adams, Y.Molina, R.Grossman-2, S.Victorino,
+       J.Loney
+STRIKE OUTS- M.Carpenter, M.Cabrera, R.Grossman-2, S.Victorino-3, J.Loney,
+             M.Byrd-3, D.Navarro-2, B.Wallace-3, J.Satin
+2-out RBI- D.Navarro, B.Crawford-2, Y.Molina
+RLISP 2-out- R.Grossman-2, D.Murphy-2, M.Cabrera, J.Lowrie, J.Ruggiano, J.Jay-3,
+             B.Zobrist-2
+WEB GEMS- Bot 5th: Jon Jay robbed Eric Young Jr of an extra base hit.
+          Bot 6th: Pete Kozma robbed Brett Wallace of a base hit.
+          Top 12th: Brett Wallace robbed Jon Jay of a base hit.
+
+Brandon Crawford cracked a homer and had 3 RBI at Citi Field where the New
+York (NL) Mets beat the St. Louis Cardinals in 13 innings 5 to 4.
+
+The score was tied at 4 after nine.  New York (NL) won it in the 13th inning.
+Daniel Murphy slapped a base-hit.  After an out was recorded, Marlon Byrd
+came up and he doubled making New York (NL) the victor and beginning a joyous
+home town celebration.  New York (NL) managed 10 hits in their victory.
+
+Bobby Parnell(1-0) got the win allowing no runs in 1 and 1/3 innings. Seth
+Maness(0-1) suffered the loss in relief.  He gave up 1 run and 2 hits in 2
+and 2/3 innings.
+[2]
+[1]SCORESHEET: 2014 St. Louis Cardinals at 2014 New York (NL) Mets
+M.Carpen-A1  A1:F/8     B1:L/3     C1:E/4     D1:IW>b1   E1:IW>b1   F1:K
+                                                                    
+                                                                    
+B.Zobris-A1  A2:G/63    B2:Si      C2:F/8>12  D2:W>12 b  E2:G/43    F2:G/43
+                                              1                     
+                                                                    
+M.Cabrer-A1  A3:L/5     B3:L/6     C3:G/31    D3:SF/8>3  *9*:G/43   *12*:K
+                                              # 23 12               
+                                                                    
+M.Adams-A1   *2*:L/4    *4*:HR>b#  *6*:Do     D4:IW>b1   E4:G/31    F4:F/8
+L.Overba-E4                                                         
+K.Frands-E4                                                         
+Y.Molina-A1  A5:W>b1    B5:Si      C5:G/63    D5:Si>3#   E5:G/63    F5:Tr
+                                              23 12                 
+                                                                    
+J.Jay-A1     A6:Si>12   B6:Sac/14  C6:L/4     D6:G/43    *10*:F/8   F6:G/53
+                        >12                                         
+                                                                    
+J.Lowrie-A1  A7:PB>23   B7:L/3     C7:F/7     *8*:P/6    E7:G/43    *13*:Si
+             12 SF/8>3                                              
+             #                                                      
+R.Grossm-A1  A8:K       B8:K       *7*:W>b1   D8:Do      E8:W>b1 C  F8:Sac/24
+                                                         S/24>1o    >12
+                                                                    
+P.Kozma-A1   *3*:G/43   *5*:G/43   C9:SB>12   D9:Sac/14  *11*:L/4   F9:Sac/14
+                                   Sac/34>23  >23                   >23
+                                                                    
+
+S.Victor-A1  A1:K       B1:W>b1    C1:Si>23   D1:K       *10*:K     F1:G/63
+                                                                    
+                                                                    
+D.Murphy-A1  A2:L/6     B2:G/31    C2:F/8     D2:G/53    E2:F/7     *13*:Si
+                                                                    
+                                                                    
+J.Loney-A1   A3:K       *4*:G/63   *6*:Si     *8*:L/4    E3:W>b1    F3:P/3
+                                                                    
+                                                                    
+M.Byrd-A1    *2*:K      B4:K       C4:P/2     D4:K       E4:G/43    F4:Do>1#
+                                                                    
+                                                                    
+D.Navarr-A1  A5:G/63    B5:HR>b#   C5:Si>12   D5:K       *11*:K
+                                                         
+                                                         
+B.Wallac-A1  A6:K       B6:K       C6:Force/  *9*:K      E6:G/31
+D.Wright-F2                        64>23 1o              
+                                   b1                    
+B.Crawfo-A1  *3*:Si     *5*:G/63   C7:Do>3#   D7:HR>b#   E7:G/13
+                                   1#                    
+                                                         
+J.Ruggia-A1  A8:E/4     B8:Do      C8:F/9     D8:F/7     *12*:G/53
+                                                         
+                                                         
+E.Young -A1  A9:Sac/24  B9:F/8     *7*:K      D9:L/6     E9:F/9
+J.Satin-C9   >12                                         
+J.Lagare-D3                                              
+
+
+[2]
+[1]SCORESHEET: 2014 St. Louis Cardinals at 2014 New York (NL) Mets
+M.Carpen-A1  G1:IW>b1
+             
+             
+B.Zobris-A1  G2:L/4
+             
+             
+M.Cabrer-A1
+
+
+M.Adams-A1
+L.Overba-E4
+K.Frands-E4
+Y.Molina-A1
+
+
+J.Jay-A1
+
+
+J.Lowrie-A1
+
+
+R.Grossm-A1
+
+
+P.Kozma-A1
+
+
+
+S.Victor-A1
+
+
+D.Murphy-A1
+
+
+J.Loney-A1
+
+
+M.Byrd-A1
+
+
+D.Navarr-A1
+
+
+B.Wallac-A1
+D.Wright-F2
+
+B.Crawfo-A1
+
+
+J.Ruggia-A1
+
+
+E.Young -A1
+J.Satin-C9
+J.Lagare-D3
+
+

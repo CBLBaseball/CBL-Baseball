@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2014 New York (NL) Mets At 2014 St. Louis Cardinals      10/11/2014
+
+[1]  Mets               AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  S.Victorino RF      6  1  3  2 .424     M.Carpenter 2B      4  0  3  0 .200  
+  D.Murphy 2B         5  1  3  2 .310     B.Zobrist RF        4  0  1  0 .222  
+B-L.Forsythe 2B       1  0  0  0 .000     M.Cabrera 3B        3  0  0  0 .214  
+  M.Byrd DH           4  2  1  2 .269     J.Jay CF            3  0  0  0 .286  
+  J.Loney 1B          4  1  2  1 .241     Y.Molina C          3  0  0  0 .250  
+  D.Wright 3B         4  0  0  0 .211     J.Lowrie SS         4  0  0  0 .115  
+  D.Navarro C         3  1  3  0 .583     L.Overbay 1B        2  0  0  0 .000  
+A-J.Satin PH          1  0  0  0 .000     M.Derosa DH         3  0  0  0 .000  
+C-R.Doumit C          1  0  0  1 .188     D.Robinson LF       3  0  0  0 .000  
+  B.Crawford SS       4  2  3  1 .259                                          
+  J.Lagares CF        5  1  1  1 .077                                          
+  E.Young Jr LF       3  1  1  0 .083                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 10 17 10                 Totals      29  0  4  0
+
+A-Pinch Hit For Navarro In 7th Inning
+B-Subbed Defensively (2B) For Murphy In 7th Inning
+C-Subbed Defensively (C ) For Satin In 7th Inning
+
+Mets............ 2 0 1  3 0 1  1 2 0  - 10 17  0
+Cardinals....... 0 0 0  0 0 0  0 0 0  -  0  4  1
+
+[1]Mets (4-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Parker WIN(1-0)            6 1/3   4   0   0   3   5   0   1.42  A1 C6
+C.Qualls                     1 2/3   0   0   0   0   0   0   2.84  C7 D2
+J.Grilli                     1       0   0   0   0   2   0   0.00  D3
+[1]Totals                    9       4   0   0   3   7   0
+
+[1]Cardinals (3-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kluber LOSS(0-1)           5 1/3  13   7   7   1   8   1   8.18  A1 D2
+T.Scheppers                  1 1/3   2   1   1   2   3   0   3.86  D3 E1
+J.Kelly                      2 1/3   2   2   2   1   1   0   6.75  E2
+[1]Totals                    9      17  10  10   4  12   1
+
+ATTENDANCE- 43,784 DATE- Saturday, October 11th 2014 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 3:23
+LEFT ON BASE- Mets:11  Cardinals: 6
+DOUBLE PLAYS- Mets: 2  Cardinals: 1
+ERRORS- J.Kelly
+DOUBLES- S.Victorino(1st), M.Carpenter(1st)
+TRIPLES- S.Victorino(1st)
+HOME RUNS- M.Byrd(4th)
+RBIs- S.Victorino-2(4th), D.Murphy-2(2nd), M.Byrd-2(11th), J.Loney(4th),
+      R.Doumit(3rd), B.Crawford(4th), J.Lagares(1st)
+SACRIFICE HITS- D.Wright, B.Crawford, E.Young Jr
+WALKS- M.Byrd-2, J.Loney, E.Young Jr, M.Cabrera, Y.Molina, L.Overbay
+HIT BY PITCH- J.Jay
+STRIKE OUTS- S.Victorino, D.Murphy, M.Byrd, J.Loney-2, D.Wright-3, B.Crawford,
+             J.Lagares-2, E.Young Jr, B.Zobrist, M.Cabrera, J.Jay, Y.Molina,
+             J.Lowrie, L.Overbay, M.Derosa
+GIDP- D.Wright, M.Cabrera, J.Jay
+WILD PITCHES- J.Parker
+2-out RBI- D.Murphy-2, S.Victorino, B.Crawford
+RLISP 2-out- J.Jay, E.Young Jr-2, D.Wright-2, D.Murphy, M.Derosa
+
+Shane Victorino collected 2 extra-base hits and had 2 RBI at Busch Stadium as
+the New York (NL) Mets belted the St. Louis Cardinals by the count of 10 to
+0.
+
+Jarrod Parker(1-0) earned his pay with a solid performance for New York (NL).
+He was reached for 4 hits and 3 walks in 6 and 1/3 innings lowering his ERA
+from 2.84 to 1.42.  New York (NL) simply wore out the St. Louis pitching
+staff, scoring in 6 different innings.  
+
+Corey Kluber(0-1) was the loser. New York (NL) scored big getting 7 runs off
+him in 5 and 1/3 innings.
+[2]
+[1]SCORESHEET: 2014 New York (NL) Mets at 2014 St. Louis Cardinals
+S.Victor-A1  A1:P/6     *3*:Tr     C1:L/3     D1:Do>1#   E1:Si>2#   *9*:K
+                                                         13         
+                                                                    
+D.Murphy-A1  A2:Si      B2:K       C2:Si>3#   D2:Si>23   E2:G/43    F2:G/53
+L.Forsyt-E3                        2#                               
+                                                                    
+M.Byrd-A1    A3:HR>1#   B3:W>b1    C3:L/6     D3:K       *8*:W>b1   F3:F/7
+             b#                                                     
+                                                                    
+J.Loney-A1   A4:K       B4:Si>3#   *5*:K      D4:W>12 b  E4:Si>12
+                        12                    1          
+                                                         
+D.Wright-A1  A5:K       B5:G-DP/6  C5:K       D5:K       E5:Sac/34
+                        43>1o                            >23 12
+                                                         
+D.Navarr-A1  *2*:Si     *4*:Si     C6:Si      *7*:G/53   E6:G/63>3
+J.Satin-D6                                               # 23
+R.Doumit-E3                                              
+B.Crawfo-A1  A7:Sac/14  B7:Si>13   C7:K       D7:Si      E7:Si>3#
+             >12                                         
+                                                         
+J.Lagare-A1  A8:K       B8:Si>3#   *6*:FO/2   D8:K       E8:E/1>12
+                        12                               
+                                                         
+E.Young -A1  A9:K       B9:Sac/24  C9:Si      D9:W>12 b  E9:G/43
+                        >23 12                1          
+                                                         
+
+M.Carpen-A1  A1:Do      B1:Si      *6*:Si     D1:F/8
+                                              
+                                              
+B.Zobris-A1  A2:K       B2:Si>12   C2:L/4     D2:L/4
+                                              
+                                              
+M.Cabrer-A1  A3:F/8     B3:G-DP/3  C3:PB>12   *9*:K
+                        63>1o      IW>b1      
+                                              
+J.Jay-A1     A4:K       *4*:G/43   C4:G-DP/3  D4:HBP
+                                   63>1o      
+                                              
+Y.Molina-A1  *2*:P/6    B5:F/7     *7*:W>b1   D5:K
+                                              
+                                              
+J.Lowrie-A1  A6:L/4     B6:K       C6:P/6     D6:P/5
+                                              
+                                              
+L.Overba-A1  A7:W>b1    *5*:K      C7:WP>12
+                                   G/23
+                                   
+M.Derosa-A1  A8:K       B8:G/63    C8:F/9
+                                   
+                                   
+D.Robins-A1  *3*:F/8    B9:G/43    *8*:F/8
+                                   
+                                   
+
+

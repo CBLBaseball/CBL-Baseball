@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2014 Los Angeles(NL) Dodgers At 2014 Atlanta Braves       10/4/2014
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  D.Nava LF           5  3  3  1 .500     J.Hamilton DH       4  1  2  1 .500  
+  S.Gennett 2B        3  2  2  3 .667     O.Infante 2B        3  0  1  1 .286  
+D-M.Kemp PH,RF        2  0  0  0 .143     C.Headley 3B        4  0  0  0 .125  
+  Y.Puig RF           3  0  2  2 .250     F.Freeman 1B        4  0  0  0 .111  
+A-S.Schumaker PH,RF,2 3  0  0  0 .000     B.McCann C          3  0  1  0 .500  
+  E.Encarnacion 1B    4  1  1  1 .250     J.Heyward RF        2  0  1  0 .400  
+  A.Rodriguez 3B      2  0  0  0 .000   G-A.Hicks PH          1  0  0  0 .000  
+B-J.Nix PH,SS         2  1  1  0 .571     A.Simmons SS        4  0  0  0 .125  
+  A.Ethier CF         4  1  0  0 .000     J.Schafer CF        2  1  1  0 .500  
+  M.Scutaro DH        5  1  2  0 .300   H-N.Punto PH          1  0  0  0 .000  
+  M.Kawasaki SS       3  1  2  0 .667     C.Yelich LF         3  0  2  0 .750  
+C-E.Lucas PH,3B       1  0  1  21.000                                          
+  R.Martin C          4  2  2  1 .286                                          
+E-J.Uribe PH          1  0  1  1 .200                                          
+F-M.Olivo C           0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42 12 17 11                 Totals      31  2  8  2
+
+A-Pinch Hit For Puig In 6th Inning
+B-Pinch Hit For Rodriguez In 7th Inning
+C-Pinch Hit For Kawasaki In 7th Inning
+D-Pinch Hit For Gennett In 8th Inning
+E-Pinch Hit For Martin In 9th Inning
+F-Subbed Defensively (C ) For Uribe In 9th Inning
+G-Pinch Hit For Heyward In 9th Inning
+H-Pinch Hit For Schafer In 9th Inning
+
+Dodgers......... 2 0 1  2 0 3  1 1 2  - 12 17  0
+Braves.......... 1 0 0  0 1 0  0 0 0  -  2  8  1
+
+[1]Dodgers (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Kuroda WIN(1-0)            9       8   2   2   3   6   1   2.00  A1
+[1]Totals                    9       8   2   2   3   6   1
+
+[1]Braves (0-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Medlen LOSS(0-1)           7      13   9   8   3   5   3  10.29  A1 D9
+A.Varvaro                    2       4   3   3   2   3   0  13.50  E1
+[1]Totals                    9      17  12  11   5   8   3
+
+ATTENDANCE- 49,655 DATE- Saturday, October 4th 2014 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 3:28
+LEFT ON BASE- Dodgers: 9  Braves: 6
+DOUBLE PLAYS- Dodgers: 3  Braves: 1
+ERRORS- K.Medlen
+DOUBLES- D.Nava(1st), Y.Puig(1st), M.Scutaro(1st), J.Uribe(1st), B.McCann(1st),
+         C.Yelich(1st)
+HOME RUNS- D.Nava(1st), S.Gennett(1st), R.Martin(1st), J.Hamilton(1st)
+RBIs- D.Nava(2nd), S.Gennett-3(3rd), Y.Puig-2(2nd), E.Encarnacion(2nd),
+      E.Lucas-2(2nd), R.Martin(1st), J.Uribe(1st), J.Hamilton(1st),
+      O.Infante(2nd)
+STOLEN BASES- R.Martin(1st)
+CAUGHT STEALING- Y.Puig
+SACRIFICE FLIES- E.Lucas, O.Infante
+WALKS- D.Nava, S.Gennett, E.Encarnacion, A.Rodriguez, A.Ethier, B.McCann,
+       J.Heyward, J.Schafer
+STRIKE OUTS- D.Nava, M.Kemp-2, A.Rodriguez-2, J.Nix, A.Ethier, M.Kawasaki,
+             J.Hamilton, C.Headley-2, F.Freeman-2, J.Schafer
+GIDP- Y.Puig, F.Freeman, J.Heyward, A.Simmons
+WILD PITCHES- K.Medlen, A.Varvaro
+2-out RBI- S.Gennett-3, E.Lucas, E.Encarnacion
+RLISP 2-out- A.Ethier, D.Nava, M.Scutaro-2, A.Simmons, C.Headley, R.Martin,
+             O.Infante, S.Schumaker
+
+Hiroki Kuroda was able to finish what he started and was credited with a
+complete game as the Atlanta Braves were badly beaten by the Los Angeles(NL)
+Dodgers, 12 to 2.
+
+Atlanta found themselves trailing quickly as the Los Angeles(NL) bats came
+through in the first inning when they tallied 2 runs on 2 hits.  The big
+moment was provided by Yasiel Puig who silenced the stadium when he doubled
+which was good for two runs.  The Los Angeles(NL) offense smacked the Atlanta
+pitching staff around, scoring in 7 of the 9 innings.  
+
+Kuroda(1-0), allowing 2 runs for the game, picked up the victory. The losing
+pitcher was Kris Medlen(0-1).  He was touched for 3 homeruns in his 7 innings
+of work.  
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(NL) Dodgers at 2014 Atlanta Braves
+D.Nava-A1    A1:Si      B1:SB>12   C1:HR>b#   D1:K       *8*:Do     F1:W>b1
+                        F/7                                         
+                                                                    
+S.Gennet-A1  A2:W>12 b  *3*:Si     C2:F/8     D2:HR>3#   E2:K       F2:K
+M.Kemp-E2    1                                1# b#                 
+                                                                    
+Y.Puig-A1    A3:Do>2#   B3:G-DP/6  C3:Si CS/  D3:G/63    E3:G/53    F3:G/43
+S.Schuma-D3  1#         43>1o      24>1o                            
+                                                                    
+E.Encarn-A1  A4:F/8     B4:W>b1    *5*:G/53   *7*:G/63   E4:Si>2#
+                                                         
+                                                         
+A.Rodrig-A1  A5:K       B5:W>12 b  C5:K       D5:Si      E5:K
+J.Nix-D5                1                                
+                                                         
+A.Ethier-A1  A6:FO/2    B6:E/1>23  C6:P/5     D6:K       *9*:W>b1
+                        12                               
+                                                         
+M.Scutar-A1  *2*:G/63   B7:WP>3#   *6*:L/5    D7:Si>12   E7:Do>13
+                        23 12 G/6                        
+                        3                                
+M.Kawasa-A1  A8:Si      *4*:K      C8:Si      D8:Si>2#   E8:SF/7>3
+E.Lucas-D8                                    13         #
+                                                         
+R.Martin-A1  A9:Force/  B9:HR>b#   C9:Si>13   D9:L/6     E9:WP>23
+J.Uribe-E9   14>1o b1                                    Do>3#
+M.Olivo-F4                                               
+
+J.Hamilt-A1  A1:HR>b#   B1:Force/  C1:K       D1:Si>13
+                        36>1o b1              
+                                              
+O.Infant-A1  A2:Si      B2:G/23    C2:SF/8>3  D2:L/6
+                                   #          
+                                              
+C.Headle-A1  A3:K       *4*:F/9    C3:K       *8*:G/63
+                                              
+                                              
+F.Freema-A1  A4:G-DP/6  B4:K       *6*:K      D4:G/43
+             43>1o                            
+                                              
+B.McCann-A1  *2*:F/8    B5:Do      C5:W>b1    D5:G/31
+                                              
+                                              
+J.Heywar-A1  A6:Si      B6:W>b1    C6:G-DP/3  *9*:G/53
+A.Hicks-D6                         63>1o      
+                                              
+A.Simmon-A1  A7:G-DP/6  B7:G/43    *7*:L/5    D7:G/63
+             43>1o                            
+                                              
+J.Schafe-A1  *3*:K      *5*:Si     C8:W>b1    D8:G/31
+N.Punto-D8                                    
+                                              
+C.Yelich-A1  A9:Si      B9:Do>13   C9:Force/
+                                   46>1o b1
+                                   
+
+

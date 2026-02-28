@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2014 Los Angeles(NL) Dodgers At 2014 Atlanta Braves       10/3/2014
+
+[1]  Dodgers            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  J.Nix SS            5  0  3  0 .600     A.Hicks CF          4  0  0  0 .000  
+  M.Scutaro 2B        5  2  1  0 .200   C-C.Yelich PH         1  0  1  11.000  
+  Y.Puig RF           5  0  0  0 .000     J.Gomes LF          4  0  0  0 .000  
+  E.Encarnacion 1B    4  2  1  1 .250   D-J.Schafer PH        0  0  0  0 ----  
+  S.Van Slyke DH      4  1  2  3 .500     F.Freeman 1B        5  1  1  0 .200  
+  M.Kemp CF           5  0  1  0 .200     G.Stanton DH        4  1  0  0 .000  
+  D.Nava LF           3  0  1  1 .333     C.Headley 3B        4  0  1  1 .250  
+  J.Uribe 3B          4  0  0  0 .000     J.Heyward RF        3  0  1  0 .333  
+  R.Martin C          3  0  0  0 .000   A-J.Hamilton PH       0  1  0  0 ----  
+                                          E.Gattis C          3  0  1  1 .333  
+                                        B-B.McCann PH         1  0  1  01.000  
+                                          A.Simmons SS        4  1  1  0 .250  
+                                          O.Infante 2B        4  0  1  1 .250  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  5  9  5                 Totals      37  4  8  4
+
+A-Pinch Hit For Heyward In 9th Inning
+B-Pinch Hit For Gattis In 9th Inning
+C-Pinch Hit For Hicks In 9th Inning
+D-Pinch Hit For Gomes In 9th Inning
+
+Dodgers......... 2 0 0  0 0 0  0 0 3  -  5  9  2
+Braves.......... 0 0 0  2 0 0  0 0 2  -  4  8  2
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw                    7 1/3   5   2   2   1   6   0   2.45  A1 D3
+C.Withrow WIN(1-0)           0 2/3   0   0   0   0   2   0   0.00  D4 D5
+K.Jansen                     0 1/3   3   2   2   2   0   0  54.00  D6 E2
+P.Rodriguez HOLD(1st)        0 1/3   0   0   0   0   1   0   0.00  E3 E3
+J.Veras SAVE(1st)            0 1/3   0   0   0   0   1   0   0.00  E4
+[1]Totals                    9       8   4   4   3  10   0
+
+[1]Braves (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Minor LOSS(0-1)            8 1/3   8   3   2   3   9   0   2.16  A1 E2
+D.Carpenter                  0 2/3   1   2   0   0   1   1   0.00  E3
+[1]Totals                    9       9   5   2   3  10   1
+
+ATTENDANCE- 49,186 DATE- Friday, October 3rd 2014 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 3:09
+LEFT ON BASE- Dodgers:10  Braves: 9
+DOUBLE PLAYS- Dodgers: 0  Braves: 0
+ERRORS- M.Scutaro, C.Kershaw, J.Heyward, O.Infante
+DOUBLES- J.Nix(1st), E.Encarnacion(1st), S.Van Slyke(1st), J.Heyward(1st),
+         E.Gattis(1st)
+HOME RUNS- S.Van Slyke(1st)
+RBIs- E.Encarnacion(1st), S.Van Slyke-3(3rd), D.Nava(1st), C.Yelich(1st),
+      C.Headley(1st), E.Gattis(1st), O.Infante(1st)
+WALKS- S.Van Slyke, D.Nava, R.Martin, J.Schafer, G.Stanton, J.Hamilton
+HIT BY PITCH- E.Encarnacion
+STRIKE OUTS- J.Nix-2, M.Scutaro, Y.Puig-2, D.Nava-2, J.Uribe-2, R.Martin,
+             A.Hicks, J.Gomes-2, F.Freeman-2, G.Stanton-2, C.Headley-2,
+             J.Heyward
+WILD PITCHES- M.Minor
+2-out RBI- E.Encarnacion, D.Nava, S.Van Slyke-3
+RLISP 2-out- J.Uribe-3, Y.Puig, E.Gattis, E.Encarnacion-2, O.Infante-2, M.Kemp,
+             J.Gomes, G.Stanton-2
+
+Scott Van Slyke left the yard and had 3 RBI at Turner Field as the Los
+Angeles(NL) Dodgers won in dramatic fashion coming back to beat the Atlanta
+Braves by the count of 5 to 4.
+
+Los Angeles(NL) came through with the game-winning runs in the 9th inning with
+3 runs using 2 hits.  Jayson Nix led off and started the attack as he
+delivered a one-base hit.  After another out, Yasiel Puig struck out, unable
+to help the rally.  Edwin Encarnacion then reached on an error.  Van Slyke
+was up next and he belted a three-run homer.  Los Angeles(NL) rapped out 9
+hits for the night.  
+
+The win was credited to Chris Withrow(1-0) who went 2/3 of an inning allowing
+no runs. Withrow was helped out by Jose Veras who recorded his 1st save.
+Mike Minor(0-1) absorbed the loss.  
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(NL) Dodgers at 2014 Atlanta Braves
+J.Nix-A1     A1:K       B1:Si      C1:Do>13   D1:K       *9*:Si
+                                                         
+                                                         
+M.Scutar-A1  A2:Si      B2:WP>12   C2:FO/2    D2:K       E2:Force/
+                        G/63                             64>1o b1
+                                                         
+Y.Puig-A1    A3:L/6     B3:P/6     C3:K       *7*:F/7    E3:K
+                                                         
+                                                         
+E.Encarn-A1  A4:Do>1#   *3*:HBP    C4:FO/2    D4:G/13    E4:E/9>12
+                                                         
+                                                         
+S.Van Sl-A1  A5:W>b1    B5:F/8     *5*:G/53   D5:Do      E5:HR>2#
+                                                         1# b#
+                                                         
+M.Kemp-A1    A6:Si>23   B6:F/9     C6:E/4     D6:F/9     E6:G/43
+             12                                          
+                                                         
+D.Nava-A1    A7:W>3# 2  B7:Si>12   C7:K       *8*:K
+             3 12 b1                          
+                                              
+J.Uribe-A1   A8:K       B8:K       C8:G/53    D8:F/7
+                                              
+                                              
+R.Martin-A1  *2*:K      *4*:W>b1   *6*:F/8    D9:G/63
+                                              
+                                              
+
+A.Hicks-A1   A1:FO/2    B1:K       *5*:G/53   D1:G/53    E1:Si>3#
+C.Yelich-E1                                              12
+                                                         
+J.Gomes-A1   A2:G/63    B2:F/8     C2:K       D2:K       E2:W>23 1
+J.Schafe-E2                                              2 b1
+                                                         
+F.Freema-A1  A3:K       *4*:Si     C3:G/63    *8*:G/63   E3:K
+                                                         
+                                                         
+G.Stanto-A1  *2*:F/7    B4:W>12 b  *6*:E/4    D4:K       E4:K
+                        1                                
+                                                         
+C.Headle-A1  A5:G/43    B5:Si>2#   C5:K       D5:K
+                        13                    
+                                              
+J.Heywar-A1  A6:Do      B6:K       C6:Force/  *9*:W>b1
+J.Hamilt-D6                        36>1o b1   
+                                              
+E.Gattis-A1  A7:G/31    B7:Do>3#   C7:G/63    D7:Si>12
+B.McCann-D7             13                    
+                                              
+A.Simmon-A1  *3*:Si     B8:P/4     *7*:E/1    D8:Force/
+                                              64>23 1o
+                                              b1
+O.Infant-A1  A9:Force/  B9:G/43    C9:G/63>1  D9:Si>3#
+             54>1o b1              2          13
+                                              
+
+

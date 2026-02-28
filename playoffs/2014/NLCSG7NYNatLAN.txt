@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2014 New York (NL) Mets At 2014 Los Angeles(NL) Dodgers  10/21/2014
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  S.Victorino RF      4  0  1  0 .435     D.Nava LF           3  1  1  0 .381  
+  D.Murphy 2B         3  0  0  0 .278     M.Scutaro 2B        4  0  1  0 .310  
+  M.Byrd DH           4  0  1  0 .264     A.Ethier RF         3  0  1  0 .242  
+  D.Wright 3B         2  0  0  0 .270     E.Encarnacion 1B    2  0  0  0 .229  
+  J.Loney 1B          3  0  0  0 .241     J.Uribe 3B          3  0  2  1 .259  
+  R.Doumit C          3  0  0  0 .222     A.Ellis C           3  0  0  0 .000  
+  J.Ruggiano CF       2  0  0  0 .100     M.Kemp CF           3  0  1  0 .133  
+A-J.Baker PH          1  0  0  0 .000     E.Lucas SS          2  0  0  0 .200  
+B-J.Lagares CF        0  0  0  0 .118   C-A.Rodriguez PH      1  0  0  0 .167  
+  B.Crawford SS       3  0  0  0 .188   D-J.Nix SS            0  0  0  0 .500  
+  E.Young Jr LF       3  0  0  0 .150     S.Schumaker DH      2  0  0  0 .105  
+                                        E-M.Olivo PH,DH       1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  2  0                 Totals      27  1  6  1
+
+A-Pinch Hit For Ruggiano In 7th Inning
+B-Subbed Defensively (CF) For Baker In 7th Inning
+C-Pinch Hit For Lucas In 7th Inning
+D-Subbed Defensively (SS) For Rodriguez In 8th Inning
+E-Pinch Hit For Schumaker In 8th Inning
+
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  2  0
+Dodgers......... 0 0 0  1 0 0  0 0    -  1  6  0
+
+[1]Mets (7-7)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Burnett LOSS(1-1)          7 2/3   6   1   1   2   8   0   1.84  A1 D2
+C.Qualls                     0 1/3   0   0   0   0   0   0   2.25  D3
+[1]Totals                    8       6   1   1   2   8   0
+
+[1]Dodgers (8-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(2-2)           6 2/3   2   0   0   2   8   0   2.17  A1 C6
+J.Crain HOLD(3rd)            0 1/3   0   0   0   0   1   0   0.00  C7 C7
+P.Rodriguez HOLD(4th)        0 2/3   0   0   0   0   0   0   0.00  C8 C9
+K.Jansen SAVE(6th)           1 1/3   0   0   0   0   1   0   4.50  D1
+[1]Totals                    9       2   0   0   2  10   0
+
+ATTENDANCE- 53,393 DATE- Tuesday, October 21st 2014 TIME- Night 
+UMPIRES- Doug Eddings, Paul Nauert, Dana Demuth, Kerwin Danley
+T- 2:33
+LEFT ON BASE- Mets: 4  Dodgers: 5
+DOUBLE PLAYS- Mets: 1  Dodgers: 0
+RBIs- J.Uribe(3rd)
+CAUGHT STEALING- A.Ethier, M.Kemp
+SACRIFICE HITS- D.Murphy
+WALKS- D.Wright-2, A.Ethier, E.Encarnacion
+HIT BY PITCH- D.Nava
+STRIKE OUTS- S.Victorino-2, D.Murphy-2, D.Wright, J.Loney, R.Doumit, J.Ruggiano,
+             J.Baker, E.Young Jr, D.Nava-2, A.Ellis-2, M.Kemp-2, E.Lucas,
+             M.Olivo
+2-out RBI- J.Uribe
+RLISP 2-out- D.Wright, A.Ellis, J.Baker, A.Rodriguez
+
+Juan Uribe had 2 base hits at Dodger Stadium where the Los Angeles(NL) Dodgers
+beat the New York (NL) Mets 1 to 0.
+
+Clayton Kershaw(2-2) contributed a very nicely pitched game.  He was stingy on
+the mound, allowing just 2 hits and 2 walks in 6 and 2/3 innings.  Kershaw
+chalked up 8 strikeouts seeing his ERA drop from 2.64 to 2.17.  Kenley Jansen
+pitched a perfect ninth to earn his 6th save.  
+
+A.J. Burnett(1-1) was hit with the loss.  He gave up 6 hits and 2 walks in 7
+and 2/3 innings.
+[2]
+[1]SCORESHEET: 2014 New York (NL) Mets at 2014 Los Angeles(NL) Dodgers
+S.Victor-A1  A1:Si      B1:K       C1:K       D1:G/13
+                                              
+                                              
+D.Murphy-A1  A2:Sac/14  *4*:K      C2:K       *9*:F/9
+             >12                              
+                                              
+M.Byrd-A1    A3:G/43>2  B3:F/7     *7*:Si     D3:G/31
+             3                                
+                                              
+D.Wright-A1  A4:G/63    B4:W>b1    C4:W>12 b  D4:K
+                                   1          
+                                              
+J.Loney-A1   *2*:L/4    B5:K       C5:P/2
+                                   
+                                   
+R.Doumit-A1  A6:K       *5*:G/53   C6:P/3
+                                   
+                                   
+J.Ruggia-A1  A7:L/6     B7:K       C7:K
+J.Baker-C7                         
+J.Lagare-C8                        
+B.Crawfo-A1  *3*:F/9    B8:L/4     *8*:G/13
+                                   
+                                   
+E.Young -A1  A9:G/3     *6*:K      C9:F/7
+                                   
+                                   
+
+D.Nava-A1    A1:K       *4*:HBP    *6*:Si     D1:K
+                                              
+                                              
+M.Scutar-A1  A2:G/63    B2:G/3>12  C2:Force/  D2:Si
+                                   64>1o b1   
+                                              
+A.Ethier-A1  A3:Si CS/  B3:W>b1    C3:L-DP/3  D3:F/9
+             24>1o                 >1o        
+                                              
+E.Encarn-A1  *2*:G/53   B4:F/8     *7*:W>b1
+                                   
+                                   
+J.Uribe-A1   A5:G/53    B5:Si>2#   C5:Si>13
+                        13         
+                                   
+A.Ellis-A1   A6:G/53    B6:K       C6:K
+                                   
+                                   
+M.Kemp-A1    *3*:Si     *5*:K      C7:K
+                                   
+                                   
+E.Lucas-A1   A8:CS/24>  B8:K       C8:G/3
+A.Rodrig-C8  1o G/53               
+J.Nix-C9                           
+S.Schuma-A1  A9:G/43    B9:G/3     *8*:K
+M.Olivo-C9                         
+                                   
+
+

@@ -1,0 +1,117 @@
+[1]BOXSCORE: 2014 Los Angeles(AL) Angels At 2014 Seattle Mariners     10/14/2014
+
+[1]  Angels             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  C.Gonzalez LF,CF    4  0  0  0 .450     J.Segura SS         4  0  0  0 .115  
+  M.Holliday DH       3  0  0  0 .083     D.Ackley 2B         4  0  2  0 .100  
+  C.Davis 1B          4  0  0  0 .286     R.Raburn LF         3  0  0  0 .100  
+  C.Johnson 3B        3  0  0  0 .211     R.Ibanez DH         4  0  0  0 .208  
+  A.Callaspo 2B       3  0  0  0 .158     N.Freiman 1B        3  1  2  0 .500  
+  A.Pierzynski C      3  0  0  0 .278     K.Seager 3B         3  0  0  0 .227  
+  K.Calhoun RF        2  0  0  0 .222     A.Jones CF          3  0  0  0 .208  
+  M.Ozuna CF          2  0  0  0 .545     M.Saunders RF       3  0  1  1 .167  
+C-M.Trumbo PH,LF      1  0  0  0 .300     M.Zunino C          2  0  2  0 .333  
+  E.Aybar SS          3  0  1  0 .273   A-B.Miller PH         1  0  0  0 .429  
+                                        B-G.Soto C            0  0  0  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  1  0                 Totals      30  1  7  1
+
+A-Pinch Hit For Zunino In 7th Inning
+B-Subbed Defensively (C ) For Miller In 8th Inning
+C-Pinch Hit For Ozuna In 8th Inning
+
+Angels.......... 0 0 0  0 0 0  0 0 0  -  0  1  0
+Mariners........ 0 0 0  0 0 0  1 0    -  1  7  0
+
+[1]Angels (5-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Danks LOSS(0-1)            6 2/3   6   1   1   1   3   0   1.35  A1 C8
+L.Avilan                     0 2/3   1   0   0   0   0   0   0.00  C9 D2
+T.Watson                     0 2/3   0   0   0   0   0   0   0.00  D3
+[1]Totals                    8       7   1   1   1   3   0
+
+[1]Mariners (5-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(1-0)         8 1/3   1   0   0   3   9   0   0.00  A1 D2
+D.Farquhar SAVE(3rd)         0 2/3   0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       1   0   0   3  10   0
+
+ATTENDANCE- 45,212 DATE- Tuesday, October 14th 2014 TIME- Night 
+UMPIRES- Jim Reynolds, Mike Dimuro, Andy Fletcher, Tim Welke
+T- 2:41
+LEFT ON BASE- Angels: 4  Mariners: 6
+DOUBLE PLAYS- Angels: 1  Mariners: 0
+RBIs- M.Saunders(1st)
+WALKS- M.Holliday, C.Johnson, K.Calhoun, R.Raburn
+STRIKE OUTS- C.Gonzalez-2, M.Holliday, C.Davis-4, C.Johnson, M.Ozuna, E.Aybar,
+             R.Ibanez-2, A.Jones
+BALKS- D.Farquhar
+2-out RBI- M.Saunders
+RLISP 2-out- R.Ibanez, C.Johnson
+
+Nate Freiman had 2 base hits and Felix Hernandez came through with a solid 8
+and one third innings as the Seattle Mariners beat the Los Angeles(AL) Angels
+by a score of 1 to 0.
+
+John Danks(0-1) gave up the game's only run when Seattle scored in the 7th
+inning.  Freiman singled.  Two outs later Michael Saunders came up and he
+slapped a base-hit.  Seattle managed 7 hits in their victory.
+
+Hernandez(1-0) got credit for the victory, pitching 8 and 1/3 innings and
+allowing no runs. Danny Farquhar earned his 3rd save.
+[2]
+[1]SCORESHEET: 2014 Los Angeles(AL) Angels at 2014 Seattle Mariners
+C.Gonzal-A1  A1:K       B1:F/9     *6*:K      *9*:G/43
+                                              
+                                              
+M.Hollid-A1  A2:F/8     *4*:K      C2:G/53    D2:W>b1
+                                              
+                                              
+C.Davis-A1   A3:K       B3:K       C3:K       D3:K
+                                              
+                                              
+C.Johnso-A1  *2*:K      B4:W>b1    *7*:F/7    D4:Bk>12
+                                              G/3
+                                              
+A.Callas-A1  A5:L/4     B5:G/43    C5:L/4
+                                   
+                                   
+A.Pierzy-A1  A6:P/4     *5*:F/9    C6:G/43
+                                   
+                                   
+K.Calhou-A1  *3*:G/31   B7:W>b1    *8*:G/13
+                                   
+                                   
+M.Ozuna-A1   A8:K       B8:L/6     C8:G/13
+M.Trumbo-C8                        
+                                   
+E.Aybar-A1   A9:Si      B9:G/43>1  C9:K
+                        2          
+                                   
+
+J.Segura-A1  A1:L/6     B1:F/8     C1:F/7     *8*:G/13
+                                              
+                                              
+D.Ackley-A1  A2:Si      B2:G/43    *6*:G/63   D2:Si
+                                              
+                                              
+R.Raburn-A1  A3:P/2     *4*:W>b1   C3:L/6     D3:G/43>1
+                                              2
+                                              
+R.Ibanez-A1  A4:K       B4:K       C4:F/8     D4:L/4
+                                              
+                                              
+N.Freima-A1  *2*:G/43   B5:Si>12   *7*:Si
+                                   
+                                   
+K.Seager-A1  A6:F/9     B6:L-DP/4  C6:L/3
+                        >2o        
+                                   
+A.Jones-A1   A7:L/6     *5*:K      C7:G/43>1
+                                   2
+                                   
+M.Saunde-A1  *3*:L/3    B8:G/31    C8:Si>2#
+                                   
+                                   
+M.Zunino-A1  A9:Si      B9:Si      C9:G/63
+B.Miller-C9                        
+G.Soto-D1                          
+
+

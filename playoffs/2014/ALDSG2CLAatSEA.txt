@@ -1,0 +1,196 @@
+[1]BOXSCORE: 2014 Cleveland Indians At 2014 Seattle Mariners           10/4/2014
+
+[1]  Indians            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Kipnis 2B         7  1  1  0 .091     K.Seager 3B         5  0  0  1 .125  
+  M.Brantley LF       3  0  0  0 .000     D.Ackley 2B,LF      6  0  0  0 .000  
+A-A.Hill PH           0  0  0  0 .000     J.Smoak 1B          5  0  1  0 .167  
+B-D.Young RF          3  0  1  0 .200     M.Saunders RF       6  0  0  0 .111  
+  C.Santana C         5  0  0  0 .000     A.Jones CF          5  1  2  0 .250  
+  S.Choo CF           5  0  0  0 .000     R.Ibanez DH         6  0  0  0 .000  
+  D.Freese 3B         5  0  2  1 .500     J.Segura SS         6  1  1  0 .111  
+  L.Duda 1B           6  0  0  0 .111     C.Coghlan LF        4  0  1  0 .250  
+  C.Ross RF,LF        5  0  1  0 .167   C-B.Miller PH,2B      2  0  2  1 .667  
+  L.Morrison DH       4  0  0  0 .000     G.Soto C            3  0  0  0 .000  
+  A.Cabrera SS        6  0  0  0 .000   D-M.Sierra PH         1  0  0  0 .000  
+                                        E-M.Zunino C          0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      49  1  5  1                 Totals      49  2  7  2
+
+A-Pinch Hit For Brantley In 8th Inning
+B-Subbed Defensively (RF) For Hill In 8th Inning
+C-Pinch Hit For Coghlan In 12th Inning
+D-Pinch Hit For Soto In 12th Inning
+E-Subbed Defensively (C ) For Sierra In 13th Inning
+
+Indians......... 0 0 0  0 0 0  0 1 0  0 0 0  0 0 0  -  1  5  1
+Mariners........ 0 0 0  1 0 0  0 0 0  0 0 0  0 0 1  -  2  7  0
+
+[1]Indians (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Masterson                 11       4   1   1   3  11   0   0.82  A1 E6
+J.Smith                      3       1   0   0   0   2   0   0.00  E7 F6
+P.Neshek LOSS(0-1)           0       2   1   1   0   0   0   ----  F7
+[1]Totals                   14       7   2   2   3  13   0
+
+[1]Mariners (2-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez                  5 1/3   2   0   0   3   4   0   0.00  A1 C3
+H.Santiago HOLD(1st)         1 2/3   1   1   1   1   3   0   5.40  C4 D1
+H.Rondon                     0       0   0   0   2   0   0   ----  D2 D3
+C.Furbush HOLD(1st)          0 1/3   0   0   0   0   1   0   0.00  D4 D4
+B.Shaw BS(1st)               2 2/3   0   0   0   1   3   0   0.00  D5 E4
+Y.Medina                     4       1   0   0   0   1   0   0.00  E5 F8
+D.Farquhar WIN(1-0)          1       1   0   0   0   0   0   0.00  F9
+[1]Totals                   15       5   1   1   7  12   0
+
+ATTENDANCE- 44,291 DATE- Saturday, October 4th 2014 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 4:02
+LEFT ON BASE- Indians:11  Mariners: 8
+DOUBLE PLAYS- Indians: 1  Mariners: 0
+ERRORS- J.Masterson
+DOUBLES- D.Young(1st), D.Freese(2nd)
+RBIs- D.Freese(2nd), K.Seager(2nd), B.Miller(1st)
+STOLEN BASES- S.Choo(1st), J.Segura(1st)
+SACRIFICE HITS- L.Morrison
+WALKS- A.Hill, C.Santana-2, S.Choo, D.Freese, C.Ross, L.Morrison, K.Seager,
+       J.Smoak, G.Soto
+HIT BY PITCH- A.Jones
+STRIKE OUTS- J.Kipnis, D.Young, S.Choo-4, D.Freese, L.Duda-3, L.Morrison,
+             A.Cabrera, D.Ackley, J.Smoak, M.Saunders, A.Jones, R.Ibanez-5,
+             J.Segura-3, C.Coghlan
+GIDP- M.Sierra
+WILD PITCHES- J.Masterson, F.Hernandez
+2-out RBI- K.Seager
+RLISP 2-out- C.Ross-3, G.Soto, L.Duda, D.Ackley-2, J.Kipnis, C.Santana
+WEB GEMS- Top 14th: Adam Jones robbed Lucas Duda of an extra base hit.
+
+Brad Miller had 2 base hits as the Seattle Mariners outscored the Cleveland
+Indians in 15 innings 2 to 1.
+
+The score was knotted at 1 after nine innings.  Finally, Seattle prevailed in
+the 15th inning.  Jean Segura hit a single.  Segura got a great jump and
+stole second easily.  Miller then smacked a single making Seattle the victor
+and beginning a joyous home town celebration.  Seattle managed 7 hits in
+their victory.  
+
+The winning pitcher was Danny Farquhar(1-0) who allowed no runs in 1 inning.
+Pat Neshek(0-1) was tagged with the loss in relief.  He was unable to retire
+a batter giving up 2 hits and no walks.
+
+[2]
+[1]SCORESHEET: 2014 Cleveland Indians at 2014 Seattle Mariners
+J.Kipnis-A1  A1:L/4     B1:K       C1:G/13    *8*:Si     E1:F/9     F1:F/9
+                                                                    
+                                                                    
+M.Brantl-A1  A2:G/3     *4*:G/53   *6*:G/43   D2:W>12 b  *10*:K     *13*:L/6
+A.Hill-D2                                     1                     
+D.Young-D8                                                          
+C.Santan-A1  A3:G/3     B3:G/43    C3:W>b1    D3:W>23 1  E3:F/8     F3:G/3
+                                              2 b1                  
+                                                                    
+S.Choo-A1    *2*:K      B4:W>b1    C4:K       D4:K       E4:K       F4:F/9
+                                                                    
+                                                                    
+D.Freese-A1  A5:Do      B5:SB>12   C5:K       D5:W>3# 2  *11*:L/6   *14*:L/6
+                        Si>23                 3 12 b1               
+                                                                    
+L.Duda-A1    A6:G/43>2  B6:K       *7*:K      D6:K       E6:FO/2    F6:F/8
+             3                                                      
+                                                                    
+C.Ross-A1    A7:G/63    *5*:W>b1   C7:G/63    D7:FO/2    E7:G/53    F7:Si
+                                                                    
+                                                                    
+L.Morris-A1  *3*:L/4    B8:WP>12   C8:W>b1    *9*:F/8    *12*:K     F8:F/8
+                        Sac/54>23                                   
+                                                                    
+A.Cabrer-A1  A9:K       B9:G/31    C9:L/5     D9:G/43    E9:G/31    *15*:L/4
+                                                                    
+                                                                    
+
+K.Seager-A1  A1:F/8     *3*:L/3    C1:W>3# 2  *7*:P/3    *10*:G/43  *13*:P/3
+                                   3 12 b1                          
+                                                                    
+D.Ackley-A1  A2:K       B2:G/31    C2:L/4     D2:F/8     E2:G/43    F2:G/63
+                                                                    
+                                                                    
+J.Smoak-A1   A3:Si      B3:W>b1    *5*:K      D3:G/43    E3:F/9     F3:F/9
+                                                                    
+                                                                    
+M.Saunde-A1  A4:F/7     B4:K       C4:G/13    *8*:G/13   *11*:G/13  *14*:F/8
+                                                                    
+                                                                    
+A.Jones-A1   *2*:Si     *4*:Si     C5:HBP     D5:G/63    E5:K       F5:G/43
+                                                                    
+                                                                    
+R.Ibanez-A1  A6:K       B6:K       C6:K       D6:L/4     E6:K       F6:K
+                                                                    
+                                                                    
+J.Segura-A1  A7:E/1>12  B7:K       *6*:G/43   *9*:K      *12*:K     *15*:Si
+                                                                    
+                                                                    
+C.Coghla-A1  A8:Force/  B8:Si>12   C8:F/8     D8:K       E8:Si      F8:SB>12
+B.Miller-E8  46>23 1o                                               Si>2#
+             b1                                                     
+G.Soto-A1    A9:Force/  B9:WP>23   C9:G/63    D9:G/63    E9:G-DP/6
+M.Sierra-E9  54>1o b1   12 W>b1                          43>1o
+M.Zunino-F1                                              
+
+
+[2]
+[1]SCORESHEET: 2014 Cleveland Indians at 2014 Seattle Mariners
+J.Kipnis-A1  G1:L/4
+             
+             
+M.Brantl-A1  G2:Do
+A.Hill-D2    
+D.Young-D8   
+C.Santan-A1  G3:G/43
+             
+             
+S.Choo-A1
+
+
+D.Freese-A1
+
+
+L.Duda-A1
+
+
+C.Ross-A1
+
+
+L.Morris-A1
+
+
+A.Cabrer-A1
+
+
+
+K.Seager-A1
+
+
+D.Ackley-A1
+
+
+J.Smoak-A1
+
+
+M.Saunde-A1
+
+
+A.Jones-A1
+
+
+R.Ibanez-A1
+
+
+J.Segura-A1
+
+
+C.Coghla-A1
+B.Miller-E8
+
+G.Soto-A1
+M.Sierra-E9
+M.Zunino-F1
+
+

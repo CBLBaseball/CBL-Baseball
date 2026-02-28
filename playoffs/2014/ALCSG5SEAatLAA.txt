@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2014 Seattle Mariners At 2014 Los Angeles(AL) Angels     10/18/2014
+
+[1]  Mariners           AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  J.Segura SS         4  0  0  0 .154     P.Bourjos CF        2  0  0  0 .167  
+  K.Seager 3B         3  0  1  0 .242   A-M.Trumbo PH,LF      2  0  0  0 .250  
+  J.Smoak 1B          4  0  2  0 .345   E-W.Ramirez RF        0  0  0  0 .500  
+  R.Ibanez DH         4  0  0  0 .219     C.Gonzalez LF,CF,LF 3  2  1  0 .462  
+  A.Jones CF          3  0  0  0 .171     M.Holliday DH       3  1  2  1 .171  
+  M.Saunders RF       3  0  0  0 .115     C.Davis 1B          4  2  2  2 .242  
+  G.Soto C            2  0  0  0 .200     C.Johnson 3B        3  2  2  1 .276  
+B-B.Miller PH,2B      1  0  0  0 .364   F-S.Rodriguez 2B      0  0  0  0 .111  
+  D.Ackley 2B         2  0  0  0 .080     A.Callaspo 2B,3B    4  0  2  1 .194  
+C-T.Flowers PH,C      1  0  0  0 .000     A.Pierzynski C      4  0  0  0 .222  
+  B.Bogusevic LF      3  0  1  0 .400     E.Aybar SS          4  0  3  1 .303  
+                                          K.Calhoun RF        2  0  0  0 .200  
+                                        D-H.Sanchez PH        1  0  0  0 .333  
+                                        G-M.Ozuna CF          0  0  0  0 .412  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  4  0                 Totals      32  7 12  6
+
+A-Pinch Hit For Bourjos In 5th Inning
+B-Pinch Hit For Soto In 8th Inning
+C-Pinch Hit For Ackley In 8th Inning
+D-Pinch Hit For Calhoun In 8th Inning
+E-Subbed Defensively (RF) For Trumbo In 9th Inning
+F-Subbed Defensively (2B) For Johnson In 9th Inning
+G-Subbed Defensively (CF) For Sanchez In 9th Inning
+
+Mariners........ 0 0 0  0 0 0  0 0 0  -  0  4  0
+Angels.......... 0 2 1  0 4 0  0 0    -  7 12  0
+
+[1]Mariners (7-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez LOSS(1-1)        8      12   7   7   2   6   0   2.91  A1
+[1]Totals                    8      12   7   7   2   6   0
+
+[1]Angels (6-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Richards WIN(2-0)          9       4   0   0   1   7   0   1.69  A1
+[1]Totals                    9       4   0   0   1   7   0
+
+ATTENDANCE- 43,072 DATE- Saturday, October 18th 2014 TIME- Night 
+UMPIRES- Gary Darling, Bruce Dreckman, Paul Emmel, Rob Drake
+T- 2:48
+LEFT ON BASE- Mariners: 4  Angels: 5
+DOUBLE PLAYS- Mariners: 2  Angels: 1
+DOUBLES- J.Smoak(2nd), C.Gonzalez(4th), M.Holliday(1st), C.Davis(2nd),
+         C.Johnson(1st), A.Callaspo(3rd)
+RBIs- M.Holliday(5th), C.Davis-2(7th), C.Johnson(2nd), A.Callaspo(1st),
+      E.Aybar(2nd)
+STOLEN BASES- E.Aybar(1st)
+CAUGHT STEALING- E.Aybar
+SACRIFICE HITS- K.Calhoun
+WALKS- K.Seager, C.Gonzalez, M.Holliday
+HIT BY PITCH- C.Johnson
+STRIKE OUTS- J.Segura, K.Seager-2, J.Smoak-2, A.Jones, G.Soto, M.Trumbo,
+             C.Gonzalez-2, C.Davis, A.Pierzynski-2
+GIDP- J.Segura, C.Johnson, A.Pierzynski
+WILD PITCHES- F.Hernandez-2
+2-out RBI- E.Aybar, M.Holliday, C.Davis-2, A.Callaspo
+RLISP 2-out- R.Ibanez-2, A.Jones, E.Aybar, A.Pierzynski, C.Gonzalez, H.Sanchez
+
+First baseman Chris Davis had 2 base hits and 2 RBI and Garrett Richards went
+9 strong innings as the Los Angeles(AL) Angels outscored the Seattle Mariners
+7 to 0.
+
+Los Angeles(AL) took the lead for good in the bottom of the 2nd inning with 2
+runs using 3 hits.  Davis led off and got things going when he doubled.
+Chris Johnson stepped into the batter's box and he doubled.  After another
+out, A.J. Pierzynski dug into the batters box next, but he struck out.  Erick
+Aybar stepped in and he stroked a single.  That was all Richards(2-0) needed.
+Los Angeles(AL) had a total of 12 hits for the game.  
+
+Felix Hernandez(1-1) took the loss.  He was unable to control the Los
+Angeles(AL) offense and allowed 12 hits and 2 walks in 8 innings.  
+
+[2]
+[1]SCORESHEET: 2014 Seattle Mariners at 2014 Los Angeles(AL) Angels
+J.Segura-A1  A1:F/7     B1:G-DP/5  C1:K       *9*:F/8
+                        43>1o                 
+                                              
+K.Seager-A1  A2:Si      *4*:K      C2:W>b1    D2:K
+                                              
+                                              
+J.Smoak-A1   A3:PB>12   B3:Si      C3:K       D3:Do
+             K                                
+                                              
+R.Ibanez-A1  A4:G/43    B4:G/13>1  *7*:F/8    D4:L/3
+                        2                     
+                                              
+A.Jones-A1   *2*:K      B5:L/6     C5:G/53
+                                   
+                                   
+M.Saunde-A1  A6:F/9     *5*:G/63   C6:F/8
+                                   
+                                   
+G.Soto-A1    A7:K       B7:F/7     *8*:G/53
+B.Miller-C7                        
+                                   
+D.Ackley-A1  *3*:F/9    B8:F/8     C8:G/43
+T.Flower-C8                        
+                                   
+B.Boguse-A1  A9:Si      *6*:G/43   C9:G/3
+                                   
+                                   
+
+P.Bourjo-A1  A1:F/8     B1:G/63    C1:K       D1:F/8
+M.Trumbo-C1                                   
+W.Ramire-E1                                   
+C.Gonzal-A1  A2:K       B2:Do      C2:W>b1    D2:K
+                                              
+                                              
+M.Hollid-A1  A3:F/8     B3:Si>2#   C3:Do>13   *7*:W>b1
+                                              
+                                              
+C.Davis-A1   *2*:Do     B4:G/63    C4:Si>3#   D4:K
+                                   2#         
+                                              
+C.Johnso-A1  A5:Do>2#   *4*:HBP    C5:Si>12   D5:G-DP/6
+S.Rodrig-E1                                   43>1o
+                                              
+A.Callas-A1  A6:F/7     B6:WP>12   C6:Do>2#   *8*:Si
+                        G/13       13         
+                                              
+A.Pierzy-A1  A7:K       B7:K       C7:WP>3#   D7:G-DP/3
+                                   23 G/43    63>1o
+                                              
+E.Aybar-A1   A8:Si>2#   B8:G/63    *6*:Si     D8:Si
+             CS/26>1o                         
+                                              
+K.Calhou-A1  *3*:F/8    *5*:FO/2   C9:Sac/14  D9:SB>12
+H.Sanche-D9                        >12        G/31
+M.Ozuna-E1                                    
+
+

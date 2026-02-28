@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2014 New York (NL) Mets At 2014 St. Louis Cardinals       10/4/2014
+
+[1]  Mets               AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  S.Victorino RF      5  1  3  0 .667     M.Carpenter 2B      3  1  0  0 .167  
+  D.Murphy 2B         4  3  2  0 .250     B.Zobrist RF        4  0  0  1 .125  
+A-L.Forsythe 2B       0  0  0  0 ----     M.Cabrera 3B        4  2  2  2 .429  
+  M.Byrd DH           3  3  3  5 .571     J.Lowrie DH         2  0  1  0 .167  
+  J.Loney 1B          5  0  1  2 .222     Y.Molina C          4  0  0  0 .143  
+  D.Wright 3B         4  0  1  0 .286     J.Jay CF            4  0  2  2 .250  
+  B.Crawford SS       4  0  0  0 .000     R.Grossman LF       3  0  0  0 .200  
+  R.Doumit C          4  0  0  0 .143   C-S.Robinson PH,LF    1  0  0  0 .000  
+  J.Lagares CF        4  0  0  0 .000     L.Overbay 1B        4  0  0  0 .000  
+  E.Young Jr LF       3  0  0  0 .000     P.Kozma SS          3  2  1  0 .400  
+B-J.Ruggiano LF       1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  7 10  7                 Totals      32  5  6  5
+
+A-Subbed Defensively (2B) For Murphy In 8th Inning
+B-Subbed Defensively (LF) For Young Jr In 8th Inning
+C-Pinch Hit For Grossman In 8th Inning
+
+Mets............ 3 0 2  0 0 0  2 0 0  -  7 10  3
+Cardinals....... 2 1 0  0 1 0  0 0 1  -  5  6  1
+
+[1]Mets (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Burnett WIN(1-0)           7       5   4   1   3   4   0   1.29  A1 D5
+C.Qualls HOLD(1st)           1       0   0   0   0   2   0   0.00  D6 D8
+B.Parnell SAVE(1st)          1       1   1   1   0   0   0   9.00  D9
+[1]Totals                    9       6   5   2   3   6   0
+
+[1]Cardinals (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Lohse LOSS(0-1)            8       9   7   6   0   3   2   6.75  A1 D8
+T.Scheppers                  1       1   0   0   1   0   0   0.00  D9
+[1]Totals                    9      10   7   6   1   3   2
+
+ATTENDANCE- 41,793 DATE- Saturday, October 4th 2014 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 3:02
+LEFT ON BASE- Mets: 6  Cardinals: 7
+DOUBLE PLAYS- Mets: 0  Cardinals: 0
+ERRORS- R.Doumit-2, A.Burnett, M.Cabrera
+DOUBLES- M.Byrd(1st), M.Cabrera(1st), J.Jay-2(2nd), P.Kozma(1st)
+HOME RUNS- M.Byrd-2(3rd)
+RBIs- M.Byrd-5(7th), J.Loney-2(2nd), B.Zobrist(1st), M.Cabrera-2(2nd),
+      J.Jay-2(3rd)
+STOLEN BASES- M.Carpenter(1st), J.Jay(1st)
+SACRIFICE HITS- L.Forsythe
+SACRIFICE FLIES- B.Zobrist, M.Cabrera
+WALKS- M.Byrd, M.Carpenter, J.Lowrie, P.Kozma
+HIT BY PITCH- M.Byrd, J.Lowrie
+STRIKE OUTS- D.Murphy, R.Doumit, E.Young Jr, M.Carpenter, B.Zobrist, J.Jay,
+             R.Grossman, L.Overbay, P.Kozma
+CATCHERS INTERFERENCE- M.Carpenter
+WILD PITCHES- A.Burnett
+2-out RBI- J.Jay-2
+RLISP 2-out- R.Grossman-3, Y.Molina-2, R.Doumit, J.Loney
+
+Designated hitter Marlon Byrd ripped 2 homeruns and had 5 RBI at Busch Stadium
+as the New York (NL) Mets beat the St. Louis Cardinals by the count of 7 to
+5.
+
+Byrd had a big evening at the plate.  He lost the ball over the fence for
+three runs in the 1st inning, doubled in the 3rd inning and lifted one out of
+the park for a two run home run in the 7th inning.  New York (NL) out-hit St.
+Louis for the game, 10 hits to 6.  
+
+The victory went to A.J. Burnett(1-0) who went 7 innings, allowing 4 runs.
+Burnett was helped out by Bobby Parnell who recorded his 1st save.  Kyle
+Lohse(0-1) was hit with the loss.  He allowed 7 runs and 9 hits in 8 innings.
+
+'They made a couple of mistakes and I took full advantage,' Byrd said 'next
+time I'm sure they'll pitch me tougher.'
+[2]
+[1]SCORESHEET: 2014 New York (NL) Mets at 2014 St. Louis Cardinals
+S.Victor-A1  A1:Si      *3*:G/43   C1:Si      *7*:L/3    E1:Si
+                                                         
+                                                         
+D.Murphy-A1  A2:E/5>12  B2:Si      C2:K       D2:Si      E2:Sac/14
+L.Forsyt-D9                                              >12
+                                                         
+M.Byrd-A1    A3:HR>2#   B3:Do>13   *5*:HBP    D3:HR>1#   E3:IW>b1
+             1# b#                            b#         
+                                                         
+J.Loney-A1   A4:P/6     B4:Si>3#   C4:Force/  D4:F/9     E4:F/9
+                        2#         54>1o b1              
+                                                         
+D.Wright-A1  A5:F/9     B5:Si>12   C5:F/9     D5:L/6
+                                              
+                                              
+B.Crawfo-A1  A6:F/7     B6:L/4     C6:L/3     *8*:G/31
+                                              
+                                              
+R.Doumit-A1  *2*:F/9    B7:F/9     *6*:F/8    D7:K
+                                              
+                                              
+J.Lagare-A1  A8:F/8     *4*:F/8    C8:G/63    D8:G/31
+                                              
+                                              
+E.Young -A1  A9:G/63    B9:K       C9:F/7     *9*:F/7
+J.Ruggia-D9                                   
+                                              
+
+M.Carpen-A1  A1:CatInt  B1:W>12 b  C1:K       D1:G/3     E1:G/43>2
+             /2>b1      1                                3
+                                                         
+B.Zobris-A1  A2:SB+E/2  B2:E/1>23  C2:P/6     *7*:K      E2:SF/7>3
+             >13 G/53   12                               #
+                                                         
+M.Cabrer-A1  A3:Si>3#   B3:SF/8>3  *5*:Do     D3:G/43    E3:G/43
+                        #                                
+                                                         
+J.Lowrie-A1  A4:HBP>12  B4:W>23 1  C4:G/63    D4:Si
+                        2 b1                  
+                                              
+Y.Molina-A1  A5:Force/  B5:L/6     C5:F/9     D5:G/13
+             54>23 1o                         
+             b1                               
+J.Jay-A1     A6:Do>3#   *3*:L/4    C6:WP>23   *8*:K
+             13                    Do>3#      
+                                              
+R.Grossm-A1  A7:F/8     B7:F/7     C7:SB>23   D7:P/6
+S.Robins-D7                        K          
+                                              
+L.Overba-A1  *2*:G/43   B8:G/13    *6*:G/43   D8:K
+                                              
+                                              
+P.Kozma-A1   A9:W>b1    *4*:K      C9:F/9     *9*:Do
+                                              
+                                              
+
+

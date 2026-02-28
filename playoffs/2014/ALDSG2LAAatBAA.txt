@@ -1,0 +1,143 @@
+[1]BOXSCORE: 2014 Los Angeles(AL) Angels At 2014 Baltimore Orioles     10/4/2014
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  C.Culberson LF      3  0  0  0 .000     N.McLouth LF        3  0  0  0 .000  
+A-M.Ozuna RF          1  0  1  01.000   D-D.Valencia PH       1  0  0  0 .000  
+J-K.Calhoun PH,RF     1  0  0  0 .000   E-H.Conger C          0  0  0  0 ----  
+  M.Holliday DH       5  0  1  0 .111   G-N.Markakis PH,C     2  0  0  0 .000  
+  C.Johnson 3B        4  1  2  0 .375     M.Machado 3B        4  1  1  0 .143  
+B-A.Callaspo 3B       1  0  0  0 .200     A.Gonzalez 1B       4  0  1  0 .286  
+  C.Davis 1B          4  2  1  2 .286     C.Quentin DH        4  0  1  1 .200  
+  M.Trumbo RF,LF      5  1  2  2 .500     C.Beltran RF        5  0  2  0 .250  
+  S.Rodriguez 2B      4  0  0  0 .000     C.Gomez CF          4  0  0  0 .143  
+  P.Bourjos CF        3  0  1  0 .200     J.Hardy SS          5  0  1  0 .125  
+K-H.Sanchez C         1  1  1  1 .500     R.Flaherty 2B       3  0  0  0 .000  
+  A.Pierzynski C      4  0  1  0 .429   F-B.Roberts PR        0  0  0  01.000  
+I-C.Gonzalez PR,CF    1  0  0  0 .500   H-F.Galvis 2B         1  0  0  0 .000  
+  E.Aybar SS          3  0  0  0 .250     M.Wieters C         2  0  0  0 .000  
+                                        C-R.Davis PH,LF       3  1  2  1 .600  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  5 10  5                 Totals      41  2  8  2
+
+A-Subbed Defensively (RF) For Culberson In 6th Inning
+B-Subbed Defensively (3B) For Johnson In 8th Inning
+C-Pinch Hit For Wieters In 8th Inning
+D-Pinch Hit For McLouth In 8th Inning
+E-Subbed Defensively (C ) For Valencia In 9th Inning
+F-Pinch Ran For Flaherty In 9th Inning
+G-Pinch Hit For Conger In 9th Inning
+H-Subbed Defensively (2B) For Roberts In 10th Inning
+I-Pinch Ran For Pierzynski In 10th Inning
+J-Pinch Hit For Ozuna In 10th Inning
+K-Subbed Defensively (C ) For Bourjos In 10th Inning
+
+Angels.......... 0 0 0  2 0 0  0 0 0  0 3 -  5 10  1
+Orioles......... 0 0 0  0 0 0  0 2 0  0 0 -  2  8  0
+
+[1]Angels (2-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Weaver                     6       3   0   0   2   2   0   0.00  A1 C5
+A.Simon HOLD(1st)            1       0   0   0   0   1   0   0.00  C6 C8
+B.Parker HOLD(1st)           0 1/3   2   2   2   0   0   1  54.00  C9 D2
+T.Watson BS(1st)             0 1/3   1   0   0   1   0   0   0.00  D3 D5
+J.Collmenter                 0 2/3   1   0   0   1   0   0   0.00  D6 D9
+L.Avilan WIN(1-0)            1 2/3   1   0   0   1   0   0   0.00  E1 E7
+K.Uehara SAVE(2nd)           1       0   0   0   0   1   0   0.00  E8
+[1]Totals                   11       8   2   2   5   4   1
+
+[1]Orioles (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Harvey LOSS(0-1)          10       9   4   4   2   8   2   3.60  A1 E5
+T.Stauffer                   1       1   1   1   0   1   1   9.00  E6
+[1]Totals                   11      10   5   5   2   9   3
+
+ATTENDANCE- 41,962 DATE- Saturday, October 4th 2014 TIME- Night 
+UMPIRES- Bill Hohn, Greg Gibson, Sam Holbrook, Gerry Davis
+T- 3:11
+LEFT ON BASE- Angels: 7  Orioles:11
+DOUBLE PLAYS- Angels: 1  Orioles: 1
+ERRORS- S.Rodriguez
+DOUBLES- C.Beltran(1st)
+HOME RUNS- C.Davis(2nd), M.Trumbo(2nd), H.Sanchez(1st), R.Davis(1st)
+RBIs- C.Davis-2(3rd), M.Trumbo-2(4th), H.Sanchez(1st), C.Quentin(1st),
+      R.Davis(3rd)
+SACRIFICE HITS- P.Bourjos, E.Aybar
+WALKS- C.Davis, E.Aybar, M.Machado, A.Gonzalez, C.Quentin, C.Gomez, R.Flaherty
+HIT BY PITCH- S.Rodriguez
+STRIKE OUTS- C.Johnson-2, C.Davis-2, M.Trumbo-3, S.Rodriguez, A.Pierzynski,
+             C.Gomez-2, R.Flaherty, R.Davis
+GIDP- P.Bourjos, A.Gonzalez
+2-out RBI- C.Davis-2
+RLISP 2-out- J.Hardy-2, R.Flaherty, C.Davis, C.Gomez-2, M.Machado, A.Callaspo-2
+
+The Los Angeles(AL) Angels defeated the Baltimore Orioles in 11 innings by a
+score of 5 to 2 at Camden Yards.
+
+Both teams were tied at 2 runs apiece after nine innings.  Finally, Los
+Angeles(AL) prevailed in the 11th inning.  Chris Davis led off and got things
+going when he drew a walk.  Mark Trumbo came next and he lifted one out of
+the park for a two run home run.  Sean Rodriguez struck out, unable to help
+the rally.  Hector Sanchez followed next and he cracked a solo homerun.  The
+Baltimore batters didn't put up a fight in the bottom of the 11th.  
+
+Luis Avilan(1-0) got the win allowing no runs in 1 and 2/3 innings. Avilan got
+help from Koji Uehara who earned his 2nd save.  Matt Harvey(0-1) was given
+the loss.  He pitched 10 innings allowing 9 hits and 2 walks.
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(AL) Angels at 2014 Baltimore Orioles
+C.Culber-A1  A1:F/8     *4*:F/8    *6*:F/9    D1:Si>13   E1:L/4
+M.Ozuna-C5                                               
+K.Calhou-E1                                              
+M.Hollid-A1  A2:L/6     B2:G/63    C2:G/43    D2:L/6     E2:Si>2o
+                                                         13
+                                                         
+C.Johnso-A1  A3:K       B3:Si      C3:Si      D3:K       E3:G/3
+A.Callas-D5                                              
+                                                         
+C.Davis-A1   *2*:G/31   B4:HR>1#   C4:K       D4:K       *11*:W>b1
+                        b#                               
+                                                         
+M.Trumbo-A1  A5:K       B5:K       *7*:K      *9*:Si     E5:HR>1#
+                                                         b#
+                                                         
+S.Rodrig-A1  A6:G/13    *5*:HBP    C6:F/9     D6:P/2     E6:K
+                                                         
+                                                         
+P.Bourjo-A1  *3*:G/13   B7:Sac/34  C7:Si      D7:G-DP/6  E7:HR>b#
+H.Sanche-E4             >12                   43>1o      
+                                                         
+A.Pierzy-A1  A8:K       B8:FC/65>  C8:G/43>1  *10*:Si    E8:F/7
+C.Gonzal-D9             2o         2                     
+                                                         
+E.Aybar-A1   A9:F/8     B9:G/63    *8*:W>b1   D9:Sac+FC  E9:F/8
+                                              >12 b1     
+                                                         
+
+N.McLout-A1  A1:F/9     B1:P/6     C1:FO/3    D1:P/5     E1:F/7     F1:P/2
+D.Valenc-D1                                                         
+H.Conger-D7+                                                        
+M.Machad-A1  A2:W>b1    *4*:G/53   C2:E/4     D2:Si      E2:G/53
+                                                         
+                                                         
+A.Gonzal-A1  A3:G-DP/4  B3:G/43    C3:G/43    D3:W>12 b  *10*:Si
+             63>1o                            1          
+                                                         
+C.Quenti-A1  *2*:P/6    B4:F/9     *7*:W>b1   D4:Si>2#   E4:Force/
+                                              13         64>1o b1
+                                                         
+C.Beltra-A1  A5:Do      *5*:G/13   C5:Si>12   D5:G/53>1  E5:F/7
+                                              2          
+                                                         
+C.Gomez-A1   A6:K       B6:K       C6:F/7     D6:F/9     E6:W>12 b
+                                                         1
+                                                         
+J.Hardy-A1   A7:L/6     B7:Si      C7:F/8     *9*:FO/5   E7:F/8
+                                                         
+                                                         
+R.Flaher-A1  *3*:P/2    B8:F/7     C8:K       D8:W>b1    *11*:G/63
+B.Robert-D9                                              
+F.Galvis-E3                                              
+M.Wieter-A1  A9:G/43    *6*:P/3    *8*:HR>b#  D9:Si>12   E9:K
+R.Davis-C9                                               
+                                                         
+
+

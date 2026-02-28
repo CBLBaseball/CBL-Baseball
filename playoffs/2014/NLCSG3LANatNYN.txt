@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2014 Los Angeles(NL) Dodgers At 2014 New York (NL) Mets  10/16/2014
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Nava LF           5  1  2  0 .414     S.Victorino RF      5  2  4  1 .400  
+  A.Ethier CF         4  1  1  1 .300     J.Satin 3B          4  0  2  0 .200  
+  Y.Puig RF           4  0  0  0 .107   A-E.Young Jr PR       0  1  0  0 .133  
+  E.Encarnacion 1B    3  0  1  0 .261   C-B.Wallace 3B        1  0  0  0 .000  
+  S.Van Slyke DH      4  1  2  2 .444     D.Murphy 2B         5  1  2  1 .341  
+E-S.Schumaker PH,DH   1  0  0  0 .143     M.Byrd LF           5  0  3  1 .300  
+  M.Scutaro 2B        4  0  0  0 .296     J.Loney 1B          4  0  1  1 .275  
+  J.Uribe 3B          4  0  1  1 .286     J.Baker DH          2  0  0  0 .000  
+  R.Martin C          3  0  0  0 .182   B-D.Navarro PH,DH     0  0  0  0 .471  
+  M.Kawasaki SS       3  1  0  0 .188   D-J.Lagares PH,DH     0  0  0  0 .118  
+                                          R.Doumit C          4  0  1  0 .200  
+                                          J.Ruggiano CF       5  1  1  0 .138  
+                                          B.Crawford SS       2  0  0  1 .222  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4  7  4                 Totals      37  5 14  5
+
+A-Pinch Ran For Satin In 7th Inning
+B-Pinch Hit For Baker In 7th Inning
+C-Subbed Defensively (3B) For Young Jr In 8th Inning
+D-Pinch Hit For Navarro In 9th Inning
+E-Pinch Hit For Van Slyke In 10th Inning
+
+Dodgers......... 0 1 0  0 0 3  0 0 0  0 -  4  7  0
+Mets............ 1 1 0  0 1 0  1 0 0  1 -  5 14  0
+
+[1]Dodgers (5-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu                        6 1/3  10   4   4   2   7   0   2.70  A1 D3
+J.Crain BS(1st)              1       1   0   0   1   2   0   0.00  D4 D8
+P.Rodriguez                  0 2/3   2   0   0   1   1   0   0.00  D9 E5
+K.Jansen LOSS(0-1)           1       1   1   1   1   1   1   7.71  E6
+[1]Totals                    9      14   5   5   5  11   1
+
+[1]Mets (6-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Burnett                    9 1/3   5   4   4   4  11   0   2.08  A1 D9
+C.Qualls                     0       1   0   0   1   0   0   2.84  E1 E2
+J.Grilli WIN(1-0)            0 2/3   1   0   0   0   1   0   0.00  E3
+[1]Totals                   10       7   4   4   5  12   0
+
+ATTENDANCE- 38,969 DATE- Thursday, October 16th 2014 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 3:55
+LEFT ON BASE- Dodgers: 7  Mets:14
+DOUBLE PLAYS- Dodgers: 2  Mets: 0
+DOUBLES- D.Nava(2nd), A.Ethier(1st), S.Van Slyke(2nd), D.Murphy(2nd),
+         M.Byrd(3rd), J.Ruggiano(3rd)
+HOME RUNS- S.Victorino(3rd)
+RBIs- A.Ethier(4th), S.Van Slyke-2(5th), J.Uribe(2nd), S.Victorino(5th),
+      D.Murphy(6th), M.Byrd(13th), J.Loney(6th), B.Crawford(5th)
+STOLEN BASES- Y.Puig(1st), M.Kawasaki(1st)
+CAUGHT STEALING- R.Martin
+SACRIFICE HITS- J.Loney, J.Lagares
+SACRIFICE FLIES- B.Crawford
+WALKS- A.Ethier, E.Encarnacion-2, R.Martin, M.Kawasaki, J.Baker, D.Navarro,
+       R.Doumit, B.Crawford-2
+HIT BY PITCH- Y.Puig, S.Victorino
+STRIKE OUTS- D.Nava, A.Ethier, Y.Puig-3, E.Encarnacion, M.Scutaro-2, J.Uribe-3,
+             R.Martin, S.Victorino, J.Satin, D.Murphy-2, M.Byrd, J.Loney,
+             R.Doumit-2, J.Ruggiano-2, B.Crawford
+GIDP- J.Satin, J.Loney
+WILD PITCHES- H.Ryu
+RLISP 2-out- E.Encarnacion, R.Doumit-4, J.Uribe, D.Murphy, B.Crawford-2,
+             S.Schumaker-2
+
+Shane Victorino had 4 hits and A.J. Burnett dominated striking out 11 Los
+Angeles(NL) batters as the New York (NL) Mets defeated the Los Angeles(NL)
+Dodgers in 10 innings by a score of 5 to 4 at Citi Field.
+
+Both teams had scored 4 runs after nine full innings.  New York (NL) won it in
+the 10th inning.  Victorino blasted a solo shot making New York (NL) the
+victor and beginning a joyous home town celebration.  Los Angeles(NL) was
+out-hit by New York (NL), 14 hits to 7.  
+
+Jason Grilli(1-0) was the winner allowing no runs in 2/3 of an inning. Kenley
+Jansen(0-1) was tagged with the loss in relief.  He pitched 1 inning giving
+up 1 hit and 1 walk.
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(NL) Dodgers at 2014 New York (NL) Mets
+D.Nava-A1    A1:G/43    B1:K       C1:SB>12   D1:G/13    E1:Do
+                                   Si>23                 
+                                                         
+A.Ethier-A1  A2:L/3     B2:K       C2:Do>3#   *8*:F/8    E2:W>b1
+                                   13                    
+                                                         
+Y.Puig-A1    A3:HBP     *4*:K      C3:K       D3:L/6     E3:K
+                                                         
+                                                         
+E.Encarn-A1  A4:SB>12   B4:K       C4:IW>b1   D4:W>b1    E4:Si>23
+             L/6                                         12
+                                                         
+S.Van Sl-A1  *2*:Do     B5:F/8     C5:Si>3#   D5:Force/  E5:F/7
+S.Schuma-E5                        2# 13      54>1o b1   
+                                                         
+M.Scutar-A1  A6:G/43>2  *5*:K      C6:K       *9*:FO/5
+             3                                
+                                              
+J.Uribe-A1   A7:Si>3#   B7:K       C7:K       D7:K
+                                              
+                                              
+R.Martin-A1  A8:PkOff/  B8:W>b1 C  *7*:K      D8:L/6
+             13>1o P/2  S/26>1o               
+                                              
+M.Kawasa-A1  *3*:G/13   *6*:W>b1   C9:F/8     *10*:G/43
+                                              
+                                              
+
+S.Victor-A1  A1:Si      B1:Si      C1:HBP>23  D1:K       E1:Si>12   *10*:HR>b
+                                   12                               #
+                                                                    
+J.Satin-A1   A2:Si>13   B2:K       C2:G-DP/1  *7*:Si     E2:Force/
+E.Young -D4                        23>3o                 35>2o 12
+B.Wallac-D8                                              b1
+D.Murphy-A1  A3:Si>3#   B3:F/7     *5*:Do     D3:K       E3:K
+             12                                          
+                                                         
+M.Byrd-A1    A4:K       *3*:Si     C4:L/6     D4:Do>1#   *9*:Si
+                                                         
+                                                         
+J.Loney-A1   A5:G/13>2  B5:G-DP/3  C5:Si>2#   D5:K       E5:Sac+FC
+             3 12       63>1o                            >12 b1
+                                                         
+J.Baker-A1   A6:IW>b1   B6:F/7     C6:G/43>1  D6:IW>b1   E6:Sac/34
+D.Navarr-D6                        2                     >23 12
+J.Lagare-E6                                              
+R.Doumit-A1  A7:K       *4*:Si     C7:G/63    D7:K       E7:IW>b1
+                                                         
+                                                         
+J.Ruggia-A1  *2*:Do     B8:G/43>1  *6*:K      *8*:L/6    E8:K
+                        2                                
+                                                         
+B.Crawfo-A1  A9:WP>23   B9:W>b1    C9:K       D9:W>b1    E9:G/31
+             SF/7>3#                                     
+                                                         
+
+

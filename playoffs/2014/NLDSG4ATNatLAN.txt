@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2014 Atlanta Braves At 2014 Los Angeles(NL) Dodgers       10/7/2014
+
+[1]  Braves             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  A.Hicks CF          3  0  0  0 .083     D.Nava LF           4  0  1  0 .375  
+A-N.Punto PH          1  0  0  0 .000     S.Gennett 2B        4  0  1  0 .500  
+  J.Gomes LF          4  0  0  0 .091     Y.Puig RF           4  0  0  0 .125  
+  F.Freeman 1B        4  1  3  1 .250     E.Encarnacion 1B    3  1  0  0 .214  
+  G.Stanton DH        1  0  0  0 .143     J.Uribe 3B          4  1  2  0 .333  
+B-C.Yelich PH         1  0  1  0 .800     A.Ethier CF         2  1  1  3 .222  
+  C.Headley 3B        4  0  0  0 .133     M.Scutaro DH        3  0  1  0 .313  
+  J.Heyward RF        2  0  0  0 .200     M.Kawasaki SS       3  0  0  0 .250  
+  E.Gattis C          3  0  0  0 .125     R.Martin C          2  0  2  0 .333  
+  A.Simmons SS        3  0  0  0 .071                                          
+  O.Infante 2B        3  0  0  0 .143                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  4  1                 Totals      29  3  8  3
+
+A-Pinch Hit For Hicks In 9th Inning
+B-Pinch Hit For Stanton In 9th Inning
+
+Braves.......... 0 0 0  1 0 0  0 0 0  -  1  4  0
+Dodgers......... 0 1 0  1 0 1  0 0    -  3  8  0
+
+[1]Braves (0-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Hudson LOSS(0-1)           8       8   3   3   2   8   1   3.38  A1
+[1]Totals                    8       8   3   3   2   8   1
+
+[1]Dodgers (4-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)           8 2/3   3   1   1   2   5   1   1.69  A1 D3
+K.Jansen SAVE(2nd)           0 1/3   1   0   0   0   1   0  10.80  D4
+[1]Totals                    9       4   1   1   2   6   1
+
+ATTENDANCE- 55,403 DATE- Tuesday, October 7th 2014 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 2:30
+LEFT ON BASE- Braves: 4  Dodgers: 6
+DOUBLE PLAYS- Braves: 1  Dodgers: 2
+DOUBLES- M.Scutaro(2nd)
+TRIPLES- J.Uribe(1st)
+HOME RUNS- F.Freeman(1st), A.Ethier(1st)
+RBIs- F.Freeman(1st), A.Ethier-3(3rd)
+SACRIFICE FLIES- A.Ethier-2
+WALKS- G.Stanton, J.Heyward, E.Encarnacion, R.Martin
+HIT BY PITCH- G.Stanton
+STRIKE OUTS- J.Gomes, F.Freeman, G.Stanton, C.Headley, J.Heyward, E.Gattis,
+             D.Nava-3, S.Gennett, Y.Puig, E.Encarnacion, A.Ethier, M.Kawasaki
+GIDP- C.Headley, E.Gattis, S.Gennett
+WILD PITCHES- C.Kershaw
+2-out RBI- A.Ethier
+RLISP 2-out- M.Scutaro, Y.Puig, M.Kawasaki, J.Heyward, C.Headley
+
+Clayton Kershaw went 8 and two third solid innings at Dodger Stadium where the
+Los Angeles(NL) Dodgers beat the Atlanta Braves by the score of 3 to 1.
+
+In the bottom of the 4th inning Los Angeles(NL) went on top for good scoring
+one runner.  Atlanta had a chance to come back in the 9th but they came up
+short.  
+
+The winning pitcher was Kershaw(1-0) who allowed 1 run in 8 and 2/3 innings.
+Kenley Jansen preserved the game for Kershaw, recording his his 2nd save.
+Tim Hudson(0-1) was hit with the loss.  
+
+[2]
+[1]SCORESHEET: 2014 Atlanta Braves at 2014 Los Angeles(NL) Dodgers
+A.Hicks-A1   A1:F/8     B1:L/5     C1:G/43    *9*:F/9
+N.Punto-D1                                    
+                                              
+J.Gomes-A1   A2:K       *4*:G/63   C2:G/63    D2:F/7
+                                              
+                                              
+F.Freema-A1  A3:K       B3:HR>b#   *7*:Si     D3:Si
+                                              
+                                              
+G.Stanto-A1  *2*:W>b1   B4:HBP     C4:K       D4:Si>13
+C.Yelich-D4                                   
+                                              
+C.Headle-A1  A5:F/7     B5:G-DP/6  C5:F/8     D5:K
+                        43>1o                 
+                                              
+J.Heywar-A1  A6:F/8     *5*:W>b1   C6:WP>12
+                                   K
+                                   
+E.Gattis-A1  A7:G/3     B7:G-DP/4  *8*:K
+                        63>1o      
+                                   
+A.Simmon-A1  *3*:L/5    B8:L/6     C8:P/6
+                                   
+                                   
+O.Infant-A1  A9:G/43    *6*:G/63   C9:G/13
+                                   
+                                   
+
+D.Nava-A1    A1:K       B1:Si>12   C1:K       D1:K
+                                              
+                                              
+S.Gennet-A1  A2:G/63    B2:G-DP/3  C2:Si>13   D2:K
+                        63>1o                 
+                                              
+Y.Puig-A1    A3:G/53    *4*:K      C3:G/63    D3:G/53
+                                              
+                                              
+E.Encarn-A1  *2*:G/63   B4:W>b1    *6*:K      *8*:G/13
+                                              
+                                              
+J.Uribe-A1   A5:F/8     B5:Si>13   C5:Tr      D5:L/6
+                                              
+                                              
+A.Ethier-A1  A6:HR>b#   B6:SF/8>3  C6:SF/9>3  D6:K
+                        # 12       #          
+                                              
+M.Scutar-A1  A7:G/31    B7:G/43    C7:Do
+                                   
+                                   
+M.Kawasa-A1  *3*:F/8    *5*:K      C8:G/53
+                                   
+                                   
+R.Martin-A1  A9:Si      B9:Si      *7*:W>b1
+                                   
+                                   
+
+

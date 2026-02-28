@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2014 Los Angeles(AL) Angels At 2014 Los Angeles(NL) Dodg 10/26/2014
+
+[1]  Angels             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  E.Aybar SS          4  0  0  0 .250     M.Scutaro 2B        4  1  1  0 .321  
+  M.Ozuna CF,RF       2  0  0  0 .296     A.Ethier CF,RF      4  1  1  0 .244  
+C-C.Davis PH,1B       2  0  0  0 .240     E.Encarnacion 1B    5  0  1  1 .184  
+  C.Johnson 3B        4  0  2  0 .265     Y.Puig RF           2  1  2  1 .273  
+  M.Holliday DH       4  0  2  0 .214   D-S.Gennett PH        1  0  1  0 .500  
+  M.Trumbo 1B,RF      2  0  0  0 .174   E-M.Kemp CF           0  0  0  0 .100  
+  C.Gonzalez LF,CF    3  0  0  0 .375     M.Olivo DH          2  0  0  0 .000  
+  A.Pierzynski C      3  0  0  0 .190   B-A.Ellis PH,DH       0  0  0  0 .000  
+  W.Ramirez RF        1  0  0  0 .143     D.Nava LF           3  1  0  0 .389  
+A-S.Rodriguez PH,LF   1  0  0  0 .083     J.Nix SS            2  0  1  1 .462  
+F-R.Hernandez PH      1  0  0  0 .000     J.Uribe 3B          4  1  1  2 .273  
+G-C.Culberson LF      0  0  0  0 .000     R.Martin C          3  0  2  0 .238  
+  A.Callaspo 2B       3  0  0  0 .277                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  4  0                 Totals      30  5 10  5
+
+A-Pinch Hit For Ramirez In 5th Inning
+B-Pinch Hit For Olivo In 5th Inning
+C-Pinch Hit For Ozuna In 6th Inning
+D-Pinch Hit For Puig In 7th Inning
+E-Subbed Defensively (CF) For Gennett In 8th Inning
+F-Pinch Hit For Rodriguez In 8th Inning
+G-Subbed Defensively (LF) For Hernandez In 8th Inning
+
+Angels.......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+Dodgers......... 0 1 2  2 0 0  0 0    -  5 10  0
+
+[1]Angels (9-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Danks LOSS(1-2)            5       8   5   5   4   1   1   3.38  A1 D1
+T.Watson                     1       0   0   0   0   0   0   0.00  D2 D3
+J.Collmenter                 2       2   0   0   1   1   0   3.38  D4
+[1]Totals                    8      10   5   5   5   2   1
+
+[1]Dodgers (10-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(3-2)           9       4   0   0   1   9   0   1.75  A1
+[1]Totals                    9       4   0   0   1   9   0
+
+ATTENDANCE- 51,261 DATE- Sunday, October 26th 2014 TIME- Night 
+UMPIRES- Wally Bell, Laz Diaz, Scott Barry, John Hirschbeck
+T- 2:55
+LEFT ON BASE- Angels: 4  Dodgers:10
+DOUBLE PLAYS- Angels: 1  Dodgers: 1
+DOUBLES- E.Encarnacion(5th), Y.Puig(5th)
+HOME RUNS- J.Uribe(1st)
+RBIs- E.Encarnacion(3rd), Y.Puig(12th), J.Nix(2nd), J.Uribe-2(7th)
+SACRIFICE HITS- A.Ellis, J.Nix
+SACRIFICE FLIES- Y.Puig
+WALKS- M.Trumbo, M.Scutaro, A.Ethier, A.Ellis, D.Nava, J.Nix
+HIT BY PITCH- R.Martin
+STRIKE OUTS- M.Ozuna-2, M.Trumbo-2, C.Gonzalez-2, A.Pierzynski-2, S.Rodriguez,
+             D.Nava, J.Nix
+GIDP- M.Holliday, A.Ethier
+WILD PITCHES- J.Danks
+2-out RBI- J.Nix
+RLISP 2-out- M.Olivo, A.Ethier, J.Uribe-2, E.Encarnacion-2, A.Pierzynski, J.Nix
+
+Yasiel Puig had 2 base hits and Clayton Kershaw delivered 9 solid innings as
+the Los Angeles(NL) Dodgers defeated the Los Angeles(AL) Angels by the score
+of 5 to 0 at Dodger Stadium.
+
+Los Angeles(AL) was unable to climb back into it after Los Angeles(NL) went
+ahead for good in the 2nd inning scoring one runner on 2 base hits.  That
+scoring would be all that was needed.  Neither team managed to score after
+the 4th inning.  
+
+Kershaw(3-2) was credited with the shutout, his first of the year. The losing
+pitcher was John Danks(1-2).  He was unable to control the Los Angeles(NL)
+offense and allowed 8 hits and 4 walks in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(AL) Angels at 2014 Los Angeles(NL) Dodgers
+E.Aybar-A1   A1:G/63    B1:F/8     C1:G/63    D1:G/43
+                                              
+                                              
+M.Ozuna-A1   A2:K       *4*:K      C2:F/8     *9*:L/3
+C.Davis-C2                                    
+                                              
+C.Johnso-A1  A3:G/63    B3:Si      *7*:Si     D3:F/7
+                                              
+                                              
+M.Hollid-A1  *2*:Si     B4:G-DP/3  C4:Si>13   D4:F/7
+                        61>1o                 
+                                              
+M.Trumbo-A1  A5:K       *5*:W>b1   C5:K
+                                   
+                                   
+C.Gonzal-A1  A6:F/9     B6:K       C6:K
+                                   
+                                   
+A.Pierzy-A1  A7:K       B7:K       C7:G/13
+                                   
+                                   
+W.Ramire-A1  *3*:G/63   B8:K       *8*:L/6
+S.Rodrig-B8                        
+R.Hernan-C8+                       
+A.Callas-A1  A9:G/53    *6*:F/8    C9:F/7
+                                   
+                                   
+
+M.Scutar-A1  A1:G/13    B1:Force/  C1:G/43>1  D1:WP>12   E1:Si
+                        64>1o b1   2          W>b1       
+                                                         
+A.Ethier-A1  A2:P/4     B2:Si>13   C2:G/13    D2:G-DP/4  E2:W>12 b
+                                              63>23 1o   1
+                                                         
+E.Encarn-A1  A3:F/8     B3:Do>3#   *5*:G/13   D3:P/6     E3:F/8
+                        13                               
+                                                         
+Y.Puig-A1    *2*:Do     B4:SF/8>3  C4:Si      *7*:Si
+S.Gennet-D4             #                     
+M.Kemp-D8                                     
+M.Olivo-A1   A5:L/6     B5:F/7     C5:W>12 b  D5:Sac/14
+A.Ellis-C5                         1          >12
+                                              
+D.Nava-A1    A6:K       *4*:W>b1   C6:F/8     D6:F/7
+                                              
+                                              
+J.Nix-A1     A7:Si>2#   B7:Sac/54  C7:W>23 1  D7:K
+                        >12        2 b1       
+                                              
+J.Uribe-A1   A8:G/3     B8:HR>2#   C8:F/8     *8*:F/8
+                        b#                    
+                                              
+R.Martin-A1  *3*:HBP    B9:Si      *6*:Si     D9:L/6
+                                              
+                                              
+
+

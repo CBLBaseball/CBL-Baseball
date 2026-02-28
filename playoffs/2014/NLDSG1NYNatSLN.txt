@@ -1,0 +1,117 @@
+[1]BOXSCORE: 2014 New York (NL) Mets At 2014 St. Louis Cardinals       10/3/2014
+
+[1]  Mets               AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  S.Victorino RF      4  1  3  0 .750     M.Carpenter 2B      3  0  1  1 .333  
+  D.Murphy 2B         4  0  0  0 .000     B.Zobrist RF        4  1  1  0 .250  
+  M.Byrd DH           4  1  1  2 .250     M.Cabrera 3B        3  1  1  0 .333  
+  J.Loney 1B          4  0  1  0 .250     M.Adams 1B          3  0  0  0 .000  
+  D.Wright 3B         3  0  1  0 .333     Y.Molina C          3  0  1  1 .333  
+  B.Crawford SS       4  0  0  0 .000     J.Jay CF            4  0  0  1 .000  
+  R.Doumit C          3  0  1  0 .333     J.Lowrie DH         4  0  0  0 .000  
+A-J.Satin PH          1  0  0  0 .000     R.Grossman LF       2  1  1  0 .500  
+  J.Ruggiano CF       4  0  0  0 .000     P.Kozma SS          2  0  1  0 .500  
+  E.Young Jr LF       3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  7  2                 Totals      28  3  6  3
+
+A-Pinch Hit For Doumit In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 2 0  -  2  7  0
+Cardinals....... 2 0 0  0 0 1  0 0    -  3  6  0
+
+[1]Mets (0-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Colon LOSS(0-1)            5 2/3   6   3   3   4   2   0   4.76  A1 D1
+L.Hawkins                    2 1/3   0   0   0   0   2   0   0.00  D2
+[1]Totals                    8       6   3   3   4   4   0
+
+[1]Cardinals (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Wainwright WIN(1-0)        9       7   2   2   1  11   1   2.00  A1
+[1]Totals                    9       7   2   2   1  11   1
+
+ATTENDANCE- 39,584 DATE- Friday, October 3rd 2014 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 3:09
+LEFT ON BASE- Mets: 6  Cardinals: 8
+DOUBLE PLAYS- Mets: 1  Cardinals: 0
+DOUBLES- Y.Molina(1st)
+HOME RUNS- M.Byrd(1st)
+RBIs- M.Byrd-2(2nd), M.Carpenter(1st), Y.Molina(1st), J.Jay(1st)
+STOLEN BASES- R.Grossman(1st)
+SACRIFICE HITS- P.Kozma
+WALKS- D.Wright, M.Carpenter, M.Cabrera, M.Adams, Y.Molina
+HIT BY PITCH- R.Grossman-2
+STRIKE OUTS- S.Victorino, D.Murphy, M.Byrd-2, B.Crawford-2, J.Ruggiano-4,
+             E.Young Jr, M.Cabrera, M.Adams-2, R.Grossman
+GIDP- M.Adams
+2-out RBI- M.Carpenter
+RLISP 2-out- J.Lowrie-2, B.Zobrist-3, J.Jay, D.Wright
+
+Adam Wainwright struck out 11 batters as the St. Louis Cardinals outscored the
+New York (NL) Mets 3 to 2.
+
+Wainwright(1-0) contributed a very nicely pitched game.  He allowed just 7
+hits and 1 walk in 9 innings.  St. Louis had only 6 hits for the night.
+
+Bartolo Colon(0-1) was hit with the loss.  Terry Collins was upset after the
+game.  'I don't like to complain but did you see that umpires strike zone?',
+he said.  'Maybe they ought to start calling the strike zone the way it's
+printed in the rule book.'
+[2]
+[1]SCORESHEET: 2014 New York (NL) Mets at 2014 St. Louis Cardinals
+S.Victor-A1  A1:K       B1:Si      *6*:Si     *8*:Si
+                                              
+                                              
+D.Murphy-A1  A2:K       B2:Force/  C2:P/3     D2:F/8
+                        54>1o b1              
+                                              
+M.Byrd-A1    A3:K       *4*:F/7    C3:K       D3:HR>1#
+                                              b#
+                                              
+J.Loney-A1   *2*:G/13   B4:G/13    C4:Si>12   D4:G/43
+                                              
+                                              
+D.Wright-A1  A5:W>b1    B5:Si      C5:G/43    D5:L/5
+                                              
+                                              
+B.Crawfo-A1  A6:K       B6:F/7     *7*:F/8    *9*:K
+                                              
+                                              
+R.Doumit-A1  A7:G/63    *5*:F/9    C7:Si      D7:G/63
+J.Satin-D7                                    
+                                              
+J.Ruggia-A1  *3*:K      B8:K       C8:K       D8:K
+                                              
+                                              
+E.Young -A1  A9:F/8     B9:G/31    C9:K
+                                   
+                                   
+
+M.Carpen-A1  A1:L/5     B1:G/63    C1:IW>b1   D1:Si>2#
+                                              13
+                                              
+B.Zobris-A1  A2:Si      B2:P/3     C2:F/8     D2:F/9
+                                              
+                                              
+M.Cabrer-A1  A3:Si>13   *3*:W>b1   *5*:K      *7*:G/63
+                                              
+                                              
+M.Adams-A1   A4:W>12 b  B4:G-DP/4  C4:K       D4:K
+             1          63>1o                 
+                                              
+Y.Molina-A1  A5:W>3# 2  B5:Do      C5:P/6     D5:F/8
+             3 12 b1                          
+                                              
+J.Jay-A1     A6:G/43>3  B6:G/53    *6*:P/4    *8*:G/43
+             # 23 12                          
+                                              
+J.Lowrie-A1  A7:L/6     *4*:P/6    C7:G/63    D7:G/43
+                                              
+                                              
+R.Grossm-A1  *2*:HBP    B8:HBP     C8:Si      D8:K
+                                              
+                                              
+P.Kozma-A1   A9:Sac/14  B9:SB>12   C9:Si>12
+             >12        G/63       
+                                   
+
+

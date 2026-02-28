@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2014 Baltimore Orioles At 2014 Los Angeles(AL) Angels     10/6/2014
+
+[1]  Orioles            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  N.McLouth LF        5  0  1  0 .111     C.Gonzalez LF       3  0  2  1 .556  
+  M.Machado 3B        5  1  2  0 .250     M.Holliday DH       4  0  0  0 .077  
+  A.Gonzalez 1B       4  0  1  0 .273     C.Davis 1B          3  1  1  1 .300  
+  C.Quentin DH        4  0  2  1 .333     C.Johnson 3B        4  1  1  0 .333  
+B-R.Davis PR,DH       0  0  0  0 .600   A-S.Rodriguez 2B      0  0  0  0 .000  
+  C.Beltran RF        4  0  0  0 .167     A.Callaspo 2B,3B    4  1  1  0 .222  
+  C.Gomez CF          3  1  2  0 .300     A.Pierzynski C      4  0  1  1 .364  
+  J.Hardy SS          4  0  1  0 .167     K.Calhoun RF        2  1  1  0 .200  
+  M.Wieters C         3  1  1  2 .111   C-M.Trumbo PH         1  0  0  0 .429  
+E-R.Flaherty PH       1  0  0  0 .000   D-P.Bourjos CF        0  0  0  0 .200  
+  F.Galvis 2B         3  0  0  0 .000     E.Aybar SS          4  0  0  0 .167  
+F-D.Valencia PH       1  0  0  0 .000     M.Ozuna CF,RF       3  0  2  1 .750  
+G-B.Roberts PR        0  0  0  01.000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  3 10  3                 Totals      32  4  9  4
+
+A-Subbed Defensively (2B) For Johnson In 8th Inning
+B-Pinch Ran For Quentin In 8th Inning
+C-Pinch Hit For Calhoun In 8th Inning
+D-Subbed Defensively (CF) For Trumbo In 9th Inning
+E-Pinch Hit For Wieters In 9th Inning
+F-Pinch Hit For Galvis In 9th Inning
+G-Pinch Ran For Valencia In 9th Inning
+
+Orioles......... 1 2 0  0 0 0  0 0 0  -  3 10  1
+Angels.......... 0 2 1  0 1 0  0 0    -  4  9  1
+
+[1]Orioles (0-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Latos LOSS(0-1)            7       9   4   3   3   3   1   3.86  A1 D5
+R.Choate                     0 1/3   0   0   0   0   0   0   9.00  D6 D6
+D.O'Day                      0 1/3   0   0   0   0   1   0   0.00  D7 D7
+T.Stauffer                   0 1/3   0   0   0   0   0   0   6.75  D8
+[1]Totals                    8       9   4   3   3   4   1
+
+[1]Angels (3-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Richards WIN(1-0)          7      10   3   3   0   7   1   3.86  A1 D4
+T.Watson HOLD(1st)           0 1/3   0   0   0   0   1   0   0.00  D5 D5
+A.Simon HOLD(2nd)            0 2/3   0   0   0   1   0   0   0.00  D6 D7
+K.Uehara SAVE(3rd)           1       0   0   0   0   0   0   0.00  D8
+[1]Totals                    9      10   3   3   1   8   1
+
+ATTENDANCE- 41,588 DATE- Monday, October 6th 2014 TIME- Night 
+UMPIRES- Doug Eddings, Paul Nauert, Dana Demuth, Kerwin Danley
+T- 2:26
+LEFT ON BASE- Orioles: 8  Angels: 7
+DOUBLE PLAYS- Orioles: 2  Angels: 0
+ERRORS- M.Machado, C.Gonzalez
+DOUBLES- C.Gonzalez(2nd)
+HOME RUNS- M.Wieters(1st), C.Davis(3rd)
+RBIs- C.Quentin(2nd), M.Wieters-2(2nd), C.Gonzalez(2nd), C.Davis(4th),
+      A.Pierzynski(2nd), M.Ozuna(1st)
+STOLEN BASES- C.Gomez-2(3rd), M.Ozuna(1st)
+CAUGHT STEALING- R.Davis
+WALKS- C.Gomez, C.Gonzalez, C.Davis, K.Calhoun
+STRIKE OUTS- N.McLouth, A.Gonzalez, C.Quentin, C.Beltran-2, J.Hardy, M.Wieters,
+             F.Galvis, C.Gonzalez, C.Davis, M.Trumbo, M.Ozuna
+GIDP- M.Holliday, A.Callaspo
+WILD PITCHES- G.Richards
+2-out RBI- C.Quentin, M.Ozuna, C.Gonzalez, A.Pierzynski
+RLISP 2-out- C.Johnson, A.Gonzalez, M.Holliday, J.Hardy, M.Machado
+WEB GEMS- Bot 7th: Manny Machado robbed Matt Holliday of a base hit.
+
+The Los Angeles(AL) Angels and the Baltimore Orioles locked up in an exciting
+one-run game at Angels Stadium.  The final score was the Los Angeles(AL)
+Angels 4, the Baltimore Orioles 3.
+
+Baltimore was unable to claim the lead after Los Angeles(AL) went ahead in the
+bottom of the 5th inning scoring one runner.  Los Angeles(AL) managed 9 hits
+in their victory.  
+
+The win went to Garrett Richards(1-0) who allowed 3 runs in 7 innings. Koji
+Uehara got the save, his 3rd.  Mat Latos(0-1) was charged with the loss.  
+
+[2]
+[1]SCORESHEET: 2014 Baltimore Orioles at 2014 Los Angeles(AL) Angels
+N.McLout-A1  A1:G/13    B1:Si      C1:G/13    *7*:K      E1:G/63>2
+                                                         3
+                                                         
+M.Machad-A1  A2:Si      B2:Si>13   *5*:G/53   D2:G/3     E2:F/9
+                                                         
+                                                         
+A.Gonzal-A1  A3:WP>12   B3:K       C3:Si      D3:F/7
+             F/9>23                           
+                                              
+C.Quenti-A1  A4:Si>3#   *3*:G/13   C4:K       *8*:Si
+R.Davis-D6                                    
+                                              
+C.Beltra-A1  A5:K       B5:G/63    C5:G/3     D5:K
+                                              
+                                              
+C.Gomez-A1   *2*:Si     B6:Si      *6*:G/53   D6:CS/24>
+                                              1o W>b1
+                                              
+J.Hardy-A1   A7:SB>12   B7:SB>12   C7:Si      D7:G/43
+             K          G/13                  
+                                              
+M.Wieter-A1  A8:HR>2#   *4*:K      C8:P/3     *9*:G/63
+R.Flaher-D8  b#                               
+                                              
+F.Galvis-A1  A9:F/7     B9:G/43    C9:K       D9:E/7>b2
+D.Valenc-D9                                   
+B.Robert-E1                                   
+
+C.Gonzal-A1  A1:Do      B1:Si>3#   C1:SB>12   D1:K
+                        12         IW>b1      
+                                              
+M.Hollid-A1  A2:G/63    B2:G/13    C2:G-DP/6  *7*:G/53
+                                   43>1o      
+                                              
+C.Davis-A1   A3:F/8     *3*:K      *5*:HR>b#  D3:IW>b1
+                                              
+                                              
+C.Johnso-A1  A4:G/13    B4:E/5>b2  C4:F/7     D4:Si>12
+S.Rodrig-D6                                   
+                                              
+A.Callas-A1  *2*:Si     B5:F/8     C5:F/8     D5:G-DP/1
+                                              63>1o
+                                              
+A.Pierzy-A1  A6:F/8     B6:Si>2#   C6:P/4     *8*:G/43
+                                              
+                                              
+K.Calhou-A1  A7:W>12 b  B7:G/53    *6*:Si     D7:K
+M.Trumbo-D7  1                                
+P.Bourjo-D9                                   
+E.Aybar-A1   A8:F/8     *4*:F/8    C8:F/9     D8:G/43
+                                              
+                                              
+M.Ozuna-A1   A9:Si>2#   B9:Si      C9:K
+             13                    
+                                   
+
+

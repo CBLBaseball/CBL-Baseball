@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2014 Seattle Mariners At 2014 Cleveland Indians           10/7/2014
+
+[1]  Mariners           AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  K.Seager 3B         4  2  3  0 .313     J.Kipnis DH         4  0  0  0 .105  
+  J.Segura SS         4  1  1  0 .111     M.Brantley LF       4  0  1  0 .125  
+  J.Smoak 1B          4  0  1  2 .286     S.Choo CF           3  0  0  0 .188  
+  R.Ibanez DH         4  0  2  0 .235     C.Santana C         4  0  0  0 .059  
+  A.Jones CF          4  0  1  0 .235     D.Freese 3B         3  0  0  0 .400  
+  B.Bogusevic LF      2  0  1  0 .600     A.Hill 2B           3  0  0  0 .222  
+A-R.Raburn PH,LF      2  0  0  0 .250     D.Young RF          3  0  1  0 .167  
+  M.Saunders RF       3  0  0  0 .133     L.Duda 1B           3  2  2  2 .214  
+  G.Soto C            2  0  0  0 .167     A.Cabrera SS        3  0  0  0 .067  
+B-N.Freiman PH        1  0  1  0 .667                                          
+C-B.Miller PR,2B      1  0  1  0 .500                                          
+  D.Ackley 2B         3  0  0  0 .000                                          
+D-M.Zunino C          0  0  0  0 .000                                          
+E-M.Sierra PH         1  0  0  0 .000                                          
+F-T.Flowers C         0  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3 11  2                 Totals      30  2  4  2
+
+A-Pinch Hit For Bogusevic In 6th Inning
+B-Pinch Hit For Soto In 7th Inning
+C-Pinch Ran For Freiman In 7th Inning
+D-Subbed Defensively (C ) For Ackley In 7th Inning
+E-Pinch Hit For Zunino In 9th Inning
+F-Subbed Defensively (C ) For Sierra In 9th Inning
+
+Mariners........ 2 0 1  0 0 0  0 0 0  -  3 11  1
+Indians......... 0 0 0  0 0 1  0 1 0  -  2  4  2
+
+[1]Mariners (4-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma WIN(2-0)           7       2   1   1   0   6   1   1.13  A1 C6
+H.Santiago HOLD(2nd)         1       1   1   1   0   1   1   6.75  C7 D1
+D.Farquhar SAVE(2nd)         1       1   0   0   0   1   0   0.00  D2
+[1]Totals                    9       4   2   2   0   8   2
+
+[1]Indians (0-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Salazar LOSS(0-1)          5       7   3   2   0   5   0   3.60  A1 C3
+J.Blevins                    3       3   0   0   0   1   0   0.00  C4 D5
+E.Mujica                     1       1   0   0   0   1   0   0.00  D6
+[1]Totals                    9      11   3   2   0   7   0
+
+ATTENDANCE- -73 DATE- Tuesday, October 7th 2014 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 2:34
+LEFT ON BASE- Mariners: 6  Indians: 2
+DOUBLE PLAYS- Mariners: 1  Indians: 2
+ERRORS- K.Seager, D.Young, J.Blevins
+DOUBLES- D.Young(2nd)
+HOME RUNS- L.Duda-2(2nd)
+RBIs- J.Smoak-2(4th), L.Duda-2(2nd)
+STOLEN BASES- A.Jones(1st)
+SACRIFICE HITS- M.Saunders
+HIT BY PITCH- S.Choo
+STRIKE OUTS- A.Jones-2, R.Raburn, M.Saunders, G.Soto, D.Ackley-2, J.Kipnis,
+             S.Choo-3, C.Santana-2, D.Young-2
+GIDP- A.Jones, C.Santana
+WILD PITCHES- J.Blevins
+RLISP 2-out- B.Bogusevic, D.Ackley, K.Seager, A.Jones
+
+Hisashi Iwakuma took a no-hitter into the 6th inning as the Seattle Mariners
+defeated the Cleveland Indians 3 to 2 at Progressive Field.
+
+Iwakuma(2-0) was in control of the game from the outset.  He didn't give up
+much, just 2 hits and no walks in 7 innings.  The right-handed Iwakuma had
+his no-hit bid broken up by Delmon Young who doubled with nobody out in the
+6th inning.  Cleveland had a chance in the 9th but they came up short.
+
+Iwakuma was helped out by Danny Farquhar who recorded his 2nd save.  Danny
+Salazar(0-1) was charged with the loss.  'It was a tough one to lose' said
+Manny Acta 'We'll get them next time out.'
+[2]
+[1]SCORESHEET: 2014 Seattle Mariners at 2014 Cleveland Indians
+K.Seager-A1  A1:Si      *3*:Si     *5*:Si     D1:G/43
+                                              
+                                              
+J.Segura-A1  A2:Si+E/9  B2:G/43>1  C2:L-DP/6  *8*:L/5
+             >1#        2          3>1o       
+                                              
+J.Smoak-A1   A3:G/63>3  B3:Si>2#   C3:G/63    D3:P/6
+             #                                
+                                              
+R.Ibanez-A1  A4:F/9     B4:F/9     *6*:Si     D4:Si+E/1
+                                              
+                                              
+A.Jones-A1   A5:Si      B5:K       C5:G-DP/6  D5:WP>23
+                                   43>1o      K
+                                              
+B.Boguse-A1  A6:SB>12   *4*:Si     C6:P/6     *9*:K
+R.Raburn-C6  F/9                              
+                                              
+M.Saunde-A1  *2*:K      B7:Sac/14  *7*:G/63   D7:L/6
+                        >12                   
+                                              
+G.Soto-A1    A8:K       B8:P/2     C8:Si      D8:Si
+N.Freima-C8                                   
+B.Miller-C9                                   
+D.Ackley-A1  A9:K       B9:K       C9:G/3>12  D9:F/9
+M.Zunino-D2                                   
+M.Sierra-D9+                                  
+
+J.Kipnis-A1  A1:G/43    *4*:K      C1:E/5     D1:F/9
+                                              
+                                              
+M.Brantl-A1  A2:G/3     B2:F/8     C2:P/4     *9*:Si
+                                              
+                                              
+S.Choo-A1    A3:K       B3:K       *7*:HBP    D3:K
+                                              
+                                              
+C.Santan-A1  *2*:K      *5*:K      C4:F/9     D4:G-DP/4
+                                              63>1o
+                                              
+D.Freese-A1  A5:G/53    B5:G/63    C5:F/8
+                                   
+                                   
+A.Hill-A1    A6:P/6     B6:L/5     C6:P/6
+                                   
+                                   
+D.Young-A1   *3*:K      *6*:Do     *8*:K
+                                   
+                                   
+L.Duda-A1    A8:G/43    B8:HR>b#   C8:HR>b#
+                                   
+                                   
+A.Cabrer-A1  A9:G/43    B9:F/7     C9:L/6
+                                   
+                                   
+
+

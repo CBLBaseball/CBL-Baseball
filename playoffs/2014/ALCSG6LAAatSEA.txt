@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2014 Los Angeles(AL) Angels At 2014 Seattle Mariners     10/20/2014
+
+[1]  Angels             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  C.Gonzalez LF       3  1  1  1 .448     J.Segura SS         4  2  3  0 .209  
+E-C.Culberson PH,LF   1  0  0  0 .000     B.Miller 2B         3  0  1  1 .357  
+G-S.Rodriguez LF      0  0  0  0 .111     R.Ibanez DH         3  0  1  1 .229  
+  M.Holliday DH       5  0  1  0 .175     K.Seager 3B         3  0  0  1 .222  
+  C.Davis 1B          4  2  2  2 .270     N.Freiman 1B        1  0  0  0 .545  
+  C.Johnson 3B        4  0  0  0 .242   D-D.Uggla PH,1B,C     2  0  0  0 .167  
+  A.Callaspo 2B       4  2  2  0 .229     D.Ackley LF         3  0  1  0 .107  
+  A.Pierzynski C      4  1  2  2 .258   K-M.Sierra PH         0  0  0  0 .250  
+  K.Calhoun RF        1  0  0  0 .188     A.Jones CF          4  0  1  0 .179  
+A-C.Wilson PH         1  0  1  01.000     M.Saunders RF       4  0  0  0 .100  
+B-M.Trumbo RF         2  0  0  0 .222     M.Zunino C          0  0  0  0 .286  
+H-P.Bourjos CF        0  0  0  0 .167   C-T.Flowers PH,C      2  0  0  0 .000  
+  E.Aybar SS          4  0  0  0 .270   F-J.Smoak PH,1B       0  1  0  0 .345  
+  M.Ozuna CF,RF       3  0  1  1 .400   L-G.Soto PH           1  0  0  0 .182  
+I-G.Richards PH       1  0  0  0 .000                                          
+J-W.Ramirez RF        0  0  0  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  6 10  6                 Totals      30  3  7  3
+
+A-Pinch Hit For Calhoun In 3rd Inning
+B-Subbed Defensively (RF) For Wilson In 3rd Inning
+C-Pinch Hit For Zunino In 3rd Inning
+D-Pinch Hit For Freiman In 4th Inning
+E-Pinch Hit For Gonzalez In 6th Inning
+F-Pinch Hit For Flowers In 8th Inning
+G-Subbed Defensively (LF) For Culberson In 8th Inning
+H-Subbed Defensively (CF) For Trumbo In 8th Inning
+I-Pinch Hit For Ozuna In 9th Inning
+J-Subbed Defensively (RF) For Richards In 9th Inning
+K-Pinch Hit For Ackley In 9th Inning
+L-Pinch Hit For Smoak In 9th Inning
+
+Angels.......... 1 1 3  1 0 0  0 0 0  -  6 10  0
+Mariners........ 1 0 0  0 0 0  0 2 0  -  3  7  0
+
+[1]Angels (7-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Danks WIN(1-1)             7       5   1   1   0   4   0   1.32  A1 C8
+L.Avilan                     0       2   2   2   1   0   0   5.40  C9 D2
+T.Watson HOLD(2nd)           1       0   0   0   1   0   0   0.00  D3 D5
+K.Uehara SAVE(6th)           1       0   0   0   1   1   0   0.00  D6
+[1]Totals                    9       7   3   3   3   5   0
+
+[1]Mariners (7-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Lynn LOSS(1-1)             9      10   6   6   1  10   4   4.70  A1
+[1]Totals                    9      10   6   6   1  10   4
+
+ATTENDANCE- 45,864 DATE- Monday, October 20th 2014 TIME- Night 
+UMPIRES- Bill Hohn, Greg Gibson, Sam Holbrook, Gerry Davis
+T- 2:58
+LEFT ON BASE- Angels: 5  Mariners: 6
+DOUBLE PLAYS- Angels: 0  Mariners: 0
+DOUBLES- A.Pierzynski(3rd), A.Jones(2nd)
+TRIPLES- J.Segura(2nd)
+HOME RUNS- C.Gonzalez(1st), C.Davis-2(6th), A.Pierzynski(1st)
+RBIs- C.Gonzalez(4th), C.Davis-2(9th), A.Pierzynski-2(7th), M.Ozuna(3rd),
+      B.Miller(3rd), R.Ibanez(3rd), K.Seager(7th)
+CAUGHT STEALING- B.Miller
+SACRIFICE FLIES- B.Miller, R.Ibanez, K.Seager
+WALKS- S.Rodriguez, D.Uggla, M.Sierra, J.Smoak
+STRIKE OUTS- C.Gonzalez-2, M.Holliday-2, C.Johnson-3, A.Pierzynski, M.Trumbo,
+             M.Ozuna, K.Seager, D.Ackley, A.Jones-2, M.Saunders
+2-out RBI- C.Davis, M.Ozuna, A.Pierzynski-2
+RLISP 2-out- C.Gonzalez, A.Jones-2, M.Saunders, G.Soto
+
+Chris Davis launched 2 homeruns as the Los Angeles(AL) Angels topped the
+Seattle Mariners by a score of 6 to 3 at SAFECO Field.
+
+Los Angeles(AL) took the lead for good in the 2nd inning scoring a single run
+utilizing 3 base hits.  Los Angeles(AL) had 10 hits for the game and Seattle
+had 7.  
+
+The win was credited to John Danks(1-1) who went 7 innings allowing 1 run.
+Koji Uehara preserved the game for Danks, recording his his 6th save.  Lance
+Lynn(1-1) was tagged with the loss.  He allowed 4 homeruns in 9 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(AL) Angels at 2014 Seattle Mariners
+C.Gonzal-A1  A1:K       B1:K       C1:HR>b#   D1:L/6     E1:W>b1
+C.Culber-D1                                              
+S.Rodrig-D8                                              
+M.Hollid-A1  A2:F/7     *3*:K      C2:Si      *7*:G/63   E2:K
+                                                         
+                                                         
+C.Davis-A1   A3:HR>b#   B3:HR>b#   C3:L/4     D3:F/9
+                                              
+                                              
+C.Johnso-A1  A4:G/53    B4:K       C4:K       D4:K
+                                              
+                                              
+A.Callas-A1  *2*:Si     B5:Si      *5*:G/63   *8*:P/6
+                                              
+                                              
+A.Pierzy-A1  A6:Do>13   B6:HR>1#   C6:F/8     D6:K
+                        b#                    
+                                              
+K.Calhou-A1  A7:G/63    B7:Si      C7:K       D7:G/53
+C.Wilson-B7                                   
+M.Trumbo-B9+                                  
+E.Aybar-A1   A8:G/3     B8:G/31    *6*:G/53   *9*:F/7
+                                              
+                                              
+M.Ozuna-A1   A9:Si>3#   *4*:G/31   C9:K       D9:P/6
+G.Richar-D9  23                               
+W.Ramire-E3                                   
+
+J.Segura-A1  A1:Tr      B1:Si      C1:G/13    D1:Si>12
+                                              
+                                              
+B.Miller-A1  A2:SF/8>3  B2:F/8     *6*:G/43   D2:Si>23
+             #                                12
+                                              
+R.Ibanez-A1  A3:G/43    *4*:Si     C3:G/43    D3:SF/9>3
+                                              # 23
+                                              
+K.Seager-A1  A4:F/7     B4:K       C4:G/31    D4:SF/7>3
+                                              # CS/24>1
+                                              o
+N.Freima-A1  *2*:G/63   B5:F/7     *7*:G/13   *9*:W>b1
+D.Uggla-B5                                    
+                                              
+D.Ackley-A1  A6:K       B6:Si>13   C6:P/4     D6:W>12 b
+M.Sierra-D6                                   1
+                                              
+A.Jones-A1   A7:F/8     B7:K       C7:Do      D7:K
+                                              
+                                              
+M.Saunde-A1  *3*:K      *5*:F/9    C8:G/43    D8:F/9>23
+                                              
+                                              
+M.Zunino-A1  A9:L/6     B9:G/63    *8*:W>b1   D9:F/9
+T.Flower-A9                                   
+J.Smoak-C9+                                   
+
+

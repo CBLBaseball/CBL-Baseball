@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2014 Seattle Mariners At 2014 Cleveland Indians           10/6/2014
+
+[1]  Mariners           AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  J.Segura SS         5  0  0  0 .071     J.Kipnis DH         4  1  1  0 .133  
+  K.Seager 3B         4  1  1  1 .167     M.Brantley LF       5  0  1  0 .083  
+  J.Smoak 1B          4  0  2  2 .300     S.Choo CF           5  0  3  0 .231  
+  R.Ibanez DH         4  0  2  1 .154     C.Santana C         5  1  1  1 .077  
+  A.Jones CF          5  0  1  0 .231     D.Freese 3B         4  0  2  1 .500  
+  B.Bogusevic LF      3  1  2  0 .667     A.Hill 2B           3  0  2  0 .333  
+C-T.Flowers PH,C      2  0  0  0 .000     D.Young RF          4  0  0  0 .111  
+  M.Saunders RF       3  1  1  0 .167     L.Duda 1B           2  0  0  0 .091  
+  G.Soto C            1  1  1  0 .250   B-L.Morrison PH,1B    2  0  1  0 .167  
+D-R.Raburn PH,LF      0  0  0  0 .500     A.Cabrera SS        3  0  1  0 .083  
+  D.Ackley 2B         2  0  0  0 .000                                          
+A-B.Miller PH,2B      2  0  0  0 .400                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4 10  4                 Totals      37  2 12  2
+
+A-Pinch Hit For Ackley In 5th Inning
+B-Pinch Hit For Duda In 6th Inning
+C-Pinch Hit For Bogusevic In 7th Inning
+D-Pinch Hit For Soto In 7th Inning
+
+Mariners........ 1 0 0  3 0 0  0 0 0  -  4 10  0
+Indians......... 2 0 0  0 0 0  0 0 0  -  2 12  1
+
+[1]Mariners (3-0)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister WIN(1-0)            7      10   2   2   3   8   0   2.57  A1 D6
+C.Furbush HOLD(2nd)          1 1/3   0   0   0   0   1   0   0.00  D7 D9
+D.Farquhar SAVE(1st)         0 2/3   2   0   0   0   2   0   0.00  E1
+[1]Totals                    9      12   2   2   3  11   0
+
+[1]Indians (0-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Sanchez LOSS(0-1)          9      10   4   4   6  17   0   4.00  A1
+[1]Totals                    9      10   4   4   6  17   0
+
+ATTENDANCE- 134 DATE- Monday, October 6th 2014 TIME- Night 
+UMPIRES- Brian Runge, Marvin Hudson, Tim McClelland, Ted Barrett
+T- 3:09
+LEFT ON BASE- Mariners:11  Indians:11
+DOUBLE PLAYS- Mariners: 1  Indians: 1
+ERRORS- A.Cabrera
+DOUBLES- K.Seager(2nd), B.Bogusevic(1st), S.Choo(1st), C.Santana(1st),
+         A.Hill(1st), A.Cabrera(1st)
+RBIs- K.Seager(3rd), J.Smoak-2(2nd), R.Ibanez(2nd), C.Santana(1st),
+      D.Freese(3rd)
+STOLEN BASES- K.Seager(1st), M.Saunders(1st)
+CAUGHT STEALING- A.Hill
+SACRIFICE HITS- M.Saunders
+WALKS- K.Seager, J.Smoak, R.Ibanez, G.Soto-2, R.Raburn, J.Kipnis, A.Hill,
+       A.Cabrera
+STRIKE OUTS- J.Segura-3, K.Seager, J.Smoak-2, R.Ibanez-2, A.Jones-3,
+             T.Flowers-2, M.Saunders-2, D.Ackley, B.Miller, J.Kipnis-2,
+             M.Brantley, S.Choo, C.Santana-3, D.Freese-2, D.Young, L.Duda
+GIDP- A.Jones, A.Cabrera
+WILD PITCHES- A.Sanchez
+2-out RBI- R.Ibanez, C.Santana, D.Freese, K.Seager, J.Smoak-2
+RLISP 2-out- A.Jones-4, D.Young-3, J.Segura, M.Brantley, A.Hill, D.Freese,
+             C.Santana-2
+
+In a good matchup it was the Seattle Mariners 4, the Cleveland Indians 2 at
+Progressive Field.
+
+Seattle came up with 3 runs in the 4th inning when they came up with 3 base
+hits.  The critical plate appearance was by Justin Smoak who deflated the
+spirits of the home town crowd when he lined a base-hit plating two runs.
+The pitchers took over after the 4th inning as neither team was able to score
+again.  
+
+Doug Fister(1-0) picked up the victory, allowing 2 runs in 7 innings. Danny
+Farquhar recorded his 1st save.  Anibal Sanchez(0-1) was tagged with the
+loss.  Although losing the contest, he whiffed 17 batters in 9 innings.  
+
+[2]
+[1]SCORESHEET: 2014 Seattle Mariners at 2014 Cleveland Indians
+J.Segura-A1  A1:G/53    B1:K       C1:K       *6*:G/63   *8*:K
+                                                         
+                                                         
+K.Seager-A1  A2:Do      *3*:E/6    C2:W>3# 2  D2:K       E2:P/3
+                                   3 12 b1               
+                                                         
+J.Smoak-A1   A3:K       B3:SB>12   C3:Si>3#   D3:Si      E3:K
+                        W>b1       2# 13                 
+                                                         
+R.Ibanez-A1  A4:Si>2#   B4:K       C4:W>12 b  D4:Si>13   *9*:K
+                                   1                     
+                                                         
+A.Jones-A1   A5:WP>12   B5:G-DP/6  C5:K       D5:K       E5:K
+             Si>2o      43>1o                            
+                                                         
+B.Boguse-A1  *2*:Do     *4*:Si     *5*:G/63   *7*:K      E6:K
+T.Flower-D6                                              
+                                                         
+M.Saunde-A1  A7:Sac/14  B7:Si>13   C7:K       D7:K
+             >23                              
+                                              
+G.Soto-A1    A8:W>b1    B8:SB>12   C8:Si      D8:W>b1
+R.Raburn-D8             IW>b1                 
+                                              
+D.Ackley-A1  A9:K       B9:P/6     C9:K       D9:FO/2
+B.Miller-C9                                   
+                                              
+
+J.Kipnis-A1  A1:W>b1    B1:K       C1:G/43>2  *7*:Si     E1:K
+                                   3                     
+                                                         
+M.Brantl-A1  A2:G/43>1  B2:K       C2:G/13    D2:Force/  E2:Si
+             2                                36>1o b1   
+                                                         
+S.Choo-A1    A3:F/8     *3*:K      *5*:Si     D3:Si>13   E3:Do>13
+                                                         
+                                                         
+C.Santan-A1  A4:Do>2#   B4:K       C4:G/43>1  D4:K       E4:K
+                                   2                     
+                                                         
+D.Freese-A1  A5:Si>2#   B5:Si      C5:K       D5:K
+                                              
+                                              
+A.Hill-A1    A6:Do>13   B6:W>12 b  C6:G/53    *8*:Si
+                        1                     
+                                              
+D.Young-A1   A7:G/63    B7:L/5     *6*:F/7    D7:K
+                                              
+                                              
+L.Duda-A1    *2*:K      *4*:L/3    C8:Si      D8:CS/26>
+L.Morris-C8                                   1o F/8
+                                              
+A.Cabrer-A1  A9:W>b1    B9:Do      C9:G-DP/6  *9*:G/43
+                                   43>1o      
+                                              
+
+

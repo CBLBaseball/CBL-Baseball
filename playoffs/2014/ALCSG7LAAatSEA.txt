@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2014 Los Angeles(AL) Angels At 2014 Seattle Mariners     10/21/2014
+
+[1]  Angels             AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  C.Gonzalez LF,CF    3  0  0  0 .406     J.Segura SS         4  0  1  0 .213  
+C-C.Culberson PH      1  0  0  0 .000     D.Ackley 2B,LF      3  0  2  0 .161  
+D-P.Bourjos CF        0  0  0  0 .167     R.Raburn RF         3  0  1  0 .125  
+  M.Holliday DH       4  0  0  0 .159   E-B.Miller PH,2B      1  0  0  0 .333  
+  C.Davis 1B          4  0  0  0 .244     A.Jones CF          3  0  0  0 .167  
+  C.Johnson 3B        4  1  1  0 .243     N.Freiman DH        1  0  0  0 .500  
+F-S.Rodriguez 2B      0  0  0  0 .111   A-M.Sierra PH,DH      3  0  1  0 .286  
+  A.Callaspo 2B,3B    3  1  1  0 .237     J.Smoak 1B          4  0  0  0 .303  
+  E.Aybar SS          3  0  1  2 .275     K.Seager 3B         2  0  0  0 .211  
+  W.Ramirez RF        3  0  0  0 .200     M.Zunino C          3  0  0  0 .200  
+  M.Ozuna CF          1  0  0  0 .381     M.Saunders LF,RF    3  0  0  0 .091  
+B-M.Trumbo PH,LF      2  0  0  0 .200                                          
+  A.Pierzynski C      2  0  0  0 .242                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  3  2                 Totals      30  0  5  0
+
+A-Pinch Hit For Freiman In 3rd Inning
+B-Pinch Hit For Ozuna In 5th Inning
+C-Pinch Hit For Gonzalez In 8th Inning
+D-Subbed Defensively (CF) For Culberson In 8th Inning
+E-Pinch Hit For Raburn In 8th Inning
+F-Subbed Defensively (2B) For Johnson In 9th Inning
+
+Angels.......... 0 0 0  2 0 0  0 0 0  -  2  3  1
+Mariners........ 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Angels (8-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Wilson WIN(3-1)            6       3   0   0   4   4   0   3.55  A1 C7
+T.Watson HOLD(3rd)           2 1/3   1   0   0   0   0   0   0.00  C8 D4
+K.Uehara SAVE(7th)           0 2/3   1   0   0   0   2   0   0.00  D5
+[1]Totals                    9       5   0   0   4   6   0
+
+[1]Mariners (7-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma LOSS(3-2)          7 2/3   3   2   2   1  12   0   2.63  A1 C9
+Y.Medina                     1 1/3   0   0   0   0   1   0   0.00  D1
+[1]Totals                    9       3   2   2   1  13   0
+
+ATTENDANCE- 44,098 DATE- Tuesday, October 21st 2014 TIME- Night 
+UMPIRES- Doug Eddings, Paul Nauert, Dana Demuth, Kerwin Danley
+T- 2:36
+LEFT ON BASE- Angels: 2  Mariners: 7
+DOUBLE PLAYS- Angels: 1  Mariners: 0
+ERRORS- C.Johnson
+DOUBLES- E.Aybar(1st)
+RBIs- E.Aybar-2(4th)
+CAUGHT STEALING- B.Miller
+WALKS- A.Pierzynski, D.Ackley, A.Jones, K.Seager-2
+STRIKE OUTS- C.Gonzalez-2, M.Holliday-4, C.Davis-2, C.Johnson, E.Aybar,
+             W.Ramirez-2, A.Pierzynski, J.Segura, R.Raburn, M.Sierra, J.Smoak,
+             K.Seager, M.Zunino
+GIDP- M.Zunino
+2-out RBI- E.Aybar-2
+RLISP 2-out- M.Sierra-2, W.Ramirez, R.Raburn
+
+At SAFECO Field, the Seattle fans witnessed a great pitcher's duel.  C.J.
+Wilson(3-1) finally bested his Seattle opposite, Hisashi Iwakuma(3-2), by the
+score of 2 to 0.
+
+Wilson earned his pay with a solid performance for Los Angeles(AL).  He went 6
+innings surrendering 3 hits and 4 walks dropping his ERA from 4.33 to 3.55.
+Both teams' bats went to sleep after the 4th inning with no runs scored after
+that point.  
+
+Wilson got help from Koji Uehara who was credited with his 7th save.  Iwakuma
+absorbed the loss.  He struck out 12 batters in 7 and 2/3 innings despite
+losing the game.  
+
+[2]
+[1]SCORESHEET: 2014 Los Angeles(AL) Angels at 2014 Seattle Mariners
+C.Gonzal-A1  A1:K       B1:L/4     C1:K       D1:F/7
+C.Culber-D1                                   
+P.Bourjo-D2                                   
+M.Hollid-A1  A2:K       *4*:K      *6*:K      *9*:K
+                                              
+                                              
+C.Davis-A1   A3:G/43    B3:K       C3:K       D3:F/8
+                                              
+                                              
+C.Johnso-A1  *2*:K      B4:Si      C4:G/63    D4:G/63
+S.Rodrig-D5                                   
+                                              
+A.Callas-A1  A5:G/63    B5:Si>13   *7*:F/8
+                                   
+                                   
+E.Aybar-A1   A6:G/31    B6:Do>3#   C6:K
+                        1#         
+                                   
+W.Ramire-A1  *3*:K      B7:G/53    C7:K
+                                   
+                                   
+M.Ozuna-A1   A8:L/6     *5*:G/53   *8*:F/9
+M.Trumbo-B8                        
+                                   
+A.Pierzy-A1  A9:W>b1    B9:L/4     C9:K
+                                   
+                                   
+
+J.Segura-A1  A1:K       B1:G/13    C1:G/63    *8*:Si
+                                              
+                                              
+D.Ackley-A1  A2:Si      B2:W>b1    C2:Si+E/5  D2:F/7
+                                              
+                                              
+R.Raburn-A1  A3:K       B3:Si>13   C3:G/63    D3:Force/
+B.Miller-D3                                   64>1o b1
+                                              CS/24>1o
+A.Jones-A1   A4:F/8     B4:IW>b1   *6*:G/53   *9*:G/43
+                                              
+                                              
+N.Freima-A1  *2*:G/43   B5:K       C5:F/7     D5:Si
+M.Sierra-B5                                   
+                                              
+J.Smoak-A1   A6:G/53    *4*:G/63   C6:F/9     D6:K
+                                              
+                                              
+K.Seager-A1  A7:W>b1    B7:L/4     *7*:W>b1   D7:K
+                                              
+                                              
+M.Zunino-A1  A8:L/6     B8:K       C8:G-DP/6
+                                   43>1o
+                                   
+M.Saunde-A1  *3*:F/8    *5*:F/9    C9:G/43
+                                   
+                                   
+
+

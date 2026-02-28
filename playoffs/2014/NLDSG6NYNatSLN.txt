@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2014 New York (NL) Mets At 2014 St. Louis Cardinals      10/10/2014
+
+[1]  Mets               AB  R  H RBI AVG     Cardinals          AB  R  H RBI AVG
+  S.Victorino RF      5  0  1  0 .407     M.Carpenter 2B      4  1  0  0 .095  
+  D.Murphy 2B         3  0  0  0 .250     B.Zobrist RF        4  1  3  0 .217  
+C-L.Forsythe 2B       0  0  0  0 .000     M.Cabrera 3B        4  1  1  0 .240  
+  M.Byrd DH           4  1  1  0 .273     M.Adams 1B          4  1  2  4 .438  
+  J.Loney 1B          3  1  1  0 .200     Y.Molina C          4  0  1  0 .280  
+  D.Wright 3B         4  0  1  1 .267     J.Jay CF            4  1  1  0 .320  
+  B.Crawford SS       4  1  1  0 .174     J.Lowrie DH         4  1  1  2 .136  
+  R.Doumit C          3  1  1  1 .200     R.Grossman LF       4  0  2  0 .333  
+  J.Ruggiano CF,LF    4  1  1  3 .105     P.Kozma SS          2  0  0  0 .235  
+  E.Young Jr LF       2  0  0  0 .000   A-S.Robinson PH       1  0  1  0 .500  
+D-J.Lagares CF        1  0  0  0 .000   B-M.Derosa SS         0  0  0  0 ----  
+                                        E-L.Overbay PH        1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  5  7  5                 Totals      36  6 12  6
+
+A-Pinch Hit For Kozma In 7th Inning
+B-Subbed Defensively (SS) For Robinson In 8th Inning
+C-Subbed Defensively (2B) For Murphy In 8th Inning
+D-Subbed Defensively (CF) For Young Jr In 8th Inning
+E-Pinch Hit For Derosa In 9th Inning
+
+Mets............ 0 0 0  0 4 0  0 1 0  -  5  7  0
+Cardinals....... 0 0 0  0 0 0  0 2 4  -  6 12  1
+
+[1]Mets (3-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Burnett                    5 1/3   7   0   0   1   4   0   0.73  A1 C5
+C.Qualls                     2 1/3   3   2   2   1   3   1   3.86  C6 D7
+B.Parnell LOSS(1-1)          0 2/3   2   4   4   2   0   1  12.27  D8
+[1]Totals                    8 1/3  12   6   6   4   7   2
+
+[1]Cardinals (3-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Lohse WIN(1-1)             9       7   5   4   2   6   1   5.29  A1
+[1]Totals                    9       7   5   4   2   6   1
+
+ATTENDANCE- 40,651 DATE- Friday, October 10th 2014 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 2:57
+LEFT ON BASE- Mets: 5  Cardinals: 9
+DOUBLE PLAYS- Mets: 1  Cardinals: 1
+ERRORS- B.Zobrist
+DOUBLES- J.Loney(1st), B.Zobrist(1st)
+HOME RUNS- J.Ruggiano(1st), M.Adams(3rd), J.Lowrie(1st)
+RBIs- D.Wright(1st), R.Doumit(2nd), J.Ruggiano-3(3rd), M.Adams-4(7th),
+      J.Lowrie-2(3rd)
+STOLEN BASES- J.Jay(2nd), R.Grossman(3rd)
+SACRIFICE HITS- E.Young Jr
+WALKS- J.Loney, R.Doumit, M.Carpenter, B.Zobrist, M.Cabrera, M.Adams
+HIT BY PITCH- D.Murphy
+STRIKE OUTS- M.Byrd-2, B.Crawford, R.Doumit, J.Ruggiano, E.Young Jr,
+             M.Carpenter-2, M.Cabrera, J.Jay, J.Lowrie-2, P.Kozma
+GIDP- M.Byrd, Y.Molina
+2-out RBI- J.Lowrie-2
+RLISP 2-out- P.Kozma, J.Lowrie, M.Cabrera-2, B.Crawford, S.Victorino, R.Doumit
+
+Kyle Lohse had a complete game as the St. Louis Cardinals came back to win one
+over New York (NL) Mets, 6 to 5.
+
+St. Louis had the game winning rally in the bottom of the 9th inning when they
+came up with 4 runs on 2 hits.  The highlight belonged to Matt Adams who
+thrilled the crowd when he cleared the bases with a Grand Slam homerun.  St.
+Louis had 12 hits for the night.  
+
+Lohse(1-1) got the victory, allowing 5 runs for the game. Bobby Parnell(1-1)
+took the loss in relief.  He surrendered 2 hits and 2 walks in 2/3 of an
+inning.  
+
+Tony LaRussa was ebullient after the game, 'It's great to win a hard fought
+game like that.  Our guys just weren't going to be denied.  And did you see
+the fans - they were going wild! Yes sir, a very enjoyable win tonight!'
+[2]
+[1]SCORESHEET: 2014 New York (NL) Mets at 2014 St. Louis Cardinals
+S.Victor-A1  A1:G/31    *4*:P/6    C1:Si      D1:G/63    E1:F/9
+                                                         
+                                                         
+D.Murphy-A1  A2:HBP     B2:G/43    C2:F/9     *8*:L/4
+L.Forsyt-D8                                   
+                                              
+M.Byrd-A1    A3:G-DP/5  B3:K       *6*:K      D3:Si
+             43>1o                            
+                                              
+J.Loney-A1   *2*:G/63   *5*:W>b1   C4:Do      D4:E/9>12
+                                              
+                                              
+D.Wright-A1  A5:F/8     B5:G/43>1  C5:G/63    D5:Si>2#
+                        2                     13
+                                              
+B.Crawfo-A1  A6:G/63    B6:Si>23   C6:K       D6:L/4
+                                              
+                                              
+R.Doumit-A1  *3*:L/4    B7:Si>3#   *7*:W>b1   D7:K
+                        12                    
+                                              
+J.Ruggia-A1  A8:G/53    B8:HR>2#   C8:K       *9*:G/53
+                        1# b#                 
+                                              
+E.Young -A1  A9:F/8     B9:K       C9:Sac/24  D9:G/63
+J.Lagare-D8                        >12        
+                                              
+
+M.Carpen-A1  A1:K       *3*:G/31   C1:F/7     D1:K       E1:W>b1
+                                                         
+                                                         
+B.Zobris-A1  A2:Si      B2:G/53    C2:Si>12   D2:W>12 b  E2:Do>13
+                                              1          
+                                                         
+M.Cabrer-A1  A3:Si>12   B3:L/6     C3:G/31    D3:K       E3:IW>b1
+                                                         
+                                                         
+M.Adams-A1   A4:W>23 1  *4*:F/9    *6*:Si     *8*:G/43   E4:HR>3#
+             2 b1                                        2# 1# b#
+                                                         
+Y.Molina-A1  A5:G-DP/6  B5:L/6     C5:F/9     D5:Si
+             43>1o                            
+                                              
+J.Jay-A1     *2*:K      B6:Si      C6:FO/2    D6:Force/
+                                              64>1o b1
+                                              
+J.Lowrie-A1  A7:K       B7:SB>12   C7:K       D7:HR>1#
+                        G/13                  b#
+                                              
+R.Grossm-A1  A8:Si      *5*:Si     *7*:F/8    D8:G/31
+                                              
+                                              
+P.Kozma-A1   A9:SB>12   B9:P/3     C9:Si      *9*:G/31
+S.Robins-C9  K                                
+M.Derosa-D4+                                  
+
+
