@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2021 Chicago (AL) White Sox At 2021 Seattle Mariners      10/4/2021
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  L.Garcia 2B         3  0  1  0 .200     K.Seager 3B         4  1  1  2 .250  
+A-D.Mendick 2B        1  0  0  0 .200     Y.Diaz 1B           3  0  1  0 .250  
+G-J.Mathis C          0  0  0  0 .000     C.Moran DH          3  0  0  0 .000  
+  J.Abreu 1B          4  0  0  0 .125     M.Kepler RF         3  0  0  0 .000  
+  E.Jimenez LF        3  0  0  0 .143     J.Crawford SS       3  0  0  0 .000  
+  T.Anderson SS       3  0  0  0 .143     A.Nola C            3  0  1  0 .286  
+  R.Tellez DH         3  0  0  0 .000   C-B.Hamilton PR,CF    0  0  0  0 ----  
+  L.Robert CF         3  0  0  0 .143     K.Marte 2B          3  0  0  0 .000  
+  R.Braun RF          2  0  0  0 .000     J.Marmolejos LF     2  0  0  0 .000  
+B-A.Eaton PH,RF       1  0  0  0 .000   D-J.Aguilar PH        1  0  0  0 .200  
+  T.Shaw 3B           3  1  1  1 .571   E-Y.Gomes C           0  0  0  0 .000  
+  T.Flowers C         2  0  0  0 .000     R.Quinn CF,LF       2  1  2  01.000  
+F-N.Madrigal PH,2B    1  0  0  0 .000   H-S.Long PH           1  0  0  0 .000  
+                                        I-T.O'Neill LF        0  0  0  0 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  2  1                 Totals      28  2  5  2
+
+A-Subbed Defensively (2B) For Garcia In 5th Inning
+B-Pinch Hit For Braun In 7th Inning
+C-Pinch Ran For Nola In 7th Inning
+D-Pinch Hit For Marmolejos In 7th Inning
+E-Subbed Defensively (C ) For Aguilar In 8th Inning
+F-Pinch Hit For Flowers In 8th Inning
+G-Subbed Defensively (C ) For Mendick In 8th Inning
+H-Pinch Hit For Quinn In 8th Inning
+I-Subbed Defensively (LF) For Long In 9th Inning
+
+White Sox....... 0 0 0  0 1 0  0 0 0  -  1  2  0
+Mariners........ 0 0 0  0 0 2  0 0    -  2  5  0
+
+[1]White Sox (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Lopez LOSS(0-1)            6 1/3   5   2   2   1   5   1   2.84  A1 C6
+E.Marshall                   1 2/3   0   0   0   0   3   0   0.00  C7
+[1]Totals                    8       5   2   2   1   8   1
+
+[1]Mariners (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Dunn WIN(1-0)              6       2   1   1   2   7   1   1.50  A1 C4
+K.Graveman HOLD(1st)         0 1/3   0   0   0   0   0   0   0.00  C5 C5
+C.Valdez HOLD(1st)           1 1/3   0   0   0   0   3   0   0.00  C6 C9
+J.Karinchak SAVE(1st)        1 1/3   0   0   0   0   2   0   0.00  D1
+[1]Totals                    9       2   1   1   2  12   1
+
+ATTENDANCE- 45,057 DATE- Monday, October 4th 2021 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 2:00
+LEFT ON BASE- White Sox: 3  Mariners: 3
+DOUBLE PLAYS- White Sox: 1  Mariners: 0
+HOME RUNS- T.Shaw(1st), K.Seager(1st)
+RBIs- T.Shaw(1st), K.Seager-2(2nd)
+STOLEN BASES- R.Quinn-2(2nd)
+WALKS- E.Jimenez, T.Anderson, Y.Diaz
+STRIKE OUTS- D.Mendick, J.Abreu-2, R.Tellez-2, L.Robert-3, T.Shaw-2, T.Flowers,
+             N.Madrigal, Y.Diaz, C.Moran, M.Kepler-2, J.Crawford, J.Marmolejos,
+             J.Aguilar, S.Long
+GIDP- C.Moran
+RLISP 2-out- K.Seager, M.Kepler
+TEAM RISP- White Sox: 0 for 0  Mariners: 1 for 3
+
+At SAFECO Field, the Seattle fans witnessed a great pitcher's duel.  Justin
+Dunn(1-0) finally bested his Chicago (AL) opposite, Pablo Lopez(0-1), by the
+score of 2 to 1.
+
+Seattle tallied 2 runs in the 6th inning when they had 3 base hits.  The key
+at-bat was by Kyle Seager who thrilled the crowd when he cracked a two-run
+shot.  Dunn got help from James Karinchak who pitched a perfect ninth and was
+credited with his 1st save.  
+
+Lopez was charged with the loss.  He allowed 5 hits and 1 walk in 6 and 1/3
+innings.
+[2]
+[1]SCORESHEET: 2021 Chicago (AL) White Sox at 2021 Seattle Mariners
+L.Garcia-A1  A1:F/8     B1:Si      C1:L/4     D1:K
+D.Mendic-C2                                   
+J.Mathis-D2                                   
+J.Abreu-A1   A2:K       B2:P/6     *6*:G/43   *9*:K
+                                              
+                                              
+E.Jimene-A1  A3:W>b1    *4*:L/4    C3:F/9     D3:G/13
+                                              
+                                              
+T.Anders-A1  A4:G/43    B4:W>b1    C4:F/8     D4:G/63
+                                              
+                                              
+R.Tellez-A1  *2*:K      B5:K       *7*:G/13
+                                   
+                                   
+L.Robert-A1  A6:K       B6:K       C6:K
+                                   
+                                   
+R.Braun-A1   A7:L/6     *5*:L/5    C7:G/43
+A.Eaton-C7                         
+                                   
+T.Shaw-A1    *3*:K      B8:HR>b#   *8*:K
+                                   
+                                   
+T.Flower-A1  A9:G/63    B9:K       C9:K
+N.Madrig-C9                        
+                                   
+
+K.Seager-A1  A1:F/8     B1:SB>12   C1:SB>12   D1:G/53
+                        P/6        HR>2# b#   
+                                              
+Y.Diaz-A1    A2:W>b1    *4*:L/6    C2:Si      D2:K
+                                              
+                                              
+C.Moran-A1   A3:G-DP/6  B3:K       C3:G/13>1
+             43>1o                 2
+                                   
+M.Kepler-A1  *2*:G/43   B4:K       C4:K
+                                   
+                                   
+J.Crawfo-A1  A5:G/43    *5*:F/7    *7*:K
+                                   
+                                   
+A.Nola-A1    A6:L/6     B6:L/6     C6:Si
+B.Hamilt-C7                        
+                                   
+K.Marte-A1   *3*:F/9    B7:G/53    C7:F/9
+                                   
+                                   
+J.Marmol-A1  A8:K       *6*:G/53   C8:K
+J.Aguila-C8                        
+Y.Gomes-C9                         
+R.Quinn-A1   A9:Si      B9:Si      *8*:K
+S.Long-C9                          
+T.O'Neil-D3                        
+
+

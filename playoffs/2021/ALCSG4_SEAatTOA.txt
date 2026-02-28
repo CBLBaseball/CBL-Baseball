@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2021 Seattle Mariners At 2021 Toronto Blue Jays          10/17/2021
+
+[1]  Mariners           AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  J.Crawford SS       3  2  1  0 .297     C.Biggio 2B         4  0  0  0 .235  
+  M.Kepler RF,CF,RF   5  1  2  0 .179     D.Jansen C          4  1  1  1 .167  
+  K.Marte 2B          2  3  2  3 .258     J.Walsh 1B          3  1  1  1 .167  
+  Y.Gomes C           4  1  1  2 .091     L.Gurriel LF        4  0  1  0 .412  
+E-J.Marmolejos PH     0  0  0  1 .167     A.Kirk DH           1  0  0  0 .000  
+F-B.Hamilton CF       0  0  0  0 .000   A-A.Garcia PH,DH      1  0  0  0 .250  
+  J.Aguilar 1B        4  2  2  2 .370   C-B.Miller PH,DH      1  0  0  0 .333  
+  C.Moran DH          5  1  1  0 .125   D-R.Perez PH,DH       1  0  0  0 .100  
+  G.Heredia CF        2  0  1  1 .333     T.Hernandez RF      4  1  2  1 .353  
+B-J.Polanco PH,RF     2  0  1  0 .385     B.Bichette SS       4  0  0  0 .294  
+G-A.Nola C            0  0  0  0 .276     V.Guerrero Jr 3B    4  0  1  0 .333  
+  K.Seager 3B         4  0  0  1 .214     M.Straw CF          3  0  1  0 .167  
+  T.O'Neill LF        3  0  0  0 .190                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34 10 11 10                 Totals      34  3  7  3
+
+A-Pinch Hit For Kirk In 4th Inning
+B-Pinch Hit For Heredia In 6th Inning
+C-Pinch Hit For Garcia In 6th Inning
+D-Pinch Hit For Miller In 8th Inning
+E-Pinch Hit For Gomes In 9th Inning
+F-Subbed Defensively (CF) For Marmolejos In 9th Inning
+G-Subbed Defensively (C ) For Polanco In 9th Inning
+
+Mariners........ 1 0 0  1 2 1  2 0 3  - 10 11  0
+Blue Jays....... 0 0 0  0 0 2  1 0 0  -  3  7  1
+
+[1]Mariners (6-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Musgrove WIN(1-0)          5 2/3   4   2   2   1  12   2   3.18  A1 C4
+J.Karinchak HOLD(1st)        0 2/3   3   1   1   0   1   1   3.00  C5 C9
+K.Graveman HOLD(2nd)         0 2/3   0   0   0   0   0   0   0.00  D1 D2
+J.Osich                      1       0   0   0   0   1   0   5.40  D3 D5
+E.Diaz                       1       0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       7   3   3   1  15   3
+
+[1]Blue Jays (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Kikuchi LOSS(0-1)          8      11  10   9   6   6   2  10.13  A1 E3
+R.Dolis                      1       0   0   0   0   1   0   0.00  E4
+[1]Totals                    9      11  10   9   6   7   2
+
+ATTENDANCE- 46,892 DATE- Sunday, October 17th 2021 TIME- Night 
+UMPIRES- Adrian Johnson, Larry Vanover, Angel Hernandez, Paul Nauert
+T- 3:20
+LEFT ON BASE- Mariners: 5  Blue Jays: 5
+DOUBLE PLAYS- Mariners: 0  Blue Jays: 1
+ERRORS- V.Guerrero Jr
+DOUBLES- M.Kepler(1st), K.Marte(4th), L.Gurriel(3rd), T.Hernandez(3rd)
+HOME RUNS- Y.Gomes(1st), J.Aguilar(3rd), D.Jansen(1st), J.Walsh(1st),
+           T.Hernandez(2nd)
+RBIs- K.Marte-3(7th), Y.Gomes-2(2nd), J.Marmolejos(1st), J.Aguilar-2(5th),
+      G.Heredia(1st), K.Seager(6th), D.Jansen(1st), J.Walsh(1st),
+      T.Hernandez(2nd)
+STOLEN BASES- G.Heredia(1st), T.O'Neill(2nd), M.Straw(2nd)
+SACRIFICE FLIES- K.Marte, J.Marmolejos
+WALKS- J.Crawford-2, K.Marte-2, J.Aguilar, T.O'Neill, J.Walsh
+STRIKE OUTS- C.Moran-3, G.Heredia, J.Polanco, K.Seager, T.O'Neill, C.Biggio-2,
+             D.Jansen, J.Walsh, L.Gurriel-2, A.Kirk, B.Miller, T.Hernandez,
+             B.Bichette, V.Guerrero Jr-3, M.Straw-2
+WILD PITCHES- Y.Kikuchi
+2-out RBI- Y.Gomes-2, D.Jansen, J.Walsh, J.Aguilar-2
+RLISP 2-out- V.Guerrero Jr, Y.Gomes, T.O'Neill, J.Crawford, B.Miller,
+             D.Jansen-2
+TEAM RISP- Mariners: 2 for 11  Blue Jays: 0 for 5
+
+Joe Musgrove retired 12 batters on strikeouts and second baseman Ketel Marte
+had 2 base hits and 3 RBI as the Seattle Mariners bested the Toronto Blue
+Jays 10 to 3 at Rogers Centre.
+
+Musgrove(1-0) earned his pay with a solid performance for Seattle.  He went 5
+and 2/3 innings allowing 4 hits and 1 walk and surrendered 2
+'round-trippers'.  Seattle simply wore out the Toronto pitching staff,
+scoring in 6 different innings.  
+
+Yusei Kikuchi(0-1) was hit with the loss. He got hammered, allowing 11 hits
+and 6 walks in 8 innings.  Musgrove, when asked about his 12 strikeout
+performance noted, 'The important thing is that we won, if I get 20 and we
+lose, what good does it do our team? But, on the other hand, since we won it
+feels great!'
+[2]
+[1]SCORESHEET: 2021 Seattle Mariners at 2021 Toronto Blue Jays
+J.Crawfo-A1  A1:W>b1    B1:SB>12   *5*:W>b1   D1:G/43    *9*:Si
+                        L/4                              
+                                                         
+M.Kepler-A1  A2:Do>13   B2:G/53    C2:PkOff/  *7*:G/63   E2:Si>13
+                                   13>1o G/3             
+                                   1                     
+K.Marte-A1   A3:SF-DP/  B3:IW>b1   C3:W>b1    D3:Si      E3:Do>3#
+             835>3# 2o                                   2#
+                                                         
+Y.Gomes-A1   A4:F/7     B4:F/9     C4:HR>1#   D4:F/7     E4:WP>23
+J.Marmol-E4                        b#                    SF/8>3#
+B.Hamilt-E7                                              
+J.Aguila-A1  *2*:W>b1   *4*:Si+E/  C5:FO/2    D5:HR>1#   E5:G/13
+                        5                     b#         
+                                                         
+C.Moran-A1   A6:K       B6:K       *6*:Si     D6:F/8     E6:K
+                                                         
+                                                         
+G.Heredi-A1  A7:K       B7:Si>2#   C7:Si>13   *8*:K
+J.Polanc-C7                                   
+A.Nola-E7                                     
+K.Seager-A1  A8:K       B8:SB>12   C8:G/43>3  D8:F/8
+                        L/4        # 12       
+                                              
+T.O'Neil-A1  *3*:W>b1   B9:L/6     C9:G/31>2  D9:K
+                                   3          
+                                              
+
+C.Biggio-A1  A1:K       B1:F/8     C1:K       D1:SB>12
+                                              P/6
+                                              
+D.Jansen-A1  A2:K       B2:P/6     C2:HR>b#   D2:G/53
+                                              
+                                              
+J.Walsh-A1   A3:W>b1    *4*:G/43   C3:HR>b#   *8*:K
+                                              
+                                              
+L.Gurrie-A1  A4:K       B4:K       C4:Do      D4:G/13
+                                              
+                                              
+A.Kirk-A1    *2*:K      B5:G/43    C5:K       D5:G/13
+A.Garcia-B5                                   
+B.Miller-C5+                                  
+T.Hernan-A1  A6:Do      *5*:K      *7*:HR>b#  *9*:F/8
+                                              
+                                              
+B.Bichet-A1  A7:K       B7:G/53    C7:L/3     D7:P/4
+                                              
+                                              
+V.Guerre-A1  A8:K       B8:K       C8:Si      D8:K
+                                              
+                                              
+M.Straw-A1   *3*:K      *6*:K      C9:Si>13
+                                   
+                                   
+
+

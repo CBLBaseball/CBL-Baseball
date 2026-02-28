@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2021 Los Angeles(NL) Dodgers At 2021 New York (NL) Mets  10/10/2021
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  Y.Grandal C         3  0  0  0 .105     J.McNeil LF         4  0  1  0 .200  
+  W.Smith DH          4  0  0  0 .133     D.Smith 1B          4  0  1  0 .231  
+  E.Rios 3B           2  0  0  0 .300     W.Myers RF          3  0  0  0 .208  
+A-D.Vogelbach PH      1  0  0  0 .111     M.Moreland DH       3  0  0  0 .000  
+B-J.Turner 3B         0  0  0  0 .357   G-P.Evans PH          1  0  1  0 .600  
+  S.Haggerty LF       2  0  0  0 .000     D.Gregorius SS      4  0  2  0 .238  
+E-K.Calhoun PH,RF     2  0  0  0 .133     J.Bradley Jr CF     3  0  0  0 .250  
+  C.Seager SS         3  1  1  0 .280   H-A.Bemboom PH        1  0  0  0 .000  
+  S.Castro 2B         1  0  0  0 .500     E.Longoria 3B       3  0  0  0 .263  
+F-C.Taylor PH,2B      2  1  1  0 .300     J.Berti 2B          0  0  0  0 .154  
+  M.Muncy 1B          3  0  2  1 .167   C-D.Dietrich PH       1  0  0  0 .250  
+  A.Engel RF,LF       4  0  2  1 .250   D-A.Gimenez 2B        1  0  0  0 .200  
+  C.Bellinger CF      4  0  1  0 .111     M.Maldonado C       3  0  0  0 .182  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  7  2                 Totals      31  0  5  0
+
+A-Pinch Hit For Rios In 5th Inning
+B-Subbed Defensively (3B) For Vogelbach In 5th Inning
+C-Pinch Hit For Berti In 5th Inning
+D-Subbed Defensively (2B) For Dietrich In 6th Inning
+E-Pinch Hit For Haggerty In 6th Inning
+F-Pinch Hit For Castro In 6th Inning
+G-Pinch Hit For Moreland In 9th Inning
+H-Pinch Hit For Bradley Jr In 9th Inning
+
+Dodgers......... 0 0 0  1 0 0  0 0 1  -  2  7  0
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  5  1
+
+[1]Dodgers (4-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Maeda WIN(2-0)             8       3   0   0   1   7   0   1.06  A1 C9
+V.Gonzalez HOLD(1st)         0 2/3   0   0   0   0   1   0  11.57  D1 D2
+J.Hoyt                       0       0   0   0   1   0   0   0.00  D3 D3
+J.Urias                      0       1   0   0   0   0   0   5.40  D4 D4
+N.Anderson SAVE(1st)         0 1/3   1   0   0   0   1   0   5.40  D5
+[1]Totals                    9       5   0   0   2   9   0
+
+[1]Mets (2-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Peterson LOSS(0-2)         4       4   1   1   3   2   0   7.04  A1 B9
+S.Armstrong                  2       0   0   0   0   2   0   3.00  C1 C6
+C.Martin                     2       1   0   0   1   3   0  10.13  C7 D5
+T.Duffey                     1       2   1   1   0   0   0   2.45  D6
+[1]Totals                    9       7   2   2   4   7   0
+
+ATTENDANCE- 40,922 DATE- Sunday, October 10th 2021 TIME- Night 
+UMPIRES- Angel Hernandez, Paul Nauert, Adrian Johnson, Larry Vanover
+T- 2:46
+LEFT ON BASE- Dodgers: 7  Mets: 6
+DOUBLE PLAYS- Dodgers: 1  Mets: 3
+ERRORS- D.Gregorius
+DOUBLES- C.Taylor(3rd), D.Gregorius(1st)
+RBIs- M.Muncy(1st), A.Engel(2nd)
+SACRIFICE HITS- J.Turner
+WALKS- Y.Grandal, C.Seager, S.Castro, M.Muncy, W.Myers, J.Berti
+STRIKE OUTS- Y.Grandal-2, E.Rios, K.Calhoun, C.Seager, C.Taylor, C.Bellinger,
+             D.Smith-2, W.Myers-2, J.Bradley Jr, A.Bemboom, E.Longoria-2,
+             M.Maldonado
+GIDP- A.Engel-2, C.Bellinger, M.Maldonado
+2-out RBI- M.Muncy
+RLISP 2-out- C.Bellinger, D.Dietrich, W.Myers, C.Seager, A.Bemboom-2
+TEAM RISP- Dodgers: 3 for 8  Mets: 1 for 6
+
+Kenta Maeda went 8 solid innings and Max Muncy had 2 base hits as the Los
+Angeles(NL) Dodgers defeated the New York (NL) Mets by a score of 2 to 0 at
+Citi Field.
+
+Maeda(2-0) was indeed brilliant as he hand-cuffed the New York (NL) offense.
+He allowed only 3 hits and 1 walk in 8 innings dropping his ERA from 2.00 to
+1.06.  Los Angeles(NL) totaled 7 hits on the night.  
+
+Nick Anderson preserved the game for Maeda, recording his his 1st save.  The
+losing pitcher was David Peterson(0-2).  He allowed 1 run and 4 hits in 4
+innings.
+[2]
+[1]SCORESHEET: 2021 Los Angeles(NL) Dodgers at 2021 New York (NL) Mets
+Y.Granda-A1  A1:F/8     B1:W>b1    *5*:K      D1:K
+                                              
+                                              
+W.Smith-A1   A2:G/13    B2:F/8     C2:G/63    *8*:E/6
+                                              
+                                              
+E.Rios-A1    A3:G/43    B3:K       C3:L/4     D3:Sac/34
+D.Vogelb-C3                                   >12
+J.Turner-C4                                   
+S.Hagger-A1  *2*:G/63   *4*:F/7    *6*:F/9    D4:K
+K.Calhou-C4                                   
+                                              
+C.Seager-A1  A5:Si      B5:W>b1    C5:G/13    D5:K
+                                              
+                                              
+S.Castro-A1  A6:W>12 b  B6:G/13>1  C6:K       *9*:Do
+C.Taylor-C6  1          2                     
+                                              
+M.Muncy-A1   A7:Si>23   B7:Si>2#   *7*:W>b1   D7:G/43>2
+             12                               3
+                                              
+A.Engel-A1   A8:G-DP/6  B8:Si>13   C8:G-DP/6  D8:Si>3#
+             43>1o                 43>1o      
+                                              
+C.Bellin-A1  *3*:FO/2   B9:K       C9:Si      D9:G-DP/4
+                                              63>1o
+                                              
+
+J.McNeil-A1  A1:G/43    B1:G/63    C1:Si      *9*:L/5
+                                              
+                                              
+D.Smith-A1   A2:Si      *4*:K      C2:G/43>1  D2:K
+                                   2          
+                                              
+W.Myers-A1   A3:K       B3:G/63    C3:K       D3:W>b1
+                                              
+                                              
+M.Morela-A1  A4:F/8     B4:F/7     *7*:F/8    D4:Si>12
+P.Evans-D4                                    
+                                              
+D.Gregor-A1  *2*:F/7    *5*:Do     C5:G/3     D5:Si>23
+                                              12
+                                              
+J.Bradle-A1  A6:K       B6:G/43>2  C6:G/63    D6:K
+A.Bemboo-D6             3                     
+                                              
+E.Longor-A1  A7:K       B7:G/63    *8*:K
+                                   
+                                   
+J.Berti-A1   *3*:W>b1   B8:F/9     C8:F/8
+D.Dietri-B8                        
+A.Gimene-B9                        
+M.Maldon-A1  A9:G-DP/6  *6*:G/43   C9:K
+             43>1o                 
+                                   
+
+

@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2021 Seattle Mariners At 2021 Chicago (AL) White Sox      10/7/2021
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  Y.Diaz DH           4  1  1  1 .250     J.Bonifacio RF      4  1  1  0 .375  
+H-C.Moran PH,DH       1  0  0  0 .111     T.Anderson SS       4  0  1  0 .267  
+  K.Seager 3B         5  0  2  2 .353     J.Abreu 1B          4  1  2  1 .200  
+  A.Nola C            6  2  2  1 .278     G.Cooper DH         3  0  0  0 .143  
+  M.Kepler RF         6  1  1  2 .118   G-R.Tellez PH,DH      1  0  0  0 .000  
+  J.Aguilar 1B        6  2  3  2 .357     T.Shaw 3B           3  1  1  0 .357  
+  J.Crawford SS       6  2  5  0 .313     L.Robert CF         4  0  0  0 .143  
+  T.O'Neill LF        4  1  1  0 .333     E.Jimenez LF        4  2  4  3 .400  
+  K.Marte 2B          3  2  2  3 .250     D.Mendick 2B        2  0  0  0 .250  
+  R.Quinn CF          3  1  1  1 .500   C-R.Braun PH          1  0  0  0 .000  
+A-Y.Gomes PH          1  0  0  0 .000   E-T.Flowers C         0  0  0  0 .400  
+B-B.Hamilton CF       1  0  0  0 .000   I-L.Garcia PH         1  0  0  0 .167  
+                                          A.Avila C           2  0  0  0 .000  
+                                        D-J.Altuve PH         1  0  0  0 .000  
+                                        F-N.Madrigal 2B       1  0  0  0 .286  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      46 12 18 12                 Totals      35  5  9  4
+
+A-Pinch Hit For Quinn In 6th Inning
+B-Subbed Defensively (CF) For Gomes In 6th Inning
+C-Pinch Hit For Mendick In 7th Inning
+D-Pinch Hit For Avila In 7th Inning
+E-Subbed Defensively (C ) For Braun In 8th Inning
+F-Subbed Defensively (2B) For Altuve In 8th Inning
+G-Pinch Hit For Cooper In 8th Inning
+H-Pinch Hit For Diaz In 9th Inning
+I-Pinch Hit For Flowers In 9th Inning
+
+Mariners........ 3 1 5  0 0 1  0 0 2  - 12 18  0
+White Sox....... 1 2 1  1 0 0  0 0 0  -  5  9  1
+
+[1]Mariners (3-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Sheffield WIN(1-0)         7       8   5   5   0   6   3   6.43  A1 D1
+Y.Garcia                     1       0   0   0   0   0   0   0.00  D2 D4
+E.Diaz                       1       1   0   0   1   3   0   0.00  D5
+[1]Totals                    9       9   5   5   1   9   3
+
+[1]White Sox (1-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Lynn LOSS(1-1)             4 2/3  11   9   9   3   5   4   7.62  A1 D3
+A.Loup                       0 2/3   2   1   1   0   1   0   3.86  D4 D7
+E.Marshall                   1       1   0   0   0   1   0   0.00  D8 E2
+C.Heuer                      1 2/3   1   0   0   1   1   0   0.00  E3 E9
+A.Colome                     1       3   2   2   0   1   1  10.80  F1
+[1]Totals                    9      18  12  12   4   9   5
+
+ATTENDANCE- 38,815 DATE- Thursday, October 7th 2021 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:29
+LEFT ON BASE- Mariners:12  White Sox: 4
+DOUBLE PLAYS- Mariners: 1  White Sox: 0
+ERRORS- A.Avila
+DOUBLES- K.Seager-2(4th), J.Aguilar(2nd), J.Crawford(1st), K.Marte(2nd)
+TRIPLES- J.Crawford(1st)
+HOME RUNS- Y.Diaz(1st), A.Nola(1st), M.Kepler(2nd), J.Aguilar-2(2nd),
+           J.Abreu(1st), E.Jimenez-2(4th)
+RBIs- Y.Diaz(1st), K.Seager-2(5th), A.Nola(2nd), M.Kepler-2(5th),
+      J.Aguilar-2(3rd), K.Marte-3(4th), R.Quinn(1st), J.Abreu(1st),
+      E.Jimenez-3(6th)
+STOLEN BASES- R.Quinn(4th)
+WALKS- Y.Diaz, K.Seager, T.O'Neill, K.Marte, T.Shaw
+HIT BY PITCH- K.Marte
+STRIKE OUTS- Y.Diaz, C.Moran, K.Seager, M.Kepler, J.Aguilar, T.O'Neill-2,
+             K.Marte, R.Quinn, J.Bonifacio, L.Robert, D.Mendick, R.Braun,
+             L.Garcia, A.Avila-2, J.Altuve, N.Madrigal
+GIDP- J.Abreu
+WILD PITCHES- E.Diaz, L.Lynn
+2-out RBI- J.Aguilar, K.Seager-2, J.Abreu, E.Jimenez, M.Kepler-2
+RLISP 2-out- A.Nola-2, M.Kepler-2, Y.Diaz, B.Hamilton, J.Crawford, N.Madrigal
+TEAM RISP- Mariners: 4 for 14  White Sox: 1 for 4
+WEB GEMS- Bot 6th: Billy Hamilton robbed Travis Shaw of an extra base hit.
+
+Jesus Aguilar slammed 2 homeruns at US Cellular Field where the Seattle
+Mariners beat the Chicago (AL) White Sox by the score of 12 to 5.
+
+Aguilar provided much of the offense.  He cracked a solo homerun in the 1st
+inning, clubbed a solo home run in the 3rd inning and doubled in the 9th
+inning.  Overall Seattle out-hit Chicago (AL) 18 to 9.  
+
+Justus Sheffield(1-0) got credit for the victory, pitching 7 innings and
+allowing 5 runs. The loss was charged to Lance Lynn(1-1).  He allowed 4
+homeruns in 4 and 2/3 innings of work.  
+
+[2]
+[1]SCORESHEET: 2021 Seattle Mariners at 2021 Chicago (AL) White Sox
+Y.Diaz-A1    A1:HR>b#   B1:K       C1:SB>12   D1:W>b1    E1:Force/  *9*:K
+C.Moran-F1                         F/9>23                64>1o b1   
+                                                                    
+K.Seager-A1  A2:G/13    B2:Do>1#   C2:Do>3#   D2:W>12 b  *7*:K      F2:G/43
+                                              1                     
+                                                                    
+A.Nola-A1    A3:HR>b#   B3:WP>23   C3:G/13    D3:E/2>23  E3:F/8     F3:Si
+                        L/5                   12                    
+                                                                    
+M.Kepler-A1  A4:K       *3*:L/5    *4*:F/7    D4:P/4     E4:F/8     F4:HR>1#
+                                                                    b#
+                                                                    
+J.Aguila-A1  A5:HR>b#   B5:HR>b#   C5:G/43    *6*:K      *8*:F/8    F5:Do
+                                                                    
+                                                                    
+J.Crawfo-A1  A6:Si      B6:Do      C6:Si      D6:Si      E6:Tr      F6:G/63
+                                                                    
+                                                                    
+T.O'Neil-A1  A7:G/53    B7:W>b1    C7:K       D7:Si>13   E7:K
+                                                         
+                                                         
+K.Marte-A1   *2*:HBP    B8:Do>2#   *5*:K      D8:Si>3#   E8:W>b1
+                        1#                    13         
+                                                         
+R.Quinn-A1   A9:P/1     B9:Si>3#   C9:K       D9:P/6     E9:F/8
+Y.Gomes-D9                                               
+B.Hamilt-E2                                              
+
+J.Bonifa-A1  A1:Si      *3*:F/8    C1:G/63    D1:K
+                                              
+                                              
+T.Anders-A1  A2:Si>13   B2:F/7     C2:F/9     *8*:G/53
+                                              
+                                              
+J.Abreu-A1   A3:G-DP/6  B3:HR>b#   *6*:Si     D3:G/53
+             43>3# 1o                         
+                                              
+G.Cooper-A1  A4:G/31    B4:F/8     C4:F/8     D4:F/8
+R.Tellez-D4                                   
+                                              
+T.Shaw-A1    *2*:Si     *4*:G/43   C5:F/8     *9*:W>b1
+                                              
+                                              
+L.Robert-A1  A6:F/9     B6:F/7     C6:F/7     D6:K
+                                              
+                                              
+E.Jimene-A1  A7:HR>1#   B7:HR>b#   *7*:Si     D7:WP>12
+             b#                               Si>23
+                                              
+D.Mendic-A1  A8:F/9     B8:K       C8:K       D8:K
+R.Braun-C8                                    
+T.Flower-D2+                                  
+A.Avila-A1   A9:K       *5*:K      C9:K       D9:K
+J.Altuve-C9                                   
+N.Madrig-D2                                   
+
+

@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2021 Cincinnati Reds At 2021 San Francisco Giants        10/11/2021
+
+[1]  Reds               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  J.Profar 2B         4  0  1  0 .250     M.Yastrzemski RF    4  2  2  1 .346  
+  A.Mondesi SS        4  0  1  0 .261     A.Rendon 3B         5  0  1  0 .231  
+  M.Conforto DH       3  0  0  0 .286     B.Belt 1B           2  1  0  1 .222  
+  C.Walker 1B         3  0  0  0 .190   E-D.Ruf PH,1B         2  0  0  0 .333  
+F-J.Votto PH          1  0  0  0 .250     M.Ozuna LF          4  1  1  3 .160  
+  T.Barnhart C        2  0  0  0 .353     B.Harper DH         2  2  1  0 .350  
+B-T.Stephenson PH,C   1  1  0  0 .250     W.Adames SS         4  1  2  2 .231  
+  E.Suarez 3B         4  1  1  0 .222     K.Pillar CF         2  0  0  0 .154  
+  J.Gallo RF          2  0  0  0 .091     J.Bart C            2  0  1  0 .300  
+C-A.Bregman PH        1  0  0  1 .091   A-S.Leon PH,C         1  0  0  0 .333  
+D-Y.Munoz RF          0  0  0  0 .357     K.Wong 2B           3  1  1  0 .222  
+  S.Akiyama LF        2  0  0  1 .111                                          
+  J.Dyson CF          3  0  0  0 .235                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  3  2                 Totals      31  8  9  7
+
+A-Pinch Hit For Bart In 6th Inning
+B-Pinch Hit For Barnhart In 7th Inning
+C-Pinch Hit For Gallo In 7th Inning
+D-Subbed Defensively (RF) For Bregman In 7th Inning
+E-Pinch Hit For Belt In 7th Inning
+F-Pinch Hit For Walker In 9th Inning
+
+Reds............ 0 0 0  0 0 0  2 0 0  -  2  3  2
+Giants.......... 4 1 0  1 0 0  2 0    -  8  9  0
+
+[1]Reds (3-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Castillo LOSS(0-2)         3       5   6   5   4   5   1  18.69  A1 B9
+J.Rodriguez                  1 2/3   2   0   0   0   1   0   0.00  C1 C6
+S.Reid-Foley                 0 2/3   0   0   0   1   0   0   9.00  C7 C9
+A.Kolarek                    0 2/3   1   0   0   0   0   0   2.25  D1 D2
+B.Kintzler                   1       1   2   2   1   2   1  11.12  D3 D7
+B.Martin                     0 1/3   0   0   0   2   1   0   0.00  D8 E1
+T.Mahle                      0 2/3   0   0   0   0   2   0   4.05  E2
+[1]Totals                    8       9   8   7   8  11   2
+
+[1]Giants (4-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Gallen WIN(2-1)            6       2   0   0   1   8   0   2.50  A1 C4
+Z.Britton                    0       1   2   1   1   0   0   3.86  C5 C6
+S.Crichton SAVE(2nd)         3       0   0   0   0   4   0   0.00  C7
+[1]Totals                    9       3   2   1   2  12   0
+
+ATTENDANCE- 38,097 DATE- Monday, October 11th 2021 TIME- Night 
+UMPIRES- Ed Hickox, Lance Barrett, Dana Demuth, Ron Kulpa
+T- 2:53
+LEFT ON BASE- Reds: 4  Giants: 7
+DOUBLE PLAYS- Reds: 1  Giants: 0
+ERRORS- T.Barnhart, E.Suarez
+DOUBLES- A.Rendon(1st), W.Adames(3rd)
+TRIPLES- M.Yastrzemski(1st), B.Harper(1st), K.Wong(1st)
+HOME RUNS- M.Ozuna(3rd), W.Adames(1st)
+RBIs- A.Bregman(1st), S.Akiyama(3rd), M.Yastrzemski(3rd), B.Belt(5th),
+      M.Ozuna-3(6th), W.Adames-2(5th)
+STOLEN BASES- S.Akiyama(1st), B.Harper(2nd), K.Wong(1st)
+CAUGHT STEALING- B.Harper
+WALKS- M.Conforto, T.Stephenson, M.Yastrzemski, B.Belt, B.Harper-2, K.Pillar-2,
+       S.Leon, K.Wong
+HIT BY PITCH- S.Akiyama
+STRIKE OUTS- J.Profar, A.Mondesi, M.Conforto-2, C.Walker, T.Stephenson,
+             E.Suarez-3, J.Gallo, S.Akiyama, J.Dyson, A.Rendon-3, B.Belt,
+             D.Ruf-2, M.Ozuna, W.Adames-2, J.Bart, S.Leon
+GIDP- A.Rendon
+WILD PITCHES- L.Castillo
+PASSED BALLS- S.Leon
+2-out RBI- W.Adames-2
+RLISP 2-out- T.Barnhart, K.Wong, J.Dyson, K.Pillar, D.Ruf
+TEAM RISP- Reds: 0 for 6  Giants: 3 for 10
+
+Willy Adames left the yard and had 2 RBI and Zac Gallen delivered 6 solid
+innings as the San Francisco Giants defeated the Cincinnati Reds by the score
+of 8 to 2 at AT&T Park.
+
+The game started off with San Francisco taking the lead in the first when they
+tallied 4 runs on 3 hits.  That was all Gallen(2-1) needed.  San Francisco
+out-hit Cincinnati for the game, 9 hits to 3.  
+
+Stefan Crichton preserved the game for Gallen, recording his his 2nd save.
+Luis Castillo(0-2) was the loser.  He gave up 6 runs in 3 innings of work.
+
+[2]
+[1]SCORESHEET: 2021 Cincinnati Reds at 2021 San Francisco Giants
+J.Profar-A1  A1:Si      *3*:G/43   C1:G/13    *8*:K
+                                              
+                                              
+A.Mondes-A1  A2:Si>12   B2:L/4     *6*:K      D2:G/63
+                                              
+                                              
+M.Confor-A1  A3:K       B3:W>b1    C3:K       D3:G/43
+                                              
+                                              
+C.Walker-A1  A4:F/8     B4:K       C4:L/6     *9*:F/9
+J.Votto-D4                                    
+                                              
+T.Barnha-A1  A5:G/43    *4*:G/43   *7*:W>b1   D5:K
+T.Stephe-C5                                   
+                                              
+E.Suarez-A1  *2*:K      B6:K       C6:Si>12   D6:K
+                                              
+                                              
+J.Gallo-A1   A7:K       B7:G/63    C7:PB>23
+A.Bregma-C7                        12 G/63>3
+Y.Munoz-D1                         # 23
+S.Akiyam-A1  A8:HBP     *5*:K      C8:G/43>3
+                                   #
+                                   
+J.Dyson-A1   A9:SB>12   B9:G/43    C9:K
+             F/9                   
+                                   
+
+M.Yastrz-A1  A1:E/5     *2*:Tr     C1:Si>3#   D1:SB+E/2  E1:W>12 b
+                                              4>13 FC/1  1
+                                              2>3o       
+A.Rendon-A1  A2:K       B2:K       C2:G-DP/6  D2:Do>1o   E2:K
+                                   43>1o                 
+                                                         
+B.Belt-A1    A3:W>12 b  B3:G/43>3  C3:K       *7*:K      E3:K
+D.Ruf-D3     1          #                                
+                                                         
+M.Ozuna-A1   A4:HR>2#   B4:G/13    *5*:G/53   D4:K
+             1# b#                            
+                                              
+B.Harper-A1  A5:Tr      *3*:W>b1   C5:G/63    D5:W>b1
+                                              
+                                              
+W.Adames-A1  A6:WP>3#   B6:K       C6:Do      D6:SB>12
+             K                                HR>2# b#
+                                              
+K.Pillar-A1  A7:W>b1    B7:CS/24>  C7:F/8     D7:G/63
+                        1o W>b1               
+                                              
+J.Bart-A1    A8:Si>12   B8:K       *6*:W>b1   *8*:K
+S.Leon-C8                                     
+                                              
+K.Wong-A1    A9:G/63    *4*:Tr     C9:Force/  D9:W>b1
+                                   64>1o b1   
+                                              
+
+

@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2021 Seattle Mariners At 2021 Chicago (AL) White Sox      10/6/2021
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  K.Seager 3B         4  2  2  1 .333     N.Madrigal 2B       5  1  2  0 .333  
+  M.Kepler RF         4  2  1  3 .091     J.Abreu 1B          3  0  0  0 .091  
+  A.Nola C            5  1  1  0 .250     E.Jimenez LF        4  1  1  2 .182  
+  C.Moran DH          5  1  1  1 .125     T.Anderson SS       4  0  2  0 .273  
+  J.Aguilar 1B        3  1  1  1 .250     R.Tellez DH         3  0  0  0 .000  
+  J.Crawford SS       3  0  0  1 .000   G-J.Bonifacio PH,DH   1  0  1  0 .500  
+  K.Marte 2B,LF       3  2  1  1 .111     L.Robert CF         3  0  1  0 .200  
+  T.O'Neill LF        3  1  1  3 .400     R.Braun RF          1  0  0  0 .000  
+D-J.Polanco PH        1  0  0  0 .000   A-A.Eaton PH,RF       1  0  0  0 .000  
+F-B.Hamilton CF       0  0  0  0 ----   B-J.Altuve PH         1  0  0  0 .000  
+  R.Quinn CF          3  1  1  0 .600   C-L.Garcia RF         0  0  0  0 .200  
+E-S.Long PH,2B        1  0  0  0 .000   H-D.Mendick PH        1  0  1  0 .333  
+                                          T.Shaw 3B           4  0  0  0 .364  
+                                          T.Flowers C         3  0  2  0 .400  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35 11  9 11                 Totals      34  2 10  2
+
+A-Pinch Hit For Braun In 5th Inning
+B-Pinch Hit For Eaton In 6th Inning
+C-Subbed Defensively (RF) For Altuve In 7th Inning
+D-Pinch Hit For O'Neill In 8th Inning
+E-Pinch Hit For Quinn In 8th Inning
+F-Subbed Defensively (CF) For Polanco In 8th Inning
+G-Pinch Hit For Tellez In 8th Inning
+H-Pinch Hit For Garcia In 9th Inning
+
+Mariners........ 6 0 2  0 0 3  0 0 0  - 11  9  0
+White Sox....... 2 0 0  0 0 0  0 0 0  -  2 10  0
+
+[1]Mariners (2-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Davies WIN(1-0)            9      10   2   2   3   6   1   2.00  A1
+[1]Totals                    9      10   2   2   3   6   1
+
+[1]White Sox (1-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Foster LOSS(0-1)           0       4   5   5   1   0   0   ----  A1 A5
+A.Bass                       5 2/3   5   6   6   2   3   2   9.53  A6 D3
+C.Heuer                      0 2/3   0   0   0   1   1   0   0.00  D4 D6
+A.Colome                     0 2/3   0   0   0   0   0   0   0.00  D7 D7
+E.Marshall                   1       0   0   0   0   1   0   0.00  D8 E1
+A.Loup                       1       0   0   0   0   0   0   0.00  E2
+[1]Totals                    9       9  11  11   4   5   2
+
+ATTENDANCE- 37,788 DATE- Wednesday, October 6th 2021 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:57
+LEFT ON BASE- Mariners: 2  White Sox: 8
+DOUBLE PLAYS- Mariners: 2  White Sox: 0
+DOUBLES- K.Seager(2nd), K.Marte(1st), L.Robert(1st), T.Flowers(1st)
+HOME RUNS- M.Kepler(1st), T.O'Neill(2nd), E.Jimenez(2nd)
+RBIs- K.Seager(3rd), M.Kepler-3(3rd), C.Moran(1st), J.Aguilar(1st),
+      J.Crawford(1st), K.Marte(1st), T.O'Neill-3(4th), E.Jimenez-2(3rd)
+STOLEN BASES- R.Quinn(3rd)
+CAUGHT STEALING- J.Crawford
+WALKS- K.Seager, M.Kepler, J.Aguilar, J.Crawford, J.Abreu, L.Robert, T.Flowers
+HIT BY PITCH- K.Marte
+STRIKE OUTS- C.Moran-3, J.Polanco, R.Quinn, J.Abreu, T.Anderson, L.Robert-2,
+             T.Shaw, T.Flowers
+GIDP- N.Madrigal, R.Tellez
+2-out RBI- K.Seager
+RLISP 2-out- M.Kepler, J.Abreu, J.Altuve-2, L.Robert
+TEAM RISP- Mariners: 6 for 9  White Sox: 1 for 6
+WEB GEMS- Bot 6th: Max Kepler robbed Eloy Jimenez of an extra base hit.
+
+Zach Davies went the distance at US Cellular Field as the Seattle Mariners
+beat the Chicago (AL) White Sox by the count of 11 to 2.
+
+Davies(1-0) earned his pay with a solid performance for Seattle.  He was
+reached for 10 hits and 3 walks in 9 innings.  Seattle finished with 9 hits
+in the victory.  
+
+The loss was charged to Matt Foster(0-1).  He was unable to retire a batter
+and surrendered 4 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2021 Seattle Mariners at 2021 Chicago (AL) White Sox
+K.Seager-A1  A1:Do      B1:Si>3#   C1:G/43    D1:SB>12   E1:P/6
+                        13                    W>b1       
+                                                         
+M.Kepler-A1  A2:W>b1    B2:L/5     *4*:L/4    D2:HR>2#   *9*:F/9
+                                              1# b#      
+                                                         
+A.Nola-A1    A3:Si>23   *2*:F/7    C3:L/6     D3:G/43    E3:G/63
+             12                                          
+                                                         
+C.Moran-A1   A4:Si>3#   B4:K       C4:K       D4:K       E4:G/13
+             23 12                                       
+                                                         
+J.Aguila-A1  A5:Si>3#   B5:L/3     *5*:G/63   *7*:W>b1
+             23 12                            
+                                              
+J.Crawfo-A1  A6:W>3# 2  *3*:F/8    C6:L/4     D6:Force/
+             3 12 b1                          36>1o b1
+                                              
+K.Marte-A1   A7:HBP>3#  B7:Do      C7:F/8     D7:CS/26>
+             23 12                            1o G/63
+                                              
+T.O'Neil-A1  A8:G/43>3  B8:HR>2#   *6*:G/53   *8*:K
+J.Polanc-D8  # 23 12    b#                    
+B.Hamilt-E2                                   
+R.Quinn-A1   A9:FC/32>  B9:K       C9:Si      D9:L/3
+S.Long-D9    3o 23                            
+                                              
+
+N.Madrig-A1  A1:Si      *3*:G/31   C1:Si>13   D1:G/13    E1:G-DP/3
+                                                         63>1o
+                                                         
+J.Abreu-A1   A2:K       B2:G/63    C2:G/53    *8*:W>b1
+                                              
+                                              
+E.Jimene-A1  A3:HR>1#   B3:F/8     *6*:F/9    D3:G/43>1
+             b#                               2
+                                              
+T.Anders-A1  A4:K       *4*:Si     C4:Si      D4:G/53
+                                              
+                                              
+R.Tellez-A1  A5:G/63    B5:G-DP/6  C5:F/9     D5:Si>23
+J.Bonifa-D5             43>1o                 
+                                              
+L.Robert-A1  *2*:W>b1   B6:K       C6:Do>13   D6:K
+                                              
+                                              
+R.Braun-A1   A7:F/8     *5*:G/43   C7:L/6     *9*:Si
+A.Eaton-B7                                    
+J.Altuve-C7+                                  
+T.Shaw-A1    A8:F/7     B8:K       *7*:G/63   D8:F/7
+                                              
+                                              
+T.Flower-A1  A9:Do>1o   B9:W>b1    C9:K       D9:Si>13
+                                              
+                                              
+
+

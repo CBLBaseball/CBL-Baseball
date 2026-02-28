@@ -1,0 +1,152 @@
+[1]BOXSCORE: 2021 Detroit Tigers At 2021 Toronto Blue Jays             10/7/2021
+
+[1]  Tigers             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  T.Grisham LF        2  1  0  0 .308     C.Biggio 3B         4  1  0  0 .188  
+E-J.Iglesias PH,SS    2  0  1  1 .300     D.Jansen C          5  2  1  1 .167  
+  I.Kiner-Falefa SS   3  1  1  0 .333     L.Gurriel LF        5  2  3  5 .250  
+F-V.Reyes LF          2  0  1  2 .214     T.Hernandez RF      4  0  0  0 .250  
+  J.Candelario 3B     6  1  3  1 .158   D-B.Phillips CF       0  0  0  0 .667  
+  M.Cabrera DH        6  0  1  0 .100   I-R.Perez PH          1  0  0  0 .143  
+  N.Castellanos RF    6  1  1  1 .143     J.Walsh 1B          4  0  0  0 .000  
+  M.Trout CF          4  3  3  2 .385   J-K.Gausman PH        1  0  0  0 .000  
+  M.Brosseau 1B,2B    3  2  1  1 .333     B.Bichette SS       4  1  1  0 .154  
+  N.Goodrum 2B        2  0  1  0 .400     B.Miller 2B         3  1  0  0 .000  
+A-J.Wendle PH         0  0  0  0 .286     V.Guerrero Jr DH    2  0  1  0 .154  
+B-W.Castro PH,2B      3  1  1  1 .364   C-H.Ryu PH,DH         0  0  0  0 ----  
+H-R.Guzman 1B         0  0  0  0 .333   G-A.Garcia PH,DH      1  0  0  0 .125  
+  T.D'Arnaud C        4  1  1  1 .200     M.Straw CF,RF       4  0  2  0 .429  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43 11 15 10                 Totals      38  7  8  6
+
+A-Pinch Hit For Goodrum In 7th Inning
+B-Pinch Hit For Wendle In 7th Inning
+C-Pinch Hit For Guerrero Jr In 7th Inning
+D-Subbed Defensively (CF) For Hernandez In 8th Inning
+E-Pinch Hit For Grisham In 8th Inning
+F-Subbed Defensively (LF) For Kiner-Falefa In 8th Inning
+G-Pinch Hit For Ryu In 9th Inning
+H-Subbed Defensively (1B) For Castro In 10th Inning
+I-Pinch Hit For Phillips In 10th Inning
+J-Pinch Hit For Walsh In 10th Inning
+
+Tigers.......... 0 1 0  0 0 0  0 6 0  4 - 11 15  1
+Blue Jays....... 2 0 0  0 0 0  5 0 0  0 -  7  8  1
+
+[1]Tigers (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Hernandez                  6       6   3   2   0   7   2   3.00  A1 C6
+J.Jeffress                   2       1   4   0   2   1   1   0.00  C7 D7
+A.Slegers WIN(1-0)           1 1/3   1   0   0   0   1   0   0.00  D8 E3
+J.Curtiss                    0 2/3   0   0   0   0   0   0   4.50  E4
+[1]Totals                   10       8   7   2   2   9   3
+
+[1]Blue Jays (2-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Kikuchi                    5       3   1   1   1   4   1   1.80  A1 B9
+T.Hatch HOLD(1st)            1 1/3   1   0   0   1   2   0   4.91  C1 C7
+B.Raley HOLD(2nd)            0 2/3   0   1   1   1   2   0   5.40  C8 D1
+R.Dolis                      0 1/3   3   3   3   0   1   0  40.50  D2 D5
+N.Pearson                    0       2   2   2   0   0   0   ----  D6 D7
+P.Baez HOLD(2nd)             0 1/3   0   0   0   1   0   0   0.00  D8 D9
+D.O'Day BS(1st)              0 1/3   1   0   0   0   0   0   0.00  E1 E1
+J.Romano LOSS(1-2)           2       5   4   4   2   1   0  16.62  E2
+[1]Totals                   10      15  11  11   6  10   1
+
+ATTENDANCE- 45,716 DATE- Thursday, October 7th 2021 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:48
+LEFT ON BASE- Tigers: 9  Blue Jays: 4
+DOUBLE PLAYS- Tigers: 0  Blue Jays: 1
+ERRORS- M.Brosseau, B.Miller
+DOUBLES- J.Iglesias(1st), V.Reyes(1st), M.Cabrera(1st), M.Trout(2nd),
+         T.D'Arnaud(1st)
+TRIPLES- N.Castellanos(1st), M.Trout(1st), N.Goodrum(1st)
+HOME RUNS- M.Trout(2nd), D.Jansen(1st), L.Gurriel-2(2nd)
+RBIs- J.Iglesias(3rd), V.Reyes-2(2nd), J.Candelario(1st), N.Castellanos(1st),
+      M.Trout-2(3rd), M.Brosseau(1st), W.Castro(3rd), T.D'Arnaud(3rd),
+      D.Jansen(1st), L.Gurriel-5(5th)
+STOLEN BASES- B.Bichette(1st), M.Straw(2nd)
+SACRIFICE HITS- H.Ryu
+WALKS- T.Grisham-2, I.Kiner-Falefa, M.Trout, M.Brosseau, T.D'Arnaud, C.Biggio,
+       B.Miller
+HIT BY PITCH- M.Brosseau
+STRIKE OUTS- T.Grisham, V.Reyes, J.Candelario, M.Cabrera, N.Castellanos,
+             M.Brosseau-2, W.Castro, T.D'Arnaud-2, L.Gurriel, T.Hernandez-2,
+             J.Walsh-2, B.Bichette, B.Miller, V.Guerrero Jr, M.Straw
+GIDP- I.Kiner-Falefa
+WILD PITCHES- Y.Kikuchi
+2-out RBI- M.Trout, L.Gurriel-4, J.Iglesias
+RLISP 2-out- C.Biggio-2, N.Castellanos-3, T.D'Arnaud-2
+TEAM RISP- Tigers: 9 for 19  Blue Jays: 1 for 4
+
+The Detroit Tigers registered 6 runs in the 8th inning and toppled the Toronto
+Blue Jays in 10 innings by a 11 to 7 score at Rogers Centre.
+
+The game was deadlocked at 7 after nine full innings.  Detroit ended up
+winning it in the 10th inning.  The crucial at-bat was provided by Victor
+Reyes who deflated the crowd as he doubled bringing home two baserunners.
+Detroit ended up with 15 hits for the game while Toronto had 8.  
+
+The victory was credited to Aaron Slegers(1-0) who went 1 and 1/3 innings,
+allowing no runs. Jordan Romano(1-2) was charged with the loss in relief.  He
+was touched for 5 hits and 2 walks in 2 innings.  
+
+Lourdes Gurriel cracked 2 homeruns but his offense was not enough to carry
+Toronto to victory.
+[2]
+[1]SCORESHEET: 2021 Detroit Tigers at 2021 Toronto Blue Jays
+T.Grisha-A1  A1:W>b1    B1:G/43    *6*:K      *8*:W>b1   E1:Do>2#   F1:F/8
+J.Iglesi-E1                                              1o         
+                                                                    
+I.Kiner--A1  A2:G-DP/5  *4*:G/63   C2:W>b1    D2:Si>13   *9*:K      F2:Do>3#
+V.Reyes-E2   43>1o                                                  2#
+                                                                    
+J.Candel-A1  A3:G/53    B3:Si      C3:K       D3:Si+E/4  E3:G/43    F3:Si>23
+                                              >3# 1#                
+                                                                    
+M.Cabrer-A1  *2*:F/9    B4:WP>12   C4:L/5     D4:K       E4:Do      F4:L/6
+                        F/7                                         
+                                                                    
+N.Castel-A1  A5:K       B5:F/7     *7*:G/31   D5:Tr>3#   E5:G/3     F5:G/63
+                                                                    
+                                                                    
+M.Trout-A1   A6:HR>b#   *5*:G/43   C6:Tr      D6:Do>3#   *10*:W>b1
+                                                         
+                                                         
+M.Brosse-A1  A7:K       B7:K       C7:HBP     D7:Si>2#   E7:W>12 b
+                                                         1
+                                                         
+N.Goodru-A1  *3*:G/31   B8:Tr      C8:K       D8:F/9     E8:Si>2#
+J.Wendle-C8                                              13
+W.Castro-C8+                                             
+T.D'Arna-A1  A9:K       B9:G/43    C9:K       D9:W>12 b  E9:Do>3#
+                                              1          13
+                                                         
+
+C.Biggio-A1  A1:P/2     B1:SB>12   C1:F/8     D1:W>b1    E1:Force/
+                        F/9                              36>1o b1
+                                                         
+D.Jansen-A1  A2:HR>b#   *3*:L/5    *6*:F/7    D2:E/3>3#  E2:G/63
+                                              23 12      
+                                                         
+L.Gurrie-A1  A3:HR>b#   B3:L/5     C3:Si      D3:HR>3#   *10*:K
+                                              2# 1# b#   
+                                                         
+T.Hernan-A1  A4:F/9     B4:K       C4:K       D4:P/2     E4:F/9
+B.Philli-D5                                              
+R.Perez-E4                                               
+J.Walsh-A1   A5:K       *4*:K      C5:G/63    *8*:G/13   E5:P/6
+K.Gausma-E5                                              
+                                                         
+B.Bichet-A1  *2*:K      B6:L/5     *7*:Si     D6:F/9
+                                              
+                                              
+B.Miller-A1  A7:K       B7:F/8     C7:SB>12   D7:F/9
+                                   W>b1       
+                                              
+V.Guerre-A1  A8:Si      *5*:K      C8:Sac/24  *9*:F/8
+H.Ryu-C8                           >23 12     
+A.Garcia-D8                                   
+M.Straw-A1   A9:Si>13   B9:L/6     C9:K       D9:Si
+                                              
+                                              
+
+

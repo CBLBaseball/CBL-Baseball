@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2021 Seattle Mariners At 2021 Toronto Blue Jays          10/16/2021
+
+[1]  Mariners           AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  K.Seager 3B         1  1  0  0 .250     C.Biggio 3B         4  1  1  0 .308  
+  J.Crawford SS       5  1  1  2 .294     D.Jansen C          2  0  0  0 .000  
+  A.Nola C,1B         3  1  2  0 .276   E-B.Miller PH         1  0  1  1 .375  
+  C.Moran DH          5  1  1  3 .105   F-R.Perez C           0  0  0  0 .111  
+  J.Aguilar 1B        3  0  2  0 .348     L.Gurriel LF        4  0  1  0 .462  
+A-B.Hamilton PR,CF    0  0  0  0 .000     T.Hernandez RF      4  1  1  1 .308  
+G-J.Polanco PH        1  0  0  0 .364     J.Walsh 1B          3  0  0  0 .000  
+H-G.Heredia CF        0  0  0  0 .000     B.Bichette SS       4  0  1  0 .385  
+  M.Kepler RF         5  0  1  0 .147     V.Guerrero Jr DH    4  1  1  0 .357  
+  K.Marte 2B          5  0  1  0 .207     L.Guillorme 2B      2  0  0  0 .000  
+  T.O'Neill LF        4  0  0  0 .222   C-A.Garcia PH         1  0  1  1 .286  
+  R.Quinn CF          3  0  1  0 .412   D-A.Young 2B          0  0  0  0 .000  
+B-Y.Diaz 1B           1  1  1  0 .308   J-B.Phillips PH       1  0  0  0 .333  
+I-Y.Gomes C           0  0  0  0 .000     M.Straw CF          3  0  0  0 .111  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 10  5                 Totals      33  3  7  3
+
+A-Pinch Ran For Aguilar In 7th Inning
+B-Subbed Defensively (1B) For Quinn In 7th Inning
+C-Pinch Hit For Guillorme In 7th Inning
+D-Subbed Defensively (2B) For Garcia In 8th Inning
+E-Pinch Hit For Jansen In 8th Inning
+F-Subbed Defensively (C ) For Miller In 9th Inning
+G-Pinch Hit For Hamilton In 9th Inning
+H-Subbed Defensively (CF) For Polanco In 9th Inning
+I-Subbed Defensively (C ) For Diaz In 9th Inning
+J-Pinch Hit For Young In 9th Inning
+
+Mariners........ 0 0 0  0 3 0  0 2 0  -  5 10  0
+Blue Jays....... 0 1 0  0 0 0  1 1 0  -  3  7  0
+
+[1]Mariners (5-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Davies WIN(2-0)            5 1/3   3   1   1   2   6   1   1.88  A1 C3
+C.Valdez HOLD(2nd)           1       1   1   1   0   0   0   2.70  C4 C7
+J.Osich HOLD(1st)            0 2/3   2   1   1   0   0   0  13.50  C8 D1
+Y.Garcia HOLD(1st)           1       1   0   0   1   0   0   0.00  D2 D6
+E.Diaz SAVE(1st)             1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       7   3   3   3   7   1
+
+[1]Blue Jays (2-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Gausman LOSS(0-1)          4 2/3   5   3   3   4   6   1   5.79  A1 C6
+P.Baez                       1 1/3   1   0   0   2   1   0   0.00  C7 D4
+T.Hatch                      1 1/3   2   1   1   0   1   0   4.50  D5 D9
+W.Benjamin                   1 1/3   2   1   1   0   1   1   3.38  E1 E6
+J.Romano                     0 1/3   0   0   0   0   1   0   0.00  E7
+[1]Totals                    9      10   5   5   6  10   2
+
+ATTENDANCE- 46,876 DATE- Saturday, October 16th 2021 TIME- Night 
+UMPIRES- Dan Bellino, D.J. Reyburn, Jeff Kellogg, Brian O'Nora
+T- 2:54
+LEFT ON BASE- Mariners:11  Blue Jays: 6
+DOUBLE PLAYS- Mariners: 1  Blue Jays: 0
+DOUBLES- C.Biggio(2nd), B.Miller(1st), V.Guerrero Jr(2nd)
+HOME RUNS- J.Crawford(1st), C.Moran(1st), T.Hernandez(1st)
+RBIs- J.Crawford-2(5th), C.Moran-3(4th), B.Miller(4th), T.Hernandez(1st),
+      A.Garcia(3rd)
+STOLEN BASES- M.Straw(1st)
+CAUGHT STEALING- B.Hamilton
+WALKS- K.Seager-3, A.Nola-2, J.Aguilar, D.Jansen, J.Walsh, M.Straw
+HIT BY PITCH- K.Seager
+STRIKE OUTS- A.Nola, C.Moran-2, M.Kepler-2, K.Marte, T.O'Neill-2, R.Quinn-2,
+             C.Biggio, D.Jansen, L.Gurriel-2, T.Hernandez, V.Guerrero Jr,
+             M.Straw
+GIDP- M.Straw
+2-out RBI- C.Moran-3, J.Crawford-2
+RLISP 2-out- C.Moran-4, L.Gurriel, K.Marte, J.Walsh, B.Bichette
+TEAM RISP- Mariners: 1 for 7  Blue Jays: 2 for 10
+
+In a good matchup it was the Seattle Mariners 5, the Toronto Blue Jays 3 at
+Rogers Centre.
+
+Seattle scored 3 runs in the top of the 5th inning.  The highlight belonged to
+Colin Moran who deflated the crowd as he clubbed a three-run home run.
+Seattle took care of Toronto with no trouble in the bottom of the 9th.
+
+Zach Davies(2-0) went 5 and 1/3 innings allowing 1 run for the win. Edwin Diaz
+recorded his 1st save.  Kevin Gausman(0-1) was charged with the loss.  He
+gave up 5 hits and 4 walks in 4 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2021 Seattle Mariners at 2021 Toronto Blue Jays
+K.Seager-A1  A1:W>b1    B1:W>b1    C1:HBP     D1:W>12 b  E1:F/7
+                                              1          
+                                                         
+J.Crawfo-A1  A2:G/13>1  B2:FO/2    C2:F/9     D2:G/43>2  E2:HR>1#
+             2                                3 12       b#
+                                                         
+A.Nola-A1    A3:K       B3:Si>12   C3:W>12 b  D3:IW>b1   E3:Si
+                                   1                     
+                                                         
+C.Moran-A1   A4:G/63    B4:K       C4:HR>2#   D4:K       E4:L/6
+                                   1# b#                 
+                                                         
+J.Aguila-A1  *2*:G/63   *4*:Si     C5:W>b1    *7*:Si     *9*:G/23
+B.Hamilt-D6                                              
+J.Polanc-E5+                                             
+M.Kepler-A1  A6:L/4     B6:K       C6:Si>12   D6:F/8     E6:K
+                                                         
+                                                         
+K.Marte-A1   A7:Si      B7:F/9     C7:L/4     D7:CS/26>  E7:K
+                                              1o FO/3    
+                                                         
+T.O'Neil-A1  A8:K       B8:G/13    *6*:G/43   *8*:K
+                                              
+                                              
+R.Quinn-A1   *3*:K      *5*:K      C9:Si      D9:Si
+Y.Diaz-D8                                     
+Y.Gomes-E8                                    
+
+C.Biggio-A1  A1:G/13    B1:SB>12   *6*:L/3    *8*:Do
+                        K                     
+                                              
+D.Jansen-A1  A2:K       B2:P/4     C2:W>b1    D2:Do>2#
+B.Miller-D2                                   
+R.Perez-D7                                    
+L.Gurrie-A1  A3:K       B3:K       C3:Si>12   D3:G/13
+                                              
+                                              
+T.Hernan-A1  *2*:HR>b#  *4*:K      C4:F/7     D4:F/7
+                                              
+                                              
+J.Walsh-A1   A5:P/6     B5:F/9     C5:G/63    D5:IW>b1
+                                              
+                                              
+B.Bichet-A1  A6:Si      B6:G/13    *7*:F/9    D6:G/43
+                                              
+                                              
+V.Guerre-A1  A7:K       *5*:G/3    C7:Do      *9*:G/53
+                                              
+                                              
+L.Guillo-A1  A8:G/43    B8:L/4     C8:Si>2#   D8:F/9
+A.Garcia-C8                                   
+A.Young-D1+                                   
+M.Straw-A1   *3*:W>b1   B9:P/6     C9:G-DP/4  D9:K
+                                   63>1o      
+                                              
+
+

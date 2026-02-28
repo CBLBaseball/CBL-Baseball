@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2021 Cincinnati Reds At 2021 San Francisco Giants         10/4/2021
+
+[1]  Reds               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  J.Profar 2B         4  0  2  0 .375     M.Dubon 2B          4  1  1  1 .250  
+  A.Mondesi SS        3  0  1  0 .250   C-K.Wong 2B           1  0  0  0 .000  
+  C.Walker 1B         3  0  0  0 .125     A.Rendon 3B         4  1  1  0 .375  
+E-J.Votto PH,1B       1  0  0  0 .000     B.Harper DH         3  1  1  1 .400  
+  M.Conforto DH       4  0  0  0 .250     M.Ozuna LF          3  3  2  2 .333  
+  Y.Munoz LF          3  1  2  0 .429     M.Yastrzemski RF    3  1  0  1 .000  
+F-S.Akiyama PH        1  0  0  0 .000     W.Adames SS         4  0  1  0 .125  
+  E.Suarez 3B         4  1  1  2 .286     A.Cabrera 1B        2  0  0  0 .000  
+  J.Gallo RF          4  0  0  0 .000   A-B.Belt PH,1B        1  0  0  1 .000  
+  T.Barnhart C        3  0  1  0 .286     K.Pillar CF         3  1  0  0 .000  
+G-T.Stephenson PH     1  0  0  0 .000     R.Chirinos C        2  0  0  0 .000  
+  J.Dyson CF          3  0  2  0 .429   B-D.Ruf PH            1  0  1  11.000  
+                                        D-S.Leon C            1  0  1  01.000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  2  9  2                 Totals      32  8  8  7
+
+A-Pinch Hit For Cabrera In 6th Inning
+B-Pinch Hit For Chirinos In 6th Inning
+C-Subbed Defensively (2B) For Dubon In 7th Inning
+D-Subbed Defensively (C ) For Ruf In 7th Inning
+E-Pinch Hit For Walker In 8th Inning
+F-Pinch Hit For Munoz In 9th Inning
+G-Pinch Hit For Barnhart In 9th Inning
+
+Reds............ 0 2 0  0 0 0  0 0 0  -  2  9  2
+Giants.......... 0 0 0  1 0 6  1 0    -  8  8  1
+
+[1]Reds (1-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Keuchel LOSS(0-1)          5       4   4   2   1   5   1   3.60  A1 C3
+S.Reid-Foley                 0 1/3   0   2   2   2   1   0  54.00  C4 C6
+J.Rodriguez                  0 1/3   0   1   0   1   0   0   0.00  C7 C8
+P.Fry                        0       1   0   0   0   0   0   ----  C9 C9
+B.Kintzler                   2 1/3   3   1   1   0   1   1   3.86  D1
+[1]Totals                    8       8   8   3   4   7   2
+
+[1]Giants (1-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Wheeler WIN(1-0)           9       9   2   2   0   6   1   2.00  A1
+[1]Totals                    9       9   2   2   0   6   1
+
+ATTENDANCE- 39,144 DATE- Monday, October 4th 2021 TIME- Night 
+UMPIRES- Mike Everitt, Chad Fairchild, Vic Carapazza, Bill Miller
+T- 3:00
+LEFT ON BASE- Reds: 6  Giants: 5
+DOUBLE PLAYS- Reds: 0  Giants: 2
+ERRORS- A.Mondesi, E.Suarez, S.Leon
+DOUBLES- Y.Munoz(2nd), W.Adames(1st), S.Leon(1st)
+HOME RUNS- E.Suarez(2nd), M.Ozuna-2(2nd)
+RBIs- E.Suarez-2(3rd), M.Dubon(1st), B.Harper(3rd), M.Ozuna-2(2nd),
+      M.Yastrzemski(1st), B.Belt(1st), D.Ruf(1st)
+STOLEN BASES- J.Dyson(1st), B.Harper(1st)
+SACRIFICE HITS- A.Mondesi
+SACRIFICE FLIES- B.Belt
+WALKS- B.Harper, M.Ozuna, M.Yastrzemski, K.Pillar
+STRIKE OUTS- J.Profar, M.Conforto, Y.Munoz, E.Suarez, J.Gallo, T.Barnhart,
+             M.Dubon, A.Rendon, M.Ozuna, W.Adames-2, A.Cabrera, K.Pillar
+GIDP- J.Votto
+2-out RBI- D.Ruf, M.Dubon
+RLISP 2-out- M.Conforto, A.Mondesi, K.Pillar, A.Rendon-2, K.Wong
+TEAM RISP- Reds: 1 for 6  Giants: 3 for 8
+
+Marcell Ozuna blasted 2 homeruns and scored 3 times and Zack Wheeler tossed a
+complete game at AT&T Park where the San Francisco Giants beat the Cincinnati
+Reds 8 to 2.
+
+Ozuna enjoyed a big evening at the plate.  He smashed a bases-empty 'big-fly'
+in the 4th inning and blasted a solo shot in the 7th inning.  San Francisco
+rapped out 8 hits for the night.  
+
+The victory was credited to Wheeler(1-0) who went the distance, allowing 2
+runs. Dallas Keuchel(0-1) was the loser.  He surrendered 4 hits and 1 walk in
+5 innings.
+[2]
+[1]SCORESHEET: 2021 Cincinnati Reds at 2021 San Francisco Giants
+J.Profar-A1  A1:Si      B1:Si>12   C1:SB>12   D1:K
+                                   G/63       
+                                              
+A.Mondes-A1  A2:Sac/34  B2:G/53    C2:F-DP/9  *8*:Si
+             >12                   5>2o       
+                                              
+C.Walker-A1  A3:L/6     *3*:G/63   *6*:G/63   D3:G-DP/4
+J.Votto-D3                                    63>1o
+                                              
+M.Confor-A1  A4:G/43    B4:L/4     C4:F/7     D4:K
+                                              
+                                              
+Y.Munoz-A1   *2*:Do     B5:K       C5:Si      *9*:G/13
+S.Akiyam-D5                                   
+                                              
+E.Suarez-A1  A6:HR>2#   *4*:F/9    C6:L/6     D6:K
+             b#                               
+                                              
+J.Gallo-A1   A7:G/43    B7:G/43    *7*:K      D7:E/2
+                                              
+                                              
+T.Barnha-A1  A8:K       B8:F/7     C8:Si      D8:G/63
+T.Stephe-D8                                   
+                                              
+J.Dyson-A1   A9:Si      *5*:Si     C9:F/9
+                                   
+                                   
+
+M.Dubon-A1   A1:K       B1:G/63    *6*:E/6    D1:Si+E/5  E1:L/4
+K.Wong-D3                                     >3# 2# 13  
+                                                         
+A.Rendon-A1  A2:K       B2:G/53    C2:Si>13   D2:G/31
+                                              
+                                              
+B.Harper-A1  A3:W>b1    *4*:G/43   C3:Si>3#   *7*:G/63
+                                   13         
+                                              
+M.Ozuna-A1   A4:K       B4:HR>b#   C4:SB>12   D4:HR>b#
+                                   IW>b1      
+                                              
+M.Yastrz-A1  *2*:F/9    B5:F/8     C5:W>3# 2  D5:F/7
+                                   3 12 b1    
+                                              
+W.Adames-A1  A6:Do      B6:G/3     C6:K       D6:K
+                                              
+                                              
+A.Cabrer-A1  A7:L/6     *5*:K      C7:SF/8>3  *8*:F/8
+B.Belt-C7                          # 23       
+                                              
+K.Pillar-A1  A8:G/63    B8:K       C8:W>12 b  D8:G/53
+                                   1          
+                                              
+R.Chirin-A1  *3*:G/43   B9:F/7     C9:Si>3#   D9:Do
+D.Ruf-C9                           23 12      
+S.Leon-D3                                     
+
+

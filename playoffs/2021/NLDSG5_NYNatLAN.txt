@@ -1,0 +1,118 @@
+[1]BOXSCORE: 2021 New York (NL) Mets At 2021 Los Angeles(NL) Dodgers   10/8/2021
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.McNeil LF         3  0  0  0 .190     T.France 1B         4  0  1  0 .125  
+  J.Berti 2B          4  0  1  0 .154     C.Seager SS         4  0  0  0 .273  
+  D.Smith 1B          4  0  1  0 .227     W.Smith DH          3  1  1  1 .182  
+  W.Myers RF          4  0  0  0 .238   A-D.Vogelbach PH,DH   1  0  0  0 .125  
+  M.Moreland DH       3  0  0  0 .000     K.Calhoun RF        2  0  0  0 .154  
+B-P.Alonso PH         1  0  0  0 .333     A.Engel LF          3  0  0  0 .000  
+  D.Gregorius SS      4  0  1  0 .176     C.Bellinger CF      2  0  0  0 .071  
+  J.Bradley Jr CF     3  0  1  0 .294     C.Taylor 2B         3  0  1  0 .278  
+  E.Longoria 3B       3  0  0  0 .313     Y.Grandal C         3  2  2  2 .125  
+  M.Maldonado C       3  0  1  0 .250     J.Turner 3B         3  0  1  0 .357  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  0  5  0                 Totals      28  3  6  3
+
+A-Pinch Hit For Smith In 8th Inning
+B-Pinch Hit For Moreland In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  5  0
+Dodgers......... 0 0 1  1 0 0  0 1    -  3  6  0
+
+[1]Mets (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Degrom LOSS(1-1)           8       6   3   3   2   7   3   1.69  A1
+[1]Totals                    8       6   3   3   2   7   3
+
+[1]Dodgers (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Gonsolin WIN(1-1)          5 2/3   5   0   0   0   5   0   2.25  A1 C4
+J.Diekman SAVE(1st)          3 1/3   0   0   0   1   6   0   1.93  C5
+[1]Totals                    9       5   0   0   1  11   0
+
+ATTENDANCE- 54,101 DATE- Friday, October 8th 2021 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:50
+LEFT ON BASE- Mets: 6  Dodgers: 3
+DOUBLE PLAYS- Mets: 2  Dodgers: 0
+DOUBLES- D.Smith(2nd), T.France(2nd), J.Turner(2nd)
+HOME RUNS- W.Smith(1st), Y.Grandal-2(2nd)
+RBIs- W.Smith(1st), Y.Grandal-2(4th)
+STOLEN BASES- C.Taylor(2nd)
+WALKS- J.McNeil, K.Calhoun, C.Bellinger
+STRIKE OUTS- J.McNeil, J.Berti-2, D.Smith, W.Myers-2, M.Moreland, P.Alonso,
+             E.Longoria, M.Maldonado-2, T.France-2, C.Seager, W.Smith,
+             D.Vogelbach, A.Engel, Y.Grandal
+GIDP- C.Taylor
+RLISP 2-out- W.Myers, C.Taylor, T.France, M.Moreland, D.Vogelbach
+TEAM RISP- Mets: 0 for 3  Dodgers: 0 for 10
+
+Yasmani Grandal blasted 2 homeruns as the Los Angeles(NL) Dodgers topped the
+New York (NL) Mets by a score of 3 to 0 at Dodger Stadium.
+
+Tony Gonsolin(1-1) pitched well for Los Angeles(NL) in their victory.  He went
+5 and 2/3 innings allowing 5 hits and no walks lowering his ERA from 4.26 to
+2.25.  Los Angeles(NL) had only 6 hits for the game.  
+
+Gonsolin got help from Jake Diekman who earned his 1st save.  Jacob
+Degrom(1-1) was the losing pitcher.  He allowed 3 homeruns in 8 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2021 New York (NL) Mets at 2021 Los Angeles(NL) Dodgers
+J.McNeil-A1  A1:L/3     B1:L/4     C1:K       D1:W>b1
+                                              
+                                              
+J.Berti-A1   A2:L/6     B2:K       *6*:Si     D2:K
+                                              
+                                              
+D.Smith-A1   A3:Do      B3:F/9     C3:G/53>1  D3:K
+                                   2          
+                                              
+W.Myers-A1   A4:G/13    *4*:K      C4:K       *9*:G/53
+                                              
+                                              
+M.Morela-A1  *2*:G/63   B5:G/13    C5:K       D5:K
+P.Alonso-D5                                   
+                                              
+D.Gregor-A1  A6:L/3     B6:Si      *7*:P/6    D6:G/13
+                                              
+                                              
+J.Bradle-A1  A7:Si      B7:G/53    C7:G/63
+                                   
+                                   
+E.Longor-A1  A8:L/5     *5*:F/8    C8:K
+                                   
+                                   
+M.Maldon-A1  *3*:Si     B9:K       *8*:K
+                                   
+                                   
+
+T.France-A1  A1:Do      B1:K       C1:K       D1:G/43>2
+                                              3
+                                              
+C.Seager-A1  A2:G/43>2  B2:G/3     *6*:G/63   D2:K
+             3                                
+                                              
+W.Smith-A1   A3:L-DP/6  *4*:HR>b#  C3:K       D3:K
+D.Vogelb-D3  5>3o                             
+                                              
+K.Calhou-A1  *2*:W>b1   B4:P/2     C4:F/8
+                                   
+                                   
+A.Engel-A1   A5:G/43>1  B5:K       *7*:G/63
+             2                     
+                                   
+C.Bellin-A1  A6:F/9>23  B6:P/6     C6:W>b1
+                                   
+                                   
+C.Taylor-A1  A7:G/43    *5*:Si     C7:G-DP/6
+                                   43>1o
+                                   
+Y.Granda-A1  *3*:HR>b#  B8:SB>12   *8*:HR>b#
+                        K          
+                                   
+J.Turner-A1  A9:F/7     B9:G/63    C9:Do
+                                   
+                                   
+
+

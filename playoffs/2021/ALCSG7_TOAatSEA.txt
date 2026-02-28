@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2021 Toronto Blue Jays At 2021 Seattle Mariners          10/21/2021
+
+[1]  Blue Jays          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  L.Guillorme 2B      4  0  1  0 .125     K.Seager 3B         3  0  1  0 .229  
+  D.Jansen C          3  0  0  0 .143     Y.Diaz DH           4  1  1  0 .304  
+  L.Gurriel LF        4  0  0  0 .267     C.Moran 1B          3  0  0  0 .100  
+  J.Walsh 1B          4  0  1  0 .286   C-J.Aguilar PH,1B     1  0  0  0 .333  
+  T.Hernandez RF      4  0  0  0 .250     A.Nola C            3  1  2  2 .324  
+  C.Biggio 3B         2  0  0  0 .259     M.Kepler RF         3  0  0  0 .167  
+  V.Guerrero Jr DH    2  0  0  0 .296     J.Crawford SS       3  0  0  0 .271  
+  B.Miller SS         3  0  0  0 .263     K.Marte 2B          3  0  0  0 .293  
+  A.Garcia CF         3  0  0  0 .211     T.O'Neill LF        2  0  1  0 .172  
+                                        A-J.Marmolejos PH     1  0  1  0 .375  
+                                        B-B.Hamilton PR,CF    0  0  0  0 .000  
+                                          R.Quinn CF,LF       3  0  0  0 .304  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  0  2  0                 Totals      29  2  6  2
+
+A-Pinch Hit For O'Neill In 7th Inning
+B-Pinch Ran For Marmolejos In 7th Inning
+C-Pinch Hit For Moran In 8th Inning
+
+Blue Jays....... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Mariners........ 2 0 0  0 0 0  0 0    -  2  6  0
+
+[1]Blue Jays (3-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Gausman LOSS(0-2)          7       6   2   2   1  10   1   3.86  A1 D1
+D.O'Day                      0 2/3   0   0   0   0   0   0   0.00  D2 D2
+P.Baez                       0 1/3   0   0   0   0   0   0   0.00  D3
+[1]Totals                    8       6   2   2   1  10   1
+
+[1]Mariners (8-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Davies WIN(3-0)            7       2   0   0   3   8   0   1.27  A1 C8
+C.Valdez HOLD(4th)           1 2/3   0   0   0   0   1   0   1.59  C9 D4
+E.Diaz SAVE(3rd)             0 1/3   0   0   0   0   1   0   0.00  D5
+[1]Totals                    9       2   0   0   3  10   0
+
+ATTENDANCE- 44,506 DATE- Thursday, October 21st 2021 TIME- Night 
+UMPIRES- Scott Barry, Jeff Nelson, Laz Diaz, Mark Carlson
+T- 2:23
+LEFT ON BASE- Blue Jays: 5  Mariners: 4
+DOUBLE PLAYS- Blue Jays: 1  Mariners: 0
+TRIPLES- J.Walsh(1st)
+HOME RUNS- A.Nola(2nd)
+RBIs- A.Nola-2(4th)
+STOLEN BASES- B.Hamilton(2nd)
+WALKS- D.Jansen, C.Biggio, V.Guerrero Jr, K.Seager
+STRIKE OUTS- L.Guillorme-2, D.Jansen, L.Gurriel-2, J.Walsh, T.Hernandez-3,
+             B.Miller, K.Seager, C.Moran-3, M.Kepler-2, J.Crawford-2, K.Marte,
+             T.O'Neill
+GIDP- Y.Diaz
+2-out RBI- A.Nola-2
+RLISP 2-out- T.Hernandez-2, L.Guillorme, R.Quinn
+TEAM RISP- Blue Jays: 0 for 7  Mariners: 0 for 1
+
+Austin Nola slammed a homerun and had 2 RBI as the Seattle Mariners topped the
+Toronto Blue Jays by a score of 2 to 0 at SAFECO Field.
+
+Seattle started with a bang, jumping out to an early lead in their half of the
+first when they scored 2 runs on 1 hit.  That early run support was all that
+Zach Davies(3-0) required.  Neither team managed to score after the 1st
+inning.  
+
+Edwin Diaz earned the save, his 3rd.  Kevin Gausman(0-2) took the loss.  While
+he was the losing pitcher, he still struck out 10 batters in 7 innings.  
+
+[2]
+[1]SCORESHEET: 2021 Toronto Blue Jays at 2021 Seattle Mariners
+L.Guillo-A1  A1:Si      B1:K       C1:K       D1:G/43
+                                              
+                                              
+D.Jansen-A1  A2:W>12 b  *3*:G/63   *6*:K      D2:P/6
+             1                                
+                                              
+L.Gurrie-A1  A3:K       B3:F/7     C3:K       *9*:G/63
+                                              
+                                              
+J.Walsh-A1   A4:Force/  B4:G/31    C4:Tr      D4:K
+             36>23 1o                         
+             b1                               
+T.Hernan-A1  A5:G/53    *4*:K      C5:K       D5:K
+                                              
+                                              
+C.Biggio-A1  *2*:W>b1   B6:P/4     *7*:G/43
+                                   
+                                   
+V.Guerre-A1  A7:W>12 b  B7:F/9     C7:F/8
+             1                     
+                                   
+B.Miller-A1  A8:K       *5*:F/9    C8:L/4
+                                   
+                                   
+A.Garcia-A1  A9:F/9     B9:G/13    *8*:F/8
+                                   
+                                   
+
+K.Seager-A1  A1:W>b1    B1:F/9     C1:K       *8*:Si
+                                              
+                                              
+Y.Diaz-A1    A2:Force/  B2:Si      C2:G/13    D2:G-DP/6
+             36>1o b1                         43>1o
+                                              
+C.Moran-A1   A3:K       B3:K       *6*:K      D3:L/3
+J.Aguila-D3                                   
+                                              
+A.Nola-A1    A4:HR>1#   *4*:Si     C4:G/63
+             b#                    
+                                   
+M.Kepler-A1  A5:L/4     B5:K       C5:K
+                                   
+                                   
+J.Crawfo-A1  *2*:K      B6:K       *7*:G/43
+                                   
+                                   
+K.Marte-A1   A7:K       B7:F/9     C7:G/3
+                                   
+                                   
+T.O'Neil-A1  A8:K       *5*:Si     C8:Si
+J.Marmol-C8                        
+B.Hamilt-C9                        
+R.Quinn-A1   *3*:G/43   B9:P/1     C9:SB>12
+                                   G/53
+                                   
+
+

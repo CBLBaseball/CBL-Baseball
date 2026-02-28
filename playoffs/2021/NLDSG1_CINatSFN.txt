@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2021 Cincinnati Reds At 2021 San Francisco Giants         10/3/2021
+
+[1]  Reds               AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  J.Profar 2B         4  1  1  0 .250     M.Yastrzemski RF    3  1  0  0 .000  
+  A.Mondesi SS        5  1  1  1 .200     A.Rendon 3B         4  1  2  0 .500  
+  C.Walker 1B         5  1  1  0 .200     B.Belt 1B           3  0  0  0 .000  
+  M.Conforto DH       4  1  2  0 .500     M.Ozuna LF          3  0  0  0 .000  
+  T.Barnhart C        4  0  1  2 .250     B.Harper DH         2  0  1  2 .500  
+  Y.Munoz LF          4  0  1  0 .250     W.Adames SS         4  0  0  0 .000  
+A-S.Akiyama LF        0  0  0  0 ----     K.Pillar CF         4  0  0  0 .000  
+  E.Suarez 3B         3  1  1  1 .333     J.Bart C            4  0  1  0 .250  
+  J.Gallo RF          2  0  0  0 .000     K.Wong 2B           3  0  0  0 .000  
+  J.Dyson CF          4  0  1  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  9  4                 Totals      30  2  4  2
+
+A-Subbed Defensively (LF) For Munoz In 8th Inning
+
+Reds............ 0 1 0  0 4 0  0 0 0  -  5  9  0
+Giants.......... 1 0 1  0 0 0  0 0 0  -  2  4  0
+
+[1]Reds (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish WIN(1-0)           6 1/3   4   2   2   3   5   0   2.84  A1 C8
+B.Martin HOLD(1st)           0 2/3   0   0   0   1   1   0   0.00  C9 D2
+J.Rodriguez HOLD(1st)        1       0   0   0   1   2   0   0.00  D3 D6
+R.Iglesias SAVE(1st)         1       0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       4   2   2   5   8   0
+
+[1]Giants (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Gallen LOSS(0-1)           6       7   5   5   5   9   1   7.50  A1 D3
+E.Yardley                    0 2/3   2   0   0   1   0   0   0.00  D4 D7
+Z.Britton                    1 1/3   0   0   0   0   1   0   0.00  D8 E2
+T.Watson                     1       0   0   0   0   1   0   0.00  E3
+[1]Totals                    9       9   5   5   6  11   1
+
+ATTENDANCE- 40,556 DATE- Sunday, October 3rd 2021 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:57
+LEFT ON BASE- Reds: 9  Giants: 7
+DOUBLE PLAYS- Reds: 0  Giants: 1
+DOUBLES- Y.Munoz(1st)
+HOME RUNS- E.Suarez(1st)
+RBIs- A.Mondesi(1st), T.Barnhart-2(2nd), E.Suarez(1st), B.Harper-2(2nd)
+STOLEN BASES- J.Profar(1st), A.Mondesi(1st), M.Conforto(1st)
+SACRIFICE FLIES- B.Harper
+WALKS- J.Profar, M.Conforto, T.Barnhart, E.Suarez, J.Gallo-2, M.Yastrzemski,
+       B.Belt, M.Ozuna, B.Harper, K.Wong
+STRIKE OUTS- A.Mondesi-3, C.Walker-3, Y.Munoz, E.Suarez-2, J.Gallo, J.Dyson,
+             M.Yastrzemski, A.Rendon, B.Belt, M.Ozuna-2, W.Adames-3
+GIDP- T.Barnhart
+WILD PITCHES- Z.Gallen
+2-out RBI- B.Harper, A.Mondesi, T.Barnhart-2
+RLISP 2-out- W.Adames-2, J.Dyson-2, Y.Munoz, C.Walker-2, J.Gallo, A.Rendon
+TEAM RISP- Reds: 3 for 10  Giants: 1 for 6
+
+In an entertaining game at AT&T Park the final score was the Cincinnati Reds
+5, the San Francisco Giants 2.
+
+In the 5th inning Cincinnati scored 4 runs when they came up with 5 base hits.
+The big moment was provided by Tucker Barnhart who silenced the crowd when
+he slapped a one-base hit bringing in two baserunners.  Raisel Iglesias
+pitched a perfect ninth to earn his 1st save.  
+
+Yu Darvish(1-0) got credit for the victory, pitching 6 and 1/3 innings and
+allowing 2 runs. Zac Gallen(0-1) suffered the loss.  He struck out 9 batters
+in 6 innings despite losing the game.  
+
+[2]
+[1]SCORESHEET: 2021 Cincinnati Reds at 2021 San Francisco Giants
+J.Profar-A1  A1:G/53    *3*:L/4    C1:Si      D1:W>23 1  E1:G/63
+                                              2 b1       
+                                                         
+A.Mondes-A1  A2:K       B2:K       C2:SB>12   D2:K       E2:F/9
+                                   Si>2#                 
+                                                         
+C.Walker-A1  A3:K       B3:K       C3:SB>12   D3:G/53    *9*:K
+                                   Si>23                 
+                                                         
+M.Confor-A1  *2*:Si     *4*:G/23   C4:W>12 b  *7*:Si     E4:G/13
+                                   1                     
+                                                         
+T.Barnha-A1  A5:SB>12   B5:G/63    C5:Si>3#   D5:G-DP/5  E5:F/8
+             W>b1                  2# 13      43>1o      
+                                                         
+Y.Munoz-A1   A6:K       B6:G/63    C6:G/63    D6:Do
+S.Akiyam-E3                                   
+                                              
+E.Suarez-A1  A7:K       *5*:HR>b#  *6*:K      D7:W>b1
+                                              
+                                              
+J.Gallo-A1   A8:W>23 1  B8:K       C8:W>b1    D8:F/7
+             2 b1                             
+                                              
+J.Dyson-A1   A9:WP>3#   B9:F/8     C9:Si>12   *8*:K
+             23 12 G/6                        
+             3                                
+
+M.Yastrz-A1  A1:W>b1    *3*:G/63   *5*:G/63   D1:K
+                                              
+                                              
+A.Rendon-A1  A2:Si>12   B2:Si      C2:K       D2:G/63
+                                              
+                                              
+B.Belt-A1    A3:W>23 1  B3:K       C3:G/13    *8*:F/8
+             2 b1                             
+                                              
+M.Ozuna-A1   A4:K       B4:W>12 b  *6*:F/7    D4:K
+                        1                     
+                                              
+B.Harper-A1  A5:SF/8>3  B5:Si>2#   C5:G/43    D5:W>b1
+             #          13                    
+                                              
+W.Adames-A1  A6:K       B6:G/63    C6:K       D6:K
+                                              
+                                              
+K.Pillar-A1  *2*:F/8    *4*:G/63   *7*:P/6    *9*:F/9
+                                              
+                                              
+J.Bart-A1    A8:G/63    B8:G/63    C8:Si      D8:F/9
+                                              
+                                              
+K.Wong-A1    A9:G/53    B9:F/8     C9:W>12 b  D9:G/63
+                                   1          
+                                              
+
+

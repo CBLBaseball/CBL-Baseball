@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2021 Toronto Blue Jays At 2021 Detroit Tigers             10/3/2021
+
+[1]  Blue Jays          AB  R  H RBI AVG     Tigers             AB  R  H RBI AVG
+  C.Biggio 2B,3B      4  0  0  0 .000     T.Grisham RF        3  0  1  0 .333  
+  A.Garcia CF,RF      3  0  1  0 .333     I.Kiner-Falefa SS   3  0  1  0 .333  
+  L.Gurriel LF        4  0  0  0 .000   C-W.Castro PH,2B      1  0  0  0 .000  
+  T.Hernandez RF      4  2  2  2 .500     J.Candelario 3B     4  0  0  0 .000  
+D-B.Phillips CF       0  0  0  0 ----     M.Cabrera DH        2  0  0  0 .000  
+  B.Bichette SS       3  0  0  0 .000   E-J.Wendle PH,DH      1  0  0  0 .000  
+  V.Guerrero Jr 1B    3  0  0  0 .000     M.Brosseau 1B       3  0  1  0 .333  
+  B.Miller 3B         3  0  0  0 .000   F-N.Castellanos PH    1  0  0  0 .000  
+B-L.Guillorme 2B      1  0  0  0 .000   G-R.Guzman 1B         0  0  0  0 ----  
+  R.Perez C           3  0  0  0 .000     N.Goodrum 2B,SS     2  1  0  0 .000  
+  A.Young DH          1  0  0  0 .000   H-J.Iglesias PH       1  0  0  0 .000  
+A-K.Gausman PH,DH     1  0  0  0 .000     M.Trout CF          2  0  1  0 .500  
+                                          V.Reyes LF          4  0  0  0 .000  
+                                          T.D'Arnaud C        3  0  0  1 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  3  2                 Totals      30  1  4  1
+
+A-Pinch Hit For Young In 5th Inning
+B-Subbed Defensively (2B) For Miller In 7th Inning
+C-Pinch Hit For Kiner-Falefa In 7th Inning
+D-Subbed Defensively (CF) For Hernandez In 8th Inning
+E-Pinch Hit For Cabrera In 8th Inning
+F-Pinch Hit For Brosseau In 8th Inning
+G-Subbed Defensively (1B) For Castellanos In 9th Inning
+H-Pinch Hit For Goodrum In 9th Inning
+
+Blue Jays....... 0 1 0  1 0 0  0 0 0  -  2  3  0
+Tigers.......... 0 0 0  1 0 0  0 0 0  -  1  4  1
+
+[1]Blue Jays (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu WIN(1-0)               6 2/3   4   1   1   4   5   0   1.35  A1 D1
+D.O'Day HOLD(1st)            1 1/3   0   0   0   0   4   0   0.00  D2 D5
+R.Dolis HOLD(1st)            0 1/3   0   0   0   1   1   0   0.00  D6 D7
+P.Baez HOLD(1st)             0 1/3   0   0   0   0   1   0   0.00  D8 D8
+B.Raley SAVE(1st)            0 1/3   0   0   0   0   1   0   0.00  D9
+[1]Totals                    9       4   1   1   5  12   0
+
+[1]Tigers (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Brault LOSS(0-1)           5 2/3   2   2   2   3   5   2   3.18  A1 C5
+J.Cisnero                    1 1/3   0   0   0   0   2   0   0.00  C6 C9
+J.Curtiss                    0 1/3   1   0   0   0   0   0   0.00  D1 D2
+J.Hernandez                  1 2/3   0   0   0   0   3   0   0.00  D3
+[1]Totals                    9       3   2   2   3  10   2
+
+ATTENDANCE- 39,486 DATE- Sunday, October 3rd 2021 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 3:09
+LEFT ON BASE- Blue Jays: 5  Tigers: 8
+DOUBLE PLAYS- Blue Jays: 0  Tigers: 0
+ERRORS- N.Goodrum
+DOUBLES- T.Grisham(1st), M.Trout(1st)
+HOME RUNS- T.Hernandez-2(2nd)
+RBIs- T.Hernandez-2(2nd), T.D'Arnaud(1st)
+SACRIFICE FLIES- T.D'Arnaud
+WALKS- B.Bichette, V.Guerrero Jr, K.Gausman, T.Grisham, M.Cabrera, N.Goodrum,
+       M.Trout-2
+HIT BY PITCH- A.Garcia
+STRIKE OUTS- C.Biggio-2, A.Garcia, L.Gurriel, B.Bichette-2, V.Guerrero Jr-2,
+             L.Guillorme, K.Gausman, I.Kiner-Falefa, W.Castro, J.Candelario,
+             J.Wendle, M.Brosseau, N.Castellanos, N.Goodrum, J.Iglesias,
+             V.Reyes-2, T.D'Arnaud-2
+2-out RBI- T.Hernandez
+RLISP 2-out- V.Reyes, M.Brosseau-2, B.Miller, T.Grisham, L.Gurriel, W.Castro,
+             T.Hernandez
+TEAM RISP- Blue Jays: 0 for 3  Tigers: 0 for 6
+
+Teoscar Hernandez smacked 2 homeruns as the Toronto Blue Jays defeated the
+Detroit Tigers by the score of 2 to 1 at Comerica Park.
+
+Hyun-Jin Ryu(1-0) gave Toronto a solid outing.  He allowed 4 hits and 4 walks
+in 6 and 2/3 innings.  After the 4th inning, neither team was able to score.
+
+Brooks Raley earned the save, his 1st.  Steven Brault(0-1) was the loser. He
+gave up 2 runs and 2 hits in 5 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2021 Toronto Blue Jays at 2021 Detroit Tigers
+C.Biggio-A1  A1:G/3     B1:K       C1:K       *8*:FO/3
+                                              
+                                              
+A.Garcia-A1  A2:G/63    *4*:K      C2:HBP>12  D2:Si
+                                              
+                                              
+L.Gurrie-A1  A3:K       B3:FO/2    C3:F/8     D3:G/43>1
+                                              2
+                                              
+T.Hernan-A1  *2*:HR>b#  B4:HR>b#   *6*:G/13   D4:P/6
+B.Philli-D5                                   
+                                              
+B.Bichet-A1  A5:K       B5:E/4>b2  C5:W>b1    *9*:K
+                                              
+                                              
+V.Guerre-A1  A6:G/43    B6:IW>b1   C6:PkOff/  D6:K
+                                   13>1o K    
+                                              
+B.Miller-A1  A7:G/13    B7:G/43    *7*:F/8    D7:K
+L.Guillo-D1                                   
+                                              
+R.Perez-A1   *3*:F/8    *5*:F/8    C8:G/43
+                                   
+                                   
+A.Young-A1   A9:G/63    B9:W>b1    C9:K
+K.Gausma-B9                        
+                                   
+
+T.Grisha-A1  A1:G/63    B1:W>b1    C1:F/8     D1:Do
+                                              
+                                              
+I.Kiner--A1  A2:K       B2:Si>12   *5*:F/9    D2:K
+W.Castro-D2                                   
+                                              
+J.Candel-A1  A3:F/7     B3:L/6     C3:G/53    *8*:K
+                                              
+                                              
+M.Cabrer-A1  *2*:G/13   B4:W>23 1  C4:F/7     D4:K
+J.Wendle-D4             2 b1                  
+                                              
+M.Brosse-A1  A5:Si      B5:F/9     *6*:K      D5:K
+N.Castel-D5                                   
+R.Guzman-D6                                   
+N.Goodru-A1  A6:K       *4*:W>b1   C6:F/9     *9*:K
+J.Iglesi-D6                                   
+                                              
+M.Trout-A1   A7:W>12 b  B7:Do>13   C7:F/8     D7:W>b1
+             1                                
+                                              
+V.Reyes-A1   A8:F/8     B8:K       *7*:G/63   D8:K
+                                              
+                                              
+T.D'Arna-A1  *3*:K      B9:SF/9>3  C9:G/3     D9:K
+                        # 23                  
+                                              
+
+

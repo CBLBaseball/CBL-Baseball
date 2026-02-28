@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2021 San Francisco Giants At 2021 Los Angeles(NL) Dodger 10/17/2021
+
+[1]  Giants             AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  K.Wong 2B           5  1  1  0 .139     J.Turner 3B         3  1  0  0 .385  
+  A.Rendon 3B         5  0  0  0 .227     W.Smith C           4  2  2  2 .167  
+  B.Belt 1B           2  1  0  0 .200     C.Seager SS         5  2  4  3 .333  
+  M.Ozuna LF          3  0  1  0 .231     T.France 1B,2B      5  1  2  1 .241  
+  B.Harper DH         4  1  2  2 .270     K.Calhoun RF        5  0  0  0 .161  
+  W.Adames SS         4  1  1  0 .250     A.Diaz 2B           3  2  2  4 .286  
+  M.Yastrzemski RF    3  0  3  2 .425   A-M.Muncy PH,1B       2  0  0  0 .217  
+  K.Pillar CF         4  0  0  0 .150     C.Taylor LF         4  1  2  0 .313  
+  J.Bart C            3  0  0  0 .235     A.Engel CF          4  1  1  0 .250  
+                                          T.Taylor DH         3  1  1  0 .400  
+                                        B-Y.Grandal PH,DH     1  0  1  1 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  8  4                 Totals      39 11 15 11
+
+A-Pinch Hit For Diaz In 7th Inning
+B-Pinch Hit For Taylor In 7th Inning
+
+Giants.......... 1 0 0  1 0 2  0 0 0  -  4  8  0
+Dodgers......... 0 1 5  3 0 1  1 0    - 11 15  1
+
+[1]Giants (4-7)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Z.Gallen LOSS(2-2)           4       9   9   9   1   5   4   5.73  A1 C4
+D.Castillo                   2       3   1   1   1   4   0   1.42  C5 D5
+S.Crichton                   2       3   1   1   0   1   0   1.13  D6
+[1]Totals                    8      15  11  11   2  10   4
+
+[1]Dodgers (8-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler WIN(1-0)           5 2/3   6   4   4   3   3   1   3.97  A1 C6
+V.Gonzalez                   1 1/3   1   0   0   0   1   0   6.23  C7 D3
+J.Hoyt                       2       1   0   0   1   1   0   0.00  D4
+[1]Totals                    9       8   4   4   4   5   1
+
+ATTENDANCE- 50,671 DATE- Sunday, October 17th 2021 TIME- Night 
+UMPIRES- Angel Hernandez, Paul Nauert, Adrian Johnson, Larry Vanover
+T- 3:12
+LEFT ON BASE- Giants: 7  Dodgers: 7
+DOUBLE PLAYS- Giants: 0  Dodgers: 3
+ERRORS- C.Seager
+DOUBLES- W.Adames(6th), M.Yastrzemski(8th), T.France(3rd), C.Taylor(4th),
+         A.Engel(2nd), T.Taylor(2nd)
+TRIPLES- M.Yastrzemski(2nd)
+HOME RUNS- B.Harper(3rd), W.Smith(2nd), C.Seager(2nd), A.Diaz-2(2nd)
+RBIs- B.Harper-2(8th), M.Yastrzemski-2(5th), W.Smith-2(3rd), C.Seager-3(7th),
+      T.France(5th), A.Diaz-4(4th), Y.Grandal(5th)
+WALKS- B.Belt-2, M.Ozuna, M.Yastrzemski, J.Turner, W.Smith
+HIT BY PITCH- J.Bart, J.Turner
+STRIKE OUTS- A.Rendon, B.Belt-2, B.Harper, W.Adames, J.Turner-2, T.France,
+             K.Calhoun, A.Diaz, M.Muncy, A.Engel-2, T.Taylor-2
+GIDP- B.Harper, W.Adames, K.Pillar
+WILD PITCHES- Z.Gallen, W.Buehler
+2-out RBI- A.Diaz-3, W.Smith-2, C.Seager, M.Yastrzemski-2, Y.Grandal
+RLISP 2-out- K.Pillar-2, K.Calhoun, W.Smith, M.Muncy, A.Rendon
+TEAM RISP- Giants: 2 for 7  Dodgers: 6 for 16
+
+Aledmys Diaz cracked 2 homeruns and had 4 RBI as the Los Angeles(NL) Dodgers
+beat the San Francisco Giants by a score of 11 to 4.
+
+Diaz had a good evening at the plate.  He clubbed a solo home run in the 2nd
+inning and smacked a three-run homer in the 3rd inning.  Los Angeles(NL)
+ended up with 15 hits for the game while San Francisco had 8.  
+
+Walker Buehler(1-0) got credit for the victory, pitching 5 and 2/3 innings and
+allowing 4 runs. Zac Gallen(2-2) ended up with the loss.  He allowed 4
+homeruns in 4 innings of work.  
+
+[2]
+[1]SCORESHEET: 2021 San Francisco Giants at 2021 Los Angeles(NL) Dodgers
+K.Wong-A1    A1:Si      *3*:G/13   C1:G/63    D1:Force/  E1:Force/
+                                              14>1o b1   54>23 1o
+                                                         b1
+A.Rendon-A1  A2:F/8     B2:P/6     C2:P/6     D2:L/6     E2:K
+                                                         
+                                                         
+B.Belt-A1    A3:W>12 b  B3:K       *6*:W>b1   D3:K
+             1                                
+                                              
+M.Ozuna-A1   A4:W>23 1  *4*:F/8    C4:P/6     *8*:Si
+             2 b1                             
+                                              
+B.Harper-A1  A5:Si>3#   B5:HR>b#   C5:K       D5:G-DP/3
+             23 12                            63>1o
+                                              
+W.Adames-A1  A6:G-DP/6  B6:K       C6:Do>13   D6:G/63
+             43>1o                            
+                                              
+M.Yastrz-A1  *2*:Si     B7:Do      C7:Tr>3#   *9*:W>b1
+                                   2#         
+                                              
+K.Pillar-A1  A8:G-DP/4  B8:WP>23   C8:L/6     D8:L/3
+             63>1o      L/3                   
+                                              
+J.Bart-A1    A9:G/43    *5*:L/5    *7*:HBP    D9:E/6>12
+                                              
+                                              
+
+J.Turner-A1  A1:G/31    B1:K       C1:K       D1:W>b1    E1:HBP>12
+                                                         
+                                                         
+W.Smith-A1   A2:L/5     B2:W>b1    C2:HR>2#   D2:Si>13   E2:P/6
+                                   b#                    
+                                                         
+C.Seager-A1  A3:Si      B3:Si>2#   C3:HR>b#   D3:Si>3#   *8*:G/63
+                        13                    12         
+                                                         
+T.France-A1  A4:F/9     B4:Si>3#   C4:G/31    D4:K       E4:Do
+                        12                               
+                                                         
+K.Calhou-A1  *2*:K      B5:L/4     *5*:F/8    D5:Force/  E5:G/3>23
+                                              46>1o b1   
+                                                         
+A.Diaz-A1    A6:HR>b#   B6:WP>23   C6:K       *7*:G/43   E6:K
+M.Muncy-D6              12 HR>3#                         
+                        2# b#                            
+C.Taylor-A1  A7:F/9     B7:G/63    C7:Si      D7:Do
+                                              
+                                              
+A.Engel-A1   A8:K       *4*:Do     C8:K       D8:L/5
+                                              
+                                              
+T.Taylor-A1  *3*:Do     B9:K       *6*:K      D9:Si>2#
+Y.Granda-D9                                   
+                                              
+
+

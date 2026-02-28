@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2021 Detroit Tigers At 2021 Toronto Blue Jays             10/8/2021
+
+[1]  Tigers             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  V.Reyes LF          5  0  2  1 .263     C.Biggio 3B         4  0  3  3 .300  
+  I.Kiner-Falefa SS   2  0  0  0 .250     A.Garcia RF         2  1  1  1 .200  
+A-J.Wendle PH,2B      1  0  0  0 .250     T.Hernandez DH      4  1  1  2 .250  
+  J.Candelario 3B     4  0  2  0 .217     V.Guerrero Jr 1B    4  0  0  0 .118  
+  M.Cabrera DH        4  0  0  0 .071   B-J.Walsh 1B          0  0  0  0 .000  
+  N.Castellanos RF    4  1  1  0 .182     B.Bichette SS       4  0  0  0 .118  
+  M.Trout CF          4  1  1  2 .353     L.Gurriel LF        4  1  1  0 .250  
+  N.Goodrum 2B,SS     3  1  1  0 .375     B.Miller 2B         3  1  1  0 .077  
+D-T.Grisham PH        1  0  1  0 .357   C-L.Guillorme 2B      0  0  0  0 .500  
+  M.Brosseau 1B       3  0  0  0 .222     R.Perez C           3  1  0  0 .100  
+  T.D'Arnaud C        4  0  0  0 .158     M.Straw CF          3  1  1  0 .400  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  3                 Totals      31  6  8  6
+
+A-Pinch Hit For Kiner-Falefa In 7th Inning
+B-Subbed Defensively (1B) For Guerrero Jr In 9th Inning
+C-Subbed Defensively (2B) For Miller In 9th Inning
+D-Pinch Hit For Goodrum In 9th Inning
+
+Tigers.......... 0 0 0  0 0 0  3 0 0  -  3  8  1
+Blue Jays....... 2 0 0  3 0 1  0 0    -  6  8  0
+
+[1]Tigers (2-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Brault LOSS(0-2)           3 2/3   4   5   5   4   2   1   6.75  A1 B9
+D.Norris                     4 1/3   4   1   1   0   5   0   1.69  C1
+[1]Totals                    8       8   6   6   4   7   1
+
+[1]Blue Jays (3-2)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu WIN(2-0)               6 2/3   6   3   3   2  11   1   2.70  A1 D1
+P.Baez HOLD(3rd)             0 1/3   1   0   0   0   0   0   0.00  D2 D3
+R.Dolis SAVE(1st)            2       1   0   0   0   5   0  10.13  D4
+[1]Totals                    9       8   3   3   2  16   1
+
+ATTENDANCE- 49,288 DATE- Friday, October 8th 2021 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:31
+LEFT ON BASE- Tigers: 7  Blue Jays: 5
+DOUBLE PLAYS- Tigers: 2  Blue Jays: 0
+ERRORS- M.Brosseau
+DOUBLES- V.Reyes(2nd), J.Candelario(1st), N.Castellanos(1st), C.Biggio-2(2nd)
+TRIPLES- T.Grisham(1st)
+HOME RUNS- M.Trout(3rd), T.Hernandez(5th)
+RBIs- V.Reyes(3rd), M.Trout-2(5th), C.Biggio-3(6th), A.Garcia(1st),
+      T.Hernandez-2(8th)
+STOLEN BASES- M.Straw(3rd)
+WALKS- I.Kiner-Falefa, M.Brosseau, A.Garcia-2, B.Miller, R.Perez
+STRIKE OUTS- V.Reyes, J.Candelario, M.Cabrera-2, N.Castellanos-2, M.Trout,
+             N.Goodrum-2, M.Brosseau-3, T.D'Arnaud-4, T.Hernandez,
+             V.Guerrero Jr, L.Gurriel, B.Miller-2, R.Perez, M.Straw
+GIDP- V.Guerrero Jr, B.Bichette
+WILD PITCHES- S.Brault
+2-out RBI- C.Biggio-3, A.Garcia, V.Reyes
+RLISP 2-out- M.Straw, T.Hernandez, M.Cabrera-2, A.Garcia, J.Wendle, M.Trout,
+             V.Reyes
+TEAM RISP- Tigers: 1 for 10  Blue Jays: 3 for 9
+
+Cavan Biggio hit 2 doubles and had 3 RBI and Hyun-Jin Ryu dominated striking
+out 11 Detroit batters as the Toronto Blue Jays bested the Detroit Tigers 6
+to 3 at Rogers Centre.
+
+Ryu(2-0) pitched a solid game.  He went 6 and 2/3 innings surrendering 6 hits
+and 2 walks.  Both teams ended up with 8 hits on the night.  
+
+Rafael Dolis gained credit for his 1st save.  Steven Brault(0-2) was the
+losing pitcher.  Toronto knocked him around a bit, as he gave up 5 runs in 3
+and 2/3 innings.  
+
+George Torres was asked about the performance of Ryu, 'He had his good stuff
+out there tonight.  The fans really get into it when the strikeouts start
+mounting up - and that seems to give him even more adrenalin.'
+[2]
+[1]SCORESHEET: 2021 Detroit Tigers at 2021 Toronto Blue Jays
+V.Reyes-A1   A1:L/4     B1:F/9     C1:Si      D1:Do>1#   E1:K
+                                                         
+                                                         
+I.Kiner--A1  A2:L/6     *4*:F/8    C2:W>12 b  D2:G/43
+J.Wendle-D2                        1          
+                                              
+J.Candel-A1  A3:K       B3:Si      C3:G/43>2  *8*:Do
+                                   3 12       
+                                              
+M.Cabrer-A1  *2*:K      B4:F/7     C4:K       D4:FO/2
+                                              
+                                              
+N.Castel-A1  A5:K       B5:F/8     *7*:Do     D5:K
+                                              
+                                              
+M.Trout-A1   A6:F/9     *5*:F/9    C6:HR>2#   D6:K
+                                   b#         
+                                              
+N.Goodru-A1  *3*:K      B7:K       C7:Si      *9*:Tr
+T.Grisha-D7                                   
+                                              
+M.Brosse-A1  A8:W>b1    B8:K       C8:K       D8:K
+                                              
+                                              
+T.D'Arna-A1  A9:K       *6*:K      C9:K       D9:K
+                                              
+                                              
+
+C.Biggio-A1  A1:F/7     *3*:Do     C1:Si>3#   D1:SB>12
+                                   2# 13      Do>2#
+                                              
+A.Garcia-A1  A2:W>b1    B2:W>b1    C2:Si>3#   D2:F/8
+                                   13         
+                                              
+T.Hernan-A1  A3:HR>1#   B3:K       C3:L/5     *7*:G/63
+             b#                               
+                                              
+V.Guerre-A1  A4:G/53    B4:G-DP/6  *5*:K      D4:E/3
+J.Walsh-D9              43>1o                 
+                                              
+B.Bichet-A1  A5:F/8     *4*:L/6    C5:G/43    D5:G-DP/5
+                                              43>1o
+                                              
+L.Gurrie-A1  *2*:G/53   B6:Si      C6:K       *8*:G/63
+                                              
+                                              
+B.Miller-A1  A7:W>b1    B7:Si>13   *6*:K      D7:K
+L.Guillo-D9                                   
+                                              
+R.Perez-A1   A8:Force/  B8:W>12 b  C8:K       D8:G/53
+             36>1o b1   1                     
+                                              
+M.Straw-A1   A9:WP>12   B9:K       C9:Si
+             F/8                   
+                                   
+
+

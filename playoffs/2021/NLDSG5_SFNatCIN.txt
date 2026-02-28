@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2021 San Francisco Giants At 2021 Cincinnati Reds         10/8/2021
+
+[1]  Giants             AB  R  H RBI AVG     Reds               AB  R  H RBI AVG
+  M.Yastrzemski RF    4  0  3  0 .263     J.Profar 2B         4  1  2  0 .300  
+  A.Rendon 3B         4  0  1  0 .263     K.Farmer SS         2  1  0  0 .286  
+  B.Belt 1B           3  0  0  0 .267   G-A.Mondesi PH,SS     1  0  0  0 .214  
+E-A.Cabrera PH,1B     2  0  0  0 .000     Y.Munoz LF          2  0  0  0 .385  
+  M.Ozuna LF          3  2  0  0 .176   A-M.Conforto PH,LF    0  1  0  0 .214  
+  B.Harper DH         4  0  1  0 .286     T.Stephenson C      3  0  1  2 .286  
+  W.Adames SS         4  1  1  0 .211   H-T.Barnhart PH,C     1  0  0  0 .417  
+  K.Pillar CF         4  0  2  2 .158     C.Walker 1B         3  2  1  0 .143  
+  J.Bart C            2  0  0  0 .250     A.Bregman 3B        3  1  1  0 .111  
+B-M.Dubon PH,2B       2  0  0  0 .167     E.Suarez DH         4  0  1  2 .263  
+  K.Wong 2B           2  0  0  0 .143     J.Gallo RF          4  1  1  2 .118  
+C-K.Higashioka C      0  0  0  0 .000     J.Dyson CF          3  0  1  0 .400  
+D-D.Ruf PH            1  0  0  0 .667                                          
+F-S.Leon C            0  0  0  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  8  2                 Totals      30  7  8  6
+
+A-Pinch Hit For Munoz In 5th Inning
+B-Pinch Hit For Bart In 6th Inning
+C-Subbed Defensively (C ) For Wong In 6th Inning
+D-Pinch Hit For Higashioka In 7th Inning
+E-Pinch Hit For Belt In 7th Inning
+F-Subbed Defensively (C ) For Ruf In 7th Inning
+G-Pinch Hit For Farmer In 7th Inning
+H-Pinch Hit For Stephenson In 7th Inning
+
+Giants.......... 0 0 0  1 0 1  0 1 0  -  3  8  2
+Reds............ 0 1 0  3 3 0  0 0    -  7  8  0
+
+[1]Giants (3-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+P.Corbin LOSS(0-1)           3 1/3   4   3   3   1   3   0   8.10  A1 B6
+T.Anderson                   0 2/3   2   3   3   0   0   1  40.50  B7 C2
+E.Yardley                    2       2   1   1   1   1   0   4.15  C3 D1
+D.Castillo                   2       0   0   0   1   2   0   0.00  D2
+[1]Totals                    8       8   7   7   3   6   1
+
+[1]Reds (2-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish WIN(2-0)           6 1/3   6   2   2   3  13   0   2.84  A1 D2
+A.Kolarek                    1       0   0   0   0   0   0   3.86  D3 D5
+P.Fry                        0       2   1   1   0   0   0  27.00  D6 D7
+R.Iglesias                   1 2/3   0   0   0   2   1   0   0.00  D8
+[1]Totals                    9       8   3   3   5  14   0
+
+ATTENDANCE- 39,210 DATE- Friday, October 8th 2021 TIME- Night 
+UMPIRES- Jeff Kellogg, Brian O'Nora, Dan Bellino, D.J. Reyburn
+T- 2:55
+LEFT ON BASE- Giants:11  Reds: 4
+DOUBLE PLAYS- Giants: 3  Reds: 0
+ERRORS- A.Cabrera, K.Higashioka
+DOUBLES- M.Yastrzemski-3(5th), A.Bregman(1st)
+TRIPLES- K.Pillar(2nd), C.Walker(1st)
+HOME RUNS- J.Gallo(2nd)
+RBIs- K.Pillar-2(3rd), T.Stephenson-2(2nd), E.Suarez-2(6th), J.Gallo-2(5th)
+STOLEN BASES- J.Dyson(2nd)
+SACRIFICE HITS- K.Farmer
+WALKS- A.Rendon, M.Ozuna-2, B.Harper, S.Leon, M.Conforto-2, C.Walker
+HIT BY PITCH- M.Yastrzemski, A.Bregman
+STRIKE OUTS- A.Rendon-2, B.Belt, M.Ozuna, B.Harper, W.Adames-3, K.Pillar,
+             J.Bart-2, M.Dubon-2, K.Wong, K.Farmer, A.Mondesi, T.Stephenson,
+             J.Gallo-3
+GIDP- T.Barnhart, C.Walker, E.Suarez
+BALKS- R.Iglesias-2
+WILD PITCHES- P.Fry
+2-out RBI- E.Suarez, J.Gallo-2, K.Pillar
+RLISP 2-out- M.Ozuna-2, B.Belt-2, J.Bart, M.Dubon, J.Profar, M.Yastrzemski,
+             J.Gallo, B.Harper
+TEAM RISP- Giants: 1 for 19  Reds: 3 for 9
+
+Yu Darvish reeled off a total of 13 strikeouts and second baseman Jurickson
+Profar had 2 base hits at Great American Bpk as the Cincinnati Reds beat the
+San Francisco Giants by the count of 7 to 3.
+
+Darvish(2-0) had a solid outing for Cincinnati.  He went 6 and 1/3 innings
+allowing 6 hits and 3 walks.  Cincinnati and San Francisco each finished the
+night with 8 hits.  
+
+Patrick Corbin(0-1) was charged with the loss.  Darvish was jubilant in the
+hometown clubhouse, 'It was a lot of fun out there.  The fans gave me a lot
+of support as did my teammates.  We got the victory and I'll sure take 13
+strikeouts anytime!'
+[2]
+[1]SCORESHEET: 2021 San Francisco Giants at 2021 Cincinnati Reds
+M.Yastrz-A1  A1:Do      B1:Do      C1:Do      D1:HBP     E1:G/63
+                                                         
+                                                         
+A.Rendon-A1  A2:K       B2:K       C2:G/53    D2:Si>13   *9*:W>b1
+                                                         
+                                                         
+B.Belt-A1    A3:K       B3:F/9     C3:G/43    D3:L/6     E3:Bk>12
+A.Cabrer-D3                                              G/63
+                                                         
+M.Ozuna-A1   A4:K       *4*:W>b1   *6*:W>b1   D4:Force/  E4:F/8
+                                              64>1o b1   
+                                                         
+B.Harper-A1  *2*:W>b1   B5:Si>13   C5:K       *8*:G/63   E5:G/43
+                                                         
+                                                         
+W.Adames-A1  A6:K       B6:K       C6:K       D6:Si
+                                              
+                                              
+K.Pillar-A1  A7:K       B7:G/63>3  C7:Tr>1#   D7:WP>12
+                        # 12                  Si>23
+                                              
+J.Bart-A1    A8:K       B8:K       C8:K       D8:K
+M.Dubon-C8                                    
+                                              
+K.Wong-A1    *3*:K      *5*:G/43   *7*:G/63   D9:Bk>3#
+K.Higash-C9                                   12 W>b1
+D.Ruf-C9+                                     
+
+J.Profar-A1  A1:F/8     B1:Si      *5*:Si     D1:SB+E/2
+                                              >13 G/53
+                                              
+K.Farmer-A1  A2:K       B2:F/8     C2:Sac+FC  *7*:K
+A.Mondes-D2                        >12 b1     
+                                              
+Y.Munoz-A1   A3:F/8     B3:P/2     C3:W>23 1  D3:W>b1
+M.Confor-C3                        2 b1       
+                                              
+T.Stephe-A1  *2*:F/8    *4*:K      C4:Si>3#   D4:G-DP/6
+T.Barnha-D4                        2# 13      43>1o
+                                              
+C.Walker-A1  A5:Tr      B5:W>b1    C5:G-DP/6  *8*:E/3
+                                   43>3# 1o   
+                                              
+A.Bregma-A1  A6:L/5     B6:Do>13   C6:P/5     D6:HBP>12
+                                              
+                                              
+E.Suarez-A1  A7:Si>3#   B7:G/63>3  *6*:G/63   D7:G-DP/6
+                        # 23                  43>23 1o
+                                              
+J.Gallo-A1   A8:K       B8:HR>3#   C8:K       D8:K
+                        b#                    
+                                              
+J.Dyson-A1   *3*:F/9    B9:FO/3    C9:Si
+                                   
+                                   
+
+

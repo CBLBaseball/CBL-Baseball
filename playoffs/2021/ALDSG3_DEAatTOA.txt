@@ -1,0 +1,138 @@
+[1]BOXSCORE: 2021 Detroit Tigers At 2021 Toronto Blue Jays             10/6/2021
+
+[1]  Tigers             AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  T.Grisham RF        3  1  0  0 .364     C.Biggio 3B         4  1  1  1 .250  
+  J.Wendle 2B         4  0  2  0 .286     A.Garcia RF         3  1  0  0 .143  
+  M.Trout CF          4  1  1  1 .222   E-B.Phillips RF       0  0  0  0 .667  
+  T.D'Arnaud C        4  0  1  0 .182     T.Hernandez DH      4  1  1  3 .333  
+  J.Candelario 3B     4  0  0  0 .000     V.Guerrero Jr 1B    4  0  0  0 .091  
+  V.Reyes LF          4  0  1  0 .167   F-J.Walsh 1B          0  0  0  0 .000  
+  W.Castro DH         3  0  2  0 .375     B.Bichette SS       3  1  1  0 .111  
+  J.Iglesias SS       4  1  1  1 .250     L.Gurriel LF        3  1  1  0 .091  
+  R.Guzman 1B         1  0  0  0 .333     M.Straw CF          3  0  1  1 .333  
+B-M.Cabrera PH,1B     2  0  0  0 .000     R.Perez C           2  1  1  0 .167  
+                                        C-D.Jansen PH,C       1  0  0  0 .000  
+                                          A.Young 2B          1  0  0  0 .000  
+                                        A-B.Miller PH,2B      1  0  0  1 .000  
+                                        D-L.Guillorme 2B      0  0  0  0 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  8  2                 Totals      29  6  6  6
+
+A-Pinch Hit For Young In 5th Inning
+B-Pinch Hit For Guzman In 7th Inning
+C-Pinch Hit For Perez In 7th Inning
+D-Subbed Defensively (2B) For Miller In 8th Inning
+E-Subbed Defensively (RF) For Garcia In 9th Inning
+F-Subbed Defensively (1B) For Guerrero Jr In 9th Inning
+
+Tigers.......... 1 0 0  0 0 0  0 1 1  -  3  8  0
+Blue Jays....... 0 0 4  0 0 0  2 0    -  6  6  0
+
+[1]Tigers (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Boyd LOSS(0-1)             3       3   4   4   1   5   1  12.00  A1 B4
+J.Alcala                     1 1/3   0   0   0   0   2   0   6.75  B5 B8
+D.Norris                     0 2/3   0   0   0   0   0   0   0.00  B9 C1
+J.Cisnero                    1       3   2   2   0   0   0   7.71  C2 C7
+A.Slegers                    0 2/3   0   0   0   0   1   0   0.00  C8 C9
+B.Taylor                     0 1/3   0   0   0   0   1   0   0.00  D1 D1
+J.Hernandez                  1       0   0   0   0   3   0   2.08  D2
+[1]Totals                    8       6   6   6   1  12   1
+
+[1]Blue Jays (2-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Walker                     4 1/3   4   1   1   4   3   0   2.08  A1 C2
+D.O'Day                      0 2/3   0   0   0   0   0   0   0.00  C3 C4
+J.Romano WIN(1-1)            2       1   0   0   0   3   0  15.43  C5 D2
+T.Hatch                      2       3   2   2   0   3   2   7.71  D3
+[1]Totals                    9       8   3   3   4   9   2
+
+ATTENDANCE- 44,643 DATE- Wednesday, October 6th 2021 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 2:23
+LEFT ON BASE- Tigers: 7  Blue Jays: 1
+DOUBLE PLAYS- Tigers: 0  Blue Jays: 2
+DOUBLES- R.Perez(1st)
+HOME RUNS- M.Trout(1st), J.Iglesias(1st), T.Hernandez(4th)
+RBIs- M.Trout(1st), J.Iglesias(2nd), C.Biggio(3rd), T.Hernandez-3(6th),
+      M.Straw(1st), B.Miller(1st)
+STOLEN BASES- T.Grisham-2(2nd), M.Straw(1st)
+SACRIFICE FLIES- B.Miller
+WALKS- T.Grisham-2, W.Castro, R.Guzman, A.Garcia
+STRIKE OUTS- T.Grisham-2, T.D'Arnaud, J.Candelario-2, V.Reyes, J.Iglesias,
+             R.Guzman, M.Cabrera, C.Biggio-2, A.Garcia-2, T.Hernandez,
+             V.Guerrero Jr-2, B.Bichette-2, L.Gurriel, R.Perez, D.Jansen
+GIDP- M.Trout, V.Reyes
+2-out RBI- C.Biggio, T.Hernandez-3
+RLISP 2-out- M.Trout, J.Iglesias, T.D'Arnaud, C.Biggio
+TEAM RISP- Tigers: 1 for 7  Blue Jays: 3 for 6
+
+The Toronto Blue Jays scored 4 runs in the 3rd inning and bested the Detroit
+Tigers by a 6 to 3 score at Rogers Centre.
+
+Toronto brought 4 runs across the plate in the 3rd inning with the help of 3
+hits.  The highlight belonged to Teoscar Hernandez who made the crowd come
+alive when he clubbed a three-run home run.  Toronto finished with just 6
+hits in the victory.  
+
+Jordan Romano(1-1) got credit for the victory, pitching 2 innings and allowing
+no runs. Matt Boyd(0-1) was the loser.  He gave up 4 runs in 3 innings of
+work.  
+
+[2]
+[1]SCORESHEET: 2021 Detroit Tigers at 2021 Toronto Blue Jays
+T.Grisha-A1  A1:W>b1    B1:W>b1    C1:K       D1:G/63    E1:K
+                                                         
+                                                         
+J.Wendle-A1  A2:SB>12   B2:SB>12   C2:Si>12   D2:L/4
+             Si>23      L/4                   
+                                              
+M.Trout-A1   A3:G-DP/5  B3:G/43    C3:Force/  *8*:HR>b#
+             43>3# 1o              46>23 1o   
+                                   b1         
+T.D'Arna-A1  A4:G/63    *4*:K      C4:G/43    D4:Si
+                                              
+                                              
+J.Candel-A1  *2*:F/9    B5:G/43    *6*:K      D5:K
+                                              
+                                              
+V.Reyes-A1   A6:G/43    B6:Si      C6:K       D6:G-DP/4
+                                              63>1o
+                                              
+W.Castro-A1  A7:W>b1    B7:Si>12   C7:Si      *9*:G/43
+                                              
+                                              
+J.Iglesi-A1  A8:G/13    B8:P/5     C8:K       D8:HR>b#
+                                              
+                                              
+R.Guzman-A1  *3*:K      *5*:W>b1   *7*:G/43   D9:K
+M.Cabrer-C9                                   
+                                              
+
+C.Biggio-A1  A1:K       B1:Si>2#   C1:F/7     D1:K
+                                              
+                                              
+A.Garcia-A1  A2:K       B2:W>12 b  *6*:G/43   *8*:K
+B.Philli-D5             1                     
+                                              
+T.Hernan-A1  A3:G/13    B3:HR>2#   C3:P/6     D3:K
+                        1# b#                 
+                                              
+V.Guerre-A1  *2*:L/6    B4:K       C4:G/53    D4:K
+J.Walsh-D5                                    
+                                              
+B.Bichet-A1  A5:K       *4*:K      *7*:Si
+                                   
+                                   
+L.Gurrie-A1  A6:K       B6:L/6     C6:Si>13
+                                   
+                                   
+M.Straw-A1   *3*:G/43   B7:G/53    C7:Si>3#
+                                   23
+                                   
+R.Perez-A1   A8:Do      *5*:K      C8:SB>12
+D.Jansen-C8                        K
+                                   
+A.Young-A1   A9:F/7     B9:L/4     C9:SF/8>3
+B.Miller-B9                        #
+L.Guillo-D2                        
+
+

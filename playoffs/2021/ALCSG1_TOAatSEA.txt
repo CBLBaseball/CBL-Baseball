@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2021 Toronto Blue Jays At 2021 Seattle Mariners          10/13/2021
+
+[1]  Blue Jays          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  C.Biggio 3B         5  1  2  0 .400     Y.Diaz 3B           3  0  1  1 .273  
+  A.Garcia CF         2  2  1  1 .500   H-K.Seager PH,3B      0  0  0  0 .286  
+B-L.Guillorme 2B      1  0  0  0 .000     J.Crawford SS       4  0  0  0 .280  
+G-K.Gausman PH        0  1  0  0 ----     K.Marte 2B          4  0  1  0 .250  
+  H.Ryu P             0  0  0  0 ----     J.Aguilar 1B        4  0  1  0 .333  
+  T.Hernandez RF      6  1  2  0 .333     J.Polanco DH        3  0  2  0 .333  
+  V.Guerrero Jr 1B    6  4  3  4 .500     Y.Gomes C           2  0  0  0 .000  
+I-J.Walsh 1B          0  0  0  0 ----   D-A.Nola PH,C         1  0  0  0 .217  
+  B.Bichette SS       5  0  3  1 .600     M.Kepler RF         4  0  0  0 .120  
+  B.Miller DH,2B      5  1  2  3 .400     R.McBroom LF        3  0  0  0 .000  
+  L.Gurriel LF        5  1  4  2 .800   F-G.Heredia CF        0  0  0  0 ----  
+  R.Perez C           5  0  0  0 .000     R.Quinn CF          2  1  1  0 .462  
+  A.Young 2B          1  0  0  0 .000   E-T.O'Neill PH,LF     1  0  0  0 .364  
+A-B.Phillips PH,CF    2  0  1  0 .500                                          
+C-M.Straw PH,CF       2  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      45 11 18 11                 Totals      31  1  6  1
+
+A-Pinch Hit For Young In 4th Inning
+B-Subbed Defensively (2B) For Garcia In 4th Inning
+C-Pinch Hit For Phillips In 7th Inning
+D-Pinch Hit For Gomes In 7th Inning
+E-Pinch Hit For Quinn In 7th Inning
+F-Subbed Defensively (CF) For McBroom In 8th Inning
+G-Pinch Hit For Guillorme In 8th Inning
+H-Pinch Hit For Diaz In 8th Inning
+I-Subbed Defensively (1B) For Guerrero Jr In 9th Inning
+
+Blue Jays....... 3 0 2  0 2 1  1 2 0  - 11 18  0
+Mariners........ 0 0 1  0 0 0  0 0 0  -  1  6  1
+
+[1]Blue Jays (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu WIN(1-0)               9       6   1   1   3   7   0   1.00  A1 D1
+[1]Totals                    9       6   1   1   3   7   0
+
+[1]Mariners (4-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gonzales LOSS(1-2)         8      18  11  10   2   9   5   5.40  A1 E8
+J.Karinchak                  1       0   0   0   2   2   0   0.00  E9
+[1]Totals                    9      18  11  10   4  11   5
+
+ATTENDANCE- 44,811 DATE- Wednesday, October 13th 2021 TIME- Night 
+UMPIRES- Alfonso Marquez, Paul Schrieber, Will Little, Ted Barrett
+T- 3:11
+LEFT ON BASE- Blue Jays:11  Mariners: 6
+DOUBLE PLAYS- Blue Jays: 2  Mariners: 1
+ERRORS- J.Crawford
+DOUBLES- C.Biggio(1st), T.Hernandez(1st), L.Gurriel-2(2nd), K.Marte(3rd),
+         J.Aguilar(3rd), J.Polanco(1st), R.Quinn(1st)
+TRIPLES- V.Guerrero Jr(1st)
+HOME RUNS- A.Garcia(1st), V.Guerrero Jr-2(2nd), B.Miller(1st), L.Gurriel(1st)
+RBIs- A.Garcia(1st), V.Guerrero Jr-4(4th), B.Bichette(1st), B.Miller-3(3rd),
+      L.Gurriel-2(2nd), Y.Diaz(2nd)
+WALKS- C.Biggio, A.Garcia, K.Gausman, H.Ryu, K.Seager, J.Polanco, A.Nola
+STRIKE OUTS- C.Biggio-2, A.Garcia, L.Guillorme, T.Hernandez, B.Bichette-2,
+             B.Miller-2, R.Perez, M.Straw, J.Aguilar, J.Polanco, A.Nola,
+             M.Kepler, R.McBroom-3
+GIDP- T.Hernandez, J.Crawford, Y.Gomes
+WILD PITCHES- J.Karinchak
+2-out RBI- B.Bichette, B.Miller, L.Gurriel
+RLISP 2-out- J.Aguilar, R.Perez-3, M.Kepler, B.Miller, J.Polanco,
+             V.Guerrero Jr-2
+TEAM RISP- Blue Jays: 5 for 18  Mariners: 1 for 5
+
+Vladimir Guerrero Jr smacked 2 homeruns and had 4 RBI and Hyun-Jin Ryu tossed
+a complete game as the Toronto Blue Jays man-handled the Seattle Mariners -
+the final score was 11 to 1.
+
+Guerrero Jr really lit it up for Toronto.  The Seattle fans let him have it
+for what he did to their boys.  He lofted a three-run bomb in the 1st inning,
+hit a bases-empty home run in the 3rd inning and tripled in the 5th inning.
+Toronto had many opportunities throughout the game and scored in 6 separate
+innings.  
+
+The winning pitcher was Ryu(1-0) who allowed 1 run for the game. Marco
+Gonzales(1-2) absorbed the loss.  He surrended 5 homeruns in his 8 innings.
+
+'I didn't feel that good when I came to the park tonight,' Guerrero Jr said.
+'I'm glad I decided to play!'
+[2]
+[1]SCORESHEET: 2021 Toronto Blue Jays at 2021 Seattle Mariners
+C.Biggio-A1  A1:Do      B1:K       C1:Si>12   *6*:K      E1:F/9     F1:W>b1
+                                                                    
+                                                                    
+A.Garcia-A1  A2:W>b1    *3*:HR>b#  C2:K       D2:K       *8*:IW>b1  F2:W>12 b
+L.Guillo-C4                                                         1
+K.Gausma-E2+                                                        
+T.Hernan-A1  A3:F/9>23  B3:F/8     C3:G-DP/4  D3:Do      E3:Si>12   F3:WP>23
+             12                    63>1o                            12 K
+                                                                    
+V.Guerre-A1  A4:HR>3#   B4:HR>b#   *5*:Tr     D4:E/6>23  E4:Force/  F4:F/9
+J.Walsh-F5   2# b#                                       54>23 1o   
+                                                         b1         
+B.Bichet-A1  A5:Si      B5:Si      C5:K       D5:Si>3#   E5:K
+                                              13         
+                                                         
+B.Miller-A1  A6:K       B6:F/8     C6:HR>3#   D6:K       E6:Si>3#
+                                   b#                    13
+                                                         
+L.Gurrie-A1  A7:P/6     B7:Si>12   C7:Do      *7*:HR>b#  E7:Do>3#
+                                                         13
+                                                         
+R.Perez-A1   *2*:K      B8:F/8     C8:FC/15>  D8:F/8     E8:G/63
+                                   2o                    
+                                                         
+A.Young-A1   A9:P/6     *4*:Si     C9:G/43    D9:FO/3    *9*:K
+B.Philli-B9                                              
+M.Straw-D9                                               
+
+Y.Diaz-A1    A1:G/63    B1:Si>2#   C1:G/23    *8*:W>b1
+K.Seager-D1                                   
+                                              
+J.Crawfo-A1  A2:G/43    B2:F/9     *6*:F/7    D2:G-DP/4
+                                              63>1o
+                                              
+K.Marte-A1   A3:Do      B3:G/31    C3:G/63    D3:L/5
+                                              
+                                              
+J.Aguila-A1  A4:F/7     *4*:K      C4:Do      *9*:G/53
+                                              
+                                              
+J.Polanc-A1  *2*:Si     B5:Do      C5:K       D5:W>b1
+                                              
+                                              
+Y.Gomes-A1   A6:G-DP/4  B6:G/43>2  *7*:W>b1   D6:K
+A.Nola-C6    63>1o      3                     
+                                              
+M.Kepler-A1  A7:L/5     B7:F/9     C7:K       D7:F/8
+                                              
+                                              
+R.McBroo-A1  *3*:K      *5*:K      C8:K
+G.Heredi-D1                        
+                                   
+R.Quinn-A1   A9:Do      B9:G/63    C9:P/4
+T.O'Neil-C9                        
+                                   
+
+

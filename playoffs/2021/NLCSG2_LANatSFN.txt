@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2021 Los Angeles(NL) Dodgers At 2021 San Francisco Giant 10/14/2021
+
+[1]  Dodgers            AB  R  H RBI AVG     Giants             AB  R  H RBI AVG
+  M.Muncy 1B          6  3  3  1 .238     K.Wong 2B           4  0  0  0 .154  
+  E.Rios 3B           2  0  0  0 .286     A.Rendon 3B         4  1  1  0 .257  
+B-J.Turner PH,3B      4  1  2  2 .400     M.Yastrzemski RF    3  1  0  0 .364  
+  C.Seager SS         6  1  1  0 .250     M.Ozuna LF          3  0  1  0 .188  
+  S.Haggerty LF       1  1  0  0 .222     B.Harper DH         4  0  0  0 .241  
+C-C.Taylor PH,LF      2  0  1  1 .292     K.Pillar CF         3  0  0  0 .125  
+  K.Calhoun RF        5  1  1  2 .217     A.Cabrera 1B        3  0  0  0 .000  
+  Y.Grandal C         4  1  0  0 .143     W.Adames SS         3  1  2  0 .281  
+  C.Bellinger CF      4  1  1  1 .185     R.Chirinos C        3  0  1  1 .167  
+  S.Castro 2B         1  0  1  2 .625                                          
+A-T.France PH,2B      3  0  2  0 .190                                          
+  M.Davidson DH       1  1  0  0 .400                                          
+D-T.Taylor PH,DH      1  0  0  0 .500                                          
+E-W.Buehler PH,DH     1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41 10 12  9                 Totals      30  3  5  1
+
+A-Pinch Hit For Castro In 3rd Inning
+B-Pinch Hit For Rios In 3rd Inning
+C-Pinch Hit For Haggerty In 3rd Inning
+D-Pinch Hit For Davidson In 6th Inning
+E-Pinch Hit For Taylor In 9th Inning
+
+Dodgers......... 5 0 4  0 0 0  0 0 1  - 10 12  0
+Giants.......... 0 0 1  1 0 0  0 0 1  -  3  5  3
+
+[1]Dodgers (6-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw WIN(1-0)           9       5   3   3   1   6   0   5.79  A1
+[1]Totals                    9       5   3   3   1   6   0
+
+[1]Giants (4-5)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Anderson LOSS(0-1)         9      12  10   6   6   8   1   8.38  A1
+[1]Totals                    9      12  10   6   6   8   1
+
+ATTENDANCE- 38,649 DATE- Thursday, October 14th 2021 TIME- Night 
+UMPIRES- Jim Joyce, Doug Eddings, Marvin Hudson, Cory Blaser
+T- 3:12
+LEFT ON BASE- Dodgers:11  Giants: 2
+DOUBLE PLAYS- Dodgers: 2  Giants: 0
+ERRORS- W.Adames-2, T.Anderson
+DOUBLES- J.Turner-2(5th), C.Bellinger(1st), W.Adames-2(5th), R.Chirinos(1st)
+TRIPLES- M.Muncy(1st), A.Rendon(1st)
+HOME RUNS- M.Muncy(1st)
+RBIs- M.Muncy(3rd), J.Turner-2(3rd), C.Taylor(2nd), K.Calhoun-2(5th),
+      C.Bellinger(5th), S.Castro-2(4th), R.Chirinos(1st)
+CAUGHT STEALING- T.France
+WALKS- S.Haggerty, Y.Grandal, C.Bellinger, T.France, M.Davidson-2, M.Ozuna
+HIT BY PITCH- C.Taylor, M.Yastrzemski
+STRIKE OUTS- M.Muncy, E.Rios, C.Seager, S.Haggerty, K.Calhoun, Y.Grandal-2,
+             W.Buehler, M.Yastrzemski, M.Ozuna, B.Harper-3, A.Cabrera
+GIDP- B.Harper, K.Pillar
+WILD PITCHES- C.Kershaw
+2-out RBI- C.Taylor
+RLISP 2-out- E.Rios-2, Y.Grandal, A.Rendon, C.Taylor, K.Wong, T.Taylor,
+             K.Calhoun
+TEAM RISP- Dodgers: 4 for 15  Giants: 1 for 7
+
+Max Muncy homered and scored 3 times and Clayton Kershaw pitched 9 strong
+innings as the Los Angeles(NL) Dodgers outscored the San Francisco Giants 10
+to 3.
+
+Los Angeles(NL) wasted no time and took the lead in the first inning as they
+scored 5 runs on 4 base hits.  That was all the runs Kershaw(1-0) needed.
+Los Angeles(NL) finished with 12 hits in the victory.  
+
+Tyler Anderson(0-1) was tagged with the loss.  He got hit pretty hard,
+allowing 12 hits and 6 walks in 9 innings.
+[2]
+[1]SCORESHEET: 2021 Los Angeles(NL) Dodgers at 2021 San Francisco Giants
+M.Muncy-A1   A1:Si      B1:K       C1:E/6>2#  *5*:G/63   *7*:Tr     F1:HR>b#
+                                   13 b2                            
+                                                                    
+E.Rios-A1    A2:F/7     B2:K       C2:Do>3#   D2:Do      E2:L/5     F2:F/7
+J.Turner-C2                        2#                               
+                                                                    
+C.Seager-A1  A3:Si>13   *2*:G/3    C3:F/8     D3:P/3     E3:L/4     F3:K
+                                                                    
+                                                                    
+S.Hagger-A1  A4:W>12 b  B4:K       C4:Si>2#   D4:G/63    E4:HBP
+C.Taylor-C4  1                                           
+                                                         
+K.Calhou-A1  A5:Si>3#   B5:E/6>b2  C5:G/43    *6*:F/9    E5:K
+             2# 13                                       
+                                                         
+Y.Granda-A1  A6:W>12 b  B6:K       *4*:L/6    D6:P/3     *8*:K
+             1                                           
+                                                         
+C.Bellin-A1  A7:W>3# 2  *3*:E/1    C7:G/53    D7:Do      E7:L/4
+             3 12 b1                                     
+                                                         
+S.Castro-A1  A8:Si>3#   B8:P/6     C8:Si      D8:W>b1    E8:Si CS/
+T.France-B8  2# 13                                       24>1o
+                                                         
+M.Davids-A1  A9:W>12 b  B9:W>12 b  C9:L/5     D9:G/43    *9*:K
+T.Taylor-D9  1          1                                
+W.Buehle-E9                                              
+
+K.Wong-A1    A1:G/63    B1:G/3>23  C1:G/3     D1:G/43
+                                              
+                                              
+A.Rendon-A1  A2:G/31    B2:P/2     *6*:G/53   *9*:Tr
+                                              
+                                              
+M.Yastrz-A1  A3:G/23    *4*:HBP    C3:F/8     D3:K
+                                              
+                                              
+M.Ozuna-A1   *2*:W>b1   B4:Si>13   C4:F/8     D4:WP>3#
+                                              K
+                                              
+B.Harper-A1  A5:K       B5:G-DP/4  *7*:K      D5:K
+                        63>3# 1o              
+                                              
+K.Pillar-A1  A6:G-DP/5  B6:F/8     C6:F/8
+             43>1o                 
+                                   
+A.Cabrer-A1  *3*:G/43   *5*:K      C7:F/8
+                                   
+                                   
+W.Adames-A1  A8:Do      B8:Do      *8*:G/63
+                                   
+                                   
+R.Chirin-A1  A9:Do>2#   B9:F/8     C9:G/31
+                                   
+                                   
+
+

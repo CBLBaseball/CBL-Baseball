@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2021 San Francisco Giants At 2021 Cincinnati Reds         10/6/2021
+
+[1]  Giants             AB  R  H RBI AVG     Reds               AB  R  H RBI AVG
+  M.Yastrzemski RF    5  1  2  0 .182     J.Profar 2B         5  1  1  0 .308  
+  A.Rendon 3B         4  2  1  0 .333     K.Farmer SS         5  0  2  0 .400  
+  B.Belt 1B           5  2  3  2 .333     T.Stephenson C      2  0  0  0 .000  
+  M.Ozuna LF          4  0  0  0 .200   E-T.Barnhart PH,C     2  0  2  1 .444  
+  B.Harper DH         1  2  0  0 .333     A.Bregman 3B        4  0  0  0 .000  
+  W.Adames SS         4  0  1  3 .167     C.Walker 1B         2  0  0  0 .100  
+  K.Wong 2B           4  0  1  3 .125   A-S.Akiyama PH        0  0  0  0 .000  
+  K.Pillar CF         4  0  0  0 .000   B-J.Votto 1B          1  0  0  0 .000  
+  J.Bart C            2  0  1  0 .333     Y.Munoz LF          3  1  1  0 .400  
+C-M.Dubon PR          0  1  0  0 .250   F-A.Mondesi PH        1  0  0  0 .222  
+D-S.Leon C            1  0  0  0 .500   G-J.Dyson CF          0  0  0  0 .429  
+                                          E.Suarez DH         4  2  2  1 .364  
+                                          M.Conforto RF       3  0  0  0 .182  
+                                          J.Gallo CF,LF       3  1  1  3 .111  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  8  9  8                 Totals      35  5  9  5
+
+A-Pinch Hit For Walker In 6th Inning
+B-Subbed Defensively (1B) For Akiyama In 7th Inning
+C-Pinch Ran For Bart In 7th Inning
+D-Subbed Defensively (C ) For Dubon In 7th Inning
+E-Pinch Hit For Stephenson In 7th Inning
+F-Pinch Hit For Munoz In 8th Inning
+G-Subbed Defensively (CF) For Mondesi In 9th Inning
+
+Giants.......... 4 0 0  0 0 0  4 0 0  -  8  9  1
+Reds............ 0 3 0  0 0 0  1 1 0  -  5  9  0
+
+[1]Giants (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Fleming WIN(1-0)           5       5   3   3   1   2   1   5.40  A1 C4
+T.Watson HOLD(1st)           1       0   0   0   0   0   0   0.00  C5 C7
+E.Yardley                    1 2/3   3   2   1   1   4   1   3.86  C8 D8
+Z.Britton                    0       0   0   0   1   0   0   0.00  D9 D9
+D.Castillo SAVE(1st)         1 1/3   1   0   0   0   1   0   0.00  E1
+[1]Totals                    9       9   5   4   3   7   2
+
+[1]Reds (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Castillo LOSS(0-1)         1 1/3   5   4   4   1   3   0  27.00  A1 B1
+T.Mahle                      4 2/3   2   1   1   1   4   0   1.93  B2 C9
+B.Martin                     0 1/3   0   0   0   0   0   0   0.00  D1 D1
+B.Kintzler                   0 1/3   1   2   2   1   0   0  10.13  D2 D4
+A.Kolarek                    1 1/3   1   1   1   1   0   0   6.75  D5 D9
+J.Rodriguez                  0 1/3   0   0   0   0   0   0   0.00  E1 E1
+S.Reid-Foley                 0 2/3   0   0   0   0   1   0  18.00  E2
+[1]Totals                    9       9   8   8   4   8   0
+
+ATTENDANCE- 39,964 DATE- Wednesday, October 6th 2021 TIME- Night 
+UMPIRES- Paul Schrieber, Will Little, Ted Barrett, Alfonso Marquez
+T- 3:25
+LEFT ON BASE- Giants: 4  Reds: 8
+DOUBLE PLAYS- Giants: 1  Reds: 1
+ERRORS- S.Leon
+DOUBLES- M.Yastrzemski-2(2nd), B.Belt-2(2nd), W.Adames(2nd), K.Wong(1st),
+         K.Farmer(1st)
+HOME RUNS- E.Suarez(3rd), J.Gallo(1st)
+RBIs- B.Belt-2(3rd), W.Adames-3(3rd), K.Wong-3(3rd), T.Barnhart(3rd),
+      E.Suarez(4th), J.Gallo-3(3rd)
+SACRIFICE HITS- S.Akiyama
+WALKS- A.Rendon, B.Harper-3, A.Bregman, M.Conforto, J.Gallo
+HIT BY PITCH- J.Bart, T.Stephenson
+STRIKE OUTS- B.Belt-2, M.Ozuna-2, W.Adames-3, J.Bart, K.Farmer, A.Bregman,
+             C.Walker, A.Mondesi, M.Conforto-2, J.Gallo
+GIDP- A.Bregman
+2-out RBI- K.Wong-3, J.Gallo-3, W.Adames-3, T.Barnhart, E.Suarez
+RLISP 2-out- K.Pillar, K.Wong, C.Walker, A.Rendon, E.Suarez, A.Bregman,
+             J.Profar
+TEAM RISP- Giants: 5 for 14  Reds: 2 for 10
+
+At Great American Bpk the San Francisco Giants outscored the Cincinnati Reds 8
+to 5.
+
+San Francisco set the tone of the game in the first inning when they scored 4
+runs on 4 hits.  The highlight belonged to Kolten Wong who disappointed the
+partisan crowd when he doubled plating all three baserunners.  Both teams
+ended up with 9 hits on the night.  
+
+Josh Fleming(1-0) went 5 innings allowing 3 runs for the win. Diego Castillo
+recorded his 1st save.  Luis Castillo(0-1) was the losing pitcher.  He
+pitched 1 and 1/3 innings giving up 5 hits and 1 walk.
+
+[2]
+[1]SCORESHEET: 2021 San Francisco Giants at 2021 Cincinnati Reds
+M.Yastrz-A1  A1:Do      B1:Do      C1:F/8>12  D1:F/8     *9*:FO/2
+                                                         
+                                                         
+A.Rendon-A1  A2:Si>23   B2:L-DP/6  C2:G/43    D2:W>12 b  E2:F/7
+                        4>2o                  1          
+                                                         
+B.Belt-A1    A3:Do>3#   *3*:Do     *5*:K      D3:Si>2#   E3:K
+             13                               13         
+                                                         
+M.Ozuna-A1   A4:K       B4:F/8     C4:K       D4:L/6
+                                              
+                                              
+B.Harper-A1  A5:IW>b1   B5:IW>b1   C5:F/8     D5:W>12 b
+                                              1
+                                              
+W.Adames-A1  A6:K       B6:K       *6*:K      D6:Do>3#
+                                              2# 1#
+                                              
+K.Wong-A1    A7:Do>3#   B7:Force/  C7:P/2     *8*:G/63
+             2# 1#      54>1o b1              
+                                              
+K.Pillar-A1  A8:F/8     *4*:G/63   C8:P/4     D8:G/63
+                                              
+                                              
+J.Bart-A1    *2*:K      B9:Si      *7*:HBP    D9:G/63
+M.Dubon-D1                                    
+S.Leon-D7                                     
+
+J.Profar-A1  A1:G/23    B1:F/8     C1:Si      D1:E/2     E1:G/43
+                                                         
+                                                         
+K.Farmer-A1  A2:P/6     *3*:Do     C2:L/5     D2:Si>12   *9*:K
+                                                         
+                                                         
+T.Stephe-A1  A3:HBP     B3:L/6     C3:G/63    D3:Si>2#   E3:Si
+T.Barnha-D3                                   13         
+                                                         
+A.Bregma-A1  A4:L/5     B4:G/43>2  *6*:W>b1   D4:K       E4:G-DP/6
+                        3                                43>1o
+                                                         
+C.Walker-A1  *2*:G/43   B5:K       C5:Sac/14  *8*:F/8
+S.Akiyam-C5                        >12        
+J.Votto-C8                                    
+Y.Munoz-A1   A6:Si      *4*:G/63   C6:G/53    D6:K
+A.Mondes-D6                                   
+J.Dyson-E2                                    
+E.Suarez-A1  A7:Si>13   B7:F/7     C7:F/8     D7:HR>b#
+                                              
+                                              
+M.Confor-A1  A8:K       B8:G/31    *7*:K      D8:W>b1
+                                              
+                                              
+J.Gallo-A1   A9:HR>3#   *5*:F/7    C9:K       D9:W>12 b
+             1# b#                            1
+                                              
+
+

@@ -1,0 +1,143 @@
+[1]BOXSCORE: 2021 New York (NL) Mets At 2021 Los Angeles(NL) Dodgers   10/7/2021
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.McNeil LF         5  1  1  0 .222     J.Turner 3B         6  2  3  0 .364  
+  J.Berti 2B,3B       5  0  1  0 .111     C.Seager SS         6  3  4  1 .333  
+  D.Smith 1B          5  0  0  1 .222     W.Smith DH          3  1  0  0 .125  
+  W.Myers RF          5  0  1  0 .294     K.Calhoun RF        2  0  0  0 .182  
+  M.Moreland DH       3  0  0  0 .000     T.France 2B         2  0  0  2 .083  
+C-P.Evans PH,DH       1  1  1  0 .500   A-A.Engel LF          0  0  0  1 .000  
+H-A.Bemboom PH,DH     1  0  0  0 .000     C.Bellinger CF      4  0  1  2 .083  
+  D.Gregorius SS      5  0  0  0 .154     C.Taylor LF,2B      5  0  2  0 .267  
+  J.Bradley Jr CF     5  2  2  1 .286     D.Vogelbach 1B      4  0  1  0 .143  
+  E.Longoria 3B       3  0  1  0 .385   B-M.Muncy 1B          1  0  0  0 .000  
+D-D.Dietrich PH       1  0  1  1 .333     Y.Grandal C         5  0  0  0 .000  
+F-A.Gimenez 2B        1  0  0  0 .222                                          
+  M.Maldonado C       1  0  0  0 .200                                          
+E-P.Alonso PH         1  1  1  2 .400                                          
+G-T.Nido C            0  0  0  0 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42  5  9  5                 Totals      38  6 11  6
+
+A-Subbed Defensively (LF) For France In 9th Inning
+B-Subbed Defensively (1B) For Vogelbach In 9th Inning
+C-Pinch Hit For Moreland In 9th Inning
+D-Pinch Hit For Longoria In 9th Inning
+E-Pinch Hit For Maldonado In 9th Inning
+F-Subbed Defensively (2B) For Dietrich In 9th Inning
+G-Subbed Defensively (C ) For Alonso In 9th Inning
+H-Pinch Hit For Evans In 10th Inning
+
+Mets............ 1 0 0  0 0 0  1 0 3  0 0 -  5  9  1
+Dodgers......... 2 0 0  0 2 0  0 0 1  0 1 -  6 11  1
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Senzatela                  6 1/3   7   4   4   4   3   0   5.68  A1 D3
+E.Ramirez                    1 2/3   1   0   0   0   1   0   0.00  D4 D9
+G.Gallegos BS(1st)           1       2   1   1   2   1   0   4.50  E1 E7
+S.Armstrong LOSS(0-1)        1       1   1   1   0   0   1   9.00  E8
+[1]Totals                   10      11   6   6   6   5   1
+
+[1]Dodgers (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Buehler                    5 2/3   3   1   1   1   4   0   1.59  A1 C4
+J.Diekman HOLD(1st)          0 2/3   1   1   1   0   0   1   6.75  C5 C7
+J.Hoyt HOLD(1st)             1 2/3   0   0   0   1   2   0   0.00  C8 D4
+V.Gonzalez                   0       1   1   1   0   0   0  16.20  D5 D5
+N.Anderson BS(1st)           2       4   2   2   0   4   1   6.00  D6 E5
+J.Urias WIN(1-0)             1       0   0   0   0   1   0   5.40  E6
+[1]Totals                   11       9   5   5   2  11   2
+
+ATTENDANCE- 55,620 DATE- Thursday, October 7th 2021 TIME- Night 
+UMPIRES- Cory Blaser, Jim Joyce, Doug Eddings, Marvin Hudson
+T- 3:20
+LEFT ON BASE- Mets: 6  Dodgers:11
+DOUBLE PLAYS- Mets: 2  Dodgers: 0
+ERRORS- E.Longoria, T.France
+DOUBLES- J.McNeil(1st), C.Seager(1st)
+TRIPLES- C.Taylor(1st)
+HOME RUNS- J.Bradley Jr(1st), P.Alonso(2nd), C.Seager(1st)
+RBIs- D.Smith(2nd), J.Bradley Jr(1st), D.Dietrich(1st), P.Alonso-2(3rd),
+      C.Seager(1st), T.France-2(4th), A.Engel(1st), C.Bellinger-2(2nd)
+SACRIFICE FLIES- T.France, C.Bellinger
+WALKS- M.Maldonado-2, W.Smith-2, K.Calhoun-3, A.Engel
+HIT BY PITCH- T.France
+STRIKE OUTS- J.McNeil-3, D.Smith, W.Myers-3, A.Bemboom, D.Gregorius, E.Longoria,
+             A.Gimenez, C.Seager, C.Taylor-2, Y.Grandal-2
+GIDP- K.Calhoun, D.Vogelbach
+WILD PITCHES- W.Buehler
+2-out RBI- C.Bellinger, P.Alonso-2
+RLISP 2-out- C.Taylor-4, J.McNeil, C.Bellinger
+TEAM RISP- Mets: 2 for 6  Dodgers: 1 for 10
+
+Corey Seager had 4 hits and scored 3 times at Dodger Stadium where the Los
+Angeles(NL) Dodgers beat the New York (NL) Mets in 11 innings by the score of
+6 to 5.
+
+Both teams were tied at 5 runs apiece after nine innings.  Finally, Los
+Angeles(NL) prevailed in the 11th inning.  Seager cracked a solo homerun
+resulting in an exciting win for Los Angeles(NL) and a wild post-game
+celebration by the home town fans.  Los Angeles(NL) rapped out 11 hits for
+the night.  
+
+The victory went to Julio Urias(1-0) who went 1 inning, allowing no runs.
+Shawn Armstrong(0-1) was the losing pitcher in relief.  He allowed 1 hit and
+no walks in 1 inning.
+[2]
+[1]SCORESHEET: 2021 New York (NL) Mets at 2021 Los Angeles(NL) Dodgers
+J.McNeil-A1  A1:Do      B1:L/4     C1:K       D1:K       E1:K
+                                                         
+                                                         
+J.Berti-A1   A2:G/3>23  B2:L/5     *6*:G/13   *8*:F/9    *10*:Si
+                                                         
+                                                         
+D.Smith-A1   A3:G/3>3#  *4*:G/63   C3:K       D3:F/8     E3:FO/2
+                                                         
+                                                         
+W.Myers-A1   A4:L/6     B4:K       C4:Si      D4:K       E4:K
+                                                         
+                                                         
+M.Morela-A1  *2*:G/13   B5:G/43    C5:F/9     *9*:Si     E5:K
+P.Evans-D5                                               
+A.Bemboo-E5                                              
+D.Gregor-A1  A6:G/43    *5*:G/13   *7*:F/8    D6:K       *11*:F/7
+                                                         
+                                                         
+J.Bradle-A1  A7:F/9     B7:F/7     C7:HR>b#   D7:Si>13   E7:FO/2
+                                                         
+                                                         
+E.Longor-A1  *3*:K      B8:Si      C8:G/3     D8:Si>3#   E8:K
+D.Dietri-D8                                   13         
+A.Gimene-E2                                              
+M.Maldon-A1  A9:W>b1    B9:WP>12   C9:W>b1    D9:HR>3#
+P.Alonso-D9             E/4>23                b#
+T.Nido-E2                                     
+
+J.Turner-A1  A1:G/63    B1:F/8     *5*:Si     D1:Si      *9*:Si     F1:G/63
+                                                                    
+                                                                    
+C.Seager-A1  A2:Si      B2:K       C2:Si>12   D2:F/8     E2:Do>13   *11*:HR>b
+                                                                    #
+                                                                    
+W.Smith-A1   A3:W>12 b  *3*:W>b1   C3:G/43>2  *7*:G/63   E3:G/43
+             1                     3 12                  
+                                                         
+K.Calhou-A1  A4:W>23 1  B4:G-DP/4  C4:IW>b1   D4:E/5>b2  E4:IW>b1
+             2 b1       63>1o                            
+                                                         
+T.France-A1  A5:SF/9>3  B5:G/43    C5:HBP>3#  D5:P/2     E5:W>3# 2
+A.Engel-E1   # 23                  23 12                 3 12 b1
+                                                         
+C.Bellin-A1  A6:Si>3#   *4*:G/63   C6:SF/7>3  D6:G/43    E6:FO/2
+             13                    #                     
+                                                         
+C.Taylor-A1  A7:K       B7:Tr      C7:F/8     *8*:Si     E7:K
+                                                         
+                                                         
+D.Vogelb-A1  *2*:Si     B8:FC/32>  *6*:G/63   D8:G-DP/3  *10*:G/31
+M.Muncy-E1              3o                    63>1o      
+                                                         
+Y.Granda-A1  A9:L/4     B9:K       C9:G/43    D9:K       E9:F/8
+                                                         
+                                                         
+
+

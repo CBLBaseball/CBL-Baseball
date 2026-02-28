@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2021 Chicago (AL) White Sox At 2021 Seattle Mariners      10/3/2021
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Bonifacio RF      3  0  1  0 .333     Y.Diaz DH           1  1  0  0 .000  
+B-L.Garcia RF         2  0  0  0 .000     K.Seager 3B         4  0  1  0 .250  
+  T.Anderson SS       4  0  1  0 .250     A.Nola C ,1B        4  0  1  1 .250  
+  J.Abreu 1B          4  0  1  0 .250     R.McBroom LF        2  0  0  0 .000  
+  G.Cooper DH         4  1  1  1 .250   A-Y.Gomes PH,C        2  0  0  0 .000  
+  T.Shaw 3B           4  2  3  0 .750     J.Crawford SS       4  0  0  0 .000  
+  L.Robert CF         4  0  1  1 .250     J.Aguilar 1B,RF     4  0  1  0 .250  
+  E.Jimenez LF        4  1  1  1 .250     M.Kepler CF         4  0  0  0 .000  
+  D.Mendick 2B        4  0  1  1 .250     T.O'Neill RF,LF     2  1  1  1 .500  
+  A.Avila C           2  0  0  0 .000   E-J.Polanco PH        1  0  0  0 .000  
+C-R.Braun PH          1  0  0  0 .000     K.Marte 2B          3  0  0  0 .000  
+D-J.Mathis C          1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  4 10  4                 Totals      31  2  4  2
+
+A-Pinch Hit For McBroom In 5th Inning
+B-Subbed Defensively (RF) For Bonifacio In 6th Inning
+C-Pinch Hit For Avila In 7th Inning
+D-Subbed Defensively (C ) For Braun In 7th Inning
+E-Pinch Hit For O'Neill In 9th Inning
+
+White Sox....... 0 1 0  1 0 1  0 1 0  -  4 10  1
+Mariners........ 0 0 1  0 0 0  1 0 0  -  2  4  0
+
+[1]White Sox (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Lynn WIN(1-0)              8 1/3   4   2   2   4   4   1   2.16  A1 D6
+A.Loup SAVE(1st)             0 2/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       4   2   2   4   4   1
+
+[1]Mariners (0-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gonzales LOSS(0-1)         9      10   4   4   0   7   2   4.00  A1
+[1]Totals                    9      10   4   4   0   7   2
+
+ATTENDANCE- 43,238 DATE- Sunday, October 3rd 2021 TIME- Night 
+UMPIRES- Jeff Nelson, Laz Diaz, Mark Carlson, Scott Barry
+T- 2:46
+LEFT ON BASE- White Sox: 6  Mariners: 6
+DOUBLE PLAYS- White Sox: 1  Mariners: 0
+ERRORS- D.Mendick
+DOUBLES- T.Shaw-2(2nd), D.Mendick(1st), K.Seager(1st), J.Aguilar(1st)
+HOME RUNS- G.Cooper(1st), E.Jimenez(1st), T.O'Neill(1st)
+RBIs- G.Cooper(1st), L.Robert(1st), E.Jimenez(1st), D.Mendick(1st), A.Nola(1st),
+      T.O'Neill(1st)
+WALKS- Y.Diaz-3, T.O'Neill
+STRIKE OUTS- T.Anderson, J.Abreu-2, L.Robert-2, E.Jimenez-2, R.McBroom,
+             J.Crawford-2, J.Aguilar
+GIDP- Y.Diaz
+2-out RBI- D.Mendick, E.Jimenez
+RLISP 2-out- R.McBroom, D.Mendick, T.O'Neill, G.Cooper, J.Crawford, A.Avila
+TEAM RISP- White Sox: 2 for 9  Mariners: 1 for 6
+
+Travis Shaw hit 2 doubles as the Chicago (AL) White Sox beat the Seattle
+Mariners by a score of 4 to 2.
+
+Chicago (AL) went ahead for good in the 4th inning scoring a single run using
+2 hits.  Chicago (AL) had 10 hits overall, while Seattle had 4.  
+
+Lance Lynn(1-0) went 8 and 1/3 innings allowing 2 runs for the win. Aaron Loup
+was credited with his 1st save.  The losing pitcher was Marco Gonzales(0-1).
+
+[2]
+[1]SCORESHEET: 2021 Chicago (AL) White Sox at 2021 Seattle Mariners
+J.Bonifa-A1  A1:F/7     B1:Si      *5*:L/6    D1:G/43    E1:F/9
+L.Garcia-C9                                              
+                                                         
+T.Anders-A1  A2:F/7     B2:Si>13   C2:K       D2:F/8
+                                              
+                                              
+J.Abreu-A1   A3:K       B3:L/6     C3:Si      *8*:K
+                                              
+                                              
+G.Cooper-A1  *2*:P/6    B4:G/63    C4:F/9     D4:HR>b#
+                                              
+                                              
+T.Shaw-A1    A5:Do      *4*:Do     *6*:P/4    D5:Si
+                                              
+                                              
+L.Robert-A1  A6:Si>2#   B6:G/63    C6:K       D6:K
+                                              
+                                              
+E.Jimene-A1  A7:K       B7:P/6     C7:HR>b#   D7:K
+                                              
+                                              
+D.Mendic-A1  A8:L/6     B8:Do>2#   C8:G/43    *9*:G/63
+                                              
+                                              
+A.Avila-A1   *3*:F/7    B9:G/43    *7*:G/13   D9:G/13
+R.Braun-C9                                    
+J.Mathis-D3                                   
+
+Y.Diaz-A1    A1:W>b1    B1:W>b1    *5*:W>b1   D1:G-DP/6
+                                              43>1o
+                                              
+K.Seager-A1  A2:F/7     B2:Do>13   C2:L/3     D2:G/63
+                                              
+                                              
+A.Nola-A1    A3:G/13>1  B3:Si>3#   C3:Force/  *8*:G/43
+             2          23         14>1o b1   
+                                              
+R.McBroo-A1  A4:G/53    B4:K       C4:F/8     D4:L/6
+Y.Gomes-C4                                    
+                                              
+J.Crawfo-A1  *2*:K      B5:K       *6*:G/43   D5:L/4
+                                              
+                                              
+J.Aguila-A1  A6:Do      *4*:G/43   C6:K       *9*:F/7
+                                              
+                                              
+M.Kepler-A1  A7:G/53    B7:F/8     C7:F/8     D7:G/43
+                                              
+                                              
+T.O'Neil-A1  A8:F/8     B8:W>b1    *7*:HR>b#  D8:L/6
+J.Polanc-D8                                   
+                                              
+K.Marte-A1   *3*:L/4    B9:G/63    C9:E/4
+                                   
+                                   
+
+
