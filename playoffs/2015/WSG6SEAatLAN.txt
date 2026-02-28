@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Los Angeles(NL) Dodgers    10/30/2015
+
+[1]  Mariners           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  D.Espinosa 2B       4  2  2  0 .324     D.Gordon 2B         4  0  1  0 .174  
+C-H.Conger PH         1  0  0  0 .333     M.Kemp LF           2  0  1  0 .256  
+D-M.Saunders RF       0  0  0  0 .222     Y.Puig RF           4  0  0  0 .245  
+  A.Dunn DH           5  1  1  1 .213     E.Encarnacion 1B    4  0  0  0 .116  
+  V.Martinez 1B       4  0  1  1 .301     J.Francisco DH      3  0  0  0 .111  
+  A.Jones CF          4  1  1  1 .324     A.Pagan CF          4  0  1  0 .417  
+  K.Seager 3B         4  1  3  1 .329     J.Uribe 3B          3  1  1  1 .273  
+  M.Zunino C          4  1  0  0 .261   F-A.Ethier PH         1  0  0  0 .125  
+  D.Ackley LF         4  0  1  1 .219     E.Escobar SS        4  0  0  0 .182  
+  M.Gonzalez SS       3  0  1  1 .273     R.Martin C          3  0  0  0 .259  
+A-J.Segura SS         1  0  0  0 .241                                          
+  M.Sierra RF         3  0  0  0 .100                                          
+B-D.Dietrich PH       1  0  0  0 .250                                          
+E-D.Barney 2B         0  0  0  0 .174                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  6 10  6                 Totals      32  1  4  1
+
+A-Subbed Defensively (SS) For Gonzalez In 6th Inning
+B-Pinch Hit For Sierra In 9th Inning
+C-Pinch Hit For Espinosa In 9th Inning
+D-Subbed Defensively (RF) For Conger In 9th Inning
+E-Subbed Defensively (2B) For Dietrich In 9th Inning
+F-Pinch Hit For Uribe In 9th Inning
+
+Mariners........ 0 2 1  0 1 0  1 0 1  -  6 10  1
+Dodgers......... 0 1 0  0 0 0  0 0 0  -  1  4  1
+
+[1]Mariners (12-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister WIN(2-0)            7 1/3   3   1   1   3   3   1   2.61  A1 D2
+T.Sipp                       0 2/3   0   0   0   0   1   0   0.00  D3 D4
+W.Davis                      1       1   0   0   1   3   0   0.96  D5
+[1]Totals                    9       4   1   1   4   7   1
+
+[1]Dodgers (6-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu LOSS(0-1)              6 2/3   9   5   4   1   9   1   4.73  A1 D4
+J.Howell                     0 1/3   0   0   0   0   1   0   6.75  D5 D5
+K.Jansen                     1       0   0   0   0   1   0   4.50  D6 D8
+P.Strop                      1       1   1   1   0   1   1   3.86  D9
+[1]Totals                    9      10   6   5   1  12   2
+
+ATTENDANCE- 55,843 DATE- Friday, October 30th 2015 TIME- Night 
+UMPIRES- Chad Fairchild, Joe West, Angel Hernandez, Paul Schrieber
+T- 3:08
+LEFT ON BASE- Mariners: 6  Dodgers: 8
+DOUBLE PLAYS- Mariners: 0  Dodgers: 0
+ERRORS- D.Fister, E.Encarnacion
+DOUBLES- D.Espinosa(4th), K.Seager(1st), D.Ackley(3rd), A.Pagan(3rd)
+HOME RUNS- A.Dunn(2nd), A.Jones(6th), J.Uribe(1st)
+RBIs- A.Dunn(4th), V.Martinez(18th), A.Jones(15th), K.Seager(10th),
+      D.Ackley(3rd), M.Gonzalez(2nd), J.Uribe(3rd)
+WALKS- V.Martinez, M.Kemp-2, J.Francisco, R.Martin
+STRIKE OUTS- D.Espinosa-2, H.Conger, A.Dunn, A.Jones-3, K.Seager, M.Zunino,
+             D.Ackley, M.Sierra-2, D.Gordon, E.Encarnacion, J.Francisco-2,
+             A.Ethier, E.Escobar, R.Martin
+2-out RBI- J.Uribe, K.Seager, A.Jones, A.Dunn
+RLISP 2-out- M.Sierra, M.Zunino-2, E.Encarnacion, Y.Puig, R.Martin-2
+TEAM RISP- Mariners: 3 for 10  Dodgers: 0 for 6
+
+Third baseman Kyle Seager had 3 base hits as the Seattle Mariners topped the
+Los Angeles(NL) Dodgers by a score of 6 to 1 at Dodger Stadium.
+
+In the 2nd inning Seattle scored 2 runs.  The early run support proved
+sufficient for Doug Fister(2-0) and Seattle.  That was all the run support
+Fister required.  Seattle ended up with 10 hits for the game while Los
+Angeles(NL) had 4.  
+
+Hyun-Jin Ryu(0-1) was the losing pitcher.  He gave up 5 runs in 6 and 2/3
+innings and saw his ERA jump from 4.05 to 4.73.  The Seattle ballclub's
+record now stands at a league leading 12-6.  Not able to get much going in
+recent weeks, Los Angeles(NL) is 2-8 of late and now has an overall record of
+6-6.
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Los Angeles(NL) Dodgers
+D.Espino-A1  A1:K       *3*:Si     *5*:Do     D1:K       E1:K
+H.Conger-E1                                              
+M.Saunde-E4                                              
+A.Dunn-A1    A2:P/6     B2:G/3>12  C2:G/43>2  *7*:K      E2:HR>b#
+                                   3                     
+                                                         
+V.Martin-A1  A3:G/53    B3:Si>2#   C3:IW>b1   D3:G/63    E3:G/63
+                                                         
+                                                         
+A.Jones-A1   *2*:K      B4:K       C4:K       D4:HR>b#
+                                              
+                                              
+K.Seager-A1  A5:Do      B5:Si>13   C5:Si>3#   D5:K
+                                   13         
+                                              
+M.Zunino-A1  A6:E/3>23  B6:G/63    C6:K       *8*:G/63
+                                              
+                                              
+D.Ackley-A1  A7:Do>3#   *4*:G/43   *6*:F/7    D7:K
+             13                               
+                                              
+M.Gonzal-A1  A8:G/13>3  B8:G/63    C8:Si      D8:G/53
+J.Segura-D2  # 23                             
+                                              
+M.Sierra-A1  A9:K       B9:G/53    C9:K       *9*:G/63
+D.Dietri-D9                                   
+D.Barney-E4                                   
+
+D.Gordon-A1  A1:G/63    B1:K       C1:Si      *8*:FO/2
+                                              
+                                              
+M.Kemp-A1    A2:E/1     B2:W>12 b  C2:Si>13   D2:W>b1
+                        1                     
+                                              
+Y.Puig-A1    A3:P/6     B3:F/9     C3:L/6     D3:F/8
+                                              
+                                              
+E.Encarn-A1  A4:L/5     B4:F/8     *6*:L/6    D4:K
+                                              
+                                              
+J.Franci-A1  *2*:F/7    *4*:K      C5:K       *9*:W>b1
+                                              
+                                              
+A.Pagan-A1   A6:F/9     B6:F/8     C6:G/63    D6:Do>13
+                                              
+                                              
+J.Uribe-A1   A7:HR>b#   B7:F/8     *7*:F/7    D7:K
+A.Ethier-D7                                   
+                                              
+E.Escoba-A1  A8:F/7     *5*:G/43   C8:F/7     D8:K
+                                              
+                                              
+R.Martin-A1  *3*:W>b1   B9:L/6     C9:F/7     D9:K
+                                              
+                                              
+
+

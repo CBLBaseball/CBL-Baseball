@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2015 Chicago (AL) White Sox At 2015 Seattle Mariners     10/13/2015
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.De Aza LF         5  0  0  0 .133     D.Espinosa 2B       4  0  1  0 .333  
+  J.Altuve 2B         4  1  2  0 .300     B.Guyer RF          3  0  1  0 .111  
+  J.Abreu DH          4  1  2  0 .424     V.Martinez 1B       4  0  0  0 .310  
+  J.Lucroy C          4  1  1  1 .323     A.Jones CF          4  0  1  0 .286  
+  A.Laroche 1B        4  1  2  0 .231     M.Olt DH            2  0  0  0 .000  
+  C.Gillaspie 3B      3  0  1  1 .308   C-H.Conger PH,DH      1  0  0  0 .167  
+A-M.Semien 3B         1  0  0  0 .000   F-D.Barney PH         1  0  0  0 .222  
+E-D.Robertson CF      0  0  0  0 .333     K.Seager 3B         2  0  0  0 .346  
+  R.Braun RF          3  0  0  0 .172     J.Segura SS         3  0  0  0 .133  
+B-J.Jones RF          1  0  0  0 .200     D.Ackley LF         3  0  0  0 .250  
+  A.Ramirez SS        4  1  1  0 .276     M.Zunino C          3  0  1  0 .250  
+  K.Kiermaier CF      3  0  2  0 .353                                          
+D-E.Herrera PH,3B     1  0  1  2 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5 12  4                 Totals      30  0  4  0
+
+A-Subbed Defensively (3B) For Gillaspie In 6th Inning
+B-Subbed Defensively (RF) For Braun In 7th Inning
+C-Pinch Hit For Olt In 7th Inning
+D-Pinch Hit For Kiermaier In 9th Inning
+E-Subbed Defensively (CF) For Semien In 9th Inning
+F-Pinch Hit For Conger In 9th Inning
+
+White Sox....... 0 0 0  2 0 1  0 0 2  -  5 12  1
+Mariners........ 0 0 0  0 0 0  0 0 0  -  0  4  1
+
+[1]White Sox (5-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale WIN(3-0)              9       4   0   0   0   8   0   1.38  A1
+[1]Totals                    9       4   0   0   0   8   0
+
+[1]Mariners (4-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez LOSS(1-2)        7       9   3   2   0   8   0   4.22  A1 D1
+B.Shaw                       1       0   0   0   0   1   0   0.00  D2 D4
+H.Rondon                     1       3   2   2   0   1   0   9.00  D5
+[1]Totals                    9      12   5   4   0  10   0
+
+ATTENDANCE- 47,067 DATE- Tuesday, October 13th 2015 TIME- Night 
+UMPIRES- Laz Diaz, Scott Barry, John Hirschbeck, Wally Bell
+T- 2:25
+LEFT ON BASE- White Sox: 5  Mariners: 5
+DOUBLE PLAYS- White Sox: 1  Mariners: 2
+ERRORS- A.Ramirez, D.Ackley
+DOUBLES- J.Altuve(2nd), J.Abreu(3rd), C.Gillaspie(4th), E.Herrera(1st)
+RBIs- J.Lucroy(2nd), C.Gillaspie(5th), E.Herrera-2(3rd)
+SACRIFICE HITS- B.Guyer
+HIT BY PITCH- K.Seager
+STRIKE OUTS- A.De Aza-2, J.Abreu-2, A.Laroche, M.Semien, R.Braun-2, A.Ramirez-2,
+             A.Jones-3, M.Olt-2, K.Seager, D.Ackley, M.Zunino
+GIDP- A.De Aza, A.Laroche, D.Espinosa
+2-out RBI- E.Herrera-2
+RLISP 2-out- A.Jones, R.Braun, D.Ackley, C.Gillaspie, A.De Aza, D.Barney
+TEAM RISP- White Sox: 5 for 10  Mariners: 0 for 4
+
+Second baseman Jose Altuve had 2 base hits and Chris Sale went 9 solid innings
+as the Chicago (AL) White Sox outscored the Seattle Mariners 5 to 0.
+
+Seattle was unable to claim the lead after Chicago (AL) went ahead in the top
+of the 4th inning when they scored 2 runs on 3 hits.  Chicago (AL) finished
+with 12 hits in the victory.  
+
+Sale(3-0) was credited with the shutout, his first of the year. Felix
+Hernandez(1-2) took the loss.  He pitched 7 innings giving up 9 hits and no
+walks.
+
+'All of my pitches were working tonight,' Sale said.  'I felt really good out
+there, and heck, I think I could have gone longer.'
+[2]
+[1]SCORESHEET: 2015 Chicago (AL) White Sox at 2015 Seattle Mariners
+A.De Aza-A1  A1:K       B1:G-DP/3  C1:K       D1:L/4     E1:FO/2
+                        63>1o                            
+                                                         
+J.Altuve-A1  A2:Si      *4*:G/63   *6*:Do     *8*:G/63
+                                              
+                                              
+J.Abreu-A1   A3:K       B3:Do      C3:Si>23   D3:K
+                                              
+                                              
+J.Lucroy-A1  A4:L/6     B4:E/7>2#  C4:Si>3#   D4:L/5
+                        b2         12         
+                                              
+A.Laroch-A1  *2*:K      B5:Si>23   C5:G-DP/4  *9*:Si
+                                   63>23 1o   
+                                              
+C.Gillas-A1  A6:L/4     B6:Do>3#   C6:G/53    D6:K
+M.Semien-C7             1o                    
+D.Robert-E2                                   
+R.Braun-A1   A7:L/5     B7:K       *7*:K      D7:F/9
+J.Jones-D2                                    
+                                              
+A.Ramire-A1  *3*:K      *5*:G/3    C8:K       D8:Si>13
+                                              
+                                              
+K.Kierma-A1  A9:Si      B9:F/9     C9:Si      D9:Do>3#
+E.Herrer-D9                                   1#
+                                              
+
+D.Espino-A1  A1:Si      B1:G/13    C1:G-DP/4  *9*:G/43
+                                   63>1o      
+                                              
+B.Guyer-A1   A2:Sac/54  *4*:G/53   C2:E/6     D2:Si
+             >12                              
+                                              
+V.Martin-A1  A3:L/5     B3:F/7     C3:G/63    D3:L/5
+                                              
+                                              
+A.Jones-A1   A4:K       B4:K       *7*:K      D4:Si>13
+                                              
+                                              
+M.Olt-A1     *2*:K      *5*:K      C5:G/63    D5:G/43
+H.Conger-C5                                   
+D.Barney-D5                                   
+K.Seager-A1  A6:G/31    B6:HBP     C6:K
+                                   
+                                   
+J.Segura-A1  A7:G/63    B7:G/43>1  *8*:G/63
+                        2          
+                                   
+D.Ackley-A1  *3*:G/43   B8:G/63    C8:K
+                                   
+                                   
+M.Zunino-A1  A9:K       *6*:Si     C9:G/53
+                                   
+                                   
+
+

@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2015 Baltimore Orioles At 2015 Chicago (AL) White Sox    10/10/2015
+
+[1]  Orioles            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Markakis RF       5  0  2  0 .333     A.De Aza LF         4  0  1  0 .150  
+  C.Coghlan DH        4  0  1  0 .308     J.Altuve 2B         4  0  0  0 .292  
+C-J.Arencibia PH,DH   1  0  0  0 .222     A.Laroche 1B        3  0  0  0 .150  
+  R.Davis LF          4  1  1  0 .300     J.Abreu DH          4  0  1  0 .375  
+  C.Gomez CF          4  0  0  0 .227     J.Lucroy C          3  0  1  0 .364  
+  A.Gonzalez 1B       4  1  3  0 .348     C.Gillaspie 3B      3  0  1  0 .318  
+  M.Machado 3B        3  0  2  1 .429     R.Braun RF          4  0  1  0 .182  
+A-C.Gonzalez PH       1  0  0  0 .000     K.Kiermaier CF      2  0  0  0 .250  
+B-R.Flaherty 3B       0  0  0  0 .250   D-A.Rios PH           1  0  0  0 .600  
+  J.Hardy SS          3  0  0  0 .105     A.Ramirez SS        2  0  0  0 .238  
+  C.Joseph C          4  0  1  0 .364                                          
+  J.Schoop 2B         4  0  2  0 .238                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  2 12  1                 Totals      30  0  5  0
+
+A-Pinch Hit For Machado In 8th Inning
+B-Subbed Defensively (3B) For Gonzalez In 8th Inning
+C-Pinch Hit For Coghlan In 9th Inning
+D-Pinch Hit For Kiermaier In 9th Inning
+
+Orioles......... 0 0 0  1 0 0  0 1 0  -  2 12  2
+White Sox....... 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Orioles (3-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Arrieta WIN(1-0)           9       5   0   0   4   8   0   2.45  A1
+[1]Totals                    9       5   0   0   4   8   0
+
+[1]White Sox (3-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Buehrle LOSS(0-1)          6 1/3   8   1   1   0   4   0   6.75  A1 C8
+D.Eveland                    0 1/3   1   0   0   0   0   0   7.71  C9 D1
+Z.Duke                       0 1/3   1   1   1   0   1   0  27.00  D2 D3
+J.De Fratus                  0 1/3   1   0   0   0   0   0   7.71  D4 D5
+Z.Putnam                     0 2/3   0   0   0   0   0   0   0.00  D6 D7
+M.Estrada                    0 2/3   1   0   0   0   0   0   0.00  D8 E1
+B.Hand                       0 1/3   0   0   0   0   1   0   0.00  E2
+[1]Totals                    9      12   2   2   0   6   0
+
+ATTENDANCE- 37,751 DATE- Saturday, October 10th 2015 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 2:41
+LEFT ON BASE- Orioles: 9  White Sox: 8
+DOUBLE PLAYS- Orioles: 1  White Sox: 1
+ERRORS- J.Hardy, J.Arrieta
+DOUBLES- N.Markakis(2nd), A.Gonzalez-2(3rd), A.De Aza(1st), J.Lucroy(3rd),
+         C.Gillaspie(3rd)
+RBIs- M.Machado(2nd)
+STOLEN BASES- R.Davis-2(2nd)
+CAUGHT STEALING- A.Ramirez
+SACRIFICE HITS- J.Hardy
+WALKS- A.Laroche, J.Lucroy, C.Gillaspie, A.Ramirez
+HIT BY PITCH- K.Kiermaier
+STRIKE OUTS- C.Coghlan, J.Arencibia, R.Davis, C.Gomez, J.Hardy, C.Joseph,
+             A.De Aza-2, J.Altuve-2, A.Laroche, J.Lucroy, K.Kiermaier-2
+GIDP- C.Gomez, R.Braun
+WILD PITCHES- J.De Fratus
+RLISP 2-out- J.Schoop-2, A.Ramirez, J.Altuve, R.Braun, C.Coghlan, J.Hardy,
+             A.Rios
+TEAM RISP- Orioles: 2 for 11  White Sox: 1 for 10
+
+Jake Arrieta blanked Chicago (AL) in a very well-pitched complete game as the
+Baltimore Orioles defeated the Chicago (AL) White Sox 2 to 0 at US Cellular
+Field.
+
+Arrieta(1-0) was solid in the win.  He surrendered only 5 hits and 4 walks in
+9 innings dropping his ERA from 6.35 to 2.45.  Chicago (AL) threatened in the
+9th but Baltimore was able to put down the rally.  
+
+Mark Buehrle(0-1) was tagged with the loss.  He allowed 1 run and 8 hits in 6
+and 1/3 innings.
+[2]
+[1]SCORESHEET: 2015 Baltimore Orioles at 2015 Chicago (AL) White Sox
+N.Markak-A1  A1:Do      *3*:G/63   C1:F/9     D1:P/2     E1:Si
+                                                         
+                                                         
+C.Coghla-A1  A2:Si>23   B2:G/63    C2:F/8     D2:K       E2:K
+J.Arenci-E2                                              
+                                                         
+R.Davis-A1   A3:K       B3:F/9     C3:F/8     *8*:Si
+                                              
+                                              
+C.Gomez-A1   A4:G-DP/6  *4*:P/5    *6*:K      D4:SB>12
+             43>1o                            F/7
+                                              
+A.Gonzal-A1  *2*:Si     B5:Do      C5:P/2     D5:SB>23
+                                              WP>3# Do
+                                              
+M.Machad-A1  A6:Si>12   B6:Si>2#   C6:G/63    D6:G/3>23
+C.Gonzal-D6                                   
+R.Flaher-D8                                   
+J.Hardy-A1   A7:Sac/14  B7:K       *7*:G/63   D7:FO/2
+             >23 12                           
+                                              
+C.Joseph-A1  A8:G/3     B8:K       C8:Si      *9*:L/5
+                                              
+                                              
+J.Schoop-A1  A9:G/53    *5*:Si     C9:Si>12   D9:G/43
+                                              
+                                              
+
+A.De Aza-A1  A1:F/7     *3*:K      C1:Do      D1:CS/26>
+                                              1o K
+                                              
+J.Altuve-A1  A2:F/7     B2:K       C2:P/6     *8*:K
+                                              
+                                              
+A.Laroch-A1  A3:W>b1    B3:K       *6*:G/63   D3:L/4
+                                              
+                                              
+J.Abreu-A1   A4:F/7     *4*:Si+E/  C4:G/63    D4:F/8
+                        1                     
+                                              
+J.Lucroy-A1  *2*:K      B5:G/13    C5:W>b1    *9*:Do
+                                              
+                                              
+C.Gillas-A1  A6:Do      B6:E/6>23  C6:W>12 b  D6:F/9
+                                   1          
+                                              
+R.Braun-A1   A7:F/7     B7:G-DP/6  C7:F/7     D7:Si>23
+                        43>1o                 
+                                              
+K.Kierma-A1  A8:HBP     *5*:K      *7*:K      D8:PkOff/
+A.Rios-D8                                     13>1o G/6
+                                              3
+A.Ramire-A1  A9:F/8     B9:F/9     C9:W>b1
+                                   
+                                   
+
+

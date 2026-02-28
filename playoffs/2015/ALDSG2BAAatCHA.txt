@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2015 Baltimore Orioles At 2015 Chicago (AL) White Sox     10/4/2015
+
+[1]  Orioles            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Markakis RF       5  2  3  0 .556     A.De Aza LF         2  1  1  0 .250  
+  R.Davis LF          3  1  2  1 .571   D-D.Robertson PH      1  0  1  0 .667  
+B-C.Gonzalez PH,LF    1  0  0  0 .000   E-J.Jones PR,CF       1  0  1  0 .333  
+F-C.Coghlan PH,LF     1  0  0  0 .000     J.Altuve 2B         4  1  0  0 .125  
+  C.Gomez CF          4  3  3  2 .571     J.Abreu DH          5  1  1  2 .500  
+  J.Arencibia C       3  1  2  2 .286     J.Lucroy C          5  1  1  0 .333  
+A-C.Joseph C          2  1  1  2 .500     A.Laroche 1B        4  0  1  0 .143  
+  C.Beltran DH        5  1  2  2 .222     C.Gillaspie 3B      5  1  2  0 .375  
+  A.Gonzalez 1B       5  0  0  0 .125     R.Braun RF,LF       4  1  0  0 .125  
+  M.Machado 3B        4  1  1  0 .143     A.Ramirez SS        4  1  3  3 .625  
+  J.Hardy SS          3  0  0  0 .000     K.Kiermaier CF      2  0  0  0 .250  
+  J.Schoop 2B         4  0  2  1 .286   C-A.Rios PH,RF        2  1  2  21.000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40 10 16 10                 Totals      39  8 13  7
+
+A-Subbed Defensively (C ) For Arencibia In 5th Inning
+B-Pinch Hit For Davis In 6th Inning
+C-Pinch Hit For Kiermaier In 6th Inning
+D-Pinch Hit For De Aza In 6th Inning
+E-Pinch Ran For Robertson In 6th Inning
+F-Pinch Hit For Gonzalez In 9th Inning
+
+Orioles......... 1 0 4  1 1 0  1 0 2  - 10 16  1
+White Sox....... 0 1 2  0 0 4  1 0 0  -  8 13  1
+
+[1]Orioles (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Arrieta                    5 2/3   7   6   4   2   5   0   6.35  A1 C8
+B.Matusz BS(1st)             0       2   1   1   0   0   1   6.75  C9 D1
+D.O'Day                      0 2/3   1   1   1   0   0   1  40.50  D2 D4
+A.Miller WIN(1-0)            1 2/3   3   0   0   0   3   0   0.00  D5 E3
+J.Benoit SAVE(1st)           1       0   0   0   1   0   0   0.00  E4
+[1]Totals                    9      13   8   6   3   8   2
+
+[1]White Sox (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Buehrle                    4 1/3  10   7   7   0   2   2  14.54  A1 C4
+M.Estrada                    1 2/3   3   0   0   0   2   0   0.00  C5 D2
+J.De Fratus                  1       1   1   1   0   2   1   9.00  D3 D7
+B.Boxberger LOSS(0-1)        1 1/3   2   2   2   0   2   1  13.50  D8 E4
+B.Hand                       0 2/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    9      16  10  10   0   9   4
+
+ATTENDANCE- 39,767 DATE- Sunday, October 4th 2015 TIME- Night 
+UMPIRES- Kerwin Danley, Doug Eddings, Paul Nauert, Dana Demuth
+T- 3:07
+LEFT ON BASE- Orioles: 5  White Sox: 8
+DOUBLE PLAYS- Orioles: 1  White Sox: 2
+ERRORS- M.Machado, J.De Fratus
+DOUBLES- N.Markakis(1st), R.Davis(1st), C.Gillaspie(1st), A.Ramirez(2nd)
+TRIPLES- A.Rios(1st)
+HOME RUNS- C.Gomez(2nd), J.Arencibia(1st), C.Joseph(1st), C.Beltran(1st),
+           J.Abreu(1st), A.Rios(1st)
+RBIs- R.Davis(3rd), C.Gomez-2(4th), J.Arencibia-2(2nd), C.Joseph-2(2nd),
+      C.Beltran-2(2nd), J.Schoop(1st), J.Abreu-2(2nd), A.Ramirez-3(3rd),
+      A.Rios-2(2nd)
+STOLEN BASES- A.De Aza(1st), J.Jones(1st), J.Altuve(2nd), R.Braun(1st)
+CAUGHT STEALING- A.Rios
+SACRIFICE HITS- J.Hardy
+SACRIFICE FLIES- C.Gomez
+WALKS- A.De Aza, J.Altuve, A.Laroche
+HIT BY PITCH- R.Braun
+STRIKE OUTS- C.Gonzalez, C.Coghlan, C.Joseph, C.Beltran-2, A.Gonzalez, J.Hardy,
+             J.Schoop-2, A.De Aza, J.Altuve, J.Abreu, J.Lucroy, C.Gillaspie-2,
+             A.Ramirez, K.Kiermaier
+GIDP- C.Beltran, A.Gonzalez, J.Altuve
+2-out RBI- A.Ramirez-3, J.Arencibia-2, C.Beltran, A.Rios-2
+RLISP 2-out- J.Lucroy, K.Kiermaier, C.Gonzalez, J.Altuve, A.Ramirez
+TEAM RISP- Orioles: 4 for 7  White Sox: 2 for 10
+
+In a two run game the Baltimore Orioles plated 4 runs in the 3rd inning and
+got by the Chicago (AL) White Sox by the score of 10 to 8.
+
+Baltimore came up with the deciding runs in the top of the 9th inning scoring
+2 runs using 2 hits.  After an out was recorded, Carlos Gomez began the
+Baltimore spurt when he laced a one-base hit.  Caleb Joseph came to the plate
+and bombed a two-run dinger.  Carlos Beltran was the next batter, but he
+struck out.  Offensively, Baltimore was a juggernaut.  They scored in 6
+separate innings.  
+
+The victory went to Andrew Miller(1-0) who went 1 and 2/3 innings, allowing no
+runs. Joaquin Benoit recorded his 1st save.  Brad Boxberger(0-1) suffered the
+loss in relief.  He surrendered 2 hits and no walks in 1 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2015 Baltimore Orioles at 2015 Chicago (AL) White Sox
+N.Markak-A1  A1:Si      B1:Do      C1:Force/  D1:Si>13   E1:FO/5
+                                   64>1o b1              
+                                                         
+R.Davis-A1   A2:Si>13   B2:Do>2#   C2:F/7     D2:K       *9*:K
+C.Gonzal-D2                                              
+C.Coghla-E2                                              
+C.Gomez-A1   A3:SF/7>3  B3:F/7     *5*:Si     *7*:HR>b#  E3:Si
+             #                                           
+                                                         
+J.Arenci-A1  A4:Si>13   B4:HR>2#   C4:G/3>12  D4:K       E4:HR>1#
+C.Joseph-C7             b#                               b#
+                                                         
+C.Beltra-A1  A5:G-DP/6  B5:HR>b#   C5:Si>2#   D5:K       E5:K
+             43>1o                                       
+                                                         
+A.Gonzal-A1  *2*:L/4    B6:K       C6:G-DP/4  D6:E/1     E6:G/31
+                                   63>1o                 
+                                                         
+M.Machad-A1  A7:G/53    *4*:Si     *6*:L/6    D7:P/6
+                                              
+                                              
+J.Hardy-A1   A8:F/9     B8:Sac/14  C8:K       *8*:L/6
+                        >12                   
+                                              
+J.Schoop-A1  *3*:K      B9:Si>2#   C9:Si      D9:K
+                                              
+                                              
+
+A.De Aza-A1  A1:K       *3*:W>b1   *5*:Si     D1:Si      E1:CS/2>3
+D.Robert-D1                                              o Si
+J.Jones-D2                                               
+J.Altuve-A1  A2:W>b1    B2:SB>12   C2:G-DP/6  D2:SB>12   E2:K
+                        E/5>2# b2  43>1o      F/8        
+                                                         
+J.Abreu-A1   A3:SB>12   B3:PB>23   C3:F/7     *7*:HR>b#  E3:G/63
+             K          G/31>3#                          
+                                                         
+J.Lucroy-A1  A4:F/8     B4:K       *6*:Si     D4:F/7     *9*:FO/5
+                                                         
+                                                         
+A.Laroch-A1  *2*:FO/2   B5:G/13    C5:F/7     D5:Si      E5:W>b1
+                                                         
+                                                         
+C.Gillas-A1  A6:Si      *4*:K      C6:Do>13   D6:K       E6:F/9
+                                                         
+                                                         
+R.Braun-A1   A7:Force/  B7:L/6     C7:G/53    D7:HBP>12  E7:G/53
+             54>1o b1                                    
+                                                         
+A.Ramire-A1  A8:SB>12   B8:Si      C8:Si>3#   D8:K
+             Do>2#                 2#         
+                                              
+K.Kierma-A1  A9:K       B9:F/8     C9:HR>1#   *8*:Tr
+A.Rios-C9                          b#         
+                                              
+
+

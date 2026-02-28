@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2015 Baltimore Orioles At 2015 Chicago (AL) White Sox     10/3/2015
+
+[1]  Orioles            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Markakis RF       4  2  2  0 .500     A.De Aza LF         2  0  0  1 .000  
+  R.Davis LF          4  1  2  2 .500   B-J.Jones PH,CF       2  0  0  0 .000  
+  C.Gomez CF          3  1  1  2 .333     J.Altuve 2B         4  1  1  1 .250  
+  J.Arencibia C       4  0  0  0 .000     J.Abreu DH          3  1  3  01.000  
+  C.Beltran DH        4  0  0  0 .000     J.Lucroy C          4  0  2  1 .500  
+  A.Gonzalez 1B       3  0  1  0 .333     C.Gillaspie 3B      3  0  1  0 .333  
+  M.Machado 3B        3  0  0  0 .000   C-A.Rios PH           0  0  0  0 ----  
+  J.Hardy SS          3  0  0  0 .000   D-G.Petit 3B          0  0  0  0 ----  
+  J.Schoop 2B         3  0  0  0 .000     A.Laroche 1B        3  0  0  0 .000  
+                                          R.Braun RF          4  1  1  0 .250  
+                                          A.Ramirez SS        4  2  2  0 .500  
+                                          K.Kiermaier CF      2  1  1  1 .500  
+                                        A-D.Robertson PH,LF   2  0  1  0 .500  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  4  6  4                 Totals      33  6 12  4
+
+A-Pinch Hit For Kiermaier In 7th Inning
+B-Pinch Hit For De Aza In 7th Inning
+C-Pinch Hit For Gillaspie In 7th Inning
+D-Subbed Defensively (3B) For Rios In 8th Inning
+
+Orioles......... 2 0 2  0 0 0  0 0 0  -  4  6  1
+White Sox....... 0 0 0  0 2 0  4 0    -  6 12  0
+
+[1]Orioles (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Scherzer                   6       9   4   4   1   5   0   6.00  A1 C8
+Z.Britton HOLD(1st)          0 2/3   0   0   0   0   1   0   0.00  C9 D1
+D.O'Day LOSS(0-1) BS(1st)    0       2   2   2   1   0   0   ----  D2 D4
+B.Matusz                     1 1/3   1   0   0   1   0   0   0.00  D5
+[1]Totals                    8      12   6   6   3   6   0
+
+[1]White Sox (1-0)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale WIN(1-0)              9       6   4   4   1  10   2   4.00  A1
+[1]Totals                    9       6   4   4   1  10   2
+
+ATTENDANCE- 38,215 DATE- Saturday, October 3rd 2015 TIME- Night 
+UMPIRES- Gerry Davis, Bill Hohn, Greg Gibson, Sam Holbrook
+T- 2:41
+LEFT ON BASE- Orioles: 2  White Sox: 7
+DOUBLE PLAYS- Orioles: 2  White Sox: 1
+ERRORS- J.Hardy
+DOUBLES- A.Gonzalez(1st), J.Abreu(1st), J.Lucroy(1st), A.Ramirez(1st)
+TRIPLES- K.Kiermaier(1st)
+HOME RUNS- R.Davis(1st), C.Gomez(1st)
+RBIs- R.Davis-2(2nd), C.Gomez-2(2nd), A.De Aza(1st), J.Altuve(1st),
+      J.Lucroy(1st), K.Kiermaier(1st)
+STOLEN BASES- J.Altuve(1st)
+SACRIFICE FLIES- A.De Aza
+WALKS- A.Gonzalez, J.Abreu, A.Rios, A.Laroche
+HIT BY PITCH- C.Gomez
+STRIKE OUTS- N.Markakis, R.Davis, C.Gomez, J.Arencibia-2, C.Beltran-2, J.Hardy,
+             J.Schoop-2, A.De Aza, J.Jones, J.Altuve, J.Lucroy, A.Laroche,
+             R.Braun
+GIDP- M.Machado, J.Lucroy, A.Ramirez
+WILD PITCHES- D.O'Day
+2-out RBI- J.Altuve, J.Lucroy
+RLISP 2-out- C.Gillaspie, J.Schoop, A.Laroche
+TEAM RISP- Orioles: 0 for 3  White Sox: 3 for 7
+
+Chris Sale mowed down 10 Baltimore batters and Jose Abreu had 3 base hits as
+the Chicago (AL) White Sox topped the Baltimore Orioles by a score of 6 to 4
+at US Cellular Field.
+
+Sale(1-0) had a strong outing.  He surrendered only 6 hits and 1 walk in 9
+innings and surrendered 2 'round-trippers'.  Chicago (AL) had a total of 12
+hits for the game.  
+
+The loss was charged to Darren O'Day(0-1) in relief. When asked about his
+strikeout total for the game, Sale offered, 'The fan's really got into it.
+It is fun to see them tally up the strikeout totals up there in the stands.
+Fortunately, I kept them busy tonight - of course, it would be all for naught
+without the 'W'.'
+[2]
+[1]SCORESHEET: 2015 Baltimore Orioles at 2015 Chicago (AL) White Sox
+N.Markak-A1  A1:Si      *3*:Si     C1:F/7     D1:K
+                                              
+                                              
+R.Davis-A1   A2:F/7     B2:HR>1#   C2:K       D2:Si
+                        b#                    
+                                              
+C.Gomez-A1   A3:HR>1#   B3:HBP     *6*:K      D3:F/7
+             b#                               
+                                              
+J.Arenci-A1  A4:K       B4:PkOff/  C4:G/63    *9*:G/53
+                        13>1o K               
+                                              
+C.Beltra-A1  A5:K       B5:K       C5:F/7     D5:F/8
+                                              
+                                              
+A.Gonzal-A1  *2*:Do     *4*:W>b1   *7*:L/4    D6:L/3
+                                              
+                                              
+M.Machad-A1  A7:F/8     B7:G-DP/5  C7:G/63
+                        43>1o      
+                                   
+J.Hardy-A1   A8:F/7     B8:K       C8:L/5
+                                   
+                                   
+J.Schoop-A1  A9:K       *5*:P/2    *8*:K
+                                   
+                                   
+
+A.De Aza-A1  A1:K       B1:E/6     C1:SF/7>3  D1:K       E1:L/4
+J.Jones-D1                         #                     
+                                                         
+J.Altuve-A1  A2:G/43    B2:FO/5    C2:K       D2:Si>3#
+                                              13
+                                              
+J.Abreu-A1   A3:Si      B3:Do>1o   *6*:Si     D3:SB>12
+                                              IW>b1
+                                              
+J.Lucroy-A1  A4:Si>13   *4*:K      C4:G-DP/6  D4:NOTE
+                                   43>1o      
+                                              
+C.Gillas-A1  A5:Force/  B5:G/63    C5:Si      D5:IW>b1
+A.Rios-D5    46>1o b1                         
+G.Petit-D7                                    
+A.Laroch-A1  *2*:W>b1   B6:G/43    C6:K       D6:G/63
+                                              
+                                              
+R.Braun-A1   A7:K       *5*:G/63   *7*:Si     *8*:F/9
+                                              
+                                              
+A.Ramire-A1  A8:G-DP/6  B8:Do      C8:Si>13   D8:G/43
+             43>1o                            
+                                              
+K.Kierma-A1  *3*:F/8    B9:Tr>2#   C9:FO/5    D9:Si
+D.Robert-C9                                   
+                                              
+
+

@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2015 Baltimore Orioles At 2015 Chicago (AL) White Sox    10/11/2015
+
+[1]  Orioles            AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  N.Markakis RF       4  0  1  0 .321     A.De Aza LF         5  0  1  0 .160  
+  C.Coghlan LF        3  0  0  0 .250     J.Altuve 2B         2  1  0  0 .269  
+D-R.Davis PH,LF       1  0  0  0 .286     J.Abreu DH          5  1  3  2 .414  
+  A.Gonzalez 1B       4  1  1  0 .333     J.Lucroy C          5  1  1  0 .333  
+  C.Beltran DH        4  1  1  0 .200     A.Laroche 1B        2  2  1  1 .182  
+  C.Gomez CF          3  0  1  0 .240     C.Gillaspie 3B      1  0  0  1 .304  
+  R.Flaherty 3B       3  1  0  0 .143   A-G.Petit PH,3B       1  0  0  0 .000  
+  J.Hardy SS          4  1  1  4 .130     R.Braun RF          4  2  1  2 .192  
+  J.Schoop 2B         3  0  1  0 .250   C-A.Rios RF           0  0  0  0 .600  
+  J.Lobaton C         3  0  0  0 .000     A.Ramirez SS        4  1  2  0 .280  
+                                          K.Kiermaier CF      2  1  1  3 .286  
+                                        B-E.Herrera PH,CF     2  0  0  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  6  4                 Totals      33  9 10  9
+
+A-Pinch Hit For Gillaspie In 4th Inning
+B-Pinch Hit For Kiermaier In 5th Inning
+C-Subbed Defensively (RF) For Braun In 8th Inning
+D-Pinch Hit For Coghlan In 8th Inning
+
+Orioles......... 0 0 0  0 0 0  4 0 0  -  4  6  1
+White Sox....... 7 2 0  0 0 0  0 0    -  9 10  0
+
+[1]Orioles (3-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Scherzer LOSS(0-1)         0 2/3   5   7   4   0   1   2   8.31  A1 A9
+S.Casilla                    2 1/3   4   2   2   3   1   1   5.79  B1 C5
+Z.Britton                    3       1   0   0   1   2   0   0.00  C6 D6
+A.Miller                     2       0   0   0   1   3   0   0.00  D7
+[1]Totals                    8      10   9   6   5   7   3
+
+[1]White Sox (4-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Tillman WIN(1-1)           6 2/3   4   4   4   2   6   1   3.95  A1 C7
+J.De Fratus                  0 1/3   2   0   0   0   1   0   6.75  C8 D1
+Z.Duke                       2       0   0   0   0   3   0   3.86  D2
+[1]Totals                    9       6   4   4   2  10   1
+
+ATTENDANCE- 40,330 DATE- Sunday, October 11th 2015 TIME- Night 
+UMPIRES- Paul Schrieber, Chad Fairchild, Joe West, Angel Hernandez
+T- 3:05
+LEFT ON BASE- Orioles: 3  White Sox: 7
+DOUBLE PLAYS- Orioles: 1  White Sox: 1
+ERRORS- R.Flaherty
+DOUBLES- N.Markakis(3rd), J.Abreu(2nd), J.Lucroy(4th), A.Laroche(1st)
+HOME RUNS- J.Hardy(2nd), J.Abreu(3rd), R.Braun(2nd), K.Kiermaier(2nd)
+RBIs- J.Hardy-4(5th), J.Abreu-2(6th), A.Laroche(1st), C.Gillaspie(4th),
+      R.Braun-2(3rd), K.Kiermaier-3(5th)
+SACRIFICE FLIES- C.Gillaspie
+WALKS- C.Gomez, R.Flaherty, J.Altuve-2, A.Laroche-2, G.Petit
+HIT BY PITCH- J.Altuve
+STRIKE OUTS- A.Gonzalez-2, C.Beltran-2, R.Flaherty-2, J.Hardy, J.Schoop,
+             J.Lobaton-2, A.De Aza, J.Abreu, J.Lucroy-2, G.Petit, E.Herrera-2
+GIDP- R.Flaherty, R.Braun
+BALKS- M.Scherzer
+WILD PITCHES- S.Casilla
+2-out RBI- K.Kiermaier-3, R.Braun-2, J.Hardy-4
+RLISP 2-out- J.Abreu, A.Ramirez, G.Petit, C.Beltran
+TEAM RISP- Orioles: 1 for 5  White Sox: 3 for 9
+
+At US Cellular Field the Baltimore Orioles were battered 9 to 4 by the Chicago
+(AL) White Sox.
+
+Chris Tillman(1-1) pitched a solid game.  He surrendered 4 hits and 2 walks in
+6 and 2/3 innings.  Chicago (AL) had 10 hits overall, while Baltimore had 6.
+
+Max Scherzer(0-1) was the loser.  He allowed 7 runs and 5 hits in 2/3 of an
+inning.
+[2]
+[1]SCORESHEET: 2015 Baltimore Orioles at 2015 Chicago (AL) White Sox
+N.Markak-A1  A1:G/13    *4*:F/7    C1:G/63    *8*:Do
+                                              
+                                              
+C.Coghla-A1  A2:F/7     B2:L/4     *7*:G/13   D2:G/63
+R.Davis-D2                                    
+                                              
+A.Gonzal-A1  A3:K       B3:F/8     C3:Si      D3:K
+                                              
+                                              
+C.Beltra-A1  *2*:K      *5*:G/43   C4:Si>12   D4:K
+                                              
+                                              
+C.Gomez-A1   A5:W>b1    B5:Si      C5:F/9     *9*:L/6
+                                              
+                                              
+R.Flaher-A1  A6:G-DP/4  B6:K       C6:W>23 1  D6:K
+             63>1o                 2 b1       
+                                              
+J.Hardy-A1   *3*:G/43   B7:K       C7:HR>3#   D7:G/63
+                                   2# 1# b#   
+                                              
+J.Schoop-A1  A8:G/13    *6*:K      C8:Si
+                                   
+                                   
+J.Lobato-A1  A9:F/7     B9:K       C9:K
+                                   
+                                   
+
+A.De Aza-A1  A1:K       B1:Si      *3*:L/4    D1:FO/3    *8*:G/13
+                                                         
+                                                         
+J.Altuve-A1  A2:HBP     B2:W>12 b  C2:FO/5    D2:F/9     E2:W>b1
+                        1                                
+                                                         
+J.Abreu-A1   A3:HR>1#   B3:G/31    C3:Si      *6*:Do     E3:K
+             b#                                          
+                                                         
+J.Lucroy-A1  A4:Do      *2*:G/43   C4:K       D4:G/63    E4:K
+                                                         
+                                                         
+A.Laroch-A1  A5:Do>2#   B5:W>b1    *4*:W>b1   D5:G/43>2
+                                              3
+                                              
+C.Gillas-A1  A6:Bk>23   B6:G/53>1  C6:W>12 b  D6:K
+G.Petit-C6   SF/7>3#    2          1          
+                                              
+R.Braun-A1   A7:E/5     B7:WP>23   C7:G-DP/4  *7*:G/63
+A.Rios-E1               HR>3# b#   63>23 1o   
+                                              
+A.Ramire-A1  A8:Si>13   B8:Si      C8:G/3     D8:G/63
+                                              
+                                              
+K.Kierma-A1  A9:HR>3#   B9:G/31    *5*:K      D9:K
+E.Herrer-C9  1# b#                            
+                                              
+
+

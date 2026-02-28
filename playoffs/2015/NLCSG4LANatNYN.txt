@@ -1,0 +1,137 @@
+[1]BOXSCORE: 2015 Los Angeles(NL) Dodgers At 2015 New York (NL) Mets  10/17/2015
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  D.Gordon 2B         5  0  0  0 .000     C.Utley 2B          3  1  0  0 .133  
+  R.Martin C          3  1  1  0 .125     D.Wright 3B         4  0  0  0 .125  
+  Y.Puig RF           4  1  0  0 .250     D.Murphy DH         3  1  2  1 .357  
+  M.Kemp DH           4  1  2  2 .267     M.Byrd RF           4  0  0  0 .200  
+  E.Encarnacion 1B    3  0  0  0 .083     D.Navarro C         4  1  1  0 .308  
+  J.Uribe 3B          3  1  1  0 .333     I.Davis 1B          2  1  1  0 .125  
+E-E.Chavez PH,3B      0  0  0  1 .000   A-J.Smolinski PH      0  1  0  0 .333  
+  A.Pagan CF          4  0  1  0 .500   B-J.Lagares CF        1  0  0  0 .167  
+  A.Ethier LF         3  0  1  0 .200     B.Crawford SS       4  0  0  1 .000  
+F-B.Paulsen PH        1  0  0  0 .000     C.Parmelee LF,1B    3  0  2  3 .500  
+G-S.Van Slyke LF      0  0  0  0 .333     S.Fuld CF,LF        3  0  0  0 .000  
+  E.Escobar SS        2  0  1  1 .571                                          
+C-J.Francisco PH      1  0  0  0 .250                                          
+D-K.Negron SS         1  0  0  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  4  7  4                 Totals      31  5  6  5
+
+A-Pinch Hit For Davis In 6th Inning
+B-Subbed Defensively (CF) For Smolinski In 7th Inning
+C-Pinch Hit For Escobar In 7th Inning
+D-Subbed Defensively (SS) For Francisco In 7th Inning
+E-Pinch Hit For Uribe In 8th Inning
+F-Pinch Hit For Ethier In 8th Inning
+G-Subbed Defensively (LF) For Paulsen In 8th Inning
+
+Dodgers......... 2 1 0  0 0 0  0 1 0  -  4  7  1
+Mets............ 1 1 0  0 0 3  0 0    -  5  6  0
+
+[1]Dodgers (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Beckett                    5 1/3   4   3   2   1   6   0   3.38  A1 C4
+J.Howell L(0-1) BS(1st)      1       2   2   2   1   0   0  13.50  C5 D1
+R.Mendez                     1 1/3   0   0   0   1   2   0   0.00  D2 D6
+P.Baez                       0 1/3   0   0   0   0   0   0   0.00  D7
+[1]Totals                    8       6   5   2   3   8   0
+
+[1]Mets (2-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Samardzija WIN(1-1)        7       6   4   4   2   6   1   5.54  A1 D2
+K.Giles HOLD(2nd)            1       1   0   0   2   1   0   0.00  D3 D8
+T.Hunter SAVE(2nd)           1       0   0   0   0   1   0   0.00  D9
+[1]Totals                    9       7   4   4   4   8   1
+
+ATTENDANCE- 38,801 DATE- Saturday, October 17th 2015 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 3:14
+LEFT ON BASE- Dodgers: 7  Mets: 5
+DOUBLE PLAYS- Dodgers: 0  Mets: 0
+ERRORS- E.Encarnacion
+DOUBLES- M.Kemp(1st), A.Ethier(1st), E.Escobar(3rd), D.Murphy(1st),
+         D.Navarro(1st), C.Parmelee(1st)
+HOME RUNS- M.Kemp(2nd)
+RBIs- M.Kemp-2(3rd), E.Chavez(1st), E.Escobar(1st), D.Murphy(1st),
+      B.Crawford(1st), C.Parmelee-3(3rd)
+STOLEN BASES- A.Pagan(2nd), C.Utley(1st)
+WALKS- R.Martin-2, E.Encarnacion, E.Chavez, C.Utley, D.Murphy, J.Smolinski
+STRIKE OUTS- D.Gordon, R.Martin, Y.Puig, M.Kemp, A.Ethier, B.Paulsen,
+             J.Francisco, K.Negron, M.Byrd-2, D.Navarro, I.Davis, J.Lagares,
+             C.Parmelee, S.Fuld-2
+2-out RBI- M.Kemp-2, E.Escobar, C.Parmelee-2
+RLISP 2-out- D.Navarro, D.Gordon-2, E.Escobar, S.Fuld, B.Paulsen-2
+TEAM RISP- Dodgers: 0 for 7  Mets: 3 for 8
+
+38,801 fans were treated to a fine game at Citi Field as only one run
+separated the combatants at game's end.  The New York (NL) Mets won by the
+slimmest of margins, 5 to 4.
+
+New York (NL) had 3 runs cross the plate in the 6th inning.  Daniel Murphy
+started the inning off right when he reached on an error.  After an out was
+recorded, Dioner Navarro stepped in and he doubled.  Jake Smolinski then was
+walked intentionally to load the bases.  Brandon Crawford came up and he
+would ground out.  Chris Parmelee came up to bat and doubled.  Tommy Hunter,
+after tossing a perfect ninth, was credited with his 2nd save.  
+
+The victory went to Jeff Samardzija(1-1) who went 7 innings, allowing 4 runs.
+J.P. Howell(0-1) took the loss in relief.  He surrendered 2 runs and 2 hits
+in 1 inning.
+[2]
+[1]SCORESHEET: 2015 Los Angeles(NL) Dodgers at 2015 New York (NL) Mets
+D.Gordon-A1  A1:G/13    B1:K       *5*:L/4    D1:G/63    E1:G/63
+                                                         
+                                                         
+R.Martin-A1  A2:W>b1    *3*:W>b1   C2:K       *8*:Si     E2:G/43
+                                                         
+                                                         
+Y.Puig-A1    A3:Force/  B3:K       C3:L/4     D3:F/8
+             54>1o b1                         
+                                              
+M.Kemp-A1    A4:HR>1#   B4:F/9     *6*:K      D4:Do>13
+             b#                               
+                                              
+E.Encarn-A1  A5:G/13    B5:G/13    C5:F/8     D5:IW>b1
+                                              
+                                              
+J.Uribe-A1   *2*:Si     *4*:G/53   C6:G/43    D6:W>3# 2
+E.Chavez-D6                                   3 12 b1
+                                              
+A.Pagan-A1   A7:L/4     B7:Si      *7*:L/4    D7:L/4
+                                              
+                                              
+A.Ethier-A1  A8:K       B8:SB>12   C8:Do      D8:K
+B.Paulse-D8             F/8                   
+S.Van Sl-D9                                   
+E.Escoba-A1  A9:Do>1#   B9:L/5     C9:K       *9*:K
+J.Franci-C9                                   
+K.Negron-D2                                   
+
+C.Utley-A1   A1:W>b1    B1:G/13    C1:F/7     *7*:F/7
+                                              
+                                              
+D.Wright-A1  A2:SB>12   *3*:F/7    C2:G/43    D2:L/6
+             G/63>23                          
+                                              
+D.Murphy-A1  A3:Do>3#   B3:Si      *6*:E/3    D3:W>b1
+                                              
+                                              
+M.Byrd-A1    A4:K       B4:Force/  C4:F/7     D4:K
+                        46>1o b1              
+                                              
+D.Navarr-A1  A5:K       B5:F/8     C5:Do>13   *8*:FO/2
+                                              
+                                              
+I.Davis-A1   *2*:Si     *4*:K      C6:IW>b1   D6:K
+J.Smolin-C6                                   
+J.Lagare-D1                                   
+B.Crawfo-A1  A7:G/3>12  B7:F/8     C7:G/43>3  D7:F/7
+                                   # 23 12    
+                                              
+C.Parmel-A1  A8:Si>2#   B8:K       C8:Do>3#
+                                   2#
+                                   
+S.Fuld-A1    A9:K       *5*:K      C9:F/9
+                                   
+                                   
+
+

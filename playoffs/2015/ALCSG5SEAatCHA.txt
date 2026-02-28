@@ -1,0 +1,146 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Chicago (AL) White Sox     10/18/2015
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  B.Guyer LF          4  1  1  0 .154     D.Robertson CF      5  0  0  0 .167  
+I-A.Dunn PH           1  0  1  1 .250     A.Rios RF           3  1  2  0 .667  
+  D.Espinosa 2B       3  0  1  0 .318   D-A.Laroche PH,1B     2  2  2  0 .250  
+B-W.Flores PH,2B      2  1  0  1 .188     J.Altuve 2B         5  4  5  1 .340  
+  A.Jones CF          5  0  2  1 .326     J.Abreu 1B          3  1  1  2 .404  
+  V.Martinez 1B       5  1  2  2 .348   G-J.Jones RF          1  0  1  2 .333  
+  M.Olt DH            3  0  0  0 .000     J.Lucroy C          5  1  2  1 .333  
+C-M.Saunders PH,DH    1  0  0  0 .214     C.Owings DH         3  0  1  1 .200  
+J-J.Segura PH         1  0  1  0 .200   E-C.Gillaspie PH,DH   1  1  1  1 .257  
+  M.Gonzalez SS       4  1  2  0 .222     R.Braun LF          3  1  1  1 .211  
+  M.Sierra RF         3  1  1  1 .200   A-A.De Aza LF         2  0  1  1 .200  
+  K.Seager 3B         4  1  2  1 .357     A.Ramirez SS        4  0  2  0 .256  
+  M.Zunino C          3  0  0  0 .258     M.Semien 3B         2  0  0  0 .000  
+H-H.Conger PH         1  1  1  0 .400   F-E.Herrera PH,3B     1  0  0  0 .429  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  7 14  7                 Totals      40 11 19 10
+
+A-Subbed Defensively (LF) For Braun In 7th Inning
+B-Pinch Hit For Espinosa In 7th Inning
+C-Pinch Hit For Olt In 7th Inning
+D-Pinch Hit For Rios In 7th Inning
+E-Pinch Hit For Owings In 7th Inning
+F-Pinch Hit For Semien In 7th Inning
+G-Subbed Defensively (RF) For Abreu In 8th Inning
+H-Pinch Hit For Zunino In 9th Inning
+I-Pinch Hit For Guyer In 9th Inning
+J-Pinch Hit For Saunders In 9th Inning
+
+Mariners........ 0 2 0  0 0 0  2 0 3  -  7 14  0
+White Sox....... 2 0 0  1 2 0  4 2    - 11 19  1
+
+[1]Mariners (7-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Elias LOSS(0-1)            6      10   5   5   1   6   1   7.50  A1 D1
+B.Shaw                       2       9   6   6   1   1   0  11.81  D2
+[1]Totals                    8      19  11  11   2   7   1
+
+[1]White Sox (6-6)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale WIN(4-0)              6 1/3   8   4   4   1   9   0   2.23  A1 D1
+B.Boxberger HOLD(1st)        0 2/3   2   0   0   1   1   0   9.00  D2 D6
+Z.Putnam                     2       4   3   3   0   1   1   6.75  D7
+[1]Totals                    9      14   7   7   2  11   1
+
+ATTENDANCE- 40,012 DATE- Sunday, October 18th 2015 TIME- Night 
+UMPIRES- Rob Drake, Gary Darling, Bruce Dreckman, Paul Emmel
+T- 3:07
+LEFT ON BASE- Mariners: 8  White Sox: 8
+DOUBLE PLAYS- Mariners: 2  White Sox: 1
+ERRORS- M.Semien
+DOUBLES- M.Sierra(1st), H.Conger(1st), A.Rios(2nd), A.Laroche(2nd),
+         J.Altuve(4th), J.Lucroy-2(7th), C.Gillaspie(5th), A.Ramirez(4th)
+TRIPLES- C.Owings(1st)
+HOME RUNS- V.Martinez(2nd), R.Braun(4th)
+RBIs- A.Dunn(1st), W.Flores(2nd), A.Jones(11th), V.Martinez-2(10th),
+      M.Sierra(1st), K.Seager(6th), J.Altuve(4th), J.Abreu-2(9th),
+      J.Jones-2(3rd), J.Lucroy(7th), C.Owings(1st), C.Gillaspie(6th),
+      R.Braun(6th), A.De Aza(3rd)
+STOLEN BASES- J.Segura(3rd), J.Altuve-2(5th), J.Jones(4th)
+SACRIFICE FLIES- J.Abreu
+WALKS- M.Gonzalez, M.Sierra, C.Gillaspie, M.Semien
+STRIKE OUTS- B.Guyer-2, D.Espinosa, A.Jones-3, V.Martinez, M.Olt, M.Saunders,
+             K.Seager, M.Zunino, D.Robertson-3, J.Lucroy, C.Owings, A.Ramirez,
+             M.Semien
+GIDP- K.Seager, J.Lucroy, E.Herrera
+BALKS- R.Elias, B.Boxberger
+WILD PITCHES- R.Elias, C.Sale
+2-out RBI- J.Lucroy, C.Owings, A.Jones, V.Martinez-2
+RLISP 2-out- C.Owings, B.Guyer, D.Robertson, R.Braun, M.Sierra, M.Saunders,
+             A.De Aza, M.Gonzalez
+TEAM RISP- Mariners: 4 for 11  White Sox: 7 for 17
+
+Second baseman Jose Altuve had 5 hits and scored 4 times at US Cellular Field
+as the Chicago (AL) White Sox beat the Seattle Mariners 11 to 7.
+
+Chicago (AL) took the lead for good in the bottom of the 4th inning scoring a
+single run on 2 hits.  After an out was recorded, Ryan Braun smashed a
+solo-shot out of the park.  Alexei Ramirez came next and he doubled.  Marcus
+Semien struck out, unable to help the rally.  Daniel Robertson dug into the
+batters box next, but he struck out.  Seattle made it exciting in the 9th,
+but they were unable to push the needed runs across.  
+
+Chris Sale(4-0) allowed 4 runs in 6 and 1/3 innings, and picked up the
+victory. Roenis Elias(0-1) took the loss.  'Just one or two mistakes were all
+it took to beat us tonight' Eric Wedge said.  'We take these games one day at
+a time, but this one was hard to take.'
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Chicago (AL) White Sox
+B.Guyer-A1   A1:K       B1:WP>12   C1:G/53    D1:Si>12   E1:Si>2#
+A.Dunn-E1               K                                
+                                                         
+D.Espino-A1  A2:Si      *3*:K      C2:L/5     D2:Bk>23   E2:Force/
+W.Flores-D2                                   12 G/31>3  46>1o b1
+                                              # 23       
+A.Jones-A1   A3:K       B3:K       *6*:Si+E/  D3:Si>3#   E3:K
+                                   5                     
+                                                         
+V.Martin-A1  A4:F/8     B4:K       C4:L/6     D4:Si>13   E4:HR>1#
+                                                         b#
+                                                         
+M.Olt-A1     *2*:K      *4*:G/53   C5:L/6     D5:K       E5:Si
+M.Saunde-D5                                              
+J.Segura-E5                                              
+M.Gonzal-A1  A6:Si      B6:G/13    C6:Si>23   *8*:W>b1   E6:SB>12
+                                                         F/7
+                                                         
+M.Sierra-A1  A7:Do>1#   B7:W>b1    C7:P/6     D7:F/8
+                                              
+                                              
+K.Seager-A1  A8:Si>3#   B8:K       *7*:Si     D8:G-DP/4
+                                              63>1o
+                                              
+M.Zunino-A1  A9:FO/2    *5*:G/63   C9:K       *9*:Do
+H.Conger-D9                                   
+                                              
+
+D.Robert-A1  A1:G/43    B1:K       C1:K       D1:F/7     *8*:K
+                                                         
+                                                         
+A.Rios-A1    A2:Do      *3*:Si     *5*:F/7    *7*:Do     E2:Si
+A.Laroch-D2                                              
+                                                         
+J.Altuve-A1  A3:Si>23   B3:Si>12   C3:Si      D3:Si>2#   E3:Do>13
+                                                         
+                                                         
+J.Abreu-A1   A4:G/13>1  B4:F/8     C4:Bk>12   D4:SB>12   E4:Si>3#
+J.Jones-E1   2                     Si>2#      SB>23 SF/  2#
+                                              8>3#       
+J.Lucroy-A1  A5:WP>3#   B5:G-DP/6  C5:K       D5:Do      E5:SB>12
+             23 Do>3#   43>1o                            P/6
+                                                         
+C.Owings-A1  A6:K       *4*:G/13   C6:Tr>1#   D6:Do>2#   E6:IW>b1
+C.Gillas-D6                                              
+                                                         
+R.Braun-A1   *2*:L/6    B7:HR>b#   C7:G/53    D7:Si>2#   E7:L/4
+A.De Aza-D2                                              
+                                                         
+A.Ramire-A1  A8:K       B8:Do      *6*:G/43   D8:Si>12
+                                              
+                                              
+M.Semien-A1  A9:W>b1    B9:K       C9:G/63    D9:G-DP/4
+E.Herrer-D9                                   63>1o
+                                              
+
+

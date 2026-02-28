@@ -1,0 +1,146 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Los Angeles(NL) Dodgers    10/24/2015
+
+[1]  Mariners           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  D.Espinosa 2B       4  0  0  0 .333     R.Martin C          5  1  2  0 .211  
+E-H.Conger PH,C       1  0  0  0 .462     M.Kemp LF           4  0  2  0 .267  
+  A.Dunn DH           6  1  1  0 .257   C-E.Escobar SS        2  0  0  0 .294  
+  A.Jones CF          6  2  3  1 .362     Y.Puig RF           5  0  2  1 .250  
+  V.Martinez 1B       4  1  1  3 .298     E.Encarnacion 1B    5  0  1  0 .143  
+  K.Seager 3B         5  0  0  0 .304     J.Francisco DH      3  0  0  0 .176  
+  M.Gonzalez SS       3  0  1  0 .222   J-S.Van Slyke PH,DH   1  0  1  0 .636  
+A-J.Segura PH,SS      2  0  1  0 .234     J.Uribe 3B          3  1  1  0 .250  
+  D.Ackley LF         5  0  2  0 .212   B-A.Ethier PH,LF      2  0  0  0 .182  
+  M.Zunino C          3  0  0  0 .282     D.Gordon 2B         5  1  1  0 .100  
+D-D.Dietrich PH,2B    1  0  0  0 .000     K.Negron SS,3B      3  1  1  2 .286  
+H-M.Olt PH            1  0  0  0 .000   F-F.Cervelli PH       1  0  0  0 .143  
+I-D.Barney 2B         0  0  0  0 .250   G-E.Hernandez 3B      0  0  0  0 .000  
+  M.Saunders RF       5  1  1  1 .222   K-C.Stewart PH        1  0  0  0 .500  
+                                          A.Pagan CF          5  0  1  1 .375  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      46  5 10  5                 Totals      45  4 12  4
+
+A-Pinch Hit For Gonzalez In 8th Inning
+B-Pinch Hit For Uribe In 8th Inning
+C-Subbed Defensively (SS) For Kemp In 9th Inning
+D-Pinch Hit For Zunino In 9th Inning
+E-Pinch Hit For Espinosa In 9th Inning
+F-Pinch Hit For Negron In 9th Inning
+G-Subbed Defensively (3B) For Cervelli In 10th Inning
+H-Pinch Hit For Dietrich In 11th Inning
+I-Subbed Defensively (2B) For Olt In 11th Inning
+J-Pinch Hit For Francisco In 11th Inning
+K-Pinch Hit For Hernandez In 12th Inning
+
+Mariners........ 0 0 3  0 0 0  0 0 1  0 0 1  -  5 10  0
+Dodgers......... 1 3 0  0 0 0  0 0 0  0 0 0  -  4 12  2
+
+[1]Mariners (10-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister                     7       9   4   4   1   4   0   2.93  A1 D3
+B.Shaw                       2       0   0   0   0   4   0   8.59  D4 D9
+W.Davis                      1       2   0   0   0   1   0   1.13  E1 E4
+C.Furbush WIN(1-0)           1       1   0   0   0   0   0   3.38  E5 E7
+T.Sipp SAVE(3rd)             1       0   0   0   1   1   0   0.00  E8
+[1]Totals                   12      12   4   4   2  10   0
+
+[1]Dodgers (4-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Ryu                        6 2/3   6   3   3   2   5   1   4.05  A1 D2
+R.Mendez HOLD(2nd)           0 1/3   0   0   0   0   0   0   0.00  D3 D3
+P.Baez HOLD(2nd)             1       1   0   0   0   0   0   0.00  D4 D7
+P.Strop BS(1st)              1 1/3   2   1   1   0   2   1   3.60  D8 E4
+J.Howell                     2 1/3   0   0   0   1   2   0   6.23  E5 F2
+K.Jansen LOSS(0-1)           0 1/3   1   1   1   0   1   1   9.00  F3
+[1]Totals                   12      10   5   5   3  10   3
+
+ATTENDANCE- 55,712 DATE- Saturday, October 24th 2015 TIME- Night 
+UMPIRES- Marvin Hudson, Tim McClelland, Ted Barrett, Brian Runge
+T- 3:22
+LEFT ON BASE- Mariners: 8  Dodgers: 7
+DOUBLE PLAYS- Mariners: 2  Dodgers: 2
+ERRORS- H.Ryu-2
+DOUBLES- A.Dunn(3rd), R.Martin(1st)
+TRIPLES- K.Negron(1st)
+HOME RUNS- A.Jones(5th), V.Martinez(3rd), M.Saunders(2nd)
+RBIs- A.Jones(14th), V.Martinez-3(13th), M.Saunders(3rd), Y.Puig(4th),
+      K.Negron-2(3rd), A.Pagan(5th)
+WALKS- H.Conger, V.Martinez-2, R.Martin, J.Francisco
+STRIKE OUTS- D.Espinosa-2, A.Dunn-3, V.Martinez, K.Seager, D.Dietrich, M.Olt,
+             M.Saunders, R.Martin, E.Escobar, Y.Puig, E.Encarnacion-2,
+             J.Francisco, D.Gordon-2, F.Cervelli, C.Stewart
+GIDP- A.Dunn, K.Seager, Y.Puig, D.Gordon
+2-out RBI- V.Martinez-3, A.Jones
+RLISP 2-out- J.Francisco, M.Zunino, Y.Puig-2, K.Seager-2
+TEAM RISP- Mariners: 2 for 6  Dodgers: 2 for 8
+
+Center fielder Adam Jones hit a homerun at Dodger Stadium where the Seattle
+Mariners beat the Los Angeles(NL) Dodgers in 12 innings by the score of 5 to
+4.
+
+The score was tied at 4 after nine.  Seattle ended up winning it in the 12th
+inning.  Hank Conger drew a walk.  Adam Dunn came next and he grounded into a
+double play.  Jones then hit a bases-empty home run.  Victor Martinez got his
+turn next, but he was a strikeout victim.  Seattle totaled 10 hits on the
+night.  
+
+Charlie Furbush(1-0) allowed no runs in 1 inning, and picked up the victory.
+Tony Sipp recorded the save, his 3rd.  Kenley Jansen(0-1) was the loser in
+relief.  He pitched 1/3 of an inning and surrendered 1 hit and no walks.
+
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Los Angeles(NL) Dodgers
+D.Espino-A1  A1:K       B1:G/31    C1:E/1>12  *7*:K      E1:L/4     *12*:W>b1
+H.Conger-E1                                                         
+                                                                    
+A.Dunn-A1    A2:G/3     B2:Do      C2:K       D2:K       E2:K       F2:G-DP/4
+                                                                    63>1o
+                                                                    
+A.Jones-A1   A3:P/2     B3:Si>23   C3:Force/  D3:G/13    *10*:Si    F3:HR>b#
+                                   64>23 1o                         
+                                   b1                               
+V.Martin-A1  *2*:W>b1   B4:HR>3#   C4:IW>12   *8*:F/7    E4:F/9     F4:K
+                        1# b#      b1                               
+                                                                    
+K.Seager-A1  A5:G-DP/1  B5:K       C5:L/3     D5:G/63    E5:F/8
+             63>1o                                       
+                                                         
+M.Gonzal-A1  A6:Si      *4*:F/8    *6*:G/63   D6:Si      E6:F/7
+J.Segura-D6                                              
+                                                         
+D.Ackley-A1  A7:Si>13   B7:F/7     C7:Si      D7:F/7     *11*:F/7
+                                                         
+                                                         
+M.Zunino-A1  A8:F/7     B8:G/63    C8:Force/  *9*:K      E8:K
+D.Dietri-D8                        64>1o b1              
+M.Olt-E8+                                                
+M.Saunde-A1  *3*:G/63   *5*:E/1    C9:G/63    D9:HR>b#   E9:K
+                                                         
+                                                         
+
+R.Martin-A1  A1:Do      B1:Si      C1:K       D1:F/7     *10*:G/13  F1:W>b1
+                                                                    
+                                                                    
+M.Kemp-A1    A2:F/7     B2:G/43>1  *5*:Si     D2:Si>12   E2:K       F2:L/6
+E.Escoba-D7             2                                           
+                                                                    
+Y.Puig-A1    A3:Si>2#   B3:P/6     C3:G-DP/6  D3:K       E3:Si
+                                   43>1o                 
+                                                         
+E.Encarn-A1  A4:F/8     *3*:K      C4:FO/2    *8*:K      E4:Si>1o
+                                                         
+                                                         
+J.Franci-A1  A5:G/3     B5:W>b1    *6*:F/8    D5:K       *11*:Si
+S.Van Sl-E5                                              
+                                                         
+J.Uribe-A1   *2*:Si     B6:P/6     C6:F/7     D6:G/63    E6:Force/
+A.Ethier-D6                                              64>1o b1
+                                                         
+D.Gordon-A1  A7:Si>13   B7:G/13    C7:K       *9*:K      E7:G-DP/4
+                                                         63>1o
+                                                         
+K.Negron-A1  A8:Tr>3#   *4*:G/43   *7*:F/7    D8:K       *12*:K
+F.Cervel-D8  1#                                          
+E.Hernan-E1+                                             
+A.Pagan-A1   A9:G/43>3  B9:G/63    C9:Si      D9:F/8     E9:F/7
+             #                                           
+                                                         
+
+

@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2015 Los Angeles(NL) Dodgers At 2015 Seattle Mariners    10/26/2015
+
+[1]  Dodgers            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  D.Gordon 2B         5  2  3  1 .171     A.Dunn DH           3  0  0  0 .237  
+  A.Pagan CF          5  0  3  0 .414   C-M.Olt PH,DH         1  0  0  0 .000  
+  M.Kemp LF           3  0  0  1 .242     B.Guyer RF          4  1  1  0 .176  
+  E.Encarnacion 1B    4  0  0  0 .125     V.Martinez 1B       4  0  2  1 .311  
+  E.Chavez 3B         3  0  2  0 .400     K.Seager 3B         3  0  0  0 .288  
+A-A.Ethier PH         1  0  0  0 .167     H.Conger C          3  0  0  0 .375  
+B-J.Uribe 3B          0  0  0  0 .250   D-D.Dietrich PH       1  0  0  0 .000  
+  Y.Puig RF           4  0  1  0 .250     J.Segura SS         4  0  1  0 .235  
+  J.Francisco DH      4  0  0  0 .143     D.Ackley LF         3  0  1  0 .218  
+  F.Cervelli C        4  1  1  0 .182     A.Jones CF          4  0  1  0 .355  
+  E.Escobar SS        4  0  1  0 .286     D.Barney 2B         3  0  0  0 .211  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  3 11  2                 Totals      33  1  6  1
+
+A-Pinch Hit For Chavez In 8th Inning
+B-Subbed Defensively (3B) For Ethier In 8th Inning
+C-Pinch Hit For Dunn In 8th Inning
+D-Pinch Hit For Conger In 9th Inning
+
+Dodgers......... 1 0 1  0 0 0  0 0 1  -  3 11  0
+Mariners........ 1 0 0  0 0 0  0 0 0  -  1  6  0
+
+[1]Dodgers (5-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Lynn WIN(2-1)              7       5   1   1   0   6   0   2.33  A1 C9
+J.Howell HOLD(2nd)           0 2/3   0   0   0   0   1   0   5.40  D1 D2
+P.Baez HOLD(3rd)             0 1/3   1   0   0   0   0   0   0.00  D3 D4
+P.Strop SAVE(2nd)            1       0   0   0   1   3   0   3.00  D5
+[1]Totals                    9       6   1   1   1  10   0
+
+[1]Mariners (10-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma LOSS(2-2)          9      11   3   3   0   9   0   2.12  A1
+[1]Totals                    9      11   3   3   0   9   0
+
+ATTENDANCE- 46,549 DATE- Monday, October 26th 2015 TIME- Night 
+UMPIRES- Laz Diaz, Scott Barry, John Hirschbeck, Wally Bell
+T- 3:03
+LEFT ON BASE- Dodgers: 8  Mariners: 7
+DOUBLE PLAYS- Dodgers: 0  Mariners: 0
+DOUBLES- B.Guyer(1st), D.Ackley(2nd)
+TRIPLES- D.Gordon(1st)
+RBIs- D.Gordon(2nd), M.Kemp(6th), V.Martinez(14th)
+SACRIFICE FLIES- M.Kemp
+WALKS- D.Ackley
+HIT BY PITCH- K.Seager
+STRIKE OUTS- D.Gordon, E.Encarnacion, Y.Puig, J.Francisco-3, F.Cervelli-2,
+             E.Escobar, A.Dunn, M.Olt, B.Guyer, K.Seager, H.Conger-2,
+             D.Dietrich, J.Segura, A.Jones-2
+WILD PITCHES- H.Iwakuma
+2-out RBI- D.Gordon
+RLISP 2-out- Y.Puig, J.Segura, D.Barney, A.Pagan
+TEAM RISP- Dodgers: 1 for 3  Mariners: 1 for 5
+
+Lance Lynn(2-1) and Hisashi Iwakuma(2-2) dueled it out with Lynn and the Los
+Angeles(NL) Dodgers coming out on top of the Seattle Mariners by the score of
+3 to 1.
+
+Lynn earned his pay with a solid performance for Los Angeles(NL). He went 7
+innings surrendering 5 hits and no walks reducing his ERA from 2.92 to 2.33.
+Los Angeles(NL) had 11 hits overall, while Seattle had 6.  
+
+Pedro Strop earned his 2nd save.
+[2]
+[1]SCORESHEET: 2015 Los Angeles(NL) Dodgers at 2015 Seattle Mariners
+D.Gordon-A1  A1:Tr      *3*:Si     *5*:G/63   D1:K       E1:Si>3#
+                                                         12
+                                                         
+A.Pagan-A1   A2:WP>3#   B2:Si>13   C2:Si      D2:G/13    E2:G/63
+             Si                                          
+                                                         
+M.Kemp-A1    A3:F/7     B3:SF/9>3  C3:L/6     *8*:G/13
+                        #                     
+                                              
+E.Encarn-A1  A4:L/6     B4:F/8     C4:K       D4:G/63
+                                              
+                                              
+E.Chavez-A1  A5:Si>12   B5:Force/  *6*:Si     D5:F/9
+A.Ethier-D5             46>1o b1              
+J.Uribe-D6                                    
+Y.Puig-A1    A6:G/63    *4*:Si     C6:K       *9*:G/53
+                                              
+                                              
+J.Franci-A1  *2*:K      B7:K       C7:K       D7:G/43
+                                              
+                                              
+F.Cervel-A1  A8:K       B8:L/6     C8:K       D8:Si
+                                              
+                                              
+E.Escoba-A1  A9:P/3     B9:G/43    *7*:K      D9:Si>13
+                                              
+                                              
+
+A.Dunn-A1    A1:K       *3*:F/8    C1:F/8     *8*:K
+M.Olt-D1                                      
+                                              
+B.Guyer-A1   A2:Do      B2:L/6     C2:K       D2:G/63
+                                              
+                                              
+V.Martin-A1  A3:Si>2#   B3:P/3     *6*:G/3    D3:Si
+                                              
+                                              
+K.Seager-A1  A4:HBP>12  *4*:K      C4:L/4     D4:F/9
+                                              
+                                              
+H.Conger-A1  A5:K       B5:K       C5:F/9     *9*:K
+D.Dietri-D5                                   
+                                              
+J.Segura-A1  A6:G/63    B6:Si      *7*:G/63   D6:K
+                                              
+                                              
+D.Ackley-A1  *2*:F/8    B7:G/13    C7:Do      D7:W>b1
+                                              
+                                              
+A.Jones-A1   A8:K       *5*:Si     C8:L/6     D8:K
+                                              
+                                              
+D.Barney-A1  A9:G/43    B9:Force/  C9:G/53
+                        64>1o b1   
+                                   
+
+

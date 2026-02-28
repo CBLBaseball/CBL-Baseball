@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Los Angeles(NL) Dodgers    10/23/2015
+
+[1]  Mariners           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  D.Espinosa 2B       4  1  3  1 .385     R.Martin C          3  1  1  1 .143  
+D-J.Segura SS         0  0  0  0 .222   B-C.Stewart PH,C      1  0  1  01.000  
+  K.Seager 3B         4  0  0  0 .333     M.Kemp DH           4  0  1  0 .231  
+  A.Jones CF          3  0  0  1 .346     Y.Puig RF           4  0  1  0 .222  
+  V.Martinez 1B       4  0  0  0 .302     E.Encarnacion 1B    4  0  0  0 .130  
+  M.Olt DH            3  0  0  0 .000     J.Uribe 3B          3  0  0  0 .238  
+  M.Gonzalez SS       3  0  0  0 .208   F-J.Francisco PH      0  0  0  0 .214  
+C-M.Sierra PH         1  0  0  0 .167   G-K.Negron PH         1  0  0  0 .250  
+E-D.Barney 2B         0  0  0  0 .250     D.Gordon 2B         3  0  1  0 .080  
+  M.Saunders RF       4  1  1  0 .227     S.Van Slyke LF      3  0  2  0 .600  
+  M.Zunino C          3  0  1  0 .306     E.Hernandez CF,SS   3  0  0  0 .000  
+  D.Ackley LF         3  0  1  0 .191     E.Escobar SS        2  0  0  0 .333  
+                                        A-A.Pagan PH,CF       1  0  0  0 .421  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  6  2                 Totals      32  1  7  1
+
+A-Pinch Hit For Escobar In 8th Inning
+B-Pinch Hit For Martin In 8th Inning
+C-Pinch Hit For Gonzalez In 9th Inning
+D-Subbed Defensively (SS) For Espinosa In 9th Inning
+E-Subbed Defensively (2B) For Sierra In 9th Inning
+F-Pinch Hit For Uribe In 9th Inning
+G-Pinch Hit For Francisco In 9th Inning
+
+Mariners........ 0 0 0  0 1 0  0 1 0  -  2  6  0
+Dodgers......... 0 0 0  0 0 1  0 0 0  -  1  7  0
+
+[1]Mariners (9-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(3-2)         7 1/3   6   1   1   0   7   1   3.35  A1 C8
+T.Sipp HOLD(2nd)             0 2/3   1   0   0   0   2   0   0.00  C9 D2
+W.Davis HOLD(4th)            0 2/3   0   0   0   0   1   0   1.29  D3 D4
+C.Furbush SAVE(2nd)          0 1/3   0   0   0   0   0   0   5.40  D5
+[1]Totals                    9       7   1   1   0  10   1
+
+[1]Dodgers (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw LOSS(2-1)          9       6   2   2   0  11   0   1.33  A1
+[1]Totals                    9       6   2   2   0  11   0
+
+ATTENDANCE- 53,065 DATE- Friday, October 23rd 2015 TIME- Night 
+UMPIRES- Doug Eddings, Paul Nauert, Dana Demuth, Kerwin Danley
+T- 2:38
+LEFT ON BASE- Mariners: 5  Dodgers: 4
+DOUBLE PLAYS- Mariners: 1  Dodgers: 0
+DOUBLES- D.Espinosa(3rd)
+TRIPLES- D.Espinosa(1st)
+HOME RUNS- R.Martin(1st)
+RBIs- D.Espinosa(2nd), A.Jones(13th), R.Martin(1st)
+STOLEN BASES- D.Gordon(1st)
+SACRIFICE FLIES- A.Jones
+HIT BY PITCH- M.Olt
+STRIKE OUTS- D.Espinosa, K.Seager, V.Martinez-4, M.Olt-3, M.Saunders, M.Zunino,
+             R.Martin-2, M.Kemp-2, Y.Puig-3, S.Van Slyke, E.Hernandez, A.Pagan
+2-out RBI- D.Espinosa
+RLISP 2-out- A.Jones, K.Seager, S.Van Slyke
+TEAM RISP- Mariners: 1 for 5  Dodgers: 0 for 2
+
+Danny Espinosa collected 2 extra-base hits as the Seattle Mariners outscored
+the Los Angeles(NL) Dodgers 2 to 1.
+
+The deciding run was scored by Seattle in the 8th.  Espinosa tripled.  Kyle
+Seager was a strikeout victim, unable to help out.  Adam Jones then hit a
+sacrifice fly.  Victor Martinez was next to bat, but he was a strikeout
+victim.  Seattle had only 6 hits for the game.  
+
+Felix Hernandez(3-2) was the winner allowing 1 run in 7 and 1/3 innings.
+Charlie Furbush gained credit for his 2nd save.  Clayton Kershaw(2-1) was
+tagged with the loss.  He allowed just 2 runs and 6 hits in 9 innings.
+
+'Wow.  That's about all I can think to say.' said Eric Wedge following the
+victory.  'If ever a team needed a win, it was us.'
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Los Angeles(NL) Dodgers
+D.Espino-A1  A1:K       B1:Si>13   C1:Do>2#   *8*:Tr
+J.Segura-D8                                   
+                                              
+K.Seager-A1  A2:F/7     B2:P/4     C2:G/53    D2:K
+                                              
+                                              
+A.Jones-A1   A3:G/63    B3:L/6     *6*:F/8    D3:SF/8>3
+                                              #
+                                              
+V.Martin-A1  *2*:K      *4*:K      C4:K       D4:K
+                                              
+                                              
+M.Olt-A1     A5:HBP     B5:K       C5:K       *9*:K
+                                              
+                                              
+M.Gonzal-A1  A6:F/7     B6:L/5     *7*:G/13   D6:G/53
+M.Sierra-D6                                   
+D.Barney-D8                                   
+M.Saunde-A1  A7:K       *5*:Si     C7:G/43    D7:G/43
+                                              
+                                              
+M.Zunino-A1  *3*:G/43   B8:K       C8:Si
+                                   
+                                   
+D.Ackley-A1  A9:Si      B9:G/43>1  C9:G/3
+                        2          
+                                   
+
+R.Martin-A1  A1:K       B1:K       C1:HR>b#   D1:Si
+C.Stewar-D1                                   
+                                              
+M.Kemp-A1    A2:Si      *4*:L/6    C2:K       D2:K
+                                              
+                                              
+Y.Puig-A1    A3:Si>13   B3:K       C3:K       *9*:K
+                                              
+                                              
+E.Encarn-A1  A4:L-DP/5  B4:G/63    *7*:L/5    D4:F/8
+             >3o                              
+                                              
+J.Uribe-A1   *2*:FO/2   *5*:G/53   C5:F/9     D5:P/2
+J.Franci-D5                                   
+K.Negron-D5                                   
+D.Gordon-A1  A6:F/7     B6:F/9     C6:Si
+                                   
+                                   
+S.Van Sl-A1  A7:Si PkO  B7:Si      C7:SB>12
+             ff/13>1o              K
+                                   
+E.Hernan-A1  *3*:G/53   B8:L/5     *8*:K
+                                   
+                                   
+E.Escoba-A1  A9:G/43    *6*:G/63   C9:K
+A.Pagan-C9                         
+                                   
+
+

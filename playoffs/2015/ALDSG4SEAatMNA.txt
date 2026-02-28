@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Minnesota Twins             10/7/2015
+
+[1]  Mariners           AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  D.Ackley LF         5  0  0  0 .176     D.Span CF           4  0  2  0 .438  
+  J.Segura SS         4  0  0  0 .111     B.Dozier 2B         4  0  0  0 .188  
+  K.Seager 3B         3  0  2  0 .313     J.Morneau 1B        4  0  0  0 .176  
+  V.Martinez 1B       4  0  1  0 .313     C.Carter DH         3  1  1  0 .267  
+  A.Jones CF          4  0  2  0 .412   F-T.Hunter PH         1  0  0  0 .000  
+  M.Saunders RF       3  0  1  0 .200     O.Arcia RF          3  0  1  1 .400  
+  H.Conger C          3  0  0  0 .200   G-J.Willingham PH     1  0  0  0 .000  
+A-D.Espinosa PH       1  0  0  0 .429     K.Suzuki C          3  0  0  0 .154  
+B-M.Zunino C          0  0  0  0 .222     E.Young Jr LF       3  0  0  0 .100  
+  A.Dunn DH           3  1  0  0 .167     T.Plouffe 3B        3  0  0  0 .214  
+E-M.Sierra PH,DH      1  0  0  0 .000     R.Tejada SS         2  0  0  0 .000  
+  D.Barney 2B         4  1  1  2 .250   C-J.Mauer PH          1  0  0  0 .000  
+                                        D-D.Santana SS        0  0  0  0 .154  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2  7  2                 Totals      32  1  4  1
+
+A-Pinch Hit For Conger In 8th Inning
+B-Subbed Defensively (C ) For Espinosa In 8th Inning
+C-Pinch Hit For Tejada In 8th Inning
+D-Subbed Defensively (SS) For Mauer In 9th Inning
+E-Pinch Hit For Dunn In 9th Inning
+F-Pinch Hit For Carter In 9th Inning
+G-Pinch Hit For Arcia In 9th Inning
+
+Mariners........ 0 0 0  0 2 0  0 0 0  -  2  7  1
+Twins........... 0 0 0  1 0 0  0 0 0  -  1  4  1
+
+[1]Mariners (2-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Hernandez WIN(1-1)         7 1/3   3   1   1   0   5   0   5.02  A1 C8
+T.Sipp HOLD(1st)             0 1/3   1   0   0   0   0   0   0.00  C9 D1
+W.Davis HOLD(1st)            0 2/3   0   0   0   0   3   0   0.00  D2 D4
+C.Furbush SAVE(1st)          0 2/3   0   0   0   0   0   0   0.00  D5
+[1]Totals                    9       4   1   1   0   8   0
+
+[1]Twins (2-2)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Shields LOSS(1-1)          7 2/3   7   2   1   1   3   1   3.86  A1 D5
+G.Perkins                    1 1/3   0   0   0   1   2   0   0.00  D6
+[1]Totals                    9       7   2   1   2   5   1
+
+ATTENDANCE- 37,549 DATE- Wednesday, October 7th 2015 TIME- Night 
+UMPIRES- Scott Barry, John Hirschbeck, Wally Bell, Laz Diaz
+T- 3:06
+LEFT ON BASE- Mariners: 8  Twins: 4
+DOUBLE PLAYS- Mariners: 0  Twins: 0
+ERRORS- K.Seager, B.Dozier
+DOUBLES- A.Jones(2nd), C.Carter(1st), O.Arcia(1st)
+HOME RUNS- D.Barney(1st)
+RBIs- D.Barney-2(2nd), O.Arcia(2nd)
+STOLEN BASES- E.Young Jr(2nd)
+CAUGHT STEALING- T.Hunter
+WALKS- K.Seager, M.Saunders
+STRIKE OUTS- D.Ackley-2, J.Segura-2, D.Barney, B.Dozier-2, J.Morneau, C.Carter,
+             T.Hunter, O.Arcia, K.Suzuki, T.Plouffe
+WILD PITCHES- W.Davis
+2-out RBI- O.Arcia
+RLISP 2-out- C.Carter, A.Dunn, H.Conger, K.Suzuki, D.Espinosa-2, B.Dozier
+TEAM RISP- Mariners: 0 for 5  Twins: 2 for 8
+
+Felix Hernandez went 7 and one third strong innings as the Seattle Mariners
+defeated the Minnesota Twins by a score of 2 to 1 at Target Field.
+
+Seattle scored 2 runs in the top of the 5th inning.  The highlight belonged to
+Darwin Barney who quieted the crowd when he popped a two-run clout over the
+fence.  Seattle ended up with 7 hits for the game while Minnesota had 4.
+
+The win went to Hernandez(1-1) who allowed 1 run in 7 and 1/3 innings. Charlie
+Furbush gained credit for his 1st save.  James Shields(1-1) was the losing
+pitcher.  He surrendered 2 runs and 7 hits in 7 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Minnesota Twins
+D.Ackley-A1  A1:G/31    B1:K       C1:F/9     D1:P/4     E1:K
+                                                         
+                                                         
+J.Segura-A1  A2:F/8     B2:K       C2:G/43    *8*:K
+                                              
+                                              
+K.Seager-A1  A3:Si      *4*:W>b1   C3:Si      D3:G/31
+                                              
+                                              
+V.Martin-A1  A4:G/63    B4:P/3     C4:G/13    D4:Si
+                                              
+                                              
+A.Jones-A1   *2*:Do     B5:L/6     *6*:L/6    D5:Si>12
+                                              
+                                              
+M.Saunde-A1  A6:P/1     B6:Si>13   C6:G/43    D6:W>23 1
+                                              2 b1
+                                              
+H.Conger-A1  A7:F/9     B7:G/43    C7:F/7     D7:G/43
+D.Espino-D7                                   
+M.Zunino-D8                                   
+A.Dunn-A1    A8:F/9     *5*:E/4    *7*:F/9    *9*:L/5
+M.Sierra-D8                                   
+                                              
+D.Barney-A1  *3*:G/53   B9:HR>1#   C9:G/63    D9:K
+                        b#                    
+                                              
+
+D.Span-A1    A1:Si      B1:P/6     *6*:F/9    D1:Si>23
+                                              
+                                              
+B.Dozier-A1  A2:G/43>1  *4*:K      C2:F/9     D2:K
+             2                                
+                                              
+J.Mornea-A1  A3:F/8     B3:P/6     C3:F/8     *9*:K
+                                              
+                                              
+C.Carter-A1  A4:F/8     B4:Do      *7*:K      D4:WP+K>b
+T.Hunter-D4                                   1
+                                              
+O.Arcia-A1   *2*:G/3    B5:Do>2#   C5:K       D5:CS/24>
+J.Willin-D5                                   1o F/7
+                                              
+K.Suzuki-A1  A6:G/53    B6:L/6     C6:K
+                                   
+                                   
+E.Young -A1  A7:F/9     *5*:F/8    *8*:E/5
+                                   
+                                   
+T.Plouff-A1  *3*:G/43   B8:G/63    C8:SB>12
+                                   K
+                                   
+R.Tejada-A1  A9:G/53    B9:G/63    C9:F/7
+J.Mauer-C9                         
+D.Santan-D3                        
+
+

@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Minnesota Twins             10/8/2015
+
+[1]  Mariners           AB  R  H RBI AVG     Twins              AB  R  H RBI AVG
+  J.Segura SS         5  1  0  0 .087     D.Span CF           4  0  0  0 .350  
+  D.Ackley LF         4  2  2  0 .238     B.Dozier 2B         4  0  1  0 .200  
+  V.Martinez 1B       5  1  4  2 .429     T.Hunter RF         4  0  0  0 .000  
+  K.Seager 3B         4  1  2  1 .350     J.Morneau 1B        4  0  0  0 .143  
+  A.Jones CF          4  0  0  1 .333     C.Carter DH         4  1  3  1 .368  
+  M.Saunders RF       3  0  1  0 .250     T.Plouffe 3B        2  0  1  0 .250  
+  D.Espinosa 2B       4  0  1  1 .364     J.Willingham LF     3  0  0  0 .000  
+  A.Dunn DH           2  0  2  0 .286     D.Santana SS        2  0  0  0 .133  
+C-W.Flores PH,DH      1  0  0  0 .143   A-J.Mauer PH          1  0  0  0 .000  
+  M.Zunino C          4  0  0  0 .154   B-R.Tejada SS         0  0  0  0 .000  
+                                        D-O.Arcia PH          1  0  0  0 .375  
+                                          K.Suzuki C          3  0  0  0 .125  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  5 12  5                 Totals      32  1  5  1
+
+A-Pinch Hit For Santana In 7th Inning
+B-Subbed Defensively (SS) For Mauer In 8th Inning
+C-Pinch Hit For Dunn In 8th Inning
+D-Pinch Hit For Tejada In 9th Inning
+
+Mariners........ 0 0 0  3 1 0  0 0 1  -  5 12  0
+Twins........... 0 0 0  0 0 0  1 0 0  -  1  5  1
+
+[1]Mariners (3-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Deduno WIN(1-0)            6 1/3   3   1   1   2   7   1   1.42  A1 C6
+W.Davis HOLD(2nd)            1 2/3   0   0   0   0   1   0   0.00  C7 D2
+H.Rondon                     0 2/3   2   0   0   1   1   0   0.00  D3 D7
+T.Sipp SAVE(1st)             0 1/3   0   0   0   0   1   0   0.00  D8
+[1]Totals                    9       5   1   1   3  10   1
+
+[1]Twins (2-3)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Gibson LOSS(0-1)           8 1/3  11   5   4   4   1   0   4.32  A1 E2
+R.Soriano                    0 2/3   1   0   0   0   2   0   0.00  E3
+[1]Totals                    9      12   5   4   4   3   0
+
+ATTENDANCE- 37,966 DATE- Thursday, October 8th 2015 TIME- Night 
+UMPIRES- Tim Welke, Jim Reynolds, Mike Dimuro, Andy Fletcher
+T- 2:47
+LEFT ON BASE- Mariners: 9  Twins: 7
+DOUBLE PLAYS- Mariners: 0  Twins: 3
+ERRORS- J.Morneau
+DOUBLES- D.Ackley(1st), A.Dunn(1st)
+TRIPLES- V.Martinez(1st)
+HOME RUNS- C.Carter(3rd)
+RBIs- V.Martinez-2(4th), K.Seager(3rd), A.Jones(4th), D.Espinosa(1st),
+      C.Carter(6th)
+STOLEN BASES- B.Dozier(1st)
+SACRIFICE FLIES- A.Jones
+WALKS- D.Ackley, K.Seager, M.Saunders, A.Dunn, T.Plouffe-2, J.Willingham
+STRIKE OUTS- K.Seager, A.Jones-2, B.Dozier-2, T.Hunter, J.Morneau-2, C.Carter,
+             T.Plouffe, J.Willingham-2, O.Arcia
+GIDP- A.Jones, M.Zunino-2
+RLISP 2-out- J.Morneau, M.Saunders, J.Segura, J.Mauer, A.Jones, O.Arcia-2
+TEAM RISP- Mariners: 4 for 11  Twins: 0 for 4
+WEB GEMS- Bot 3rd: Dustin Ackley robbed Denard Span of an extra base hit.
+
+Victor Martinez had 4 hits and 2 RBI as the Seattle Mariners topped the
+Minnesota Twins by a score of 5 to 1 at Target Field.
+
+Samuel Deduno(1-0) had a solid outing for Seattle.  He surrendered 3 hits and
+2 walks in 6 and 1/3 innings.  Deduno mowed down 7 Minnesota batters.
+Seattle had 12 hits for the game and Minnesota had 5.  
+
+Tony Sipp got the save, his 1st.  Kyle Gibson(0-1) ended up with the loss.  He
+got hammered, allowing 11 hits and 4 walks in 8 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Minnesota Twins
+J.Segura-A1  A1:L/6     B1:G/43    *5*:G/53   D1:G/53    E1:E/3
+                                                         
+                                                         
+D.Ackley-A1  A2:G/43    *4*:Do     C2:W>b1    *7*:F/7    E2:Si>12
+                                                         
+                                                         
+V.Martin-A1  A3:G/43    B3:Tr>2#   C3:Si>12   D3:Si      E3:Si>2#
+                                                         13
+                                                         
+K.Seager-A1  *2*:Si     B4:W>b1    C4:Si>2#   D4:F/9     E4:K
+                                   13                    
+                                                         
+A.Jones-A1   A5:G-DP/6  B5:SF/8>3  C5:K       D5:F/8     E5:K
+             43>1o      #                                
+                                                         
+M.Saunde-A1  A6:W>b1    B6:Si>12   C6:G/43    *8*:G/31
+                                              
+                                              
+D.Espino-A1  A7:G/3     B7:Si>2#   *6*:G/43   D7:G/43
+                        13                    
+                                              
+A.Dunn-A1    *3*:Si     B8:W>12 b  C8:Do      D8:F/8
+W.Flores-D8             1                     
+                                              
+M.Zunino-A1  A9:G-DP/6  B9:G-DP/6  C9:F/8     *9*:G/53
+             43>1o      43>1o                 
+                                              
+
+D.Span-A1    A1:G/63    B1:F/7     *6*:P/6    D1:G/63
+                                              
+                                              
+B.Dozier-A1  A2:Si      B2:K       C2:F/8     D2:K
+                                              
+                                              
+T.Hunter-A1  A3:SB>12   *4*:G/53   C3:G/53    *9*:K
+             G/53                             
+                                              
+J.Mornea-A1  A4:K       B4:G/13    *7*:K      D4:G/63
+                                              
+                                              
+C.Carter-A1  *2*:K      B5:Si      C5:HR>b#   D5:Si
+                                              
+                                              
+T.Plouff-A1  A6:W>b1    B6:K       C6:W>b1    D6:Si>13
+                                              
+                                              
+J.Willin-A1  A7:K       *5*:K      C7:G/43>1  D7:W>12 b
+                                   2          1
+                                              
+D.Santan-A1  A8:Force/  B8:G/63    C8:G/63    D8:K
+J.Mauer-C8   64>1o b1                         
+R.Tejada-C9+                                  
+K.Suzuki-A1  *3*:FO/5   B9:FO/2    *8*:G/31
+                                   
+                                   
+
+

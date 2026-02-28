@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2015 Chicago (AL) White Sox At 2015 Seattle Mariners     10/20/2015
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.Jones RF          4  0  1  0 .313     A.Dunn DH           5  1  2  2 .276  
+  A.De Aza LF         4  0  1  0 .204     J.Segura SS         5  2  2  0 .222  
+  J.Altuve 2B         3  0  2  0 .360     V.Martinez 1B       3  0  0  0 .327  
+  J.Abreu DH          4  0  1  0 .392     K.Seager 3B         5  1  2  2 .362  
+  A.Laroche 1B        1  0  0  0 .243     A.Jones CF          3  0  3  1 .367  
+D-C.Owings PH,1B      1  0  0  0 .167     D.Ackley LF         5  0  0  0 .182  
+  J.Lucroy C          4  0  1  0 .327     M.Gonzalez 2B       3  0  1  0 .238  
+  C.Gillaspie 3B      3  0  1  0 .263   B-M.Olt PH            1  0  0  0 .000  
+E-A.Rios PH           1  0  0  0 .600   C-D.Barney 2B         0  0  0  0 .250  
+  A.Ramirez SS        4  0  0  0 .234     M.Saunders RF       4  1  1  0 .222  
+  K.Kiermaier CF      4  0  0  0 .200     H.Conger C          2  1  2  0 .500  
+                                        A-M.Zunino PH,C       2  1  2  2 .303  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  0  7  0                 Totals      38  7 15  7
+
+A-Pinch Hit For Conger In 6th Inning
+B-Pinch Hit For Gonzalez In 7th Inning
+C-Subbed Defensively (2B) For Olt In 8th Inning
+D-Pinch Hit For Laroche In 8th Inning
+E-Pinch Hit For Gillaspie In 9th Inning
+
+White Sox....... 0 0 0  0 0 0  0 0 0  -  0  7  0
+Mariners........ 2 2 0  0 0 2  0 1    -  7 15  1
+
+[1]White Sox (6-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Tillman LOSS(1-2)          5       9   5   5   2   2   2   4.94  A1 C8
+D.Eveland                    0 2/3   2   1   1   1   1   1   9.82  C9 D4
+B.Morris                     0       1   0   0   0   0   0   0.00  D5 D5
+Z.Duke                       1 1/3   2   1   1   0   2   0   6.23  D6 E2
+B.Boxberger                  1       1   0   0   0   2   0   7.20  E3
+[1]Totals                    8      15   7   7   3   7   3
+
+[1]Mariners (8-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma WIN(2-1)           7 1/3   7   0   0   3   7   0   1.74  A1 D4
+T.Sipp                       1 2/3   0   0   0   0   2   0   0.00  D5
+[1]Totals                    9       7   0   0   3   9   0
+
+ATTENDANCE- 44,449 DATE- Tuesday, October 20th 2015 TIME- Night 
+UMPIRES- Sam Holbrook, Gerry Davis, Bill Hohn, Greg Gibson
+T- 3:23
+LEFT ON BASE- White Sox: 9  Mariners:11
+DOUBLE PLAYS- White Sox: 0  Mariners: 0
+ERRORS- M.Gonzalez
+DOUBLES- A.De Aza(3rd), A.Dunn(2nd), J.Segura(2nd), A.Jones(3rd),
+         M.Saunders(1st), H.Conger(2nd), M.Zunino(2nd)
+HOME RUNS- A.Dunn(1st), K.Seager(2nd), M.Zunino(3rd)
+RBIs- A.Dunn-2(3rd), K.Seager-2(8th), A.Jones(12th), M.Zunino-2(5th)
+STOLEN BASES- J.Segura(4th)
+CAUGHT STEALING- J.Altuve
+SACRIFICE FLIES- A.Jones
+WALKS- J.Altuve, A.Laroche-2, V.Martinez-2, A.Jones
+STRIKE OUTS- J.Jones-2, J.Abreu-2, A.Laroche, C.Owings, J.Lucroy-2, C.Gillaspie,
+             A.Dunn-2, V.Martinez, D.Ackley-3, M.Olt
+WILD PITCHES- C.Tillman, H.Iwakuma
+2-out RBI- K.Seager-2, A.Dunn-2
+RLISP 2-out- D.Ackley-3, A.Ramirez, C.Gillaspie-2, J.Segura, M.Gonzalez,
+             J.Lucroy-3, A.Dunn
+TEAM RISP- White Sox: 2 for 9  Mariners: 4 for 14
+
+Designated hitter Adam Dunn homered and had 2 RBI as the Seattle Mariners
+defeated the Chicago (AL) White Sox by a score of 7 to 0 at SAFECO
+Field.
+
+Hisashi Iwakuma(2-1) earned his pay with a solid performance for Seattle.  He
+was reached for 7 hits and 3 walks in 7 and 1/3 innings lowering his ERA to
+1.74.  Chicago (AL) was out-hit by Seattle, 15 hits to 7.  
+
+Chris Tillman(1-2) took the loss.  He allowed 9 hits and 2 walks in 5 innings.
+Seattle now has a record of 8-4.  With the loss, Chicago (AL) has a record
+of 5-5 lately, 6-7 overall.
+[2]
+[1]SCORESHEET: 2015 Chicago (AL) White Sox at 2015 Seattle Mariners
+J.Jones-A1   A1:K       B1:G/63    C1:K       *8*:Si
+                                              
+                                              
+A.De Aza-A1  A2:F/7     B2:G/43    *6*:Do     D2:WP>12
+                                              F/8
+                                              
+J.Altuve-A1  A3:G/31    *4*:Si     C3:Si>23   D3:W>b1
+                                              
+                                              
+J.Abreu-A1   *2*:F/7    B4:K       C4:CS/24>  D4:Si>23
+                                   1o K       12
+                                              
+A.Laroch-A1  A5:W>b1    B5:K       C5:W>b1    D5:K
+C.Owings-D5                                   
+                                              
+J.Lucroy-A1  A6:K       B6:Si+E/4  C6:G/63    D6:K
+                        >13                   
+                                              
+C.Gillas-A1  A7:Si>12   B7:K       *7*:G/43   *9*:F/9
+A.Rios-D7                                     
+                                              
+A.Ramire-A1  A8:G/63    *5*:G/63   C8:G/63    D8:F/7
+                                              
+                                              
+K.Kierma-A1  *3*:G/63   B9:G/63    C9:FO/2    D9:F/8
+                                              
+                                              
+
+A.Dunn-A1    A1:Do      B1:HR>2#   C1:K       D1:K       E1:P/6
+                        b#                               
+                                                         
+J.Segura-A1  A2:WP>23   B2:FO/5    C2:F/7     D2:Do      *8*:Si
+             FC/12>3o                                    
+                                                         
+V.Martin-A1  A3:P/3     *3*:F/8    *5*:W>b1   D3:IW>b1   E3:SB>12
+                                                         K
+                                                         
+K.Seager-A1  A4:HR>1#   B4:L/4     C4:L/4     D4:P/2     E4:Si>23
+             b#                                          
+                                                         
+A.Jones-A1   A5:Do      B5:W>b1    C5:Si>13   D5:Si>23   E5:SF/7>3
+                                              12         #
+                                                         
+D.Ackley-A1  A6:L/3     B6:G/23    C6:K       D6:K       E6:K
+                                                         
+                                                         
+M.Gonzal-A1  *2*:F/7    *4*:Si     C7:G/43    *7*:K
+M.Olt-D7                                      
+D.Barney-E2                                   
+M.Saunde-A1  A8:P/3     B8:P/3     *6*:Do     D8:G/63
+                                              
+                                              
+H.Conger-A1  A9:Do      B9:Si>12   C9:HR>2#   D9:Do
+M.Zunino-C9                        b#         
+                                              
+
+

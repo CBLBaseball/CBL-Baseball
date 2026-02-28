@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2015 Chicago (AL) White Sox At 2015 Seattle Mariners     10/14/2015
+
+[1]  White Sox          AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  A.De Aza LF         4  1  2  1 .176     J.Segura SS         3  1  2  0 .182  
+  J.Altuve 2B         4  1  1  0 .294     K.Seager 3B         3  1  1  0 .345  
+  J.Abreu DH          4  0  1  0 .405     V.Martinez 1B       4  1  2  4 .333  
+  J.Lucroy C          4  0  1  1 .314     W.Flores DH         4  0  0  0 .214  
+  A.Laroche 1B        2  0  0  0 .214     A.Dunn RF           3  0  0  0 .235  
+C-C.Owings PH,1B      1  0  0  0 .000   B-M.Zunino C          1  0  0  0 .238  
+I-A.Rios PH,3B        1  0  1  1 .667     A.Jones CF          4  1  1  1 .281  
+  C.Gillaspie 3B      2  0  0  0 .286     D.Ackley LF         3  0  0  0 .226  
+D-M.Semien PH         0  0  0  0 .000     D.Barney 2B         3  0  0  0 .167  
+E-E.Herrera PH,3B     1  0  0  0 .400     H.Conger C          2  0  2  0 .375  
+J-D.Robertson PH,1B   1  0  0  0 .286   A-M.Saunders PR,RF    0  1  0  0 .250  
+  R.Braun RF          2  1  1  0 .194   G-M.Gonzalez PH       1  0  0  0 .100  
+F-J.Jones PH,RF       2  0  0  0 .143   H-M.Sierra RF         0  0  0  0 .000  
+  A.Ramirez SS        4  0  0  0 .242                                          
+  K.Kiermaier CF      3  0  0  0 .300                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  3  7  3                 Totals      31  5  8  5
+
+A-Pinch Ran For Conger In 5th Inning
+B-Subbed Defensively (C ) For Dunn In 6th Inning
+C-Pinch Hit For Laroche In 6th Inning
+D-Pinch Hit For Gillaspie In 6th Inning
+E-Pinch Hit For Semien In 6th Inning
+F-Pinch Hit For Braun In 7th Inning
+G-Pinch Hit For Saunders In 7th Inning
+H-Subbed Defensively (RF) For Gonzalez In 8th Inning
+I-Pinch Hit For Owings In 8th Inning
+J-Pinch Hit For Herrera In 8th Inning
+
+White Sox....... 0 0 1  0 0 1  0 1 0  -  3  7  0
+Mariners........ 1 1 0  0 3 0  0 0    -  5  8  2
+
+[1]White Sox (5-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Estrada LOSS(0-1)          5 2/3   8   5   5   0   4   2   5.63  A1 C7
+B.Morris                     1 2/3   0   0   0   1   0   0   0.00  C8 D4
+J.De Fratus                  0 2/3   0   0   0   0   2   0   5.40  D5
+[1]Totals                    8       8   5   5   1   6   2
+
+[1]Mariners (5-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+H.Iwakuma WIN(1-1)           5 1/3   5   2   2   0   3   0   2.70  A1 C4
+C.Furbush HOLD(1st)          0 1/3   0   0   0   0   0   0   0.00  C5 C5
+W.Davis HOLD(3rd)            1 1/3   0   0   0   1   0   0   0.00  C6 D1
+B.Shaw                       0 2/3   2   1   1   0   0   0   2.70  D2 D5
+T.Sipp SAVE(2nd)             1 1/3   0   0   0   0   2   0   0.00  D6
+[1]Totals                    9       7   3   3   1   5   0
+
+ATTENDANCE- 43,460 DATE- Wednesday, October 14th 2015 TIME- Night 
+UMPIRES- Andy Fletcher, Tim Welke, Jim Reynolds, Mike Dimuro
+T- 2:53
+LEFT ON BASE- White Sox: 6  Mariners: 4
+DOUBLE PLAYS- White Sox: 1  Mariners: 1
+ERRORS- J.Segura, H.Iwakuma
+DOUBLES- J.Lucroy(5th), R.Braun(1st)
+HOME RUNS- V.Martinez(1st), A.Jones(3rd)
+RBIs- A.De Aza(2nd), J.Lucroy(3rd), A.Rios(3rd), V.Martinez-4(8th),
+      A.Jones(5th)
+STOLEN BASES- J.Altuve(3rd), A.Ramirez(1st), J.Segura(2nd), M.Saunders(1st)
+WALKS- K.Kiermaier, K.Seager
+HIT BY PITCH- J.Segura
+STRIKE OUTS- J.Abreu, A.Laroche, J.Jones, A.Ramirez, K.Kiermaier, J.Segura,
+             K.Seager, A.Dunn, M.Zunino, A.Jones, D.Barney
+GIDP- A.De Aza, V.Martinez
+2-out RBI- A.De Aza, A.Rios
+RLISP 2-out- K.Seager, E.Herrera-2
+TEAM RISP- White Sox: 3 for 10  Mariners: 3 for 6
+
+Victor Martinez left the yard and had 4 RBI as the Seattle Mariners bested the
+Chicago (AL) White Sox 5 to 3 at SAFECO Field.
+
+Seattle started with a bang, jumping out to an early lead in their half of the
+first scoring a single run utilizing 2 base hits.  Seattle finished with 8
+hits in the victory.  
+
+Hisashi Iwakuma(1-1) allowed 2 runs in 5 and 1/3 innings, and picked up the
+victory. Tony Sipp preserved the game for Iwakuma, recording his his 2nd
+save.  Marco Estrada(0-1) was the loser.  He surrendered 5 runs and 8 hits in
+5 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2015 Chicago (AL) White Sox at 2015 Seattle Mariners
+A.De Aza-A1  A1:F/7     B1:Si>3#   *6*:Si     D1:G-DP/6
+                                              43>1o
+                                              
+J.Altuve-A1  A2:G/63    B2:L/5     C2:F/8     *8*:Si
+                                              
+                                              
+J.Abreu-A1   A3:F/7     *4*:K      C3:Si>13   D3:SB>12
+                                              P/6
+                                              
+J.Lucroy-A1  *2*:G/63   B4:G/53    C4:Do>3#   D4:L/6
+                                   13         
+                                              
+A.Laroch-A1  A5:K       B5:E/1     C5:L/6     D5:Si>2#
+C.Owings-C5                                   
+A.Rios-D5                                     
+C.Gillas-A1  A6:G/63    B6:G/43    C6:G/31    D6:FO/2
+M.Semien-C6                                   
+E.Herrer-C6+                                  
+R.Braun-A1   *3*:Do     *5*:L/5    *7*:L/4    *9*:K
+J.Jones-C7                                    
+                                              
+A.Ramire-A1  A8:G/43>2  B8:F/8     C8:E/6     D8:K
+             3                                
+                                              
+K.Kierma-A1  A9:K       B9:G/3     C9:SB>12   D9:G/43
+                                   W>b1       
+                                              
+
+J.Segura-A1  A1:Si      B1:Si>12   C1:SB>12   D1:HBP
+                                   K          
+                                              
+K.Seager-A1  A2:L/4     B2:K       C2:Si>23   D2:W>12 b
+                                              1
+                                              
+V.Martin-A1  A3:SB>12   *3*:F/9    C3:HR>3#   D3:G-DP/6
+             Si>2#                 1# b#      43>1o
+                                              
+W.Flores-A1  A4:L/6     B4:P/6     C4:FO/2    *8*:F/8
+                                              
+                                              
+A.Dunn-A1    A5:K       B5:L/4     C5:L/3     D5:K
+M.Zunino-C6                                   
+                                              
+A.Jones-A1   *2*:HR>b#  *4*:G/3    *6*:F/7    D6:K
+                                              
+                                              
+D.Ackley-A1  A7:G/43    B7:FO/2    C7:P/4
+                                   
+                                   
+D.Barney-A1  A8:F/8     B8:K       C8:P/5
+                                   
+                                   
+H.Conger-A1  A9:Si      *5*:Si     *7*:G/43
+M.Saunde-C1                        
+M.Gonzal-C9+                       
+
+

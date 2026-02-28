@@ -1,0 +1,148 @@
+[1]BOXSCORE: 2015 Seattle Mariners At 2015 Chicago (AL) White Sox     10/16/2015
+
+[1]  Mariners           AB  R  H RBI AVG     White Sox          AB  R  H RBI AVG
+  A.Dunn DH           5  0  1  0 .227     A.De Aza LF,1B,LF   5  1  2  0 .205  
+G-M.Sierra PR,DH      0  1  0  0 .000     J.Altuve 2B         4  0  0  1 .263  
+  J.Segura SS         5  0  1  0 .184     J.Abreu DH          4  1  3  1 .439  
+  V.Martinez 1B       4  2  1  0 .324     J.Lucroy C          5  1  2  2 .325  
+  K.Seager 3B         5  1  2  1 .353     A.Laroche 1B        2  0  0  0 .200  
+  A.Jones CF          5  2  3  4 .324   C-D.Robertson PH      0  1  0  0 .286  
+  M.Saunders RF       3  1  0  0 .182   F-M.Semien 3B         1  0  0  0 .000  
+  D.Barney 2B         4  0  2  1 .250     C.Gillaspie 3B      3  0  0  0 .258  
+H-M.Gonzalez PH,2B    1  0  1  0 .182   D-A.Rios PH           0  0  0  0 .667  
+  D.Ackley LF         5  0  1  1 .222   E-J.Jones PH,LF,RF    1  0  0  0 .125  
+  M.Zunino C          4  0  1  0 .240     R.Braun RF,1B       4  1  1  2 .200  
+                                          A.Ramirez SS        2  0  0  0 .229  
+                                        A-E.Herrera PH        1  1  1  0 .500  
+                                        B-C.Owings SS         1  0  0  0 .000  
+                                          K.Kiermaier CF      3  0  0  0 .261  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  7 13  7                 Totals      36  6  9  6
+
+A-Pinch Hit For Ramirez In 8th Inning
+B-Subbed Defensively (SS) For Herrera In 9th Inning
+C-Pinch Hit For Laroche In 9th Inning
+D-Pinch Hit For Gillaspie In 9th Inning
+E-Pinch Hit For Rios In 9th Inning
+F-Subbed Defensively (3B) For Robertson In 10th Inning
+G-Pinch Ran For Dunn In 10th Inning
+H-Pinch Hit For Barney In 10th Inning
+
+Mariners........ 0 0 0  2 0 0  0 0 2  3 -  7 13  0
+White Sox....... 0 0 0  0 0 0  0 2 2  2 -  6  9  0
+
+[1]Mariners (6-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Fister                     8       7   2   2   0   1   0   2.28  A1 D4
+C.Furbush                    0       0   1   1   1   0   0   6.75  D5 D5
+W.Davis WIN(1-0) BS(1st)     1       1   1   1   1   1   1   1.42  D6 D9
+H.Rondon SAVE(1st)           1       1   2   2   1   0   1  12.00  E1
+[1]Totals                   10       9   6   6   3   2   2
+
+[1]White Sox (5-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Tillman                    8 2/3   8   4   4   1   9   1   4.03  A1 D7
+D.Eveland LOSS(0-1)          0 1/3   2   1   1   0   1   0  10.13  D8 E1
+B.Morris                     0 1/3   0   0   0   0   0   0   0.00  E2 E2
+B.Boxberger                  0       2   2   2   1   0   0  10.80  E3 E5
+Z.Duke                       0 2/3   1   0   0   0   1   0   3.00  E6
+[1]Totals                   10      13   7   7   2  11   1
+
+ATTENDANCE- 37,440 DATE- Friday, October 16th 2015 TIME- Night 
+UMPIRES- Jerry Meals, C.B. Bucknor, Dan Iassogna, Dale Scott
+T- 3:07
+LEFT ON BASE- Mariners: 7  White Sox: 5
+DOUBLE PLAYS- Mariners: 2  White Sox: 0
+DOUBLES- J.Segura(1st), A.De Aza(2nd), J.Abreu(4th)
+HOME RUNS- A.Jones(4th), J.Lucroy(1st), R.Braun(3rd)
+RBIs- K.Seager(5th), A.Jones-4(9th), D.Barney(3rd), D.Ackley(2nd),
+      J.Altuve(2nd), J.Abreu(7th), J.Lucroy-2(5th), R.Braun-2(5th)
+STOLEN BASES- D.Robertson(1st)
+CAUGHT STEALING- K.Kiermaier
+SACRIFICE HITS- M.Saunders
+WALKS- V.Martinez, M.Saunders, J.Abreu, D.Robertson, K.Kiermaier
+HIT BY PITCH- J.Altuve, A.Laroche
+STRIKE OUTS- A.Dunn, J.Segura, V.Martinez-2, K.Seager-2, A.Jones, M.Saunders,
+             D.Ackley, M.Zunino-2, A.De Aza, C.Owings
+GIDP- J.Altuve
+WILD PITCHES- C.Tillman-2
+2-out RBI- A.Jones-2, J.Abreu, D.Barney, D.Ackley, J.Lucroy-2
+RLISP 2-out- K.Seager, A.Laroche, M.Zunino, D.Ackley
+TEAM RISP- Mariners: 6 for 10  White Sox: 2 for 7
+WEB GEMS- Bot 1st: Michael Saunders robbed Adam Laroche of an extra base hit.
+          Top 5th: Chris Tillman robbed Darwin Barney of a base hit.
+
+Center fielder Adam Jones jacked one out of the ballyard and had 4 RBI as the
+Seattle Mariners defeated the Chicago (AL) White Sox in 10 innings by a score
+of 7 to 6 at US Cellular Field.
+
+The score was knotted at 4 after nine innings.  Seattle came out the victor in
+the 10th inning.  Adam Dunn started the inning off right when he ripped a
+one-base hit.  After an out was recorded, Victor Martinez stepped in and he
+drew a walk.  Kyle Seager then hit a single.  Seager took second on the
+throw.  Jones was up next and he lashed a single.  Michael Saunders came to
+the plate and laid down a sacrifice bunt.  Marwin Gonzalez added to the
+outburst and slapped a base-hit.  Dustin Ackley was the next batter, but he
+struck out.  Chicago (AL) was out-hit by Seattle, 13 hits to 9.  
+
+The winning pitcher was Wade Davis(1-0) who allowed 1 run in 1 inning. Hector
+Rondon was credited with his 1st save.  The loss was charged to Dana
+Eveland(0-1) in relief.  
+
+[2]
+[1]SCORESHEET: 2015 Seattle Mariners at 2015 Chicago (AL) White Sox
+A.Dunn-A1    A1:K       B1:P/3     C1:G/63    D1:G/43    *10*:Si
+M.Sierra-E2                                              
+                                                         
+J.Segura-A1  A2:Do      *4*:P/6    *6*:K      D2:F/8     E2:G/43>1
+                                                         2
+                                                         
+V.Martin-A1  A3:L/4     B3:Si      C3:K       *9*:K      E3:W>b1
+                                                         
+                                                         
+K.Seager-A1  A4:K       B4:K       C4:F/7     D4:Si      E4:Si>2#
+                                                         13
+                                                         
+A.Jones-A1   *2*:G/13   B5:HR>1#   *7*:K      D5:WP>12   E5:Si>3#
+                        b#                    Si>2o      2#
+                                                         
+M.Saunde-A1  A6:P/3     B6:F/7     C6:K       D6:IW>b1   E6:Sac/14
+                                                         >12
+                                                         
+D.Barney-A1  A7:L/6     *5*:G/13   C7:Si      D7:WP>23   E7:Si>23
+M.Gonzal-E7                                   12 Si>3#   
+                                              23         
+D.Ackley-A1  *3*:L/4    B8:P/4     C8:F/7     D8:Si>3#   E8:K
+                                              12         
+                                                         
+M.Zunino-A1  A9:F/8     B9:Si      *8*:K      D9:K
+                                              
+                                              
+
+A.De Aza-A1  A1:K       B1:Si      C1:F/7     D1:Do>13   *10*:G/43
+                                                         
+                                                         
+J.Altuve-A1  A2:L/4     B2:G-DP/6  C2:HBP     D2:G/43>3  E2:G/53
+                        43>1o                 # 23       
+                                                         
+J.Abreu-A1   A3:Si      *4*:Do     C3:G/3     D3:Si>3#   E3:W>b1
+                                                         
+                                                         
+J.Lucroy-A1  A4:Si>13   B4:G/43>2  *7*:G/53   D4:L/6     E4:HR>1#
+                        3                                b#
+                                                         
+A.Laroch-A1  A5:F/9     B5:L-DP/3  C5:HBP     *9*:W>b1   E5:F/8
+D.Robert-D5             5>3o                             
+M.Semien-E1                                              
+C.Gillas-A1  *2*:F/9    *5*:P/5    C6:Force/  D6:SB>12
+A.Rios-D6                          64>1o b1   G/13
+J.Jones-D6                                    
+R.Braun-A1   A7:G/43    B7:G/31    C7:G/53    D7:HR>2#
+                                              b#
+                                              
+A.Ramire-A1  A8:FO/3    B8:G/63    *8*:Si     D8:K
+E.Herrer-C8                                   
+C.Owings-D5                                   
+K.Kierma-A1  *3*:L/4    *6*:F/7    C9:L/4     D9:W>b1 C
+                                              S/26>1o
+                                              
+
+
