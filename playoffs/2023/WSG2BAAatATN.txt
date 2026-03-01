@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Atlanta Braves            10/23/2023
+
+[1]  Orioles            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  Y.Grandal C         5  0  0  0 .154     C.Yelich LF         4  1  1  0 .237  
+  C.Hernandez 2B      4  2  3  0 .333     J.Realmuto C        4  2  3  1 .325  
+  Y.Alvarez DH        4  0  1  0 .293     M.Harris CF         5  0  1  1 .214  
+  A.Santander LF      3  0  1  2 .300     A.Riley 3B          2  1  0  1 .159  
+  K.Tucker RF,CF      4  0  0  0 .262     F.Freeman 1B        3  0  0  0 .233  
+  R.Mountcastle 1B    4  0  1  0 .228     R.Acuna RF          2  0  0  0 .289  
+  R.Urias 3B          3  0  0  0 .125   A-M.Taylor PH,RF      2  1  2  0 .313  
+D-A.Verdugo PH        1  0  0  0 .261     W.Contreras DH      2  1  1  1 .357  
+  A.Thomas CF         2  0  0  0 .182     N.Gordon 2B         3  1  2  0 .214  
+C-A.Hays PH,RF        2  0  1  0 .222   B-O.Albies 2B         1  0  1  2 .286  
+  J.Mateo SS          4  0  1  0 .204     D.Swanson SS        4  1  1  2 .293  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  2  8  2                 Totals      32  8 12  8
+
+A-Pinch Hit For Acuna In 5th Inning
+B-Subbed Defensively (2B) For Gordon In 6th Inning
+C-Pinch Hit For Thomas In 7th Inning
+D-Pinch Hit For Urias In 9th Inning
+
+Orioles......... 1 0 0  0 0 0  0 1 0  -  2  8  0
+Braves.......... 0 5 0  1 0 0  2 0    -  8 12  1
+
+[1]Orioles (11-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes LOSS(4-2)           4 2/3   9   6   6   1   4   3   4.12  A1 C8
+D.Tate                       1 1/3   0   0   0   0   2   0   2.84  C9 D3
+K.Akin                       2       3   2   2   0   2   0   6.00  D4
+[1]Totals                    8      12   8   8   1   8   3
+
+[1]Braves (9-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Fried WIN(3-0)             9       8   2   2   1  10   0   1.44  A1
+[1]Totals                    9       8   2   2   1  10   0
+
+ATTENDANCE- 37,282 DATE- Monday, October 23rd 2023 TIME- Night 
+UMPIRES- Bruce Dreckman, Pat Hoberg, Paul Emmel, James Hoye
+T- 2:55
+LEFT ON BASE- Orioles: 8  Braves: 7
+DOUBLE PLAYS- Orioles: 1  Braves: 0
+ERRORS- O.Albies
+DOUBLES- C.Hernandez-2(3rd), Y.Alvarez(4th), A.Hays(3rd)
+HOME RUNS- J.Realmuto(3rd), W.Contreras(4th), D.Swanson(4th)
+RBIs- A.Santander-2(9th), J.Realmuto(6th), M.Harris(5th), A.Riley(6th),
+      W.Contreras(9th), O.Albies-2(5th), D.Swanson-2(10th)
+SACRIFICE HITS- W.Contreras-2
+SACRIFICE FLIES- A.Riley
+WALKS- A.Santander, C.Yelich
+HIT BY PITCH- J.Realmuto, A.Riley, F.Freeman
+STRIKE OUTS- Y.Grandal, C.Hernandez, A.Santander, K.Tucker, R.Urias-2,
+             A.Verdugo, A.Hays, J.Mateo-2, C.Yelich, M.Harris-3, F.Freeman,
+             W.Contreras, D.Swanson-2
+2-out RBI- O.Albies-2, A.Santander
+RLISP 2-out- K.Tucker-2, R.Acuna-2, R.Urias, D.Swanson, J.Mateo, Y.Grandal
+TEAM RISP- Orioles: 1 for 10  Braves: 3 for 7
+
+Max Fried whiffed 10 batters and J.T. Realmuto went deep as the Atlanta Braves
+beat the Baltimore Orioles by a score of 8 to 2.
+
+Fried(3-0) gave Atlanta a solid outing.  He didn't give up much, just 8 hits
+and 1 walk in 9 innings.  Atlanta banged out 12 hits on the night.  
+
+Corbin Burnes(4-2) was the loser.  He allowed 3 homeruns in 4 and 2/3 innings
+of work.  'Everything felt great' Fried said. 'I had a good fastball, I felt
+I could throw it by everybody tonight.'
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Atlanta Braves
+Y.Granda-A1  A1:K       B1:F/9     C1:F/9     *8*:G/43   E1:Force/
+                                                         54>1o b1
+                                                         
+C.Hernan-A1  A2:Si      B2:K       *6*:Do     D2:Do
+                                              
+                                              
+Y.Alvare-A1  A3:Do>13   *4*:G/31   C3:G/3>23  D3:F/8
+                                              
+                                              
+A.Santan-A1  A4:G/63>3  B4:W>b1    C4:K       D4:Si>2#
+             # 23                             
+                                              
+K.Tucker-A1  A5:L/4     B5:K       C5:G/63    D5:G/13
+                                              
+                                              
+R.Mountc-A1  *2*:G/63   B6:Si>12   *7*:G/13   *9*:E/4
+                                              
+                                              
+R.Urias-A1   A7:F/8     B7:K       C7:K       D7:K
+A.Verdug-D7                                   
+                                              
+A.Thomas-A1  A8:G/43    *5*:F/7    C8:Do      D8:K
+A.Hays-C8                                     
+                                              
+J.Mateo-A1   *3*:K      B9:K       C9:P/6     D9:Si>13
+                                              
+                                              
+
+C.Yelich-A1  A1:W>b1    B1:Si      *4*:K      *6*:F/8    *8*:G/31
+                                                         
+                                                         
+J.Realmu-A1  A2:Si>13   B2:HBP>12  C2:HR>b#   D2:G/53    E2:Si
+                                                         
+                                                         
+M.Harris-A1  A3:K       B3:Si>2#   C3:K       D3:K       E3:P-DP/3
+                        13                               4>1o
+                                                         
+A.Riley-A1   A4:FO/2    B4:SF/8>3  C4:F/8     *7*:HBP
+                        #                     
+                                              
+F.Freema-A1  A5:HBP>12  B5:Force/  *5*:F/9    D5:K
+                        14>1o b1              
+                                              
+R.Acuna-A1   A6:G/53    B6:F/7     C6:Si      D6:Si>12
+M.Taylor-C6                                   
+                                              
+W.Contre-A1  *2*:HR>b#  *3*:K      C7:Sac/14  D7:Sac/34
+                                   >12        >23 12
+                                              
+N.Gordon-A1  A8:Si      B8:G/43    C8:Si>23   D8:Si>3#
+O.Albies-D1                                   2#
+                                              
+D.Swanso-A1  A9:HR>1#   B9:F/8     C9:K       D9:K
+             b#                               
+                                              
+
+

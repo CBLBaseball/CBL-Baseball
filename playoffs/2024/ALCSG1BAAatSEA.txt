@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Seattle Mariners          10/16/2024
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  K.Tucker RF         3  0  0  0 .120     S.Steer 1B          4  1  2  0 .273  
+  A.Rutschman C       3  0  0  0 .222     J.Crawford SS       2  0  0  0 .222  
+  Y.Alvarez LF        3  0  0  0 .263     J.Rodriguez CF      4  0  0  0 .095  
+  A.Santander DH      4  0  1  0 .208     J.Soler DH          3  0  0  1 .143  
+  G.Henderson SS      3  0  0  0 .105     J.Polanco 3B        3  0  0  0 .182  
+  J.Caballero 2B      4  0  0  0 .143   B-J.Meyers PH,RF      1  1  1  1 .111  
+  R.O'Hearn 1B        4  0  1  0 .353     K.Marte 2B          3  1  0  0 .261  
+  J.Triolo 3B         1  0  1  0 .200     M.Kepler RF,LF      2  0  1  1 .133  
+  A.Thomas CF         2  0  0  0 .000     T.O'Neill LF        3  0  0  0 .000  
+A-A.Hays PH,CF        1  0  0  0 .545   C-E.Escobar 3B        0  0  0  0 .000  
+                                          Y.Grandal C         2  0  0  0 .154  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  0  3  0                 Totals      27  3  4  3
+
+A-Pinch Hit For Thomas In 7th Inning
+B-Pinch Hit For Polanco In 8th Inning
+C-Subbed Defensively (3B) For O'Neill In 9th Inning
+
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  3  0
+Mariners........ 1 1 0  0 0 0  0 1    -  3  4  0
+
+[1]Orioles (4-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes LOSS(1-1)        6       2   2   2   6   5   0   3.45  A1 C8
+D.Williams                2       2   1   1   0   4   1   9.82  C9
+[1]Totals                    8       4   3   3   6   9   1
+
+[1]Mariners (5-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Webb WIN(2-0)           7       2   0   0   4   6   0   0.64  A1 C9
+J.Jackson HOLD(1st)       1       0   0   0   1   0   0   0.00  D1 D3
+E.Clase SAVE(1st)         1       1   0   0   0   1   0   0.00  D4
+[1]Totals                    9       3   0   0   5   7   0
+
+ATTENDANCE- 47,553 DATE- Wednesday, October 16th 2024 TIME- Day 
+UMPIRES- Tony Randazzo, Scott Barry, Ben May, Dan Iassogna
+T- 3:01
+LEFT ON BASE- Orioles: 7  Mariners: 6
+DOUBLE PLAYS- Orioles: 0  Mariners: 2
+DOUBLES- M.Kepler(1st)
+HOME RUNS- J.Meyers(1st)
+RBIs- J.Soler(2nd), J.Meyers(1st), M.Kepler(2nd)
+STOLEN BASES- G.Henderson(1st)
+CAUGHT STEALING- S.Steer
+WALKS- K.Tucker, A.Rutschman, Y.Alvarez, J.Triolo-2, J.Crawford-2, J.Soler,
+       K.Marte, M.Kepler, Y.Grandal
+HIT BY PITCH- G.Henderson
+STRIKE OUTS- K.Tucker, A.Rutschman, A.Santander, J.Caballero-3, A.Thomas,
+             S.Steer, J.Rodriguez, J.Soler-2, K.Marte, M.Kepler, T.O'Neill,
+             Y.Grandal-2
+GIDP- Y.Alvarez, A.Hays
+WILD PITCHES- E.Clase
+2-out RBI- J.Meyers
+RLISP 2-out- J.Polanco, A.Thomas-2, S.Steer, K.Tucker, J.Rodriguez, J.Caballero,
+             T.O'Neill, R.O'Hearn
+TEAM RISP- Orioles: 1 for 10  Mariners: 0 for 8
+WEB GEMS- Bot 1st: Corbin Burnes robbed Julio Rodriguez of a base hit.
+
+Logan Webb(2-0) and Corbin Burnes(1-1) dueled it out with Webb and the Seattle
+Mariners coming out on top of the Baltimore Orioles by the score of 3 to
+0.
+
+Webb was in control of the game from the outset.  He didn't give up much, just
+2 hits and 4 walks in 7 innings seeing his ERA drop from 1.29 to 0.64.
+Seattle had only 4 hits for the afternoon.  
+
+Emmanuel Clase earned the save, his 1st.
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Seattle Mariners
+K.Tucker-A1  A1:K       *3*:L/3    C1:G/43    *8*:W>b1
+                                              
+                                              
+A.Rutsch-A1  A2:K       B2:G/31    *6*:W>b1   D2:F/8
+                                              
+                                              
+Y.Alvare-A1  A3:F/9     B3:L/4     C3:W>12 b  D3:G-DP/4
+                                   1          63>1o
+                                              
+A.Santan-A1  *2*:K      *4*:G/13   C4:L/3     *9*:Si
+                                              
+                                              
+G.Hender-A1  A5:HBP     B5:G/43    C5:F/7     D5:WP>12
+                                              G/3>23
+                                              
+J.Caball-A1  A6:SB>12   B6:K       C6:K       D6:K
+             F/9                              
+                                              
+R.O'Hear-A1  A7:Si>23   *5*:L/4    *7*:F/8    D7:G/53
+                                              
+                                              
+J.Triolo-A1  A8:W>12 b  B8:W>b1    C8:Si
+             1                     
+                                   
+A.Thomas-A1  A9:K       B9:G/43>1  C9:G-DP/6
+A.Hays-C9               2          43>1o
+                                   
+
+S.Steer-A1   A1:Si      B1:L/6     C1:K       D1:Si
+                                              
+                                              
+J.Crawfo-A1  A2:W>12 b  *3*:G/43   C2:W>12 b  D2:CS/26>
+             1                     1          1o G/31
+                                              
+J.Rodrig-A1  A3:G/13>2  B3:G/63    C3:L/6     *8*:K
+             3 12                             
+                                              
+J.Soler-A1   A4:G/63>3  B4:K       *6*:W>b1   D4:K
+             # 23                             
+                                              
+J.Polanc-A1  A5:F/8     *4*:F/7    C5:Force/  D5:HR>b#
+J.Meyers-D5                        26>1o b1   
+                                              
+K.Marte-A1   *2*:W>b1   B6:FO/2    C6:F/9     D6:K
+                                              
+                                              
+M.Kepler-A1  A7:Do>1#   B7:K       C7:W>12 b
+                                   1
+                                   
+T.O'Neil-A1  A8:G/13    *5*:K      C8:G/43
+E.Escoba-D7                        
+                                   
+Y.Granda-A1  A9:K       B9:W>b1    *7*:K
+                                   
+                                   
+
+

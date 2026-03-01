@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Cleveland Indians         10/12/2023
+
+[1]  Orioles            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  Y.Grandal C         2  1  0  0 .286     S.Kwan LF           4  0  1  1 .346  
+A-K.Wong PR,2B        0  1  0  0 .333     F.Lindor SS         4  0  0  0 .240  
+  C.Hernandez 2B      3  0  1  0 .211     J.Ramirez 3B        4  0  0  0 .320  
+B-A.Rutschman C       0  0  0  0 .250     C.Cron 1B           4  0  2  0 .286  
+  Y.Alvarez DH        4  1  2  3 .306     J.Naylor DH         1  0  0  0 .333  
+  A.Santander LF      4  0  1  0 .341   C-M.Margot PH,DH      1  0  0  0 .167  
+E-A.Hays LF           0  0  0  0 .200     O.Gonzalez RF       3  0  0  0 .158  
+  K.Tucker RF         4  0  0  0 .289   G-M.Brantley PH       0  0  0  0 .333  
+  R.Mountcastle 1B    4  0  0  0 .222     A.Gimenez 2B        4  0  0  0 .200  
+  R.Urias 3B          3  1  1  1 .200     J.Heim C            4  0  0  0 .294  
+D-A.Verdugo PH        1  0  1  0 .278     C.Mullins CF        3  1  2  0 .200  
+F-G.Henderson 3B      0  0  0  0 .250                                          
+  A.Thomas CF         4  0  0  0 .214                                          
+  J.Mateo SS          3  0  0  0 .226                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  6  4                 Totals      32  1  5  1
+
+A-Pinch Ran For Grandal In 8th Inning
+B-Subbed Defensively (C ) For Hernandez In 8th Inning
+C-Pinch Hit For Naylor In 8th Inning
+D-Pinch Hit For Urias In 9th Inning
+E-Subbed Defensively (LF) For Santander In 9th Inning
+F-Subbed Defensively (3B) For Verdugo In 9th Inning
+G-Pinch Hit For Gonzalez In 9th Inning
+
+Orioles......... 0 0 1  1 0 0  0 2 0  -  4  6  0
+Indians......... 0 0 1  0 0 0  0 0 0  -  1  5  0
+
+[1]Orioles (7-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes WIN(3-1)            6 2/3   3   1   1   3   4   0   2.83  A1 C8
+J.Moran HOLD(2nd)            1       1   0   0   0   1   0   0.00  C9 D3
+P.Fairbanks                  0       1   0   0   0   0   0   0.00  D4 D4
+A.Vesia HOLD(2nd)            0 1/3   0   0   0   0   0   0   0.00  D5 D5
+J.Adam SAVE(3rd)             1       0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       5   1   1   3   5   0
+
+[1]Indians (4-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana LOSS(1-1)         7       4   2   2   1   8   1   1.29  A1 C8
+C.Perez                      1       1   2   2   1   1   1   4.91  C9 D4
+R.Montero                    1       1   0   0   0   0   0   0.00  D5
+[1]Totals                    9       6   4   4   2   9   2
+
+ATTENDANCE- 34,733 DATE- Thursday, October 12th 2023 TIME- Night 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:50
+LEFT ON BASE- Orioles: 4  Indians: 8
+DOUBLE PLAYS- Orioles: 0  Indians: 1
+DOUBLES- C.Hernandez(1st), S.Kwan(1st), C.Cron(1st), C.Mullins(2nd)
+HOME RUNS- Y.Alvarez(6th), R.Urias(1st)
+RBIs- Y.Alvarez-3(12th), R.Urias(2nd), S.Kwan(3rd)
+STOLEN BASES- C.Mullins(1st)
+WALKS- Y.Grandal-2, J.Naylor-2, C.Mullins
+HIT BY PITCH- C.Hernandez, M.Brantley
+STRIKE OUTS- Y.Grandal, C.Hernandez-2, Y.Alvarez, A.Santander, R.Mountcastle,
+             R.Urias-2, J.Mateo, F.Lindor-2, J.Ramirez, O.Gonzalez-2
+GIDP- A.Santander
+2-out RBI- S.Kwan, R.Urias, Y.Alvarez-2
+RLISP 2-out- K.Tucker, A.Santander, F.Lindor, S.Kwan-2, O.Gonzalez, M.Margot,
+             C.Mullins
+TEAM RISP- Orioles: 0 for 3  Indians: 0 for 7
+
+The Baltimore Orioles ended a long winless drought and bested the Cleveland
+Indians by a 4 to 1 score at Progressive Field.
+
+In the 4th inning Baltimore went on top for good plating an isolated run.
+Baltimore had only 6 hits for the game.  
+
+The win went to Corbin Burnes(3-1) who allowed 1 run in 6 and 2/3 innings.
+Burnes got help from Jason Adam who earned his 3rd save.  The loss was
+charged to Jose Quintana(1-1).  He allowed just 2 runs and 4 hits in 7
+innings.  
+
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Cleveland Indians
+Y.Granda-A1  A1:K       B1:W>b1    C1:L/5     D1:W>b1
+K.Wong-D2                                     
+                                              
+C.Hernan-A1  A2:HBP     B2:Do>13   C2:K       D2:K
+A.Rutsch-D5                                   
+                                              
+Y.Alvare-A1  A3:K       B3:G/3>3#  *6*:Si     D3:HR>1#
+                        23                    b#
+                                              
+A.Santan-A1  A4:Si>13   B4:K       C4:G-DP/5  D4:G/63
+A.Hays-D9                          43>1o      
+                                              
+K.Tucker-A1  A5:G/43    *4*:G/63   C5:L/4     *9*:G/53
+                                              
+                                              
+R.Mountc-A1  *2*:G/63   B6:G/63    *7*:K      D6:L/6
+                                              
+                                              
+R.Urias-A1   A7:K       B7:HR>b#   C7:K       D7:Si
+A.Verdug-D7                                   
+G.Hender-D9                                   
+A.Thomas-A1  A8:G/43    B8:G/43    C8:G/43    D8:G/3
+                                              
+                                              
+J.Mateo-A1   *3*:K      *5*:G/13   *8*:G/43
+                                   
+                                   
+
+S.Kwan-A1    A1:P/2     B1:Do>1#   C1:SB>12   D1:L/4
+                                   F/8        
+                                              
+F.Lindor-A1  A2:K       B2:G/63    *6*:K      *8*:G/31
+                                              
+                                              
+J.Ramire-A1  A3:G/31    *4*:G/31   C3:L/3     D3:K
+                                              
+                                              
+C.Cron-A1    *2*:G/13   B4:G/43    C4:Si      D4:Do
+                                              
+                                              
+J.Naylor-A1  A5:F/8     B5:W>b1    C5:W>12 b  D5:P/2
+M.Margot-D5                        1          
+                                              
+O.Gonzal-A1  A6:K       B6:G/53    C6:K       *9*:HBP
+M.Brantl-D6                                   
+                                              
+A.Gimene-A1  *3*:G/63   *5*:F/8    *7*:F/9    D7:G/43>1
+                                              2
+                                              
+J.Heim-A1    A8:G/63    B8:F/9     C8:F/9     D8:F/7
+                                              
+                                              
+C.Mullin-A1  A9:Si      B9:W>b1    C9:Do      D9:L/4
+                                              
+                                              
+
+

@@ -1,0 +1,142 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 San Diego Padres          10/2/2024
+
+[1]  Mets               AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.McNeil 2B         4  0  0  0 .176     F.Tatis Jr RF       4  0  0  0 .176  
+  P.Alonso 1B         4  2  1  1 .286     B.Marsh CF          4  0  0  0 .154  
+  J.Candelario 3B     3  0  0  0 .143     C.Walker 1B         4  0  2  0 .333  
+  M.Canha RF          4  1  1  1 .222     M.Wallner DH        3  0  0  0 .286  
+F-B.Perkins RF        0  0  0  0 .000     L.Campusano C       2  0  0  0 .125  
+  M.Ford DH           1  0  1  0 .667   C-V.Robles PH         1  0  0  0 .500  
+A-N.Senzel PH,DH      1  0  0  0 .125   D-A.Hedges C          0  0  0  0 .000  
+B-J.Votto PH,DH       2  0  0  0 .000   G-G.Cooper PH         1  0  0  0 .000  
+  F.Alvarez C         2  0  0  0 .125     E.Suarez 3B         4  1  1  1 .214  
+E-G.Sanchez PH,C      2  0  1  1 .333     J.Cronenworth 2B    2  1  0  0 .167  
+  T.Grisham CF        3  1  0  0 .071     M.Vierling LF       3  0  0  0 .154  
+  W.Franco SS         4  0  2  0 .357     T.Walls SS          3  1  1  2 .143  
+  E.Rosario LF        3  0  1  1 .167                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  7  4                 Totals      31  3  4  3
+
+A-Pinch Hit For Ford In 4th Inning
+B-Pinch Hit For Senzel In 6th Inning
+C-Pinch Hit For Campusano In 6th Inning
+D-Subbed Defensively (C ) For Robles In 7th Inning
+E-Pinch Hit For Alvarez In 7th Inning
+F-Subbed Defensively (RF) For Canha In 8th Inning
+G-Pinch Hit For Hedges In 9th Inning
+
+Mets............ 0 0 0  1 0 1  1 1 0  -  4  7  1
+Padres.......... 0 1 0  0 2 0  0 0 0  -  3  4  0
+
+[1]Mets (3-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+V.Velasquez               3 1/3   2   1   1   0   1   1   2.70  A1 B3
+R.Lopez                   1 2/3   1   2   2   1   1   1   5.40  B4 C1
+H.Neris WIN(1-0)          2       0   0   0   0   4   0   6.75  C2 C8
+K.Ginkel HOLD(2nd)        1       1   0   0   0   1   0   2.45  C9 D3
+D.Robertson SAVE(1st)     1       0   0   0   0   3   0   4.50  D4
+[1]Totals                    9       4   3   3   1  10   2
+
+[1]Padres (1-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Pepiot                  3       2   0   0   0   2   0   0.00  A1 B2
+S.Manaea                  2       1   1   1   0   2   1   3.38  B3 B9
+N.Martinez HOLD(1st)      1       1   1   1   1   1   1   9.00  C1 C5
+A.Chafin BS(1st)          1       1   1   1   1   1   0   3.00  C6 D1
+T.Cosgrove LOSS(0-1)      1       1   1   1   2   1   0   3.00  D2 D7
+J.Hader                   1       1   0   0   1   1   0  13.50  D8
+[1]Totals                    9       7   4   4   5   8   2
+
+ATTENDANCE- 41,312 DATE- Wednesday, October 2nd 2024 TIME- Night 
+UMPIRES- Jeremie Rehak, Mark Wegner, Alan Porter, Quinn Wolcott
+T- 3:14
+LEFT ON BASE- Mets: 8  Padres: 3
+DOUBLE PLAYS- Mets: 1  Padres: 0
+ERRORS- J.Candelario
+DOUBLES- E.Rosario(2nd), C.Walker(2nd)
+HOME RUNS- P.Alonso(2nd), M.Canha(1st), E.Suarez(1st), T.Walls(1st)
+RBIs- P.Alonso(3rd), M.Canha(2nd), G.Sanchez(4th), E.Rosario(1st),
+      E.Suarez(2nd), T.Walls-2(2nd)
+SACRIFICE HITS- E.Rosario
+WALKS- J.McNeil, P.Alonso, J.Candelario-2, T.Grisham, J.Cronenworth
+HIT BY PITCH- M.Wallner
+STRIKE OUTS- J.McNeil, J.Candelario, M.Canha, J.Votto, F.Alvarez, W.Franco,
+             E.Rosario-2, B.Marsh-2, C.Walker, M.Wallner, G.Cooper, E.Suarez-2,
+             J.Cronenworth, M.Vierling-2
+GIDP- M.Wallner
+WILD PITCHES- D.Robertson
+2-out RBI- T.Walls-2, E.Rosario, G.Sanchez
+RLISP 2-out- P.Alonso, J.McNeil, T.Grisham, J.Candelario, E.Suarez
+TEAM RISP- Mets: 1 for 9  Padres: 0 for 4
+
+The New York (NL) Mets and the San Diego Padres locked up in an exciting
+one-run game at PETCO Park.  The final score was the New York (NL) Mets 4,
+the San Diego Padres 3.
+
+The game was decided in the top of the 8th inning. Pete Alonso drew a walk.
+Jeimer Candelario stepped into the batter's box and he drew a walk.  After
+another out, Joey Votto was the next batter, but he struck out.  Gary Sanchez
+followed next and he delivered a single scoring the run.  San Diego
+threatened in the 9th but New York (NL) was able to put down the rally.
+
+The victory went to Hector Neris(1-0) who went 2 innings, allowing no runs.
+Neris was helped out by David Robertson who recorded his 1st save.  Tom
+Cosgrove(0-1) suffered the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 San Diego Padres
+J.McNeil-A1  A1:P/4     B1:K       *6*:G/13   D1:L/4     E1:W>12 b
+                                                         1
+                                                         
+P.Alonso-A1  A2:F/8     B2:G/63    C2:HR>b#   *8*:W>b1   E2:F/8
+                                                         
+                                                         
+J.Candel-A1  A3:F/8     *4*:K      C3:W>b1    D3:W>12 b  E3:G/63
+                                              1          
+                                                         
+M.Canha-A1   *2*:F/7    B4:HR>b#   C4:K       D4:P/4
+B.Perkin-D8                                   
+                                              
+M.Ford-A1    A5:Si      B5:L/6     C5:G/43    D5:K
+N.Senzel-B5                                   
+J.Votto-C5                                    
+F.Alvare-A1  A6:K       B6:F/8     *7*:G/43   D6:Si>2#
+G.Sanche-C6                                   13
+                                              
+T.Grisha-A1  A7:F/8     *5*:G/43   C7:W>b1    D7:G/43
+                                              
+                                              
+W.Franco-A1  *3*:Si     B8:L/5     C8:K       *9*:Si
+                                              
+                                              
+E.Rosari-A1  A9:Sac/14  B9:K       C9:Do>1#   D9:K
+             >12                              
+                                              
+
+F.Tatis -A1  A1:E/5     B1:G/23    C1:G/53    D1:F/9
+                                              
+                                              
+B.Marsh-A1   A2:Force/  B2:FO/2    *6*:K      D2:K
+             64>1o b1                         
+                                              
+C.Walker-A1  A3:Si>12   *4*:G/53   C3:K       *9*:Do
+                                              
+                                              
+M.Wallne-A1  A4:G-DP/1  B4:L/4     C4:HBP     D4:K
+             63>1o                            
+                                              
+L.Campus-A1  *2*:G/53   B5:F/7     C5:L/6     D5:WP>23
+V.Robles-C5                                   K
+A.Hedges-C6+                                  
+E.Suarez-A1  A6:HR>b#   *5*:K      *7*:G/63   D6:K
+                                              
+                                              
+J.Cronen-A1  A7:F/9     B7:W>b1    C7:K
+                                   
+                                   
+M.Vierli-A1  A8:K       B8:F/8     C8:K
+                                   
+                                   
+T.Walls-A1   *3*:FO/5   B9:HR>1#   *8*:F/7
+                        b#         
+                                   
+
+

@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Seattle Mariners          10/17/2024
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  K.Tucker RF         3  1  1  1 .143     J.Crawford SS       5  0  1  1 .217  
+  A.Rutschman C       4  0  0  0 .194     S.Steer 3B,1B       4  0  0  0 .231  
+  Y.Alvarez LF        4  0  1  0 .261     B.Belt 1B           3  1  2  0 .455  
+  A.Santander DH      3  1  1  0 .222   A-E.Escobar PH,3B     1  0  0  0 .000  
+  G.Henderson SS      4  1  1  2 .130     K.Marte 2B          3  1  0  0 .231  
+  J.Caballero 2B      4  0  1  0 .167     J.Kelenic LF        2  2  1  2 .167  
+  R.O'Hearn 1B        4  0  1  0 .333     J.Rodriguez CF      2  2  1  3 .130  
+  J.Triolo 3B         2  0  0  0 .167     M.Kepler RF         4  0  0  0 .105  
+D-R.Mountcastle PH    1  0  0  0 .222     J.Soler DH          4  1  1  1 .167  
+  A.Thomas CF         3  0  0  0 .000     Y.Grandal C         2  0  2  0 .267  
+E-A.Hays PH           1  0  0  0 .500   B-T.O'Neill PH        0  0  0  0 .000  
+                                        C-T.Murphy C          0  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  6  3                 Totals      30  7  8  7
+
+A-Pinch Hit For Belt In 7th Inning
+B-Pinch Hit For Grandal In 8th Inning
+C-Subbed Defensively (C ) For O'Neill In 9th Inning
+D-Pinch Hit For Triolo In 9th Inning
+E-Pinch Hit For Thomas In 9th Inning
+
+Orioles......... 3 0 0  0 0 0  0 0 0  -  3  6  0
+Mariners........ 0 3 3  0 0 1  0 0    -  7  8  0
+
+[1]Orioles (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Bradish LOSS(1-1)       3       5   6   6   2   3   3   7.00  A1 B7
+J.Leclerc                 2       1   0   0   1   2   0   1.80  B8 C5
+B.Baker                   1       2   1   1   1   0   0   9.00  C6 D2
+J.Kelly                   1       0   0   0   1   0   0   0.00  D3 D7
+A.Chapman                 1       0   0   0   1   1   0   4.50  D8
+[1]Totals                    8       8   7   7   6   6   3
+
+[1]Mariners (6-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Castillo WIN(3-0)       8       6   3   3   2   7   2   2.70  A1 D6
+P.Sewald                  1       0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       6   3   3   2   8   2
+
+ATTENDANCE- 44,036 DATE- Thursday, October 17th 2024 TIME- Night 
+UMPIRES- Mike Estabrook, Nic Lentz, Ted Barrett, Lance Barksdale
+T- 2:48
+LEFT ON BASE- Orioles: 6  Mariners: 6
+DOUBLE PLAYS- Orioles: 1  Mariners: 0
+DOUBLES- A.Santander(4th), R.O'Hearn(2nd), Y.Grandal(1st)
+HOME RUNS- K.Tucker(1st), G.Henderson(2nd), J.Kelenic(2nd), J.Rodriguez(1st),
+           J.Soler(1st)
+RBIs- K.Tucker(3rd), G.Henderson-2(4th), J.Crawford(3rd), J.Kelenic-2(4th),
+      J.Rodriguez-3(6th), J.Soler(3rd)
+WALKS- K.Tucker, A.Santander, K.Marte, J.Kelenic-2, J.Rodriguez, Y.Grandal,
+       T.O'Neill
+HIT BY PITCH- J.Triolo, J.Rodriguez
+STRIKE OUTS- Y.Alvarez, G.Henderson, J.Caballero-3, R.O'Hearn-2, A.Thomas,
+             S.Steer, B.Belt, K.Marte, J.Kelenic, J.Rodriguez, J.Soler
+GIDP- J.Crawford
+WILD PITCHES- L.Castillo
+2-out RBI- G.Henderson-2, J.Soler, J.Rodriguez-3, J.Crawford
+RLISP 2-out- J.Crawford, A.Thomas, S.Steer, A.Rutschman, M.Kepler, J.Caballero
+TEAM RISP- Orioles: 0 for 4  Mariners: 2 for 5
+WEB GEMS- Bot 3rd: Alek Thomas robbed Max Kepler of an extra base hit.
+
+The Seattle Mariners defeated the Baltimore Orioles by a score of 7 to 3 at
+T-Mobile Park.
+
+Seattle brought 3 runs across the plate in the 3rd inning. That was all Luis
+Castillo(3-0) needed.  Seattle banged out 8 hits on the night.  
+
+The losing pitcher was Kyle Bradish(1-1).  He allowed 3 homeruns in 3 innings
+of work.
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Seattle Mariners
+K.Tucker-A1  A1:HR>b#   *3*:P/5    *5*:F/7    D1:W>b1
+                                              
+                                              
+A.Rutsch-A1  A2:F/9     B2:F/9     C2:G/13    D2:WP>12
+                                              G/63
+                                              
+Y.Alvare-A1  A3:F/8     B3:Si      C3:K       *8*:G/43
+                                              
+                                              
+A.Santan-A1  A4:W>b1    B4:G/63    *6*:G/13   D4:Do
+                                              
+                                              
+G.Hender-A1  A5:HR>1#   *4*:G/31   C5:F/7     D5:K
+             b#                               
+                                              
+J.Caball-A1  A6:K       B6:K       C6:Si      D6:K
+                                              
+                                              
+R.O'Hear-A1  *2*:F/8    B7:Do      C7:K       *9*:K
+                                              
+                                              
+J.Triolo-A1  A8:G/43    B8:HBP     *7*:F/9    D8:G/43
+R.Mountc-D8                                   
+                                              
+A.Thomas-A1  A9:G/63    B9:K       C9:F/7     D9:L/6
+A.Hays-D9                                     
+                                              
+
+J.Crawfo-A1  A1:G/23    B1:G/63    C1:G-DP/6  D1:Si>3#   E1:PkOff/
+                                   43>1o      13         13>1o G/1
+                                                         3
+S.Steer-A1   A2:K       *3*:G/63   *5*:G/43   D2:P/6
+                                              
+                                              
+B.Belt-A1    A3:K       B3:Si      C3:Si      *7*:G/13
+E.Escoba-D3                                   
+                                              
+K.Marte-A1   *2*:W>b1   B4:F/7     C4:K       D4:FO/2
+                                              
+                                              
+J.Keleni-A1  A5:HR>1#   B5:W>12 b  C5:K       D5:W>b1
+             b#         1                     
+                                              
+J.Rodrig-A1  A6:K       B6:HR>2#   *6*:W>b1   D6:HBP>12
+                        1# b#                 
+                                              
+M.Kepler-A1  A7:F/7     B7:F/8     C7:FO/2    D7:Force/
+                                              64>1o b1
+                                              
+J.Soler-A1   A8:HR>b#   *4*:G/63   C8:L/6     *8*:K
+                                              
+                                              
+Y.Granda-A1  A9:Do      B9:W>b1    C9:Si>13   D9:W>b1
+T.O'Neil-D9                                   
+T.Murphy-E2                                   
+
+

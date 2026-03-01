@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2023 Boston Red Sox At 2023 Los Angeles(AL) Angels        10/4/2024
+
+[1]  Red Sox            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  M.Betts RF          4  1  0  0 .318     T.Ward LF           3  0  0  0 .222  
+  J.Duran CF          4  2  2  0 .214   C-T.Friedl PH,LF      1  0  0  0 .250  
+  R.Devers 3B         4  1  1  3 .238     A.Garcia RF         4  0  0  0 .222  
+  T.Turner SS         4  2  2  2 .200     O.Arcia SS          3  0  0  0 .000  
+  M.Yoshida DH        3  0  1  0 .143   E-N.Schanuel PH       1  0  0  0 .750  
+A-H.Ramirez PH,DH     2  1  1  1 .400     Y.Diaz 1B           2  1  0  0 .333  
+  A.Benintendi LF     4  0  1  1 .118     S.Ohtani DH&P       3  1  2  2 .435  
+D-R.McKenna LF        0  0  0  0 .000     B.Drury 2B          3  0  1  0 .316  
+  W.Flores 1B         5  0  0  0 .316   F-D.Peralta PH        1  0  1  0 .333  
+  R.McGuire C         2  0  0  0 .200     L.O'Hoppe C         2  0  1  0 .333  
+B-C.Wong PH,C         0  0  0  0 .200   G-Y.Gomes PH          1  0  0  0 .438  
+  N.Lopez 2B          4  0  2  0 .333     J.Wiemer CF         3  0  0  0 .000  
+                                          K.Farmer 3B         3  0  0  0 .067  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  7 10  7                 Totals      30  2  5  2
+
+A-Pinch Hit For Yoshida In 8th Inning
+B-Pinch Hit For McGuire In 8th Inning
+C-Pinch Hit For Ward In 8th Inning
+D-Subbed Defensively (LF) For Benintendi In 9th Inning
+E-Pinch Hit For Arcia In 9th Inning
+F-Pinch Hit For Drury In 9th Inning
+G-Pinch Hit For O'Hoppe In 9th Inning
+
+Red Sox......... 3 0 1  0 0 0  0 1 2  -  7 10  0
+Angels.......... 0 0 0  2 0 0  0 0 0  -  2  5  1
+
+[1]Red Sox (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Rodriguez WIN(1-0)      7 1/3   4   2   2   3   5   1   2.45  A1 C9
+C.Martin SAVE(1st)        1 2/3   1   0   0   1   1   0   0.00  D1
+[1]Totals                    9       5   2   2   4   6   1
+
+[1]Angels (2-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Ohtani LOSS(1-1)        6 2/3   6   4   4   4  11   1   4.97  A1 A1 D3
+G.Speier                  1 2/3   4   3   3   0   2   2   8.31  D4 E4
+J.Payamps                 0 2/3   0   0   0   1   1   0   0.00  E5
+[1]Totals                    9      10   7   7   5  14   3
+
+ATTENDANCE- 42,933 DATE- Friday, October 4th 2024 TIME- Night 
+UMPIRES- Paul Emmel, James Hoye, Bruce Dreckman, Pat Hoberg
+T- 2:34
+LEFT ON BASE- Red Sox: 9  Angels: 5
+DOUBLE PLAYS- Red Sox: 2  Angels: 0
+ERRORS- O.Arcia
+DOUBLES- T.Turner(1st), S.Ohtani(3rd)
+HOME RUNS- R.Devers(2nd), T.Turner(1st), H.Ramirez(1st), S.Ohtani(4th)
+RBIs- R.Devers-3(6th), T.Turner-2(2nd), H.Ramirez(4th), A.Benintendi(2nd),
+      S.Ohtani-2(9th)
+STOLEN BASES- J.Duran(1st), C.Wong(2nd)
+SACRIFICE FLIES- R.Devers
+WALKS- M.Betts, J.Duran, T.Turner, A.Benintendi, R.McGuire, Y.Diaz-2, S.Ohtani,
+       L.O'Hoppe
+HIT BY PITCH- C.Wong
+STRIKE OUTS- M.Betts-4, J.Duran-2, R.Devers-3, H.Ramirez, A.Benintendi,
+             W.Flores-2, N.Lopez, T.Ward-2, O.Arcia, L.O'Hoppe, Y.Gomes,
+             K.Farmer
+GIDP- J.Wiemer-2
+2-out RBI- A.Benintendi
+RLISP 2-out- W.Flores-2, T.Turner-2, N.Lopez, Y.Gomes
+TEAM RISP- Red Sox: 3 for 10  Angels: 0 for 3
+
+Shortstop Trea Turner lofted one into the 'cheap seats' and had 2 RBI at Angel
+Stadium as the Boston Red Sox beat the Los Angeles(AL) Angels 7 to 2.
+
+Boston started with a bang, jumping out to an early lead in their half of the
+first as they scored 3 runs on 2 base hits.  That was all the offense they
+were to need.  Los Angeles(AL) was out-hit by Boston, 10 hits to 5.
+
+Eduardo Rodriguez(1-0) got the win allowing 2 runs in 7 and 1/3 innings.
+Rodriguez got help from Chris Martin who was credited with his 1st save.  The
+loss was charged to Shohei Ohtani(1-1).  He struck out 11 batters in 6 and
+2/3 innings despite losing the game.  
+
+[2]
+[1]SCORESHEET: 2023 Boston Red Sox at 2023 Los Angeles(AL) Angels
+M.Betts-A1   A1:W>b1    B1:K       C1:K       D1:K       *9*:K
+                                                         
+                                                         
+J.Duran-A1   A2:Si+E/6  *3*:K      C2:W>12 b  *7*:K      E2:Si
+             >13                   1                     
+                                                         
+R.Devers-A1  A3:SF/8>3  B3:K       C3:K       D3:K       E3:SB>12
+             #                                           HR>2# b#
+                                                         
+T.Turner-A1  A4:HR>2#   B4:W>b1    C4:G/43    D4:P/6     E4:Do
+             b#                                          
+                                                         
+M.Yoshid-A1  A5:G/13    B5:Si>13   *5*:F/8    *8*:HR>b#  E5:K
+H.Ramire-D5                                              
+                                                         
+A.Benint-A1  A6:F/9     B6:Si>3#   C6:K       D6:L/5     E6:IW>b1
+R.McKenn-E8             13                               
+                                                         
+W.Flores-A1  *2*:F/7    B7:K       C7:G/63    D7:K       E7:F/9
+                                                         
+                                                         
+R.McGuir-A1  A8:G/63    *4*:W>b1   *6*:G/63   D8:HBP
+C.Wong-D8                                     
+                                              
+N.Lopez-A1   A9:Si      B9:Si>13   C9:K       D9:SB>12
+                                              L/4
+                                              
+
+T.Ward-A1    A1:K       B1:L/6     C1:K       D1:G/43
+T.Friedl-D1                                   
+                                              
+A.Garcia-A1  A2:L/6     B2:G/43    C2:L/6     D2:L/6
+                                              
+                                              
+O.Arcia-A1   A3:F/8     *4*:K      *6*:F/7    *9*:G/43
+N.Schanu-D3                                   
+                                              
+Y.Diaz-A1    *2*:W>b1   B4:W>b1    C4:F/8     D4:G/13
+                                              
+                                              
+S.Ohtani-A1  A5:Do>13   B5:HR>1#   C5:G/43    D5:W>b1
+                        b#                    
+                                              
+B.Drury-A1   A6:L/6     B6:G/13    *7*:Si     D6:Si>13
+D.Peralt-D6                                   
+                                              
+L.O'Hopp-A1  A7:W>b1    B7:Si      C7:K       D7:K
+Y.Gomes-D7                                    
+                                              
+J.Wiemer-A1  A8:G-DP/6  B8:Force/  C8:G-DP/6
+             43>1o      46>1o b1   43>1o
+                                   
+K.Farmer-A1  *3*:P/2    *5*:K      *8*:L/6
+                                   
+                                   
+
+

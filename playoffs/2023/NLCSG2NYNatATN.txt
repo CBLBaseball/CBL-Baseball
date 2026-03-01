@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Atlanta Braves           10/13/2023
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  J.Bell DH           3  0  1  0 .211     O.Albies 2B         2  0  0  0 .231  
+  M.Canha LF          4  0  0  0 .156   A-A.Call PH           1  0  0  0 .000  
+  J.McNeil 2B         4  1  1  0 .297   B-N.Gordon 2B         1  0  0  0 .286  
+  P.Alonso 1B         3  1  1  1 .250     A.Riley 3B          3  2  1  1 .167  
+  R.Tapia RF          3  0  1  0 .200     F.Freeman 1B        4  1  2  2 .200  
+D-Y.Chang PH          1  0  0  0 .000     M.Garver DH         2  0  0  0 .286  
+  E.Escobar 3B        4  0  0  1 .361   C-W.Contreras PH,DH   1  0  0  0 .400  
+  P.Higgins C         1  0  0  0 .250     C.Yelich LF         3  1  1  1 .240  
+E-B.Gamel PH          1  0  0  0 .182     J.Realmuto C        3  0  0  0 .346  
+  T.Grisham CF        2  0  0  0 .080     D.Swanson SS        3  0  1  0 .346  
+  J.Camargo SS        2  0  0  0 .200     R.Acuna RF          3  0  1  0 .333  
+                                          M.Taylor CF         3  0  0  0 .231  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  2  4  2                 Totals      29  4  6  4
+
+A-Pinch Hit For Albies In 5th Inning
+B-Subbed Defensively (2B) For Call In 6th Inning
+C-Pinch Hit For Garver In 8th Inning
+D-Pinch Hit For Tapia In 9th Inning
+E-Pinch Hit For Higgins In 9th Inning
+
+Mets............ 0 1 0  1 0 0  0 0 0  -  2  4  0
+Braves.......... 0 0 1  1 0 0  0 2    -  4  6  0
+
+[1]Mets (6-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Anderson                7 2/3   5   2   2   1   5   2   4.05  A1 D1
+A.Ottavino LOSS(1-1)      0       0   1   1   1   0   0   2.25  D2 D2
+A.Cimber                  0       1   1   1   0   0   1   5.40  D3 D3
+G.Gallegos                0 1/3   0   0   0   0   0   0   0.00  D4
+[1]Totals                    8       6   4   4   2   5   3
+
+[1]Braves (6-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Wright                  7       4   2   2   4   5   1   2.13  A1 D1
+M.Moore WIN(1-0)          1       0   0   0   0   0   0   0.00  D2 D4
+D.Robertson SAVE(1st)     1       0   0   0   0   1   0  11.57  D5
+[1]Totals                    9       4   2   2   4   6   1
+
+ATTENDANCE- 40,212 DATE- Friday, October 13th 2023 TIME- Night 
+UMPIRES- Quinn Wolcott, Jeremie Rehak, Mark Wegner, Alan Porter
+T- 2:30
+LEFT ON BASE- Mets: 5  Braves: 3
+DOUBLE PLAYS- Mets: 1  Braves: 2
+HOME RUNS- P.Alonso(4th), A.Riley(1st), F.Freeman(1st), C.Yelich(1st)
+RBIs- P.Alonso(9th), E.Escobar(13th), A.Riley(3rd), F.Freeman-2(3rd),
+      C.Yelich(1st)
+SACRIFICE HITS- T.Grisham
+WALKS- J.Bell, P.Higgins-2, J.Camargo, A.Riley, M.Garver
+HIT BY PITCH- P.Alonso
+STRIKE OUTS- J.Bell, M.Canha, P.Alonso, Y.Chang, E.Escobar, P.Higgins, A.Call,
+             C.Yelich, J.Realmuto-2, M.Taylor
+GIDP- J.Bell, M.Canha, M.Taylor
+2-out RBI- F.Freeman-2
+RLISP 2-out- C.Yelich, T.Grisham, J.Bell
+TEAM RISP- Mets: 0 for 5  Braves: 0 for 2
+
+The Atlanta Braves got by the New York (NL) Mets at Truist Park.  The final
+score was 4 to 2.
+
+Atlanta erupted with the game winning runs in the 8th inning scoring 2 runs.
+After two outs Austin Riley began the rally when he drew a walk.  Freddie
+Freeman followed next and he cleared the fences for a two-run home run.
+David Robertson came throught with a perfect ninth inning to earn his 1st
+save.  
+
+The win was credited to Matt Moore(1-0) who went 1 inning allowing no runs.
+Adam Ottavino(1-1) was the losing pitcher in relief.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Atlanta Braves
+J.Bell-A1    A1:Si      B1:G-DP/3  C1:W>b1    D1:K
+                        63>1o                 
+                                              
+M.Canha-A1   A2:G-DP/2  B2:F/9     C2:K       *8*:F/7
+             63>1o                            
+                                              
+J.McNeil-A1  A3:F/9     *4*:Si     C3:G/31    D3:G/43
+                                              
+                                              
+P.Alonso-A1  *2*:HR>b#  B4:HBP>12  *6*:K      D4:G/63
+                                              
+                                              
+R.Tapia-A1   A5:Si      B5:Force/  C5:G/23    *9*:K
+Y.Chang-D5              54>23 1o              
+                        b1                    
+E.Escoba-A1  A6:K       B6:Force/  C6:G/43    D6:L/4
+                        64>3# 1o              
+                        b1                    
+P.Higgin-A1  A7:K       B7:W>12 b  *7*:W>b1   D7:FO/3
+B.Gamel-D7              1                     
+                                              
+T.Grisha-A1  A8:G/43    B8:F/7     C8:Sac/34
+                                   >12
+                                   
+J.Camarg-A1  *3*:W>b1   *5*:P/4    C9:G/43>2
+                                   3
+                                   
+
+O.Albies-A1  A1:P/6     *3*:L/3    C1:K       D1:P/4
+A.Call-C1                                     
+N.Gordon-C3                                   
+A.Riley-A1   A2:L/5     B2:HR>b#   C2:G/31    D2:W>b1
+                                              
+                                              
+F.Freema-A1  A3:Si      B3:P/4     *6*:G/63   D3:HR>1#
+                                              b#
+                                              
+M.Garver-A1  A4:W>12 b  B4:L/5     C4:G/63    D4:G/63
+W.Contre-D4  1                                
+                                              
+C.Yelich-A1  A5:K       *4*:HR>b#  C5:G/43
+                                   
+                                   
+J.Realmu-A1  *2*:K      B6:K       *7*:F/8
+                                   
+                                   
+D.Swanso-A1  A7:Si      B7:L/6     C7:F/8
+                                   
+                                   
+R.Acuna-A1   A8:Si>13   B8:P/6     C8:G/13
+                                   
+                                   
+M.Taylor-A1  A9:G-DP/6  *5*:L/6    *8*:K
+             43>1o                 
+                                   
+
+

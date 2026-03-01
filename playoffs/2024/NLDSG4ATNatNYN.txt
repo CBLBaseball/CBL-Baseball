@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 New York (NL) Mets           10/10/2024
+
+[1]  Braves             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  A.Call LF           4  0  2  0 .500     T.Grisham CF        4  0  0  0 .107  
+  R.Acuna RF          4  1  2  0 .563     E.Rosario LF        4  0  0  0 .207  
+  O.Albies 2B         2  1  1  1 .214     J.McNeil 2B         3  1  1  1 .281  
+  A.Riley 3B          4  0  0  0 .167     P.Alonso 1B         3  0  2  0 .250  
+  F.Freeman 1B        4  0  0  0 .286     J.Candelario 3B     4  0  0  0 .194  
+  M.Garver DH         3  0  1  0 .286     M.Canha RF          3  0  0  0 .111  
+  W.Contreras C       4  0  1  1 .143     F.Alvarez C         4  1  1  1 .167  
+C-J.Realmuto C        0  0  0  0 .444     W.Franco SS         4  0  0  0 .308  
+  D.Swanson SS        3  0  1  0 .429     A.Diaz DH           2  0  1  0 .500  
+  M.Taylor CF         2  0  0  0 .200   A-N.Senzel PH,DH      1  0  1  0 .182  
+B-M.Harris PH,CF      1  1  1  1 .364   D-M.Ford PH           1  0  0  0 .583  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  9  3                 Totals      33  2  6  2
+
+A-Pinch Hit For Diaz In 7th Inning
+B-Pinch Hit For Taylor In 8th Inning
+C-Subbed Defensively (C ) For Contreras In 9th Inning
+D-Pinch Hit For Senzel In 9th Inning
+
+Braves.......... 1 0 0  1 0 0  0 1 0  -  3  9  1
+Mets............ 1 1 0  0 0 0  0 0 0  -  2  6  0
+
+[1]Braves (2-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Woodruff                6       4   2   2   2   4   2   3.00  A1 C8
+G.Soto WIN(1-0)           1       1   0   0   0   0   0   0.00  C9 D3
+A.Minter HOLD(1st)        1       1   0   0   0   1   0   0.00  D4 D7
+C.Kimbrel SAVE(1st)       1       0   0   0   0   2   0   0.00  D8
+[1]Totals                    9       6   2   2   2   7   2
+
+[1]Mets (5-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana                5       6   2   2   1   3   0   3.60  A1 C1
+H.Neris LOSS(1-1)         2       1   1   1   1   3   1   5.40  C2 C9
+R.Lopez                   2       2   0   0   0   1   0   8.10  D1
+[1]Totals                    9       9   3   3   2   7   1
+
+ATTENDANCE- 38,782 DATE- Thursday, October 10th 2024 TIME- Day 
+UMPIRES- Pat Hoberg, Paul Emmel, James Hoye, Bruce Dreckman
+T- 2:43
+LEFT ON BASE- Braves: 4  Mets: 8
+DOUBLE PLAYS- Braves: 0  Mets: 3
+ERRORS- A.Riley
+DOUBLES- W.Contreras(1st)
+HOME RUNS- M.Harris(1st), J.McNeil(1st), F.Alvarez(3rd)
+RBIs- O.Albies(8th), W.Contreras(2nd), M.Harris(1st), J.McNeil(1st),
+      F.Alvarez(7th)
+STOLEN BASES- R.Acuna(1st)
+SACRIFICE HITS- T.Grisham
+WALKS- O.Albies, M.Garver, J.McNeil, P.Alonso
+HIT BY PITCH- O.Albies, M.Canha
+STRIKE OUTS- R.Acuna-2, A.Riley, M.Garver, W.Contreras, D.Swanson, M.Taylor,
+             T.Grisham-3, J.McNeil, P.Alonso, F.Alvarez, M.Ford
+GIDP- A.Riley, W.Contreras, M.Taylor
+2-out RBI- J.McNeil, W.Contreras
+RLISP 2-out- W.Franco-2, J.McNeil
+TEAM RISP- Braves: 2 for 2  Mets: 0 for 4
+
+38,782 fans were treated to a fine game at Citi Field as only one run
+separated the combatants at game's end.  The Atlanta Braves won by the
+slimmest of margins, 3 to 2.
+
+Gregory Soto(1-0) looked good in relief and was the winning pitcher.  He
+didn't give up much, just 1 hit and no walks in 1 inning.  Atlanta ended up
+with 9 hits for the game while New York (NL) had 6.  
+
+Soto was helped out by Craig Kimbrel who recorded his 1st save.  Hector
+Neris(1-1) was the loser in relief.  He gave up 1 run and 1 hit in 2 innings.
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 New York (NL) Mets
+A.Call-A1    A1:G/63    B1:Si      C1:F/7     D1:Si
+                                              
+                                              
+R.Acuna-A1   A2:Si      B2:K       *6*:K      D2:PkOff/
+                                              13>1o Si
+                                              
+O.Albies-A1  A3:SB>12   *4*:HBP    C3:W>b1    D3:P/4
+             Si>2#                            
+                                              
+A.Riley-A1   A4:G-DP/1  B4:F/9     C4:K       D4:G/63
+             63>1o                            
+                                              
+F.Freema-A1  *2*:L/4    B5:L/4     C5:G/63    *9*:L/4
+                                              
+                                              
+M.Garver-A1  A6:Si      B6:W>12 b  *7*:L/6    D6:K
+                        1                     
+                                              
+W.Contre-A1  A7:G-DP/6  B7:Do>2#   C7:K       D7:G/53
+J.Realmu-D8  43>1o      1o                    
+                                              
+D.Swanso-A1  *3*:Si     *5*:K      C8:F/8
+                                   
+                                   
+M.Taylor-A1  A9:G-DP/4  B9:K       *8*:HR>b#
+M.Harris-C9  63>1o                 
+                                   
+
+T.Grisha-A1  A1:G/43    B1:K       C1:K       D1:Sac/54  E1:K
+                                              >12        
+                                                         
+E.Rosari-A1  A2:L/4     *3*:F/8    C2:G/63    D2:L/4
+                                              
+                                              
+J.McNeil-A1  A3:HR>b#   B3:W>b1    *6*:K      D3:F/7
+                                              
+                                              
+P.Alonso-A1  A4:Si      B4:K       C4:W>b1    *8*:Si
+                                              
+                                              
+J.Candel-A1  A5:L/4     B5:F/7     C5:L/4     D5:F/8
+                                              
+                                              
+M.Canha-A1   *2*:F/9    *4*:F/9    C6:HBP>12  D6:F/8
+                                              
+                                              
+F.Alvare-A1  A7:HR>b#   B7:P/6     C7:E/5>23  D7:K
+                                   12         
+                                              
+W.Franco-A1  A8:F/8     B8:L/4     C8:G/43    *9*:F/8
+                                              
+                                              
+A.Diaz-A1    A9:Si      *5*:G/13   *7*:Si     D9:K
+N.Senzel-C9                                   
+M.Ford-D9                                     
+
+

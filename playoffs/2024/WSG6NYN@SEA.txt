@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Seattle Mariners          11/2/2024
+
+[1]  Mets               AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.McNeil 2B         4  0  0  0 .266     J.Crawford SS       4  2  2  1 .246  
+  P.Alonso 1B         5  1  1  1 .221     S.Steer 3B          4  0  0  0 .200  
+  J.Candelario 3B     4  1  0  0 .263     B.Belt 1B           3  0  0  0 .263  
+  M.Canha RF          5  1  3  0 .250     K.Marte 2B          4  0  2  1 .242  
+C-B.Perkins RF        0  0  0  0 .250     J.Rodriguez CF      3  0  0  0 .117  
+  J.Votto DH          3  0  0  0 .105     J.Kelenic LF        3  0  1  0 .219  
+  F.Alvarez C         4  1  1  0 .143   A-S.Garrett PH,LF     0  0  0  0 .158  
+  E.Rosario LF        4  1  2  0 .237     J.Soler DH          3  0  0  0 .136  
+  W.Franco SS         4  0  1  2 .237   B-J.Polanco PH,DH     1  0  0  0 .160  
+  T.Grisham CF        4  0  1  2 .138     M.Kepler RF         3  0  0  0 .224  
+                                          Y.Grandal C         3  0  0  0 .188  
+                                        D-T.Murphy PH         1  0  0  0 .118  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37  5  9  5                 Totals      32  2  5  2
+
+A-Pinch Hit For Kelenic In 8th Inning
+B-Pinch Hit For Soler In 8th Inning
+C-Subbed Defensively (RF) For Canha In 9th Inning
+D-Pinch Hit For Grandal In 9th Inning
+
+Mets............ 1 2 2  0 0 0  0 0 0  -  5  9  0
+Mariners........ 1 0 1  0 0 0  0 0 0  -  2  5  2
+
+[1]Mets (15-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lugo WIN(2-1)           6       5   2   2   1   7   1   3.64  A1 C6
+H.Neris HOLD(3rd)         1 2/3   0   0   0   4   2   0   3.60  C7 D6
+K.Ginkel SAVE(4th)        1 1/3   0   0   0   0   1   0   1.69  D7
+[1]Totals                    9       5   2   2   5  10   1
+
+[1]Mariners (10-7)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Kirby LOSS(1-2)         7       9   5   5   3   8   1   5.93  A1 D7
+J.Jackson                 1       0   0   0   0   1   0   0.00  D8 E1
+A.Munoz                   1       0   0   0   0   3   0   3.18  E2
+[1]Totals                    9       9   5   5   3  12   1
+
+ATTENDANCE- 47,915 DATE- Saturday, November 2nd 2024 TIME- Night 
+UMPIRES- Sam Holbrook, Angel Hernandez, Jim Wolf, Dj Reyburn
+T- 2:49
+LEFT ON BASE- Mets: 8  Mariners: 8
+DOUBLE PLAYS- Mets: 0  Mariners: 0
+ERRORS- S.Steer, Y.Grandal
+DOUBLES- M.Canha(3rd), E.Rosario(5th), T.Grisham(5th), J.Crawford(2nd),
+         J.Kelenic(3rd)
+HOME RUNS- P.Alonso(7th), J.Crawford(4th)
+RBIs- P.Alonso(11th), W.Franco-2(6th), T.Grisham-2(5th), J.Crawford(11th),
+      K.Marte(12th)
+STOLEN BASES- J.Rodriguez(5th)
+WALKS- J.McNeil, J.Candelario, J.Votto, J.Crawford, B.Belt, J.Rodriguez,
+       S.Garrett, M.Kepler
+STRIKE OUTS- P.Alonso-4, J.Candelario-2, M.Canha, J.Votto, F.Alvarez, E.Rosario,
+             W.Franco, T.Grisham, S.Steer, B.Belt, J.Kelenic, J.Soler-3,
+             J.Polanco, M.Kepler, Y.Grandal-2
+2-out RBI- K.Marte, W.Franco-2
+RLISP 2-out- J.Votto, P.Alonso, Y.Grandal, T.Grisham, J.Kelenic, E.Rosario,
+             S.Steer, J.Polanco
+TEAM RISP- Mets: 3 for 12  Mariners: 1 for 10
+
+In a game at T-Mobile Park the New York (NL) Mets got by the Seattle Mariners
+by the score of 5 to 2.
+
+In the top of the 2nd inning New York (NL) went on top for good when they
+scored 2 runs on 3 hits.  That scoring would be all that was needed.  Neither
+team managed to score after the 3rd inning.  
+
+Seth Lugo(2-1) was the winner allowing 2 runs in 6 innings. Kevin Ginkel
+earned the save, his 4th.  George Kirby(1-2) was charged with the loss.  He
+allowed 9 hits and 3 walks in 7 innings.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Seattle Mariners
+J.McNeil-A1  A1:G/43    B1:G/3>23  *4*:G/63   D1:W>b1    E1:P/4
+                                                         
+                                                         
+P.Alonso-A1  A2:HR>b#   B2:K       C2:K       D2:K       *9*:K
+                                                         
+                                                         
+J.Candel-A1  A3:G/3     *3*:W>b1   C3:L/4     *7*:K      E3:K
+                                                         
+                                                         
+M.Canha-A1   A4:Do      B4:Si>12   *5*:F/8    D4:Si      E4:K
+B.Perkin-E5                                              
+                                                         
+J.Votto-A1   A5:L/4     B5:E(foul  C5:G/43    D5:W>12 b
+                        )/2 K                 1
+                                              
+F.Alvare-A1  *2*:Si     B6:L/6     C6:E/5     D6:K
+                                              
+                                              
+E.Rosari-A1  A7:Do>13   B7:Si>23   C7:FO/2    D7:K
+                        12                    
+                                              
+W.Franco-A1  A8:L/4     B8:Si>3#   *6*:G/31   *8*:K
+                        2# 13                 
+                                              
+T.Grisha-A1  A9:Do>3#   B9:FO/5    C9:K       D9:G/43
+             2#                               
+                                              
+
+J.Crawfo-A1  A1:Do      *3*:HR>b#  *5*:G/31   D1:W>12 b  E1:F/8
+                                              1          
+                                                         
+S.Steer-A1   A2:L/5     B2:K       C2:F/7     D2:F/7
+                                              
+                                              
+B.Belt-A1    A3:G/43>2  B3:W>b1    C3:K       *8*:L/4
+             3                                
+                                              
+K.Marte-A1   A4:Si>3#   B4:Si>12   *6*:L/4    D4:G/53
+                                              
+                                              
+J.Rodrig-A1  A5:F/7     B5:Force/  C5:G/63    D5:W>b1
+                        46>23 1o              
+                        b1                    
+J.Keleni-A1  *2*:Do     B6:G/43    C6:K       D6:SB>12
+S.Garret-D6                                   W>b1
+                                              
+J.Soler-A1   A7:K       *4*:K      *7*:K      D7:K
+J.Polanc-D7                                   
+                                              
+M.Kepler-A1  A8:G/43>2  B8:K       C8:W>b1    *9*:G/63
+             3                                
+                                              
+Y.Granda-A1  A9:G/53    B9:K       C9:K       D9:G/53
+T.Murphy-D9                                   
+                                              
+
+

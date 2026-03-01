@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2023 San Diego Padres At 2023 New York (NL) Mets          9/28/2024
+
+[1]  Padres             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  F.Tatis Jr RF       5  0  2  0 .400     J.McNeil 2B         5  1  3  0 .600  
+  B.Marsh CF          1  1  0  0 .000     M.Canha RF          3  2  1  1 .333  
+H-V.Robles PH         1  0  0  0 .000   E-B.Perkins RF        0  0  0  0 ----  
+  C.Walker 1B         3  0  0  0 .000     P.Alonso 1B         3  2  2  0 .667  
+  G.Cooper DH         4  0  0  0 .000     J.Candelario 3B     3  0  1  2 .333  
+  E.Suarez 3B         3  0  1  1 .333     M.Ford DH           0  1  0  0 ----  
+  J.Cronenworth 2B    4  0  1  0 .250   A-N.Senzel PH,DH      4  0  0  0 .000  
+  M.Vierling LF       4  1  2  1 .500     F.Alvarez C         2  1  1  4 .500  
+  T.Walls SS          2  0  0  0 .000   D-G.Sanchez PH,C      2  0  0  0 .000  
+F-T.Marcano PH        1  0  0  0 .000     E.Rosario LF        3  0  0  0 .000  
+  A.Hedges C          1  0  0  0 .000     W.Franco SS         4  0  2  0 .500  
+B-J.Profar PH         1  0  0  0 .000     T.Grisham CF        4  0  1  0 .250  
+C-S.Zavala C          1  0  0  0 .000                                          
+G-L.Campusano PH      1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  6  2                 Totals      33  7 11  7
+
+A-Pinch Hit For Ford In 2nd Inning
+B-Pinch Hit For Hedges In 5th Inning
+C-Subbed Defensively (C ) For Profar In 5th Inning
+D-Pinch Hit For Alvarez In 5th Inning
+E-Subbed Defensively (RF) For Canha In 8th Inning
+F-Pinch Hit For Walls In 9th Inning
+G-Pinch Hit For Zavala In 9th Inning
+H-Pinch Hit For Marsh In 9th Inning
+
+Padres.......... 0 0 0  0 0 0  1 1 0  -  2  6  1
+Mets............ 5 2 0  0 0 0  0 0    -  7 11  0
+
+[1]Padres (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Clevinger LOSS(0-1)     0 1/3   4   5   5   1   0   1 135.00  A1 A6
+S.Manaea                  4       4   2   2   2   4   0   4.50  A7 C5
+N.Martinez                0 2/3   2   0   0   2   0   0   0.00  C6 D2
+T.Cosgrove                1       0   0   0   2   1   0   0.00  D3 D7
+R.Pepiot                  1       1   0   0   0   0   0   0.00  D8 E2
+A.Chafin                  1       0   0   0   1   0   0   0.00  E3
+[1]Totals                    8      11   7   7   8   5   1
+
+[1]Mets (1-0)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Senga WIN(1-0)          6 1/3   3   1   1   4  10   1   1.42  A1 C9
+H.Neris                   1 1/3   2   1   1   1   0   0   6.75  D1 D6
+R.Lopez                   1       1   0   0   0   1   0   0.00  D7 E1
+W.Smith                   0 1/3   0   0   0   0   0   0   0.00  E2
+[1]Totals                    9       6   2   2   5  11   1
+
+ATTENDANCE- 41,840 DATE- Saturday, September 28th 2024 TIME- Day 
+UMPIRES- Bill Welke, Andy Fletcher, Gabe Morales, Chris Segal
+T- 3:12
+LEFT ON BASE- Padres: 9  Mets:11
+DOUBLE PLAYS- Padres: 2  Mets: 1
+ERRORS- T.Walls
+DOUBLES- F.Tatis Jr(1st), J.Cronenworth(1st), P.Alonso-2(2nd),
+         J.Candelario(1st)
+TRIPLES- M.Vierling(1st), J.McNeil(1st)
+HOME RUNS- M.Vierling(1st), F.Alvarez(1st)
+RBIs- E.Suarez(1st), M.Vierling(1st), M.Canha(1st), J.Candelario-2(2nd),
+      F.Alvarez-4(4th)
+WALKS- B.Marsh-3, C.Walker, E.Suarez, M.Canha-2, P.Alonso, J.Candelario-2,
+       M.Ford, G.Sanchez, E.Rosario
+HIT BY PITCH- T.Walls, P.Alonso
+STRIKE OUTS- B.Marsh, C.Walker, G.Cooper-2, E.Suarez-2, J.Cronenworth-2,
+             M.Vierling, T.Walls, A.Hedges, J.McNeil, P.Alonso, N.Senzel,
+             F.Alvarez, E.Rosario
+GIDP- F.Tatis Jr, J.Candelario, N.Senzel
+2-out RBI- E.Suarez
+RLISP 2-out- G.Cooper-2, J.McNeil-2, T.Walls, E.Rosario, T.Grisham,
+             J.Cronenworth, G.Sanchez-2, M.Canha, M.Vierling-2
+TEAM RISP- Padres: 1 for 10  Mets: 3 for 14
+
+Kodai Senga reeled off a total of 10 strikeouts and Jeff McNeil had 3 base
+hits at Citi Field where the New York (NL) Mets beat the San Diego Padres by
+the score of 7 to 2.
+
+Senga(1-0) gave New York (NL) a solid outing.  He went 6 and 1/3 innings
+allowing 3 hits and 4 walks.  Overall New York (NL) out-hit San Diego 11 to
+6.  
+
+Mike Clevinger(0-1) was given the loss.  He surrendered 5 runs and 4 hits in
+1/3 of an inning.  Senga was pleased with his performance.  He noted, 'I had
+good zip on my pitches.  Just as important, my location was right on.  The
+fans really got into the game too - that always helps me.  Now, if I can only
+do that again in my next outing.'
+[2]
+[1]SCORESHEET: 2023 San Diego Padres at 2023 New York (NL) Mets
+F.Tatis -A1  A1:Do      B1:G/53    C1:G/63    D1:G-DP/6  E1:Si
+                                              43>1o      
+                                                         
+B.Marsh-A1   A2:K       B2:W>b1    *6*:W>b1   *8*:W>b1   E2:L/6
+V.Robles-E2                                              
+                                                         
+C.Walker-A1  A3:K       B3:W>12 b  C3:G/3>12  D3:G/43>1
+                        1                     2
+                                              
+G.Cooper-A1  A4:K       B4:F/7     C4:K       D4:F/7
+                                              
+                                              
+E.Suarez-A1  *2*:K      *4*:K      C5:W>b1    D5:Si>2#
+                                              
+                                              
+J.Cronen-A1  A6:K       B6:G/43    C6:K       D6:Do>13
+                                              
+                                              
+M.Vierli-A1  A7:Tr      B7:G/63    *7*:HR>b#  D7:K
+                                              
+                                              
+T.Walls-A1   A8:L/4     *5*:K      C8:HBP     *9*:G/63
+T.Marcan-D8                                   
+                                              
+A.Hedges-A1  *3*:K      B9:G/43    C9:F/8     D9:G/3
+J.Profar-B9                                   
+S.Zavala-C2+                                  
+
+J.McNeil-A1  A1:Tr      B1:G/43    C1:K       *6*:Si     E1:Si>13
+                                                         
+                                                         
+M.Canha-A1   A2:Si>3#   *2*:W>b1   *4*:F/9    D2:W>12 b  E2:F/7
+B.Perkin-E3                                   1          
+                                                         
+P.Alonso-A1  A3:Do>13   B3:Do>13   C3:W>b1    D3:K       *8*:HBP
+                                                         
+                                                         
+J.Candel-A1  A4:P/2     B4:Do>3#   C4:G-DP/1  D4:W>23 1  E4:W>12 b
+                        2#         63>1o      2 b1       1
+                                                         
+M.Ford-A1    A5:W>b1    B5:G/43>2  *5*:K      D5:F/9     E5:G-DP/5
+N.Senzel-B5             3                                4>2o 1o
+                                                         
+F.Alvare-A1  A6:HR>3#   B6:K       C6:W>b1    D6:L/6     E6:P/6
+G.Sanche-C6  2# 1# b#                                    
+                                                         
+E.Rosari-A1  A7:L/4     B7:K       C7:L/4     *7*:W>b1
+                                              
+                                              
+W.Franco-A1  A8:Si      *3*:G/23   C8:Si>13   D8:Force/
+                                              26>1o b1
+                                              
+T.Grisha-A1  A9:Si+E/6  B9:G/53    C9:F/8     D9:F/7
+             >13                              
+                                              
+
+

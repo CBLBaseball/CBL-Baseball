@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 Cleveland Indians At 2023 Baltimore Orioles          10/6/2024
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  S.Kwan LF           3  0  0  1 .000     K.Tucker CF,RF      4  1  1  0 .250  
+  F.Lindor SS         4  0  1  0 .250     A.Rutschman C       4  0  0  0 .000  
+  J.Ramirez 3B        4  0  2  0 .500     Y.Alvarez DH        4  0  1  0 .250  
+  J.Naylor 1B         4  1  1  1 .250     R.Mountcastle 1B    2  2  1  1 .500  
+  A.Gimenez 2B        3  0  0  0 .000   C-R.O'Hearn PH,1B     1  0  0  0 .000  
+  J.Heim C            3  0  1  0 .333     A.Santander LF      3  0  0  0 .000  
+  N.Jones DH          4  0  0  0 .000   E-A.Thomas CF         0  0  0  0 ----  
+  W.Benson RF         2  0  0  0 .000     K.Newman 3B         3  0  1  1 .333  
+A-A.Slater PH,RF      1  0  0  0 .000     A.Hays RF,LF        3  0  1  1 .333  
+D-D.Blanco PH         1  0  0  0 .000     J.Westburg 2B       3  0  1  0 .333  
+  C.Mullins CF        3  1  1  0 .333     J.Mateo SS          2  0  0  0 .000  
+                                        B-G.Henderson PH,SS   0  0  0  0 ----  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  6  2                 Totals      29  3  6  3
+
+A-Pinch Hit For Benson In 7th Inning
+B-Pinch Hit For Mateo In 7th Inning
+C-Pinch Hit For Mountcastle In 8th Inning
+D-Pinch Hit For Slater In 9th Inning
+E-Subbed Defensively (CF) For Santander In 9th Inning
+
+Indians......... 0 0 0  0 0 1  1 0 0  -  2  6  0
+Orioles......... 0 0 0  1 0 2  0 0    -  3  6  1
+
+[1]Indians (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Garrett LOSS(0-1)       6       6   3   3   2   8   1   4.50  A1 C8
+K.Graveman                2       0   0   0   1   0   0   0.00  C9
+[1]Totals                    8       6   3   3   3   8   1
+
+[1]Orioles (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes WIN(1-0)         6       3   1   1   3   9   1   1.50  A1 C7
+R.Borucki HOLD(1st)       0 2/3   3   1   1   0   0   0  13.50  C8 D3
+P.Fairbanks HOLD(1st)     1 1/3   0   0   0   0   2   0   0.00  D4 D7
+F.Bautista SAVE(1st)      1       0   0   0   0   1   0   0.00  D8
+[1]Totals                    9       6   2   2   3  12   1
+
+ATTENDANCE- 42,009 DATE- Sunday, October 6th 2024 TIME- Day 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 2:53
+LEFT ON BASE- Indians: 8  Orioles: 5
+DOUBLE PLAYS- Indians: 1  Orioles: 0
+ERRORS- J.Mateo
+DOUBLES- Y.Alvarez(1st), J.Westburg(1st)
+TRIPLES- C.Mullins(1st)
+HOME RUNS- J.Naylor(1st), R.Mountcastle(1st)
+RBIs- S.Kwan(1st), J.Naylor(1st), R.Mountcastle(1st), K.Newman(1st),
+      A.Hays(1st)
+SACRIFICE FLIES- S.Kwan
+WALKS- S.Kwan, J.Heim, C.Mullins, R.Mountcastle, A.Santander, G.Henderson
+HIT BY PITCH- A.Gimenez
+STRIKE OUTS- S.Kwan, F.Lindor-2, J.Ramirez, J.Heim-2, N.Jones-4, W.Benson,
+             C.Mullins, K.Tucker, A.Rutschman, R.Mountcastle, A.Santander,
+             K.Newman-2, J.Westburg, J.Mateo
+GIDP- A.Rutschman
+2-out RBI- K.Newman, A.Hays
+RLISP 2-out- R.Mountcastle, J.Naylor-3, A.Rutschman, J.Westburg-2
+TEAM RISP- Indians: 0 for 2  Orioles: 2 for 8
+
+The Baltimore Orioles nipped the Cleveland Indians 3 to 2 at Camden Yards in a
+hard fought contest.
+
+Corbin Burnes(1-0) had a solid outing for Baltimore. He was reached for 3 hits
+and 3 walks in 6 innings.  Burnes chalked up 9 strikeouts.  The Cleveland
+bats were silent in the 9th.  
+
+Felix Bautista preserved the game for Burnes, recording his his 1st save.
+Braxton Garrett(0-1) was given the loss.  He pitched 6 innings allowing 6
+hits and 2 walks.
+[2]
+[1]SCORESHEET: 2023 Cleveland Indians at 2023 Baltimore Orioles
+S.Kwan-A1    A1:W>b1    B1:F/8     C1:F/9     D1:SF/8>3  E1:K
+                                              #          
+                                                         
+F.Lindor-A1  A2:K       B2:K       C2:P/6     D2:Si
+                                              
+                                              
+J.Ramire-A1  A3:K       B3:Si+E/6  *6*:G/43   D3:Si>13
+                        >13                   
+                                              
+J.Naylor-A1  A4:F/8     B4:G/43    C4:HR>b#   D4:G/13
+                                              
+                                              
+A.Gimene-A1  *2*:F/8    *4*:G/63   C5:HBP     *8*:G/63
+                                              
+                                              
+J.Heim-A1    A6:W>b1    B6:Si      C6:K       D6:K
+                                              
+                                              
+N.Jones-A1   A7:K       B7:K       C7:K       D7:K
+                                              
+                                              
+W.Benson-A1  A8:K       B8:G/43    *7*:G/63   *9*:F/9
+A.Slater-C8                                   
+D.Blanco-D8                                   
+C.Mullin-A1  *3*:W>b1   *5*:K      C9:Tr      D9:G/43
+                                              
+                                              
+
+K.Tucker-A1  A1:G/43    B1:K       *6*:Si     D1:F/9
+                                              
+                                              
+A.Rutsch-A1  A2:K       B2:G/63    C2:G/43>1  D2:G-DP/6
+                                   2          43>1o
+                                              
+Y.Alvare-A1  A3:Do      *4*:G/43   C3:F/8     *8*:F/7
+                                              
+                                              
+R.Mountc-A1  A4:K       B4:HR>b#   C4:IW>b1   D4:G/43
+R.O'Hear-D4                                   
+                                              
+A.Santan-A1  *2*:K      B5:G/43    C5:W>23 1  D5:L/3
+A.Thomas-D6                        2 b1       
+                                              
+K.Newman-A1  A6:K       B6:K       C6:Si>3#
+                                   23 12
+                                   
+A.Hays-A1    A7:F/8     *5*:G/43   C7:Si>3#
+                                   23 12
+                                   
+J.Westbu-A1  *3*:Do     B8:G/43    C8:K
+                                   
+                                   
+J.Mateo-A1   A9:K       B9:L/6     *7*:W>b1
+G.Hender-C9                        
+                                   
+
+

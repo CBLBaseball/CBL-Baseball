@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Cleveland Indians At 2023 Toronto Blue Jays          10/6/2023
+
+[1]  Indians            AB  R  H RBI AVG     Blue Jays          AB  R  H RBI AVG
+  S.Kwan LF           4  2  3  2 .294     B.Bichette DH       4  1  2  1 .353  
+  F.Lindor SS         5  1  2  4 .353     L.Guillorme 3B,SS   4  0  0  0 .000  
+  J.Ramirez 3B        4  0  1  0 .412     V.Guerrero Jr 1B    3  0  0  0 .133  
+  C.Cron 1B           3  0  0  1 .231     A.Kirk C            4  0  2  0 .267  
+  A.Gimenez 2B        5  1  1  0 .235     L.Gurriel LF        4  0  0  0 .143  
+  O.Gonzalez RF       2  0  0  0 .231     T.Hernandez RF      3  0  0  0 .000  
+A-M.Margot PH,RF      3  0  0  0 .200     T.Story 2B          2  0  0  0 .250  
+  J.Naylor DH         3  2  2  0 .455   C-J.Lowe PH,CF        0  0  0  01.000  
+B-D.Mendick PH,DH     1  0  0  0 .000     M.Rojas SS          2  0  0  0 .000  
+  J.Heim C            4  2  2  3 .333   D-C.Biggio PH,3B      1  0  0  0 .167  
+  C.Mullins CF        3  2  1  0 .154     M.Straw CF          2  0  0  0 .167  
+                                        E-J.Peterson PH,2B    1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      37 10 12 10                 Totals      30  1  4  1
+
+A-Pinch Hit For Gonzalez In 6th Inning
+B-Pinch Hit For Naylor In 7th Inning
+C-Pinch Hit For Story In 8th Inning
+D-Pinch Hit For Rojas In 8th Inning
+E-Pinch Hit For Straw In 8th Inning
+
+Indians......... 0 0 0  0 5 5  0 0 0  - 10 12  0
+Blue Jays....... 1 0 0  0 0 0  0 0 0  -  1  4  0
+
+[1]Indians (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Bieber WIN(1-1)         6       2   1   1   1   5   1   2.92  A1 C3
+B.Baker                   2       1   0   0   1   2   0   0.00  C4 D2
+B.Boxberger               1       1   0   0   0   0   0   0.00  D3
+[1]Totals                    9       4   1   1   2   7   1
+
+[1]Blue Jays (1-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Manoah LOSS(1-1)        4 1/3   3   3   3   2   5   0   4.91  A1 B9
+B.Raley                   0 2/3   2   2   2   0   1   1  16.20  C1 C4
+J.Sears                   0       1   1   1   0   0   0   ----  C5 C5
+T.Clarke                  0 1/3   4   4   4   0   0   1  54.00  C6 D1
+T.Mayza                   0 2/3   2   0   0   1   0   0   0.00  D2 D5
+J.Garcia                  1 1/3   0   0   0   1   3   0   0.00  D6 E1
+J.Romano                  1 2/3   0   0   0   0   2   0   0.00  E2
+[1]Totals                    9      12  10  10   4  11   2
+
+ATTENDANCE- 48,110 DATE- Friday, October 6th 2023 TIME- Night 
+UMPIRES- Chris Segal, Bill Welke, Andy Fletcher, Gabe Morales
+T- 3:05
+LEFT ON BASE- Indians: 5  Blue Jays: 4
+DOUBLE PLAYS- Indians: 1  Blue Jays: 1
+DOUBLES- A.Kirk(1st)
+HOME RUNS- F.Lindor(2nd), J.Heim(1st), B.Bichette(1st)
+RBIs- S.Kwan-2(2nd), F.Lindor-4(6th), C.Cron(3rd), J.Heim-3(3rd),
+      B.Bichette(1st)
+WALKS- S.Kwan, J.Ramirez, C.Cron, C.Mullins, V.Guerrero Jr, J.Lowe
+HIT BY PITCH- C.Cron
+STRIKE OUTS- C.Cron-3, A.Gimenez-2, M.Margot-2, J.Naylor, D.Mendick,
+             C.Mullins-2, V.Guerrero Jr-2, L.Gurriel, T.Hernandez-2, C.Biggio,
+             J.Peterson
+GIDP- A.Gimenez, L.Gurriel
+RLISP 2-out- T.Hernandez, L.Guillorme
+TEAM RISP- Indians: 5 for 6  Blue Jays: 0 for 3
+WEB GEMS- Top 5th: Miguel Rojas robbed Oscar Gonzalez of a base hit.
+
+Shane Bieber went 6 solid innings at Rogers Centre where the Cleveland Indians
+beat the Toronto Blue Jays 10 to 1.
+
+Toronto never recovered after Cleveland took the lead in the 5th inning when
+they came up with 5 runs on 4 hits.  The highlight belonged to Francisco
+Lindor who silenced Rogers Centre as he clubbed a three-run home run.
+Cleveland ended up with 12 hits for the game while Toronto had 4.  
+
+The victory went to Bieber(1-1) who went 6 innings, allowing 1 run. Alek
+Manoah(1-1) was the loser.  He gave up 3 runs and 3 hits in 4 and 1/3
+innings.  
+
+[2]
+[1]SCORESHEET: 2023 Cleveland Indians at 2023 Toronto Blue Jays
+S.Kwan-A1    A1:G/53    B1:Si      C1:Si>3#   D1:Si>13   E1:W>b1
+                                   2# 13                 
+                                                         
+F.Lindor-A1  A2:G/53    B2:F/8     C2:HR>3#   D2:Si>3#   E2:PkOff/
+                                   1# b#      12         13>1o L/4
+                                                         
+J.Ramire-A1  A3:W>b1    *4*:F/8    C3:FO/5    D3:Si>23   *9*:G/31
+                                              12         
+                                                         
+C.Cron-A1    A4:K       B4:K       C4:K       D4:IW>3#   E4:HBP
+                                              23 12 b1   
+                                                         
+A.Gimene-A1  *2*:L/4    B5:K       *6*:Si     D5:G-DP/4  E5:K
+                                              63>1o      
+                                                         
+O.Gonzal-A1  A6:G/63    *5*:G/63   C6:F/9     *7*:K      E6:K
+M.Margot-C6                                              
+                                                         
+J.Naylor-A1  A7:K       B7:Si      C7:Si>12   D7:K
+D.Mendic-D7                                   
+                                              
+J.Heim-A1    *3*:F/8    B8:Si>13   C8:HR>2#   D8:P/6
+                                   1# b#      
+                                              
+C.Mullin-A1  A9:K       B9:W>12 b  C9:Si      *8*:K
+                        1                     
+                                              
+
+B.Bichet-A1  A1:HR>b#   B1:G/63    *6*:G/43   D1:Si>12
+                                              
+                                              
+L.Guillo-A1  A2:L/4     B2:L/4     C2:G/43    D2:F/9
+                                              
+                                              
+V.Guerre-A1  A3:W>b1    *4*:K      C3:K       *9*:L/6
+                                              
+                                              
+A.Kirk-A1    A4:L/4     B4:Do      *7*:G/63   D4:Si
+                                              
+                                              
+L.Gurrie-A1  A5:G/43    B5:K       C5:F/8     D5:G-DP/1
+                                              63>1o
+                                              
+T.Hernan-A1  *2*:K      B6:K       C6:G/53
+                                   
+                                   
+T.Story-A1   A7:G/43    *5*:F/8    *8*:W>b1
+J.Lowe-C7                          
+                                   
+M.Rojas-A1   A8:G/63    B8:L/5     C8:K
+C.Biggio-C8                        
+                                   
+M.Straw-A1   *3*:L/6    B9:P/4     C9:K
+J.Peters-C9                        
+                                   
+
+

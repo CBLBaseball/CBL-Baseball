@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 New York (NL) Mets         10/29/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  J.Crawford SS       4  1  0  0 .250     J.McNeil 2B         4  1  2  0 .290  
+  S.Steer 3B          4  2  2  0 .226     P.Alonso 1B         4  3  2  3 .246  
+  K.Marte 2B          4  0  2  2 .235     J.Candelario 3B     4  2  3  2 .292  
+  B.Belt 1B           3  1  1  1 .290     M.Canha RF          2  1  1  0 .211  
+  J.Polanco DH        2  0  0  1 .182   A-B.Perkins PH,RF     2  0  0  0 .200  
+  M.Kepler RF         3  0  0  0 .238     M.Ford DH           3  0  0  0 .500  
+C-J.Soler PH,RF       1  0  0  0 .162   B-J.Votto PH,DH       1  0  0  0 .125  
+  J.Rodriguez CF      3  0  0  0 .140     G.Sanchez C         3  1  1  3 .143  
+  J.Kelenic LF        4  0  0  0 .207     T.Grisham CF        4  0  1  0 .127  
+  Y.Grandal C         3  0  0  0 .231     W.Franco SS         3  0  0  0 .245  
+D-S.Garrett PH        1  0  0  0 .188     E.Rosario LF        4  0  2  0 .231  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  5  4                 Totals      34  8 12  8
+
+A-Pinch Hit For Canha In 5th Inning
+B-Pinch Hit For Ford In 7th Inning
+C-Pinch Hit For Kepler In 8th Inning
+D-Pinch Hit For Grandal In 9th Inning
+
+Mariners........ 1 0 0  0 2 0  0 1 0  -  4  5  0
+Mets............ 5 2 0  0 0 0  1 0    -  8 12  0
+
+[1]Mariners (10-4)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Gilbert LOSS(2-1)       8      12   8   8   1   8   4   4.43  A1
+[1]Totals                    8      12   8   8   1   8   4
+
+[1]Mets (12-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Keller WIN(2-1)         6 1/3   4   3   3   3  11   0   4.30  A1 C9
+H.Neris                   1 2/3   1   1   1   0   1   1   4.05  D1 D6
+D.Robertson               1       0   0   0   0   2   0   7.04  D7
+[1]Totals                    9       5   4   4   3  14   1
+
+ATTENDANCE- 39,316 DATE- Tuesday, October 29th 2024 TIME- Night 
+UMPIRES- Marvin Hudson, Adrian Johnson, John Tumpane, Ryan Blakney
+T- 3:03
+LEFT ON BASE- Mariners: 6  Mets: 4
+DOUBLE PLAYS- Mariners: 1  Mets: 0
+DOUBLES- S.Steer(3rd), J.Candelario-2(9th), T.Grisham(4th)
+TRIPLES- K.Marte(2nd)
+HOME RUNS- B.Belt(2nd), P.Alonso-2(6th), J.Candelario(3rd), G.Sanchez(2nd)
+RBIs- K.Marte-2(10th), B.Belt(4th), J.Polanco(7th), P.Alonso-3(10th),
+      J.Candelario-2(13th), G.Sanchez-3(7th)
+SACRIFICE HITS- W.Franco
+SACRIFICE FLIES- J.Polanco
+WALKS- J.Crawford, B.Belt, J.Polanco, G.Sanchez
+HIT BY PITCH- J.Rodriguez
+STRIKE OUTS- J.Crawford-2, S.Steer, B.Belt-2, J.Polanco, M.Kepler, J.Rodriguez,
+             J.Kelenic-3, Y.Grandal-2, S.Garrett, J.McNeil, B.Perkins, M.Ford,
+             G.Sanchez, T.Grisham-2, W.Franco, E.Rosario
+GIDP- P.Alonso
+PASSED BALLS- G.Sanchez
+2-out RBI- J.Candelario-2, K.Marte-2
+RLISP 2-out- M.Kepler-2, B.Belt, T.Grisham, E.Rosario
+TEAM RISP- Mariners: 2 for 4  Mets: 2 for 8
+WEB GEMS- Top 8th: Hector Neris robbed Jorge Polanco of a base hit.
+
+Mitch Keller dominated striking out 11 Seattle batters and Pete Alonso knocked
+2 homeruns and had 3 RBI as the New York (NL) Mets outscored the Seattle
+Mariners 8 to 4.
+
+Alonso provided much of the offense.  He lifted one out of the park for a two
+run home run in the 1st inning and cracked a solo homerun in the 7th inning.
+New York (NL) ended up with 12 hits for the game while Seattle had 5.  
+
+The victory was credited to Keller(2-1) who went 6 and 1/3 innings, allowing 3
+runs. Logan Gilbert(2-1) was given the loss.  He served up 4 homeruns in his
+8 innings.  
+
+Scott Servais was upset after the game.  'I don't like to complain but did you
+see that umpires strike zone?', he said.  'Maybe they ought to start calling
+the strike zone the way it's printed in the rule book.'
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 New York (NL) Mets
+J.Crawfo-A1  A1:K       *3*:G/3    C1:W>b1    D1:K       E1:G/63
+                                                         
+                                                         
+S.Steer-A1   A2:Do      B2:K       C2:Si>13   D2:L/5
+                                              
+                                              
+K.Marte-A1   A3:Si>23   B3:G/43    C3:Tr>3#   *8*:L/4
+                                   1#         
+                                              
+B.Belt-A1    A4:W>12 b  *4*:K      C4:K       D4:HR>b#
+             1                                
+                                              
+J.Polanc-A1  A5:SF/8>3  B5:W>b1    *6*:K      D5:G/13
+             # 23 12                          
+                                              
+M.Kepler-A1  A6:K       B6:L/4     C6:G/3     D6:G/31
+J.Soler-D6                                    
+                                              
+J.Rodrig-A1  *2*:F/9    B7:G/63    C7:PB+K    *9*:HBP
+                                              
+                                              
+J.Keleni-A1  A8:G/13    *5*:K      C8:K       D8:K
+                                              
+                                              
+Y.Granda-A1  A9:K       B9:G/43    *7*:K      D9:K
+S.Garret-D9                                   
+                                              
+
+J.McNeil-A1  A1:Si      B1:Si>12   C1:Force/  D1:K
+                                   64>1o b1   
+                                              
+P.Alonso-A1  A2:HR>1#   B2:G-DP/5  C2:F/8     *7*:HR>b#
+             b#         4>2o 1o               
+                                              
+J.Candel-A1  A3:Do      B3:HR>1#   *5*:Do     D3:F/7
+                        b#                    
+                                              
+M.Canha-A1   A4:Si>23   B4:F/8     C4:P/3     D4:K
+B.Perkin-C4                                   
+                                              
+M.Ford-A1    A5:F/8     *3*:G/63   C5:K       D5:L/4
+J.Votto-D5                                    
+                                              
+G.Sanche-A1  A6:HR>3#   B6:K       C6:W>b1    *8*:G/31
+             1# b#                            
+                                              
+T.Grisha-A1  A7:P/3     B7:K       C7:K       D7:Do
+                                              
+                                              
+W.Franco-A1  A8:G/3     *4*:F/9    *6*:K      D8:Sac/34
+                                              >23
+                                              
+E.Rosari-A1  *2*:Si     B9:Si      C9:F/8     D9:K
+                                              
+                                              
+
+

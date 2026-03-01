@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 New York (NL) Mets           10/15/2023
+
+[1]  Braves             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Yelich LF         4  1  1  0 .241     J.Bell DH           4  0  1  0 .214  
+B-M.Taylor LF         0  0  0  0 .231     M.Canha LF          3  1  1  0 .171  
+  A.Riley 3B          4  0  1  0 .176     J.McNeil 2B         4  0  1  0 .293  
+  M.Harris CF         4  1  1  0 .294     P.Alonso 1B         2  1  1  2 .265  
+  R.Acuna RF          4  1  2  3 .357     B.Gamel RF          3  0  0  0 .143  
+  F.Freeman 1B        3  0  1  0 .212     E.Escobar 3B        3  0  0  0 .333  
+  W.Contreras DH      4  0  0  0 .316   A-Y.Chang PH,3B       1  0  0  0 .000  
+  J.Realmuto C        4  1  1  1 .333     T.D'Arnaud C        4  1  1  1 .280  
+  N.Gordon 2B         4  0  0  0 .222     T.Grisham CF        4  0  0  0 .069  
+C-O.Albies 2B         0  0  0  0 .231     J.Iglesias SS       4  0  0  0 .111  
+  D.Swanson SS        4  1  1  1 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  8  5                 Totals      32  3  5  3
+
+A-Pinch Hit For Escobar In 8th Inning
+B-Subbed Defensively (LF) For Yelich In 9th Inning
+C-Subbed Defensively (2B) For Gordon In 9th Inning
+
+Braves.......... 0 1 0  0 0 3  0 1 0  -  5  8  0
+Mets............ 2 0 0  0 1 0  0 0 0  -  3  5  1
+
+[1]Braves (7-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Strider WIN(1-0)        5 1/3   4   3   3   3  10   2   3.97  A1 C5
+C.McHugh HOLD(2nd)        1 2/3   0   0   0   0   2   0   0.00  C6 D1
+D.Castillo HOLD(3rd)      0 1/3   1   0   0   0   1   0   0.00  D2 D4
+D.Robertson HOLD(2nd)     0 2/3   0   0   0   0   2   0   9.00  D5 D6
+C.Kimbrel SAVE(2nd)       1       0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       5   3   3   3  17   2
+
+[1]Mets (6-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Keller LOSS(1-1)        5 2/3   5   4   4   0   6   3   4.15  A1 C4
+A.Cimber                  1 1/3   2   1   1   0   1   0   5.68  C5 D1
+H.Neris                   0 2/3   1   0   0   1   2   0   5.68  D2 D5
+A.Ottavino                1 1/3   0   0   0   0   3   0   1.69  D6
+[1]Totals                    9       8   5   5   1  12   3
+
+ATTENDANCE- 41,216 DATE- Sunday, October 15th 2023 TIME- Night 
+UMPIRES- James Hoye, Bruce Dreckman, Pat Hoberg, Paul Emmel
+T- 2:38
+LEFT ON BASE- Braves: 4  Mets: 6
+DOUBLE PLAYS- Braves: 0  Mets: 0
+ERRORS- J.McNeil
+DOUBLES- C.Yelich(2nd), A.Riley(3rd), R.Acuna(3rd), F.Freeman(3rd)
+HOME RUNS- R.Acuna(2nd), J.Realmuto(2nd), D.Swanson(3rd), P.Alonso(5th),
+           T.D'Arnaud(1st)
+RBIs- R.Acuna-3(7th), J.Realmuto(5th), D.Swanson(8th), P.Alonso-2(11th),
+      T.D'Arnaud(3rd)
+STOLEN BASES- M.Harris(1st)
+WALKS- F.Freeman, M.Canha, P.Alonso, B.Gamel
+HIT BY PITCH- P.Alonso
+STRIKE OUTS- C.Yelich-2, A.Riley-2, M.Harris-2, W.Contreras-2, J.Realmuto,
+             N.Gordon, D.Swanson-2, J.Bell, M.Canha, J.McNeil-3, B.Gamel-2,
+             E.Escobar-2, Y.Chang, T.D'Arnaud-3, T.Grisham-2, J.Iglesias-2
+2-out RBI- P.Alonso-2, J.Realmuto, R.Acuna-3
+RLISP 2-out- R.Acuna, W.Contreras-2, T.D'Arnaud-2, Y.Chang
+TEAM RISP- Braves: 2 for 8  Mets: 0 for 4
+
+Ronald Acuna hit one over the fence and had 3 RBI and Spencer Strider struck
+out 10 batters as the Atlanta Braves outscored the New York (NL) Mets 5 to
+3.
+
+Strider(1-0) earned his pay with a solid performance for Atlanta.  He went 5
+and 1/3 innings allowing 4 hits and 3 walks and allowed 2 gopher balls.
+Atlanta had 8 hits for the game and New York (NL) had 5.  
+
+Strider was helped out by Craig Kimbrel who recorded his 2nd save.  Mitch
+Keller(1-1) absorbed the loss.  He served up 3 gopher balls in 5 and 2/3
+innings.  
+
+'I had my good stuff tonight.' Strider said. 'As the game went along I started
+to get the feeling that I was going to strike out a bunch of hitters.'
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 New York (NL) Mets
+C.Yelich-A1  A1:G/63    B1:K       C1:K       *8*:Do
+M.Taylor-E1                                   
+                                              
+A.Riley-A1   A2:Do      B2:K       C2:L/6     D2:K
+                                              
+                                              
+M.Harris-A1  A3:G/63    *4*:K      C3:Si+E/4  D3:K
+                                              
+                                              
+R.Acuna-A1   A4:G/53    B4:G/63    C4:SB>23   D4:Do>2#
+                                   HR>3# b#   
+                                              
+F.Freema-A1  *2*:P/6    B5:G/63    C5:Do      D5:IW>b1
+                                              
+                                              
+W.Contre-A1  A6:L/6     *5*:K      C6:G/63    D6:K
+                                              
+                                              
+J.Realmu-A1  A7:HR>b#   B7:G/13    *7*:G/63   *9*:K
+                                              
+                                              
+N.Gordon-A1  A8:K       B8:G/43    C8:G/43    D8:F/9
+O.Albies-E1                                   
+                                              
+D.Swanso-A1  *3*:G/53   *6*:HR>b#  C9:K       D9:K
+                                              
+                                              
+
+J.Bell-A1    A1:Si      B1:F/7     C1:K       D1:L/4
+                                              
+                                              
+M.Canha-A1   A2:Force/  B2:Si      *6*:W>b1   *8*:K
+             64>1o b1                         
+                                              
+J.McNeil-A1  A3:K       B3:K       C3:K       D3:Si
+                                              
+                                              
+P.Alonso-A1  A4:HR>1#   *4*:F/7    C4:W>12 b  D4:HBP>12
+             b#                    1          
+                                              
+B.Gamel-A1   A5:G/43    B5:K       C5:W>23 1  D5:K
+                                   2 b1       
+                                              
+E.Escoba-A1  *2*:K      B6:P/6     C6:K       D6:K
+Y.Chang-D6                                    
+                                              
+T.D'Arna-A1  A7:K       *5*:HR>b#  C7:K       *9*:K
+                                              
+                                              
+T.Grisha-A1  A8:K       B8:K       *7*:G/63   D8:L/3
+                                              
+                                              
+J.Iglesi-A1  *3*:G/31   B9:K       C9:G/31    D9:K
+                                              
+                                              
+
+

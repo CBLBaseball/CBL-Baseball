@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 Cleveland Indians At 2023 Baltimore Orioles          10/7/2024
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  S.Kwan LF           4  0  0  0 .000     K.Tucker CF,RF      2  1  0  1 .167  
+  F.Lindor SS         4  0  0  0 .125     A.Rutschman C       4  1  1  2 .125  
+  J.Ramirez 3B        4  1  2  1 .500     Y.Alvarez DH        4  1  1  3 .250  
+  J.Naylor 1B         4  0  2  0 .375     A.Santander LF      4  0  0  0 .000  
+  A.Gimenez 2B        4  0  1  0 .143     G.Henderson SS      4  0  0  0 .000  
+  J.Heim C            3  1  1  1 .333     J.Caballero 2B      4  1  1  0 .250  
+  N.Jones DH          4  0  0  0 .000     R.O'Hearn 1B        4  1  2  0 .400  
+  W.Benson RF         2  0  0  0 .000     J.Triolo 3B         1  2  1  01.000  
+A-R.Adams PH          1  0  0  0 .000     A.Hays RF           2  0  2  1 .600  
+B-A.Slater RF         1  0  0  0 .000   C-A.Thomas PH,CF      1  0  0  0 .000  
+  C.Mullins CF        2  0  1  0 .400                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  7  2                 Totals      30  7  8  7
+
+A-Pinch Hit For Benson In 7th Inning
+B-Subbed Defensively (RF) For Adams In 7th Inning
+C-Pinch Hit For Hays In 7th Inning
+
+Indians......... 0 0 0  1 0 0  0 1 0  -  2  7  0
+Orioles......... 0 0 0  0 2 0  5 0    -  7  8  0
+
+[1]Indians (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Bibee LOSS(0-1)         4 1/3   5   2   2   1   2   0   4.15  A1 B9
+T.Stephan                 1 2/3   0   0   0   0   2   0   0.00  C1 C5
+N.Sandlin                 0 2/3   2   4   4   1   1   0  54.00  C6 D2
+E.De Los San              1 1/3   1   1   1   0   2   1   6.75  D3
+[1]Totals                    8       8   7   7   2   7   1
+
+[1]Orioles (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Bradish WIN(1-0)        6       5   1   1   2   4   1   1.50  A1 C6
+R.Borucki HOLD(2nd)       1       1   0   0   0   0   0   5.40  C7 D1
+J.Lopez                   2       1   1   1   0   4   1   4.50  D2
+[1]Totals                    9       7   2   2   2   8   2
+
+ATTENDANCE- 37,604 DATE- Monday, October 7th 2024 TIME- Day 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 3:06
+LEFT ON BASE- Indians: 6  Orioles: 3
+DOUBLE PLAYS- Indians: 1  Orioles: 1
+DOUBLES- C.Mullins(1st), A.Hays(1st)
+HOME RUNS- J.Ramirez(1st), J.Heim(1st), Y.Alvarez(1st)
+RBIs- J.Ramirez(1st), J.Heim(1st), K.Tucker(1st), A.Rutschman-2(2nd),
+      Y.Alvarez-3(3rd), A.Hays(2nd)
+STOLEN BASES- J.Caballero(1st)
+SACRIFICE FLIES- K.Tucker
+WALKS- J.Heim, C.Mullins, J.Triolo-2
+HIT BY PITCH- K.Tucker
+STRIKE OUTS- F.Lindor-2, A.Gimenez, J.Heim, N.Jones, W.Benson-2, A.Slater,
+             A.Rutschman, Y.Alvarez, A.Santander-3, J.Caballero, R.O'Hearn
+GIDP- S.Kwan, A.Rutschman
+2-out RBI- J.Heim, A.Rutschman-2, Y.Alvarez-3
+RLISP 2-out- A.Gimenez, C.Mullins, A.Rutschman, J.Heim, S.Kwan
+TEAM RISP- Indians: 0 for 5  Orioles: 4 for 9
+
+The Baltimore Orioles plated 5 runs in the 7th inning and had very little
+trouble at Camden Yards downing the Cleveland Indians.  The score was 7 to
+2.
+
+Baltimore jumped on top to stay in the bottom of the 5th inning plating 2 runs
+utilizing 2 base hits.  After an out was recorded, Ryan O'Hearn opened up the
+rally as he smacked a single.  Jared Triolo followed next and he drew a walk.
+Austin Hays then doubled resulting in a run.  Kyle Tucker was up next and he
+hit a deep fly scoring the final run of the inning.  Baltimore rapped out 8
+hits for the afternoon.  
+
+Kyle Bradish(1-0) went 6 innings allowing 1 run for the victory. Tanner
+Bibee(0-1) was tagged with the loss.  He pitched 4 and 1/3 innings giving up
+5 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2023 Cleveland Indians at 2023 Baltimore Orioles
+S.Kwan-A1    A1:FO/2    *3*:F/8    C1:G-DP/3  D1:G/63
+                                   63>1o      
+                                              
+F.Lindor-A1  A2:FO/2    B2:K       *6*:K      *8*:G/31
+                                              
+                                              
+J.Ramire-A1  A3:Si      B3:G/43    C3:F/8     D3:HR>b#
+                                              
+                                              
+J.Naylor-A1  A4:Si>12   *4*:G/43   C4:Si      D4:FO/2
+                                              
+                                              
+A.Gimene-A1  A5:G/43    B5:L/4     C5:Si>12   D5:K
+                                              
+                                              
+J.Heim-A1    *2*:W>b1   B6:HR>b#   C6:L/4     *9*:K
+                                              
+                                              
+N.Jones-A1   A7:G/63>1  B7:F/7     *7*:F/8    D7:K
+             2                                
+                                              
+W.Benson-A1  A8:K       *5*:K      C8:F/8     D8:K
+R.Adams-C8                                    
+A.Slater-D2                                   
+C.Mullin-A1  A9:G/43    B9:W>b1    C9:Do
+                                   
+                                   
+
+K.Tucker-A1  A1:G/43    B1:P/4     C1:SF/7>3  D1:HBP>12
+                                   #          
+                                              
+A.Rutsch-A1  A2:K       B2:G-DP/1  C2:G/53    D2:Si>3#
+                        23>3o                 2# 12
+                                              
+Y.Alvare-A1  A3:F/8     *4*:G/43   *6*:K      D3:HR>2#
+                                              1# b#
+                                              
+A.Santan-A1  *2*:L/4    B4:K       C4:K       D4:K
+                                              
+                                              
+G.Hender-A1  A5:F/9     B5:L/4     C5:G/13    *8*:G/23
+                                              
+                                              
+J.Caball-A1  A6:G/63    *5*:G/43   *7*:Si     D6:K
+                                              
+                                              
+R.O'Hear-A1  *3*:Si     B7:Si      C7:SB>12   D7:G/63
+                                   K          
+                                              
+J.Triolo-A1  A8:Si>12   B8:W>12 b  C8:W>b1
+                        1          
+                                   
+A.Hays-A1    A9:Si>23   B9:Do>2#   C9:F/9>23
+A.Thomas-C9  12         13         
+                                   
+
+

@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Seattle Mariners         10/27/2024
+
+[1]  Mets               AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.McNeil 2B         5  0  1  0 .277     J.Crawford SS       4  1  1  0 .273  
+  P.Alonso 1B         4  1  1  0 .230     S.Steer 1B          5  1  1  1 .204  
+  J.Candelario 3B     3  0  1  1 .262     K.Marte 2B          3  1  0  0 .213  
+  M.Canha RF          2  0  0  0 .194     J.Rodriguez CF      4  1  2  2 .149  
+A-N.Senzel PH,RF      1  0  0  0 .133     J.Polanco 3B        3  0  0  0 .200  
+  J.Votto DH          2  0  0  0 .133   D-J.Meyers PH,RF      1  0  1  0 .182  
+B-C.Perez PH,DH       1  0  0  0 .200     M.Kepler RF         4  2  2  4 .256  
+  F.Alvarez C         4  0  0  0 .128   E-E.Escobar 3B        0  0  0  0 .000  
+  E.Rosario LF        4  0  1  0 .213     J.Soler DH          4  0  1  0 .167  
+  W.Franco SS         2  0  1  0 .261     J.Kelenic LF        4  1  1  0 .240  
+C-A.Diaz PH,SS        1  0  0  0 .400     Y.Grandal C         4  1  2  1 .261  
+  T.Grisham CF        2  0  0  0 .118                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      36  8 11  8
+
+A-Pinch Hit For Canha In 6th Inning
+B-Pinch Hit For Votto In 6th Inning
+C-Pinch Hit For Franco In 7th Inning
+D-Pinch Hit For Polanco In 7th Inning
+E-Subbed Defensively (3B) For Kepler In 8th Inning
+
+Mets............ 0 0 0  0 0 0  0 1 0  -  1  5  1
+Mariners........ 4 0 0  3 1 0  0 0    -  8 11  0
+
+[1]Mets (11-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lugo LOSS(1-1)          6       9   8   5   2   4   2   3.80  A1 D3
+S.Matz                    2       2   0   0   0   1   0   0.00  D4
+[1]Totals                    8      11   8   5   2   5   2
+
+[1]Mariners (10-3)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Kirby WIN(1-1)          7       5   1   1   2   8   0   5.75  A1 D3
+P.Sewald                  1       0   0   0   1   0   0   0.00  D4 D6
+T.Saucedo                 1       0   0   0   2   0   0   3.00  D7
+[1]Totals                    9       5   1   1   5   8   0
+
+ATTENDANCE- 43,261 DATE- Sunday, October 27th 2024 TIME- Night 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 2:47
+LEFT ON BASE- Mets:10  Mariners: 6
+DOUBLE PLAYS- Mets: 0  Mariners: 1
+ERRORS- J.Candelario
+DOUBLES- E.Rosario(3rd), S.Steer(2nd), J.Kelenic(2nd)
+TRIPLES- P.Alonso(1st), J.Candelario(2nd)
+HOME RUNS- M.Kepler-2(3rd)
+RBIs- J.Candelario(11th), S.Steer(6th), J.Rodriguez-2(8th), M.Kepler-4(9th),
+      Y.Grandal(1st)
+STOLEN BASES- W.Franco(4th), J.Rodriguez(4th)
+WALKS- J.Candelario, N.Senzel, A.Diaz, T.Grisham-2, J.Crawford, K.Marte
+HIT BY PITCH- P.Alonso, C.Perez
+STRIKE OUTS- J.McNeil, P.Alonso-2, J.Candelario, J.Votto, F.Alvarez-2, A.Diaz,
+             K.Marte, J.Rodriguez, J.Polanco, J.Kelenic, Y.Grandal
+GIDP- F.Alvarez
+2-out RBI- M.Kepler-3, J.Rodriguez
+RLISP 2-out- T.Grisham-2, K.Marte, J.Votto-2, J.Polanco, P.Alonso
+TEAM RISP- Mets: 2 for 10  Mariners: 4 for 8
+WEB GEMS- Bot 7th: Eddie Rosario robbed Julio Rodriguez of an extra base hit.
+
+Max Kepler ripped 2 homeruns and had 4 RBI as the Seattle Mariners defeated
+the New York (NL) Mets 8 to 1 at T-Mobile Park.
+
+It was a good day for Seattle thanks to Kepler.  He smacked a three-run homer
+in the 1st inning and smashed a solo-shot out of the park in the 5th inning.
+Seattle finished with 11 hits while New York (NL) ended up with 5.  
+
+George Kirby(1-1) went 7 innings allowing 1 run for the victory. Seth
+Lugo(1-1) suffered the loss.  He was hit hard and gave up 9 hits and 2 walks
+in 6 innings.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Seattle Mariners
+J.McNeil-A1  A1:K       *3*:Si     C1:G/43    D1:F/7     E1:F/8
+                                                         
+                                                         
+P.Alonso-A1  A2:K       B2:HBP>12  C2:K       *8*:Tr     E2:F/8
+                                                         
+                                                         
+J.Candel-A1  A3:W>b1    B3:K       *6*:F/8    D3:Tr>3#
+                                              
+                                              
+M.Canha-A1   A4:G/53    B4:G/53>2  C4:F/8     D4:W>b1
+N.Senzel-C4             3 12                  
+                                              
+J.Votto-A1   *2*:K      B5:F/8     C5:HBP     D5:L/6
+C.Perez-C5                                    
+                                              
+F.Alvare-A1  A6:G/53    *4*:K      C6:K       D6:G-DP/6
+                                              43>1o
+                                              
+E.Rosari-A1  A7:Do      B7:F/9     *7*:L/4    *9*:F/9
+                                              
+                                              
+W.Franco-A1  A8:Si>23   B8:G/31    C8:K       D8:W>b1
+A.Diaz-C8                                     
+                                              
+T.Grisha-A1  A9:SB>12   *5*:F/9    C9:W>b1    D9:W>12 b
+             F/7                              1
+                                              
+
+J.Crawfo-A1  A1:W>b1    B1:G/43    C1:Si>13   *6*:G/31   E1:F/9
+                                                         
+                                                         
+S.Steer-A1   A2:F/9     B2:Do      C2:Force/  D2:G/63    E2:P/6
+                                   16>3# 1o              
+                                   b1                    
+K.Marte-A1   A3:E/5>12  B3:K       C3:W>12 b  D3:G/3
+                                   1          
+                                              
+J.Rodrig-A1  A4:Si>2#   *3*:K      C4:Si>2#   *7*:F/7
+             13                    12         
+                                              
+J.Polanc-A1  A5:SB>12   B5:L/4     C5:F/9     D5:Si
+J.Meyers-D5  K                                
+                                              
+M.Kepler-A1  A6:HR>3#   B6:L/3     *5*:HR>b#  D6:F/9
+E.Escoba-D8  2# b#                            
+                                              
+J.Soler-A1   A7:Si      *4*:F/8    C7:G/63    D7:L/6
+                                              
+                                              
+J.Keleni-A1  A8:L/3     B8:Do      C8:F/9     *8*:K
+                                              
+                                              
+Y.Granda-A1  *2*:L/4    B9:Si>2#   C9:K       D9:Si
+                                              
+                                              
+
+

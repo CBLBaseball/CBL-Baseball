@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2023 Colorado Rockies At 2023 New York (NL) Mets          9/30/2023
+
+[1]  Rockies            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  B.Rodgers 2B        4  1  1  0 .091     J.Bell DH           5  1  1  0 .154  
+  C.Dickerson LF      3  0  1  1 .333     M.Canha LF,RF       3  2  1  0 .222  
+  M.Machado 3B        3  0  0  0 .111     J.McNeil 2B         3  1  0  0 .250  
+  O.Cruz SS           4  0  1  0 .250     P.Alonso 1B         4  2  2  3 .364  
+  G.Stanton RF        4  0  0  0 .000     B.Gamel RF          2  2  0  0 .000  
+  R.McMahon DH        3  0  0  0 .000   A-E.White LF          0  0  0  0 ----  
+  Y.Gurriel 1B        4  0  0  0 .091     P.Higgins C         3  1  1  5 .333  
+  A.Pollock CF        3  0  1  0 .273   B-T.D'Arnaud C        0  0  0  0 .286  
+  T.Nido C            3  0  0  0 .000     E.Escobar 3B        4  0  1  2 .333  
+                                          T.Grisham CF        2  1  0  0 .000  
+                                          Y.Chang SS          3  0  0  0 .000  
+                                        C-J.Iglesias SS       0  0  0  0 .333  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  1                 Totals      29 10  6 10
+
+A-Subbed Defensively (LF) For Gamel In 9th Inning
+B-Subbed Defensively (C ) For Higgins In 9th Inning
+C-Subbed Defensively (SS) For Chang In 9th Inning
+
+Rockies......... 1 0 0  0 0 0  0 0 0  -  1  4  0
+Mets............ 0 0 0  3 0 1  6 0    - 10  6  1
+
+[1]Rockies (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Marquez LOSS(0-1)       6 1/3   4   6   6   3   7   1   8.53  A1 D1
+R.Stanek                  0 1/3   2   4   4   1   1   1  27.00  D2 D6
+G.Jax                     1 1/3   0   0   0   0   1   0   0.00  D7
+[1]Totals                    8       6  10  10   4   9   2
+
+[1]Mets (2-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Keller WIN(1-0)         6 2/3   4   1   1   3   7   0   1.35  A1 C8
+H.Neris HOLD(1st)         0 1/3   0   0   0   0   1   0   7.71  C9 D1
+A.Cimber                  1       0   0   0   0   2   0   0.00  D2 D4
+R.Iglesias                1       0   0   0   0   1   0   0.00  D5
+[1]Totals                    9       4   1   1   3  11   0
+
+ATTENDANCE- 39,234 DATE- Saturday, September 30th 2023 TIME- Night 
+UMPIRES- John Tumpane, Ryan Blakney, Marvin Hudson, Adrian Johnson
+T- 2:29
+LEFT ON BASE- Rockies: 6  Mets: 3
+DOUBLE PLAYS- Rockies: 1  Mets: 1
+ERRORS- H.Neris
+DOUBLES- B.Rodgers(1st), C.Dickerson(1st), O.Cruz(2nd), P.Alonso(1st)
+HOME RUNS- P.Alonso(2nd), P.Higgins(1st)
+RBIs- C.Dickerson(1st), P.Alonso-3(5th), P.Higgins-5(5th), E.Escobar-2(4th)
+WALKS- C.Dickerson, M.Machado, R.McMahon, B.Gamel-2, P.Higgins, T.Grisham
+HIT BY PITCH- M.Canha, J.McNeil, T.Grisham, Y.Chang
+STRIKE OUTS- C.Dickerson, M.Machado-2, O.Cruz, G.Stanton-3, A.Pollock, T.Nido-3,
+             J.Bell, M.Canha, J.McNeil, P.Alonso, B.Gamel, P.Higgins, E.Escobar,
+             T.Grisham, Y.Chang
+GIDP- J.Bell
+BALKS- M.Keller
+2-out RBI- P.Higgins-5, E.Escobar-2, P.Alonso-2
+RLISP 2-out- G.Stanton, Y.Chang-2, T.Nido, O.Cruz
+TEAM RISP- Rockies: 2 for 10  Mets: 3 for 6
+WEB GEMS- Top 4th: Trent Grisham robbed Ryan McMahon of an extra base hit.
+          Top 6th: Jeff McNeil robbed Oneil Cruz of a base hit.
+
+It was a laugher out at Citi Field.  The New York (NL) Mets squad ripped
+Colorado pitching for a total of 10 runs.  Mitch Keller(1-0)with the aid of
+the bullpen held Colorado to 1 run.
+
+Keller pitched a fine game.  He surrendered 4 hits and 3 walks in 6 and 2/3
+innings.  Keller racked up 7 strikeouts.  New York (NL) had just 6 hits for
+the night.  
+
+German Marquez(0-1) took the loss.  He gave up 6 runs and 4 hits in 6 and 1/3
+innings.
+[2]
+[1]SCORESHEET: 2023 Colorado Rockies at 2023 New York (NL) Mets
+B.Rodger-A1  A1:Do      B1:F/9     *6*:L/6    *8*:E/1
+                                              
+                                              
+C.Dicker-A1  A2:Do>2#   B2:W>b1    C2:G/43    D2:K
+                                              
+                                              
+M.Machad-A1  A3:K       B3:K       C3:W>b1    D3:G/43>1
+                                              2
+                                              
+O.Cruz-A1    A4:G/43>2  *4*:Do     C4:Force/  D4:K
+             3                     46>1o b1   
+                                              
+G.Stanto-A1  A5:F/8     B5:K       *7*:K      *9*:K
+                                              
+                                              
+R.McMaho-A1  *2*:G/63   B6:F-DP/8  C6:W>b1    D6:G/43
+                        5>2o                  
+                                              
+Y.Gurrie-A1  A7:G/13    *5*:G/31   C7:Bk>12   D7:G/43
+                                   L/6        
+                                              
+A.Polloc-A1  A8:K       B8:G/43    C8:Si>23
+                                   
+                                   
+T.Nido-A1    *3*:K      B9:K       C9:K
+                                   
+                                   
+
+J.Bell-A1    A1:K       *4*:G/31   *5*:G/63   D1:Si>12   E1:G-DP/4
+                                                         63>1o
+                                                         
+M.Canha-A1   A2:K       B2:Si      C2:G/43    D2:HBP>23
+                                              12 
+                                              
+J.McNeil-A1  A3:G/63    B3:HBP>12  C3:F/7     D3:K
+                                              
+                                              
+P.Alonso-A1  *2*:K      B4:F/7     *6*:HR>b#  D4:Do>3#
+                                              2# 13
+                                              
+B.Gamel-A1   A5:K       B5:W>23 1  C5:G/63    D5:W>b1
+E.White-E2              2 b1                  
+                                              
+P.Higgin-A1  A6:K       B6:W>3# 2  C6:G/63    D6:HR>3#
+T.D'Arna-E2             3 12 b1               2# 1# b#
+                                              
+E.Escoba-A1  *3*:F/7    B7:Si>3#   C7:G/43    D7:K
+                        2# 13                 
+                                              
+T.Grisha-A1  A8:K       B8:W>12 b  *7*:HBP    *8*:F/7
+                        1                     
+                                              
+Y.Chang-A1   A9:K       B9:G/31    C9:F/9     D9:HBP
+J.Iglesi-E2                                   
+                                              
+
+

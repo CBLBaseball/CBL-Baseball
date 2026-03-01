@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Atlanta Braves           10/13/2024
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  M.Canha RF          4  1  1  0 .167     M.Harris CF         4  0  0  0 .263  
+C-B.Perkins PH,RF     1  0  0  0 .125     R.Acuna RF          4  0  0  0 .409  
+  J.McNeil 2B         3  0  1  0 .308     C.Yelich LF         4  0  0  0 .100  
+  P.Alonso 1B         3  0  0  0 .222     A.Riley 3B          4  0  2  0 .231  
+  J.Candelario 3B     3  0  1  0 .211     F.Freeman 1B        3  0  0  0 .286  
+  J.Votto DH          2  0  0  0 .000     J.Realmuto C        3  0  0  0 .333  
+A-C.Perez PH,DH       1  0  0  0 .200     D.Swanson SS        2  0  0  0 .300  
+  F.Alvarez C         3  0  0  0 .143     W.Contreras DH      2  0  1  0 .250  
+  T.Grisham CF        4  0  0  0 .086   B-M.Garver PH,DH      1  0  1  0 .364  
+  W.Franco SS         3  0  1  0 .323     O.Albies 2B         3  0  0  0 .200  
+  E.Rosario LF        4  0  0  0 .211                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  4  0                 Totals      30  0  4  0
+
+A-Pinch Hit For Votto In 7th Inning
+B-Pinch Hit For Contreras In 8th Inning
+C-Pinch Hit For Canha In 9th Inning
+
+Mets............ 1 0 0  0 0 0  0 0 0  -  1  4  1
+Braves.......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+
+[1]Mets (7-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Keller WIN(1-1)         6 1/3   2   0   0   1   6   0   4.08  A1 C4
+H.Neris HOLD(1st)         1 2/3   1   0   0   1   3   0   4.32  C5 D2
+K.Ginkel SAVE(2nd)        1       1   0   0   0   0   0   2.35  D3
+[1]Totals                    9       4   0   0   2   9   0
+
+[1]Braves (2-4)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Elder LOSS(1-1)         6       4   1   1   8   4   0   1.29  A1 D3
+A.Faedo                   2       0   0   0   0   0   0   2.08  D4 D9
+R.Iglesias                1       0   0   0   0   1   0   0.00  E1
+[1]Totals                    9       4   1   1   8   5   0
+
+ATTENDANCE- 38,382 DATE- Sunday, October 13th 2024 TIME- Day 
+UMPIRES- Tony Randazzo, Scott Barry, Ben May, Dan Iassogna
+T- 2:29
+LEFT ON BASE- Mets:11  Braves: 5
+DOUBLE PLAYS- Mets: 2  Braves: 0
+ERRORS- T.Grisham
+DOUBLES- M.Canha(1st), J.Candelario(6th), A.Riley(2nd), W.Contreras(2nd)
+WALKS- J.McNeil-2, P.Alonso-2, J.Candelario, J.Votto, F.Alvarez, W.Franco,
+       F.Freeman, D.Swanson
+STRIKE OUTS- B.Perkins, P.Alonso, J.Candelario, F.Alvarez, T.Grisham,
+             M.Harris-2, R.Acuna, C.Yelich-2, A.Riley, W.Contreras, O.Albies-2
+GIDP- F.Freeman, J.Realmuto
+WILD PITCHES- H.Neris, B.Elder
+RLISP 2-out- F.Alvarez-4, D.Swanson, R.Acuna-3, J.Realmuto, T.Grisham-2
+TEAM RISP- Mets: 0 for 9  Braves: 0 for 10
+WEB GEMS- Top 4th: Dansby Swanson robbed Mark Canha of a base hit.
+
+Mitch Keller delivered 6 and one third solid innings as the New York (NL) Mets
+outscored the Atlanta Braves 1 to 0.
+
+The game started off with New York (NL) taking the lead in the first scoring a
+single run.  That early run support was all that Keller(1-1) required.
+Atlanta had a chance to come back in the 9th but they came up short.  
+
+Kevin Ginkel recorded his 2nd save.  Bryce Elder(1-1) was the loser.  He
+surrendered 4 hits and 8 walks in 6 innings.  Buck Showalter was beaming
+after the game, 'Not only were we making good contact, but a lot of balls we
+hit seemed to have 'eyes'! I just love winning these tight ones! It was just
+our day - no doubt about it!'
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Atlanta Braves
+M.Canha-A1   A1:Do      B1:F/7     C1:G/63    D1:G/53    *9*:K
+B.Perkin-E1                                              
+                                                         
+J.McNeil-A1  A2:P/6     *3*:W>b1   *5*:W>b1   *7*:Si     E2:G/43
+                                                         
+                                                         
+P.Alonso-A1  A3:W>b1    B3:K       C3:P/4     D3:W>12 b  E3:F/9
+                                              1          
+                                                         
+J.Candel-A1  A4:W>23 1  B4:Do>13   C4:K       D4:F/9
+             2 b1                             
+                                              
+J.Votto-A1   A5:WP>3#   B5:FC/32>  C5:W>12 b  D5:F/8
+C.Perez-D5   23 12 G/3  3o 23      1          
+                                              
+F.Alvare-A1  A6:F/9     B6:K       C6:W>23 1  D6:F/9
+                                   2 b1       
+                                              
+T.Grisha-A1  *2*:K      *4*:F/7    C7:F/9     *8*:G/43
+                                              
+                                              
+W.Franco-A1  A8:W>b1    B8:Si      *6*:G/43   D8:G/43
+                                              
+                                              
+E.Rosari-A1  A9:L/4     B9:F/7     C9:L/4     D9:G/63
+                                              
+                                              
+
+M.Harris-A1  A1:G/53    B1:G/63    *6*:K      D1:K
+                                              
+                                              
+R.Acuna-A1   A2:G/3     B2:F/8     C2:G/3     D2:WP>23
+                                              12 K
+                                              
+C.Yelich-A1  A3:K       *4*:K      C3:F/7     *9*:G/43
+                                              
+                                              
+A.Riley-A1   *2*:E/8>b  B4:Do      *7*:K      D4:Si
+             2                                
+                                              
+F.Freema-A1  A5:W>b1    B5:F/9>23  C5:F/9     D5:G-DP/6
+                                              43>1o
+                                              
+J.Realmu-A1  A6:G-DP/6  B6:G/63    C6:G/13
+             43>23 1o              
+                                   
+D.Swanso-A1  A7:FO/2    *5*:G/63   *8*:W>b1
+                                   
+                                   
+W.Contre-A1  *3*:Do     B8:K       C8:Si>12
+M.Garver-C8                        
+                                   
+O.Albies-A1  A9:L/4     B9:K       C9:K
+                                   
+                                   
+
+

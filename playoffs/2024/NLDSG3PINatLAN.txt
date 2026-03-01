@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2023 Pittsburgh Pirates At 2023 Los Angeles(NL) Dodgers   10/9/2024
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Pena SS           2  0  0  0 .200     J.Turner DH         4  1  1  2 .143  
+  H.Kim 2B            4  0  0  0 .231     C.Bellinger CF      4  0  1  0 .385  
+  C.Santana 1B        4  1  1  0 .200     R.Castro 2B         3  1  1  0 .500  
+  B.Reynolds LF       4  0  3  0 .444     J.Donaldson 3B      4  1  1  2 .250  
+  K.Hayes 3B          4  0  0  0 .385     W.Smith C           4  0  1  0 .250  
+  A.Duvall CF         4  0  0  0 .000     C.Taylor RF         3  1  2  0 .222  
+  A.McCutchen DH      4  0  1  1 .400   D-M.Muncy PH          0  0  0  0 .250  
+  H.Renfroe RF        2  0  0  0 .000   E-A.Verdugo RF        0  0  0  0 .200  
+A-R.Grossman PH,RF    1  0  0  0 .250     C.Seager SS         2  1  0  0 .182  
+  C.Bethancourt C     2  0  0  0 .000     T.France 1B         4  0  1  0 .364  
+B-M.Moustakas PH      1  0  0  0 .500     J.Berti LF          3  0  1  0 .333  
+C-K.Higashioka C      0  0  0  0 .286                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  5  1                 Totals      31  5  9  4
+
+A-Pinch Hit For Renfroe In 8th Inning
+B-Pinch Hit For Bethancourt In 8th Inning
+C-Subbed Defensively (C ) For Moustakas In 8th Inning
+D-Pinch Hit For Taylor In 8th Inning
+E-Subbed Defensively (RF) For Muncy In 9th Inning
+
+Pirates......... 0 0 0  0 0 0  0 0 1  -  1  5  0
+Dodgers......... 2 3 0  0 0 0  0 0    -  5  9  0
+
+[1]Pirates (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.McClanahan LOSS(0-1)    6       9   5   5   1   7   2   7.50  A1 D1
+C.Poche                   1       0   0   0   0   1   0   0.00  D2 D4
+C.Stratton                1       0   0   0   2   0   0   0.00  D5
+[1]Totals                    8       9   5   5   3   8   2
+
+[1]Dodgers (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+W.Miley WIN(1-0)          7       2   0   0   0   4   0   0.00  A1 C6
+T.Kahnle                  1       0   0   0   2   1   0   0.00  C7 D2
+C.Mlodzinski              0 1/3   2   1   1   0   1   0  27.00  D3 D5
+E.Phillips                0 2/3   1   0   0   0   1   0   0.00  D6
+[1]Totals                    9       5   1   1   2   7   0
+
+ATTENDANCE- 52,407 DATE- Wednesday, October 9th 2024 TIME- Day 
+UMPIRES- Quinn Wolcott, Jeremie Rehak, Mark Wegner, Alan Porter
+T- 2:48
+LEFT ON BASE- Pirates: 7  Dodgers: 6
+DOUBLE PLAYS- Pirates: 2  Dodgers: 0
+DOUBLES- R.Castro(2nd), C.Taylor(1st)
+HOME RUNS- J.Turner(1st), J.Donaldson(1st)
+RBIs- A.McCutchen(3rd), J.Turner-2(2nd), J.Donaldson-2(2nd)
+WALKS- J.Pena, R.Grossman, R.Castro, M.Muncy, C.Seager
+HIT BY PITCH- J.Pena, C.Seager
+STRIKE OUTS- B.Reynolds, K.Hayes-3, A.Duvall-2, A.McCutchen, J.Turner-2,
+             C.Bellinger-2, J.Donaldson, W.Smith-2, C.Taylor
+GIDP- T.France, J.Berti
+WILD PITCHES- S.McClanahan, T.Kahnle
+2-out RBI- J.Donaldson-2, J.Turner-2, A.McCutchen
+RLISP 2-out- C.Seager, C.Taylor, H.Kim, R.Grossman
+TEAM RISP- Pirates: 1 for 6  Dodgers: 4 for 8
+
+Wade Miley went 7 strong innings as the Los Angeles(NL) Dodgers topped the
+Pittsburgh Pirates by a score of 5 to 1 at Dodger Stadium.
+
+Los Angeles(NL) claimed the early lead in the first inning when they tallied 2
+runs on 2 hits.  That early scoring was all that Miley(1-0) needed.  Los
+Angeles(NL) ended up with 9 hits for the game while Pittsburgh had 5.
+
+Shane McClanahan(0-1) was the losing pitcher.  He pitched 6 innings and
+surrendered 9 hits and 1 walk.
+[2]
+[1]SCORESHEET: 2023 Pittsburgh Pirates at 2023 Los Angeles(NL) Dodgers
+J.Pena-A1    A1:G/63    B1:L/6     C1:HBP     D1:W>b1
+                                              
+                                              
+H.Kim-A1     A2:F/8     *4*:G/53   C2:F/9     D2:G/63
+                                              
+                                              
+C.Santan-A1  A3:G/53    B3:F/8     *7*:F/8    *9*:Si
+                                              
+                                              
+B.Reynol-A1  *2*:Si     B4:K       C4:Si      D4:Si>13
+                                              
+                                              
+K.Hayes-A1   A5:K       *5*:G/63   C5:K       D5:K
+                                              
+                                              
+A.Duvall-A1  A6:F/8     B6:K       C6:Force/  D6:K
+                                   64>1o b1   
+                                              
+A.McCutc-A1  A7:Force/  B7:G/53    *8*:K      D7:Si>3#
+             64>1o b1                         13
+                                              
+H.Renfro-A1  *3*:F/8    *6*:G/53   C8:W>b1    D8:F/8
+R.Grossm-C8                                   
+                                              
+C.Bethan-A1  A9:G/53    B9:F/9     C9:WP>12
+M.Mousta-C9                        G/3>23
+K.Higash-D3                        
+
+J.Turner-A1  A1:K       B1:HR>3#   C1:F/8     D1:K
+                        b#                    
+                                              
+C.Bellin-A1  A2:F/7     B2:Si      *5*:K      *7*:K
+                                              
+                                              
+R.Castro-A1  A3:Do      B3:L/6     C3:W>b1    D3:F/8
+                                              
+                                              
+J.Donald-A1  A4:HR>2#   *3*:F/8    C4:K       D4:G/43
+             b#                               
+                                              
+W.Smith-A1   A5:K       B5:K       C5:WP>12   *8*:F/8
+                                   Si>23      
+                                              
+C.Taylor-A1  *2*:Si     B6:Do      C6:K       D6:W>b1
+M.Muncy-D6                                    
+A.Verdug-D9                                   
+C.Seager-A1  A7:HBP>12  B7:G/53    *6*:G/43   D7:W>12 b
+                                              1
+                                              
+T.France-A1  A8:Si>23   *4*:F/8    C8:F/8     D8:G-DP/6
+             12                               43>1o
+                                              
+J.Berti-A1   A9:G-DP/6  B9:F/7     C9:Si
+             43>3# 23              
+             1o                    
+
+

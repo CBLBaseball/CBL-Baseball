@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 Los Angeles(AL) Angels At 2023 Baltimore Orioles     10/7/2023
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  Y.Diaz 3B           4  0  1  0 .389     Y.Grandal C         2  0  1  1 .375  
+  O.Arcia 2B          2  0  0  0 .125   D-A.Verdugo PH        1  0  1  1 .267  
+A-A.Trejo PH,SS       2  0  0  0 .000   E-A.Rutschman C       0  0  0  0 .278  
+  G.Stubbs C          1  0  0  0 .200     C.Hernandez 2B      3  1  1  0 .200  
+B-M.Stassi PH,C       2  0  0  0 .222   F-G.Henderson 3B      0  0  0  0 .250  
+  T.Ward RF           4  0  1  0 .316     Y.Alvarez DH        3  1  1  2 .208  
+  S.Ohtani DH         3  0  0  0 .125     A.Santander LF      4  0  0  0 .300  
+  A.Garcia CF         4  0  1  0 .133     K.Tucker CF         4  0  0  0 .385  
+  D.Peralta LF        3  1  1  0 .375     R.Mountcastle 1B    4  1  1  0 .250  
+  J.Wendle SS,2B      3  0  1  1 .167     A.Hays RF           4  0  1  1 .222  
+  J.Aguilar 1B        3  0  0  0 .067     R.Urias 3B          2  0  0  0 .167  
+                                        C-K.Wong PH,2B        1  0  0  0 .400  
+                                          J.Mateo SS          2  2  1  0 .238  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  1  5  1                 Totals      30  5  7  5
+
+A-Pinch Hit For Arcia In 5th Inning
+B-Pinch Hit For Stubbs In 5th Inning
+C-Pinch Hit For Urias In 7th Inning
+D-Pinch Hit For Grandal In 7th Inning
+E-Subbed Defensively (C ) For Verdugo In 8th Inning
+F-Subbed Defensively (3B) For Hernandez In 8th Inning
+
+Angels.......... 0 0 0  0 1 0  0 0 0  -  1  5  1
+Orioles......... 0 0 1  1 2 0  1 0    -  5  7  1
+
+[1]Angels (2-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Detmers LOSS(1-1)       6       5   4   3   1   7   1   2.19  A1 C7
+J.Herget                  2       2   1   1   1   2   0   4.50  C8
+[1]Totals                    8       7   5   4   2   9   1
+
+[1]Orioles (5-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes WIN(2-1)         9       5   1   1   3   7   0   3.27  A1
+[1]Totals                    9       5   1   1   3   7   0
+
+ATTENDANCE- 42,673 DATE- Saturday, October 7th 2023 TIME- Night 
+UMPIRES- Jordan Baker, Ryan Additon, Mark Carlson, Chris Guccione
+T- 2:43
+LEFT ON BASE- Angels: 6  Orioles: 5
+DOUBLE PLAYS- Angels: 0  Orioles: 1
+ERRORS- G.Stubbs, R.Urias
+DOUBLES- D.Peralta(1st), R.Mountcastle(2nd), A.Hays(1st)
+TRIPLES- J.Mateo(1st)
+HOME RUNS- Y.Alvarez(3rd)
+RBIs- J.Wendle(1st), Y.Grandal(1st), A.Verdugo(4th), Y.Alvarez-2(6th),
+      A.Hays(2nd)
+STOLEN BASES- J.Mateo(2nd)
+CAUGHT STEALING- D.Peralta
+SACRIFICE HITS- C.Hernandez
+WALKS- G.Stubbs, S.Ohtani, D.Peralta, Y.Grandal, Y.Alvarez
+STRIKE OUTS- Y.Diaz, G.Stubbs, M.Stassi-2, T.Ward, A.Garcia, J.Aguilar,
+             Y.Alvarez, A.Santander-4, K.Tucker, A.Hays, K.Wong, J.Mateo
+GIDP- A.Garcia
+CATCHERS INTERFERENCE- J.Mateo
+WILD PITCHES- C.Burnes
+2-out RBI- A.Hays, Y.Alvarez-2
+RLISP 2-out- A.Santander-2, J.Aguilar-2, Y.Alvarez, R.Urias, M.Stassi-2, Y.Diaz
+TEAM RISP- Angels: 1 for 7  Orioles: 3 for 8
+
+Corbin Burnes went the distance as the Baltimore Orioles defeated the Los
+Angeles(AL) Angels 5 to 1 at Camden Yards.
+
+Burnes(2-1) contributed a very nicely pitched game.  He didn't allow much,
+just 5 hits and 3 walks in 9 innings dropping his ERA from 4.85 to 3.27.
+Baltimore rapped out 7 hits for the night.  
+
+The loss was charged to Reid Detmers(1-1).  He allowed 5 hits and 1 walk in 6
+innings.
+[2]
+[1]SCORESHEET: 2023 Los Angeles(AL) Angels at 2023 Baltimore Orioles
+Y.Diaz-A1    A1:G/53    *3*:K      C1:Si>12   D1:WP>12
+                                              L/5
+                                              
+O.Arcia-A1   A2:G/43    B2:G/13    C2:G/3>23  *8*:F/8
+A.Trejo-C2                         12         
+                                              
+G.Stubbs-A1  A3:W>b1    B3:K       C3:K       D3:K
+M.Stassi-C3                                   
+                                              
+T.Ward-A1    A4:G/63    *4*:K      *6*:Si     D4:G/53
+                                              
+                                              
+S.Ohtani-A1  *2*:W>b1   B5:G/53    C5:L/4     *9*:F/9
+                                              
+                                              
+A.Garcia-A1  A6:Si>12   B6:K       C6:G-DP/1  D6:L/5
+                                   63>1o      
+                                              
+D.Peralt-A1  A7:L/3     *5*:Do     *7*:W>b1   D7:G/3
+                                              
+                                              
+J.Wendle-A1  A8:G/43>2  B8:Si>2#   C8:CS/26>
+             3 12                  1o G/13
+                                   
+J.Aguila-A1  A9:G/63    B9:K       C9:E/5
+                                   
+                                   
+
+Y.Granda-A1  A1:W>b1    B1:SB>12   C1:G/43    D1:Si>3#
+A.Verdug-D1             Si>2#                 
+A.Rutsch-D5                                   
+C.Hernan-A1  A2:Sac/34  B2:G/3>12  C2:Si      D2:FO/2
+G.Hender-D5  >12                              
+                                              
+Y.Alvare-A1  A3:K       B3:F/9     C3:HR>1#   D3:W>12 b
+                                   b#         1
+                                              
+A.Santan-A1  A4:K       *4*:K      C4:K       D4:K
+                                              
+                                              
+K.Tucker-A1  *2*:K      B5:G/43    *6*:P/2    *8*:F/8
+                                              
+                                              
+R.Mountc-A1  A6:F/9     B6:Do      C6:L/6     D6:G/63
+                                              
+                                              
+A.Hays-A1    A7:K       B7:Do>2#   C7:L/5     D7:G/63
+                                              
+                                              
+R.Urias-A1   *3*:G/63   B8:G/13    *7*:K
+K.Wong-C8                          
+                                   
+J.Mateo-A1   A9:CatInt  *5*:K      C9:Tr
+             /2>b1                 
+                                   
+
+

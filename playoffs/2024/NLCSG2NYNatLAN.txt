@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Los Angeles(NL) Dodgers  10/17/2024
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.McNeil 2B         4  1  0  0 .292     C.Seager SS         5  0  0  0 .074  
+  P.Alonso 1B         4  0  1  0 .244     M.Muncy DH          5  1  2  0 .278  
+  J.Candelario 3B     4  1  1  2 .196     W.Smith C           1  1  0  0 .240  
+  M.Canha RF          1  1  0  0 .214     C.Bellinger CF      4  0  1  1 .370  
+A-B.Perkins PH,RF     1  0  0  0 .111     E.Longoria 3B       4  0  1  1 .200  
+  F.Alvarez C         3  0  0  0 .125     D.Stewart LF        4  0  0  0 .308  
+  M.Ford DH           3  0  0  0 .556     A.Verdugo RF        4  0  1  0 .143  
+B-C.Perez PH,DH       1  1  1  1 .333     J.Turner 1B         4  0  2  0 .391  
+  T.Grisham CF        3  1  1  1 .100     C.Biggio 2B         3  0  0  0 .000  
+  W.Franco SS         3  1  0  0 .278   C-T.France PH         1  0  0  0 .308  
+  E.Rosario LF        4  0  2  2 .217                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  6  6  6                 Totals      35  2  7  2
+
+A-Pinch Hit For Canha In 8th Inning
+B-Pinch Hit For Ford In 9th Inning
+C-Pinch Hit For Biggio In 9th Inning
+
+Mets............ 0 0 1  0 0 0  1 2 2  -  6  6  2
+Dodgers......... 1 0 0  0 0 0  1 0 0  -  2  7  0
+
+[1]Mets (9-3)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lugo                    6       5   1   1   2   7   0   2.55  A1 C9
+K.Ginkel WIN(1-0) BS(1st) 2       2   1   1   0   1   0   2.79  D1 D8
+R.Lopez                   1       0   0   0   0   0   0   7.04  D9
+[1]Totals                    9       7   2   2   2   8   0
+
+[1]Dodgers (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Miller                  6 1/3   2   1   1   2   3   0   0.98  A1 C3
+T.Kahnle                  0 1/3   1   1   1   2   1   0   3.00  C4 C7
+C.Mlodzinski LOSS(0-1)    0 2/3   0   1   1   1   0   0  10.80  C8 D1
+D.May                     0 2/3   1   1   1   0   2   1   1.69  D2 D4
+T.May                     1       2   2   2   1   2   1   5.40  D5
+[1]Totals                    9       6   6   6   6   8   2
+
+ATTENDANCE- 52,641 DATE- Thursday, October 17th 2024 TIME- Day 
+UMPIRES- Mike Estabrook, Nic Lentz, Ted Barrett, Lance Barksdale
+T- 2:45
+LEFT ON BASE- Mets: 4  Dodgers: 9
+DOUBLE PLAYS- Mets: 1  Dodgers: 1
+ERRORS- T.Grisham, W.Franco
+DOUBLES- P.Alonso(4th), M.Muncy(2nd), C.Bellinger(2nd), J.Turner(2nd)
+HOME RUNS- J.Candelario(2nd), C.Perez(1st)
+RBIs- J.Candelario-2(8th), C.Perez(1st), T.Grisham(3rd), E.Rosario-2(8th),
+      C.Bellinger(7th), E.Longoria(2nd)
+STOLEN BASES- T.Grisham(1st), W.Franco(3rd)
+WALKS- J.McNeil, M.Canha-2, F.Alvarez, T.Grisham, W.Franco, W.Smith-2
+HIT BY PITCH- W.Smith
+STRIKE OUTS- J.McNeil, P.Alonso-2, B.Perkins, F.Alvarez, M.Ford-2, T.Grisham,
+             C.Seager, C.Bellinger, E.Longoria, D.Stewart-2, A.Verdugo-2,
+             J.Turner
+GIDP- J.Turner
+2-out RBI- E.Longoria, T.Grisham, C.Bellinger, J.Candelario-2, E.Rosario
+RLISP 2-out- D.Stewart, C.Seager-3, E.Longoria-2, W.Franco
+TEAM RISP- Mets: 3 for 6  Dodgers: 1 for 10
+
+Eddie Rosario had 2 base hits and 2 RBI as the New York (NL) Mets bested the
+Los Angeles(NL) Dodgers 6 to 2 at Dodger Stadium.
+
+New York (NL) came through with the game-winning runs in the 8th inning
+plating 2 runs.  After an out was recorded, Jeff McNeil started the attack as
+he drew a walk.  Pete Alonso was the next batter, but he struck out.  Jeimer
+Candelario then bombed a two-run dinger.  New York (NL) had just 6 hits for
+the afternoon.  
+
+The win was credited to Kevin Ginkel(1-0) who went 2 innings allowing 1 run.
+The loss was charged to Carmen Mlodzinski(0-1) in relief.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Los Angeles(NL) Dodgers
+J.McNeil-A1  A1:K       B1:L/4     C1:F/8     D1:W>b1    E1:G/63
+                                                         
+                                                         
+P.Alonso-A1  A2:G/43    B2:Do>1o   C2:K       D2:K
+                                              
+                                              
+J.Candel-A1  A3:G/43    *4*:G/63   *7*:F/9    D3:HR>1#
+                                              b#
+                                              
+M.Canha-A1   *2*:W>b1   B4:F/7     C4:W>b1    D4:K
+B.Perkin-D4                                   
+                                              
+F.Alvare-A1  A5:L/6     B5:F/8     C5:W>12 b  *9*:K
+                                   1          
+                                              
+M.Ford-A1    A6:L-DP/4  *5*:K      C6:K       D6:HR>b#
+C.Perez-D6   3>1o                             
+                                              
+T.Grisha-A1  *3*:W>b1   B7:F/8     C7:Si>2#   D7:K
+                                   13         
+                                              
+W.Franco-A1  A8:SB>12   B8:G/63    C8:G/43    D8:W>b1
+             L/4                              
+                                              
+E.Rosari-A1  A9:Si>2#   *6*:F/8    *8*:G/23   D9:SB>12
+                                              Si>2#
+                                              
+
+C.Seager-A1  A1:G/13    B1:L/4     C1:L/3     *7*:K      E1:F/8
+                                                         
+                                                         
+M.Muncy-A1   A2:Si      *3*:G/43   *5*:Do     D2:F/8     E2:F/9
+                                                         
+                                                         
+W.Smith-A1   A3:W>12 b  B3:W>b1    C3:FO/2    D3:HBP
+             1                                
+                                              
+C.Bellin-A1  A4:K       B4:F/9     C4:L/3     D4:Do>1#
+                                              
+                                              
+E.Longor-A1  A5:Si>2#   B5:K       C5:L/6     D5:G/53
+             13                               
+                                              
+D.Stewar-A1  A6:K       *4*:K      *6*:F/7    *8*:F/9
+                                              
+                                              
+A.Verdug-A1  *2*:K      B7:K       C7:E/6     D7:Si
+                                              
+                                              
+J.Turner-A1  A8:Do      B8:Si      C8:K       D8:G-DP/1
+                                              63>1o
+                                              
+C.Biggio-A1  A9:G/43>2  B9:E/8>13  C9:F/9     *9*:G/63
+T.France-D9  3          b2                    
+                                              
+
+

@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 Cleveland Indians At 2023 Baltimore Orioles         10/17/2023
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  S.Kwan LF           4  1  2  0 .317     Y.Grandal C         4  0  0  0 .200  
+  F.Lindor SS         4  0  0  0 .214     C.Hernandez 2B      3  2  2  0 .240  
+  J.Ramirez 3B        3  0  0  0 .275   B-K.Wong 2B           0  0  0  0 .269  
+  C.Cron 1B           4  1  3  0 .314     Y.Alvarez DH        3  1  1  1 .300  
+  J.Naylor DH         4  0  1  1 .241     A.Santander LF      3  0  1  0 .321  
+  O.Gonzalez RF       3  0  0  1 .133   A-A.Thomas CF         0  0  0  0 .188  
+C-M.Brantley PH       1  0  0  0 .250     K.Tucker CF,RF      4  0  1  1 .283  
+  A.Gimenez 2B        3  0  0  0 .184     R.Mountcastle 1B    3  0  0  0 .204  
+  J.Heim C            4  0  0  0 .200     A.Hays RF,LF        2  0  0  0 .188  
+  C.Mullins CF        3  0  0  0 .182     R.Urias 3B          2  0  0  0 .152  
+                                          J.Mateo SS          2  0  0  0 .214  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  2  6  2                 Totals      26  3  5  2
+
+A-Subbed Defensively (CF) For Santander In 9th Inning
+B-Subbed Defensively (2B) For Hernandez In 9th Inning
+C-Pinch Hit For Gonzalez In 9th Inning
+
+Indians......... 1 0 0  1 0 0  0 0 0  -  2  6  0
+Orioles......... 2 1 0  0 0 0  0 0    -  3  5  1
+
+[1]Indians (5-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana LOSS(1-2)         7       5   3   3   7   5   0   2.14  A1 D3
+T.Stephan                    1       0   0   0   0   2   0   6.00  D4
+[1]Totals                    8       5   3   3   7   7   0
+
+[1]Orioles (10-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Kremer WIN(1-1)            5       4   2   1   0   2   0   4.50  A1 C1
+J.Moran HOLD(4th)            1       1   0   0   0   1   0   0.00  C2 C5
+D.Williams HOLD(4th)         1       0   0   0   0   2   0   0.00  C6 C8
+A.Vesia                      0       1   0   0   1   0   0   2.45  C9 D1
+P.Fairbanks HOLD(1st)        1       0   0   0   1   3   0   0.00  D2 D5
+J.Adam SAVE(5th)             1       0   0   0   0   2   0   0.00  D6
+[1]Totals                    9       6   2   1   2  10   0
+
+ATTENDANCE- 45,244 DATE- Tuesday, October 17th 2023 TIME- Night 
+UMPIRES- Tony Randazzo, Scott Barry, Ben May, Dan Iassogna
+T- 2:46
+LEFT ON BASE- Indians: 7  Orioles: 6
+DOUBLE PLAYS- Indians: 3  Orioles: 0
+ERRORS- R.Urias
+DOUBLES- Y.Alvarez(3rd)
+TRIPLES- C.Cron(2nd)
+RBIs- J.Naylor(3rd), O.Gonzalez(5th), Y.Alvarez(15th), K.Tucker(15th)
+STOLEN BASES- A.Gimenez(3rd)
+WALKS- J.Ramirez, C.Mullins, C.Hernandez, Y.Alvarez, A.Santander, R.Mountcastle,
+       A.Hays, R.Urias, J.Mateo
+HIT BY PITCH- A.Gimenez
+STRIKE OUTS- F.Lindor-2, C.Cron, J.Naylor-2, A.Gimenez-2, J.Heim-2, C.Mullins,
+             Y.Grandal-2, A.Santander, K.Tucker-2, A.Hays, J.Mateo
+GIDP- Y.Grandal, Y.Alvarez, R.Mountcastle
+WILD PITCHES- J.Quintana
+PASSED BALLS- Y.Grandal
+2-out RBI- J.Naylor, Y.Alvarez
+RLISP 2-out- O.Gonzalez, R.Urias-2, A.Santander, J.Naylor-3, C.Mullins
+TEAM RISP- Indians: 1 for 9  Orioles: 0 for 3
+
+One run was the difference at Camden Yards as the Baltimore Orioles defeated
+the Cleveland Indians 3 to 2.
+
+Baltimore set the tone of the game in the first inning when they scored 2 runs
+on 1 hit.  The pitchers took over after the 4th inning as neither team was
+able to score again.  
+
+The victory was credited to Dean Kremer(1-1) who went 5 innings, allowing 2
+runs. Jason Adam earned the save, his 5th.  Jose Quintana(1-2) was the losing
+pitcher.  
+
+[2]
+[1]SCORESHEET: 2023 Cleveland Indians at 2023 Baltimore Orioles
+S.Kwan-A1    A1:Si      *3*:G/13   C1:G/31    D1:Si+E/5
+                                              >13
+                                              
+F.Lindor-A1  A2:F/8     B2:K       *6*:G/43   D2:K
+                                              
+                                              
+J.Ramire-A1  A3:F/7     B3:P/6     C3:G/63    D3:IW>b1
+                                              
+                                              
+C.Cron-A1    A4:Si>13   *4*:Si     C4:Tr      D4:K
+                                              
+                                              
+J.Naylor-A1  A5:Si>3#   B5:F/8>12  C5:K       D5:K
+             12                               
+                                              
+O.Gonzal-A1  A6:P/6     B6:PB>23   *7*:G/43   *9*:G/43
+M.Brantl-D6             G/63>3#               
+                                              
+A.Gimene-A1  *2*:K      B7:G/63    C7:K       D7:HBP
+                                              
+                                              
+J.Heim-A1    A8:F/7     *5*:F/8    C8:K       D8:SB>12
+                                              K
+                                              
+C.Mullin-A1  A9:G/13    B9:F/9     *8*:W>b1   D9:K
+                                              
+                                              
+
+Y.Granda-A1  A1:K       B1:K       C1:G-DP/5  *7*:L/5
+                                   43>1o      
+                                              
+C.Hernan-A1  A2:Si      B2:W>b1    *5*:Si     D2:F/9
+K.Wong-D7                                     
+                                              
+Y.Alvare-A1  A3:W>12 b  B3:Do>1#   C3:G-DP/6  D3:G/13
+             1                     43>1o      
+                                              
+A.Santan-A1  A4:W>23 1  B4:G/53    C4:Si      *8*:K
+A.Thomas-D7  2 b1                             
+                                              
+K.Tucker-A1  A5:WP>3#   *3*:Si     C5:K       D5:K
+             23 12 G/6                        
+             3>3# 23                          
+R.Mountc-A1  A6:W>b1    B6:G-DP/4  *6*:FO/2   D6:L/6
+                        63>1o                 
+                                              
+A.Hays-A1    A7:W>12 b  B7:K       C7:L/6
+             1                     
+                                   
+R.Urias-A1   A8:F/8     *4*:L/6    C8:W>b1
+                                   
+                                   
+J.Mateo-A1   *2*:K      B9:W>b1    C9:F/8
+                                   
+                                   
+
+

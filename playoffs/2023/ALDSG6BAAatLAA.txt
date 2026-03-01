@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Los Angeles(AL) Angels     10/9/2023
+
+[1]  Orioles            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  Y.Grandal C         3  0  1  0 .364     Y.Diaz 3B,1B        4  0  0  0 .318  
+  C.Hernandez 2B      4  0  1  0 .214     A.Garcia CF         4  0  0  0 .105  
+  Y.Alvarez DH        3  0  1  0 .222     T.Ward RF           4  0  1  0 .304  
+  A.Santander LF      4  0  1  0 .294     S.Ohtani DH         3  0  2  0 .211  
+  K.Tucker RF,CF      4  0  0  0 .333     B.Drury 2B          4  0  1  0 .176  
+  R.Mountcastle 1B    4  0  1  0 .250     D.Peralta LF        2  1  1  0 .400  
+  R.Urias 3B          3  0  1  0 .190   A-W.Myers PH,LF       2  0  0  0 .125  
+D-A.Verdugo PH        1  0  0  0 .250     J.Wendle SS,3B      3  2  2  0 .333  
+  A.Thomas CF         2  0  1  0 .333     J.Aguilar 1B        3  1  2  3 .167  
+C-A.Hays PH,RF        1  0  0  0 .200   B-D.Fletcher SS       0  0  0  0 .000  
+  J.Mateo SS          3  0  0  0 .208     M.Stassi C          2  0  0  1 .182  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  0  7  0                 Totals      31  4  9  4
+
+A-Pinch Hit For Peralta In 6th Inning
+B-Subbed Defensively (SS) For Aguilar In 7th Inning
+C-Pinch Hit For Thomas In 8th Inning
+D-Pinch Hit For Urias In 9th Inning
+
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  7  0
+Angels.......... 0 2 0  2 0 0  0 0    -  4  9  0
+
+[1]Orioles (5-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+D.Kremer LOSS(0-1)        5       8   4   4   1   2   1   7.20  A1 C5
+A.Vesia                   0 2/3   0   0   0   0   1   0   0.00  C6 C7
+F.Bautista                1 1/3   0   0   0   1   4   0   0.00  C8 D3
+K.Akin                    1       1   0   0   0   1   0   0.00  D4
+[1]Totals                    8       9   4   4   2   8   1
+
+[1]Angels (3-3)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Suarez WIN(2-0)         5 1/3   4   0   0   1   4   0   1.74  A1 C2
+J.Mantiply                2 1/3   1   0   0   0   2   0   1.80  C3 C9
+T.Kinley                  0       2   0   0   0   0   0   0.00  D1 D2
+J.Quijada SAVE(2nd)       1 1/3   0   0   0   1   3   0   0.00  D3
+[1]Totals                    9       7   0   0   2   9   0
+
+ATTENDANCE- 41,524 DATE- Monday, October 9th 2023 TIME- Night 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:41
+LEFT ON BASE- Orioles: 7  Angels: 5
+DOUBLE PLAYS- Orioles: 1  Angels: 2
+DOUBLES- S.Ohtani(1st), J.Aguilar(2nd)
+HOME RUNS- J.Aguilar(1st)
+RBIs- J.Aguilar-3(3rd), M.Stassi(1st)
+CAUGHT STEALING- S.Ohtani
+WALKS- Y.Grandal, Y.Alvarez, S.Ohtani, M.Stassi
+STRIKE OUTS- Y.Grandal, C.Hernandez, Y.Alvarez, K.Tucker, R.Mountcastle,
+             A.Verdugo, A.Hays, J.Mateo-2, Y.Diaz, A.Garcia-2, T.Ward-2,
+             W.Myers, J.Wendle, J.Aguilar
+GIDP- A.Santander, A.Thomas, B.Drury
+WILD PITCHES- F.Bautista
+PASSED BALLS- Y.Grandal
+RLISP 2-out- Y.Diaz, D.Peralta, J.Mateo, T.Ward, A.Santander-2
+TEAM RISP- Orioles: 0 for 4  Angels: 3 for 7
+
+At Angel Stadium, the Los Angeles(AL) fans witnessed a great pitcher's duel.
+Jose Suarez(2-0) finally bested his Baltimore opposite, Dean Kremer(0-1), by
+the score of 4 to 0.
+
+Los Angeles(AL) went ahead for good in the bottom of the 2nd inning scoring 2
+runs utilizing 3 base hits.  After an out was recorded, David Peralta got
+things going when he laced a single.  Joey Wendle followed next and he
+stroked a single.  Jesus Aguilar then doubled resulting in a run.  Max Stassi
+followed and he would ground out scoring the final run of the inning.  That
+early scoring was all that Suarez needed.  Neither team managed to score
+after the 4th inning.  
+
+Suarez got help from Jose Quijada who earned his 2nd save.  Kremer took the
+loss.  He surrendered 8 hits and 1 walk in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Los Angeles(AL) Angels
+Y.Granda-A1  A1:G/43    B1:K       *6*:W>b1   D1:Si
+                                              
+                                              
+C.Hernan-A1  A2:L/6     B2:F/7     C2:K       D2:Si>13
+                                              
+                                              
+Y.Alvare-A1  A3:K       *4*:G/43   C3:Si>12   D3:W>12 b
+                                              1
+                                              
+A.Santan-A1  *2*:Si     B4:FO/2    C4:G-DP/6  D4:F/9
+                                   43>1o      
+                                              
+K.Tucker-A1  A5:L/4     B5:G/43    *7*:F/8    *9*:K
+                                              
+                                              
+R.Mountc-A1  A6:F/9     *5*:Si     C6:F/8     D6:K
+                                              
+                                              
+R.Urias-A1   A7:Force/  B7:Si>12   C7:G/53    D7:K
+A.Verdug-D7  46>1o b1                         
+                                              
+A.Thomas-A1  *3*:Si     B8:G-DP/4  *8*:K
+A.Hays-C8               63>23 1o   
+                                   
+J.Mateo-A1   A9:K       B9:G/3     C9:K
+                                   
+                                   
+
+Y.Diaz-A1    A1:P/2     B1:L/6     C1:FO/2    D1:K
+                                              
+                                              
+A.Garcia-A1  A2:F/7     *3*:G/43   C2:K       D2:K
+                                              
+                                              
+T.Ward-A1    A3:Si      B3:G/63    *5*:K      D3:WP>12
+                                              K
+                                              
+S.Ohtani-A1  A4:G/63    B4:Do      C4:W>b1    *8*:Si
+                                              
+                                              
+B.Drury-A1   *2*:FO/2   B5:Si>23   C5:CS/24>  D5:G-DP/6
+                                   1o G/63    43>1o
+                                              
+D.Peralt-A1  A6:Si      B6:G/43    *6*:F/7    D6:K
+W.Myers-C6                                    
+                                              
+J.Wendle-A1  A7:Si>12   *4*:Si     C7:K
+                                   
+                                   
+J.Aguila-A1  A8:Do>2#   B8:PB>12   C8:K
+D.Fletch-C9  13         HR>2# b#   
+                                   
+M.Stassi-A1  A9:G/63>3  B9:L/5     *7*:W>b1
+             # 23                  
+                                   
+
+

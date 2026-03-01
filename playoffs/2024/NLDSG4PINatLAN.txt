@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2023 Pittsburgh Pirates At 2023 Los Angeles(NL) Dodgers  10/10/2024
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Pena SS           4  0  0  0 .143     C.Seager SS         3  0  0  0 .143  
+  H.Kim 2B            4  0  0  0 .176     W.Smith C           4  1  1  1 .250  
+  C.Santana 1B        4  0  0  0 .143     D.Stewart LF        4  0  2  0 .571  
+  B.Reynolds LF,CF    4  0  0  0 .308     E.Longoria 3B       3  1  0  0 .000  
+  K.Hayes 3B          4  0  1  0 .353     M.Muncy DH          4  0  0  0 .125  
+  A.Duvall CF         2  0  0  0 .000     C.Bellinger CF      3  0  2  0 .438  
+C-R.Grossman PH,LF    0  0  0  0 .250     J.Turner 1B         3  0  1  1 .200  
+  A.McCutchen DH      3  0  0  0 .308     A.Verdugo RF        2  0  0  0 .143  
+  H.Renfroe RF        2  0  1  0 .250     J.Berti 2B          3  0  0  0 .167  
+  C.Bethancourt C     1  0  0  0 .000                                          
+A-M.Moustakas PH      1  0  0  0 .333                                          
+B-K.Higashioka  ,C    1  0  0  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  2  0                 Totals      29  2  6  2
+
+A-Pinch Hit For Bethancourt In 5th Inning
+B-Subbed Defensively (  ) For Moustakas In 5th Inning
+C-Pinch Hit For Duvall In 7th Inning
+
+Pirates......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Dodgers......... 0 1 1  0 0 0  0 0    -  2  6  1
+
+[1]Pirates (1-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Cole LOSS(0-2)          8       6   2   2   3   9   1   3.60  A1
+[1]Totals                    8       6   2   2   3   9   1
+
+[1]Dodgers (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Luzardo                 4 2/3   1   0   0   1   6   0   0.00  A1 B8
+D.May WIN(1-0)            3       1   0   0   1   1   0   0.00  B9 D1
+E.Phillips SAVE(2nd)      1 1/3   0   0   0   0   1   0   0.00  D2
+[1]Totals                    9       2   0   0   2   8   0
+
+ATTENDANCE- 50,688 DATE- Thursday, October 10th 2024 TIME- Night 
+UMPIRES- Pat Hoberg, Paul Emmel, James Hoye, Bruce Dreckman
+T- 2:27
+LEFT ON BASE- Pirates: 5  Dodgers: 6
+DOUBLE PLAYS- Pirates: 1  Dodgers: 0
+ERRORS- J.Turner
+DOUBLES- K.Hayes(3rd), D.Stewart-2(2nd), C.Bellinger(1st)
+HOME RUNS- W.Smith(1st)
+RBIs- W.Smith(1st), J.Turner(3rd)
+WALKS- R.Grossman, H.Renfroe, C.Seager, E.Longoria, A.Verdugo
+STRIKE OUTS- C.Santana, K.Hayes-2, A.Duvall, A.McCutchen-2, C.Bethancourt,
+             K.Higashioka, C.Seager, W.Smith-2, D.Stewart-2, E.Longoria-2,
+             M.Muncy, C.Bellinger
+RLISP 2-out- J.Berti, M.Muncy, W.Smith-2, M.Moustakas
+TEAM RISP- Pirates: 0 for 4  Dodgers: 0 for 9
+
+Dustin May(1-0) was the winner as Los Angeles(NL) Dodgers shutout the
+Pittsburgh Pirates by a 2 to 0 score at Dodger Stadium.
+
+May came on to close the door tight in relief.  He gave up just 1 hit and 1
+walk in 3 innings.  Both teams' bats went to sleep after the 3rd inning with
+no runs scored after that point.  
+
+Evan Phillips got the save, his 2nd. Gerrit Cole(0-2) was tagged with the
+loss.  He allowed 6 hits and 3 walks in 8 innings.
+[2]
+[1]SCORESHEET: 2023 Pittsburgh Pirates at 2023 Los Angeles(NL) Dodgers
+J.Pena-A1    A1:G/3     B1:G/63    *6*:G/63   D1:Force/
+                                              46>1o b1
+                                              
+H.Kim-A1     A2:P/6     *4*:F/9    C2:G/53    D2:G/53
+                                              
+                                              
+C.Santan-A1  A3:K       B3:G/13    C3:G/63    *9*:G/31
+                                              
+                                              
+B.Reynol-A1  *2*:G/53   B4:F/9     *7*:G/3    D4:P/6
+                                              
+                                              
+K.Hayes-A1   A5:K       *5*:Do     C5:F/7     D5:K
+                                              
+                                              
+A.Duvall-A1  A6:K       B6:G/53    C6:W>b1
+R.Grossm-C6                        
+                                   
+A.McCutc-A1  *3*:K      B7:K       C7:F/9
+                                   
+                                   
+H.Renfro-A1  A8:W>b1    B8:E/3>23  *8*:Si
+                                   
+                                   
+C.Bethan-A1  A9:K       B9:P/5     C9:K
+M.Mousta-B9                        
+K.Higash-C1                        
+
+C.Seager-A1  A1:F/7     *3*:K      C1:IW>b1   D1:L/4
+                                              
+                                              
+W.Smith-A1   A2:K       B2:HR>b#   C2:K       D2:F/7
+                                              
+                                              
+D.Stewar-A1  A3:K       B3:Do      *5*:Do     *8*:K
+                                              
+                                              
+E.Longor-A1  *2*:W>b1   B4:K       C4:FO/2    D4:K
+                                              
+                                              
+M.Muncy-A1   A5:F/7     B5:K       C5:L-DP/4  D5:F/7
+                                   >2o        
+                                              
+C.Bellin-A1  A6:Do>13   *4*:Si     *6*:K
+                                   
+                                   
+J.Turner-A1  A7:G/43>3  B7:Si>13   C7:L/6
+             # 23                  
+                                   
+A.Verdug-A1  A8:W>b1    B8:G/31>1  C8:G/3
+                        2          
+                                   
+J.Berti-A1   A9:G/63    B9:G/53    *7*:G/43
+                                   
+                                   
+
+

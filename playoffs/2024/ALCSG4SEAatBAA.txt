@@ -1,0 +1,129 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Baltimore Orioles          10/20/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  S.Steer 3B          5  0  0  0 .229     K.Tucker RF         3  1  1  0 .200  
+  J.Crawford SS       4  2  3  4 .281     A.Rutschman C       3  1  1  0 .216  
+  K.Marte 2B          4  1  2  1 .265     Y.Alvarez DH        4  1  1  3 .258  
+  B.Belt 1B           4  0  0  0 .333     A.Santander LF      4  2  3  1 .314  
+  S.Garrett LF        4  0  0  0 .083   D-A.Thomas CF         0  0  0  0 .000  
+  J.Rodriguez CF      4  0  1  0 .161     G.Henderson SS      4  0  0  0 .129  
+  M.Kepler RF         2  1  1  0 .217     A.Hays CF,LF        4  1  2  1 .450  
+  J.Soler DH          3  1  0  0 .143     R.O'Hearn 1B        3  0  1  0 .286  
+  T.Murphy C          3  0  0  0 .000   C-R.Mountcastle PH,1B 0  0  0  0 .200  
+A-J.Polanco PH        1  0  0  0 .250     J.Triolo 3B         4  0  1  0 .278  
+B-Y.Grandal C         0  0  0  0 .235     J.Westburg 2B       4  0  0  0 .111  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  5  7  5                 Totals      33  6 10  5
+
+A-Pinch Hit For Murphy In 8th Inning
+B-Subbed Defensively (C ) For Polanco In 8th Inning
+C-Pinch Hit For O'Hearn In 8th Inning
+D-Subbed Defensively (CF) For Santander In 9th Inning
+
+Mariners........ 2 3 0  0 0 0  0 0 0  -  5  7  1
+Orioles......... 0 2 3  0 0 0  0 1    -  6 10  0
+
+[1]Mariners (6-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Webb                       7       8   5   5   2   8   3   2.57  A1 D2
+B.Bernardino LOSS(0-1)       0 2/3   2   1   0   0   2   0   0.00  D3 D6
+A.Munoz                      0 1/3   0   0   0   1   0   0   0.00  D7
+[1]Totals                    8      10   6   5   3  10   3
+
+[1]Orioles (6-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes                     7       6   5   5   5  10   3   4.37  A1 D5
+P.Fairbanks WIN(1-0)         1       1   0   0   0   3   0   0.00  D6 D9
+F.Bautista SAVE(3rd)         1       0   0   0   1   0   0   1.42  E1
+[1]Totals                    9       7   5   5   6  13   3
+
+ATTENDANCE- 41,240 DATE- Sunday, October 20th 2024 TIME- Day 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 2:55
+LEFT ON BASE- Mariners: 8  Orioles: 6
+DOUBLE PLAYS- Mariners: 2  Orioles: 0
+ERRORS- B.Belt
+DOUBLES- J.Rodriguez(1st), M.Kepler(2nd)
+HOME RUNS- J.Crawford-2(2nd), K.Marte(3rd), Y.Alvarez(3rd), A.Santander(2nd),
+           A.Hays(1st)
+RBIs- J.Crawford-4(7th), K.Marte(8th), Y.Alvarez-3(8th), A.Santander(6th),
+      A.Hays(4th)
+WALKS- J.Crawford, K.Marte, B.Belt, M.Kepler-2, J.Soler, K.Tucker, A.Rutschman,
+       R.Mountcastle
+STRIKE OUTS- S.Steer, K.Marte-2, B.Belt-2, S.Garrett-3, J.Rodriguez-2, J.Soler,
+             T.Murphy, J.Polanco, Y.Alvarez-2, A.Santander, G.Henderson-2,
+             A.Hays, R.O'Hearn-2, J.Triolo-2
+GIDP- Y.Alvarez, J.Westburg
+WILD PITCHES- C.Burnes-2
+PASSED BALLS- A.Rutschman
+2-out RBI- J.Crawford-3
+RLISP 2-out- J.Rodriguez, J.Soler, S.Garrett, J.Polanco, J.Westburg-2
+TEAM RISP- Mariners: 1 for 10  Orioles: 1 for 3
+
+Corbin Burnes reeled off a total of 10 strikeouts as the Baltimore Orioles
+bested the Seattle Mariners 6 to 5 at Camden Yards.
+
+Pete Fairbanks(1-0) pitched well in relief and was credited with the victory.
+He didn't give up much, just 1 hit and no walks in 1 inning.  Baltimore ended
+up with 10 hits for the game while Seattle had 7.  
+
+Fairbanks got relief help from Felix Bautista who gained credit for his 3rd
+save.  The losing pitcher was Brennan Bernardino(0-1) in relief.  
+
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Baltimore Orioles
+S.Steer-A1   A1:G/63    B1:K       C1:G/63    D1:G/13    *9*:F/8
+                                                         
+                                                         
+J.Crawfo-A1  A2:HR>b#   B2:HR>2#   C2:W>b1    *7*:Si     E2:G/63
+                        1# b#                            
+                                                         
+K.Marte-A1   A3:HR>b#   B3:Si      C3:K       D3:K       E3:W>b1
+                                                         
+                                                         
+B.Belt-A1    A4:W>b1    B4:K       *5*:F/9    D4:WP>12   E4:G/13
+                                              K          
+                                                         
+S.Garret-A1  A5:K       *3*:K      C5:K       D5:WP>23
+                                              F/7
+                                              
+J.Rodrig-A1  A6:PB>12   B6:Do      C6:G/43    *8*:K
+             K                                
+                                              
+M.Kepler-A1  *2*:W>b1   B7:G/43>2  *6*:W>b1   D7:Do
+                        3                     
+                                              
+J.Soler-A1   A8:W>12 b  B8:G/63    C8:F/8     D8:K
+             1                                
+                                              
+T.Murphy-A1  A9:K       *4*:F/8    C9:F/7     D9:K
+J.Polanc-D9                                   
+Y.Granda-E1                                   
+
+K.Tucker-A1  A1:FO/2    *3*:Si     C1:G/43    D1:W>b1
+                                              
+                                              
+A.Rutsch-A1  A2:G/63    B2:W>12 b  *5*:Si     D2:G/3
+                        1                     
+                                              
+Y.Alvare-A1  A3:K       B3:HR>2#   C3:G-DP/4  *8*:K
+                        1# b#      63>1o      
+                                              
+A.Santan-A1  *2*:HR>b#  B4:Si      C4:K       D4:Si
+A.Thomas-E1                                   
+                                              
+G.Hender-A1  A5:K       B5:F/8     *6*:L/4    D5:K
+                                              
+                                              
+A.Hays-A1    A6:HR>b#   B6:K       C6:G/63    D6:Si>13
+                                              
+                                              
+R.O'Hear-A1  A7:Si      B7:K       C7:K       D7:W>12 b
+R.Mountc-D7                                   1
+                                              
+J.Triolo-A1  A8:K       *4*:Si     *7*:K      D8:E/3>3#
+                                              23 12 
+                                              
+J.Westbu-A1  A9:G/63    B9:G-DP/6  C9:FO/2    D9:G/31
+                        43>1o                 
+                                              
+
+

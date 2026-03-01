@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2023 Los Angeles(NL) Dodgers At 2023 New York (NL) Mets   10/6/2023
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Muncy 2B          2  1  0  0 .000     J.Bell DH           4  0  1  0 .194  
+  T.Thompson RF       2  1  1  1 .200     M.Canha LF,RF       4  0  0  0 .167  
+A-J.Berti PH,LF       1  0  0  0 .000     J.McNeil 2B         4  1  1  0 .345  
+  J.Turner 3B         4  1  1  1 .200     P.Alonso 1B         3  1  0  0 .240  
+  C.Seager SS         4  0  0  0 .133     E.Escobar 3B        4  2  2  3 .429  
+  W.Smith C           4  0  1  2 .188     T.D'Arnaud C        3  1  2  1 .353  
+  T.France 1B         4  0  0  0 .267     R.Tapia RF          3  0  1  0 .176  
+  K.Ruiz DH           2  0  0  0 .250   B-E.White LF          0  0  0  0 ----  
+C-T.Taylor PH         1  0  0  0 .222     T.Grisham CF        2  0  0  0 .100  
+  C.Bellinger CF      3  0  0  0 .091     J.Iglesias SS       2  0  0  0 .154  
+D-A.Pujols PH         1  0  0  0 .250                                          
+  C.Taylor LF,RF      3  1  2  0 .333                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  4  5  4                 Totals      29  5  7  4
+
+A-Pinch Hit For Thompson In 7th Inning
+B-Subbed Defensively (LF) For Tapia In 9th Inning
+C-Pinch Hit For Ruiz In 9th Inning
+D-Pinch Hit For Bellinger In 9th Inning
+
+Dodgers......... 0 0 0  0 0 4  0 0 0  -  4  5  1
+Mets............ 0 0 0  0 0 0  2 3    -  5  7  3
+
+[1]Dodgers (0-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Luzardo                 6       5   2   2   1   9   0   3.00  A1 C7
+E.Phillips HOLD(1st)      1       0   0   0   0   1   0   0.00  C8 D1
+D.Jimenez L(0-1) BS(1st)  1       2   3   3   0   0   1  20.25  D2
+[1]Totals                    8       7   5   5   1  10   1
+
+[1]Mets (6-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Keller                  5       2   3   3   2   5   0   3.09  A1 C2
+H.Harvey                  1       2   1   1   0   0   0  27.00  C3 C7
+A.Cimber WIN(1-0)         2       1   0   0   1   1   0   0.00  C8 D5
+R.Iglesias SAVE(4th)      1       0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       5   4   4   3   7   0
+
+ATTENDANCE- 42,083 DATE- Friday, October 6th 2023 TIME- Night 
+UMPIRES- Gabe Morales, Chris Segal, Bill Welke, Andy Fletcher
+T- 2:59
+LEFT ON BASE- Dodgers: 4  Mets: 5
+DOUBLE PLAYS- Dodgers: 2  Mets: 3
+ERRORS- J.Turner, P.Alonso, E.Escobar, J.Iglesias
+DOUBLES- J.Bell(1st), E.Escobar(3rd)
+HOME RUNS- E.Escobar(2nd)
+RBIs- T.Thompson(1st), J.Turner(2nd), W.Smith-2(3rd), E.Escobar-3(12th),
+      T.D'Arnaud(2nd)
+STOLEN BASES- C.Taylor(1st)
+SACRIFICE HITS- T.Grisham
+WALKS- M.Muncy-2, K.Ruiz, R.Tapia
+HIT BY PITCH- T.Thompson, P.Alonso, T.D'Arnaud, J.Iglesias
+STRIKE OUTS- M.Muncy-2, C.Bellinger-3, A.Pujols, C.Taylor, J.Bell-2, M.Canha-2,
+             J.McNeil, P.Alonso, E.Escobar-2, R.Tapia, J.Iglesias
+GIDP- J.Berti, J.Turner-2, R.Tapia, T.Grisham
+WILD PITCHES- D.Jimenez
+RLISP 2-out- T.Grisham, J.Iglesias, P.Alonso
+TEAM RISP- Dodgers: 3 for 5  Mets: 2 for 10
+
+The New York (NL) Mets and the Los Angeles(NL) Dodgers locked up in an
+exciting one-run game at Citi Field.  The final score was the New York (NL)
+Mets 5, the Los Angeles(NL) Dodgers 4.
+
+New York (NL) scored the winning runs in the 8th inning plating 3 runs on 2
+hits.  After an out was recorded, Jeff McNeil was the sparkplug when he lined
+a one-base hit.  Pete Alonso stepped into the batter's box and he was hit by
+a pitch.  Dany Jimenez then let one slip out of his hand for a wild pitch.
+Eduardo Escobar followed next and he rifled a three-run blast.  The teams had
+been locked in a scoreless duel until the 6th inning.  
+
+The victory went to Adam Cimber(1-0) who went 2 innings, allowing no runs.
+Raisel Iglesias earned his 4th save.  Jimenez(0-1) was the loser in relief.
+He surrendered 3 runs and 2 hits in 1 inning.  
+
+[2]
+[1]SCORESHEET: 2023 Los Angeles(NL) Dodgers at 2023 New York (NL) Mets
+M.Muncy-A1   A1:K       B1:K       C1:W>b1    D1:SB>12
+                                              W>b1
+                                              
+T.Thomps-A1  A2:E/5     *4*:HBP    C2:Si>2#   D2:G-DP/4
+J.Berti-D2                         12         63>1o
+                                              
+J.Turner-A1  A3:G-DP/6  B3:G-DP/6  C3:Si>2#   *8*:L/6
+             43>1o      43>1o      13         
+                                              
+C.Seager-A1  *2*:G/63   B4:G/43    C4:G/43>1  D4:F/8
+                                   2          
+                                              
+W.Smith-A1   A5:G/63    *5*:F/8    C5:Si>3#   D5:G/43
+                                   2#         
+                                              
+T.France-A1  A6:FO/2    B6:F/7     C6:Force/  *9*:G/13
+                                   64>1o b1   
+                                              
+K.Ruiz-A1    *3*:E/6    B7:W>b1    C7:G/63    D7:F/7
+T.Taylor-D7                                   
+                                              
+C.Bellin-A1  A8:K       B8:K       *7*:K      D8:K
+A.Pujols-D8                                   
+                                              
+C.Taylor-A1  A9:K       *6*:Si+E/  C9:Si
+                        3          
+                                   
+
+J.Bell-A1    A1:K       B1:F/7     *6*:Do     D1:K
+                                              
+                                              
+M.Canha-A1   A2:K       B2:K       C2:G/63    *8*:L/5
+                                              
+                                              
+J.McNeil-A1  A3:FO/2    *4*:K      C3:L/4     D3:Si
+                                              
+                                              
+P.Alonso-A1  *2*:E/5>b  B4:K       C4:G/53    D4:HBP>12
+             2                                
+                                              
+E.Escoba-A1  A5:K       B5:K       *7*:Do     D5:WP>23
+                                              12 HR>3#
+                                              2# b#
+T.D'Arna-A1  A6:F/8     *5*:Si     C6:Si>2#   D6:HBP
+                                              
+                                              
+R.Tapia-A1   A7:W>b1    B7:K       C7:Si>13   D7:G-DP/4
+E.White-D8                                    63>1o
+                                              
+T.Grisha-A1  A8:F/9     B8:Sac/34  C8:G-DP/4
+                        >12        63>3# 1o
+                                   
+J.Iglesi-A1  *3*:K      B9:G/23    C9:HBP
+                                   
+                                   
+
+

@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Baltimore Orioles          10/21/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  J.Crawford SS       2  0  0  0 .265     K.Tucker RF         3  0  0  0 .184  
+  S.Steer 3B,1B       3  0  0  0 .211     A.Rutschman C       3  0  1  0 .225  
+  B.Belt 1B           3  0  1  0 .333     Y.Alvarez DH        2  0  0  0 .242  
+A-J.Meyers PR,RF      1  1  0  0 .100     A.Santander LF      4  0  0  0 .282  
+D-T.Murphy C          0  0  0  0 .000     G.Henderson 3B      4  0  0  0 .114  
+  K.Marte 2B          3  1  1  0 .270     A.Hays CF           4  0  0  0 .375  
+  J.Kelenic LF        2  0  0  1 .167     R.Mountcastle 1B    4  0  3  0 .357  
+B-E.Escobar 3B        1  0  0  0 .000     A.Trejo 2B          3  1  2  1 .667  
+  J.Rodriguez CF      4  0  0  0 .143   E-R.O'Hearn PH        1  0  0  0 .276  
+  M.Kepler RF,LF,RF   4  1  1  2 .222     J.Mateo SS          2  0  1  0 .364  
+  J.Soler DH          4  0  1  0 .160   F-A.Thomas PH         1  0  0  0 .000  
+  Y.Grandal C         2  0  0  0 .211                                          
+C-T.O'Neill PR,LF     0  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  3  4  3                 Totals      31  1  7  1
+
+A-Pinch Ran For Belt In 7th Inning
+B-Subbed Defensively (3B) For Kelenic In 7th Inning
+C-Pinch Ran For Grandal In 8th Inning
+D-Subbed Defensively (C ) For Meyers In 8th Inning
+E-Pinch Hit For Trejo In 9th Inning
+F-Pinch Hit For Mateo In 9th Inning
+
+Mariners........ 0 0 0  0 0 0  3 0 0  -  3  4  0
+Orioles......... 0 0 0  0 0 0  0 1 0  -  1  7  1
+
+[1]Mariners (7-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Gilbert WIN(2-0)        7       6   1   1   2   7   1   1.88  A1 C9
+J.Jackson HOLD(2nd)       1       0   0   0   2   3   0   0.00  D1 D5
+A.Munoz SAVE(1st)         1       1   0   0   0   3   0   0.00  D6
+[1]Totals                    9       7   1   1   4  13   1
+
+[1]Orioles (6-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Alcantara LOSS(0-1)     7       4   3   3   1   4   1   2.03  A1 C8
+D.Williams                2       0   0   0   3   3   0   6.35  C9
+[1]Totals                    9       4   3   3   4   7   1
+
+ATTENDANCE- 42,838 DATE- Monday, October 21st 2024 TIME- Night 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:36
+LEFT ON BASE- Mariners: 5  Orioles: 8
+DOUBLE PLAYS- Mariners: 2  Orioles: 1
+ERRORS- A.Trejo
+DOUBLES- K.Marte(1st)
+HOME RUNS- M.Kepler(1st), A.Trejo(1st)
+RBIs- J.Kelenic(5th), M.Kepler-2(5th), A.Trejo(1st)
+SACRIFICE HITS- S.Steer, J.Mateo
+SACRIFICE FLIES- J.Kelenic
+WALKS- J.Crawford-2, K.Marte, Y.Grandal, K.Tucker, A.Rutschman, Y.Alvarez-2
+STRIKE OUTS- S.Steer, J.Meyers, J.Kelenic, E.Escobar, J.Rodriguez, M.Kepler,
+             J.Soler, K.Tucker-2, A.Rutschman, A.Santander-2, G.Henderson-2,
+             A.Hays-3, R.Mountcastle, R.O'Hearn, A.Thomas
+GIDP- B.Belt, Y.Alvarez, A.Trejo
+2-out RBI- M.Kepler-2
+RLISP 2-out- A.Rutschman-2, E.Escobar-2, G.Henderson-2
+TEAM RISP- Mariners: 1 for 4  Orioles: 0 for 5
+
+At Camden Yards, the Baltimore fans witnessed a great pitcher's duel.  Logan
+Gilbert(2-0) finally bested his Baltimore opposite, Sandy Alcantara(0-1), by
+the score of 3 to 1.
+
+Seattle plated all the runs they needed in the 7th inning when they came up
+with 3 runs on 3 hits.  The critical plate appearance was by Max Kepler who
+quieted the home crowd when he blasted a two-run home run.  Neither team was
+able to score until the 7th inning.  
+
+Andres Munoz earned his 1st save. Alcantara absorbed the loss.  He gave up
+just 3 runs and 4 hits in 7 innings.
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Baltimore Orioles
+J.Crawfo-A1  A1:L/4     *4*:W>b1   C1:Force/  D1:W>12 b
+                                   14>1o b1   1
+                                              
+S.Steer-A1   A2:G/63    B2:F/8     C2:K       D2:Sac/24
+                                              >23 12
+                                              
+B.Belt-A1    A3:G/43    B3:G-DP/4  *7*:Si     D3:K
+J.Meyers-C5             63>1o                 
+T.Murphy-D6                                   
+K.Marte-A1   *2*:G/31   *5*:F/7    C4:Do>13   D4:IW>b1
+                                              
+                                              
+J.Keleni-A1  A5:K       B5:E/4     C5:SF/8>3  D5:K
+E.Escoba-C9                        #          
+                                              
+J.Rodrig-A1  A6:G/53    B6:F/7     C6:K       *9*:G/53
+                                              
+                                              
+M.Kepler-A1  *3*:G/63   B7:F/9     C7:HR>2#   D7:K
+                                   b#         
+                                              
+J.Soler-A1   A8:K       *6*:Si     C8:G/53    D8:F/7
+                                              
+                                              
+Y.Granda-A1  A9:G/3     B9:F/9     *8*:W>b1
+T.O'Neil-D1                        
+                                   
+
+K.Tucker-A1  A1:F/8     B1:K       *6*:K      D1:W>12 b
+                                              1
+                                              
+A.Rutsch-A1  A2:W>b1    B2:L/4     C2:Si      D2:K
+                                              
+                                              
+Y.Alvare-A1  A3:G-DP/3  *4*:W>b1   C3:L/4     D3:W>23 1
+             63>1o                            2 b1
+                                              
+A.Santan-A1  *2*:F/7    B4:K       C4:G/63    D4:K
+                                              
+                                              
+G.Hender-A1  A5:G/13    B5:K       *7*:L/4    D5:K
+                                              
+                                              
+A.Hays-A1    A6:K       B6:G/63    C6:K       *9*:K
+                                              
+                                              
+R.Mountc-A1  *3*:Si     *5*:Si     C7:K       D7:Si
+                                              
+                                              
+A.Trejo-A1   A8:Si>12   B8:G-DP/6  *8*:HR>b#  D8:K
+R.O'Hear-D8             43>1o                 
+                                              
+J.Mateo-A1   A9:Sac/54  B9:F/8     C9:Si      D9:K
+A.Thomas-D9  >23 12                           
+                                              
+
+

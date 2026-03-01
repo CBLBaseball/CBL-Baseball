@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Boston Red Sox             10/10/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  S.Steer 1B          4  2  2  1 .286     M.Betts 2B          4  1  1  0 .306  
+  K.Marte 2B          4  1  1  0 .250     N.Castellanos RF    4  0  1  1 .138  
+  J.Soler RF          4  0  0  0 .111     R.Devers 3B         4  0  1  0 .229  
+  L.Gilbert P         0  0  0  0 ----     T.Turner SS         4  0  0  0 .162  
+  P.Sewald P          0  0  0  0 ----     A.Benintendi LF     3  0  1  0 .250  
+  J.Jackson P         0  0  0  0 ----   C-H.Ramirez PH        1  0  0  0 .458  
+  J.Rodriguez CF      2  1  2  2 .154     M.Yoshida DH        3  0  0  0 .211  
+  J.Crawford SS       3  0  1  1 .250     W.Flores 1B         3  0  0  0 .321  
+  J.Meyers DH&RF      4  0  0  0 .000     J.Duran CF          3  0  0  0 .190  
+  E.Escobar 3B        4  0  0  0 .000     C.Wong C            2  0  0  0 .200  
+  J.Kelenic LF        3  0  0  0 .100   A-W.Abreu PH          1  1  1  1 .500  
+  Y.Grandal C         4  0  0  0 .111   B-R.McGuire   ,C      0  0  0  0 .125  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  6  4                 Totals      32  2  5  2
+
+A-Pinch Hit For Wong In 8th Inning
+B-Subbed Defensively (  ) For Abreu In 9th Inning
+C-Pinch Hit For Benintendi In 9th Inning
+
+Mariners........ 2 0 0  0 0 2  0 0 0  -  4  6  0
+Red Sox......... 0 0 1  0 0 0  0 1 0  -  2  5  1
+
+[1]Mariners (3-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Gilbert WIN(1-0)        7 1/3   5   2   2   0   6   1   2.45  A1 C8 C9
+P.Sewald HOLD(1st)        0 2/3   0   0   0   0   1   0   0.00  D1 D2
+J.Jackson SAVE(1st)       1       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       5   2   2   0   8   1
+
+[1]Red Sox (4-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Rodriguez LOSS(1-1)     5 2/3   6   4   3   1   4   1   3.46  A1 C5
+T.Houck                   1 1/3   0   0   0   1   2   0   4.50  C6 D1
+M.Castro                  2       0   0   0   2   2   0   2.25  D2
+[1]Totals                    9       6   4   3   4   8   1
+
+ATTENDANCE- 37,190 DATE- Thursday, October 10th 2024 TIME- Night 
+UMPIRES- Paul Emmel, James Hoye, Bruce Dreckman, Pat Hoberg
+T- 2:30
+LEFT ON BASE- Mariners: 5  Red Sox: 3
+DOUBLE PLAYS- Mariners: 0  Red Sox: 1
+ERRORS- C.Wong
+DOUBLES- M.Betts(3rd), A.Benintendi(3rd)
+HOME RUNS- S.Steer(1st), W.Abreu(1st)
+RBIs- S.Steer(1st), J.Rodriguez-2(3rd), J.Crawford(2nd), N.Castellanos(1st),
+      W.Abreu(1st)
+STOLEN BASES- S.Steer(1st), J.Rodriguez-2(3rd)
+WALKS- J.Rodriguez-2, J.Crawford, J.Kelenic
+STRIKE OUTS- S.Steer, J.Crawford-2, J.Meyers, E.Escobar-3, Y.Grandal, M.Betts,
+             R.Devers, T.Turner-2, M.Yoshida, J.Duran-2, C.Wong
+GIDP- J.Meyers
+2-out RBI- N.Castellanos, J.Rodriguez, J.Crawford
+RLISP 2-out- W.Flores, J.Meyers
+TEAM RISP- Mariners: 3 for 6  Red Sox: 1 for 3
+
+In a tight game it was the Seattle Mariners 4, the Boston Red Sox 2 at Fenway
+Park.
+
+Logan Gilbert(1-0) had a solid outing for Seattle.  He went 7 and 1/3 innings
+and surrended up 5 hits and no walks.  Seattle had only 6 hits for the night.
+
+Jay Jackson earned his 1st save.  Eduardo Rodriguez(1-1) was the loser. He
+surrendered 4 runs and 6 hits in 5 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Boston Red Sox
+S.Steer-A1   A1:HR>b#   *3*:G/43   *6*:Si     D1:K
+                                              
+                                              
+K.Marte-A1   A2:Si      B2:F/9     C2:SB>12   *8*:F/7
+                                   F/8        
+                                              
+J.Soler-A1   A3:F/7>12  B3:G/43    C3:G/63    D3:G/63
+L.Gilber-D7                                   
+P.Sewald-D7+                                  
+J.Rodrig-A1  A4:Si>2#   *4*:W>b1   C4:Si>2#   D4:W>b1
+                                              
+                                              
+J.Crawfo-A1  A5:K       B5:K       C5:SB+E/2  D5:SB>12
+                                   >13 Si>3#  IW>b1
+                                              
+J.Meyers-A1  A6:F/8     B6:G-DP/6  C6:Force/  D6:K
+                        43>1o      54>1o b1   
+                                              
+E.Escoba-A1  *2*:K      *5*:K      *7*:P/6    *9*:K
+                                              
+                                              
+J.Keleni-A1  A8:G/43    B8:G/43    C8:W>b1    D8:F/8
+                                              
+                                              
+Y.Granda-A1  A9:G/43    B9:P/5     C9:K       D9:F/7
+                                              
+                                              
+
+M.Betts-A1   A1:F/9     B1:Do      *6*:G/43   D1:K
+                                              
+                                              
+N.Castel-A1  A2:F/9     B2:Si>2#   C2:G/63    D2:F/9
+                                              
+                                              
+R.Devers-A1  A3:K       B3:F/8     C3:Si      *9*:F/7
+                                              
+                                              
+T.Turner-A1  *2*:G/53   *4*:P/6    C4:K       D4:K
+                                              
+                                              
+A.Benint-A1  A5:Do      B5:F/9     *7*:G/43   D5:F/8
+H.Ramire-D5                                   
+                                              
+M.Yoshid-A1  A6:K       B6:G/43    C6:G/53
+                                   
+                                   
+W.Flores-A1  A7:L/5     *5*:P/6    C7:G/13
+                                   
+                                   
+J.Duran-A1   *3*:K      B8:F/7     *8*:K
+                                   
+                                   
+C.Wong-A1    A9:F/7     B9:K       C9:HR>b#
+W.Abreu-C9                         
+R.McGuir-D3                        
+
+

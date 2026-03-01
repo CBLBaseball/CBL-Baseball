@@ -1,0 +1,136 @@
+[1]BOXSCORE: 2023 Los Angeles(NL) Dodgers At 2023 Pittsburgh Pirates   10/6/2024
+
+[1]  Dodgers            AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  C.Seager SS         4  1  1  0 .250     H.Kim 2B            5  1  1  0 .200  
+  W.Smith C           5  2  2  0 .400     J.Pena SS           4  0  1  0 .250  
+  C.Bellinger CF      5  1  4  5 .800     B.Reynolds LF       1  0  0  0 .000  
+  A.Knizner DH        3  0  0  0 .000     C.Santana 1B        4  0  1  0 .250  
+A-J.Turner PH,DH      2  0  0  0 .000     R.Grossman DH       3  0  0  1 .000  
+  M.Muncy 3B          2  0  1  0 .500     K.Hayes 3B          4  2  2  1 .500  
+  T.France 1B         4  1  1  0 .250     S.Marte CF          4  0  0  0 .000  
+  A.Verdugo RF        4  0  1  1 .250     A.McCutchen RF      3  0  1  1 .333  
+  C.Taylor LF         3  0  0  0 .000   B-M.Moustakas PH      1  0  1  01.000  
+  C.Biggio 2B         3  1  0  0 .000     K.Higashioka C      3  0  1  0 .333  
+                                        C-A.Duvall PH         1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  6 10  6                 Totals      33  3  8  3
+
+A-Pinch Hit For Knizner In 8th Inning
+B-Pinch Hit For McCutchen In 9th Inning
+C-Pinch Hit For Higashioka In 9th Inning
+
+Dodgers......... 0 0 0  0 1 0  0 3 2  -  6 10  0
+Pirates......... 0 0 0  0 1 0  1 1 0  -  3  8  0
+
+[1]Dodgers (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Miller                  6       4   1   1   2   7   0   1.50  A1 C5
+A.Wantz WIN(1-0)          1 1/3   2   2   2   0   2   1  13.50  C6 D2
+D.May HOLD(1st)           0 2/3   1   0   0   1   0   0   0.00  D3 D6
+E.Phillips SAVE(1st)      1       1   0   0   0   1   0   0.00  D7
+[1]Totals                    9       8   3   3   3  10   1
+
+[1]Pirates (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Cole LOSS(0-1)          7       8   4   4   2   8   1   5.14  A1 D3
+B.Shaw                    1       0   0   0   0   2   0   0.00  D4 D7
+J.Diekman                 0 2/3   2   2   2   1   1   0  27.00  D8 E3
+C.Stratton                0 1/3   0   0   0   0   0   0   0.00  E4
+[1]Totals                    9      10   6   6   3  11   1
+
+ATTENDANCE- 36,613 DATE- Sunday, October 6th 2024 TIME- Night 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 3:13
+LEFT ON BASE- Dodgers: 7  Pirates: 7
+DOUBLE PLAYS- Dodgers: 0  Pirates: 1
+DOUBLES- W.Smith(1st), A.Verdugo(1st), K.Hayes(1st), A.McCutchen(1st)
+HOME RUNS- C.Bellinger(1st), K.Hayes(1st)
+RBIs- C.Bellinger-5(5th), A.Verdugo(1st), R.Grossman(1st), K.Hayes(1st),
+      A.McCutchen(1st)
+STOLEN BASES- C.Bellinger-2(2nd), B.Reynolds(1st)
+SACRIFICE HITS- C.Taylor
+SACRIFICE FLIES- R.Grossman
+WALKS- C.Seager, M.Muncy, C.Biggio, B.Reynolds-3
+HIT BY PITCH- M.Muncy
+STRIKE OUTS- C.Seager-2, C.Bellinger, A.Knizner, J.Turner, T.France,
+             A.Verdugo-2, C.Taylor-2, C.Biggio, H.Kim, J.Pena, B.Reynolds,
+             C.Santana-2, R.Grossman, S.Marte-2, A.McCutchen, K.Higashioka
+GIDP- T.France
+BALKS- J.Diekman
+PASSED BALLS- W.Smith
+2-out RBI- A.McCutchen, C.Bellinger-2
+RLISP 2-out- M.Muncy, C.Santana, W.Smith, K.Higashioka, R.Grossman, K.Hayes,
+             H.Kim
+TEAM RISP- Dodgers: 3 for 9  Pirates: 3 for 9
+
+Center fielder Cody Bellinger had 4 hits and 5 RBI as the Los Angeles(NL)
+Dodgers bested the Pittsburgh Pirates 6 to 3 at PNC Park.
+
+The Pittsburgh fans didn't appreciate the big day Bellinger had.  He lashed a
+single in the 4th inning, ripped a one-base hit in the 6th inning, lofted a
+three-run 'big-fly' in the 8th inning and ripped a base-knock bringing in two
+baserunners in the 9th inning.  Los Angeles(NL) finished with 10 hits in the
+victory.  
+
+Andrew Wantz(1-0) went 1 and 1/3 innings allowing 2 runs for the win. Wantz
+got relief help from Evan Phillips who gained credit for his 1st save.  The
+loss was charged to Gerrit Cole(0-1).  He gave up 8 hits and 2 walks in 7
+innings.  
+
+[2]
+[1]SCORESHEET: 2023 Los Angeles(NL) Dodgers at 2023 Pittsburgh Pirates
+C.Seager-A1  A1:G/43    B1:K       C1:IW>b1   *8*:Si     E1:K
+                                                         
+                                                         
+W.Smith-A1   A2:G/43    *4*:G/53   C2:L/6     D2:Do>13   E2:Si>12
+                                                         
+                                                         
+C.Bellin-A1  A3:K       B3:Si      *6*:Si     D3:HR>3#   E3:Bk>23
+                                              2# b#      12 Si>3#
+                                                         2#
+A.Knizne-A1  *2*:K      B4:SB>12   C4:SB>12   D4:K       E4:F/8
+J.Turner-D4             L/6        G/63                  
+                                                         
+M.Muncy-A1   A5:W>b1    B5:G/63    C5:Si>23   D5:HBP
+                                              
+                                              
+T.France-A1  A6:F/9     *5*:Si     C6:G-DP/3  D6:K
+                                   63>1o      
+                                              
+A.Verdug-A1  A7:K       B7:Do>1#   *7*:K      D7:L/3
+                                              
+                                              
+C.Taylor-A1  *3*:K      B8:Sac/14  C8:K       *9*:F/8
+                        >23                   
+                                              
+C.Biggio-A1  A9:G/43    B9:K       C9:G/43    D9:W>b1
+                                              
+                                              
+
+H.Kim-A1     A1:K       *4*:G/63   *6*:F/7    *8*:Si     E1:PB>12
+                                                         G/13
+                                                         
+J.Pena-A1    A2:K       B2:G/63    C2:Si      D2:F/8
+                                              
+                                              
+B.Reynol-A1  A3:K       B3:W>b1    C3:W>12 b  D3:W>12 b
+                                   1          1
+                                              
+C.Santan-A1  *2*:K      B4:SB>12   C4:F/8     D4:Si>23
+                        K                     12
+                                              
+R.Grossm-A1  A5:K       *5*:G/43   C5:G/63    D5:SF/8>3
+                                              #
+                                              
+K.Hayes-A1   A6:G/43    B6:Do      *7*:HR>b#  D6:L/5
+                                              
+                                              
+S.Marte-A1   *3*:F/7    B7:L/6     C7:K       *9*:K
+                                              
+                                              
+A.McCutc-A1  A8:F/7     B8:Do>2#   C8:K       D8:Si
+M.Mousta-D8                                   
+                                              
+K.Higash-A1  A9:K       B9:Si>2o   C9:F/7     D9:F/8
+A.Duvall-D9                                   
+                                              
+
+

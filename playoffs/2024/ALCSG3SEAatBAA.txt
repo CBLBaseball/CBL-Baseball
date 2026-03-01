@@ -1,0 +1,139 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Baltimore Orioles          10/19/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  J.Crawford SS       5  0  1  0 .214     K.Tucker RF         4  1  2  1 .188  
+  S.Steer 3B,1B       4  1  2  0 .267     A.Rutschman C       3  1  1  1 .206  
+  K.Marte 2B          4  1  1  0 .233     Y.Alvarez DH        4  1  1  2 .259  
+  B.Belt 1B           3  1  1  0 .429     A.Santander LF      4  1  2  1 .258  
+E-S.Garrett PH,LF     1  0  0  0 .125   G-A.Thomas CF         0  0  0  0 .000  
+  J.Polanco DH        4  1  2  2 .267     G.Henderson SS,3B   4  1  1  0 .148  
+  M.Kepler RF         2  0  2  1 .190     A.Hays CF,LF        4  0  1  0 .438  
+  J.Rodriguez CF      4  0  1  0 .148     R.O'Hearn 1B        4  0  0  0 .280  
+  J.Kelenic LF        4  0  1  0 .188     J.Triolo 3B         2  1  2  1 .286  
+F-E.Escobar 3B        0  0  0  0 .000   C-R.Mountcastle PH    1  0  0  0 .200  
+  Y.Grandal C         2  0  0  0 .235   D-J.Mateo SS          1  0  1  0 .333  
+A-J.Soler PH          0  0  0  0 .167     J.Westburg 2B       4  0  1  0 .143  
+B-T.Murphy C          1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  4 11  3                 Totals      35  6 12  6
+
+A-Pinch Hit For Grandal In 7th Inning
+B-Subbed Defensively (C ) For Soler In 7th Inning
+C-Pinch Hit For Triolo In 7th Inning
+D-Subbed Defensively (SS) For Mountcastle In 8th Inning
+E-Pinch Hit For Belt In 8th Inning
+F-Subbed Defensively (3B) For Kelenic In 8th Inning
+G-Subbed Defensively (CF) For Santander In 9th Inning
+
+Mariners........ 0 1 0  0 0 0  1 2 0  -  4 11  0
+Orioles......... 0 0 1  2 0 0  3 0    -  6 12  0
+
+[1]Mariners (6-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Kirby LOSS(0-1)         6 2/3  10   6   6   1   7   2   8.10  A1 D3
+T.Saucedo                 1       2   0   0   0   1   0   4.50  D4 D8
+J.Topa                    0 1/3   0   0   0   0   1   0  13.50  D9
+[1]Totals                    8      12   6   6   1   9   2
+
+[1]Orioles (5-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glasnow WIN(1-1)        6 1/3   9   2   2   1   8   1   4.38  A1 C8
+R.Borucki HOLD(4th)       0 2/3   0   0   0   1   0   0   2.25  C9 D1
+A.Chapman                 0 1/3   2   2   2   1   1   0  11.57  D2 D5
+P.Fairbanks HOLD(2nd)     0 2/3   0   0   0   1   1   0   0.00  D6 D8
+F.Bautista SAVE(2nd)      1       0   0   0   0   1   0   1.69  D9
+[1]Totals                    9      11   4   4   4  11   1
+
+ATTENDANCE- 41,343 DATE- Saturday, October 19th 2024 TIME- Night 
+UMPIRES- Chris Segal, Bill Welke, Andy Fletcher, Gabe Morales
+T- 3:05
+LEFT ON BASE- Mariners: 7  Orioles: 6
+DOUBLE PLAYS- Mariners: 0  Orioles: 4
+DOUBLES- B.Belt(3rd), J.Westburg(2nd)
+TRIPLES- K.Tucker(1st)
+HOME RUNS- J.Polanco(3rd), Y.Alvarez(2nd), A.Santander(1st)
+RBIs- J.Polanco-2(6th), M.Kepler(3rd), K.Tucker(4th), A.Rutschman(4th),
+      Y.Alvarez-2(5th), A.Santander(5th), J.Triolo(1st)
+STOLEN BASES- G.Henderson(2nd)
+CAUGHT STEALING- K.Tucker
+WALKS- S.Steer, M.Kepler-2, J.Soler, A.Rutschman
+STRIKE OUTS- J.Crawford-2, S.Steer, B.Belt-2, S.Garrett, J.Polanco-2,
+             J.Rodriguez, J.Kelenic-2, A.Rutschman, Y.Alvarez, A.Santander,
+             G.Henderson, A.Hays, R.O'Hearn-2, J.Westburg-2
+GIDP- J.Crawford, K.Marte, J.Rodriguez, J.Kelenic
+BALKS- A.Chapman
+WILD PITCHES- R.Borucki
+2-out RBI- J.Triolo, A.Rutschman, Y.Alvarez-2
+RLISP 2-out- Y.Alvarez, Y.Grandal, R.O'Hearn, J.Kelenic, J.Westburg
+TEAM RISP- Mariners: 2 for 9  Orioles: 2 for 9
+WEB GEMS- Bot 6th: Jarred Kelenic robbed Ryan O'Hearn of an extra base hit.
+
+Left fielder Anthony Santander lofted one into the 'cheap seats' as the
+Baltimore Orioles defeated the Seattle Mariners 6 to 4 at Camden
+Yards.
+
+Baltimore took the lead for good in the 4th inning when they came up with 2
+runs on 3 hits.  Felix Bautista was perfect in the ninth giving him his 2nd
+save on the season.  
+
+Tyler Glasnow(1-1) picked up the victory, allowing 2 runs in 6 and 1/3
+innings. George Kirby(0-1) was given the loss.  He pitched 6 and 2/3 innings
+giving up 10 hits and 1 walk.
+
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Baltimore Orioles
+J.Crawfo-A1  A1:G/63    B1:K       *6*:Si     D1:G-DP/4  E1:K
+                                              23>3o      
+                                                         
+S.Steer-A1   A2:Si      *4*:Si     C2:K       *8*:W>b1   E2:F/8
+                                                         
+                                                         
+K.Marte-A1   A3:G-DP/1  B3:L/4     C3:F/9     D3:Si>13
+             63>1o                            
+                                              
+B.Belt-A1    *2*:Do     B4:K       C4:K       D4:Bk>3#
+S.Garret-D4                                   12 K
+                                              
+J.Polanc-A1  A5:K       B5:K       *7*:HR>b#  D5:Si>2#
+                                              
+                                              
+M.Kepler-A1  A6:Si>2#   *5*:Si     C6:W>b1    D6:W>12 b
+                                              1
+                                              
+J.Rodrig-A1  A7:G-DP/6  B7:Si>12   C7:K       D7:F/8
+             43>1o                            
+                                              
+J.Keleni-A1  *3*:K      B8:G-DP/4  C8:Si>12   D8:K
+E.Escoba-D9             63>23 1o              
+                                              
+Y.Granda-A1  A9:F/7     B9:P/4     C9:WP>23   *9*:F/8
+J.Soler-C9                         12 IW>b1   
+T.Murphy-D2                                   
+
+K.Tucker-A1  A1:G/31    B1:G/3>3#  *5*:Si     D1:Tr
+                        23                    
+                                              
+A.Rutsch-A1  A2:G/63    B2:W>b1    C2:CS/26>  D2:Si>3#
+                                   1o K       
+                                              
+Y.Alvare-A1  A3:K       B3:G/3     C3:G/3     D3:HR>1#
+                                              b#
+                                              
+A.Santan-A1  *2*:P/4    *4*:HR>b#  *6*:Si     D4:K
+A.Thomas-E1                                   
+                                              
+G.Hender-A1  A5:K       B5:Si      C5:G/13>1  *8*:G/31
+                                   2          
+                                              
+A.Hays-A1    A6:G/53    B6:SB>12   C6:K       D6:Si
+                        G/43>23               
+                                              
+R.O'Hear-A1  *3*:K      B7:K       C7:F/7     D7:F/8
+                                              
+                                              
+J.Triolo-A1  A8:Si      B8:Si>3#   *7*:F/8    D8:Si>13
+R.Mountc-C8                                   
+J.Mateo-D5                                    
+J.Westbu-A1  A9:Do>13   B9:K       C9:L/6     D9:K
+                                              
+                                              
+
+

@@ -1,0 +1,120 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 Baltimore Orioles            10/27/2023
+
+[1]  Braves             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  C.Yelich LF         3  1  0  0 .208     K.Wong 2B           3  0  0  0 .216  
+  J.Realmuto C        4  1  2  3 .358     A.Rutschman C       4  0  1  0 .250  
+  M.Harris CF         4  0  0  1 .216     Y.Alvarez DH        4  0  0  0 .261  
+  A.Riley 3B          4  0  0  0 .175     A.Santander RF,LF   3  0  0  0 .275  
+  F.Freeman 1B        3  0  0  0 .226     K.Tucker CF         3  1  1  1 .268  
+  R.Acuna RF          3  0  0  0 .286     R.Mountcastle 1B    3  0  0  0 .224  
+  W.Contreras DH      4  0  1  0 .333     A.Verdugo LF        2  0  0  0 .200  
+  N.Gordon 2B         3  1  1  0 .194   B-A.Hays PH,RF        1  0  0  0 .238  
+A-O.Albies 2B         1  0  0  0 .333     R.Urias 3B          3  0  1  0 .133  
+  D.Swanson SS        4  1  1  0 .321     J.Mateo SS          3  0  0  0 .169  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  4  5  4                 Totals      29  1  3  1
+
+A-Subbed Defensively (2B) For Gordon In 7th Inning
+B-Pinch Hit For Verdugo In 7th Inning
+
+Braves.......... 0 0 2  0 0 0  0 2 0  -  4  5  0
+Orioles......... 0 1 0  0 0 0  0 0 0  -  1  3  0
+
+[1]Braves (12-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Strider WIN(2-1)           6       3   1   1   2   8   1   3.86  A1 C4
+D.Lee HOLD(2nd)              1       0   0   0   0   2   0   0.00  C5 C7
+C.McHugh HOLD(3rd)           1       0   0   0   0   2   0   0.00  C8 D1
+D.Robertson SAVE(3rd)        1       0   0   0   0   1   0   5.40  D2
+[1]Totals                    9       3   1   1   2  13   1
+
+[1]Orioles (11-8)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Burnes LOSS(4-3)           7       4   3   3   1   9   0   4.08  A1 D1
+D.Williams                   1       1   1   1   1   3   1   0.87  D2 D6
+J.Adam                       1       0   0   0   0   0   0   0.00  D7
+[1]Totals                    9       5   4   4   2  12   1
+
+ATTENDANCE- 44,397 DATE- Friday, October 27th 2023 TIME- Night 
+UMPIRES- Mike Estabrook, Nic Lentz, Ted Barrett, Lance Barksdale
+T- 2:54
+LEFT ON BASE- Braves: 5  Orioles: 3
+DOUBLE PLAYS- Braves: 1  Orioles: 0
+DOUBLES- J.Realmuto(3rd), N.Gordon(2nd)
+HOME RUNS- J.Realmuto(5th), K.Tucker(7th)
+RBIs- J.Realmuto-3(10th), M.Harris(7th), K.Tucker(17th)
+WALKS- C.Yelich, F.Freeman, K.Wong, A.Santander
+HIT BY PITCH- R.Acuna
+STRIKE OUTS- C.Yelich-2, M.Harris-3, A.Riley-3, F.Freeman, R.Acuna-2, N.Gordon,
+             K.Wong, A.Rutschman-2, Y.Alvarez-2, K.Tucker-2, R.Mountcastle-3,
+             J.Mateo-3
+GIDP- Y.Alvarez
+RLISP 2-out- A.Riley
+TEAM RISP- Braves: 1 for 5  Orioles: 1 for 2
+
+At Camden Yards the Atlanta Braves outscored the Baltimore Orioles 4 to
+1.
+
+Atlanta jumped on top to stay in the 3rd inning when they came up with 2 runs
+on 2 hits.  That was all Spencer Strider(2-1) needed.  Strider was helped out
+by David Robertson who pitched a perfect ninth and recorded his 3rd save.
+
+The loss was charged to Corbin Burnes(4-3).  He surrendered only 3 runs and 4
+hits in 7 innings.
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 Baltimore Orioles
+C.Yelich-A1  A1:K       B1:K       C1:F/9     *8*:W>b1
+                                              
+                                              
+J.Realmu-A1  A2:G/43    B2:Do>3#   C2:F/8     D2:HR>1#
+                        13                    b#
+                                              
+M.Harris-A1  A3:K       B3:G/63>3  C3:K       D3:K
+                        # 23                  
+                                              
+A.Riley-A1   *2*:K      B4:F/7     *6*:K      D4:K
+                                              
+                                              
+F.Freema-A1  A5:G/43    *4*:K      C5:G/43    D5:W>b1
+                                              
+                                              
+R.Acuna-A1   A6:HBP     B6:K       C6:G/43    D6:K
+                                              
+                                              
+W.Contre-A1  A7:G/63    B7:Si      *7*:F/8    *9*:L/6
+                                              
+                                              
+N.Gordon-A1  *3*:Do     B8:K       C8:F/9     D8:G/43
+O.Albies-D1                                   
+                                              
+D.Swanso-A1  A9:FC/15>  *5*:Si     C9:F/7     D9:F/8
+             23                               
+                                              
+
+K.Wong-A1    A1:F/7     B1:W>12 b  C1:L/4     D1:K
+                        1                     
+                                              
+A.Rutsch-A1  A2:K       B2:Si>23   *6*:F/9    *9*:K
+                        12                    
+                                              
+Y.Alvare-A1  A3:K       B3:G-DP/6  C3:K       D3:G/63
+                        43>1o                 
+                                              
+A.Santan-A1  *2*:G/43   *4*:W>b1   C4:F/9     D4:G/53
+                                              
+                                              
+K.Tucker-A1  A5:HR>b#   B5:K       *7*:K
+                                   
+                                   
+R.Mountc-A1  A6:K       B6:K       C6:K
+                                   
+                                   
+A.Verdug-A1  A7:G/63    B7:L/4     C7:G/31
+A.Hays-C7                          
+                                   
+R.Urias-A1   *3*:Si     *5*:L/6    *8*:F/9
+                                   
+                                   
+J.Mateo-A1   A9:K       B9:K       C9:K
+                                   
+                                   
+
+

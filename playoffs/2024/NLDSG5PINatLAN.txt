@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2023 Pittsburgh Pirates At 2023 Los Angeles(NL) Dodgers  10/11/2024
+
+[1]  Pirates            AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Pena SS           4  0  0  0 .111     C.Seager SS         3  1  0  0 .118  
+  B.Reynolds LF       4  0  0  0 .235     W.Smith C           5  0  0  0 .190  
+  H.Kim 2B            4  0  1  0 .190     M.Muncy DH          4  3  2  1 .250  
+  C.Santana 1B        4  0  0  0 .111     J.Donaldson 3B      3  1  1  1 .286  
+  K.Hayes 3B          3  0  0  0 .300     C.Bellinger CF      3  2  1  1 .421  
+  S.Marte CF          3  0  0  0 .091     J.Turner 1B         5  1  3  3 .333  
+  A.McCutchen RF      2  0  0  0 .267     J.Berti 2B          4  1  1  1 .200  
+  M.Moustakas DH      2  0  0  0 .200     A.Verdugo RF        3  0  0  0 .100  
+  K.Higashioka C      1  0  0  0 .222     C.Taylor LF         3  0  1  2 .250  
+A-R.Grossman PH       1  0  1  0 .333                                          
+B-C.Bethancourt C     1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  0  2  0                 Totals      33  9  9  9
+
+A-Pinch Hit For Higashioka In 6th Inning
+B-Subbed Defensively (C ) For Grossman In 6th Inning
+
+Pirates......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Dodgers......... 1 0 3  0 4 0  0 1    -  9  9  0
+
+[1]Pirates (1-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Lyles LOSS(0-1)         4       3   4   4   4   1   0   9.00  A1 C1
+A.Abreu                   0 2/3   2   3   3   1   1   0  16.20  C2 C6
+B.Shaw                    0       2   1   1   2   0   0   9.00  C7 D1
+C.Holderman               0 1/3   0   0   0   0   1   0   0.00  D2 D2
+C.Anderson                2 1/3   2   1   1   2   1   1   3.86  D3 E4
+C.Poche                   0 2/3   0   0   0   0   1   0   0.00  E5
+[1]Totals                    8       9   9   9   9   5   1
+
+[1]Dodgers (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Miller WIN(1-0)         6       2   0   0   1   4   0   0.75  A1 C3
+T.May SAVE(1st)           3       0   0   0   1   2   0   0.00  C4
+[1]Totals                    9       2   0   0   2   6   0
+
+ATTENDANCE- 53,349 DATE- Friday, October 11th 2024 TIME- Night 
+UMPIRES- Sam Holbrook, Angel Hernandez, Jim Wolf, Dj Reyburn
+T- 2:55
+LEFT ON BASE- Pirates: 4  Dodgers: 9
+DOUBLE PLAYS- Pirates: 0  Dodgers: 0
+DOUBLES- M.Muncy(1st), J.Donaldson(1st), J.Turner(1st), C.Taylor(2nd)
+HOME RUNS- M.Muncy(1st)
+RBIs- M.Muncy(1st), J.Donaldson(3rd), C.Bellinger(6th), J.Turner-3(6th),
+      J.Berti(1st), C.Taylor-2(2nd)
+STOLEN BASES- H.Kim(1st)
+WALKS- A.McCutchen, M.Moustakas, C.Seager-2, M.Muncy, J.Donaldson-2,
+       C.Bellinger-2, A.Verdugo, C.Taylor
+STRIKE OUTS- J.Pena-2, C.Santana, K.Hayes, S.Marte, A.McCutchen, W.Smith-2,
+             C.Bellinger-2, J.Turner
+WILD PITCHES- J.Lyles
+PASSED BALLS- C.Bethancourt
+2-out RBI- C.Bellinger, J.Donaldson, J.Turner-3, J.Berti, C.Taylor-2
+RLISP 2-out- C.Santana, J.Turner, J.Berti, W.Smith-2, H.Kim, C.Seager
+TEAM RISP- Pirates: 0 for 4  Dodgers: 6 for 14
+
+Max Muncy hit one over the fence and scored 3 times and Bobby Miller had an
+impressive outing as the Los Angeles(NL) Dodgers topped the Pittsburgh
+Pirates by a score of 9 to 0 at Dodger Stadium.
+
+Los Angeles(NL) set the tone of the game in the first inning scoring one
+runner.  That early run support was enough for Miller(1-0) and Los
+Angeles(NL).  Pittsburgh was out-hit by Los Angeles(NL), 9 hits to 2.
+
+Trevor May earned the save, his 1st.  Jordan Lyles(0-1) was the loser.  He
+surrendered 4 runs and 3 hits in 4 innings.
+[2]
+[1]SCORESHEET: 2023 Pittsburgh Pirates at 2023 Los Angeles(NL) Dodgers
+J.Pena-A1    A1:L/6     B1:G/63    C1:K       D1:K
+                                              
+                                              
+B.Reynol-A1  A2:F/9     *4*:L/4    C2:L/4     *9*:G/63
+                                              
+                                              
+H.Kim-A1     A3:Si      B3:G/63    C3:F/8     D3:F/8
+                                              
+                                              
+C.Santan-A1  A4:SB>12   B4:K       *7*:L/4    D4:F/7
+             F/8                              
+                                              
+K.Hayes-A1   *2*:K      *5*:L/6    C5:F/9
+                                   
+                                   
+S.Marte-A1   A6:G/31    B6:G/13    C6:K
+                                   
+                                   
+A.McCutc-A1  A7:K       B7:F/8     *8*:W>b1
+                                   
+                                   
+M.Mousta-A1  *3*:G/53   *6*:W>b1   C8:F/7
+                                   
+                                   
+K.Higash-A1  A9:F/7     B9:Si>12   C9:L/6
+R.Grossm-B9                        
+C.Bethan-C4                        
+
+C.Seager-A1  A1:L/4     *3*:W>b1   C1:G/43    D1:IW>b1   E1:G/31
+                                                         
+                                                         
+W.Smith-A1   A2:G/3     B2:WP>12   *5*:K      D2:K       *8*:P/6
+                        L/5                              
+                                                         
+M.Muncy-A1   A3:W>b1    B3:F/9     C3:Do      *6*:G/13   E3:HR>b#
+                                                         
+                                                         
+J.Donald-A1  A4:W>12 b  B4:Do>2#   C4:G/63    D4:G/63    E4:W>b1
+             1                                           
+                                                         
+C.Bellin-A1  A5:Si>2#   B5:IW>b1   C5:W>b1    D5:K       E5:K
+             13                                          
+                                                         
+J.Turner-A1  A6:K       B6:Do>2#   C6:Si>2#   *7*:Si     E6:F/9
+                        1#         13                    
+                                                         
+J.Berti-A1   *2*:L/6    B7:G/63    C7:Si>3#   D7:F/9
+                                   13         
+                                              
+A.Verdug-A1  A8:L/5     *4*:F/7    C8:W>12 b  D8:PB>12
+                                   1          F/7
+                                              
+C.Taylor-A1  A9:G/63    B9:L/6     C9:Do>3#   D9:W>b1
+                                   2# 13      
+                                              
+
+

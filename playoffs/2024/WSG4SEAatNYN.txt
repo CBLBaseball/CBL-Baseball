@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 New York (NL) Mets         10/30/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  S.Steer 1B          4  0  0  0 .211     J.McNeil 2B         3  0  0  0 .278  
+  J.Rodriguez CF      4  0  0  0 .130     P.Alonso 1B         4  0  0  0 .232  
+  J.Soler RF          2  0  0  0 .154     J.Candelario 3B     4  0  0  0 .275  
+  K.Marte 2B          4  1  1  1 .236     M.Canha RF          2  0  1  0 .225  
+  T.O'Neill LF        3  0  1  0 .167   B-B.Perkins RF        1  0  1  0 .250  
+  J.Crawford SS       2  0  0  0 .240     F.Alvarez C         3  1  1  0 .143  
+  E.Escobar 3B        2  0  0  0 .000   C-G.Sanchez C         1  0  0  0 .136  
+A-J.Polanco PH,3B     1  0  0  0 .174     M.Ford DH           3  1  1  2 .480  
+  S.Garrett DH        3  0  0  0 .158   D-C.Perez PH,DH       1  0  0  0 .182  
+  Y.Grandal C         3  0  0  0 .207     E.Rosario LF        3  0  1  0 .235  
+                                          W.Franco SS         3  1  1  1 .250  
+                                          T.Grisham CF        3  0  1  0 .138  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  1  2  1                 Totals      31  3  7  3
+
+A-Pinch Hit For Escobar In 7th Inning
+B-Subbed Defensively (RF) For Canha In 8th Inning
+C-Subbed Defensively (C ) For Alvarez In 8th Inning
+D-Pinch Hit For Ford In 8th Inning
+
+Mariners........ 0 0 0  0 0 0  1 0 0  -  1  2  1
+Mets............ 0 0 0  0 3 0  0 0    -  3  7  0
+
+[1]Mariners (10-5)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Webb LOSS(2-1)          6       5   3   3   1   4   2   2.38  A1 C7
+J.Topa                    2       2   0   0   0   3   0   5.40  C8
+[1]Totals                    8       7   3   3   1   7   2
+
+[1]Mets (13-5)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana WIN(1-0)       5       1   0   0   2   3   0   1.84  A1 B9
+R.Lopez HOLD(1st)         1 1/3   1   1   1   1   3   1   5.56  C1 C6
+K.Ginkel SAVE(3rd)        2 2/3   0   0   0   0   4   0   2.03  C7
+[1]Totals                    9       2   1   1   3  10   1
+
+ATTENDANCE- 41,348 DATE- Wednesday, October 30th 2024 TIME- Night 
+UMPIRES- Alan Porter, Quinn Wolcott, Jeremie Rehak, Mark Wegner
+T- 2:21
+LEFT ON BASE- Mariners: 3  Mets: 6
+DOUBLE PLAYS- Mariners: 0  Mets: 1
+ERRORS- J.Crawford
+DOUBLES- E.Rosario(4th)
+HOME RUNS- K.Marte(4th), M.Ford(8th), W.Franco(1st)
+RBIs- K.Marte(11th), M.Ford-2(14th), W.Franco(4th)
+WALKS- J.Soler-2, J.Crawford, M.Canha
+HIT BY PITCH- J.McNeil
+STRIKE OUTS- S.Steer-3, J.Rodriguez-3, J.Soler-2, K.Marte, T.O'Neill, P.Alonso,
+             J.Candelario, M.Canha, G.Sanchez, M.Ford-2, W.Franco
+GIDP- J.Polanco
+PASSED BALLS- F.Alvarez
+RLISP 2-out- J.Crawford, E.Rosario
+TEAM RISP- Mariners: 1 for 3  Mets: 0 for 2
+
+Jose Quintana(1-0) and Logan Webb(2-1) treated the New York (NL) fans to a
+fine pitching duel at Citi Field.  The New York (NL) Mets eventually emerged
+as victors over the Seattle Mariners by the score of 3 to 1.
+
+New York (NL) delivered all the runs required in the 5th inning when they
+scored 3 runs on 3 hits.  The crucial at-bat was provided by Mike Ford who
+made the crowd happy when he clubbed a two-run home run.  Kevin Ginkel
+relieved and was untouched by Seattle as he recorded the save, his 3rd.  
+
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 New York (NL) Mets
+S.Steer-A1   A1:G/31    B1:K       *6*:K      D1:K
+                                              
+                                              
+J.Rodrig-A1  A2:G/53    *4*:K      C2:K       *9*:K
+                                              
+                                              
+J.Soler-A1   A3:W>b1    B3:W>b1    C3:K       D3:K
+                                              
+                                              
+K.Marte-A1   A4:G/43    B4:PB>12   *7*:HR>b#  D4:K
+                        L/6                   
+                                              
+T.O'Neil-A1  *2*:K      B5:Si>23   C5:L/5
+                                   
+                                   
+J.Crawfo-A1  A6:G/43    B6:F/9     C6:W>b1
+                                   
+                                   
+E.Escoba-A1  A7:G/43    *5*:P/6    C7:G-DP/4
+J.Polanc-C7                        63>1o
+                                   
+S.Garret-A1  *3*:F/9    B8:G/43    *8*:F/9
+                                   
+                                   
+Y.Granda-A1  A9:F/7     B9:F/7     C9:L/4
+                                   
+                                   
+
+J.McNeil-A1  A1:G/31    B1:L/4     C1:HBP     D1:F/9
+                                              
+                                              
+P.Alonso-A1  A2:K       *4*:L/6    C2:F/7     D2:G/13
+                                              
+                                              
+J.Candel-A1  A3:G/23    B3:L/4     *6*:F/7    *8*:K
+                                              
+                                              
+M.Canha-A1   *2*:W>b1   B4:K       C4:Si      D4:Si
+B.Perkin-D3                                   
+                                              
+F.Alvare-A1  A5:L/6     *5*:Si     C5:E/6>12  D5:K
+G.Sanche-D3                                   
+                                              
+M.Ford-A1    A6:K       B6:HR>1#   C6:K       D6:F/7
+C.Perez-D6              b#                    
+                                              
+E.Rosari-A1  A7:Do>1o   B7:G/43    C7:F/7
+                                   
+                                   
+W.Franco-A1  *3*:G/63   B8:HR>b#   *7*:K
+                                   
+                                   
+T.Grisha-A1  A9:F/7     B9:G/43    C9:Si
+                                   
+                                   
+
+

@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2023 Los Angeles(AL) Angels At 2023 Baltimore Orioles     10/5/2023
+
+[1]  Angels             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  Y.Diaz 3B           4  0  3  0 .500     K.Wong 2B           2  1  1  0 .400  
+  O.Arcia SS          4  0  0  0 .182     A.Rutschman C       4  0  1  0 .267  
+  T.Ward RF           3  0  1  0 .455     Y.Alvarez DH        2  1  0  0 .222  
+  S.Ohtani P          3  0  0  0 .200     A.Santander RF      4  0  1  1 .409  
+  T.Kinley P          0  0  0  0 ----   B-A.Thomas CF         0  0  0  0 .250  
+C-D.Peralta PH        1  1  0  0 .400     K.Tucker CF,RF      4  1  2  2 .474  
+  A.Garcia CF         4  0  0  0 .143     R.Mountcastle 1B    3  0  1  0 .278  
+  B.Drury 2B          4  0  1  1 .222     A.Verdugo LF        4  0  0  0 .214  
+  T.Friedl LF         2  0  0  0 .000     G.Henderson 3B      3  1  1  1 .250  
+D-W.Myers PH          1  0  0  0 .200     J.Mateo SS          2  0  0  0 .250  
+  J.Aguilar 1B        4  0  0  0 .000                                          
+  M.Stassi C          2  0  0  0 .200                                          
+A-G.Stubbs PH,C       1  0  0  0 .250                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  1  5  1                 Totals      28  4  7  4
+
+A-Pinch Hit For Stassi In 8th Inning
+B-Subbed Defensively (CF) For Santander In 9th Inning
+C-Pinch Hit For Kinley In 9th Inning
+D-Pinch Hit For Friedl In 9th Inning
+
+Angels.......... 0 0 0  0 0 0  0 0 1  -  1  5  0
+Orioles......... 0 0 0  0 0 1  1 2    -  4  7  1
+
+[1]Angels (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Ohtani LOSS(0-1)        7 1/3   6   4   4   2   9   2   4.91  A1 A1 D4
+T.Kinley                  0 2/3   1   0   0   1   0   0   0.00  D5
+[1]Totals                    8       7   4   4   3   9   2
+
+[1]Orioles (3-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Peralta WIN(1-0)        6       3   0   0   1   3   0   0.00  A1 C4
+D.Williams HOLD(1st)      2       1   0   0   1   4   0   0.00  C5 D3
+D.Tate                    0 1/3   1   1   0   0   0   0   4.91  D4 D6
+J.Adam SAVE(1st)          0 2/3   0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       5   1   0   2   9   0
+
+ATTENDANCE- 45,999 DATE- Thursday, October 5th 2023 TIME- Night 
+UMPIRES- Ted Barrett, Lance Barksdale, Mike Estabrook, Nic Lentz
+T- 2:32
+LEFT ON BASE- Angels: 7  Orioles: 6
+DOUBLE PLAYS- Angels: 2  Orioles: 0
+ERRORS- J.Mateo
+DOUBLES- Y.Diaz(1st), B.Drury(1st)
+HOME RUNS- K.Tucker(5th), G.Henderson(1st)
+RBIs- B.Drury(5th), A.Santander(6th), K.Tucker-2(11th), G.Henderson(1st)
+SACRIFICE HITS- K.Wong
+WALKS- T.Ward, T.Friedl, Y.Alvarez-2, R.Mountcastle
+HIT BY PITCH- K.Wong, J.Mateo
+STRIKE OUTS- O.Arcia, T.Ward-2, S.Ohtani, A.Garcia-2, W.Myers, J.Aguilar-2,
+             K.Wong, A.Rutschman-2, A.Santander-3, A.Verdugo, G.Henderson,
+             J.Mateo
+GIDP- Y.Alvarez, A.Verdugo
+WILD PITCHES- T.Kinley, S.Ohtani-3
+RLISP 2-out- A.Garcia, S.Ohtani, A.Santander-2, J.Mateo, J.Aguilar
+TEAM RISP- Angels: 1 for 8  Orioles: 2 for 8
+
+Kyle Tucker left the yard and had 2 RBI as the Baltimore Orioles defeated the
+Los Angeles(AL) Angels 4 to 1 at Camden Yards.
+
+Baltimore took the lead for good in the 6th inning plating an isolated run.
+The game was a scoreless duel until the 6th inning.  
+
+Freddy Peralta(1-0) picked up the victory, allowing no runs in 6 innings.
+Jason Adam recorded his 1st save.  Shohei Ohtani(0-1) was the loser.  
+
+[2]
+[1]SCORESHEET: 2023 Los Angeles(AL) Angels at 2023 Baltimore Orioles
+Y.Diaz-A1    A1:Do      B1:Si      C1:F/9     D1:Si
+                                              
+                                              
+O.Arcia-A1   A2:G/63    B2:F/7     *6*:F/8    D2:K
+                                              
+                                              
+T.Ward-A1    A3:W>b1    B3:Si>12   C3:K       D3:K
+                                              
+                                              
+S.Ohtani-A1  A4:K       B4:F/9     C4:F/8     *9*:E/6>b
+T.Kinley-D4                                   2
+D.Peralt-D4                                   
+A.Garcia-A1  A5:K       *4*:F/7    *7*:K      D5:F/8
+                                              
+                                              
+B.Drury-A1   *2*:G/63   B6:F/8     C6:L/6     D6:Do>2#
+                                              
+                                              
+T.Friedl-A1  A7:P/3     B7:F/9     C7:W>b1    D7:K
+W.Myers-D7                                    
+                                              
+J.Aguila-A1  A8:P/2     *5*:L/4    C8:K       D8:K
+                                              
+                                              
+M.Stassi-A1  *3*:G/53   B9:F/8     *8*:G/43
+G.Stubbs-C9                        
+                                   
+
+K.Wong-A1    A1:K       *4*:HBP    C1:Sac/54  *8*:Si
+                                   >12        
+                                              
+A.Rutsch-A1  A2:Si      B2:K       C2:F/8     D2:WP>12
+                                              K
+                                              
+Y.Alvare-A1  A3:G-DP/3  B3:F/9     C3:IW>b1   D3:IW>b1
+             63>1o                            
+                                              
+A.Santan-A1  *2*:K      B4:WP>12   C4:K       D4:Si>2#
+A.Thomas-D8             K                     13
+                                              
+K.Tucker-A1  A5:FO/2    *5*:P/2    *7*:HR>b#  D5:Si>3#
+                                              12
+                                              
+R.Mountc-A1  A6:G/13    B6:G/63    C6:Si      D6:WP>23
+                                              12 IW>b1
+                                              
+A.Verdug-A1  *3*:F/8    B7:G/13    C7:K       D7:G-DP/4
+                                              63>1o
+                                              
+G.Hender-A1  A8:K       *6*:HR>b#  C8:F/9
+                                   
+                                   
+J.Mateo-A1   A9:K       B9:HBP     C9:WP>12
+                                   G/63
+                                   
+
+

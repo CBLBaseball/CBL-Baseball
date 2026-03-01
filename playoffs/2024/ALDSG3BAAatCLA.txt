@@ -1,0 +1,122 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Cleveland Indians          10/9/2024
+
+[1]  Orioles            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  K.Tucker RF         4  0  0  0 .100     S.Kwan LF           3  1  2  2 .200  
+  A.Rutschman C       4  0  1  0 .167     F.Lindor SS         4  0  2  2 .250  
+  Y.Alvarez DH        2  0  0  0 .200     J.Ramirez 3B        4  0  1  0 .417  
+  A.Santander LF      4  0  1  0 .091     J.Naylor 1B         3  0  1  0 .364  
+  G.Henderson SS      4  0  0  0 .000     A.Gimenez 2B        4  1  1  1 .182  
+  J.Caballero 2B      3  0  0  0 .143     J.Heim C            4  0  0  0 .200  
+  R.O'Hearn 1B        3  0  0  0 .250     N.Jones DH          3  0  0  0 .000  
+  J.Triolo 3B         3  0  0  0 .250   A-J.McCann PH,DH      1  0  0  0 .000  
+  A.Thomas CF         3  0  0  0 .000     W.Benson RF         3  1  1  0 .143  
+                                          C.Mullins CF        2  2  1  0 .429  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  2  0                 Totals      31  5  9  5
+
+A-Pinch Hit For Jones In 8th Inning
+
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+Indians......... 0 0 1  0 1 1  2 0    -  5  9  2
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glasnow LOSS(0-1)       6       7   4   4   3   3   1   6.00  A1 C9
+J.Leclerc                 2       2   1   1   0   2   0   4.50  D1
+[1]Totals                    8       9   5   5   3   5   1
+
+[1]Indians (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+A.Civale WIN(1-0)         7       1   0   0   1   7   0   0.00  A1 C6
+J.Karinchak               1       0   0   0   0   1   0   0.00  C7 C9
+Y.Cano                    1       1   0   0   1   1   0   0.00  D1
+[1]Totals                    9       2   0   0   2   9   0
+
+ATTENDANCE- 31,867 DATE- Wednesday, October 9th 2024 TIME- Night 
+UMPIRES- Quinn Wolcott, Jeremie Rehak, Mark Wegner, Alan Porter
+T- 2:41
+LEFT ON BASE- Orioles: 5  Indians: 6
+DOUBLE PLAYS- Orioles: 0  Indians: 1
+ERRORS- J.Ramirez, J.Naylor
+DOUBLES- S.Kwan(1st), F.Lindor(1st), C.Mullins(2nd)
+HOME RUNS- A.Gimenez(1st)
+RBIs- S.Kwan-2(3rd), F.Lindor-2(2nd), A.Gimenez(1st)
+STOLEN BASES- J.Naylor(1st), W.Benson(1st), C.Mullins(1st)
+CAUGHT STEALING- W.Benson
+SACRIFICE FLIES- S.Kwan
+WALKS- Y.Alvarez-2, J.Naylor, W.Benson, C.Mullins
+STRIKE OUTS- K.Tucker, Y.Alvarez, A.Santander, J.Caballero-2, R.O'Hearn-2,
+             J.Triolo, A.Thomas, S.Kwan, J.Naylor, A.Gimenez, W.Benson,
+             C.Mullins
+GIDP- A.Rutschman
+RLISP 2-out- R.O'Hearn, N.Jones, A.Gimenez-3, G.Henderson
+TEAM RISP- Orioles: 0 for 5  Indians: 2 for 11
+WEB GEMS- Bot 6th: Jose Caballero robbed Will Benson of a base hit.
+
+Aaron Civale didn't allow a hit until the 7th inning as the Cleveland Indians
+defeated the Baltimore Orioles by the score of 5 to 0 at Progressive
+Field.
+
+Civale(1-0) was virtually untouchable.  He gave up just 1 hit and 1 walk in 7
+innings.  The right-handed Civale had his no-hit bid broken up by Anthony
+Santander who singled with one out in the 7th inning.  Cleveland had 9 hits
+overall, while Baltimore had 2.  
+
+Tyler Glasnow(0-1) was the loser.  He allowed 7 hits and 3 walks in 6 innings.
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Cleveland Indians
+K.Tucker-A1  A1:G/43    B1:F/9     C1:K       *9*:G/63
+                                              
+                                              
+A.Rutsch-A1  A2:F/7     *4*:G/43   C2:G-DP/5  D2:Si
+                                   43>1o      
+                                              
+Y.Alvare-A1  A3:L/4     B3:W>b1    *7*:K      D3:W>12 b
+                                              1
+                                              
+A.Santan-A1  *2*:E/5>b  B4:FO/2    C4:Si      D4:K
+             2                                
+                                              
+G.Hender-A1  A5:F/9     B5:F/7     C5:F/9     D5:G/31
+                                              
+                                              
+J.Caball-A1  A6:K       *5*:K      C6:F/8
+                                   
+                                   
+R.O'Hear-A1  A7:K       B7:K       *8*:P/2
+                                   
+                                   
+J.Triolo-A1  *3*:G/63   B8:F/7     C8:K
+                                   
+                                   
+A.Thomas-A1  A9:K       *6*:E/3    C9:F/8
+                                   
+                                   
+
+S.Kwan-A1    A1:K       B1:Si>2#   C1:SB>23   D1:Do>13
+                                   SF/9>3#    
+                                              
+F.Lindor-A1  A2:G/3     B2:Si>12   C2:G/63    D2:Do>3#
+                                              2#
+                                              
+J.Ramire-A1  A3:G/63    B3:G/43>2  C3:Si      D3:FO/3
+                        3 12                  
+                                              
+J.Naylor-A1  *2*:Si     B4:IW>b1   C4:F/7     D4:K
+                                              
+                                              
+A.Gimene-A1  A5:SB>12   B5:K       *6*:HR>b#  D5:G/13
+             G/53                             
+                                              
+J.Heim-A1    A6:FO/2    *4*:L/4    C6:P/3     *8*:G/13
+                                              
+                                              
+N.Jones-A1   A7:G/31    B7:L/4     C7:G/63    D7:F/8
+J.McCann-D7                                   
+                                              
+W.Benson-A1  *3*:Si     B8:W>b1 C  C8:G/43    D8:K
+                        S/26>1o               
+                                              
+C.Mullin-A1  A9:SB>12   *5*:Do     *7*:W>b1
+             K                     
+                                   
+
+

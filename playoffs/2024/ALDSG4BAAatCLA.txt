@@ -1,0 +1,153 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Cleveland Indians         10/10/2024
+
+[1]  Orioles            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  K.Tucker CF,RF      5  1  1  0 .133     S.Kwan LF           5  0  1  0 .200  
+  A.Rutschman C       5  2  2  1 .235     F.Lindor SS         3  1  0  0 .200  
+  Y.Alvarez DH        3  0  1  0 .231     J.Ramirez 3B        6  1  3  0 .444  
+E-J.Mateo PR,DH       0  1  0  0 .000     J.Naylor 1B         6  0  0  0 .235  
+H-K.Newman PH,DH      1  0  0  0 .250     A.Gimenez 2B        5  0  1  1 .188  
+  A.Santander LF      5  1  2  2 .188     J.Heim C            5  1  3  1 .333  
+  G.Henderson SS      5  1  1  1 .077     N.Jones DH          4  1  1  2 .067  
+  J.Caballero 2B      2  1  1  1 .222     W.Benson RF         2  0  0  0 .111  
+F-R.Mountcastle PH,1B 3  0  1  1 .400   B-R.Adams PH          1  0  0  0 .000  
+  R.O'Hearn 1B        3  0  1  0 .273   D-D.Blanco RF         2  0  0  0 .000  
+G-J.Westburg 2B       3  0  0  0 .167     C.Mullins CF        2  0  0  0 .333  
+  J.Triolo 3B         4  0  0  0 .125   C-A.Slater PH,CF      2  0  0  0 .000  
+  A.Hays RF           1  0  0  0 .500                                          
+A-A.Thomas PH,CF      2  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      42  7 10  6                 Totals      43  4  9  4
+
+A-Pinch Hit For Hays In 7th Inning
+B-Pinch Hit For Benson In 7th Inning
+C-Pinch Hit For Mullins In 7th Inning
+D-Subbed Defensively (RF) For Adams In 8th Inning
+E-Pinch Ran For Alvarez In 8th Inning
+F-Pinch Hit For Caballero In 8th Inning
+G-Subbed Defensively (2B) For O'Hearn In 8th Inning
+H-Pinch Hit For Mateo In 12th Inning
+
+Orioles......... 0 1 0  0 0 1  0 2 0  0 0 3  -  7 10  0
+Indians......... 0 0 0  0 0 0  0 4 0  0 0 0  -  4  9  0
+
+[1]Orioles (3-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Alcantara               6 1/3   5   0   0   1   4   0   0.00  A1 C7
+R.Borucki HOLD(3rd)       0 2/3   0   0   0   1   1   0   3.86  C8 D1
+D.Williams                0 2/3   2   3   3   1   1   0  40.50  D2 D6
+F.Bautista BS(1st)        1 1/3   2   1   1   1   2   1   3.86  D7 E4
+P.Fairbanks               1       0   0   0   1   3   0   0.00  E5 E8
+J.Kelly WIN(1-0)          1       0   0   0   1   1   0   0.00  E9 F3
+J.Lopez SAVE(1st)         1       0   0   0   0   1   0   3.00  F4
+[1]Totals                   12       9   4   4   6  13   1
+
+[1]Indians (1-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Williams                4       3   1   1   4   1   1   2.25  A1 B9
+K.Graveman                2       1   1   1   1   1   1   2.25  C1 C7
+L.Jackson                 1       0   0   0   0   2   0   0.00  C8 D1
+T.Stephan                 0 2/3   2   2   2   0   0   0   7.71  D2 D5
+N.Sandlin                 0 1/3   0   0   0   0   1   0  36.00  D6 D6
+J.Karinchak               1       0   0   0   1   1   0   0.00  D7 E1
+E.De Los San LOSS(0-1)    2       2   2   2   2   3   0   8.10  E2 F2
+Y.Cano                    1       2   1   1   0   0   0   4.50  F3
+[1]Totals                   12      10   7   7   8   9   2
+
+ATTENDANCE- 33,503 DATE- Thursday, October 10th 2024 TIME- Night 
+UMPIRES- Pat Hoberg, Paul Emmel, James Hoye, Bruce Dreckman
+T- 3:26
+LEFT ON BASE- Orioles: 9  Indians:11
+DOUBLE PLAYS- Orioles: 1  Indians: 2
+DOUBLES- K.Tucker(1st), A.Rutschman-2(2nd), A.Santander-2(2nd), A.Gimenez(1st),
+         J.Heim(1st)
+HOME RUNS- G.Henderson(1st), J.Caballero(1st), N.Jones(1st)
+RBIs- A.Rutschman(3rd), A.Santander-2(2nd), G.Henderson(1st), J.Caballero(1st),
+      R.Mountcastle(2nd), A.Gimenez(2nd), J.Heim(2nd), N.Jones-2(2nd)
+STOLEN BASES- J.Mateo(1st), J.Caballero(2nd), F.Lindor(1st), J.Ramirez(1st)
+SACRIFICE HITS- J.Mateo, N.Jones
+SACRIFICE FLIES- A.Santander
+WALKS- K.Tucker, A.Rutschman, Y.Alvarez, G.Henderson, J.Caballero, J.Triolo,
+       A.Hays, A.Thomas, S.Kwan, F.Lindor-3, J.Heim, A.Slater
+HIT BY PITCH- A.Gimenez
+STRIKE OUTS- A.Rutschman, Y.Alvarez, A.Santander, R.Mountcastle-2, J.Westburg,
+             J.Triolo-2, A.Thomas, F.Lindor-2, J.Naylor-3, A.Gimenez-2,
+             N.Jones-2, R.Adams, D.Blanco-2, A.Slater
+GIDP- K.Tucker, A.Santander, J.Ramirez
+WILD PITCHES- P.Fairbanks, T.Stephan
+2-out RBI- G.Henderson, J.Heim, N.Jones-2, R.Mountcastle
+RLISP 2-out- J.Caballero, J.Heim-2, A.Rutschman-2, R.O'Hearn, J.Naylor-2,
+             S.Kwan-2, R.Mountcastle, D.Blanco
+TEAM RISP- Orioles: 4 for 15  Indians: 3 for 12
+
+Left fielder Anthony Santander hit 2 doubles and had 2 RBI as the Baltimore
+Orioles defeated the Cleveland Indians in 12 innings 7 to 4 at Progressive
+Field.
+
+The game was deadlocked at 4 after nine full innings.  Baltimore won the game
+in the 12th inning.  Kyle Tucker got things going when he doubled.  Adley
+Rutschman followed next and he doubled scoring a run.  After an out was
+recorded, Santander then doubled driving in one more runner.  One out later,
+Ryan Mountcastle stepped in and he lined a single scoring the final run of
+the inning.  The Cleveland bats were silent in the bottom of the 12th.  
+
+The victory went to Joe Kelly(1-0) who went 1 inning, allowing no runs. Kelly
+got help from Jorge Lopez who was credited with his 1st save.  Enyel De Los
+Santos(0-1) suffered the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Cleveland Indians
+K.Tucker-A1  A1:W>b1    B1:G/43    C1:G-DP/6  D1:L/4     E1:P/6     *12*:Do
+                                   23>3o 23                         
+                                   12                               
+A.Rutsch-A1  A2:FO/5    B2:K       C2:G/63    *8*:Do     *10*:W>b1  F2:Do>2#
+                                                                    
+                                                                    
+Y.Alvare-A1  A3:W>12 b  *4*:F/7    *6*:K      D3:Si>23   E3:Sac/14  F3:L/3
+J.Mateo-D4   1                                           >12        
+K.Newman-F3                                                         
+A.Santan-A1  A4:G-DP/6  B4:Do      C4:F/7     D4:SB>12   E4:K       F4:Do>2#
+             43>1o                            SF/9>3# 2             
+                                              3                     
+G.Hender-A1  *2*:F/9    B5:G/63    C5:HR>b#   D5:L/4     E5:IW>b1   F5:G/43>2
+                                                                    3
+                                                                    
+J.Caball-A1  A6:HR>b#   B6:F/8     C6:W>b1    D6:WP>3#   E6:K       F6:Si>3#
+R.Mountc-D6                                   K                     
+                                                                    
+R.O'Hear-A1  A7:G/31    *5*:Si     C7:SB>12   *9*:G/53   *11*:K     F7:F/8
+J.Westbu-D7                        F/9                              
+                                                                    
+J.Triolo-A1  A8:G/43    B8:W>12 b  *7*:K      D8:K       E8:L/6
+                        1                                
+                                                         
+A.Hays-A1    *3*:F/9    B9:W>23 1  C9:K       D9:W>b1    E9:L/4
+A.Thomas-C9             2 b1                             
+                                                         
+
+S.Kwan-A1    A1:G/53    B1:F/7     *6*:Si     D1:G/31    E1:P/6     F1:W>b1
+                                                                    
+                                                                    
+F.Lindor-A1  A2:F/9     *4*:K      C2:W>12 b  *8*:W>b1   E2:W>b1    F2:K
+                                   1                                
+                                                                    
+J.Ramire-A1  A3:G/3     B3:Si      C3:G-DP/4  D3:SB>12   E3:Si>13   F3:G/13
+                                   63>23 1o   Si>23                 
+                                                                    
+J.Naylor-A1  *2*:G/3    B4:K       C4:F/7     D4:SB>12   E4:G/43    *12*:K
+                                              K                     
+                                                                    
+A.Gimene-A1  A5:K       B5:Do>13   *7*:HBP    D5:G/43>3  *10*:K     F5:F/9
+                                              # 23                  
+                                                                    
+J.Heim-A1    A6:Si      B6:G/53    C6:Si>12   D6:Do>3#   E6:W>b1    F6:L/4
+                                                                    
+                                                                    
+N.Jones-A1   A7:K       *5*:L/4    C7:Sac/34  D7:HR>2#   E7:K
+                                   >23 12     b#         
+                                                         
+W.Benson-A1  *3*:L/4    B8:L/4     C8:K       D8:K       E8:WP>12
+R.Adams-C8                                               K
+D.Blanco-D2                                              
+C.Mullin-A1  A9:F/9     B9:P/6     C9:W>b1    *9*:K      *11*:G/53
+A.Slater-C9                                              
+                                                         
+
+

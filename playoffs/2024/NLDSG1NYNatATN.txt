@@ -1,0 +1,131 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Atlanta Braves            10/6/2024
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  E.Rosario LF        4  0  0  0 .125     C.Yelich LF         4  0  0  0 .000  
+  J.McNeil 2B         3  0  2  0 .250     R.Acuna RF          4  1  1  1 .250  
+  P.Alonso 1B         4  0  0  0 .222     A.Riley 3B          4  0  1  0 .250  
+  J.Candelario 3B     4  2  2  1 .222     M.Garver DH         4  1  1  1 .250  
+  M.Canha RF          3  0  0  0 .167     F.Freeman 1B        3  1  2  0 .667  
+A-C.Perez PH          1  0  0  0 .000     D.Swanson SS        2  0  0  0 .000  
+B-B.Perkins RF        0  0  0  0 .000     O.Albies 2B         3  0  0  0 .000  
+  M.Ford DH           3  0  1  0 .556     W.Contreras C       3  0  0  1 .000  
+  F.Alvarez C         3  2  1  2 .182     M.Taylor CF         3  0  1  0 .333  
+  T.Grisham CF        3  0  0  0 .059   C-M.Harris PH         1  0  1  01.000  
+  W.Franco SS         2  0  0  1 .313                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  4  6  4                 Totals      31  3  7  3
+
+A-Pinch Hit For Canha In 9th Inning
+B-Subbed Defensively (RF) For Perez In 9th Inning
+C-Pinch Hit For Taylor In 9th Inning
+
+Mets............ 0 2 0  0 0 1  1 0 0  -  4  6  1
+Braves.......... 1 0 0  0 0 1  0 0 1  -  3  7  0
+
+[1]Mets (4-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Senga WIN(2-0)          7       5   2   2   3   3   2   2.03  A1 D1
+K.Ginkel HOLD(3rd)        1       0   0   0   0   1   0   1.93  D2 D4
+D.Robertson SAVE(2nd)     1       2   1   1   1   0   0   6.00  D5
+[1]Totals                    9       7   3   3   4   4   2
+
+[1]Braves (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Strider LOSS(0-1)       6 1/3   5   4   4   1   5   2   5.68  A1 C8
+A.Faedo                   1 2/3   0   0   0   0   0   0   0.00  C9 D4
+S.Wilson                  1       1   0   0   0   2   0   0.00  D5
+[1]Totals                    9       6   4   4   1   7   2
+
+ATTENDANCE- 38,882 DATE- Sunday, October 6th 2024 TIME- Day 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 2:53
+LEFT ON BASE- Mets: 4  Braves: 7
+DOUBLE PLAYS- Mets: 3  Braves: 2
+ERRORS- E.Rosario
+DOUBLES- J.Candelario(3rd), M.Ford(1st)
+HOME RUNS- J.Candelario(1st), F.Alvarez(2nd), R.Acuna(1st), M.Garver(1st)
+RBIs- J.Candelario(3rd), F.Alvarez-2(6th), W.Franco(2nd), R.Acuna(1st),
+      M.Garver(1st), W.Contreras(1st)
+SACRIFICE FLIES- W.Franco, W.Contreras
+WALKS- T.Grisham, C.Yelich, D.Swanson-2, O.Albies
+HIT BY PITCH- J.McNeil, M.Ford, F.Alvarez, F.Freeman
+STRIKE OUTS- E.Rosario, J.Candelario, M.Ford, F.Alvarez, T.Grisham-2, W.Franco,
+             C.Yelich, R.Acuna, M.Garver-2
+GIDP- P.Alonso, R.Acuna, D.Swanson, W.Contreras
+WILD PITCHES- S.Strider, A.Faedo
+2-out RBI- F.Alvarez-2, J.Candelario
+RLISP 2-out- O.Albies-2, A.Riley, E.Rosario, T.Grisham, C.Yelich
+TEAM RISP- Mets: 1 for 7  Braves: 0 for 6
+WEB GEMS- Top 1st: Christian Yelich robbed Pete Alonso of an extra base hit.
+
+38,882 fans watched an exciting game at Truist Park.  The New York (NL) Mets
+topped the Atlanta Braves by the slimmest of margins, 4 to 3.
+
+New York (NL) brought 2 runs across the plate in the 2nd inning.  The crucial
+at-bat was provided by Francisco Alvarez who disappointed the partisan crowd
+when he popped a two-run clout over the fence.  Atlanta had a chance in the
+9th but they came up short.  
+
+Kodai Senga(2-0) went 7 innings allowing 2 runs for the victory. David
+Robertson got the save, his 2nd.  Spencer Strider(0-1) suffered the loss.
+
+Brian Snitker was subdued after the ballgame, 'That one really hurts.  If our
+guys had simply played more fundamentally sound, we could have won that one.
+That is what really ticks me off!'
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Atlanta Braves
+E.Rosari-A1  A1:G/63    B1:F/8     C1:K       D1:F/7
+                                              
+                                              
+J.McNeil-A1  A2:P/6     B2:Si      *6*:Si     *8*:HBP
+                                              
+                                              
+P.Alonso-A1  A3:F/7     B3:G/13    C3:G-DP/1  D3:WP>12
+                                   63>1o      F-DP/85>2
+                                              o
+J.Candel-A1  *2*:Do     *4*:K      C4:HR>b#   D4:G/63
+                                              
+                                              
+M.Canha-A1   A5:G/53    B5:G/63    C5:L/6     *9*:F/8
+C.Perez-D5                                    
+B.Perkin-D9                                   
+M.Ford-A1    A6:K       B6:HBP     *7*:P/2    D6:Do
+                                              
+                                              
+F.Alvare-A1  A7:HR>2#   B7:G/43    C7:HBP     D7:K
+             b#                               
+                                              
+T.Grisha-A1  A8:K       *5*:L/4    C8:W>12 b  D8:K
+                                   1          
+                                              
+W.Franco-A1  *3*:G/31   B9:K       C9:WP>23
+                                   12 SF/9>3
+                                   #
+
+C.Yelich-A1  A1:K       B1:G/3     C1:W>12 b  D1:G/63    E1:G/53
+                                   1                     
+                                                         
+R.Acuna-A1   A2:HR>b#   *3*:K      C2:G-DP/6  *8*:F/9
+                                   43>23 1o   
+                                              
+A.Riley-A1   A3:Si      B3:G/63    C3:P/6     D3:G/53
+                                              
+                                              
+M.Garver-A1  A4:K       B4:G/63    *6*:HR>b#  D4:K
+                                              
+                                              
+F.Freema-A1  A5:E/7>12  *4*:Si     C5:HBP     *9*:Si
+                                              
+                                              
+D.Swanso-A1  A6:W>23 1  B6:F/7     C6:G-DP/6  D6:W>12 b
+             2 b1                  43>1o      1
+                                              
+O.Albies-A1  A7:G/43    B7:W>12 b  C7:G/31    D7:F/9>23
+                        1                     
+                                              
+W.Contre-A1  *2*:G/13   B8:G-DP/6  *7*:F/9    D8:SF/7>3
+                        43>1o                 #
+                                              
+M.Taylor-A1  A9:G/63    *5*:Si     C9:G/63    D9:Si>12
+M.Harris-D9                                   
+                                              
+
+

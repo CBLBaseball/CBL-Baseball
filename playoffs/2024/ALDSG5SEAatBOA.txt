@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Boston Red Sox             10/11/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  S.Steer 1B          4  1  0  0 .222     M.Betts 2B,CF       3  0  0  0 .282  
+  K.Marte 2B          4  1  2  1 .300     J.Duran CF          3  0  1  0 .208  
+  J.Soler RF,LF       2  0  1  1 .182   B-W.Flores PH         1  0  0  0 .310  
+  L.Castillo P        0  0  0  0 ----   C-N.Lopez 2B          0  0  0  0 .182  
+  B.Bernardino P      0  0  0  0 ----     M.Yoshida DH        3  0  0  0 .182  
+  E.Clase P           0  0  0  0 ----     R.Devers 3B         4  0  1  0 .231  
+  T.Saucedo P         0  0  0  0 ----     T.Turner SS         4  1  2  0 .195  
+  J.Rodriguez CF      4  0  0  0 .118     A.Benintendi LF     4  0  1  0 .250  
+  J.Crawford SS       4  0  1  0 .250     N.Castellanos RF    3  0  1  1 .156  
+  J.Meyers DH&RF      3  0  0  0 .000   D-W.Abreu PH          0  0  0  0 .500  
+  E.Escobar 3B        4  0  0  0 .000   E-R.McKenna PH        1  0  1  0 .333  
+  S.Garrett LF        2  0  0  0 .143     H.Ramirez 1B        3  0  0  0 .407  
+A-M.Kepler PH,RF,LF   2  0  0  0 .077     R.McGuire C         3  0  0  0 .091  
+  Y.Grandal C         2  0  1  0 .182   F-C.Wong PH           1  0  0  0 .190  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  5  2                 Totals      33  1  7  1
+
+A-Pinch Hit For Garrett In 6th Inning
+B-Pinch Hit For Duran In 8th Inning
+C-Subbed Defensively (2B) For Flores In 9th Inning
+D-Pinch Hit For Castellanos In 9th Inning
+E-Pinch Hit For Abreu In 9th Inning
+F-Pinch Hit For McGuire In 9th Inning
+
+Mariners........ 1 0 0  0 1 0  0 0 0  -  2  5  0
+Red Sox......... 0 1 0  0 0 0  0 0 0  -  1  7  1
+
+[1]Mariners (4-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Castillo WIN(2-0)       7 1/3   5   1   1   2   8   0   2.35  A1 C9 D1
+B.Bernardino HOLD(1st)    0 2/3   0   0   0   0   1   0   0.00  D2 D3
+E.Clase HOLD(1st)         0 2/3   1   0   0   0   0   0   0.00  D4 D6
+T.Saucedo SAVE(1st)       0 1/3   1   0   0   1   1   0   9.00  D7
+[1]Totals                    9       7   1   1   3  10   0
+
+[1]Red Sox (4-6)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Sale LOSS(0-1)          4 2/3   5   2   2   4   5   1   3.86  A1 C3
+N.Pivetta                 4 1/3   0   0   0   0   3   0   5.40  C4
+[1]Totals                    9       5   2   2   4   8   1
+
+ATTENDANCE- 36,270 DATE- Friday, October 11th 2024 TIME- Day 
+UMPIRES- Angel Hernandez, Jim Wolf, Dj Reyburn, Sam Holbrook
+T- 3:05
+LEFT ON BASE- Mariners: 6  Red Sox: 8
+DOUBLE PLAYS- Mariners: 1  Red Sox: 1
+ERRORS- H.Ramirez
+DOUBLES- J.Duran(2nd), N.Castellanos(1st)
+HOME RUNS- K.Marte(2nd)
+RBIs- K.Marte(7th), J.Soler(1st), N.Castellanos(2nd)
+STOLEN BASES- T.Turner-2(5th)
+WALKS- J.Soler-2, J.Meyers, Y.Grandal, M.Betts, M.Yoshida, H.Ramirez
+STRIKE OUTS- K.Marte-2, J.Rodriguez, J.Meyers, E.Escobar, S.Garrett-2, M.Kepler,
+             M.Betts, J.Duran, W.Flores, R.Devers, T.Turner, H.Ramirez-2,
+             R.McGuire-2, C.Wong
+GIDP- J.Rodriguez
+2-out RBI- N.Castellanos, J.Soler
+RLISP 2-out- S.Steer, H.Ramirez, T.Turner-2, C.Wong-2
+TEAM RISP- Mariners: 1 for 2  Red Sox: 3 for 8
+
+At Fenway Park, the Boston fans witnessed a great pitcher's duel.  Luis
+Castillo(2-0) finally bested his Boston opposite, Chris Sale(0-1), by the
+score of 2 to 1.
+
+Seattle had 1 run cross the plate in the top of the 5th inning.  Yasmani
+Grandal drew a walk.  After an out was recorded, Ketel Marte came up and he
+smacked a single.  Jorge Soler then lined a single scoring the run.  Boston
+tried unsuccessfully to come back in the 9th.  
+
+Tayler Saucedo recorded the save, his 1st.  Sale was given the loss.  Alex
+Cora was subdued after the ballgame, 'That one really hurts.  If our guys had
+simply played more fundamentally sound, we could have won that one.  That is
+what really ticks me off!'
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Boston Red Sox
+S.Steer-A1   A1:G/63    B1:G/43    C1:Force/  D1:F/7
+                                   16>1o b1   
+                                              
+K.Marte-A1   A2:HR>b#   *3*:K      C2:Si>13   D2:K
+                                              
+                                              
+J.Soler-A1   A3:W>b1    B3:W>b1    C3:Si>3#   *8*:F/7
+L.Castil-D6                                   
+B.Bernar-D6+                                  
+J.Rodrig-A1  A4:F/8     B4:G-DP/6  C4:G/13    D4:K
+                        43>1o                 
+                                              
+J.Crawfo-A1  A5:F/8     *4*:Si     *6*:G/53   D5:G/63
+                                              
+                                              
+J.Meyers-A1  *2*:W>b1   B6:K       C6:E/3     *9*:G/53
+                                              
+                                              
+E.Escoba-A1  A7:F/7     B7:K       C7:F/9     D7:L/4
+                                              
+                                              
+S.Garret-A1  A8:K       B8:K       C8:G/43    D8:K
+M.Kepler-C8                                   
+                                              
+Y.Granda-A1  A9:Si>13   *5*:W>b1   *7*:L/4
+                                   
+                                   
+
+M.Betts-A1   A1:F/7     B1:K       C1:F/7     D1:W>b1
+                                              
+                                              
+J.Duran-A1   A2:K       B2:Do      C2:G/3     D2:K
+W.Flores-D2                                   
+N.Lopez-D4                                    
+M.Yoshid-A1  A3:F/9     B3:W>b1    *6*:G/53   D3:G/43
+                                              
+                                              
+R.Devers-A1  *2*:K      B4:Si>23   C4:P/4     *9*:G/63
+                        12                    
+                                              
+T.Turner-A1  A5:Si      B5:G/31    C5:K       D5:Si
+                                              
+                                              
+A.Benint-A1  A6:SB>12   *4*:Si     *7*:F/8    D6:SB>12
+             G/3>23                           L/3
+                                              
+N.Castel-A1  A7:Do>3#   B7:L-DP/6  C7:F/9     D7:Si>23
+W.Abreu-D7              3>1o                  
+R.McKenn-D7                                   
+H.Ramire-A1  A8:K       B8:K       C8:F/8     D8:IW>12
+                                              b1
+                                              
+R.McGuir-A1  *3*:K      *5*:K      *8*:G/53   D9:K
+C.Wong-D9                                     
+                                              
+
+

@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Atlanta Braves           10/12/2023
+
+[1]  Mets               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  J.Bell DH           4  0  1  0 .200     O.Albies 2B         4  0  0  0 .273  
+  M.Canha LF          4  1  1  0 .179   C-N.Gordon PH,2B      1  0  0  0 .308  
+  J.McNeil 2B         4  0  0  0 .303     A.Riley 3B          5  1  1  0 .148  
+  P.Alonso 1B         4  1  1  0 .241     F.Freeman 1B        5  1  1  0 .154  
+  B.Gamel RF          4  1  2  3 .200     M.Garver DH         2  2  1  1 .400  
+  E.Escobar 3B        4  0  1  0 .406   A-W.Contreras PH,DH   1  0  1  1 .429  
+  T.D'Arnaud C        4  0  0  0 .286     C.Yelich LF         3  1  1  0 .227  
+  T.Grisham CF        3  0  0  0 .087     J.Realmuto C        4  0  2  1 .391  
+  J.Iglesias SS       1  0  0  0 .143     D.Swanson SS        3  1  1  0 .348  
+                                          R.Acuna RF          4  1  1  1 .333  
+                                          M.Taylor CF         2  0  1  2 .300  
+                                        B-M.Harris PH,CF      1  1  1  1 .308  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  6  3                 Totals      35  8 11  7
+
+A-Pinch Hit For Garver In 7th Inning
+B-Pinch Hit For Taylor In 8th Inning
+C-Pinch Hit For Albies In 8th Inning
+
+Mets............ 0 0 0  3 0 0  0 0 0  -  3  6  0
+Braves.......... 0 1 2  0 0 2  2 1    -  8 11  0
+
+[1]Mets (6-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Rodon LOSS(1-1)         6       7   5   5   2  10   1   3.20  A1 D1
+A.Cimber                  0       3   2   2   0   0   0   3.60  D2 D4
+H.Neris                   2       1   1   1   1   2   1   6.35  D5
+[1]Totals                    8      11   8   8   3  12   2
+
+[1]Braves (5-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mikolas WIN(3-0)        7 1/3   4   3   3   2   3   1   3.10  A1 D1
+M.Moore HOLD(3rd)         0 2/3   0   0   0   0   0   0   0.00  D2 D3
+C.McHugh                  1       2   0   0   0   0   0   0.00  D4
+[1]Totals                    9       6   3   3   2   3   1
+
+ATTENDANCE- 38,090 DATE- Thursday, October 12th 2023 TIME- Night 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:26
+LEFT ON BASE- Mets: 4  Braves: 7
+DOUBLE PLAYS- Mets: 0  Braves: 1
+DOUBLES- A.Riley(2nd), J.Realmuto(2nd), R.Acuna(2nd)
+HOME RUNS- B.Gamel(1st), M.Garver(1st), M.Harris(2nd)
+RBIs- B.Gamel-3(3rd), M.Garver(2nd), W.Contreras(6th), J.Realmuto(4th),
+      R.Acuna(4th), M.Taylor-2(2nd), M.Harris(4th)
+WALKS- J.Iglesias-2, C.Yelich, D.Swanson, M.Taylor
+HIT BY PITCH- M.Garver
+STRIKE OUTS- J.Bell, J.McNeil, T.Grisham, O.Albies-2, N.Gordon, A.Riley,
+             F.Freeman, M.Garver, C.Yelich, J.Realmuto, D.Swanson, R.Acuna-2,
+             M.Taylor
+GIDP- T.D'Arnaud
+WILD PITCHES- C.Rodon, H.Neris
+2-out RBI- M.Taylor-2, M.Garver, J.Realmuto, R.Acuna
+RLISP 2-out- O.Albies-2, D.Swanson, R.Acuna, J.McNeil
+TEAM RISP- Mets: 1 for 4  Braves: 4 for 10
+WEB GEMS- Bot 8th: Jose Iglesias robbed Austin Riley of a base hit.
+
+The Atlanta Braves had very little trouble at Truist Park downing the New York
+(NL) Mets.  The score was 8 to 3.
+
+Miles Mikolas(3-0) pitched a solid game. He allowed 4 hits and 2 walks in 7
+and 1/3 innings.  Atlanta had 11 hits overall, while New York (NL) had 6.
+
+Carlos Rodon(1-1) suffered the loss.  Despite the loss, he struckout 10
+Atlanta batters in 6 innings.
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Atlanta Braves
+J.Bell-A1    A1:L/4     B1:K       C1:G/43    D1:Si>13
+                                              
+                                              
+M.Canha-A1   A2:F/8     *4*:Si     *6*:G/53   D2:F/9
+                                              
+                                              
+J.McNeil-A1  A3:K       B3:F/8     C3:G/43    D3:L/4
+                                              
+                                              
+P.Alonso-A1  *2*:L/5    B4:Si>12   C4:F/7     *9*:F/9
+                                              
+                                              
+B.Gamel-A1   A5:F/7     B5:HR>2#   *7*:G/43   D5:Si
+                        1# b#                 
+                                              
+E.Escoba-A1  A6:G/3     B6:G/31    C6:G/43    D6:Si>12
+                                              
+                                              
+T.D'Arna-A1  *3*:G/63   B7:G/13    C7:G/13    D7:G-DP/6
+                                              43>1o
+                                              
+T.Grisha-A1  A8:K       *5*:G/63   *8*:G/43
+                                   
+                                   
+J.Iglesi-A1  A9:W>b1    B9:G/43    C9:W>b1
+                                   
+                                   
+
+O.Albies-A1  A1:FO/2    B1:K       C1:G/13    D1:K       E1:K
+N.Gordon-E1                                              
+                                                         
+A.Riley-A1   A2:F/7     *3*:K      *5*:L/6    *7*:Do     E2:G/63
+                                                         
+                                                         
+F.Freema-A1  A3:K       B3:L/4     C3:L/4     D3:Si>23   E3:G/53
+                                                         
+                                                         
+M.Garver-A1  *2*:HBP    B4:HR>b#   C4:K       D4:Si>3#
+W.Contre-D4                                   13
+                                              
+C.Yelich-A1  A5:K       B5:Si      *6*:G/63   D5:WP>3#
+                                              12 W>b1
+                                              
+J.Realmu-A1  A6:Si>12   B6:WP>12   C6:K       D6:Force/
+                        Do>2#                 54>23 1o
+                                              b1
+D.Swanso-A1  A7:W>23 1  B7:G/63    C7:Si      D7:K
+             2 b1                             
+                                              
+R.Acuna-A1   A8:K       *4*:K      C8:Do>1#   D8:L/5
+                                              
+                                              
+M.Taylor-A1  A9:W>3# 2  B9:K       C9:Si>3#   *8*:HR>b#
+M.Harris-D9  3 12 b1                          
+                                              
+
+

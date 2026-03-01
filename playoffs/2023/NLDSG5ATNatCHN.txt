@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 Chicago (NL) Cubs             10/7/2023
+
+[1]  Braves             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Yelich LF         3  0  1  0 .211     N.Hoerner SS        3  0  0  0 .056  
+  J.Realmuto C        4  0  0  0 .368     R.Ortega CF         1  0  0  0 .077  
+  M.Harris CF         4  0  0  0 .250   B-P.Wisdom PH,LF      1  0  0  0 .231  
+  A.Riley 3B          4  0  0  0 .136     I.Happ LF,CF        4  0  0  0 .150  
+  F.Freeman 1B        4  0  0  0 .143     K.Schwarber DH      3  0  0  0 .214  
+  R.Acuna RF          4  1  1  1 .353     L.Rengifo 3B        4  1  1  1 .167  
+  W.Contreras DH      3  1  2  1 .385     T.Mancini 1B        4  0  0  0 .316  
+  N.Gordon 2B         3  0  1  0 .333     L.Gonzalez RF       2  0  1  0 .333  
+  D.Swanson SS        3  0  0  0 .350   A-K.Bryant PH         0  0  0  0 .200  
+                                        C-S.Suzuki RF         0  0  0  0 .250  
+                                          C.Morel 2B          2  0  0  0 .000  
+                                          W.Contreras C       3  0  0  0 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  2  5  2                 Totals      27  1  2  1
+
+A-Pinch Hit For Gonzalez In 8th Inning
+B-Pinch Hit For Ortega In 8th Inning
+C-Subbed Defensively (RF) For Bryant In 9th Inning
+
+Braves.......... 0 0 1  0 0 0  1 0 0  -  2  5  1
+Cubs............ 0 0 0  0 1 0  0 0 0  -  1  2  0
+
+[1]Braves (4-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mikolas WIN(2-0)        7       2   1   1   2   4   1   2.77  A1 C6
+M.Moore HOLD(2nd)         0 2/3   0   0   0   2   0   0   0.00  C7 D1
+D.Castillo HOLD(2nd)      0 1/3   0   0   0   0   1   0   0.00  D2 D2
+D.Robertson HOLD(1st)     0 2/3   0   0   0   1   2   0  20.25  D3 D5
+C.Kimbrel SAVE(1st)       0 1/3   0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       2   1   1   5   8   1
+
+[1]Cubs (1-4)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Stroman LOSS(0-2)       7 1/3   4   2   2   1   9   2   4.63  A1 C9
+J.Beeks                   1 2/3   1   0   0   0   2   0   1.13  D1
+[1]Totals                    9       5   2   2   1  11   2
+
+ATTENDANCE- 39,285 DATE- Saturday, October 7th 2023 TIME- Night 
+UMPIRES- Mark Carlson, Chris Guccione, Jordan Baker, Ryan Additon
+T- 2:58
+LEFT ON BASE- Braves: 4  Cubs: 5
+DOUBLE PLAYS- Braves: 1  Cubs: 0
+ERRORS- J.Realmuto
+DOUBLES- W.Contreras(1st)
+HOME RUNS- R.Acuna(1st), W.Contreras(2nd), L.Rengifo(2nd)
+RBIs- R.Acuna(3rd), W.Contreras(5th), L.Rengifo(3rd)
+STOLEN BASES- L.Gonzalez(1st)
+SACRIFICE HITS- C.Morel
+WALKS- C.Yelich, N.Hoerner, R.Ortega-2, K.Schwarber, K.Bryant
+STRIKE OUTS- C.Yelich-2, J.Realmuto-2, F.Freeman-3, R.Acuna, W.Contreras,
+             N.Gordon, D.Swanson, R.Ortega, P.Wisdom, I.Happ, L.Rengifo,
+             T.Mancini, L.Gonzalez, C.Morel, W.Contreras
+GIDP- K.Schwarber
+2-out RBI- R.Acuna
+RLISP 2-out- M.Harris, N.Hoerner, N.Gordon, P.Wisdom
+TEAM RISP- Braves: 0 for 3  Cubs: 0 for 4
+
+Miles Mikolas went 7 strong innings at Wrigley Field as the Atlanta Braves
+beat the Chicago (NL) Cubs by the count of 2 to 1.
+
+Atlanta scored 1 run in the decisive 7th inning.  For the game Atlanta out-hit
+Chicago (NL) 5 to 2.  Mikolas(2-0) went 7 innings allowing 1 run for the win.
+Craig Kimbrel recorded his 1st save.  Marcus Stroman(0-2) took the loss.  He
+gave up just 2 runs and 4 hits in 7 and 1/3 innings.  
+
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 Chicago (NL) Cubs
+C.Yelich-A1  A1:K       B1:W>12 b  *6*:K      D1:Si
+                        1                     
+                                              
+J.Realmu-A1  A2:F/7     B2:L/6     C2:K       D2:K
+                                              
+                                              
+M.Harris-A1  A3:F/7     B3:F/8     C3:G/63    D3:G/43
+                                              
+                                              
+A.Riley-A1   *2*:G/53   *4*:G/53   *7*:G/63   *9*:G/13
+                                              
+                                              
+F.Freema-A1  A5:K       B5:K       C5:K       D5:F/9
+                                              
+                                              
+R.Acuna-A1   A6:G/13    B6:P/2     C6:HR>b#   D6:K
+                                              
+                                              
+W.Contre-A1  *3*:HR>b#  *5*:K      C7:Do
+                                   
+                                   
+N.Gordon-A1  A8:Si      B8:K       C8:G/53
+                                   
+                                   
+D.Swanso-A1  A9:K       B9:F/9     *8*:G/53
+                                   
+                                   
+
+N.Hoerne-A1  A1:F/8     B1:G/53    C1:G/23    D1:IW>b1
+                                              
+                                              
+R.Ortega-A1  A2:K       *4*:W>b1   C2:W>b1    D2:K
+P.Wisdom-D2                                   
+                                              
+I.Happ-A1    A3:G/63    B3:L/4     C3:G/43    *9*:K
+                                              
+                                              
+K.Schwar-A1  *2*:G/43   B4:G-DP/4  *7*:G/3    D4:W>b1
+                        63>1o                 
+                                              
+L.Rengif-A1  A5:L/4     *5*:HR>b#  C5:G/63    D5:K
+                                              
+                                              
+T.Mancin-A1  A6:F/8     B6:G/53    C6:F/8     D6:K
+                                              
+                                              
+L.Gonzal-A1  *3*:Si     B7:K       *8*:W>b1
+K.Bryant-C7                        
+S.Suzuki-D3                        
+C.Morel-A1   A8:K       B8:G/63    C8:Sac/14
+                                   >12
+                                   
+W.Contre-A1  A9:SB+E/2  *6*:F/8    C9:F/9
+             >13 K                 
+                                   
+
+

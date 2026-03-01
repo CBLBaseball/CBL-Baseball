@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Los Angeles(AL) Angels At 2023 Boston Red Sox        10/1/2024
+
+[1]  Angels             AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  T.Friedl CF         4  1  3  2 .214     M.Betts 2B          4  2  2  0 .429  
+  Y.Diaz 1B           4  0  1  0 .364     T.Turner SS         5  0  0  0 .167  
+  S.Ohtani DH         5  0  1  1 .400     W.Flores 1B         5  2  3  3 .385  
+  A.Garcia RF         4  0  1  0 .300     R.Devers 3B         4  1  2  1 .308  
+  T.Larnach LF        1  0  1  0 .400     H.Ramirez DH        3  1  1  1 .400  
+A-D.Peralta PH,LF     3  1  1  0 .286     N.Castellanos RF    4  0  2  0 .300  
+  B.Drury 2B          4  0  1  1 .385     A.Benintendi LF     4  0  0  1 .083  
+  K.Farmer 3B         5  0  0  0 .000     C.Wong C            2  0  0  0 .222  
+  Y.Gomes C           4  1  2  0 .500   B-R.McGuire PH,C      1  0  0  0 .000  
+  Z.Neto SS           4  1  1  0 .364     J.Duran CF          2  0  0  0 .167  
+                                        C-R.McKenna PH        1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38  4 12  4                 Totals      35  6 10  6
+
+A-Pinch Hit For Larnach In 3rd Inning
+B-Pinch Hit For Wong In 8th Inning
+C-Pinch Hit For Duran In 9th Inning
+
+Angels.......... 1 2 0  0 0 0  1 0 0  -  4 12  0
+Red Sox......... 1 0 0  2 1 0  0 0 2  -  6 10  0
+
+[1]Angels (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Canning                 4 2/3   9   4   4   0   5   1   7.71  A1 C4
+J.Payamps                 1 2/3   0   0   0   3   1   0   0.00  C5 D3
+S.Armstrong               1 1/3   0   0   0   0   1   0   7.71  D4 D7
+G.Speier LOSS(0-1)        1       0   1   1   1   2   0   9.00  D8 E2
+C.Devenski                0       1   1   1   0   0   1   9.00  E3
+[1]Totals                    8 2/3  10   6   6   4   9   2
+
+[1]Red Sox (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Crawford                7      10   4   4   2   9   0   5.14  A1 D7
+C.Martin                  0 2/3   1   0   0   1   0   0   0.00  D8 E2
+D.Coulombe                0 1/3   0   0   0   0   1   0   6.75  E3 E3
+R.Brasier WIN(2-0)        1       1   0   0   0   1   0   0.00  E4
+[1]Totals                    9      12   4   4   3  11   0
+
+ATTENDANCE- 35,113 DATE- Tuesday, October 1st 2024 TIME- Day 
+UMPIRES- John Tumpane, Ryan Blakney, Marvin Hudson, Adrian Johnson
+T- 3:09
+LEFT ON BASE- Angels:12  Red Sox: 7
+DOUBLE PLAYS- Angels: 1  Red Sox: 0
+DOUBLES- T.Friedl-2(2nd), S.Ohtani(2nd), D.Peralta(2nd), R.Devers(2nd)
+TRIPLES- B.Drury(1st)
+HOME RUNS- W.Flores-2(3rd)
+RBIs- T.Friedl-2(2nd), S.Ohtani(5th), B.Drury(1st), W.Flores-3(5th),
+      R.Devers(3rd), H.Ramirez(3rd), A.Benintendi(1st)
+STOLEN BASES- T.Friedl(1st), C.Wong(1st)
+SACRIFICE HITS- D.Peralta
+WALKS- Y.Diaz, A.Garcia, B.Drury, M.Betts, H.Ramirez, C.Wong, J.Duran
+HIT BY PITCH- T.Friedl
+STRIKE OUTS- Y.Diaz, S.Ohtani-2, A.Garcia-2, B.Drury-2, K.Farmer-2, Y.Gomes,
+             Z.Neto, W.Flores, R.Devers-2, H.Ramirez, N.Castellanos, C.Wong-2,
+             R.McGuire, R.McKenna
+GIDP- A.Benintendi
+2-out RBI- W.Flores-3, R.Devers, B.Drury
+RLISP 2-out- B.Drury, S.Ohtani-3, C.Wong, K.Farmer-2, N.Castellanos-2, T.Turner
+TEAM RISP- Angels: 5 for 15  Red Sox: 2 for 7
+
+First baseman Wilmer Flores ripped 2 homeruns and had 3 RBI as the Boston Red
+Sox won a dandy at Fenway Park over the Los Angeles(AL) Angels, 6 to
+4.
+
+Boston erupted with the game winning runs in the 9th inning with 2 runs. After
+an out was recorded, Mookie Betts began the rally when he was walked
+intentionally.  One out later, Flores came up and he cleared the fences for a
+two-run home run giving Boston the win as 35,113 happy fans joyfully
+celebrated.  Boston managed 10 hits in their victory.  
+
+Ryan Brasier(2-0) allowed no runs in 1 inning, and picked up the victory. The
+loss was charged to Gabe Speier(0-1) in relief.  He pitched 1 inning allowing
+no hits and 1 walk.
+[2]
+[1]SCORESHEET: 2023 Los Angeles(AL) Angels at 2023 Boston Red Sox
+T.Friedl-A1  A1:HBP     B1:Do>3#   C1:Do      D1:Si      E1:Force/
+                        2#                               46>1o b1
+                                                         
+Y.Diaz-A1    A2:SB>12   B2:G/63    C2:Si>23   D2:K       E2:W>12 b
+             G/13                                        1
+                                                         
+S.Ohtani-A1  A3:Do>2#   B3:G/43    C3:F/8     *7*:K      E3:K
+                                                         
+                                                         
+A.Garcia-A1  A4:K       *3*:L/6    *5*:W>b1   D4:K       *9*:Si
+                                                         
+                                                         
+T.Larnac-A1  A5:Si>23   B5:L/3     C5:Sac/14  D5:Do      E5:FO/5
+D.Peralt-B5                        >12                   
+                                                         
+B.Drury-A1   A6:K       B6:W>b1    C6:F/7     D6:Tr>2#   E6:K
+                                                         
+                                                         
+K.Farmer-A1  *2*:K      B7:G/63    C7:K       D7:G/63    E7:G/3
+                                                         
+                                                         
+Y.Gomes-A1   A8:Si      *4*:K      *6*:G/43   *8*:Si
+                                              
+                                              
+Z.Neto-A1    A9:Si>13   B9:K       C9:G/63    D9:Force/
+                                              64>1o b1
+                                              
+
+M.Betts-A1   A1:F/8     B1:Si      C1:Si      D1:FO/2    E1:IW>b1
+                                                         
+                                                         
+T.Turner-A1  A2:F/8     B2:L/6     C2:F/8     D2:F/9     E2:P/6
+                                                         
+                                                         
+W.Flores-A1  A3:HR>b#   *4*:K      C3:Si>13   *7*:FO/2   E3:HR>1#
+                                                         b#
+                                                         
+R.Devers-A1  A4:K       B4:Do      C4:Si>3#   D4:K
+                                   13         
+                                              
+H.Ramire-A1  *2*:K      B5:Si>2#   C5:W>12 b  D5:G/53
+                                   1          
+                                              
+N.Castel-A1  A6:Si      B6:Si>13   C6:K       *8*:F/8
+                                              
+                                              
+A.Benint-A1  A7:G-DP/6  B7:G/43>3  *6*:G/53   D7:F/8
+             43>1o      # 12                  
+                                              
+C.Wong-A1    *3*:K      B8:K       C8:W>b1    D8:K
+R.McGuir-D8                                   
+                                              
+J.Duran-A1   A9:F/8     *5*:G/63   C9:SB>12   *9*:K
+R.McKenn-D9                        IW>b1      
+                                              
+
+

@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Seattle Mariners At 2023 Boston Red Sox              10/9/2024
+
+[1]  Mariners           AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  S.Steer 3B,1B       4  0  0  0 .200     M.Betts 2B          3  0  1  0 .313  
+  J.Crawford SS       3  0  1  1 .222     T.Turner SS         4  0  0  0 .182  
+  J.Rodriguez CF      4  1  0  0 .000     R.Devers 3B         3  0  0  0 .226  
+  J.Soler DH          4  0  1  0 .200     W.Flores 1B         3  0  1  0 .360  
+  K.Marte 2B          3  0  0  1 .250   F-J.Duran PR          0  0  0  0 .222  
+  M.Kepler RF,LF      4  0  0  0 .091     N.Castellanos RF    4  0  0  0 .120  
+  J.Kelenic LF        3  0  0  0 .143     A.Benintendi LF     4  1  2  0 .241  
+C-Y.Grandal C         0  0  0  0 .200     H.Ramirez DH        3  0  0  0 .478  
+  T.Murphy C          2  0  0  0 .000     C.Wong C            3  0  1  0 .222  
+A-S.Garrett PH,1B     1  0  0  0 .200     R.McKenna CF        1  0  0  1 .000  
+E-J.Polanco 3B        0  0  0  0 .250   D-W.Abreu PH,CF       1  0  0  0 .000  
+  B.Belt 1B           3  0  2  0 .375                                          
+B-J.Meyers PR,RF      0  1  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  4  2                 Totals      29  1  5  1
+
+A-Pinch Hit For Murphy In 8th Inning
+B-Pinch Ran For Belt In 8th Inning
+C-Subbed Defensively (C ) For Kelenic In 8th Inning
+D-Pinch Hit For McKenna In 8th Inning
+E-Subbed Defensively (3B) For Garrett In 9th Inning
+F-Pinch Ran For Flores In 9th Inning
+
+Mariners........ 0 0 0  1 0 0  0 1 0  -  2  4  0
+Red Sox......... 0 0 0  0 1 0  0 0 0  -  1  5  1
+
+[1]Mariners (2-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Webb WIN(1-0)           7       5   1   1   1   2   0   1.29  A1 C8
+A.Munoz HOLD(1st)         1 1/3   0   0   0   1   2   0   0.00  C9 D4
+J.Topa SAVE(1st)          0 2/3   0   0   0   0   0   0  18.00  D5
+[1]Totals                    9       5   1   1   2   4   0
+
+[1]Red Sox (4-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+N.Eovaldi                 7       2   1   0   1  10   0   2.63  A1 C7
+R.Brasier LOSS(3-2)       1       2   1   1   0   1   0   4.50  C8 D3
+C.Martin                  1       0   0   0   0   2   0   1.69  D4
+[1]Totals                    9       4   2   1   1  13   0
+
+ATTENDANCE- 35,428 DATE- Wednesday, October 9th 2024 TIME- Day 
+UMPIRES- Jeremie Rehak, Mark Wegner, Alan Porter, Quinn Wolcott
+T- 2:38
+LEFT ON BASE- Mariners: 4  Red Sox: 5
+DOUBLE PLAYS- Mariners: 2  Red Sox: 0
+ERRORS- A.Benintendi
+DOUBLES- J.Crawford(1st), J.Soler(1st), B.Belt-2(2nd), A.Benintendi(2nd)
+RBIs- J.Crawford(1st), K.Marte(6th), R.McKenna(1st)
+STOLEN BASES- J.Duran(3rd), C.Wong(3rd)
+SACRIFICE HITS- R.McKenna
+SACRIFICE FLIES- K.Marte
+WALKS- J.Crawford, M.Betts, W.Flores
+HIT BY PITCH- R.Devers
+STRIKE OUTS- S.Steer-3, J.Rodriguez, J.Soler, K.Marte, M.Kepler, J.Kelenic-3,
+             T.Murphy, S.Garrett, B.Belt, M.Betts, T.Turner-2, R.Devers
+GIDP- W.Flores, N.Castellanos
+2-out RBI- J.Crawford
+RLISP 2-out- W.Flores, C.Wong, S.Steer, M.Kepler, T.Turner, J.Rodriguez,
+             A.Benintendi
+TEAM RISP- Mariners: 1 for 5  Red Sox: 1 for 8
+
+35,428 fans were treated to a fine game at Fenway Park as only one run
+separated the combatants at game's end.  The Seattle Mariners won by the
+slimmest of margins, 2 to 1.
+
+The deciding run was scored by Seattle in the top of the 8th.  After an out
+was recorded, Brandon Belt doubled.  One out later, J.P. Crawford stepped in
+and he doubled scoring the run.  Seattle had just 4 hits for the afternoon.
+
+The win was credited to Logan Webb(1-0) who went 7 innings allowing 1 run.
+Justin Topa gained credit for his 1st save.  Ryan Brasier(3-2) took the loss
+in relief.  
+
+[2]
+[1]SCORESHEET: 2023 Seattle Mariners at 2023 Boston Red Sox
+S.Steer-A1   A1:K       B1:K       *6*:K      D1:G/63
+                                              
+                                              
+J.Crawfo-A1  A2:G/63    *4*:F/8    C2:W>b1    D2:Do>2#
+                                              
+                                              
+J.Rodrig-A1  A3:G/43    B3:E/7     C3:K       D3:P/6
+                                              
+                                              
+J.Soler-A1   *2*:G/63   B4:Do>13   C4:G/63    *9*:K
+                                              
+                                              
+K.Marte-A1   A5:F/8     B5:SF/7>3  *7*:G/43   D5:K
+                        #                     
+                                              
+M.Kepler-A1  A6:P/2     B6:G/43    C6:K       D6:G/43
+                                              
+                                              
+J.Keleni-A1  *3*:K      *5*:K      C7:K
+Y.Granda-D4                        
+                                   
+T.Murphy-A1  A8:F/8     B8:K       *8*:K
+S.Garret-C8                        
+J.Polanc-D7                        
+B.Belt-A1    A9:Do      B9:K       C9:Do
+J.Meyers-D1                        
+                                   
+
+M.Betts-A1   A1:Si      B1:G/63    C1:W>b1    D1:K
+                                              
+                                              
+T.Turner-A1  A2:G/63>1  B2:K       C2:P/6     D2:K
+             2                                
+                                              
+R.Devers-A1  A3:F/9     *4*:K      *6*:HBP    *9*:G/43
+                                              
+                                              
+W.Flores-A1  A4:G/43    B4:Si      C4:G-DP/6  D4:W>b1
+J.Duran-D5                         43>1o      
+                                              
+N.Castel-A1  *2*:G/13   B5:G-DP/5  C5:F/7     D5:SB>12
+                        43>1o                 F/9>23
+                                              
+A.Benint-A1  A6:Do      *5*:Si     *7*:G/31   D6:G/43
+                                              
+                                              
+H.Ramire-A1  A7:F/8     B7:G/63>1  C7:G/3
+                        2          
+                                   
+C.Wong-A1    A8:G/63    B8:Si>23   C8:G/43
+                                   
+                                   
+R.McKenn-A1  *3*:G/63   B9:SB>12   *8*:F/8
+W.Abreu-C9              Sac/14>3#  
+                        23         
+
+

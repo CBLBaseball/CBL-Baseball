@@ -1,0 +1,126 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Los Angeles(AL) Angels     10/2/2023
+
+[1]  Orioles            AB  R  H RBI AVG     Angels             AB  R  H RBI AVG
+  Y.Grandal C         3  0  0  0 .000     Y.Diaz 3B,1B        2  2  1  0 .500  
+C-A.Verdugo PH        1  0  0  0 .333     O.Arcia SS,2B       3  0  1  0 .333  
+D-A.Rutschman C       0  0  0  0 .333     T.Ward RF           4  0  1  1 .250  
+  C.Hernandez 2B      4  0  1  0 .250     S.Ohtani DH         4  1  1  0 .250  
+  Y.Alvarez DH        4  0  0  0 .364     A.Garcia CF         3  1  1  0 .333  
+  A.Santander LF      4  0  1  0 .538     B.Drury 2B,3B       4  1  1  4 .250  
+  K.Tucker RF,CF      3  0  0  0 .333     W.Myers LF          3  0  1  0 .333  
+  R.Mountcastle 1B    2  0  0  0 .273   E-D.Peralta PH,LF     1  1  1  11.000  
+  R.Urias 3B          3  0  0  0 .200     J.Aguilar 1B        2  0  0  0 .000  
+  A.Thomas CF         2  0  1  0 .500   A-D.Fletcher SS       2  0  0  0 .000  
+B-A.Hays PH,RF        1  0  0  0 .000     M.Stassi C          3  0  1  0 .333  
+  J.Mateo SS          3  0  1  0 .273                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  4  0                 Totals      31  6  9  6
+
+A-Subbed Defensively (SS) For Aguilar In 5th Inning
+B-Pinch Hit For Thomas In 8th Inning
+C-Pinch Hit For Grandal In 8th Inning
+D-Subbed Defensively (C ) For Verdugo In 8th Inning
+E-Pinch Hit For Myers In 8th Inning
+
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  4  0
+Angels.......... 4 1 0  0 0 0  0 1    -  6  9  0
+
+[1]Orioles (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Alcantara LOSS(0-1)     6 2/3   7   5   5   4   5   1   8.18  A1 D3
+A.Vesia                   0 1/3   0   0   0   0   1   0   0.00  D4 D4
+D.Tate                    1       2   1   1   0   0   1   6.00  D5
+[1]Totals                    8       9   6   6   4   6   2
+
+[1]Angels (1-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+R.Detmers WIN(1-0)        6 1/3   4   0   0   1   8   0   0.00  A1 C5
+S.Okert                   1 1/3   0   0   0   0   3   0   0.00  C6 C9
+J.Barria                  1 1/3   0   0   0   0   1   0   0.00  D1
+[1]Totals                    9       4   0   0   1  12   0
+
+ATTENDANCE- 44,141 DATE- Monday, October 2nd 2023 TIME- Night 
+UMPIRES- Sam Holbrook, Angel Hernandez, Jim Wolf, Dj Reyburn
+T- 2:25
+LEFT ON BASE- Orioles: 4  Angels: 5
+DOUBLE PLAYS- Orioles: 2  Angels: 0
+DOUBLES- A.Garcia(1st), W.Myers(1st)
+HOME RUNS- B.Drury(1st), D.Peralta(1st)
+RBIs- T.Ward(1st), B.Drury-4(4th), D.Peralta(1st)
+STOLEN BASES- A.Thomas(1st), S.Ohtani(1st)
+WALKS- R.Mountcastle, Y.Diaz-2, O.Arcia, A.Garcia
+STRIKE OUTS- Y.Grandal-2, C.Hernandez, Y.Alvarez-2, A.Santander,
+             R.Mountcastle-2, A.Thomas, A.Hays, J.Mateo-2, T.Ward-2, S.Ohtani,
+             A.Garcia, W.Myers, J.Aguilar
+GIDP- O.Arcia
+2-out RBI- B.Drury-4, T.Ward, D.Peralta
+RLISP 2-out- S.Ohtani-2, J.Aguilar, R.Mountcastle, Y.Grandal
+TEAM RISP- Orioles: 0 for 4  Angels: 2 for 7
+
+Reid Detmers(1-0)with effective use of the bullpen shut down the Baltimore
+Orioles hitters at Angel Stadium.  The Los Angeles(AL) Angels came away with
+a 6 to 0 victory.
+
+Los Angeles(AL) jumped out to the early lead in the first inning when they
+came up with 4 runs on 2 hits.  That early scoring was all that Detmers
+needed.  Los Angeles(AL) had 9 hits for the night while Baltimore had 4.
+
+Sandy Alcantara(0-1) was the loser.  He pitched 6 and 2/3 innings allowing 7
+hits and 4 walks.
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Los Angeles(AL) Angels
+Y.Granda-A1  A1:F/9     B1:PkOff/  C1:K       D1:L/4
+A.Verdug-D1             13>1o K               
+A.Rutsch-D2                                   
+C.Hernan-A1  A2:G/53    *4*:Si     *6*:P/2    *9*:K
+                                              
+                                              
+Y.Alvare-A1  A3:G/63    B3:K       C3:K       D3:G/53
+                                              
+                                              
+A.Santan-A1  *2*:K      B4:Si>12   C4:G/63    D4:F/8
+                                              
+                                              
+K.Tucker-A1  A5:L/4     B5:P/6     *7*:G/53
+                                   
+                                   
+R.Mountc-A1  A6:W>b1    B6:K       C6:K
+                                   
+                                   
+R.Urias-A1   A7:G/43    *5*:G/63   C7:G/43
+                                   
+                                   
+A.Thomas-A1  *3*:K      B8:Si      *8*:K
+A.Hays-C8                          
+                                   
+J.Mateo-A1   A9:Si      B9:SB>12   C9:K
+                        K          
+                                   
+
+Y.Diaz-A1    A1:W>b1    B1:Si      C1:W>b1    D1:Force/
+                                              54>1o b1
+                                              
+O.Arcia-A1   A2:F/7     B2:Si>12   C2:G-DP/1  D2:W>12 b
+                                   63>1o      1
+                                              
+T.Ward-A1    A3:K       B3:Si>2#   *5*:G/63   D3:K
+                        13                    
+                                              
+S.Ohtani-A1  A4:Si>13   B4:G/53    C4:L/4     D4:K
+                                              
+                                              
+A.Garcia-A1  A5:SB>12   *3*:K      C5:G/43    *8*:Do
+             W>b1                             
+                                              
+B.Drury-A1   A6:HR>3#   B6:F/8     *6*:F/7    D6:L-DP/6
+             2# 1# b#                         4>2o
+                                              
+W.Myers-A1   A7:K       B7:Do      C7:L/6     D7:HR>b#
+D.Peralt-D7                                   
+                                              
+J.Aguila-A1  *2*:G/63   B8:K       C8:G/31    D8:P/4
+D.Fletch-C3                                   
+                                              
+M.Stassi-A1  A9:F/9     *4*:G/43   *7*:Si
+                                   
+                                   
+
+

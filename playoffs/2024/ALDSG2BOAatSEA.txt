@@ -1,0 +1,144 @@
+[1]BOXSCORE: 2023 Boston Red Sox At 2023 Seattle Mariners              10/7/2024
+
+[1]  Red Sox            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  M.Betts CF,RF       4  1  2  0 .310     J.Crawford SS       3  2  0  0 .167  
+  M.Yoshida DH        5  0  3  1 .250     S.Steer 3B          5  1  2  0 .333  
+  R.Devers 3B         4  0  1  0 .250     K.Marte 2B          5  1  2  3 .333  
+  T.Turner SS         5  2  2  0 .207     B.Belt 1B           3  1  1  3 .200  
+  H.Ramirez 1B        5  2  5  4 .550   F-T.Murphy PH         1  0  0  0 .000  
+B-J.Duran PR,CF       0  1  0  0 .222     J.Polanco DH        4  1  1  1 .250  
+  A.Benintendi LF     5  1  3  0 .200     S.Garrett LF        4  1  1  0 .250  
+  N.Castellanos RF    4  0  0  0 .143     M.Kepler RF         4  0  0  0 .143  
+A-R.McKenna CF        0  0  0  0 .000     J.Rodriguez CF      3  0  0  1 .000  
+C-W.Abreu PH          0  0  0  0 ----     Y.Grandal C         2  0  0  0 .200  
+D-W.Flores PH,1B      1  1  1  3 .364   E-J.Soler PH          0  1  0  0 .000  
+  N.Lopez 2B          5  0  0  0 .182                                          
+  C.Wong C            5  1  1  1 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      43  9 18  9                 Totals      34  8  7  8
+
+A-Subbed Defensively (CF) For Castellanos In 7th Inning
+B-Pinch Ran For Ramirez In 9th Inning
+C-Pinch Hit For McKenna In 9th Inning
+D-Pinch Hit For Abreu In 9th Inning
+E-Pinch Hit For Grandal In 9th Inning
+F-Pinch Hit For Belt In 9th Inning
+
+Red Sox......... 3 1 2  0 0 0  0 0 3  -  9 18  1
+Mariners........ 3 0 0  0 1 1  1 0 2  -  8  7  0
+
+[1]Red Sox (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Crawford                6       4   5   4   3   4   2   5.54  A1 C9
+C.Martin BS(1st)          1       2   1   1   0   3   0   2.08  D1 D5
+R.Brasier WIN(3-1)        1       0   0   0   0   2   0   3.60  D6 D8
+K.Jansen SAVE(2nd)        1       1   2   2   1   1   1  13.50  D9
+[1]Totals                    9       7   8   7   4  10   3
+
+[1]Mariners (1-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Kirby                   6 2/3  14   6   6   1   1   3   8.10  A1 D6
+P.Sewald                  1       0   0   0   1   1   0   0.00  D7 E1
+J.Jackson                 0 1/3   1   0   0   0   1   0   0.00  E2 E3
+J.Topa LOSS(0-1)          0 1/3   2   2   2   0   0   0  54.00  E4 E6
+T.Saucedo                 0 2/3   1   1   1   0   1   1  13.50  E7
+[1]Totals                    9      18   9   9   2   4   4
+
+ATTENDANCE- 46,240 DATE- Monday, October 7th 2024 TIME- Night 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:50
+LEFT ON BASE- Red Sox: 9  Mariners: 5
+DOUBLE PLAYS- Red Sox: 0  Mariners: 1
+ERRORS- T.Turner
+DOUBLES- M.Betts(2nd), S.Steer(1st)
+TRIPLES- K.Marte(1st)
+HOME RUNS- H.Ramirez-2(3rd), W.Flores(5th), C.Wong(2nd), K.Marte(1st),
+           B.Belt(1st), J.Polanco(2nd)
+RBIs- M.Yoshida(1st), H.Ramirez-4(8th), W.Flores-3(9th), C.Wong(3rd),
+      K.Marte-3(5th), B.Belt-3(3rd), J.Polanco(4th), J.Rodriguez(1st)
+STOLEN BASES- T.Turner-2(3rd), J.Duran(2nd), J.Rodriguez(1st)
+WALKS- M.Betts, R.Devers, J.Crawford, B.Belt, Y.Grandal, J.Soler
+HIT BY PITCH- J.Crawford, J.Rodriguez
+STRIKE OUTS- R.Devers, N.Castellanos, N.Lopez-2, J.Crawford, S.Steer-2,
+             K.Marte-2, B.Belt, J.Polanco, M.Kepler-2, J.Rodriguez
+GIDP- R.Devers
+2-out RBI- H.Ramirez-4, B.Belt-2, J.Polanco, C.Wong, K.Marte-2
+RLISP 2-out- T.Turner-2, Y.Grandal, J.Polanco-2, N.Castellanos, R.Devers
+TEAM RISP- Red Sox: 5 for 8  Mariners: 0 for 8
+
+Harold Ramirez smacked 2 homeruns and had 4 RBI at T-Mobile Park as the Boston
+Red Sox came back dramatically to top the Seattle Mariners by the score of 9
+to 8.
+
+Boston had the winning rally in the 9th inning plating 3 runs on 3 hits.
+After an out was recorded, Ramirez opened up the rally as he ripped a
+base-hit.  Duran took his lead and swiped second.  Andrew Benintendi then
+lashed a single.  Wilmer Flores followed and he lofted a three-run 'big-fly'.
+Seattle was not lacking for run support as they scored in 5 separate
+innings, yet victory eluded them as they seemed to forget that pitching is
+also needed to win ballgames.  
+
+Ryan Brasier(3-1) got credit for the victory, pitching 1 inning and allowing
+no runs. Kenley Jansen preserved the game for Brasier, recording his his 2nd
+save.  Justin Topa(0-1) absorbed the loss in relief.  
+
+'I was in my hotel room the other night, working on my swing and made some
+adjustments,' Ramirez said. 'I'm always working on it. If they are getting
+you out certain ways, you've got to make changes.'
+[2]
+[1]SCORESHEET: 2023 Boston Red Sox at 2023 Seattle Mariners
+M.Betts-A1   A1:Do      B1:G/63    C1:Si      D1:G/43    E1:W>b1
+                                                         
+                                                         
+M.Yoshid-A1  A2:Si>2#   *3*:F/9    C2:Si>12   D2:G/3     E2:Si>12
+                                                         
+                                                         
+R.Devers-A1  A3:G-DP/6  B3:Si      C3:W>23 1  *7*:F/8    E3:K
+             43>1o                 2 b1                  
+                                                         
+T.Turner-A1  A4:Si      B4:PkOff/  C4:F/8     D4:G/43    *9*:G/63
+                        13>1o Si                         
+                                                         
+H.Ramire-A1  A5:SB>12   B5:SB>12   *5*:Si     D5:Si      E5:Si
+J.Duran-E6   HR>2# b#   HR>2# b#                         
+                                                         
+A.Benint-A1  A6:G/43    B6:Si      C6:P/6     D6:Si>12   E6:SB>12
+                                                         Si>23
+                                                         
+N.Castel-A1  *2*:G/13   B7:G/63    C7:F/8     D7:K       E7:HR>3#
+R.McKenn-D8                                              1# b#
+W.Abreu-E7+                                              
+N.Lopez-A1   A8:G/31    *4*:G/63   C8:K       *8*:G/13   E8:K
+                                                         
+                                                         
+C.Wong-A1    A9:HR>b#   B9:F/8     *6*:G/43   D9:G/53    E9:G/13
+                                                         
+                                                         
+
+J.Crawfo-A1  A1:HBP     B1:G/31    *5*:W>b1   *7*:K      E1:F/9
+                                                         
+                                                         
+S.Steer-A1   A2:F/7     *3*:K      C2:Do>13   D2:Si      E2:K
+                                                         
+                                                         
+K.Marte-A1   A3:K       B3:G/43    C3:K       D3:Tr>1#   E3:HR>1#
+                                                         b#
+                                                         
+B.Belt-A1    A4:HR>1#   B4:W>b1    C4:G/63>3  D4:K       E4:G/23
+T.Murphy-E4  b#                    # 23                  
+                                                         
+J.Polanc-A1  A5:HR>b#   B5:Force/  C5:G/63    D5:K
+                        64>1o b1              
+                                              
+S.Garret-A1  A6:G/43    *4*:G/43   *6*:Si+E/  *8*:G/63
+                                   6          
+                                              
+M.Kepler-A1  *2*:G/43   B7:K       C7:P/3     D7:K
+                                              
+                                              
+J.Rodrig-A1  A8:L/6     B8:HBP     C8:G/43>3  D8:K
+                                   #          
+                                              
+Y.Granda-A1  A9:W>b1    B9:SB>12   C9:G/13    *9*:W>b1
+J.Soler-D9              F/8                   
+                                              
+
+

@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Seattle Mariners          10/23/2024
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  K.Tucker RF         2  0  0  0 .175     J.Crawford SS       1  1  1  0 .286  
+  A.Rutschman C       2  0  0  0 .214     S.Steer 3B,1B       4  1  1  3 .214  
+  Y.Alvarez LF        3  0  0  0 .222     B.Belt 1B           3  1  1  0 .333  
+  A.Santander DH      4  0  0  0 .256   A-J.Polanco PH,3B     1  0  0  0 .235  
+  G.Henderson 3B      3  0  0  0 .105     K.Marte 2B          4  0  0  0 .244  
+  R.Mountcastle 1B    4  0  1  0 .333     J.Kelenic LF        3  0  2  1 .238  
+  A.Thomas CF         4  1  1  1 .056     J.Rodriguez CF      4  0  0  0 .128  
+  A.Trejo 2B          3  0  0  0 .333     M.Kepler RF         4  0  0  0 .194  
+B-R.O'Hearn PH        1  0  0  0 .267     J.Soler DH          3  0  0  0 .143  
+  J.Mateo SS          3  0  0  0 .286     T.Murphy C          3  2  2  1 .200  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      29  1  2  1                 Totals      30  5  7  5
+
+A-Pinch Hit For Belt In 7th Inning
+B-Pinch Hit For Trejo In 9th Inning
+
+Orioles......... 0 0 0  0 0 0  1 0 0  -  1  2  0
+Mariners........ 0 0 0  1 3 0  1 0    -  5  7  0
+
+[1]Orioles (6-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Bradish LOSS(1-2)       6       6   5   5   3   5   2   7.20  A1 C9
+P.Fairbanks               1       0   0   0   1   1   0   0.00  D1 D3
+F.Bautista                1       1   0   0   0   3   0   1.23  D4
+[1]Totals                    8       7   5   5   4   9   2
+
+[1]Mariners (8-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Castillo WIN(4-0)       7       2   1   1   6   5   1   2.37  A1 D2
+B.Bernardino              1       0   0   0   0   1   0   0.00  D3 D5
+A.Munoz                   1       0   0   0   0   0   0   0.00  D6
+[1]Totals                    9       2   1   1   6   6   1
+
+ATTENDANCE- 46,781 DATE- Wednesday, October 23rd 2024 TIME- Night 
+UMPIRES- Quinn Wolcott, Jeremie Rehak, Mark Wegner, Alan Porter
+T- 2:32
+LEFT ON BASE- Orioles: 7  Mariners: 5
+DOUBLE PLAYS- Orioles: 1  Mariners: 0
+DOUBLES- R.Mountcastle(1st), B.Belt(4th), J.Kelenic(1st)
+HOME RUNS- A.Thomas(1st), S.Steer(2nd), T.Murphy(1st)
+RBIs- A.Thomas(1st), S.Steer-3(4th), J.Kelenic(6th), T.Murphy(1st)
+WALKS- K.Tucker-2, A.Rutschman-2, Y.Alvarez, G.Henderson, J.Crawford-3,
+       J.Kelenic
+STRIKE OUTS- K.Tucker, Y.Alvarez, A.Santander, G.Henderson-3, B.Belt, J.Polanco,
+             K.Marte-2, J.Kelenic, J.Rodriguez, M.Kepler-2, J.Soler
+GIDP- S.Steer
+WILD PITCHES- K.Bradish
+RLISP 2-out- R.Mountcastle-2, A.Santander, A.Trejo, M.Kepler-2, J.Soler,
+             G.Henderson
+TEAM RISP- Orioles: 0 for 8  Mariners: 2 for 8
+
+Catcher Tom Murphy connected with a 'big fly' as the Seattle Mariners defeated
+the Baltimore Orioles 5 to 1 at T-Mobile Park.
+
+In the 4th inning Seattle went on top for good plating one baserunner
+utilizing 2 base hits.  Overall Seattle out-hit Baltimore 7 to 2.  
+
+The win went to Luis Castillo(4-0) who allowed 1 run in 7 innings. Kyle
+Bradish(1-2) was the loser.  He pitched 6 innings giving up 6 hits and 3
+walks.
+
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Seattle Mariners
+K.Tucker-A1  A1:W>b1    *3*:W>b1   C1:P/6     D1:K
+                                              
+                                              
+A.Rutsch-A1  A2:L/4     B2:G/3>12  C2:W>b1    *8*:W>b1
+                                              
+                                              
+Y.Alvare-A1  A3:W>12 b  B3:F/9>23  C3:K       D3:G/63>1
+             1                                2
+                                              
+A.Santan-A1  A4:G/3>23  B4:K       *6*:G/63   D4:F/8
+             12                               
+                                              
+G.Hender-A1  A5:W>b1    *4*:K      C5:K       D5:K
+                                              
+                                              
+R.Mountc-A1  A6:F/9     B6:Do      C6:L/5     *9*:G/53
+                                              
+                                              
+A.Thomas-A1  *2*:G/63   B7:F/9     *7*:HR>b#  D7:G/31
+                                              
+                                              
+A.Trejo-A1   A8:F/9     B8:P/6     C8:F/7     D8:L/4
+R.O'Hear-D8                                   
+                                              
+J.Mateo-A1   A9:F/9     *5*:G/63   C9:F/9
+                                   
+                                   
+
+J.Crawfo-A1  A1:W>b1    B1:W>b1    C1:Si>13   D1:W>b1
+                                              
+                                              
+S.Steer-A1   A2:L/6     B2:F/9     C2:HR>3#   D2:G-DP/5
+                                   1# b#      43>1o
+                                              
+B.Belt-A1    A3:K       *4*:Do     C3:G/13    D3:K
+J.Polanc-D3                                   
+                                              
+K.Marte-A1   A4:K       B4:L/4     C4:F/9     *8*:K
+                                              
+                                              
+J.Keleni-A1  *2*:K      B5:Si>2#   *6*:W>b1   D5:Do
+                                              
+                                              
+J.Rodrig-A1  A6:G/53    B6:F/9     C6:G/63>1  D6:K
+                                   2          
+                                              
+M.Kepler-A1  A7:F/7     B7:WP>12   C7:P/2     D7:K
+                        K                     
+                                              
+J.Soler-A1   *3*:F/8    *5*:F/9    C8:K
+                                   
+                                   
+T.Murphy-A1  A9:G/43    B9:Si      *7*:HR>b#
+                                   
+                                   
+
+

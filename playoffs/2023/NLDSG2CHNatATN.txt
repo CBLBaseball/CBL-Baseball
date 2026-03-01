@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2023 Chicago (NL) Cubs At 2023 Atlanta Braves             10/3/2023
+
+[1]  Cubs               AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  N.Hoerner SS        5  0  0  0 .125     C.Yelich LF         4  2  1  0 .125  
+  R.Ortega CF         4  0  0  0 .111     D.Swanson SS        5  2  2  3 .444  
+  I.Happ LF           4  1  0  0 .125     F.Freeman 1B        4  2  2  1 .375  
+  K.Schwarber DH      4  1  2  0 .333     A.Riley 3B          5  1  1  2 .222  
+  P.Wisdom 3B         2  1  1  1 .250     J.Realmuto C        4  1  2  1 .375  
+  L.Gonzalez RF       4  0  1  1 .167     O.Albies 2B         4  1  1  2 .250  
+  T.Mancini 1B        4  0  2  1 .571     M.Garver DH         1  0  1  11.000  
+  L.Rengifo 2B        2  0  0  0 .143   B-W.Contreras PH,DH   2  0  0  0 .167  
+A-C.Morel PH,2B       2  0  0  0 .000     R.Acuna RF          4  1  2  0 .571  
+  W.Contreras C       3  0  1  0 .167     M.Taylor CF         4  1  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  7  3                 Totals      37 11 12 10
+
+A-Pinch Hit For Rengifo In 6th Inning
+B-Pinch Hit For Garver In 6th Inning
+
+Cubs............ 0 0 0  1 0 2  0 0 0  -  3  7  3
+Braves.......... 0 2 4  0 0 0  2 3    - 11 12  1
+
+[1]Cubs (0-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+E.Lauer LOSS(0-1)         2       4   6   6   3   3   1  27.00  A1 B4
+H.Wesneski                4 2/3   5   2   2   0   4   0   3.24  B5 D5
+Z.Littell                 1       2   3   0   0   2   1   0.00  D6 E2
+J.Beeks                   0 1/3   1   0   0   0   0   0   0.00  E3
+[1]Totals                    8      12  11   8   3   9   2
+
+[1]Braves (2-0)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Wright WIN(1-0)         5 2/3   6   3   1   2   6   0   1.59  A1 C7
+C.McHugh HOLD(1st)        1 2/3   0   0   0   0   1   0   0.00  C8 D3
+D.Lee                     0 1/3   1   0   0   1   1   0   0.00  D4 D6
+M.Moore                   1 1/3   0   0   0   0   1   0   0.00  D7
+[1]Totals                    9       7   3   1   3   9   0
+
+ATTENDANCE- 39,271 DATE- Tuesday, October 3rd 2023 TIME- Night 
+UMPIRES- Tony Randazzo, Scott Barry, Ben May, Dan Iassogna
+T- 3:13
+LEFT ON BASE- Cubs: 7  Braves: 5
+DOUBLE PLAYS- Cubs: 0  Braves: 1
+ERRORS- N.Hoerner, L.Gonzalez, H.Wesneski, D.Swanson
+DOUBLES- K.Schwarber(1st), C.Yelich(1st), F.Freeman(2nd), A.Riley(1st),
+         R.Acuna(1st)
+HOME RUNS- D.Swanson(1st), O.Albies(1st)
+RBIs- P.Wisdom(1st), L.Gonzalez(1st), T.Mancini(4th), D.Swanson-3(4th),
+      F.Freeman(1st), A.Riley-2(2nd), J.Realmuto(2nd), O.Albies-2(2nd),
+      M.Garver(1st)
+WALKS- P.Wisdom-2, W.Contreras, C.Yelich, F.Freeman, M.Garver
+STRIKE OUTS- R.Ortega-2, I.Happ-2, P.Wisdom, L.Gonzalez-3, W.Contreras,
+             C.Yelich-2, D.Swanson-2, F.Freeman, A.Riley, J.Realmuto, O.Albies,
+             W.Contreras
+GIDP- N.Hoerner
+WILD PITCHES- C.McHugh
+2-out RBI- M.Garver, P.Wisdom, L.Gonzalez, T.Mancini, J.Realmuto, D.Swanson-3
+RLISP 2-out- F.Freeman, C.Morel-2, T.Mancini
+TEAM RISP- Cubs: 3 for 7  Braves: 5 for 12
+
+The Chicago (NL) Cubs pitchers essentially took the day off at Truist Park as
+the Atlanta Braves offense erupted for 11 runs while Kyle Wright(1-0)with
+relief help surrendered 3 runs to Chicago (NL).
+
+Atlanta took the lead for good in the 2nd inning scoring 2 runners on 2 hits.
+The biggest moment was provided by Ozzie Albies who electrified Truist Park
+when he lifted one out of the park for a two run home run.  Atlanta ended up
+with 12 hits for the game while Chicago (NL) had 7.  
+
+Eric Lauer(0-1) ended up with the loss.  He was knocked around pretty good,
+giving up 6 runs in 2 innings.
+[2]
+[1]SCORESHEET: 2023 Chicago (NL) Cubs at 2023 Atlanta Braves
+N.Hoerne-A1  A1:G/63    B1:L/6     C1:G-DP/4  D1:G/63    E1:G/43
+                                   63>1o                 
+                                                         
+R.Ortega-A1  A2:K       *4*:G/43   *6*:K      D2:F/8
+                                              
+                                              
+I.Happ-A1    A3:F/8     B3:K       C3:E/6     *8*:K
+                                              
+                                              
+K.Schwar-A1  *2*:F/7    B4:Do      C4:F/9     D4:Si
+                                              
+                                              
+P.Wisdom-A1  A5:K       B5:Si>2#   C5:W>12 b  D5:W>12 b
+                                   1          1
+                                              
+L.Gonzal-A1  A6:K       B6:K       C6:Si>2#   D6:K
+                                   13         
+                                              
+T.Mancin-A1  *3*:G/13   *5*:Si     C7:Si>3#   D7:L/6
+                                   12         
+                                              
+L.Rengif-A1  A8:F/8     B8:Force/  C8:WP>23   *9*:G/63
+C.Morel-C8              54>1o b1   12 L/6     
+                                              
+W.Contre-A1  A9:W>b1    B9:Si>12   *7*:G/13   D9:K
+                                              
+                                              
+
+C.Yelich-A1  A1:K       *3*:W>b1   C1:G/3>12  *7*:Do     E1:K
+                                                         
+                                                         
+D.Swanso-A1  A2:K       B2:Si+E/9  C2:K       D2:G/13    E2:HR>3#
+                        >1#                              2# b#
+                                                         
+F.Freema-A1  A3:K       B3:W>b1    C3:L/4     D3:Do>2#   E3:Si
+                                                         
+                                                         
+A.Riley-A1   *2*:L/6    B4:Do>3#   *5*:K      D4:F/7     E4:F/9
+                        1#                               
+                                                         
+J.Realmu-A1  A5:Si      B5:K       C5:L/6     D5:Si>2#
+                                              
+                                              
+O.Albies-A1  A6:HR>1#   B6:K       C6:F/7     D6:F/8
+             b#                               
+                                              
+M.Garver-A1  A7:W>b1    B7:Si>3#   *6*:G/43   *8*:K
+W.Contre-C7                                   
+                                              
+R.Acuna-A1   A8:F/8     B8:Do>1o   C8:G/13    D8:Si
+                                              
+                                              
+M.Taylor-A1  A9:L/6     *4*:E/1    C9:G/63    D9:E/6>13
+                                              b2 
+                                              
+
+

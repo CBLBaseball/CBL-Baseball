@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2023 Toronto Blue Jays At 2023 Cleveland Indians          10/3/2023
+
+[1]  Blue Jays          AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  B.Bichette SS       4  0  1  0 .333     S.Kwan LF           4  0  0  0 .000  
+  C.Biggio DH         2  0  0  0 .250     F.Lindor SS         3  1  0  0 .286  
+C-D.Jansen PH         1  0  0  0 .000     J.Ramirez 3B        4  1  3  0 .500  
+  V.Guerrero Jr 1B    4  0  0  0 .111     C.Cron 1B           2  0  1  1 .333  
+  A.Kirk C            4  0  1  0 .286     A.Gimenez 2B        4  0  1  1 .250  
+  L.Gurriel LF        3  0  0  0 .143     O.Gonzalez RF       4  0  0  0 .125  
+  T.Hernandez RF      3  0  0  0 .000     J.Naylor DH         2  0  0  0 .333  
+  T.Story 2B          3  0  0  0 .429   A-M.Margot PH,DH      1  0  1  01.000  
+  J.Peterson 3B       3  0  0  0 .000     C.Bethancourt C     2  0  0  0 .000  
+  M.Straw CF          3  0  0  0 .143   B-J.Heim PH,C         1  0  0  0 .000  
+                                          C.Mullins CF        3  0  0  0 .167  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  2  0                 Totals      30  2  6  2
+
+A-Pinch Hit For Naylor In 7th Inning
+B-Pinch Hit For Bethancourt In 7th Inning
+C-Pinch Hit For Biggio In 9th Inning
+
+Blue Jays....... 0 0 0  0 0 0  0 0 0  -  0  2  2
+Indians......... 0 0 0  0 0 0  0 2    -  2  6  1
+
+[1]Blue Jays (1-1)          IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Gausman                 6 1/3   3   0   0   1   6   0   0.00  A1 C6
+J.Sears                   0       1   0   0   0   0   0   ----  C7 C7
+H.Brown                   0 1/3   0   0   0   0   0   0   0.00  C8 C8
+B.Raley LOSS(0-1)         1       1   2   1   0   0   0   9.00  C9 D4
+T.Clarke                  0 1/3   1   0   0   0   0   0   0.00  D5
+[1]Totals                    8       6   2   1   1   6   0
+
+[1]Indians (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.McKenzie WIN(1-0)       8       1   0   0   0   7   0   0.00  A1 C9
+R.Montero SAVE(1st)       1       1   0   0   0   1   0   0.00  D1
+[1]Totals                    9       2   0   0   0   8   0
+
+ATTENDANCE- 32,829 DATE- Tuesday, October 3rd 2023 TIME- Night 
+UMPIRES- Tony Randazzo, Scott Barry, Ben May, Dan Iassogna
+T- 2:27
+LEFT ON BASE- Blue Jays: 4  Indians: 7
+DOUBLE PLAYS- Blue Jays: 0  Indians: 0
+ERRORS- V.Guerrero Jr, K.Gausman, O.Gonzalez
+DOUBLES- B.Bichette(1st)
+RBIs- C.Cron(1st), A.Gimenez(1st)
+STOLEN BASES- J.Ramirez(1st), M.Margot(1st)
+SACRIFICE FLIES- C.Cron
+WALKS- C.Cron
+HIT BY PITCH- C.Biggio, F.Lindor
+STRIKE OUTS- C.Biggio-2, D.Jansen, V.Guerrero Jr, L.Gurriel-2, T.Story-2,
+             S.Kwan, F.Lindor, C.Cron, A.Gimenez, O.Gonzalez, C.Bethancourt
+2-out RBI- A.Gimenez
+RLISP 2-out- A.Gimenez-2, C.Mullins-2, J.Peterson, A.Kirk
+TEAM RISP- Blue Jays: 0 for 5  Indians: 1 for 6
+
+Triston McKenzie delivered 8 solid innings as the Cleveland Indians defeated
+the Toronto Blue Jays 2 to 0 at Progressive Field.
+
+McKenzie(1-0) came through with a virtuoso performance against the Toronto
+hitters.  He allowed just 1 hit and no walks in 8 innings.  Cleveland had 6
+hits for the night while Toronto had 2.  
+
+Rafael Montero recorded the save, his 1st.  Brooks Raley(0-1) ended up with
+the loss in relief.  He gave up 2 runs and 1 hit in 1 inning.
+[2]
+[1]SCORESHEET: 2023 Toronto Blue Jays at 2023 Cleveland Indians
+B.Bichet-A1  A1:G/43    *4*:F/8    C1:P/5     *9*:Do
+                                              
+                                              
+C.Biggio-A1  A2:K       B2:K       C2:HBP     D2:K
+D.Jansen-D2                                   
+                                              
+V.Guerre-A1  A3:F/8     B3:G/43    C3:K       D3:G/13>2
+                                              3
+                                              
+A.Kirk-A1    *2*:FO/2   *5*:Si     *7*:G/13   D4:G/53
+                                              
+                                              
+L.Gurrie-A1  A5:P/2     B5:K       C5:K
+                                   
+                                   
+T.Hernan-A1  A6:G/23    B6:E/9>12  C6:G/43
+                                   
+                                   
+T.Story-A1   *3*:K      B7:K       *8*:L/4
+                                   
+                                   
+J.Peters-A1  A8:G/43    B8:G/43    C8:G/63
+                                   
+                                   
+M.Straw-A1   A9:L/6     *6*:G/23   C9:F/9
+                                   
+                                   
+
+S.Kwan-A1    A1:K       *3*:L/4    *6*:G/23   *8*:F/8
+                                              
+                                              
+F.Lindor-A1  A2:G/63    B2:G/31    C2:K       D2:HBP
+                                              
+                                              
+J.Ramire-A1  A3:Si      B3:P/6     C3:Si      D3:Si+E/3
+                                              >13
+                                              
+C.Cron-A1    A4:Si>13   *4*:K      C4:SB>12   D4:SF/7>3
+                                   IW>b1      #
+                                              
+A.Gimene-A1  A5:F/8     B5:K       C5:L/4     D5:Si>2#
+                                              
+                                              
+O.Gonzal-A1  *2*:L/6    B6:F/8     *7*:K      D6:L/6
+                                              
+                                              
+J.Naylor-A1  A7:E/1     *5*:F/7    C7:Si
+M.Margot-C7                        
+                                   
+C.Bethan-A1  A8:G/43>1  B8:K       C8:SB>12
+J.Heim-C8    2                     P/6
+                                   
+C.Mullin-A1  A9:G/63    B9:L/4     C9:G/53
+                                   
+                                   
+
+

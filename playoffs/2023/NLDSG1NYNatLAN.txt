@@ -1,0 +1,145 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Los Angeles(NL) Dodgers   10/2/2023
+
+[1]  Mets               AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  J.Bell DH           5  0  0  0 .111     T.France 1B         5  0  1  0 .200  
+  M.Canha LF,RF       4  1  1  0 .231     J.Turner DH         4  1  1  1 .250  
+  J.McNeil 2B         4  1  2  0 .313     C.Seager SS         3  1  0  0 .000  
+  P.Alonso 1B         4  1  1  3 .333     T.Thompson RF       2  0  0  0 .000  
+  E.Escobar 3B        4  1  3  0 .438   A-M.Muncy PH,3B       2  0  0  0 .000  
+  P.Higgins C         4  1  1  0 .286     W.Smith C           4  1  1  1 .250  
+G-T.D'Arnaud C        0  0  0  0 .286     T.Taylor LF         4  1  2  2 .500  
+  B.Gamel RF          3  0  0  0 .000     E.Rivera 3B         3  0  2  0 .667  
+F-B.Thompson PR       0  0  0  0 .500   B-A.Almora Jr RF      1  0  0  0 .000  
+H-E.White LF          0  0  0  0 ----     C.Bellinger CF      3  0  0  0 .000  
+  T.Grisham CF        3  0  0  0 .000   J-A.Pujols PH         1  0  1  01.000  
+  J.Camargo SS        3  0  1  2 .333     C.Taylor 2B         2  0  1  0 .500  
+E-Y.Chang PH          1  0  0  0 .000   C-K.Ruiz PH           1  0  1  01.000  
+I-J.Iglesias SS       0  0  0  0 .333   D-J.Berti 2B          1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  5  9  5                 Totals      36  4 10  4
+
+A-Pinch Hit For Thompson In 6th Inning
+B-Subbed Defensively (RF) For Rivera In 7th Inning
+C-Pinch Hit For Taylor In 7th Inning
+D-Subbed Defensively (2B) For Ruiz In 8th Inning
+E-Pinch Hit For Camargo In 9th Inning
+F-Pinch Ran For Gamel In 9th Inning
+G-Subbed Defensively (C ) For Higgins In 9th Inning
+H-Subbed Defensively (LF) For Thompson In 9th Inning
+I-Subbed Defensively (SS) For Chang In 9th Inning
+J-Pinch Hit For Bellinger In 9th Inning
+
+Mets............ 3 0 0  2 0 0  0 0 0  -  5  9  0
+Dodgers......... 0 0 1  0 0 2  0 1 0  -  4 10  0
+
+[1]Mets (3-1)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Taillon WIN(1-0)        5 2/3   6   3   3   1   6   3   4.76  A1 C6
+A.Cimber HOLD(1st)        0 1/3   1   0   0   0   0   0   0.00  C7 C8
+A.Ottavino HOLD(1st)      1       1   0   0   0   1   0   0.00  C9 D2
+H.Neris HOLD(3rd)         1       1   1   1   1   2   0   8.10  D3 D7
+R.Iglesias SAVE(2nd)      1       1   0   0   0   2   0   0.00  D8
+[1]Totals                    9      10   4   4   2  11   3
+
+[1]Dodgers (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Gonsolin LOSS(0-1)      6 2/3   8   5   5   0   7   1   6.75  A1 D1
+E.Phillips                1       0   0   0   0   1   0   0.00  D2 D4
+R.Marinaccio              1       1   0   0   1   0   0   0.00  D5 D9
+R.Helsley                 0 1/3   0   0   0   0   0   0   0.00  E1
+[1]Totals                    9       9   5   5   1   8   1
+
+ATTENDANCE- 52,149 DATE- Monday, October 2nd 2023 TIME- Night 
+UMPIRES- Sam Holbrook, Angel Hernandez, Jim Wolf, Dj Reyburn
+T- 2:53
+LEFT ON BASE- Mets: 5  Dodgers: 7
+DOUBLE PLAYS- Mets: 0  Dodgers: 0
+DOUBLES- J.McNeil-2(2nd), T.Taylor(1st), E.Rivera-2(2nd), C.Taylor(1st)
+HOME RUNS- P.Alonso(3rd), J.Turner(1st), W.Smith(1st), T.Taylor(1st)
+RBIs- P.Alonso-3(8th), J.Camargo-2(2nd), J.Turner(1st), W.Smith(1st),
+      T.Taylor-2(2nd)
+STOLEN BASES- B.Thompson(1st)
+SACRIFICE HITS- T.Grisham
+WALKS- B.Gamel, J.Turner, C.Seager
+STRIKE OUTS- J.Bell-3, J.McNeil, P.Alonso, B.Gamel, T.Grisham-2, T.France,
+             J.Turner-2, T.Thompson-2, M.Muncy-2, W.Smith, A.Almora Jr,
+             C.Bellinger, J.Berti
+WILD PITCHES- H.Neris
+2-out RBI- J.Turner, J.Camargo-2, W.Smith, T.Taylor-2
+RLISP 2-out- T.Thompson, C.Bellinger-2, E.Escobar, J.Turner, A.Almora Jr,
+             J.Bell
+TEAM RISP- Mets: 2 for 8  Dodgers: 2 for 9
+
+52,149 fans were treated to a fine game at Dodger Stadium as only one run
+separated the combatants at game's end.  The New York (NL) Mets won by the
+slimmest of margins, 5 to 4.
+
+New York (NL) set the tone of the game in the first inning scoring 3 runners
+on 4 hits.  The big moment was provided by Pete Alonso who helped quiet the
+crowd when he lofted a three-run bomb.  Los Angeles(NL) had a chance to come
+back in the 9th but they came up short.  
+
+Jameson Taillon(1-0) got credit for the victory, pitching 5 and 2/3 innings
+and allowing 3 runs. Raisel Iglesias recorded his 2nd save.  The loss was
+charged to Tony Gonsolin(0-1).  He pitched 6 and 2/3 innings and surrendered
+8 hits and no walks.
+
+Rob Calia was clearly disappointed after the game.  'It was a manager's
+nightmare out there', he said, 'We should have had this one.'
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Los Angeles(NL) Dodgers
+J.Bell-A1    A1:K       B1:K       C1:F/9     D1:K       E1:G/43
+                                                         
+                                                         
+M.Canha-A1   A2:Si      *3*:G/63   *5*:FO/5   D2:G/31
+                                              
+                                              
+J.McNeil-A1  A3:Do>13   B3:G/13    C3:Do      *8*:K
+                                              
+                                              
+P.Alonso-A1  A4:HR>3#   B4:K       C4:F/8     D4:F/8
+             2# b#                            
+                                              
+E.Escoba-A1  A5:Si      *4*:Si     C5:F/8     D5:Si
+                                              
+                                              
+P.Higgin-A1  A6:F/9     B6:Si>13   *6*:G/3    D6:G/31
+T.D'Arna-E2                                   
+                                              
+B.Gamel-A1   A7:K       B7:G/43>1  C7:G/43    *9*:W>b1
+B.Thomps-D9             2                     
+E.White-E2                                    
+T.Grisha-A1  *2*:K      B8:K       C8:G/43    D8:Sac/14
+                                              >12
+                                              
+J.Camarg-A1  A9:G/63    B9:Si>3#   *7*:G/43   D9:SB>23
+Y.Chang-D9              2#                    G/3
+J.Iglesi-E2                                   
+
+T.France-A1  A1:F/7     B1:L/6     C1:Si>23   D1:PkOff/  E1:Force/
+                                              13>1o K    14>1o b1
+                                                         
+J.Turner-A1  A2:W>b1    B2:HR>b#   C2:K       D2:G/43    E2:K
+                                                         
+                                                         
+C.Seager-A1  A3:G/43>1  B3:F/8     *6*:P/6    *8*:W>b1
+             2                                
+                                              
+T.Thomps-A1  A4:K       *4*:K      C4:K       D4:WP>12
+M.Muncy-C4                                    K
+                                              
+W.Smith-A1   *2*:G/53   B5:K       C5:HR>b#   D5:F/8
+                                              
+                                              
+T.Taylor-A1  A6:G/63    B6:F/8     C6:HR>b#   D6:Do>2#
+                                              
+                                              
+E.Rivera-A1  A7:Do      *5*:G/43   C7:Do      D7:K
+A.Almora-C9                                   
+                                              
+C.Bellin-A1  A8:K       B8:FO/2    C8:F/8     *9*:Si
+A.Pujols-D8                                   
+                                              
+C.Taylor-A1  *3*:F/8    B9:Do      *7*:Si     D9:K
+K.Ruiz-C9                                     
+J.Berti-D3                                    
+
+

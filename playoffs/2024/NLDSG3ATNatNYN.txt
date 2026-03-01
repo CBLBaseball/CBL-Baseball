@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 New York (NL) Mets            10/9/2024
+
+[1]  Braves             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  M.Harris CF         5  0  0  0 .300     T.Grisham CF        5  2  2  1 .125  
+  R.Acuna RF          4  0  3  0 .583     J.Candelario 3B     5  2  2  3 .222  
+  C.Yelich LF         4  0  0  0 .167     E.Rosario LF        5  1  2  1 .240  
+  A.Riley 3B          5  0  1  0 .214     J.McNeil 2B         5  2  3  0 .276  
+  F.Freeman 1B        3  1  1  0 .400     P.Alonso 1B         4  1  1  1 .200  
+  J.Realmuto C        5  2  2  1 .444     M.Ford DH           2  1  2  5 .636  
+  D.Swanson SS        5  2  3  2 .455   A-C.Perez PH,DH       2  0  1  0 .333  
+  W.Contreras DH      4  1  1  0 .100   D-N.Senzel PH,DH      1  0  0  0 .100  
+  O.Albies 2B         5  1  1  4 .167     G.Sanchez C         4  0  0  0 .200  
+                                          B.Perkins RF        3  1  1  0 .143  
+                                        B-A.Diaz PH           1  0  0  0 .500  
+                                        C-M.Canha RF          1  0  0  0 .133  
+                                          W.Franco SS         4  1  3  0 .364  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40  7 12  7                 Totals      42 11 17 11
+
+A-Pinch Hit For Ford In 4th Inning
+B-Pinch Hit For Perkins In 6th Inning
+C-Subbed Defensively (RF) For Diaz In 7th Inning
+D-Pinch Hit For Perez In 8th Inning
+
+Braves.......... 0 0 0  0 0 3  4 0 0  -  7 12  1
+Mets............ 5 2 0  0 4 0  0 0    - 11 17  1
+
+[1]Braves (1-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mikolas LOSS(0-1)       5      16  11  11   1   5   1  19.80  A1 D7
+M.Tonkin                  1       1   0   0   0   1   0   0.00  D8 E2
+R.Garcia                  1       0   0   0   0   1   0   0.00  E3 E5
+S.Wilson                  1       0   0   0   0   1   0   0.00  E6
+[1]Totals                    8      17  11  11   1   8   1
+
+[1]Mets (5-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Lugo WIN(1-0)           5       8   3   3   3   7   1   3.09  A1 C8
+R.Lopez                   1 1/3   2   1   1   1   2   0  11.57  C9 D6
+A.Ottavino                2 2/3   2   3   2   1   1   1   7.36  D7
+[1]Totals                    9      12   7   6   5  10   2
+
+ATTENDANCE- 39,386 DATE- Wednesday, October 9th 2024 TIME- Night 
+UMPIRES- Quinn Wolcott, Jeremie Rehak, Mark Wegner, Alan Porter
+T- 3:16
+LEFT ON BASE- Braves:11  Mets: 9
+DOUBLE PLAYS- Braves: 0  Mets: 0
+ERRORS- D.Swanson, J.McNeil
+DOUBLES- F.Freeman(1st), J.Realmuto(1st), D.Swanson(1st), T.Grisham-2(2nd),
+         J.Candelario(4th), W.Franco(1st)
+TRIPLES- J.Candelario(1st)
+HOME RUNS- D.Swanson(1st), O.Albies(2nd), M.Ford(4th)
+RBIs- J.Realmuto(1st), D.Swanson-2(3rd), O.Albies-4(7th), T.Grisham(1st),
+      J.Candelario-3(6th), E.Rosario(3rd), P.Alonso(4th), M.Ford-5(8th)
+WALKS- R.Acuna, C.Yelich, F.Freeman-2, W.Contreras, G.Sanchez
+HIT BY PITCH- P.Alonso
+STRIKE OUTS- C.Yelich-3, A.Riley-2, J.Realmuto, W.Contreras-2, O.Albies-2,
+             T.Grisham, J.Candelario, E.Rosario, P.Alonso, G.Sanchez-3,
+             B.Perkins
+PASSED BALLS- G.Sanchez
+RLISP 2-out- A.Riley-3, T.Grisham, O.Albies-3, B.Perkins, G.Sanchez-2,
+             J.Candelario, J.Realmuto
+TEAM RISP- Braves: 3 for 11  Mets: 8 for 16
+
+The New York (NL) Mets readily handled Atlanta Braves by a score of 11 to 7 at
+Citi Field.
+
+Mike Ford helped send the fans home happy.  He smacked a three-run homer in
+the 1st inning and slapped a base-hit which was good for two runs in the 2nd
+inning.  New York (NL) out-hit Atlanta for the game, 17 hits to 12.  
+
+The victory was credited to Seth Lugo(1-0) who went 5 innings, allowing 3
+runs. Miles Mikolas(0-1) took the loss.  New York (NL) scored big getting 11
+runs off him in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 New York (NL) Mets
+M.Harris-A1  A1:G/63    *3*:G/63   *5*:L/3    D1:FO/2    E1:G/63
+                                                         
+                                                         
+R.Acuna-A1   A2:Si      B2:W>b1    C2:Si      D2:Si>12   E2:F/7
+                                                         
+                                                         
+C.Yelich-A1  A3:PB>12   B3:F/8     C3:K       D3:W>23 1  *8*:K
+             K                                2 b1       
+                                                         
+A.Riley-A1   A4:F/7     B4:K       C4:F/9     D4:K       E4:Si
+                                                         
+                                                         
+F.Freema-A1  *2*:W>b1   *4*:W>b1   *6*:Do     *7*:FO/2   E5:G/3>12
+                                                         
+                                                         
+J.Realmu-A1  A6:F/8     B6:K       C6:Do>2#   D6:Si      E6:F/8
+                                                         
+                                                         
+D.Swanso-A1  A7:Si>13   B7:Do>13   C7:HR>2#   D7:E/4>12  *9*:F/8
+                                   b#                    
+                                                         
+W.Contre-A1  A8:K       B8:K       C8:Si      D8:W>23 1  E8:G/3
+                                              2 b1       
+                                                         
+O.Albies-A1  A9:K       B9:P/4     C9:K       D9:HR>3#   E9:F/8
+                                              2# 1# b#   
+                                                         
+
+T.Grisha-A1  A1:Do      B1:F/8     C1:F/9     D1:Do>3#   E1:K
+                                              13         
+                                                         
+J.Candel-A1  A2:Do>2#   *2*:F/8    C2:K       D2:Tr>3#   E2:L/4
+                                              2#         
+                                                         
+E.Rosari-A1  A3:L/4     B3:Si      *4*:K      D3:Si>3#   *7*:G/3
+                                                         
+                                                         
+J.McNeil-A1  A4:Si>23   B4:Si>13   C4:Si      D4:F/8     E4:G/31
+                                                         
+                                                         
+P.Alonso-A1  A5:Si>3#   B5:HBP>12  C5:P/4     D5:Force/  E5:K
+             13                               64>1o b1   
+                                                         
+M.Ford-A1    A6:HR>3#   B6:Si>3#   C6:E/6>12  D6:Si>12   *8*:G/43
+C.Perez-C6   1# b#      2# 13                            
+N.Senzel-E6                                              
+G.Sanche-A1  A7:W>b1    B7:K       C7:L/5     D7:K       E7:K
+                                                         
+                                                         
+B.Perkin-A1  A8:K       B8:G/43    *5*:Si     *6*:P/6    E8:G/23
+A.Diaz-D8                                                
+M.Canha-E3                                               
+W.Franco-A1  A9:Si>13   *3*:L/4    C9:Si>13   D9:Do
+                                              
+                                              
+
+

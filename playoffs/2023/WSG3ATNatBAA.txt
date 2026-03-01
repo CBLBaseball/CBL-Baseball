@@ -1,0 +1,128 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 Baltimore Orioles            10/25/2023
+
+[1]  Braves             AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  R.Acuna RF          5  0  2  0 .302     K.Wong 2B           2  0  0  0 .258  
+  C.Yelich LF         4  0  0  0 .214     A.Rutschman C       3  0  0  0 .242  
+  A.Riley 3B          5  0  1  0 .163     Y.Alvarez DH        4  0  0  0 .274  
+  F.Freeman 1B        2  1  1  0 .244     A.Santander RF      3  0  0  0 .286  
+  J.Realmuto C        4  1  2  0 .341     K.Tucker CF         4  0  1  0 .262  
+  M.Harris CF         2  0  0  0 .200     R.Mountcastle 1B    3  0  1  0 .233  
+A-M.Taylor PH,CF      2  0  0  0 .278     A.Verdugo LF        3  0  0  0 .231  
+  W.Contreras DH      3  0  1  0 .355     G.Henderson 3B      3  0  0  0 .200  
+  N.Gordon 2B         2  0  0  1 .200     J.Mateo SS          3  0  0  0 .192  
+B-O.Albies PH,2B      2  0  1  0 .313                                          
+  D.Swanson SS        4  0  2  1 .311                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  2 10  2                 Totals      28  0  2  0
+
+A-Pinch Hit For Harris In 6th Inning
+B-Pinch Hit For Gordon In 6th Inning
+
+Braves.......... 0 2 0  0 0 0  0 0 0  -  2 10  1
+Orioles......... 0 0 0  0 0 0  0 0 0  -  0  2  0
+
+[1]Braves (10-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Mikolas WIN(4-0)           8       2   0   0   3   4   0   2.22  A1 D2
+D.Robertson SAVE(2nd)        1       0   0   0   1   3   0   6.75  D3
+[1]Totals                    9       2   0   0   4   7   0
+
+[1]Orioles (11-6)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Peralta LOSS(1-2)          4       7   2   2   2   7   0   2.25  A1 C2
+D.Tate                       1       0   0   0   1   0   0   2.45  C3 C5
+A.Vesia                      1 1/3   2   0   0   0   1   0   1.80  C6 D2
+D.Williams                   1 2/3   1   0   0   1   1   0   0.00  D3 D9
+F.Bautista                   1       0   0   0   0   3   0   0.00  E1
+[1]Totals                    9      10   2   2   4  12   0
+
+ATTENDANCE- 45,712 DATE- Wednesday, October 25th 2023 TIME- Night 
+UMPIRES- Sam Holbrook, Angel Hernandez, Jim Wolf, Dj Reyburn
+T- 2:46
+LEFT ON BASE- Braves:10  Orioles: 6
+DOUBLE PLAYS- Braves: 2  Orioles: 2
+ERRORS- N.Gordon
+DOUBLES- K.Tucker(2nd), R.Mountcastle(5th)
+RBIs- N.Gordon(4th), D.Swanson(11th)
+STOLEN BASES- R.Acuna-2(2nd)
+WALKS- C.Yelich, F.Freeman-2, W.Contreras, K.Wong-2, A.Rutschman, A.Santander
+HIT BY PITCH- R.Mountcastle
+STRIKE OUTS- R.Acuna-3, C.Yelich-3, A.Riley-2, M.Harris, M.Taylor,
+             W.Contreras-2, A.Rutschman, Y.Alvarez, A.Santander, K.Tucker,
+             R.Mountcastle, G.Henderson-2
+GIDP- A.Riley, F.Freeman, A.Rutschman, A.Verdugo
+WILD PITCHES- D.Williams
+2-out RBI- D.Swanson
+RLISP 2-out- R.Acuna, G.Henderson, J.Realmuto-3, A.Verdugo, D.Swanson
+TEAM RISP- Braves: 1 for 9  Orioles: 0 for 4
+
+Dansby Swanson had 2 base hits and Miles Mikolas had a strong outing as the
+Atlanta Braves topped the Baltimore Orioles by a score of 2 to 0 at Camden
+Yards.
+
+Atlanta tallied 2 runs in the top of the 2nd inning with the help of 3 hits.
+That scoring would be all that was needed.  The pitchers took over after the
+2nd inning as neither team was able to score again.  
+
+Mikolas(4-0) got credit for the victory, pitching 8 innings and allowing no
+runs. David Robertson gained credit for his 2nd save.  Freddy Peralta(1-2)
+was the losing pitcher.  He was unable to control the Atlanta offense and
+allowed 7 hits and 2 walks in 4 innings.  
+
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 Baltimore Orioles
+R.Acuna-A1   A1:K       B1:K       C1:Si>13   *7*:Si     *9*:K
+                                                         
+                                                         
+C.Yelich-A1  A2:K       *3*:K      C2:SB>12   D2:F/7     E2:K
+                                   W>b1                  
+                                                         
+A.Riley-A1   A3:K       B3:Si      C3:G-DP/6  D3:SB>12   E3:K
+                                   23>3o 23   G/43>23    
+                                   12                    
+F.Freema-A1  *2*:Si     B4:G-DP/6  C4:IW>b1   D4:IW>b1
+                        43>1o                 
+                                              
+J.Realmu-A1  A5:Si>12   *4*:Si     C5:F/8     D5:Force/
+                                              64>1o b1
+                                              
+M.Harris-A1  A6:F/8     B6:K       *6*:K      *8*:G/63
+M.Taylor-C6                                   
+                                              
+W.Contre-A1  A7:W>23 1  B7:K       C7:Si      D7:K
+             2 b1                             
+                                              
+N.Gordon-A1  A8:Force/  B8:G/53    C8:Force/  D8:Si
+O.Albies-C8  46>3# 23              14>1o b1   
+             1o b1                            
+D.Swanso-A1  A9:Si>3#   *5*:Si     C9:G/53    D9:WP>12
+             13                               G/63
+                                              
+
+K.Wong-A1    A1:E/4     B1:W>b1    C1:G/63    D1:W>b1
+                                              
+                                              
+A.Rutsch-A1  A2:K       B2:G-DP/4  C2:W>b1    D2:G/63
+                        63>1o                 
+                                              
+Y.Alvare-A1  A3:Force/  *4*:G/31   C3:G/43    *9*:K
+             46>1o b1                         
+                                              
+A.Santan-A1  A4:L/4     B4:K       *7*:F/9    D4:W>b1
+                                              
+                                              
+K.Tucker-A1  *2*:Do     B5:F/8     C5:G/63    D5:K
+                                              
+                                              
+R.Mountc-A1  A6:F/7     *5*:HBP    C6:Do      D6:K
+                                              
+                                              
+A.Verdug-A1  A7:G/3>23  B7:G-DP/5  C7:F/7
+                        43>1o      
+                                   
+G.Hender-A1  A8:FO/2    B8:K       *8*:K
+                                   
+                                   
+J.Mateo-A1   *3*:F/9    *6*:G/43   C9:F/8
+                                   
+                                   
+
+

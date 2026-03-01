@@ -1,0 +1,133 @@
+[1]BOXSCORE: 2023 Los Angeles(NL) Dodgers At 2023 New York (NL) Mets  10/20/2024
+
+[1]  Dodgers            AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  J.Berti DH          3  0  1  0 .263     J.McNeil 2B         4  2  3  1 .304  
+B-M.Muncy PH,DH       2  1  1  2 .261     P.Alonso 1B         5  1  1  2 .245  
+  C.Bellinger CF      5  1  2  1 .343     J.Candelario 3B     4  1  3  1 .241  
+  J.Turner 1B         2  0  1  0 .357     M.Canha RF          3  1  1  0 .226  
+  J.Donaldson 3B      3  0  0  0 .200   C-B.Perkins RF        0  0  0  0 .167  
+D-T.France PH         1  0  1  0 .333     F.Alvarez C         5  2  2  4 .156  
+F-E.Longoria 3B       0  0  0  0 .200     C.Perez DH          2  1  0  0 .250  
+  C.Seager SS         4  0  0  0 .111     T.Grisham CF        4  0  1  0 .128  
+  R.Castro 2B         3  0  0  0 .286     W.Franco SS         3  1  0  0 .262  
+E-C.Biggio PH,2B      1  0  1  0 .167     E.Rosario LF        4  0  1  1 .222  
+  W.Smith C           3  0  0  0 .194                                          
+  C.Taylor LF         4  0  0  0 .176                                          
+  S.Fairchild RF      2  0  0  0 .200                                          
+A-A.Verdugo PH,RF     1  1  0  0 .200                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  3  7  3                 Totals      34  9 12  9
+
+A-Pinch Hit For Fairchild In 7th Inning
+B-Pinch Hit For Berti In 7th Inning
+C-Subbed Defensively (RF) For Canha In 8th Inning
+D-Pinch Hit For Donaldson In 8th Inning
+E-Pinch Hit For Castro In 8th Inning
+F-Subbed Defensively (3B) For France In 8th Inning
+
+Dodgers......... 0 0 1  0 0 0  2 0 0  -  3  7  0
+Mets............ 7 0 0  0 1 0  0 1    -  9 12  0
+
+[1]Dodgers (4-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Gonsolin LOSS(0-1)      4 2/3  10   8   8   5   3   2  15.43  A1 D4
+A.Wantz                   3       2   1   1   1   3   1   5.79  D5 E7
+E.Phillips                0 1/3   0   0   0   0   0   0   2.70  E8
+[1]Totals                    8      12   9   9   6   6   3
+
+[1]Mets (11-3)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Quintana                4 2/3   4   1   1   2   6   1   2.79  A1 C3
+H.Neris WIN(2-1)          1 1/3   0   0   0   0   2   0   3.86  C4 C7
+A.Ottavino                1       1   2   2   1   1   1   9.64  C8 D3
+K.Ginkel                  1       2   0   0   0   1   0   2.53  D4 D8
+D.Robertson               1       0   0   0   0   1   0   3.00  D9
+[1]Totals                    9       7   3   3   3  11   2
+
+ATTENDANCE- 41,508 DATE- Sunday, October 20th 2024 TIME- Night 
+UMPIRES- Chris Guccione, Jordan Baker, Ryan Additon, Mark Carlson
+T- 3:25
+LEFT ON BASE- Dodgers: 8  Mets:11
+DOUBLE PLAYS- Dodgers: 0  Mets: 0
+DOUBLES- T.France(1st), M.Canha(2nd)
+HOME RUNS- M.Muncy(2nd), C.Bellinger(2nd), P.Alonso(4th), F.Alvarez-2(5th)
+RBIs- M.Muncy-2(4th), C.Bellinger(9th), J.McNeil(4th), P.Alonso-2(7th),
+      J.Candelario(10th), F.Alvarez-4(11th), E.Rosario(9th)
+SACRIFICE FLIES- J.McNeil
+WALKS- J.Turner, W.Smith, A.Verdugo, C.Perez-3, T.Grisham, W.Franco-2
+HIT BY PITCH- J.Turner, J.Candelario, M.Canha-2
+STRIKE OUTS- J.Berti, M.Muncy, J.Donaldson, C.Seager-2, R.Castro-3, W.Smith,
+             C.Taylor-2, J.McNeil, J.Candelario, M.Canha, F.Alvarez,
+             T.Grisham-2
+2-out RBI- C.Bellinger, J.Candelario
+RLISP 2-out- W.Franco-2, M.Canha, J.Donaldson-2, F.Alvarez, C.Taylor
+TEAM RISP- Dodgers: 1 for 5  Mets: 3 for 7
+
+Catcher Francisco Alvarez launched 2 homeruns and had 4 RBI as the New York
+(NL) Mets outscored the Los Angeles(NL) Dodgers 9 to 3.
+
+It was a good day for New York (NL) thanks to Alvarez.  He lofted a three-run
+'big-fly' in the 1st inning and smashed a bases-empty 'big-fly' in the 8th
+inning.  Overall New York (NL) out-hit Los Angeles(NL) 12 to 7.  
+
+Hector Neris(2-1) allowed no runs in 1 and 1/3 innings, and picked up the
+victory. Tony Gonsolin(0-1) was hit with the loss.  He was knocked around by
+New York (NL), allowing 10 hits and 5 walks in 4 and 2/3 innings.  
+
+[2]
+[1]SCORESHEET: 2023 Los Angeles(NL) Dodgers at 2023 New York (NL) Mets
+J.Berti-A1   A1:L/4     B1:K       C1:Si      D1:HR>1#   E1:K
+M.Muncy-D1                                    b#         
+                                                         
+C.Bellin-A1  A2:F/9     B2:HR>b#   C2:Si>13   D2:L/4     E2:P/5
+                                                         
+                                                         
+J.Turner-A1  A3:Si      B3:W>b1    C3:HBP>12  D3:L/5
+                                              
+                                              
+J.Donald-A1  A4:K       B4:Force/  C4:G/63    *8*:Do
+T.France-D4             64>1o b1              
+E.Longor-D9                                   
+C.Seager-A1  *2*:K      *4*:K      *6*:G/31   D5:G/53
+                                              
+                                              
+R.Castro-A1  A6:K       B6:K       C6:K       D6:Si>23
+C.Biggio-D6                                   
+                                              
+W.Smith-A1   A7:W>b1    B7:L/4     C7:K       D7:P/6
+                                              
+                                              
+C.Taylor-A1  A8:F/9     *5*:F/7    *7*:K      D8:K
+                                              
+                                              
+S.Fairch-A1  *3*:G/53   B9:F/7     C9:W>b1    *9*:G/43
+A.Verdug-C9                                   
+                                              
+
+J.McNeil-A1  A1:Si      B1:SF/7>3  C1:Si      D1:Si      *7*:K
+                        #                                
+                                                         
+P.Alonso-A1  A2:HR>1#   B2:F/8     C2:F/7     D2:G/43>1  E2:F/9
+             b#                               2          
+                                                         
+J.Candel-A1  A3:HBP     *2*:K      C3:Si>13   D3:Si>2#   E3:Si
+                                                         
+                                                         
+M.Canha-A1   A4:HBP>12  B4:Do      C4:K       D4:HBP>12  E4:G/63
+B.Perkin-E5                                              
+                                                         
+F.Alvare-A1  A5:HR>2#   B5:L/6     *4*:K      D5:F/7     *8*:HR>b#
+             1# b#                                       
+                                                         
+C.Perez-A1   A6:W>b1    B6:W>b1    C6:W>b1    *6*:G/63   E6:F/7
+                                                         
+                                                         
+T.Grisha-A1  A7:Si>13   B7:W>23 1  C7:F/9     D7:K       E7:K
+                        2 b1                             
+                                                         
+W.Franco-A1  A8:W>b1    B8:L/4     C8:F/8     D8:W>b1    E8:G/63
+                                                         
+                                                         
+E.Rosari-A1  A9:Si>3#   *3*:F/9    *5*:G/31   D9:G/3
+             13                               
+                                              
+
+

@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2023 New York (NL) Mets At 2023 Seattle Mariners         10/26/2024
+
+[1]  Mets               AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  J.McNeil 2B         4  0  0  0 .283     S.Steer 3B          2  0  0  1 .205  
+  P.Alonso 1B         4  0  0  0 .228     J.Crawford SS       5  1  1  3 .275  
+  J.Candelario 3B     4  1  2  0 .259     J.Soler DH          4  1  1  0 .156  
+  M.Canha RF          3  1  0  0 .206     K.Marte 2B          3  0  0  0 .227  
+D-G.Sanchez C         0  0  0  0 .111     J.Rodriguez CF      4  0  0  0 .116  
+  F.Alvarez C         3  0  0  0 .143     M.Kepler RF         4  1  2  0 .229  
+B-B.Perkins PH,RF     1  0  1  2 .231     S.Garrett LF        3  0  2  0 .200  
+  C.Perez DH          1  0  0  0 .222   E-J.Meyers PR         0  1  0  0 .100  
+A-N.Senzel PR,DH      0  0  0  0 .143     B.Belt 1B           4  0  0  0 .286  
+C-J.Votto PH,DH       1  0  0  0 .154     T.Murphy C          3  1  0  0 .154  
+  T.Grisham CF        2  0  0  0 .122                                          
+  W.Franco SS         2  0  0  0 .250                                          
+  E.Rosario LF        3  0  0  0 .211                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      28  2  3  2                 Totals      32  5  6  4
+
+A-Pinch Ran For Perez In 8th Inning
+B-Pinch Hit For Alvarez In 9th Inning
+C-Pinch Hit For Senzel In 9th Inning
+D-Subbed Defensively (C ) For Canha In 9th Inning
+E-Pinch Ran For Garrett In 9th Inning
+
+Mets............ 0 0 0  0 0 0  0 0 2  -  2  3  1
+Mariners........ 0 0 0  0 0 1  0 0 4  -  5  6  0
+
+[1]Mets (11-4)              IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Senga                   8       3   1   0   4   9   0   2.10  A1 D5
+D.Robertson L(0-2)B(2nd)  0 2/3   3   4   4   1   1   1   8.10  D6
+[1]Totals                    8 2/3   6   5   4   5  10   1
+
+[1]Mariners (9-3)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Webb                    7       1   0   0   1   3   0   1.93  A1 C5
+J.Jackson HOLD(3rd)       1       0   0   0   1   1   0   0.00  C6 C9
+A.Munoz WIN(1-0) BS(1st)  1       2   2   2   0   1   0   3.86  D1
+[1]Totals                    9       3   2   2   2   5   0
+
+ATTENDANCE- 47,670 DATE- Saturday, October 26th 2024 TIME- Night 
+UMPIRES- Chris Segal, Bill Welke, Andy Fletcher, Gabe Morales
+T- 3:12
+LEFT ON BASE- Mets: 4  Mariners: 7
+DOUBLE PLAYS- Mets: 0  Mariners: 1
+ERRORS- J.McNeil
+HOME RUNS- J.Crawford(3rd)
+RBIs- B.Perkins-2(6th), S.Steer(5th), J.Crawford-3(10th)
+STOLEN BASES- S.Steer(2nd), J.Meyers(1st)
+SACRIFICE HITS- T.Grisham
+SACRIFICE FLIES- S.Steer
+WALKS- C.Perez, W.Franco, S.Steer-2, K.Marte, S.Garrett, T.Murphy
+HIT BY PITCH- M.Canha, C.Perez
+STRIKE OUTS- P.Alonso-2, F.Alvarez, W.Franco, E.Rosario, J.Crawford, K.Marte,
+             J.Rodriguez-2, M.Kepler, B.Belt-2, T.Murphy-3
+GIDP- E.Rosario
+BALKS- A.Munoz-2
+WILD PITCHES- K.Senga
+PASSED BALLS- F.Alvarez
+2-out RBI- B.Perkins-2, J.Crawford-3
+RLISP 2-out- K.Marte, J.Crawford-2, B.Belt-2, E.Rosario, J.Votto
+TEAM RISP- Mets: 1 for 4  Mariners: 1 for 11
+
+Logan Webb took a no-hitter into the 7th inning as the Seattle Mariners came
+back to win one over New York (NL) Mets, 5 to 2.
+
+Seattle had the winning rally in the 9th inning when they came up with 4 runs
+on 3 hits.  The big moment was provided by J.P. Crawford who made the
+home-town crowd a happy bunch when he lofted a three-run bomb.  The teams had
+been locked in a scoreless duel until the 6th inning.  
+
+Andres Munoz(1-0) went 1 inning allowing 2 runs for the win.  The right-handed
+Webb lost his chance for a no-hitter when Jeimer Candelario singled with one
+out in the 7th inning.  David Robertson(0-2) was tagged with the loss in
+relief.  He gave up 3 hits and 1 walk in 2/3 of an inning.  
+
+[2]
+[1]SCORESHEET: 2023 New York (NL) Mets at 2023 Seattle Mariners
+J.McNeil-A1  A1:G/43    B1:L/4     C1:F/9     *9*:G/43
+                                              
+                                              
+P.Alonso-A1  A2:F/7     *4*:F/9    *7*:K      D2:K
+                                              
+                                              
+J.Candel-A1  A3:F/8     B3:G/43    C3:Si      D3:Si
+                                              
+                                              
+M.Canha-A1   *2*:L/5    B4:F/8     C4:F/8     D4:HBP>12
+G.Sanche-D7                                   
+                                              
+F.Alvare-A1  A5:L/6     *5*:L/6    C5:K       D5:Bk>23
+B.Perkin-D5                                   12 Si>3#
+                                              2#
+C.Perez-A1   A6:HBP     B6:F/7     *8*:W>b1   D6:Bk>12
+N.Senzel-C8                                   L/4
+J.Votto-D6                                    
+T.Grisha-A1  A7:G/43    B7:F/8     C7:Sac/14
+                                   >12
+                                   
+W.Franco-A1  *3*:K      *6*:W>b1   C8:G/63
+                                   
+                                   
+E.Rosari-A1  A9:FO/2    B9:G-DP/4  C9:K
+                        63>1o      
+                                   
+
+S.Steer-A1   A1:W>b1    B1:G/63    C1:IW>b1   D1:P/6     E1:SF/9>3
+                                                         # 23
+                                                         
+J.Crawfo-A1  A2:SB>12   B2:G/63    C2:K       D2:F/9     E2:HR>3#
+             G/63                                        1# b#
+                                                         
+J.Soler-A1   A3:G/13    *4*:G/43   *6*:Si     *8*:G/43
+                                              
+                                              
+K.Marte-A1   A4:K       B4:L/4     C4:W>12 b  D4:L/4
+                                   1          
+                                              
+J.Rodrig-A1  *2*:G/13   B5:K       C5:F/9     D5:K
+                                              
+                                              
+M.Kepler-A1  A6:G/13    *5*:Si     C6:WP>23   *9*:Si
+                                   12 K       
+                                              
+S.Garret-A1  A7:E/4     B7:Si>13   C7:IW>b1   D7:Si>13
+J.Meyers-D8                                   
+                                              
+B.Belt-A1    A8:K       B8:G/63>1  C8:PB>3#   D8:SB>12
+                        2          23 12 G/6  K
+                                   3          
+T.Murphy-A1  *3*:K      B9:K       *7*:K      D9:IW>b1
+                                              
+                                              
+
+

@@ -1,0 +1,134 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 Chicago (NL) Cubs             10/5/2023
+
+[1]  Braves             AB  R  H RBI AVG     Cubs               AB  R  H RBI AVG
+  C.Yelich LF         4  0  1  0 .167     N.Hoerner SS        3  0  0  0 .091  
+  D.Swanson SS        4  0  1  1 .385     R.Ortega CF         3  0  0  0 .083  
+  F.Freeman 1B        4  0  0  0 .250   A-K.Bryant PH,LF      1  0  0  0 .000  
+  A.Riley 3B          4  0  0  0 .154     I.Happ LF,CF        4  0  0  0 .083  
+  J.Realmuto C        3  1  1  0 .364     K.Schwarber DH      2  1  0  0 .273  
+  R.Acuna RF          3  1  1  1 .500     P.Wisdom 3B         4  1  2  2 .375  
+C-M.Harris RF         0  0  0  0 .667     L.Gonzalez RF       4  1  2  0 .300  
+  M.Taylor CF         4  0  2  0 .250     T.Mancini 1B        4  1  1  2 .455  
+  M.Garver DH         2  0  0  0 .333     L.Rengifo 2B        3  0  0  0 .100  
+B-N.Gordon PH,DH      1  0  0  0 .200     W.Contreras C       3  0  1  0 .222  
+  O.Albies 2B         3  1  2  1 .429                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  3  8  3                 Totals      31  4  6  4
+
+A-Pinch Hit For Ortega In 8th Inning
+B-Pinch Hit For Garver In 9th Inning
+C-Subbed Defensively (RF) For Acuna In 9th Inning
+
+Braves.......... 0 1 1  0 0 0  1 0 0  -  3  8  1
+Cubs............ 0 2 0  0 0 0  0 0 2  -  4  6  0
+
+[1]Braves (2-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Strider                 6       4   2   2   3  11   1   3.00  A1 C7
+C.De Jong HOLD(1st)       1       0   0   0   0   0   0   0.00  C8 D1
+D.Lee HOLD(1st)           1       0   0   0   0   0   0   0.00  D2 D5
+D.Robertson L(0-1)B(1st)  0       2   2   2   0   0   1  40.50  D6
+[1]Totals                    8       6   4   4   3  11   2
+
+[1]Cubs (1-2)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Steele                  5       5   2   2   1   7   0   3.60  A1 C2
+J.Beeks                   2 1/3   2   1   1   2   5   0   3.38  C3 D4
+R.Lopez WIN(1-0)          1 2/3   1   0   0   0   3   0   0.00  D5
+[1]Totals                    9       8   3   3   3  15   0
+
+ATTENDANCE- 37,742 DATE- Thursday, October 5th 2023 TIME- Night 
+UMPIRES- Mike Estabrook, Nic Lentz, Ted Barrett, Lance Barksdale
+T- 2:29
+LEFT ON BASE- Braves: 7  Cubs: 6
+DOUBLE PLAYS- Braves: 0  Cubs: 1
+ERRORS- R.Acuna
+DOUBLES- M.Taylor(1st), O.Albies-2(2nd), P.Wisdom(1st)
+TRIPLES- J.Realmuto(1st)
+HOME RUNS- P.Wisdom(1st), T.Mancini(2nd)
+RBIs- D.Swanson(5th), R.Acuna(2nd), O.Albies(3rd), P.Wisdom-2(3rd),
+      T.Mancini-2(6th)
+SACRIFICE HITS- O.Albies
+SACRIFICE FLIES- R.Acuna
+WALKS- C.Yelich, J.Realmuto, M.Garver, N.Hoerner, K.Schwarber-2
+STRIKE OUTS- C.Yelich-3, D.Swanson-2, F.Freeman-2, A.Riley-3, J.Realmuto,
+             R.Acuna, M.Taylor, M.Garver, N.Gordon, R.Ortega-3, I.Happ-2,
+             K.Schwarber, P.Wisdom, L.Gonzalez, T.Mancini-2, W.Contreras
+2-out RBI- D.Swanson
+RLISP 2-out- M.Garver-2, R.Ortega, T.Mancini-2, F.Freeman-2, P.Wisdom, C.Yelich
+TEAM RISP- Braves: 2 for 7  Cubs: 0 for 5
+
+In a thrilling finish the Chicago (NL) Cubs won in dramatic fashion coming
+back to beat the Atlanta Braves by the count of 4 to 3.
+
+Chicago (NL) scored the winning runs in the 9th inning with 2 runs utilizing 2
+base hits.  Luis Gonzalez led off and got things going when he lined a
+single.  Trey Mancini followed and he smashed a two-run homer making Chicago
+(NL) the victors to the delight of the home town faithful.  Chicago (NL) had
+only 6 hits for the game.  
+
+The winning pitcher was Reynaldo Lopez(1-0) who allowed no runs in 1 and 2/3
+innings. David Robertson(0-1) was the loser in relief.  He was unable to
+retire a batter giving up 2 hits and no walks.
+
+Lopez and Patrick Wisdom were really whooping it up in the clubhouse after the
+great come from behind victory.  As John Arient noted, 'A win like this one
+can do wonders for a team's attitude.' Everyone shares in the joy - the fans,
+the players - even you guys - it's better than winning by a dozen runs!'
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 Chicago (NL) Cubs
+C.Yelich-A1  A1:Si      B1:K       C1:K       D1:W>b1    E1:K
+                                                         
+                                                         
+D.Swanso-A1  A2:K       B2:Si>2#   C2:G/63    D2:K
+                                              
+                                              
+F.Freema-A1  A3:L-DP/4  B3:K       *6*:G/43   D3:K
+             3>1o                             
+                                              
+A.Riley-A1   *2*:K      *4*:F/8    C4:K       *8*:K
+                                              
+                                              
+J.Realmu-A1  A5:Tr      B5:W>b1    C5:K       D5:F/9
+                                              
+                                              
+R.Acuna-A1   A6:SF/7>3  B6:F/8     *7*:Si     D6:K
+M.Harris-E2  #                                
+                                              
+M.Taylor-A1  A7:K       B7:Do>13   C7:G/43>1  *9*:Si
+                                   2          
+                                              
+M.Garver-A1  *3*:K      B8:F/8     C8:W>b1    D8:K
+N.Gordon-D8                                   
+                                              
+O.Albies-A1  A9:Do      *5*:P/6    C9:Do>2#   D9:Sac/14
+                                   13         >12
+                                              
+
+N.Hoerne-A1  A1:G/43    B1:W>b1    C1:G/63>1  D1:L/6
+                                   2          
+                                              
+R.Ortega-A1  A2:K       B2:K       C2:K       *8*:F/9
+K.Bryant-D2                                   
+                                              
+I.Happ-A1    A3:P/2     B3:K       *6*:K      D3:E/9>b2
+                                              
+                                              
+K.Schwar-A1  *2*:W>b1   *4*:K      C4:W>b1    D4:F/8
+                                              
+                                              
+P.Wisdom-A1  A5:HR>1#   B5:K       C5:Do>13   D5:L/6
+             b#                               
+                                              
+L.Gonzal-A1  A6:F/8     B6:Si      C6:K       *9*:Si
+                                              
+                                              
+T.Mancin-A1  A7:K       B7:K       C7:G/13    D7:HR>1#
+                                              b#
+                                              
+L.Rengif-A1  A8:G/53    *5*:F/8    *7*:F/9
+                                   
+                                   
+W.Contre-A1  *3*:K      B9:Si      C9:G/63
+                                   
+                                   
+
+

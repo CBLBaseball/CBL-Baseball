@@ -1,0 +1,127 @@
+[1]BOXSCORE: 2023 Cleveland Indians At 2023 Baltimore Orioles         10/15/2023
+
+[1]  Indians            AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  S.Kwan LF           4  0  0  0 .294     K.Wong 2B           3  1  1  0 .280  
+  F.Lindor SS         4  0  1  0 .273   A-C.Hernandez PH,2B   1  0  0  0 .200  
+  J.Ramirez 3B        4  0  3  0 .333     A.Rutschman C       3  0  2  1 .269  
+  C.Cron 1B           3  0  0  0 .222   B-Y.Grandal PH,C      1  0  0  0 .267  
+  J.Naylor DH         3  0  0  0 .238     Y.Alvarez DH        4  0  2  1 .302  
+  O.Gonzalez RF       3  0  0  0 .167     A.Santander RF      3  0  0  0 .298  
+  A.Gimenez 2B        3  0  1  0 .194   C-A.Thomas PR,CF      0  0  0  0 .188  
+  J.Heim C            3  0  0  0 .227     K.Tucker CF,RF      4  0  1  0 .289  
+  C.Mullins CF        3  0  0  0 .192     R.Mountcastle 1B    3  0  0  0 .214  
+                                          A.Verdugo LF        3  0  1  0 .273  
+                                        D-A.Hays LF           0  0  0  0 .200  
+                                          G.Henderson 3B      3  0  1  0 .286  
+                                        E-R.Urias 3B          0  0  0  0 .179  
+                                          J.Mateo SS          2  1  0  0 .194  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  5  0                 Totals      30  2  8  2
+
+A-Pinch Hit For Wong In 7th Inning
+B-Pinch Hit For Rutschman In 7th Inning
+C-Pinch Ran For Santander In 8th Inning
+D-Subbed Defensively (LF) For Verdugo In 9th Inning
+E-Subbed Defensively (3B) For Henderson In 9th Inning
+
+Indians......... 0 0 0  0 0 0  0 0 0  -  0  5  0
+Orioles......... 1 0 1  0 0 0  0 0    -  2  8  0
+
+[1]Indians (5-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Bieber LOSS(1-2)           6       8   2   2   1   4   0   2.95  A1 C8
+C.Perez                      2       0   0   0   1   2   0   3.18  C9
+[1]Totals                    8       8   2   2   2   6   0
+
+[1]Orioles (8-4)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Alcantara WIN(3-1)         7 2/3   5   0   0   0   5   0   4.70  A1 C8
+J.Moran HOLD(3rd)            0 2/3   0   0   0   0   2   0   0.00  C9 D1
+F.Bautista SAVE(1st)         0 2/3   0   0   0   0   2   0   0.00  D2
+[1]Totals                    9       5   0   0   0   9   0
+
+ATTENDANCE- 43,121 DATE- Sunday, October 15th 2023 TIME- Night 
+UMPIRES- Pat Hoberg, Paul Emmel, James Hoye, Bruce Dreckman
+T- 2:35
+LEFT ON BASE- Indians: 3  Orioles: 6
+DOUBLE PLAYS- Indians: 2  Orioles: 2
+DOUBLES- A.Gimenez(1st), A.Rutschman(2nd), Y.Alvarez(2nd)
+RBIs- A.Rutschman(4th), Y.Alvarez(13th)
+WALKS- A.Santander, J.Mateo
+STRIKE OUTS- S.Kwan, F.Lindor-2, J.Ramirez, J.Naylor, O.Gonzalez, A.Gimenez,
+             J.Heim, C.Mullins, C.Hernandez, Y.Alvarez, A.Santander-2, K.Tucker,
+             G.Henderson
+GIDP- C.Cron-2, K.Tucker, R.Mountcastle
+2-out RBI- Y.Alvarez
+RLISP 2-out- K.Tucker, A.Santander, R.Mountcastle, Y.Grandal, C.Mullins
+TEAM RISP- Indians: 0 for 3  Orioles: 1 for 12
+
+Catcher Adley Rutschman had 2 base hits at Camden Yards where the Baltimore
+Orioles beat the Cleveland Indians 2 to 0.
+
+Baltimore drew first blood jumping out to an early lead in the first inning
+plating one baserunner utilizing 2 base hits.  The early run support proved
+sufficient for Sandy Alcantara(3-1) and Baltimore.  That was all the run
+support Alcantara required.  Neither team managed to score after the 3rd
+inning.  
+
+Alcantara got relief help from Felix Bautista who gained credit for his 1st
+save.  Shane Bieber(1-2) was charged with the loss.  
+
+[2]
+[1]SCORESHEET: 2023 Cleveland Indians at 2023 Baltimore Orioles
+S.Kwan-A1    A1:G/13    B1:FO/3    C1:G/63    *9*:K
+                                              
+                                              
+F.Lindor-A1  A2:Si      *4*:G/43   *7*:K      D2:K
+                                              
+                                              
+J.Ramire-A1  A3:Si>13   B3:Si      C3:Si      D3:K
+                                              
+                                              
+C.Cron-A1    A4:G-DP/4  B4:G-DP/6  C4:Force/
+             63>1o      43>1o      46>1o b1
+                                   
+J.Naylor-A1  *2*:G/43   *5*:G/43   C5:K
+                                   
+                                   
+O.Gonzal-A1  A6:F/7     B6:G/13    *8*:K
+                                   
+                                   
+A.Gimene-A1  A7:K       B7:G/31    C7:Do
+                                   
+                                   
+J.Heim-A1    *3*:K      *6*:F/8    C8:P/4
+                                   
+                                   
+C.Mullin-A1  A9:G/31    B9:G/63    C9:K
+                                   
+                                   
+
+K.Wong-A1    A1:Si      B1:G/3>12  C1:F/9     D1:K
+C.Hernan-D1                                   
+                                              
+A.Rutsch-A1  A2:Do>1#   B2:G/43>2  *6*:Si     D2:F/8
+Y.Granda-D2             3                     
+                                              
+Y.Alvare-A1  A3:G/63    B3:Do>3#   C3:Si>12   *8*:K
+                                              
+                                              
+A.Santan-A1  A4:K       B4:P/6     C4:K       D4:W>b1
+A.Thomas-D5                                   
+                                              
+K.Tucker-A1  A5:K       *4*:Si     C5:L/3     D5:G-DP/1
+                                              63>1o
+                                              
+R.Mountc-A1  *2*:F/8    B6:G-DP/5  C6:F/7
+                        43>1o      
+                                   
+A.Verdug-A1  A7:G/43    B7:F/7     *7*:Si
+A.Hays-D6                          
+                                   
+G.Hender-A1  A8:G/43    *5*:K      C8:Si>12
+R.Urias-D6                         
+                                   
+J.Mateo-A1   *3*:W>b1   B9:G/53    C9:P/6
+                                   
+                                   
+
+

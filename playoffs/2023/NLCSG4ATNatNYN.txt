@@ -1,0 +1,121 @@
+[1]BOXSCORE: 2023 Atlanta Braves At 2023 New York (NL) Mets           10/16/2023
+
+[1]  Braves             AB  R  H RBI AVG     Mets               AB  R  H RBI AVG
+  C.Yelich LF         3  0  0  0 .219     J.Bell DH           4  0  1  0 .217  
+A-O.Albies 2B         0  0  0  0 .231     M.Canha LF          4  0  0  0 .154  
+  A.Riley 3B          4  0  0  0 .158     J.McNeil 2B         4  0  1  0 .289  
+  M.Harris CF         4  0  0  0 .238     P.Alonso 1B         4  0  0  0 .237  
+  R.Acuna RF          4  0  0  0 .313     E.Escobar 3B        3  0  0  0 .310  
+  F.Freeman 1B        3  1  1  0 .222     T.D'Arnaud C        3  0  1  0 .286  
+  W.Contreras DH      3  1  2  2 .364     R.Tapia RF          3  0  1  0 .217  
+  N.Gordon 2B         3  0  0  0 .190     T.Grisham CF        2  0  0  0 .065  
+B-M.Taylor LF         0  0  0  0 .231     J.Iglesias SS       3  0  1  0 .143  
+  D.Swanson SS        3  0  0  0 .303                                          
+  J.Realmuto C        3  0  0  0 .303                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  3  2                 Totals      30  0  5  0
+
+A-Subbed Defensively (2B) For Yelich In 9th Inning
+B-Subbed Defensively (LF) For Gordon In 9th Inning
+
+Braves.......... 0 0 0  0 2 0  0 0 0  -  2  3  0
+Mets............ 0 0 0  0 0 0  0 0 0  -  0  5  0
+
+[1]Braves (8-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Fried WIN(2-0)          8       5   0   0   1   6   0   1.13  A1 D2
+A.Minter SAVE(1st)        1       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       5   0   0   1   7   0
+
+[1]Mets (6-5)               IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Taillon LOSS(1-1)       6       3   2   2   2   2   1   3.86  A1 C5
+H.Harvey                  1       0   0   0   0   2   0  13.50  C6 C8
+A.Ottavino                1       0   0   0   0   2   0   1.42  C9 D2
+A.Cimber                  1       0   0   0   0   0   0   4.91  D3
+[1]Totals                    9       3   2   2   2   6   1
+
+ATTENDANCE- 40,223 DATE- Monday, October 16th 2023 TIME- Night 
+UMPIRES- Jim Wolf, Dj Reyburn, Sam Holbrook, Angel Hernandez
+T- 2:34
+LEFT ON BASE- Braves: 3  Mets: 5
+DOUBLE PLAYS- Braves: 1  Mets: 0
+DOUBLES- F.Freeman(4th), W.Contreras(2nd)
+HOME RUNS- W.Contreras(3rd)
+RBIs- W.Contreras-2(8th)
+SACRIFICE HITS- T.Grisham
+WALKS- C.Yelich, F.Freeman, E.Escobar
+STRIKE OUTS- C.Yelich, A.Riley, N.Gordon, D.Swanson-2, J.Realmuto, J.Bell,
+             M.Canha, J.McNeil, E.Escobar, T.D'Arnaud, R.Tapia-2
+WILD PITCHES- M.Fried
+RLISP 2-out- N.Gordon, J.Bell, R.Acuna, D.Swanson
+TEAM RISP- Braves: 0 for 6  Mets: 0 for 4
+WEB GEMS- Bot 2nd: Max Fried robbed Eduardo Escobar of a base hit.
+
+At Citi Field, the New York (NL) fans witnessed a great pitcher's duel.  Max
+Fried(2-0) finally bested his New York (NL) opposite, Jameson Taillon(1-1),
+by the score of 2 to 0.
+
+Atlanta scored 2 runs in the 5th inning.  The key offensive moment was
+provided by William Contreras who silenced the stadium when he cracked a
+two-run shot.  A.J. Minter earned the save with a perfect ninth, his 1st
+save.  
+
+Taillon was the losing pitcher.  He allowed 3 hits and 2 walks in 6 innings.
+[2]
+[1]SCORESHEET: 2023 Atlanta Braves at 2023 New York (NL) Mets
+C.Yelich-A1  A1:G/53    B1:K       *6*:W>b1   D1:G/63
+O.Albies-D6                                   
+                                              
+A.Riley-A1   A2:G/43    *4*:G/63   C2:G/43>1  D2:K
+                                   2          
+                                              
+M.Harris-A1  A3:G/43    B3:G/43    C3:G/63>2  *9*:G/13
+                                   3          
+                                              
+R.Acuna-A1   *2*:F/8    B4:G/13    C4:P/2     D4:F/8
+                                              
+                                              
+F.Freema-A1  A5:G/43    *5*:W>b1   *7*:Do     D5:F/9
+                                              
+                                              
+W.Contre-A1  A6:Do      B6:HR>1#   C6:G/63
+                        b#         
+                                   
+N.Gordon-A1  A7:L/4     B7:F/9     C7:K
+M.Taylor-D6                        
+                                   
+D.Swanso-A1  *3*:K      B8:L/6     C8:K
+                                   
+                                   
+J.Realmu-A1  A9:G/63    B9:G/63    *8*:K
+                                   
+                                   
+
+J.Bell-A1    A1:G/63    B1:Si      C1:L/5     D1:K
+                                              
+                                              
+M.Canha-A1   A2:K       B2:Force/  *6*:G/53   D2:F/8
+                        64>1o b1              
+                                              
+J.McNeil-A1  A3:P/6     *4*:Si     C3:G/43    *9*:K
+                                              
+                                              
+P.Alonso-A1  *2*:G/53   B4:WP>12   C4:G/63    D4:F/7
+                        G/53                  
+                                              
+E.Escoba-A1  A5:G/13    B5:IW>b1   *7*:K      D5:F/9
+                                              
+                                              
+T.D'Arna-A1  A6:Si      B6:L-DP/5  C6:K
+                        4>2o       
+                                   
+R.Tapia-A1   A7:K       *5*:Si     C7:K
+                                   
+                                   
+T.Grisha-A1  *3*:G/13   B8:Sac/14  *8*:F/7
+                        >12        
+                                   
+J.Iglesi-A1  A9:F/9     B9:G/43>2  C9:Si
+                        3          
+                                   
+
+

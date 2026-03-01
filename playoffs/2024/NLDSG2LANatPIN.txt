@@ -1,0 +1,123 @@
+[1]BOXSCORE: 2023 Los Angeles(NL) Dodgers At 2023 Pittsburgh Pirates   10/7/2024
+
+[1]  Dodgers            AB  R  H RBI AVG     Pirates            AB  R  H RBI AVG
+  C.Seager SS         5  0  1  0 .222     J.Pena SS           4  1  1  0 .250  
+  W.Smith C           3  0  0  0 .250     H.Kim 2B            4  2  2  1 .333  
+  M.Muncy 3B          2  0  0  0 .250     K.Hayes 3B          5  2  3  2 .556  
+  C.Bellinger CF      4  0  0  0 .444     C.Santana 1B        2  1  0  0 .167  
+  A.Knizner DH        3  0  1  0 .167     B.Reynolds CF       4  0  1  1 .200  
+A-A.Verdugo PH,DH     1  0  0  0 .200     R.Grossman LF       4  1  2  1 .286  
+  D.Stewart RF        3  1  2  0 .667     A.McCutchen DH      3  1  2  1 .500  
+B-J.Turner PH         1  0  0  0 .000     S.Marte RF          4  1  1  0 .125  
+  T.France 1B         3  0  2  0 .429     K.Higashioka C      4  1  1  4 .286  
+  C.Biggio 2B         3  0  0  0 .000                                          
+C-R.Castro PH         1  0  1  01.000                                          
+  C.Taylor LF         3  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  1  7  0                 Totals      34 10 13 10
+
+A-Pinch Hit For Knizner In 8th Inning
+B-Pinch Hit For Stewart In 9th Inning
+C-Pinch Hit For Biggio In 9th Inning
+
+Dodgers......... 0 1 0  0 0 0  0 0 0  -  1  7  0
+Pirates......... 0 0 0  3 3 0  0 4    - 10 13  0
+
+[1]Dodgers (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Kershaw LOSS(0-1)       8      13  10  10   5   5   1  11.25  A1
+[1]Totals                    8      13  10  10   5   5   1
+
+[1]Pirates (1-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Kelly WIN(1-0)          8       5   1   1   3   8   0   1.13  A1 D5
+A.Abreu                   1       2   0   0   0   1   0   0.00  D6
+[1]Totals                    9       7   1   1   3   9   0
+
+ATTENDANCE- 32,328 DATE- Monday, October 7th 2024 TIME- Day 
+UMPIRES- Adrian Johnson, John Tumpane, Ryan Blakney, Marvin Hudson
+T- 2:47
+LEFT ON BASE- Dodgers: 9  Pirates: 5
+DOUBLE PLAYS- Dodgers: 3  Pirates: 2
+DOUBLES- C.Seager(1st), A.Knizner(1st), R.Castro(1st), H.Kim(1st), K.Hayes(2nd)
+TRIPLES- D.Stewart(1st), K.Hayes(1st)
+HOME RUNS- K.Higashioka(1st)
+RBIs- H.Kim(1st), K.Hayes-2(3rd), B.Reynolds(1st), R.Grossman(2nd),
+      A.McCutchen(2nd), K.Higashioka-4(4th)
+WALKS- W.Smith, M.Muncy-2, J.Pena, H.Kim, C.Santana-2, A.McCutchen
+HIT BY PITCH- T.France, C.Taylor
+STRIKE OUTS- C.Seager, M.Muncy, C.Bellinger, A.Knizner, D.Stewart, T.France,
+             C.Biggio, C.Taylor-2, H.Kim, C.Santana, B.Reynolds, R.Grossman,
+             S.Marte
+GIDP- C.Bellinger, C.Biggio, K.Hayes-2, A.McCutchen
+BALKS- M.Kelly
+RLISP 2-out- C.Bellinger-2, C.Taylor, K.Higashioka, T.France, C.Seager-2
+TEAM RISP- Dodgers: 0 for 10  Pirates: 6 for 11
+
+The Los Angeles(NL) Dodgers pitching coach might be looking for a new job
+soon.  His team allowed 10 runs while Merrill Kelly(1-0), with relief help
+from Albert Abreu, held Los Angeles(NL) to 1 run in a laugher.
+
+Pittsburgh jumped on top to stay in the 4th inning scoring 3 runners on 3
+hits.  Pittsburgh ended up with 13 hits for the game while Los Angeles(NL)
+had 7.  
+
+Clayton Kershaw(0-1) took the loss.  He got hit hard, allowing 13 hits and 5
+walks in 8 innings.
+[2]
+[1]SCORESHEET: 2023 Los Angeles(NL) Dodgers at 2023 Pittsburgh Pirates
+C.Seager-A1  A1:Do      B1:G/43    *5*:F/8    D1:K       E1:G/53
+                                                         
+                                                         
+W.Smith-A1   A2:G/13    B2:W>b1    C2:F/9     D2:P/6
+                                              
+                                              
+M.Muncy-A1   A3:G/43>2  B3:W>12 b  C3:K       *8*:W>b1
+             3          1                     
+                                              
+C.Bellin-A1  A4:FO/2    B4:K       *6*:L/3    D4:G-DP/4
+                                              63>1o
+                                              
+A.Knizne-A1  *2*:K      *4*:G/43   C5:Do      D5:P/4
+A.Verdug-D5                                   
+                                              
+D.Stewar-A1  A6:Tr      B6:Si      C6:K       *9*:L/6
+J.Turner-D6                                   
+                                              
+T.France-A1  A7:Bk>3#   B7:HBP>12  C7:K       D7:Si
+             Si                               
+                                              
+C.Biggio-A1  A8:G-DP/4  B8:F/8     *7*:K      D8:Do>13
+R.Castro-D8  63>1o                            
+                                              
+C.Taylor-A1  *3*:G/63   B9:K       C9:HBP     D9:K
+                                              
+                                              
+
+J.Pena-A1    A1:F/8     B1:G/43    *5*:W>b1   D1:G/53    E1:Si
+                                                         
+                                                         
+H.Kim-A1     A2:Si      *4*:W>b1   C2:Do>1#   *7*:K      E2:P/6
+                                                         
+                                                         
+K.Hayes-A1   A3:G-DP/4  B3:Tr>1#   C3:Do>2#   D3:Si      E3:G-DP/6
+             63>1o                                       43>1o
+                                                         
+C.Santan-A1  *2*:K      B4:W>b1    C4:W>b1    D4:F/8
+                                              
+                                              
+B.Reynol-A1  A5:F/7     B5:G/31>1  C5:Si>2#   D5:K
+                        2          13         
+                                              
+R.Grossm-A1  A6:F/8     B6:Si>3#   C6:K       *8*:Si
+                        23                    
+                                              
+A.McCutc-A1  *3*:W>b1   B7:Si>3#   C7:G-DP/6  D7:Si>12
+                        12         43>1o      
+                                              
+S.Marte-A1   A8:L/5     B8:K       *6*:F/9    D8:Si>23
+                                              12
+                                              
+K.Higash-A1  A9:F/8     B9:G/43    C9:L/6     D9:HR>3#
+                                              2# 1# b#
+                                              
+
+

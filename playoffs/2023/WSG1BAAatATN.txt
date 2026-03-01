@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2023 Baltimore Orioles At 2023 Atlanta Braves            10/22/2023
+
+[1]  Orioles            AB  R  H RBI AVG     Braves             AB  R  H RBI AVG
+  K.Wong 2B           3  1  1  1 .276     R.Acuna RF          4  0  1  0 .306  
+C-C.Hernandez PH,2B   1  0  1  0 .269     C.Yelich LF         2  1  1  0 .235  
+  A.Rutschman C       3  0  1  1 .267   E-A.Call PH,LF        1  0  1  0 .500  
+D-Y.Grandal PH,C      1  0  0  0 .190     A.Riley 3B          4  1  1  2 .167  
+  Y.Alvarez DH        4  1  1  0 .296     F.Freeman 1B        4  0  2  0 .250  
+  A.Santander LF      4  0  0  0 .298     J.Realmuto C        3  0  0  0 .278  
+  K.Tucker RF         4  1  1  1 .281     M.Harris CF         2  0  0  0 .217  
+  R.Mountcastle 1B    4  0  2  1 .226   A-M.Garver PH         1  0  0  0 .250  
+  R.Urias 3B          4  0  0  0 .135   B-M.Taylor CF         1  0  0  0 .214  
+  A.Thomas CF         4  1  1  0 .200     W.Contreras DH      4  0  1  0 .346  
+  J.Mateo SS          3  0  0  0 .200     N.Gordon 2B         4  0  0  0 .160  
+                                          D.Swanson SS        4  0  1  0 .297  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      35  4  8  4                 Totals      34  2  8  2
+
+A-Pinch Hit For Harris In 6th Inning
+B-Subbed Defensively (CF) For Garver In 7th Inning
+C-Pinch Hit For Wong In 7th Inning
+D-Pinch Hit For Rutschman In 7th Inning
+E-Pinch Hit For Yelich In 7th Inning
+
+Orioles......... 0 0 2  0 0 2  0 0 0  -  4  8  0
+Braves.......... 2 0 0  0 0 0  0 0 0  -  2  8  0
+
+[1]Orioles (11-4)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Alcantara WIN(4-1)         5 1/3   6   2   2   1   2   1   4.50  A1 C5
+J.Moran HOLD(5th)            1       0   0   0   0   2   0   0.00  C6 C8
+D.Tate HOLD(3rd)             0 1/3   1   0   0   0   1   0   3.60  C9 D1
+A.Vesia                      0       1   0   0   0   0   0   2.45  D2 D2
+P.Fairbanks HOLD(2nd)        1 1/3   0   0   0   0   2   0   0.00  D3 D6
+J.Adam SAVE(6th)             1       0   0   0   0   2   0   0.00  D7
+[1]Totals                    9       8   2   2   1   9   1
+
+[1]Braves (8-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Strider LOSS(1-1)          6       7   4   4   0   5   0   4.67  A1 C7
+D.Lee                        1       1   0   0   0   1   0   0.00  C8 D2
+C.De Jong                    2       0   0   0   0   1   0   0.00  D3
+[1]Totals                    9       8   4   4   0   7   0
+
+ATTENDANCE- 39,235 DATE- Sunday, October 22nd 2023 TIME- Night 
+UMPIRES- Alan Porter, Quinn Wolcott, Jeremie Rehak, Mark Wegner
+T- 2:43
+LEFT ON BASE- Orioles: 4  Braves: 7
+DOUBLE PLAYS- Orioles: 1  Braves: 0
+DOUBLES- K.Wong(1st), A.Rutschman(3rd), K.Tucker(1st), R.Mountcastle-2(4th),
+         A.Thomas(1st), C.Yelich(3rd)
+HOME RUNS- A.Riley(2nd)
+RBIs- K.Wong(3rd), A.Rutschman(5th), K.Tucker(16th), R.Mountcastle(2nd),
+      A.Riley-2(5th)
+STOLEN BASES- A.Call(1st)
+WALKS- C.Yelich
+HIT BY PITCH- J.Realmuto
+STRIKE OUTS- A.Rutschman, Y.Alvarez, A.Santander, R.Mountcastle, R.Urias,
+             J.Mateo-2, R.Acuna, C.Yelich, J.Realmuto, M.Garver, M.Taylor,
+             W.Contreras, N.Gordon, D.Swanson-2
+GIDP- N.Gordon
+2-out RBI- K.Wong, A.Rutschman, K.Tucker, R.Mountcastle
+RLISP 2-out- Y.Alvarez, R.Urias-2, W.Contreras-2, A.Riley-2
+TEAM RISP- Orioles: 3 for 7  Braves: 1 for 5
+
+In a good matchup it was the Baltimore Orioles 4, the Atlanta Braves 2 at
+Truist Park.
+
+Baltimore brought 2 runs across the plate in the 6th inning with the help of 3
+hits.  It was enough to earn the victory.  Both teams totaled 8 hits on the
+night.  
+
+The win was credited to Sandy Alcantara(4-1) who went 5 and 1/3 innings
+allowing 2 runs. Jason Adam was credited with his 6th save.  Spencer
+Strider(1-1) ended up with the loss.  
+
+'Wow.  That's about all I can think to say.' said Kevin Gordon following the
+victory.  'If ever a team needed a win, it was us.'
+[2]
+[1]SCORESHEET: 2023 Baltimore Orioles at 2023 Atlanta Braves
+K.Wong-A1    A1:G/63    B1:Do>3#   C1:G/43    D1:Si
+C.Hernan-D1                                   
+                                              
+A.Rutsch-A1  A2:K       B2:Do>2#   *6*:G/63   D2:G/43
+Y.Granda-D2                                   
+                                              
+Y.Alvare-A1  A3:G/43    B3:G/43    C3:Si      *8*:K
+                                              
+                                              
+A.Santan-A1  *2*:F/8    *4*:G/13   C4:K       D4:P/6
+                                              
+                                              
+K.Tucker-A1  A5:G/63    B5:F/8     C5:Do>1#   D5:G/43
+                                              
+                                              
+R.Mountc-A1  A6:K       B6:Do      C6:Do>3#   *9*:G/63
+                                              
+                                              
+R.Urias-A1   *3*:G/43   B7:K       C7:F/9     D7:F/8
+                                              
+                                              
+A.Thomas-A1  A8:Do      *5*:F/7    *7*:G/53   D8:F/7
+                                              
+                                              
+J.Mateo-A1   A9:G/43>2  B9:K       C9:K
+             3                     
+                                   
+
+R.Acuna-A1   A1:F/9     *3*:K      C1:G/43    D1:Si
+                                              
+                                              
+C.Yelich-A1  A2:W>b1    B2:K       *6*:Do     D2:Si>13
+A.Call-D2                                     
+                                              
+A.Riley-A1   A3:HR>1#   B3:F/8     C3:F/8     D3:SB>12
+             b#                               G/63
+                                              
+F.Freema-A1  A4:Si      *4*:P/6    C4:Si>23   *8*:L/4
+                                              
+                                              
+J.Realmu-A1  A5:L/6     B5:G/63    C5:HBP>12  D5:K
+                                              
+                                              
+M.Harris-A1  A6:G/3     B6:G/63    C6:K       D6:K
+M.Garver-C6                                   
+M.Taylor-C8                                   
+W.Contre-A1  *2*:Si     *5*:F/9    C7:G/43    *9*:K
+                                              
+                                              
+N.Gordon-A1  A8:G-DP/4  B8:G/63    *7*:K      D8:G/43
+             63>1o                            
+                                              
+D.Swanso-A1  A9:F/7     B9:Si      C9:K       D9:K
+                                              
+                                              
+
+
