@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>2024 CBL Playoffs</title>
+<style>
+  :root{
+    --bg:#f4efe3;
+    --ink:#111;
+    --card:#fff;
+    --border:#222;
+    --accent:#7a1f1f;
+    --accent2:#0b4a7d;
+    --muted:#555;
+    --shadow:0 8px 20px rgba(0,0,0,.15);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Georgia,serif;background:var(--bg);color:var(--ink);}
+  header{text-align:center;padding:40px 20px 26px;border-bottom:4px double #333;}
+  h1{margin:0;font-size:44px;font-weight:900;letter-spacing:.02em;}
+  .sub{margin-top:8px;font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);}
+  .wrap{max-width:1100px;margin:0 auto;padding:26px 18px 60px;}
+
+  .section-title{margin:28px 0 10px;display:flex;align-items:center;justify-content:center;gap:12px;}
+  .section-title h2{margin:0;font-size:22px;font-weight:900;letter-spacing:.02em;}
+  .rule{height:2px;flex:1;max-width:220px;background:rgba(0,0,0,.18);border-radius:999px;}
+
+  .hero{
+    background:var(--card);
+    border:2px solid var(--border);
+    border-radius:18px;
+    box-shadow:var(--shadow);
+    padding:22px;
+    display:grid;
+    grid-template-columns:1fr;
+    gap:16px;
+    margin-top:18px;
+  }
+  .hero img{max-width:100%;height:auto;display:block;margin:0 auto;border-radius:14px;border:1px solid rgba(0,0,0,.10);background:#fff;}
+  .hero .headline{font-size:28px;font-weight:900;text-align:center;margin:0;}
+  .note{margin:0;text-align:center;color:var(--muted);font-weight:900;}
+
+  .series-line{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;font-weight:900;}
+  .logo{width:64px;height:64px;display:flex;align-items:center;justify-content:center;background:#fff;border:1px solid #ccc;border-radius:12px;padding:6px;}
+  .logo img{max-width:100%;max-height:100%;object-fit:contain;}
+  .score{font-size:34px;line-height:1}
+  .vs{font-size:28px}
+
+  .links{margin:6px 0 0;text-align:center;color:var(--muted);line-height:1.7}
+  .links a{color:inherit;text-decoration:none;border-bottom:1px dotted rgba(0,0,0,.35);}
+  .links a:hover{color:var(--accent);border-bottom-color:var(--accent);}
+  .links .lbl{font-weight:900;color:var(--ink);}
+
+  .grid{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;}
+  .card{background:var(--card);border:2px solid var(--border);border-radius:18px;box-shadow:var(--shadow);overflow:hidden;}
+  .card .top{padding:14px 16px;border-bottom:1px solid rgba(0,0,0,.08);display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;}
+  .pill{background:var(--accent);color:#fff;padding:6px 10px;border-radius:999px;font-size:12px;font-weight:900;letter-spacing:.02em;white-space:nowrap;}
+  .pill.navy{background:var(--accent2);}
+  .card h3{margin:0;font-size:18px;font-weight:900;}
+  .card .body{padding:16px;}
+  .photo{width:100%;height:auto;display:block;border-radius:14px;border:1px solid rgba(0,0,0,.10);background:#fff;}
+  footer{text-align:center;padding:30px 12px;font-size:12px;color:#666;border-top:1px solid rgba(0,0,0,.10);}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>2024 CBL Playoffs</h1>
+  <div class="sub">The Road to the World Series…</div>
+</header>
+
+<main class="wrap">
+
+  <!-- WORLD SERIES (Top) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>World Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="hero" aria-label="World Series">
+    <img src="2024WS.png" alt="World Series">
+    <p class="headline">Mets take down Seattle to win the title!</p>
+
+    <div class="series-line" aria-label="World Series score">
+      <div class="logo"><img src="NYMets.png" alt="New York Mets"></div>
+      <div class="score">4</div>
+      <div class="vs">vs.</div>
+      <div class="logo"><img src="Seattle.png" alt="Seattle"></div>
+      <div class="score">2</div>
+    </div>
+
+    <div class="links">
+      <span class="lbl">Box Scores:</span>
+      <a href="WSG1SEAatNYN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG2SEAatNYN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG3NYNatSEA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG4NYNatSEA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG5NYNatSEA.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="WSG6SEAatNYN.txt">Game 6</a>
+    </div>
+  </section>
+
+  <!-- CHAMPIONSHIP SERIES (Middle) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>Championship Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="grid" aria-label="Championship Series">
+
+    <!-- ALCS -->
+    <article class="card">
+      <div class="top">
+        <span class="pill navy">ALCS</span>
+        <h3>Seattle wins ALCS in 6 games!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024ALCS.png" alt="2024 ALCS graphic">
+        <div class="series-line" style="margin-top:14px;">
+          <div class="logo"><img src="Baltimore.png" alt="Baltimore"></div>
+          <div class="score">2</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Seattle.png" alt="Seattle"></div>
+          <div class="score">4</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="ALCSG1SEAatBAA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG2SEAatBAA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG3BAAatSEA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG4BAAatSEA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG5BAAatSEA.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALCSG6SEAatBAA.txt">Game 6</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLCS -->
+    <article class="card">
+      <div class="top">
+        <span class="pill">NLCS</span>
+        <h3>Mets sweep Dodgers to win the NL!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024NLCS.png" alt="2024 NLCS graphic">
+        <div class="series-line" style="margin-top:14px;">
+          <div class="logo"><img src="NYMets.png" alt="New York Mets"></div>
+          <div class="score">4</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="LADodgers.png" alt="LA Dodgers"></div>
+          <div class="score">0</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="NLCSG1LANatNYN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG2LANatNYN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG3NYNatLAN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLCSG4NYNatLAN.txt">Game 4</a>
+        </div>
+      </div>
+    </article>
+
+  </section>
+
+  <!-- DIVISION SERIES (Bottom) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>Division Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="grid" aria-label="Division Series">
+
+    <!-- ALDS (Boston vs Seattle) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill navy">ALDS</span>
+        <h3>Seattle knocks out Boston in five!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024ALDS.png" alt="2024 ALDS graphic">
+        <div class="series-line" style="margin-top:14px;">
+          <div class="logo"><img src="Boston.png" alt="Boston"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Seattle.png" alt="Seattle"></div>
+          <div class="score">4</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="ALDSG1BOAatSEA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG2BOAatSEA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG3SEAatBOA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG4SEAatBOA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG5SEAatBOA.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- ALDS (Cleveland vs Baltimore) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill navy">ALDS</span>
+        <h3>Baltimore advances in five games!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024ALDS.png" alt="2024 ALDS graphic">
+        <div class="series-line" style="margin-top:4px;">
+          <div class="logo"><img src="Cleveland.png" alt="Cleveland"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Baltimore.png" alt="Baltimore"></div>
+          <div class="score">4</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="ALDSG1CLAatBAA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG2CLAatBAA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG3BAAatCLA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG4BAAatCLA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALDSG5BAAatCLA.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLDS (NY Mets vs Atlanta) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill">NLDS</span>
+        <h3>Mets survive Atlanta in six games!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024NLDS.png" alt="2024 NLDS graphic">
+        <div class="series-line" style="margin-top:14px;">
+          <div class="logo"><img src="NYMets.png" alt="New York Mets"></div>
+          <div class="score">4</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="Atlanta.png" alt="Atlanta"></div>
+          <div class="score">2</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="NLDSG1ATNatNYN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG2ATNatNYN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG3NYNatATN.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG4NYNatATN.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG5NYNatATN.txt">Game 5</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG6ATNatNYN.txt">Game 6</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLDS (Pittsburgh vs LA Dodgers) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill">NLDS</span>
+        <h3>Dodgers dispatch Pirates in five!</h3>
+      </div>
+      <div class="body">
+        <img class="photo" src="2024NLDS.png" alt="2024 NLDS graphic">
+        <div class="series-line" style="margin-top:4px;">
+          <div class="logo"><img src="Pittsburgh.png" alt="Pittsburgh"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="LADodgers.png" alt="LA Dodgers"></div>
+          <div class="score">4</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="NLDSG1PITatLAN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG2PITatLAN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG3LANatPIT.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG4LANatPIT.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLDSG5LANatPIT.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+  </section>
+
+  <!-- Wild Card Series (Bottom) -->
+  <div class="section-title" aria-hidden="true">
+    <div class="rule"></div><h2>Wild Card Series</h2><div class="rule"></div>
+  </div>
+
+  <section class="grid" aria-label="Wild Card Series">
+
+    <!-- ALWC (Boston vs LAA) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill navy">ALWC</span>
+      </div>
+      <div class="body">
+        <!-- requested: text below pill -->
+        <h3>Red Sox win 3 games to 2</h3>
+        <img class="photo" src="2024WildCard.png" alt="2024 WC">
+        <div class="series-line" style="margin-top:14px;">
+          <div class="logo"><img src="Boston.png" alt="Red Sox"></div>
+          <div class="score">3</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="LAAngels.png" alt="LAA"></div>
+          <div class="score">2</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="ALWCG1LAAatBOA.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALWCG2LAAatBOA.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALWCG3BOAatLAA.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALWCG4BOAatLAA.txt">Game 4</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="ALWCG5LAAatBOA.txt">Game 5</a>
+        </div>
+      </div>
+    </article>
+
+    <!-- NLWC (San Diego vs NY Mets) -->
+    <article class="card">
+      <div class="top">
+        <span class="pill navy">NLWC</span>
+      </div>
+      <div class="body">
+        <!-- requested: text below pill -->
+        <h3>Mets win 3 games to 1</h3>
+        <img class="photo" src="2024WildCard.png" alt="2024 Wild Card">
+        <div class="series-line" style="margin-top:4px;">
+          <div class="logo"><img src="SanDiego.png" alt="San Diego"></div>
+          <div class="score">1</div>
+          <div class="vs">vs.</div>
+          <div class="logo"><img src="NYMets.png" alt="Mets"></div>
+          <div class="score">3</div>
+        </div>
+        <div class="links" style="margin-top:10px;">
+          <span class="lbl">Box Scores:</span>
+          <a href="NLWCG1SDPatNYN.txt">Game 1</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLWCG2SDPatNYN.txt">Game 2</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLWCG3NYNatSDP.txt">Game 3</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+          <a href="NLWCG4NYNatSDP.txt">Game 4</a>
+        </div>
+      </div>
+    </article>
+
+  </section>
+
+</main>
+
+<footer>Continental Baseball League Historical Archive</footer>
+</body>
+</html>
