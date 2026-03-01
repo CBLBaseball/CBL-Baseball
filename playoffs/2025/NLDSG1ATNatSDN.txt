@@ -1,0 +1,124 @@
+[1]BOXSCORE: 2024 Atlanta Braves At 2024 San Diego Padres              10/6/2025
+Updated W/L Records: Atlanta(4-2) San Diego(0-1)
+
+[1]  Braves             AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Swanson SS        4  0  0  0 .048     J.Merrill CF        5  0  2  0 .400  
+  C.Yelich DH         4  1  1  0 .286     J.Profar LF         4  0  1  0 .250  
+  A.Hays LF           4  0  2  0 .267     C.Walker 1B         4  0  1  0 .250  
+  J.Smith 3B          4  0  2  1 .222   A-S.Horwitz PH        1  0  0  0 .000  
+  W.Contreras C       4  0  0  0 .200     E.Suarez 3B         4  0  0  0 .000  
+  O.Albies 2B         4  1  1  0 .308     J.Cronenworth 2B    2  1  1  0 .500  
+  F.Freeman 1B        4  1  1  0 .263     M.Vierling RF       4  0  1  0 .250  
+  M.Harris CF         4  1  2  3 .261     F.Tatis Jr DH       4  0  1  1 .250  
+  T.Taylor RF         4  0  1  0 .333     L.Campusano C       4  0  1  0 .250  
+                                          H.Kim SS            3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      36  4 10  4                 Totals      35  1  8  1
+
+A-Pinch Hit For Walker In 9th Inning
+
+Braves.......... 1 0 0  3 0 0  0 0 0  -  4 10  1
+Padres.......... 0 0 0  1 0 0  0 0 0  -  1  8  1
+
+[1]Braves (4-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Fried WIN(1-1)          8       7   1   1   2   7   0   4.24  A1 D7
+J.McArthur                0 1/3   1   0   0   1   1   0  54.00  D8 E2
+R.Iglesias SAVE(4th)      0 2/3   0   0   0   0   0   0   0.00  E3
+[1]Totals                    9       8   1   1   3   8   0
+
+[1]Padres (0-1)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Manaea LOSS(0-1)        6       8   4   1   0   6   1   1.50  A1 C8
+B.Hoeing                  2       1   0   0   0   0   0   0.00  C9 D5
+C.Snider                  1       1   0   0   0   1   0   0.00  D6
+[1]Totals                    9      10   4   1   0   7   1
+
+ATTENDANCE- 40,830 DATE- Monday, October 6th 2025 TIME- Night 
+UMPIRES- Dan Bellino, Phil Cuzzi, Tony Randazzo, Alex Tosi
+T- 3:08
+LEFT ON BASE- Braves: 5  Padres:11
+DOUBLE PLAYS- Braves: 1  Padres: 2
+ERRORS- O.Albies, S.Manaea
+DOUBLES- A.Hays(1st), F.Freeman(2nd), J.Profar(1st), L.Campusano(1st)
+HOME RUNS- M.Harris(1st)
+RBIs- J.Smith(1st), M.Harris-3(6th), F.Tatis Jr(1st)
+STOLEN BASES- C.Yelich(3rd)
+WALKS- J.Cronenworth-2, H.Kim
+HIT BY PITCH- J.Profar
+STRIKE OUTS- A.Hays, J.Smith-2, W.Contreras-2, M.Harris-2, J.Merrill,
+             J.Profar-2, C.Walker-2, M.Vierling, L.Campusano, H.Kim
+GIDP- W.Contreras, T.Taylor, S.Horwitz
+WILD PITCHES- M.Fried, C.Snider
+2-out RBI- M.Harris-3
+RLISP 2-out- O.Albies, M.Vierling-2, H.Kim, W.Contreras, E.Suarez, F.Tatis Jr,
+             T.Taylor
+TEAM RISP- Braves: 3 for 9  Padres: 1 for 10
+
+At PETCO Park the Atlanta Braves outscored the San Diego Padres 4 to
+1.
+
+Atlanta set the tone of the game in the first inning plating an isolated run
+on 3 hits.  After the 4th inning, neither team was able to score.  
+
+Max Fried(1-1) was the winner allowing 1 run in 8 innings. Fried got help from
+Raisel Iglesias who earned his 4th save.  Sean Manaea(0-1) was charged with
+the loss.  
+
+[2]
+[1]SCORESHEET: 2024 Atlanta Braves at 2024 San Diego Padres
+D.Swanso-A1  A1:G/43    *3*:L/5    C1:F/9     D1:F/9
+                                              
+                                              
+C.Yelich-A1  A2:Si      B2:L/4     *5*:G/43   D2:L/4
+                                              
+                                              
+A.Hays-A1    A3:SB>12   B3:K       C3:Do      *8*:F/8
+             Si>23                            
+                                              
+J.Smith-A1   A4:Si>3#   *4*:K      C4:K       D4:Si
+             13                               
+                                              
+W.Contre-A1  A5:K       B5:K       C5:P/6     D5:G-DP/6
+                                              43>1o
+                                              
+O.Albies-A1  A6:L/6     B6:Si      *6*:L/6    *9*:L/4
+                                              
+                                              
+F.Freema-A1  *2*:G/43   B7:E/1>12  C7:G/63    D7:Do
+                                              
+                                              
+M.Harris-A1  A8:Si      B8:HR>2#   C8:K       D8:K
+                        1# b#                 
+                                              
+T.Taylor-A1  A9:G-DP/4  B9:Si      *7*:F/7    D9:WP>23
+             63>1o                            P/6
+                                              
+
+J.Merril-A1  A1:Si      B1:L/4     *5*:F/7    D1:Si      E1:K
+                                                         
+                                                         
+J.Profar-A1  A2:K       *3*:K      C2:Do      D2:G/63    E2:HBP>23
+                                                         12 
+                                                         
+C.Walker-A1  A3:Si>12   B3:K       C3:K       *8*:F/8    E3:G-DP/4
+S.Horwit-E3                                              63>1o
+                                                         
+E.Suarez-A1  A4:L/6     B4:G/63    C4:F/7     D4:F/8
+                                              
+                                              
+J.Cronen-A1  A5:W>23 1  *4*:W>b1   *6*:G/13   D5:Si
+             2 b1                             
+                                              
+M.Vierli-A1  A6:F/9     B6:G/31>1  C6:K       D6:Si>13
+                        2                     
+                                              
+F.Tatis -A1  *2*:F/8    B7:Si>2#   C7:G/63    D7:L/6
+                                              
+                                              
+L.Campus-A1  A8:K       B8:WP>12   *7*:G/53   *9*:Do
+                        G/3>23                
+                                              
+H.Kim-A1     A9:E/4     B9:K       C9:G/31    D9:W>b1
+                                              
+                                              
+
+

@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2024 Seattle Mariners At 2024 Baltimore Orioles          10/10/2025
+Updated W/L Records: Seattle(2-2) Baltimore(5-3)
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  J.Rodriguez CF      4  0  0  0 .118     K.Tucker RF         4  1  1  1 .261  
+  K.Newman SS         2  0  0  0 .250     R.O'Hearn 1B        4  1  2  0 .320  
+B-D.Peralta PH        1  0  0  0 .333   E-R.Mountcastle 1B    0  0  0  0 .000  
+C-D.Jansen C          0  0  0  0 .167     Y.Alvarez DH        4  0  0  0 .200  
+H-J.Bride PH          0  0  0  0 .200     A.Santander LF      4  1  1  0 .121  
+  K.Marte 2B          4  1  1  1 .333   F-K.Kiermaier CF      0  0  0  0 .000  
+  M.Vientos DH        4  0  2  0 .250     G.Henderson SS      4  0  1  1 .294  
+  S.Steer 1B,SS,3B    3  0  0  0 .286     A.Rutschman C       4  0  2  0 .273  
+  J.Kelenic LF        3  0  0  0 .083     S.Espinal 2B        3  1  0  0 .273  
+  J.Ortiz 3B          2  0  0  0 .250     C.Cowser CF,LF      3  0  2  0 .379  
+D-J.Crawford PH,SS    1  0  0  0 .000     H.Ramirez 3B        3  0  1  1 .200  
+  M.Kepler RF         3  0  0  0 .200   G-J.Caballero 3B      0  0  0  0 .226  
+  P.Pages C           1  0  0  0 .250                                          
+A-J.Gallo PH,1B       2  1  1  1 .400                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  2  4  2                 Totals      33  4 10  3
+
+A-Pinch Hit For Pages In 6th Inning
+B-Pinch Hit For Newman In 6th Inning
+C-Subbed Defensively (C ) For Peralta In 6th Inning
+D-Pinch Hit For Ortiz In 8th Inning
+E-Subbed Defensively (1B) For O'Hearn In 9th Inning
+F-Subbed Defensively (CF) For Santander In 9th Inning
+G-Subbed Defensively (3B) For Ramirez In 9th Inning
+H-Pinch Hit For Jansen In 9th Inning
+
+Mariners........ 0 0 0  0 0 0  1 1 0  -  2  4  2
+Orioles......... 1 1 0  0 1 0  0 1    -  4 10  0
+
+[1]Mariners (2-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Gilbert LOSS(0-1)       8      10   4   2   1  12   1   2.25  A1
+[1]Totals                    8      10   4   2   1  12   1
+
+[1]Orioles (5-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Bradish                 3       0   0   0   1   6   0   2.84  A1 B1
+Y.Cano WIN(1-0)           2       1   0   0   0   2   0   0.00  B2 B8
+T.Ferguson HOLD(2nd)      2       1   1   1   0   4   1   1.69  B9 C6
+P.Fairbanks HOLD(1st)     1       1   1   1   0   2   1   9.00  C7 D1
+T.Megill SAVE(3rd)        1       1   0   0   1   1   0   0.00  D2
+[1]Totals                    9       4   2   2   2  15   2
+
+ATTENDANCE- 41,771 DATE- Friday, October 10th 2025 TIME- Night 
+UMPIRES- Nestor Ceja, Todd Tichenor, Cory Blaser, Manny Gonzalez
+T- 2:32
+LEFT ON BASE- Mariners: 3  Orioles: 6
+DOUBLE PLAYS- Mariners: 0  Orioles: 1
+ERRORS- K.Marte, S.Steer
+DOUBLES- R.O'Hearn-2(2nd), G.Henderson(3rd)
+HOME RUNS- K.Marte(4th), J.Gallo(2nd), K.Tucker(3rd)
+RBIs- K.Marte(5th), J.Gallo(2nd), K.Tucker(5th), G.Henderson(4th),
+      H.Ramirez(1st)
+CAUGHT STEALING- H.Ramirez
+WALKS- J.Bride, S.Steer, S.Espinal
+STRIKE OUTS- J.Rodriguez-2, K.Newman-2, D.Peralta, M.Vientos, S.Steer-2,
+             J.Kelenic-2, J.Ortiz, M.Kepler-2, P.Pages, J.Gallo, K.Tucker-3,
+             Y.Alvarez, A.Santander-2, G.Henderson-2, S.Espinal-3, C.Cowser
+GIDP- K.Marte
+WILD PITCHES- L.Gilbert
+2-out RBI- H.Ramirez, G.Henderson, J.Gallo
+RLISP 2-out- K.Tucker-2, G.Henderson, S.Espinal
+TEAM RISP- Mariners: 0 for 0  Orioles: 3 for 12
+
+In a two run game the Baltimore Orioles got by the Seattle Mariners by the
+score of 4 to 2.
+
+Yennier Cano(1-0) was dominant in relief.  He surrendered only 1 hit and no
+walks in 2 innings.  Baltimore had 10 hits for the night while Seattle had 4.
+
+Trevor Megill was credited with his 3rd save.  Logan Gilbert(0-1) ended up
+with the loss.  Despite the loss, he struckout 12 Baltimore batters in 8
+innings.  
+
+[2]
+[1]SCORESHEET: 2024 Seattle Mariners at 2024 Baltimore Orioles
+J.Rodrig-A1  A1:P/3     B1:K       C1:F/7     D1:K
+                                              
+                                              
+K.Newman-A1  A2:K       *4*:K      C2:K       *9*:W>b1
+D.Peralt-C2                                   
+D.Jansen-C3+                                  
+K.Marte-A1   A3:G/63    B3:G/3     *7*:HR>b#  D3:G-DP/3
+                                              63>1o
+                                              
+M.Viento-A1  *2*:K      B4:Si      C4:G/63    D4:Si
+                                              
+                                              
+S.Steer-A1   A5:W>b1    B5:F/8     C5:K       D5:K
+                                              
+                                              
+J.Keleni-A1  A6:K       *5*:G/13   C6:K
+                                   
+                                   
+J.Ortiz-A1   A7:G/63    B7:K       *8*:P/2
+J.Crawfo-C7                        
+                                   
+M.Kepler-A1  *3*:K      B8:F/7     C8:K
+                                   
+                                   
+P.Pages-A1   A9:K       *6*:K      C9:HR>b#
+J.Gallo-B9                         
+                                   
+
+K.Tucker-A1  A1:HR>b#   B1:K       *5*:K      D1:K
+                                              
+                                              
+R.O'Hear-A1  A2:G/43    *3*:Do     C2:Do      D2:FO/2
+R.Mountc-D8                                   
+                                              
+Y.Alvare-A1  A3:K       B3:G/43>2  C3:G/63    *8*:P/3
+                        3                     
+                                              
+A.Santan-A1  A4:K       B4:K       C4:E/4>23  D4:Si
+K.Kierma-D8                                   
+                                              
+G.Hender-A1  *2*:K      B5:F/8     C5:Do>3#   D5:WP>12
+                                   1o         K
+                                              
+A.Rutsch-A1  A6:G/53    *4*:Si     *6*:F/9    D6:Si+E/5
+                                              >2#
+                                              
+S.Espina-A1  A7:W>b1    B7:K       C7:K       D7:K
+                                              
+                                              
+C.Cowser-A1  A8:Si>12   B8:Si>12   C8:K
+                                   
+                                   
+H.Ramire-A1  A9:Si>2#   B9:NOTE    *7*:G/43
+J.Caball-D8  13                    
+                                   
+
+

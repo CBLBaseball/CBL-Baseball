@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2024 Seattle Mariners At 2024 Baltimore Orioles           10/9/2025
+Updated W/L Records: Seattle(2-1) Baltimore(4-3)
+
+[1]  Mariners           AB  R  H RBI AVG     Orioles            AB  R  H RBI AVG
+  J.Ortiz 3B          3  0  0  0 .300     K.Tucker RF         4  0  1  0 .263  
+F-P.Pages C           0  0  0  0 .333     J.Caballero 2B      4  0  0  0 .226  
+  D.Peralta DH        3  0  0  0 .400     Y.Alvarez DH        3  0  0  0 .231  
+  K.Marte 2B          4  2  2  2 .364     A.Santander LF      4  0  1  0 .103  
+  J.Gallo 1B          3  1  1  1 .333     G.Henderson SS      2  1  0  0 .300  
+G-T.O'Neill PH        1  0  0  0 .250     A.Rutschman C       4  0  1  1 .241  
+H-M.Vientos 3B        0  0  0  0 .125     R.O'Hearn 1B        2  0  0  0 .286  
+  M.Kepler RF         4  0  1  0 .286   A-R.Mountcastle PH,1B 2  0  0  0 .000  
+  J.Rodriguez CF      4  0  2  0 .154     J.Westburg 3B       2  0  0  0 .267  
+  J.Kelenic LF        4  0  0  0 .111   B-S.Espinal PH,3B     0  0  0  0 .375  
+  J.Crawford SS       3  0  0  0 .000     C.Cowser CF         2  1  1  1 .346  
+  D.Jansen C          1  0  0  0 .167   C-H.Ramirez PH        0  0  0  0 .000  
+E-S.Steer PH,3B,1B    1  0  0  0 .364   D-K.Kiermaier CF      1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  3  6  3                 Totals      30  2  4  2
+
+A-Pinch Hit For O'Hearn In 7th Inning
+B-Pinch Hit For Westburg In 7th Inning
+C-Pinch Hit For Cowser In 7th Inning
+D-Subbed Defensively (CF) For Ramirez In 8th Inning
+E-Pinch Hit For Jansen In 8th Inning
+F-Subbed Defensively (C ) For Ortiz In 8th Inning
+G-Pinch Hit For Gallo In 9th Inning
+H-Subbed Defensively (3B) For O'Neill In 9th Inning
+
+Mariners........ 1 0 0  1 0 0  0 0 1  -  3  6  0
+Orioles......... 0 0 1  0 0 0  1 0 0  -  2  4  0
+
+[1]Mariners (2-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Woo                     6       3   1   1   1   5   1   1.50  A1 C4
+D.Coulombe BS(1st)        1       1   1   1   2   2   0   4.50  C5 D2
+J.Alvarado                0 2/3   0   0   0   1   2   0   6.75  D3 D5
+A.Munoz WIN(1-0)          1 1/3   0   0   0   1   2   0   0.00  D6
+[1]Totals                    9       4   2   2   5  11   1
+
+[1]Orioles (4-3)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glasnow                 7       4   2   2   2   7   2   3.21  A1 C8
+P.Fairbanks               1       0   0   0   1   1   0   9.00  C9 D2
+K.Akin LOSS(0-1)          1       2   1   1   0   2   1   9.00  D3
+[1]Totals                    9       6   3   3   3  10   3
+
+ATTENDANCE- 45,992 DATE- Thursday, October 9th 2025 TIME- Night 
+UMPIRES- Ryan Blakney, Sean Barber, Alan Porter, Jim Wolf
+T- 2:27
+LEFT ON BASE- Mariners: 4  Orioles: 7
+DOUBLE PLAYS- Mariners: 0  Orioles: 2
+DOUBLES- A.Rutschman(3rd)
+HOME RUNS- K.Marte-2(3rd), J.Gallo(1st), C.Cowser(3rd)
+RBIs- K.Marte-2(4th), J.Gallo(1st), A.Rutschman(2nd), C.Cowser(6th)
+STOLEN BASES- J.Rodriguez(1st), G.Henderson(2nd)
+CAUGHT STEALING- S.Espinal
+WALKS- J.Ortiz, D.Peralta, D.Jansen, Y.Alvarez, G.Henderson-2, S.Espinal-2
+HIT BY PITCH- H.Ramirez
+STRIKE OUTS- J.Ortiz-2, D.Peralta-2, J.Gallo-2, T.O'Neill, M.Kepler-2, S.Steer,
+             K.Tucker, J.Caballero-2, Y.Alvarez-2, A.Santander, A.Rutschman,
+             R.Mountcastle, J.Westburg, C.Cowser, K.Kiermaier
+GIDP- J.Rodriguez
+WILD PITCHES- D.Coulombe
+2-out RBI- K.Marte, C.Cowser
+RLISP 2-out- J.Crawford, J.Caballero-2, A.Rutschman
+TEAM RISP- Mariners: 0 for 2  Orioles: 1 for 5
+IBB- S.Espinal (by D.Coulombe, 7th inning)
+
+Ketel Marte slammed 2 homeruns as the Seattle Mariners defeated the Baltimore
+Orioles by the score of 3 to 2 at Camden Yards.
+
+The game was won by Seattle when they scored a run in the 9th inning.  Marte
+clubbed a solo home run.  Seattle managed only 6 hits on the night.  
+
+The victory went to Andres Munoz(1-0) who went 1 and 1/3 innings, allowing no
+runs. Keegan Akin(0-1) was the loser in relief.  He surrendered 2 hits and no
+walks in 1 inning.
+[2]
+[1]SCORESHEET: 2024 Seattle Mariners at 2024 Baltimore Orioles
+J.Ortiz-A1   A1:K       B1:F/8     C1:K       D1:W>b1
+P.Pages-D3                                    
+                                              
+D.Peralt-A1  A2:K       B2:W>b1    C2:K       D2:L-DP/4
+                                              3>1o
+                                              
+K.Marte-A1   A3:HR>b#   B3:L/4     *6*:G/63   *9*:HR>b#
+                                              
+                                              
+J.Gallo-A1   A4:K       *4*:HR>b#  C4:K       D4:K
+T.O'Neil-D4                                   
+M.Viento-D8                                   
+M.Kepler-A1  *2*:K      B5:Si      C5:L/3     D5:K
+                                              
+                                              
+J.Rodrig-A1  A6:Si      B6:G-DP/5  *7*:F/7    D6:Si
+                        43>1o                 
+                                              
+J.Keleni-A1  A7:SB>12   B7:G/13    C7:G/53    D7:F/8
+             G/3>23                           
+                                              
+J.Crawfo-A1  A8:FO/2    *5*:L/3    C8:G/3
+                                   
+                                   
+D.Jansen-A1  *3*:L/5    B9:W>b1    *8*:K
+S.Steer-C9                         
+                                   
+
+K.Tucker-A1  A1:G/43    B1:Si      *6*:F/9    D1:K
+                                              
+                                              
+J.Caball-A1  A2:F/8     B2:K       C2:K       D2:F/8
+                                              
+                                              
+Y.Alvare-A1  A3:G/63    *4*:K      C3:W>b1    *8*:K
+                                              
+                                              
+A.Santan-A1  *2*:P/6    B4:Si      C4:F/8     D4:K
+                                              
+                                              
+G.Hender-A1  A5:F/8     B5:F/8     *7*:W>b1   D5:W>b1
+                                              
+                                              
+A.Rutsch-A1  A6:F/9     B6:F/8     C6:WP>12   D6:SB>12
+                                   Do>2#      K
+                                              
+R.O'Hear-A1  *3*:P/4    *5*:G/13   C7:K       *9*:G/63
+R.Mountc-C7                                   
+                                              
+J.Westbu-A1  A8:K       B8:F/8     C8:IW>b1   D8:W>b1
+S.Espina-C8                                   
+                                              
+C.Cowser-A1  A9:HR>b#   B9:K       C9:HBP>23  D9:CS/26>
+H.Ramire-C9                        12         1o K
+K.Kierma-D3                                   
+
+

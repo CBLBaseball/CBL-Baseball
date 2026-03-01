@@ -1,0 +1,132 @@
+[1]BOXSCORE: 2024 New York (AL) Yankees At 2024 San Diego Padres      10/27/2025
+Updated W/L Records: New York (AL)(8-7) San Diego(10-5)
+
+[1]  Yankees            AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  J.Chisholm 3B,2B    3  0  1  0 .169     J.Profar DH         4  0  1  1 .211  
+  A.Judge CF          3  0  1  0 .155     J.Cronenworth 2B    4  0  1  0 .211  
+  A.Rizzo 1B          2  0  0  0 .171     M.Vierling RF       4  0  0  0 .214  
+D-D.Solano PH,1B      1  0  0  0 .238     C.Walker 1B         4  1  1  1 .304  
+  G.Stanton DH        3  0  0  0 .190     J.Merrill CF        3  1  1  1 .262  
+F-G.Torres PH         1  0  0  0 .111     E.Suarez 3B         3  2  2  1 .132  
+  I.Kiner-Falefa 2B,3 4  0  1  0 .304     B.Marsh LF          4  0  1  0 .130  
+  A.Wells C           2  0  0  0 .205     H.Kim SS            3  0  1  0 .300  
+G-I.Herrera PH        1  0  0  0 .333     L.Campusano C       1  0  0  0 .333  
+  A.Volpe SS          4  0  0  0 .184   A-S.Horwitz PH        0  0  0  0 .333  
+  A.Barger RF         3  0  0  0 .154   B-K.Higashioka C      1  0  0  0 .074  
+  M.Wallner LF        2  0  0  0 .360                                          
+C-T.D'Arnaud PH       1  0  0  0 .231                                          
+E-O.Cabrera LF        0  0  0  0 .263                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  0  3  0                 Totals      31  4  8  4
+
+A-Pinch Hit For Campusano In 6th Inning
+B-Subbed Defensively (C ) For Horwitz In 7th Inning
+C-Pinch Hit For Wallner In 8th Inning
+D-Pinch Hit For Rizzo In 8th Inning
+E-Subbed Defensively (LF) For D'Arnaud In 8th Inning
+F-Pinch Hit For Stanton In 9th Inning
+G-Pinch Hit For Wells In 9th Inning
+
+Yankees......... 0 0 0  0 0 0  0 0 0  -  0  3  0
+Padres.......... 0 2 0  1 0 1  0 0    -  4  8  0
+
+[1]Yankees (8-7)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish LOSS(2-1)       5 2/3   7   4   4   2   3   3   5.50  A1 C8
+L.Gil                     2 1/3   1   0   0   2   4   0   6.75  C9
+[1]Totals                    8       8   4   4   4   7   3
+
+[1]Padres (10-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+N.Martinez WIN(3-0)       7       1   0   0   3   5   0   1.29  A1 C8
+A.Morejon                 2       2   0   0   0   4   0   0.00  C9
+[1]Totals                    9       3   0   0   3   9   0
+
+ATTENDANCE- 38,338 DATE- Monday, October 27th 2025 TIME- Night 
+UMPIRES- Tony Randazzo, Alex Tosi, Dan Bellino, Phil Cuzzi
+T- 2:55
+LEFT ON BASE- Yankees: 7  Padres: 8
+DOUBLE PLAYS- Yankees: 0  Padres: 0
+DOUBLES- I.Kiner-Falefa(5th)
+HOME RUNS- C.Walker(5th), J.Merrill(4th), E.Suarez(1st)
+RBIs- J.Profar(3rd), C.Walker(12th), J.Merrill(9th), E.Suarez(3rd)
+STOLEN BASES- J.Chisholm(3rd)
+SACRIFICE HITS- H.Kim
+WALKS- J.Chisholm, A.Judge, A.Wells, J.Merrill, E.Suarez, L.Campusano,
+       S.Horwitz
+HIT BY PITCH- A.Rizzo
+STRIKE OUTS- J.Chisholm, D.Solano, G.Stanton-2, G.Torres, A.Wells-2, I.Herrera,
+             A.Volpe, J.Profar-2, M.Vierling, C.Walker, E.Suarez, B.Marsh,
+             H.Kim
+2-out RBI- J.Profar
+RLISP 2-out- I.Kiner-Falefa, J.Profar-2, J.Cronenworth-2, A.Volpe
+TEAM RISP- Yankees: 0 for 5  Padres: 1 for 3
+IBB- S.Horwitz (by L.Gil, 6th inning)
+
+Nick Martinez came through with a solid 7 innings as the San Diego Padres
+bested the New York (AL) Yankees 4 to 0 at PETCO Park.
+
+San Diego tallied 2 runs in the 2nd inning.  The early run support proved
+sufficient for Martinez(3-0) and San Diego.  That was all the run support
+Martinez required.  New York (AL) was out-hit by San Diego, 8 hits to 3.
+
+Yu Darvish(2-1) was given the loss.  He allowed 3 homeruns in 5 and 2/3
+innings of work.  In another of a string of victories, San Diego extended
+their winning streak to 6 games.
+[2]
+[1]SCORESHEET: 2024 New York (AL) Yankees at 2024 San Diego Padres
+J.Chisho-A1  A1:Si      *3*:G/31   C1:W>b1    D1:K
+                                              
+                                              
+A.Judge-A1   A2:SB>12   B2:W>b1    C2:G/53    D2:Si
+             F/8                              
+                                              
+A.Rizzo-A1   A3:HBP     B3:F/9     *6*:G/43   D3:K
+D.Solano-D3                                   
+                                              
+G.Stanto-A1  A4:P/4     B4:K       C4:K       *9*:K
+G.Torres-D4                                   
+                                              
+I.Kiner--A1  A5:G/13    *4*:G/53   C5:G/53    D5:Do
+                                              
+                                              
+A.Wells-A1   *2*:W>b1   B6:K       *7*:K      D6:K
+I.Herrer-D6                                   
+                                              
+A.Volpe-A1   A7:F/9     B7:F/9     C7:K       D7:G/63
+                                              
+                                              
+A.Barger-A1  A8:L/4     *5*:P/3    C8:F/8
+                                   
+                                   
+M.Wallne-A1  A9:G/43    B9:F/8     *8*:G/63
+T.D'Arna-C9                        
+O.Cabrer-D4                        
+
+J.Profar-A1  A1:G/3     B1:K       C1:K       D1:Si>3#
+                                              23 12
+                                              
+J.Cronen-A1  A2:G/43    B2:Si      *5*:G/53   D2:G/13
+                                              
+                                              
+M.Vierli-A1  A3:F/9     B3:K       C3:P/4     *7*:G/63
+                                              
+                                              
+C.Walker-A1  *2*:G/31   *4*:HR>b#  C4:F/9     D4:K
+                                              
+                                              
+J.Merril-A1  A5:HR>b#   B5:G/63    *6*:G/53   D5:W>b1
+                                              
+                                              
+E.Suarez-A1  A6:HR>b#   B6:W>b1    C6:Si      D6:K
+                                              
+                                              
+B.Marsh-A1   A7:FO/2    B7:P/4     C7:Si>12   *8*:K
+                                              
+                                              
+H.Kim-A1     A8:L/5     B8:Si>12   C8:Sac/14  D8:K
+                                   >23 12     
+                                              
+L.Campus-A1  *3*:G/23   B9:W>23 1  C9:IW>b1   D9:F/8
+S.Horwit-C9             2 b1                  
+K.Higash-D3                                   
+
+

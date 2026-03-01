@@ -1,0 +1,148 @@
+[1]BOXSCORE: 2024 Baltimore Orioles At 2024 Seattle Mariners          10/13/2025
+Updated W/L Records: Baltimore(5-5) Seattle(4-2)
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  R.O'Hearn DH        2  0  0  0 .323     J.Rodriguez CF      4  1  0  0 .154  
+B-H.Ramirez PH,DH     1  0  0  1 .125     M.Kepler RF         5  1  1  0 .200  
+  J.Caballero 2B      4  1  1  0 .229     J.Bride 1B          2  0  0  0 .100  
+  Y.Alvarez LF        4  0  0  0 .189   F-D.Peralta PH,LF     1  0  0  0 .400  
+G-K.Tucker RF         0  0  0  0 .231   I-T.O'Neill PH        1  0  0  0 .167  
+  A.Santander RF,LF   4  0  1  1 .146     K.Marte 2B          4  1  0  0 .250  
+  G.Henderson SS      4  0  1  0 .262     S.Steer LF,3B       5  2  2  4 .333  
+  J.Westburg 3B       3  0  0  0 .235     M.Vientos DH        3  1  2  0 .263  
+C-K.Kiermaier CF      0  0  0  0 .000     J.Crawford SS       3  0  1  0 .083  
+  R.Mountcastle 1B    4  1  1  0 .056     J.Ortiz 3B          3  0  1  0 .263  
+  A.Rutschman C       2  0  0  0 .256   H-J.Gallo PH,1B       0  0  0  1 .286  
+  C.Cowser CF         2  0  0  0 .324     P.Pages C           2  0  1  1 .286  
+A-S.Espinal PH,3B     1  0  0  0 .214   D-J.Kelenic PH        1  0  0  0 .071  
+                                        E-D.Jansen C          1  0  0  0 .300  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      31  2  4  2                 Totals      35  6  8  6
+
+A-Pinch Hit For Cowser In 7th Inning
+B-Pinch Hit For O'Hearn In 7th Inning
+C-Subbed Defensively (CF) For Westburg In 7th Inning
+D-Pinch Hit For Pages In 8th Inning
+E-Subbed Defensively (C ) For Kelenic In 9th Inning
+F-Pinch Hit For Bride In 9th Inning
+G-Subbed Defensively (RF) For Alvarez In 9th Inning
+H-Pinch Hit For Ortiz In 9th Inning
+I-Pinch Hit For Peralta In 10th Inning
+
+Orioles......... 0 0 0  0 0 1  1 0 0  0 -  2  4  0
+Mariners........ 0 0 0  0 1 0  0 0 1  4 -  6  8  0
+
+[1]Orioles (5-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Morton                  5       4   1   1   1   3   0   5.95  A1 C1
+H.Strickland              2       1   0   0   0   3   0   0.00  C2 C8
+P.Fairbanks HOLD(2nd)     1       0   0   0   0   2   0   7.50  C9 D2
+T.Megill L(1-1) BS(1st)   1       1   2   2   3   0   0   2.57  D3 E1
+K.Akin                    0 1/3   2   3   3   1   1   1  14.73  E2
+[1]Totals                    9 1/3   8   6   6   5   9   1
+
+[1]Mariners (4-2)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+B.Miller                  5       3   1   1   2   3   0   2.38  A1 C2
+D.Coulombe BS(2nd)        1       0   0   0   0   0   0   3.00  C3 C5
+E.Diaz                    0 1/3   1   1   1   1   1   0   6.75  C6 C8
+J.Alvarado                0 2/3   0   0   0   2   0   0   4.15  C9 D3
+A.Munoz                   1       0   0   0   1   1   0   0.00  D4 D7
+H.Gaddis WIN(1-0)         2       0   0   0   1   0   0   2.45  D8
+[1]Totals                   10       4   2   2   7   5   0
+
+ATTENDANCE- 43,782 DATE- Monday, October 13th 2025 TIME- Night 
+UMPIRES- Lance Barrett, Mark Ripperger, Roberto Ortiz, Alfonso Marquez
+T- 3:09
+LEFT ON BASE- Orioles: 9  Mariners: 7
+DOUBLE PLAYS- Orioles: 1  Mariners: 0
+DOUBLES- J.Caballero(2nd), G.Henderson(4th), J.Crawford(1st), J.Ortiz(3rd)
+TRIPLES- P.Pages(2nd)
+HOME RUNS- S.Steer(2nd)
+RBIs- H.Ramirez(2nd), A.Santander(2nd), S.Steer-4(8th), J.Gallo(3rd),
+      P.Pages(2nd)
+SACRIFICE HITS- K.Kiermaier
+SACRIFICE FLIES- H.Ramirez, A.Santander
+WALKS- R.O'Hearn, J.Caballero, K.Tucker, G.Henderson, A.Rutschman-2, S.Espinal,
+       J.Rodriguez, J.Bride, K.Marte, M.Vientos, J.Crawford
+HIT BY PITCH- J.Gallo
+STRIKE OUTS- A.Santander, J.Westburg, R.Mountcastle-2, C.Cowser, J.Rodriguez-2,
+             M.Kepler-2, J.Bride, T.O'Neill, S.Steer-2, M.Vientos
+GIDP- K.Marte
+WILD PITCHES- J.Alvarado
+2-out RBI- P.Pages, J.Gallo
+RLISP 2-out- C.Cowser-2, M.Kepler, J.Rodriguez, Y.Alvarez-2, J.Ortiz,
+             R.Mountcastle, D.Jansen-2
+TEAM RISP- Orioles: 0 for 6  Mariners: 1 for 8
+IBB- S.Espinal (by J.Alvarado, 7th inning)
+     K.Marte (by K.Akin, 10th inning)
+
+Spencer Steer hit a grand slam as the Seattle Mariners defeated the Baltimore
+Orioles in 10 innings by a score of 6 to 2 at T-Mobile Park.
+
+Both teams were tied at 2 runs apiece after nine innings.  Seattle won the
+game in the 10th inning.  The key offensive moment was provided by Steer who
+came through for the home fans when he caught a hold of a fastball for a
+Grand Slam homerun.  Baltimore was out-hit by Seattle, 8 hits to 4.  
+
+The victory was credited to Hunter Gaddis(1-0) who went 2 innings, allowing no
+runs. The losing pitcher was Trevor Megill(1-1) in relief.  He allowed 1 hit
+and 3 walks in 1 inning.  
+
+[2]
+[1]SCORESHEET: 2024 Baltimore Orioles at 2024 Seattle Mariners
+R.O'Hear-A1  A1:G/63    *3*:G/13   *6*:W>b1   D1:SF/8>3  E1:G/53
+H.Ramire-D1                                   #          
+                                                         
+J.Caball-A1  A2:P/5     B2:G/63    C2:Do>13   D2:W>23 1  *10*:G/53
+                                              2 b1       
+                                                         
+Y.Alvare-A1  A3:G/43    B3:F/8     C3:FC/62>  D3:G/53    E3:W>b1
+K.Tucker-E2                        3o 23                 
+                                                         
+A.Santan-A1  *2*:Si     *4*:K      C4:SF/9>3  *8*:L/4    E4:F/8
+                                   #                     
+                                                         
+G.Hender-A1  A5:Do>13   B5:L/4     C5:G/43    D5:W>b1    E5:F/9
+                                                         
+                                                         
+J.Westbu-A1  A6:L/4     B6:P/6     *7*:K      D6:Sac/34
+K.Kierma-D4                                   >12
+                                              
+R.Mountc-A1  A7:K       *5*:G/13   C7:Si      D7:K
+                                              
+                                              
+A.Rutsch-A1  A8:W>b1    B8:G/63    C8:W>12 b  *9*:L/4
+                                   1          
+                                              
+C.Cowser-A1  A9:K       B9:L/4     C9:WP>23   D9:L/5
+S.Espina-C9                        12 IW>b1   
+                                              
+
+J.Rodrig-A1  A1:G/43    B1:K       C1:L/6     D1:K       *10*:W>b1
+                                                         
+                                                         
+M.Kepler-A1  A2:P/6     B2:K       *6*:L/5    D2:K       E2:Si>13
+                                                         
+                                                         
+J.Bride-A1   A3:L/6     *4*:W>b1   C3:K       *9*:G/43   E3:K
+D.Peralt-D3                                              
+T.O'Neil-E3                                              
+K.Marte-A1   *2*:F/8    B4:G-DP/3  C4:G/3     D4:G/13    E4:IW>12
+                        63>1o                            b1
+                                                         
+S.Steer-A1   A5:F/8     B5:K       *7*:K      D5:Si      E5:HR>3#
+                                                         2# 1# b#
+                                                         
+M.Viento-A1  A6:Si      *5*:Si     C6:K       D6:W>12 b
+                                              1
+                                              
+J.Crawfo-A1  A7:P/2     B7:L/3     C7:Do      D7:W>23 1
+                                              2 b1
+                                              
+J.Ortiz-A1   *3*:Do     B8:F/9     C8:G/53    D8:HBP>3#
+J.Gallo-D8                                    23 12 
+                                              
+P.Pages-A1   A9:G/53    B9:Tr>1#   *8*:G/31   D9:F/8
+J.Keleni-C9                                   
+D.Jansen-D3                                   
+
+

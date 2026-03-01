@@ -1,0 +1,211 @@
+[1]BOXSCORE: 2024 Baltimore Orioles At 2024 Seattle Mariners           10/6/2025
+Updated W/L Records: Baltimore(4-1) Seattle(0-1)
+
+[1]  Orioles            AB  R  H RBI AVG     Mariners           AB  R  H RBI AVG
+  R.O'Hearn DH        4  1  2  1 .400     J.Ortiz 3B          5  0  1  0 .200  
+F-H.Ramirez PH,DH     1  0  0  0 .000     J.Rodriguez CF      6  0  0  0 .000  
+  R.Mountcastle 1B    5  0  0  0 .000     K.Marte 2B          4  0  0  0 .000  
+  Y.Alvarez LF        4  0  0  0 .211     J.Bride 1B          3  0  1  0 .333  
+B-K.Kiermaier PR,CF   1  0  0  0 .000   C-D.Peralta PH,LF     2  1  2  01.000  
+G-K.Tucker PH,CF      1  0  0  0 .267   H-M.Kepler PH         0  0  0  0 ----  
+  A.Santander RF      5  1  1  0 .045     S.Steer LF,1B       6  0  3  1 .500  
+  G.Henderson SS      6  1  2  1 .292     K.Newman SS         3  1  1  1 .333  
+  J.Westburg 3B       6  1  2  0 .280   D-J.Crawford PH,SS    3  0  0  0 .000  
+  J.Caballero 2B      6  1  2  2 .240     M.Vientos DH        5  0  1  0 .200  
+  A.Rutschman C       6  0  1  0 .286     T.O'Neill RF        2  0  1  0 .500  
+  C.Cowser CF,LF      5  0  0  0 .333   A-J.Kelenic PH,RF     3  0  1  0 .333  
+                                          D.Jansen C          4  0  1  0 .250  
+                                        E-P.Pages C           1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      50  5 10  4                 Totals      47  2 12  2
+
+A-Pinch Hit For O'Neill In 7th Inning
+B-Pinch Ran For Alvarez In 8th Inning
+C-Pinch Hit For Bride In 8th Inning
+D-Pinch Hit For Newman In 8th Inning
+E-Subbed Defensively (C ) For Jansen In 10th Inning
+F-Pinch Hit For O'Hearn In 12th Inning
+G-Pinch Hit For Kiermaier In 12th Inning
+H-Pinch Hit For Peralta In 13th Inning
+
+Orioles......... 0 0 0  0 0 0  1 1 0  0 0 0  3 -  5 10  0
+Mariners........ 0 0 0  1 0 0  0 1 0  0 0 0  0 -  2 12  2
+
+[1]Orioles (4-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Peralta                 6       7   1   1   1   8   1   2.25  A1 C6
+T.Ferguson                1       1   0   0   0   2   0   0.00  C7 D1
+P.Fairbanks BS(1st)       1       2   1   1   0   0   0  12.00  D2 D6
+D.Williams                1       0   0   0   0   2   0   0.00  D7 D9
+H.Strickland              2       1   0   0   1   1   0   0.00  E1 E6
+F.Cruz WIN(1-0)           1       1   0   0   0   2   0   0.00  E7 F1
+T.Megill SAVE(2nd)        1       0   0   0   2   2   0   0.00  F2
+[1]Totals                   13      12   2   2   4  17   1
+
+[1]Mariners (0-1)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+L.Gilbert                 8       6   2   2   0  11   1   2.25  A1 D4
+D.Coulombe                1       0   0   0   0   2   0   0.00  D5 D7
+H.Brazoban                0 1/3   0   0   0   2   0   0   0.00  D8 E1
+E.Clase                   1 2/3   2   0   0   0   1   0   0.00  E2 E8
+J.Alvarado LOSS(0-1)      1 1/3   1   2   2   2   1   0  13.50  E9 F6
+H.Gaddis                  0 2/3   1   1   1   0   0   1  13.50  F7
+[1]Totals                   13      10   5   5   4  15   2
+
+ATTENDANCE- 47,173 DATE- Monday, October 6th 2025 TIME- Night 
+UMPIRES- Dan Bellino, Phil Cuzzi, Tony Randazzo, Alex Tosi
+T- 3:40
+LEFT ON BASE- Orioles:10  Mariners:10
+DOUBLE PLAYS- Orioles: 4  Mariners: 1
+ERRORS- J.Ortiz, L.Gilbert
+DOUBLES- A.Rutschman(2nd), J.Ortiz(1st), S.Steer(1st), M.Vientos(1st),
+         J.Kelenic(1st), D.Jansen(1st)
+TRIPLES- G.Henderson(1st), J.Westburg(2nd), S.Steer(1st)
+HOME RUNS- R.O'Hearn(1st), J.Caballero(2nd), K.Newman(1st)
+RBIs- R.O'Hearn(1st), G.Henderson(2nd), J.Caballero-2(7th), S.Steer(1st),
+      K.Newman(1st)
+STOLEN BASES- J.Caballero(2nd), S.Steer(1st)
+WALKS- R.O'Hearn, R.Mountcastle, A.Santander, C.Cowser, J.Ortiz, K.Marte-2,
+       M.Kepler
+STRIKE OUTS- R.Mountcastle, Y.Alvarez-3, A.Santander, J.Westburg-3,
+             J.Caballero-4, A.Rutschman, C.Cowser-2, J.Ortiz-2, J.Rodriguez-4,
+             K.Marte, J.Bride, S.Steer, K.Newman-2, M.Vientos-2, T.O'Neill,
+             J.Kelenic-2, P.Pages
+GIDP- A.Rutschman, K.Marte, J.Bride, J.Crawford, D.Jansen
+WILD PITCHES- L.Gilbert-2
+2-out RBI- K.Newman, S.Steer
+RLISP 2-out- T.O'Neill-2, R.O'Hearn, K.Marte, C.Cowser, J.Rodriguez,
+             A.Santander-3, K.Newman, J.Ortiz-2, J.Crawford-2
+TEAM RISP- Orioles: 1 for 12  Mariners: 0 for 16
+
+Jose Caballero slammed a homerun and had 2 RBI as the Baltimore Orioles
+defeated the Seattle Mariners in 13 innings by a score of 5 to 2 at T-Mobile
+Park.
+
+Both teams had scored 2 runs after nine full innings.  Baltimore came out on
+top in the 13th inning.  Anthony Santander kicked off the action when he drew
+a walk.  Gunnar Henderson followed next and he tripled scoring a run.  Jordan
+Westburg struck out, unable to help the rally.  Caballero stepped in and he
+lifted one out of the park for a two run home run.  Baltimore managed 10 hits
+in their victory.  
+
+Fernando Cruz(1-0) went 1 inning allowing no runs for the win. Cruz was helped
+out by Trevor Megill who recorded his 2nd save.  Jose Alvarado(0-1) was
+tagged with the loss in relief.  
+
+[2]
+[1]SCORESHEET: 2024 Baltimore Orioles at 2024 Seattle Mariners
+R.O'Hear-A1  A1:F/8     B1:L/4     *6*:Si     D1:HR>b#   E1:W>12 b  F1:G/23
+H.Ramire-F1                                              1          
+                                                                    
+R.Mountc-A1  A2:F/9     *4*:L/5    C2:K       D2:G/43    E2:E/5>23  F2:W>b1
+                                                         12         
+                                                                    
+Y.Alvare-A1  A3:K       B3:K       C3:K       D3:E/1     E3:Force/  F3:G/43
+K.Kierma-D4                                              32>3o 23   
+K.Tucker-F3                                              12 b1      
+A.Santan-A1  *2*:P/6    B4:Si      C4:WP>12   D4:P/6     E4:F/8     *13*:W>b1
+                                   K                                
+                                                                    
+G.Hender-A1  A5:F/8     B5:G/31    *7*:F/7    *9*:G/43   *11*:Si    F5:Tr>1#
+                                                                    
+                                                                    
+J.Westbu-A1  A6:L/5     *5*:K      C6:Tr      D6:K       E6:Si>13   F6:K
+                                                                    
+                                                                    
+J.Caball-A1  *3*:Si     B7:K       C7:WP>3#   D7:K       E7:K       F7:HR>3#
+                                   K                                b#
+                                                                    
+A.Rutsch-A1  A8:SB>12   B8:Do      C8:K       *10*:L/4   E8:G-DP/4  F8:G/31
+             F/9                                         63>1o      
+                                                                    
+C.Cowser-A1  A9:K       B9:K       *8*:G/43   D9:W>b1    *12*:G/31  F9:F/9
+                                                                    
+                                                                    
+
+J.Ortiz-A1   A1:G/63    B1:F/7     C1:Do      D1:K       *10*:W>b1  F1:K
+                                                                    
+                                                                    
+J.Rodrig-A1  A2:K       B2:K       C2:F/7     *8*:F/8    E2:K       *13*:K
+                                                                    
+                                                                    
+K.Marte-A1   A3:K       B3:G/13    *6*:W>b1   D3:G/13    E3:G-DP/6  F3:W>b1
+                                                         43>1o      
+                                                                    
+J.Bride-A1   *2*:Si     *4*:K      C4:G-DP/5  D4:Si      *11*:Si    F4:W>12 b
+D.Peralt-D4                        43>1o                            1
+M.Kepler-F4                                                         
+S.Steer-A1   A5:Do>13   B5:G/63    C5:Si      D5:Tr>1#   E5:L/5     F5:K
+                                                                    
+                                                                    
+K.Newman-A1  A6:K       B6:HR>b#   C6:SB>12   D6:L/4     E6:G-DP/4  F6:F/9
+J.Crawfo-D6                        K                     63>1o      
+                                                                    
+M.Viento-A1  A7:K       B7:G/43    *7*:Do     *9*:K      *12*:F/7
+                                                         
+                                                         
+T.O'Neil-A1  A8:K       *5*:Si     C8:K       D8:K       E8:Do
+J.Keleni-C8                                              
+                                                         
+D.Jansen-A1  *3*:Do     B9:G-DP/6  C9:G/63    D9:P/5     E9:K
+P.Pages-E1              43>1o                            
+                                                         
+
+
+[2]
+[1]SCORESHEET: 2024 Baltimore Orioles at 2024 Seattle Mariners
+R.O'Hear-A1
+H.Ramire-F1
+
+R.Mountc-A1
+
+
+Y.Alvare-A1
+K.Kierma-D4
+K.Tucker-F3
+A.Santan-A1
+
+
+G.Hender-A1
+
+
+J.Westbu-A1
+
+
+J.Caball-A1
+
+
+A.Rutsch-A1
+
+
+C.Cowser-A1
+
+
+
+J.Ortiz-A1
+
+
+J.Rodrig-A1
+
+
+K.Marte-A1
+
+
+J.Bride-A1
+D.Peralt-D4
+M.Kepler-F4
+S.Steer-A1
+
+
+K.Newman-A1
+J.Crawfo-D6
+
+M.Viento-A1
+
+
+T.O'Neil-A1
+J.Keleni-C8
+
+D.Jansen-A1
+P.Pages-E1
+
+
+

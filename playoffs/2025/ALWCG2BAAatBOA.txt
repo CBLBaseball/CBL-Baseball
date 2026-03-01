@@ -1,0 +1,139 @@
+[1]BOXSCORE: 2024 Baltimore Orioles At 2024 Boston Red Sox             9/29/2025
+Updated W/L Records: Baltimore(2-0) Boston(0-2)
+
+[1]  Orioles            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  K.Tucker RF         3  2  1  3 .375     J.Duran LF          5  1  1  0 .111  
+  J.Westburg 3B       6  1  1  0 .273     T.Turner DH         5  0  0  1 .000  
+  Y.Alvarez LF        5  1  2  1 .300     R.Devers 3B         5  0  0  0 .125  
+  A.Santander DH      4  0  0  0 .000     M.Betts SS          3  2  2  0 .571  
+  G.Henderson SS      5  1  3  1 .556     J.Burger 1B         4  1  1  0 .250  
+  J.Caballero 2B      5  1  2  3 .200     W.Abreu RF          4  1  1  1 .250  
+  R.O'Hearn 1B        3  2  1  0 .429     C.Rafaela CF        4  2  2  4 .286  
+B-R.Mountcastle 1B    0  0  0  0 ----     N.Lopez 2B          3  0  1  0 .167  
+  A.Rutschman C       4  1  2  0 .500   A-R.Gonzalez PH,2B    1  0  1  01.000  
+  C.Cowser CF         3  1  2  2 .429     C.Wong C            4  0  1  0 .167  
+C-K.Kiermaier CF      0  0  0  0 ----                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      38 10 14 10                 Totals      38  7 10  6
+
+A-Pinch Hit For Lopez In 8th Inning
+B-Subbed Defensively (1B) For O'Hearn In 9th Inning
+C-Subbed Defensively (CF) For Cowser In 9th Inning
+
+Orioles......... 0 2 0  4 0 2  0 2 0  - 10 14  1
+Red Sox......... 0 0 0  3 1 1  0 2 0  -  7 10  1
+
+[1]Orioles (2-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+K.Bradish                 3 1/3   4   2   2   0   4   0   5.40  A1 B6
+P.Fairbanks               0 2/3   1   1   1   0   0   1  13.50  B7 B9
+K.Akin HOLD(1st)          2       2   2   2   0   4   1   9.00  C1 C8
+Y.Cano                    0 2/3   1   0   0   0   0   0   0.00  C9 D2
+H.Neris HOLD(1st)         0 2/3   1   2   2   1   1   0  27.00  D3 D6
+G.Soto                    0 2/3   1   0   0   0   2   0   0.00  D7 D9
+T.Megill WIN(1-0)         1       0   0   0   0   3   0   0.00  E1
+[1]Totals                    9      10   7   7   1  14   2
+
+[1]Red Sox (0-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+N.Pivetta LOSS(0-1)       5       7   7   7   6   5   2  12.60  A1 D1
+S.Turnbull                1       3   1   1   1   2   0   4.50  D2 D8
+A.Chapman                 1 1/3   2   2   1   1   1   0   3.38  D9 E5
+N.Eovaldi                 0 2/3   2   0   0   1   0   0   0.00  E6 E9
+B.Hudson                  1       0   0   0   0   2   0   0.00  F1
+[1]Totals                    9      14  10   9   9  10   2
+
+ATTENDANCE- 34,504 DATE- Monday, September 29th 2025 TIME- Night 
+UMPIRES- Phil Cuzzi, Tony Randazzo, Alex Tosi, Dan Bellino
+T- 3:38
+LEFT ON BASE- Orioles:11  Red Sox: 5
+DOUBLE PLAYS- Orioles: 0  Red Sox: 1
+ERRORS- G.Henderson, R.Devers
+DOUBLES- G.Henderson(2nd), A.Rutschman(1st), M.Betts(1st), J.Burger(1st)
+TRIPLES- J.Duran(1st)
+HOME RUNS- K.Tucker(2nd), J.Caballero(1st), C.Rafaela-2(2nd)
+RBIs- K.Tucker-3(4th), Y.Alvarez(2nd), G.Henderson(1st), J.Caballero-3(3rd),
+      C.Cowser-2(2nd), T.Turner(1st), W.Abreu(1st), C.Rafaela-4(4th)
+STOLEN BASES- R.Gonzalez(1st), C.Wong(1st)
+CAUGHT STEALING- C.Cowser
+SACRIFICE FLIES- K.Tucker
+WALKS- K.Tucker-2, Y.Alvarez, A.Santander, R.O'Hearn-2, A.Rutschman, C.Cowser-2,
+       M.Betts
+STRIKE OUTS- K.Tucker-2, J.Westburg-2, Y.Alvarez-2, A.Santander, G.Henderson,
+             J.Caballero, C.Cowser, J.Duran-2, T.Turner, R.Devers-5, M.Betts,
+             J.Burger, W.Abreu-2, C.Rafaela, C.Wong
+GIDP- R.O'Hearn
+WILD PITCHES- G.Soto
+2-out RBI- C.Rafaela
+RLISP 2-out- J.Westburg, C.Wong-3, J.Caballero, A.Rutschman-2, R.Devers,
+             Y.Alvarez
+TEAM RISP- Orioles: 4 for 13  Red Sox: 3 for 14
+
+In an entertaining game at Fenway Park the final score was the Baltimore
+Orioles 10, the Boston Red Sox 7.
+
+Boston never recovered after Baltimore took the lead in the top of the 2nd
+inning when they tallied 2 runs on 2 hits.  Overall Baltimore out-hit Boston
+14 to 10.  
+
+The victory was credited to Trevor Megill(1-0) who went 1 inning, allowing no
+runs. Nick Pivetta(0-1) ended up with the loss.  Baltimore knocked him around
+a bit, as he gave up 7 runs in 5 innings.  
+
+[2]
+[1]SCORESHEET: 2024 Baltimore Orioles at 2024 Boston Red Sox
+K.Tucker-A1  A1:W>b1    B1:SF/9>3  C1:HR>1#   *6*:W>b1   E1:CS/26>  F1:K
+                        #          b#                    1o K       
+                                                                    
+J.Westbu-A1  A2:K       B2:K       C2:L/5     D2:Si>12   E2:G/43    F2:F/7
+                                                                    
+                                                                    
+Y.Alvare-A1  A3:K       *3*:L/4    C3:Si      D3:Si>2#   *8*:W>b1   F3:K
+                                              13                    
+                                                                    
+A.Santan-A1  A4:G/53    B4:G/63    C4:W>12 b  D4:K       E4:F/7
+                                   1                     
+                                                         
+G.Hender-A1  *2*:G/63   B5:Si      C5:K       D5:Do>3#   E5:Si+E/5
+                                              13         >13
+                                                         
+J.Caball-A1  A6:HR>b#   B6:G/13    C6:G/63    D6:K       E6:Si>3#
+                                                         2#
+                                                         
+R.O'Hear-A1  A7:Si      *4*:W>b1   *5*:FO/2   D7:W>b1    E7:G-DP/4
+R.Mountc-F4                                              63>1o
+                                                         
+A.Rutsch-A1  A8:W>12 b  B8:Do>13   C8:L/3     D8:L/4     *9*:Si
+             1                                           
+                                                         
+C.Cowser-A1  A9:W>23 1  B9:Si>3#   C9:K       *7*:Si     E9:W>12 b
+K.Kierma-F4  2 b1       2#                               1
+                                                         
+
+J.Duran-A1   A1:G/43    *3*:K      *5*:Tr     D1:SB>12   *9*:K
+                                              F/8        
+                                                         
+T.Turner-A1  A2:P/6     B2:F/8     C2:G/63>3  D2:G/63    E2:K
+                                   #                     
+                                                         
+R.Devers-A1  A3:K       B3:K       C3:K       D3:K       E3:K
+                                                         
+                                                         
+M.Betts-A1   *2*:Si     *4*:Do     C4:K       *8*:W>b1
+                                              
+                                              
+J.Burger-A1  A5:E/6>12  B5:G/53    *6*:K      D5:Do>13
+                                              
+                                              
+W.Abreu-A1   A6:K       B6:Si>23   C6:K       D6:G/3>3#
+                                              23 
+                                              
+C.Rafael-A1  A7:F/7     B7:HR>3#   C7:HR>b#   D7:K
+                        1# b#                 
+                                              
+N.Lopez-A1   A8:Si>23   B8:G/53    C8:F/9     D8:WP>3#
+R.Gonzal-D8  12                               Si
+                                              
+C.Wong-A1    A9:F/8     B9:F/8     *7*:Si     D9:SB>12
+                                              K
+                                              
+
+

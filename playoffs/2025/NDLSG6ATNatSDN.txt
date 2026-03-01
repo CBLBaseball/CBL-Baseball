@@ -1,0 +1,119 @@
+[1]BOXSCORE: 2024 Atlanta Braves At 2024 San Diego Padres             10/13/2025
+Updated W/L Records: Atlanta(5-6) San Diego(4-2)
+
+[1]  Braves             AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Swanson SS        3  0  1  0 .079     J.Merrill CF        4  1  2  0 .400  
+  C.Yelich DH         1  0  0  0 .280     J.Profar LF         4  1  2  0 .250  
+  A.Hays LF           3  0  1  1 .227     C.Walker 1B         3  1  1  1 .385  
+  W.Contreras C       3  0  1  0 .209     E.Suarez 3B         3  0  1  1 .130  
+  O.Albies 2B         4  0  0  0 .182     J.Cronenworth 2B    4  1  1  1 .348  
+  F.Freeman 1B        4  0  0  0 .286     M.Vierling RF       3  1  1  0 .308  
+  A.Riley 3B          4  0  0  0 .107     F.Tatis Jr DH       4  0  0  0 .200  
+  M.Harris CF         4  1  1  0 .286     K.Higashioka C      4  0  1  2 .083  
+  T.Taylor RF         4  0  0  0 .250     H.Kim SS            3  0  1  0 .350  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      30  1  4  1                 Totals      32  5 10  5
+
+
+Braves.......... 0 0 1  0 0 0  0 0 0  -  1  4  1
+Padres.......... 2 0 0  0 0 1  0 2    -  5 10  1
+
+[1]Braves (5-6)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Anderson LOSS(1-1)      5       7   3   3   1   4   0   4.26  A1 C5
+P.Johnson                 2       1   0   0   2   1   0   1.59  C6 D4
+R.Garcia                  1       2   2   1   0   1   0   9.00  D5
+[1]Totals                    8      10   5   4   3   6   0
+
+[1]Padres (4-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+S.Manaea WIN(1-1)         5       3   1   1   4   5   0   1.64  A1 C4
+J.Estrada HOLD(1st)       2       0   0   0   0   5   0   0.00  C5 D1
+B.Treinen HOLD(1st)       0 1/3   1   0   0   1   0   0   0.00  D2 D4
+J.Hader SAVE(2nd)         1 2/3   0   0   0   0   4   0   0.00  D5
+[1]Totals                    9       4   1   1   5  14   0
+
+ATTENDANCE- 40,113 DATE- Monday, October 13th 2025 TIME- Night 
+UMPIRES- Lance Barrett, Mark Ripperger, Roberto Ortiz, Alfonso Marquez
+T- 2:48
+LEFT ON BASE- Braves: 8  Padres: 8
+DOUBLE PLAYS- Braves: 1  Padres: 1
+ERRORS- D.Swanson, H.Kim
+DOUBLES- W.Contreras(4th), H.Kim(1st)
+RBIs- A.Hays(1st), C.Walker(7th), E.Suarez(1st), J.Cronenworth(6th),
+      K.Higashioka-2(2nd)
+SACRIFICE HITS- H.Kim
+SACRIFICE FLIES- A.Hays, E.Suarez
+WALKS- D.Swanson, C.Yelich-3, W.Contreras, J.Merrill, C.Walker, M.Vierling
+STRIKE OUTS- W.Contreras, O.Albies-4, F.Freeman-3, A.Riley-2, M.Harris,
+             T.Taylor-3, J.Merrill-2, C.Walker, J.Cronenworth, F.Tatis Jr,
+             K.Higashioka
+GIDP- A.Hays, K.Higashioka
+RLISP 2-out- W.Contreras, J.Profar, A.Riley, E.Suarez, F.Freeman-2, J.Merrill
+TEAM RISP- Braves: 0 for 7  Padres: 4 for 11
+
+The San Diego Padres defeated the Atlanta Braves by a score of 5 to 1 at PETCO
+Park.
+
+Sean Manaea(1-1) pitched a fine game.  He went 5 innings allowing 3 hits and 4
+walks.  San Diego out-hit Atlanta for the game, 10 hits to 4.  
+
+Josh Hader gained credit for his 2nd save.  Tyler Anderson(1-1) was tagged
+with the loss.  He surrendered 3 runs and 7 hits in 5 innings.
+[2]
+[1]SCORESHEET: 2024 Atlanta Braves at 2024 San Diego Padres
+D.Swanso-A1  A1:W>b1    B1:Si>13   C1:G/13    D1:F/9
+                                              
+                                              
+C.Yelich-A1  A2:L/4     B2:W>12 b  C2:W>b1    *8*:W>b1
+                        1                     
+                                              
+A.Hays-A1    A3:G-DP/6  B3:SF/8>3  C3:G/31    D3:Si>12
+             43>1o      #                     
+                                              
+W.Contre-A1  *2*:W>b1   B4:K       *6*:Do     D4:G/43>2
+                                              3 12
+                                              
+O.Albies-A1  A5:K       *4*:K      C5:K       D5:K
+                                              
+                                              
+F.Freema-A1  A6:K       B6:E/6     C6:K       D6:K
+                                              
+                                              
+A.Riley-A1   A7:P/4     B7:F/8     C7:K       *9*:K
+                                              
+                                              
+M.Harris-A1  *3*:Si     B8:F/9     *7*:K      D8:G/43
+                                              
+                                              
+T.Taylor-A1  A9:K       *5*:F/9    C9:K       D9:K
+                                              
+                                              
+
+J.Merril-A1  A1:Si      *3*:K      C1:Si>23   D1:W>b1    E1:K
+                                                         
+                                                         
+J.Profar-A1  A2:Si>13   B2:G/63    C2:G/63    D2:Si>13
+                                              
+                                              
+C.Walker-A1  A3:Si>3#   B3:F/7     *6*:W>b1   D3:K
+             13                               
+                                              
+E.Suarez-A1  A4:SF/7>3  *4*:L/6    C4:Si>12   D4:G/63
+             #                                
+                                              
+J.Cronen-A1  A5:K       B5:P/6     C5:Si>2#   *8*:E/6
+                                   13         
+                                              
+M.Vierli-A1  A6:G/43    B6:L/6     C6:W>12 b  D6:Si>13
+                                   1          
+                                              
+F.Tatis -A1  *2*:K      *5*:G/63   C7:Force/  D7:G/53>1
+                                   31>3o 23   2
+                                   12 b1      
+K.Higash-A1  A8:K       B8:P/5     C8:G-DP/6  D8:Si>3#
+                                   43>1o      2#
+                                              
+H.Kim-A1     A9:F/7     B9:Do      *7*:F/9    D9:Sac/34
+                                              >12
+                                              
+
+

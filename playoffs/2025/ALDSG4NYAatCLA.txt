@@ -1,0 +1,140 @@
+[1]BOXSCORE: 2024 New York (AL) Yankees At 2024 Cleveland Indians     10/10/2025
+Updated W/L Records: New York (AL)(2-2) Cleveland(2-2)
+
+[1]  Yankees            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  J.Chisholm 3B       3  0  0  0 .250     S.Kwan LF           5  0  1  0 .389  
+  A.Judge CF          3  0  1  0 .267     F.Lindor SS         5  1  1  1 .278  
+  O.Cabrera DH        3  0  1  0 .250     J.Ramirez 3B        5  2  2  1 .333  
+G-G.Torres PH,DH      1  0  0  0 .250     J.Noel DH           2  0  0  0 .200  
+  A.Wells C           4  0  0  0 .083   E-J.Pederson PH,DH    2  0  1  1 .333  
+  A.Rizzo 1B          4  1  1  0 .200     A.Gimenez 2B        3  0  1  0 .125  
+  I.Kiner-Falefa 2B   3  0  0  1 .176     A.Chaparro 1B       2  0  0  0 .250  
+  A.Volpe SS          4  0  0  0 .214   F-J.Naylor PH,1B      1  0  0  0 .250  
+  A.Barger RF         2  1  1  0 .167     J.Heim C            3  0  0  0 .250  
+A-G.Stanton PH        1  0  0  0 .364     K.Pillar CF         3  0  1  0 .143  
+B-R.Grichuk PR,RF     1  0  0  0 .125   H-C.Mullins PH,CF     1  0  0  0 .250  
+  M.Wallner LF        2  2  2  3 .625     D.Cameron RF        2  0  0  0 .000  
+C-T.D'Arnaud PH       1  0  0  0 .000   I-G.Springer PH,RF    1  0  1  0 .556  
+D-P.Smith LF          0  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  4  6  4                 Totals      35  3  8  3
+
+A-Pinch Hit For Barger In 7th Inning
+B-Pinch Ran For Stanton In 7th Inning
+C-Pinch Hit For Wallner In 7th Inning
+D-Subbed Defensively (LF) For D'Arnaud In 7th Inning
+E-Pinch Hit For Noel In 7th Inning
+F-Pinch Hit For Chaparro In 7th Inning
+G-Pinch Hit For Cabrera In 8th Inning
+H-Pinch Hit For Pillar In 8th Inning
+I-Pinch Hit For Cameron In 8th Inning
+
+Yankees......... 0 0 2  1 1 0  0 0 0  -  4  6  0
+Indians......... 1 0 0  0 1 0  1 0 0  -  3  8  1
+
+[1]Yankees (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+C.Rodon WIN(1-0)          6 2/3   6   3   3   3   7   2   4.05  A1 D3
+L.Gil HOLD(1st)           0 1/3   1   0   0   0   0   0   5.40  D4 D6
+J.Junis HOLD(2nd)         1       1   0   0   0   1   0   3.86  D7 E1
+K.Yates SAVE(1st)         1       0   0   0   0   1   0   0.00  E2
+[1]Totals                    9       8   3   3   3   9   2
+
+[1]Indians (2-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Bibee LOSS(1-1)         6       6   4   4   1   6   2   5.25  A1 C6
+T.Herrin                  2       0   0   0   0   4   0   0.00  C7 D5
+E.Uceta                   1       0   0   0   0   1   0   0.00  D6
+[1]Totals                    9       6   4   4   1  11   2
+
+ATTENDANCE- 34,591 DATE- Friday, October 10th 2025 TIME- Night 
+UMPIRES- Nestor Ceja, Todd Tichenor, Cory Blaser, Manny Gonzalez
+T- 3:08
+LEFT ON BASE- Yankees: 4  Indians:10
+DOUBLE PLAYS- Yankees: 0  Indians: 0
+ERRORS- F.Lindor
+DOUBLES- A.Barger(1st), J.Ramirez(3rd)
+TRIPLES- A.Rizzo(1st), J.Pederson(1st)
+HOME RUNS- M.Wallner-2(3rd), F.Lindor(3rd), J.Ramirez(1st)
+RBIs- I.Kiner-Falefa(4th), M.Wallner-3(8th), F.Lindor(3rd), J.Ramirez(2nd),
+      J.Pederson(1st)
+STOLEN BASES- K.Pillar(1st)
+SACRIFICE FLIES- I.Kiner-Falefa
+WALKS- A.Judge, A.Chaparro, J.Heim, D.Cameron
+HIT BY PITCH- J.Chisholm, J.Noel, A.Gimenez
+STRIKE OUTS- J.Chisholm-3, O.Cabrera, G.Torres, A.Wells, I.Kiner-Falefa,
+             A.Volpe-2, A.Barger, T.D'Arnaud, S.Kwan, F.Lindor-3, J.Ramirez,
+             A.Chaparro, J.Heim, D.Cameron-2
+2-out RBI- J.Pederson
+RLISP 2-out- D.Cameron, A.Gimenez, F.Lindor-2, A.Judge, J.Naylor
+TEAM RISP- Yankees: 1 for 2  Indians: 1 for 8
+IBB- D.Cameron (by C.Rodon, 4th inning)
+
+Matt Wallner cracked 2 homeruns and had 3 RBI as the New York (AL) Yankees
+defeated the Cleveland Indians by a score of 4 to 3 at Progressive
+Field.
+
+Wallner had a good evening at the plate.  He blasted a two-run home run in the
+3rd inning and smashed a solo-shot out of the park in the 5th inning.  The
+Cleveland offense proved no trouble in the bottom of the 9th.  
+
+Carlos Rodon(1-0) was the winner allowing 3 runs in 6 and 2/3 innings. Kirby
+Yates gained credit for his 1st save.  Tanner Bibee(1-1) was given the loss.
+
+[2]
+[1]SCORESHEET: 2024 New York (AL) Yankees at 2024 Cleveland Indians
+J.Chisho-A1  A1:K       B1:K       C1:K       D1:HBP>12
+                                              
+                                              
+A.Judge-A1   A2:F/7     B2:Si      C2:W>b1    D2:F/7
+                                              
+                                              
+O.Cabrer-A1  A3:K       B3:G/43    C3:Si>1o   *8*:K
+G.Torres-D3                                   
+                                              
+A.Wells-A1   *2*:P/3    *4*:L/4    *6*:G/43   D4:K
+                                              
+                                              
+A.Rizzo-A1   A5:F/8     B5:Tr      C5:L/4     D5:F/9
+                                              
+                                              
+I.Kiner--A1  A6:K       B6:SF/8>3  C6:P/6     *9*:G/43
+                        #                     
+                                              
+A.Volpe-A1   *3*:G/53   B7:F/9     *7*:K      D7:K
+                                              
+                                              
+A.Barger-A1  A8:Do      *5*:K      C8:E/6     D8:L/5
+G.Stanto-C8                                   
+R.Grichu-C9                                   
+M.Wallne-A1  A9:HR>2#   B9:HR>b#   C9:K
+T.D'Arna-C9  b#                    
+P.Smith-D3                         
+
+S.Kwan-A1    A1:F/8     *3*:Si     C1:K       *7*:F/8    E1:L/4
+                                                         
+                                                         
+F.Lindor-A1  A2:HR>b#   B2:K       C2:F/8     D2:K       *9*:K
+                                                         
+                                                         
+J.Ramire-A1  A3:G/43    B3:K       *5*:HR>b#  D3:Do      E3:F/8
+                                                         
+                                                         
+J.Noel-A1    A4:L/6     B4:HBP>12  C4:F/7     D4:Tr>2#   E4:F/8
+J.Peders-D4                                              
+                                                         
+A.Gimene-A1  *2*:Si     B5:F/7     C5:G/13    D5:HBP
+                                              
+                                              
+A.Chapar-A1  A6:W>12 b  *4*:K      C6:F/8     D6:F/9
+J.Naylor-D6  1                                
+                                              
+J.Heim-A1    A7:F/8     B7:W>b1    *6*:G/53   *8*:K
+                                              
+                                              
+K.Pillar-A1  A8:F/8     B8:Si>13   C8:F/7     D8:P/3
+C.Mullin-D8                                   
+                                              
+D.Camero-A1  A9:K       B9:SB>12   C9:K       D9:Si
+G.Spring-D9             IW>b1                 
+                                              
+
+

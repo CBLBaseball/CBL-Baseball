@@ -1,0 +1,125 @@
+[1]BOXSCORE: 2024 Atlanta Braves At 2024 San Diego Padres              10/7/2025
+Updated W/L Records: Atlanta(5-2) San Diego(0-2)
+
+[1]  Braves             AB  R  H RBI AVG     Padres             AB  R  H RBI AVG
+  D.Swanson SS        4  0  1  2 .080     J.Merrill CF        4  1  1  1 .333  
+  C.Yelich DH         4  0  1  0 .278     J.Profar LF         3  0  0  0 .143  
+  A.Hays LF           4  0  0  0 .211     C.Walker 1B         4  1  2  1 .375  
+  J.Smith 3B          3  2  2  0 .286     E.Suarez 3B         4  0  0  0 .000  
+  W.Contreras C       4  1  1  0 .207     J.Cronenworth 2B    3  1  1  0 .400  
+  O.Albies 2B         4  0  0  0 .235     M.Vierling RF       3  0  1  0 .286  
+  F.Freeman 1B        4  2  3  3 .348     F.Tatis Jr DH       4  0  1  1 .250  
+  M.Harris CF         4  1  1  1 .259     K.Higashioka C      3  0  0  0 .000  
+  T.Taylor RF         3  0  0  0 .286   A-L.Campusano PH      1  0  0  0 .200  
+                                          H.Kim SS            3  0  0  0 .000  
+                                        B-D.Blanco PH         1  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  6  9  6                 Totals      33  3  6  3
+
+A-Pinch Hit For Higashioka In 9th Inning
+B-Pinch Hit For Kim In 9th Inning
+
+Braves.......... 0 4 0  1 1 0  0 0 0  -  6  9  0
+Padres.......... 1 0 0  0 0 1  1 0 0  -  3  6  0
+
+[1]Braves (5-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Anderson WIN(1-0)       8       6   3   3   3   8   2   3.86  A1 D6
+J.McArthur SAVE(1st)      1       0   0   0   0   0   0  21.60  D7
+[1]Totals                    9       6   3   3   3   8   2
+
+[1]Padres (0-2)             IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gore LOSS(0-1)          3 2/3   8   5   5   1   4   1  12.27  A1 C2
+J.Martinez                3 1/3   1   1   1   0   4   0   2.70  C3 D4
+A.Morejon                 1       0   0   0   0   1   0   0.00  D5 D7
+B.Treinen                 1       0   0   0   0   1   0   0.00  D8
+[1]Totals                    9       9   6   6   1  10   1
+
+ATTENDANCE- 37,226 DATE- Tuesday, October 7th 2025 TIME- Night 
+UMPIRES- Doug Eddings, Chad Whitson, Malachi Moore, Bill Miller
+T- 3:17
+LEFT ON BASE- Braves: 4  Padres: 6
+DOUBLE PLAYS- Braves: 0  Padres: 1
+HOME RUNS- F.Freeman(1st), J.Merrill(1st), C.Walker(1st)
+RBIs- D.Swanson-2(3rd), F.Freeman-3(3rd), M.Harris(7th), J.Merrill(1st),
+      C.Walker(1st), F.Tatis Jr(2nd)
+STOLEN BASES- J.Smith(1st)
+WALKS- D.Swanson, J.Profar, J.Cronenworth, M.Vierling
+HIT BY PITCH- J.Smith, T.Taylor
+STRIKE OUTS- D.Swanson, A.Hays-2, J.Smith, W.Contreras-3, M.Harris, T.Taylor-2,
+             E.Suarez-3, J.Cronenworth, M.Vierling-2, F.Tatis Jr, H.Kim
+GIDP- O.Albies
+WILD PITCHES- J.Martinez
+2-out RBI- C.Walker, F.Freeman
+RLISP 2-out- A.Hays-3, E.Suarez, H.Kim, K.Higashioka
+TEAM RISP- Braves: 5 for 10  Padres: 0 for 5
+
+The Atlanta Braves registered 4 runs in the 2nd inning and defeated the San
+Diego Padres by a score of 6 to 3 at PETCO Park.
+
+Atlanta scored 4 runs in the 2nd inning with the help of 5 hits.  That was all
+the runs Tyler Anderson(1-0) needed.  Atlanta out-hit San Diego for the game,
+9 hits to 6.  
+
+Anderson got help from James McArthur who was credited with his 1st save.
+Mackenzie Gore(0-1) was tagged with the loss.  He allowed Atlanta 5 runs in 3
+and 2/3 innings of work.  
+
+[2]
+[1]SCORESHEET: 2024 Atlanta Braves at 2024 San Diego Padres
+D.Swanso-A1  A1:K       B1:Si>3#   C1:W>b1    D1:G/43    E1:G/63
+                        2# 13                            
+                                                         
+C.Yelich-A1  A2:G/63    B2:G/31>1  C2:Si>12   *7*:L/4
+                        2                     
+                                              
+A.Hays-A1    A3:F/9     B3:K       C3:G/63    D3:K
+                                              
+                                              
+J.Smith-A1   *2*:Si     *3*:Si     *5*:HBP    D4:K
+                                              
+                                              
+W.Contre-A1  A5:SB>12   B5:K       C5:K       *8*:K
+             Si>23                            
+                                              
+O.Albies-A1  A6:L/5     B6:G-DP/6  C6:WP>12   D6:L/6
+                        43>1o      L/4        
+                                              
+F.Freema-A1  A7:Si>3#   *4*:HR>b#  C7:Si>2#   D7:P/6
+             13                               
+                                              
+M.Harris-A1  A8:Si>3#   B8:L/4     *6*:G/43   *9*:K
+             13                               
+                                              
+T.Taylor-A1  A9:HBP>12  B9:K       C9:K       D9:F/9
+                                              
+                                              
+
+J.Merril-A1  A1:L/4     B1:G/43    *5*:G/43   D1:HR>b#
+                                              
+                                              
+J.Profar-A1  A2:L/5     B2:W>b1    C2:F/8     D2:G/63
+                                              
+                                              
+C.Walker-A1  A3:HR>b#   B3:Si>12   C3:F/7     D3:L/6
+                                              
+                                              
+E.Suarez-A1  A4:F/7     B4:K       *6*:K      *8*:K
+                                              
+                                              
+J.Cronen-A1  *2*:Si     *4*:G/63   C5:W>b1    D5:K
+                                              
+                                              
+M.Vierli-A1  A6:K       B6:W>b1    C6:Si>13   D6:K
+                                              
+                                              
+F.Tatis -A1  A7:K       B7:Si>12   C7:G/43>3  *9*:G/63
+                                   # 12       
+                                              
+K.Higash-A1  A8:P/3     B8:P/3     C8:P/6     D8:F/7
+L.Campus-D8                                   
+                                              
+H.Kim-A1     *3*:K      B9:P/6     *7*:G/53   D9:G/63
+D.Blanco-D9                                   
+                                              
+
+

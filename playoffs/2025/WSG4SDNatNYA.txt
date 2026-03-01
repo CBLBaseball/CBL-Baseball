@@ -1,0 +1,130 @@
+[1]BOXSCORE: 2024 San Diego Padres At 2024 New York (AL) Yankees      10/30/2025
+Updated W/L Records: San Diego(12-5) New York (AL)(8-9)
+
+[1]  Padres             AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  J.Profar DH         3  0  1  2 .246     R.Grichuk LF        4  1  1  0 .097  
+  J.Cronenworth 2B    3  0  0  0 .203     A.Judge RF          4  1  1  2 .167  
+  M.Vierling RF       3  0  1  1 .234     J.Chisholm CF       4  0  1  0 .194  
+  C.Walker 1B         4  1  1  0 .297     T.D'Arnaud C        3  0  0  0 .200  
+  J.Merrill CF        5  0  0  0 .236   C-M.Wallner PH        1  0  0  0 .333  
+  E.Suarez 3B         3  2  1  0 .148     D.Solano 1B         3  0  1  0 .250  
+  B.Marsh LF          5  1  3  0 .207   D-G.Stanton PH        1  0  0  0 .186  
+  H.Kim SS            2  1  1  2 .311     G.Torres DH         2  0  1  0 .250  
+  L.Campusano C       4  0  0  0 .280     A.Volpe SS          3  0  0  0 .161  
+                                          I.Kiner-Falefa 2B   3  0  0  0 .279  
+                                          O.Cabrera 3B        2  0  0  0 .208  
+                                        A-I.Herrera PH        1  0  0  0 .308  
+                                        B-A.Barger 3B         0  0  0  0 .133  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      32  5  8  5                 Totals      31  2  5  2
+
+A-Pinch Hit For Cabrera In 8th Inning
+B-Subbed Defensively (3B) For Herrera In 9th Inning
+C-Pinch Hit For D'Arnaud In 9th Inning
+D-Pinch Hit For Solano In 9th Inning
+
+Padres.......... 0 2 0  0 2 0  0 1 0  -  5  8  0
+Yankees......... 2 0 0  0 0 0  0 0 0  -  2  5  0
+
+[1]Padres (12-5)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.Gore WIN(1-3)           7       5   2   2   1   7   1   6.43  A1 C8
+R.Suarez SAVE(2nd)        2       0   0   0   0   4   0   1.17  C9
+[1]Totals                    9       5   2   2   1  11   1
+
+[1]Yankees (8-9)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+M.King LOSS(3-1)          4 1/3   6   4   4   6   6   0   2.97  A1 C8
+J.Junis                   2 2/3   0   0   0   0   1   0   1.00  C9 D7
+K.Yates                   1 1/3   2   1   1   2   1   0   1.23  D8 E6
+K.Ginkel                  0 2/3   0   0   0   1   1   0   1.23  E7
+[1]Totals                    9       8   5   5   9   9   0
+
+ATTENDANCE- 44,798 DATE- Thursday, October 30th 2025 TIME- Night 
+UMPIRES- Alan Porter, Jim Wolf, Ryan Blakney, Sean Barber
+T- 2:34
+LEFT ON BASE- Padres:13  Yankees: 3
+DOUBLE PLAYS- Padres: 1  Yankees: 2
+DOUBLES- J.Profar(2nd), M.Vierling(2nd)
+HOME RUNS- A.Judge(3rd)
+RBIs- J.Profar-2(7th), M.Vierling(9th), H.Kim-2(7th), A.Judge-2(9th)
+STOLEN BASES- J.Chisholm(4th)
+SACRIFICE HITS- L.Campusano
+WALKS- J.Profar, J.Cronenworth-2, M.Vierling, E.Suarez-2, H.Kim-3, G.Torres
+HIT BY PITCH- J.Profar, M.Vierling, C.Walker
+STRIKE OUTS- J.Cronenworth-3, M.Vierling, C.Walker-2, J.Merrill, E.Suarez,
+             B.Marsh, R.Grichuk, A.Judge-2, J.Chisholm-2, T.D'Arnaud-2,
+             M.Wallner, G.Stanton, A.Volpe, I.Herrera
+GIDP- C.Walker, L.Campusano, I.Kiner-Falefa
+2-out RBI- M.Vierling
+RLISP 2-out- J.Merrill, A.Volpe, M.Vierling-2, H.Kim, D.Solano, C.Walker-2,
+             L.Campusano
+TEAM RISP- Padres: 4 for 15  Yankees: 0 for 3
+
+At Yankee Stadium the seemingly unstoppable San Diego Padres outscored the New
+York (AL) Yankees 5 to 2.
+
+Mackenzie Gore(1-3) pitched a fine game.  He went 7 innings allowing 5 hits
+and 1 walk.  San Diego had 8 hits for the night while New York (AL) had 5.
+
+Robert Suarez recorded his 2nd save.  The loss was charged to Michael
+King(3-1).  San Diego extended their winning streak to 8 games. Jeremiah
+Petrowski was happy with his team's performance of late - 'They're playing
+solid ball right now' he said.  'Let's hope they can stay focused.'
+[2]
+[1]SCORESHEET: 2024 San Diego Padres at 2024 New York (AL) Yankees
+J.Profar-A1  A1:G/63    B1:Do>3#   C1:W>b1    *6*:HBP    E1:L/4
+                        2# 13                            
+                                                         
+J.Cronen-A1  A2:W>b1    B2:K       C2:K       D2:K       E2:W>b1
+                                                         
+                                                         
+M.Vierli-A1  A3:W>12 b  B3:G/63    C3:K       D3:HBP>12  E3:Do>2#
+             1                                           13
+                                                         
+C.Walker-A1  A4:K       *3*:Si     *5*:HBP    D4:G-DP/5  E4:K
+                                              43>1o      
+                                                         
+J.Merril-A1  A5:G/63    B5:K       C5:L/4     *7*:G/43   *9*:P/2
+                                                         
+                                                         
+E.Suarez-A1  *2*:W>b1   B6:K       C6:W>12 b  D6:L/5     E6:Si
+                                   1                     
+                                                         
+B.Marsh-A1   A7:Si>13   B7:Si>12   C7:Si>23   D7:G/53    E7:K
+                                   12                    
+                                                         
+H.Kim-A1     A8:W>12 b  B8:L/6     C8:Si>3#   *8*:W>b1   E8:W>12 b
+             1                     2# 13                 1
+                                                         
+L.Campus-A1  A9:F/7     *4*:L/6    C9:G-DP/5  D9:Sac/24  E9:G/43
+                                   43>1o      >12        
+                                                         
+
+R.Grichu-A1  A1:Si      B1:G/63    C1:K       D1:F/7
+                                              
+                                              
+A.Judge-A1   A2:HR>1#   *3*:K      *6*:K      D2:L/5
+             b#                               
+                                              
+J.Chisho-A1  A3:K       B3:F/8     C3:Si      *9*:K
+                                              
+                                              
+T.D'Arna-A1  A4:K       B4:K       C4:SB>12   D4:K
+M.Wallne-D4                        G/13       
+                                              
+D.Solano-A1  A5:Si      *4*:G/53   C5:G/63    D5:K
+G.Stanto-D5                                   
+                                              
+G.Torres-A1  A6:W>12 b  B6:G/43    *7*:Si
+             1                     
+                                   
+A.Volpe-A1   A7:G/63    B7:F/8     C7:K
+                                   
+                                   
+I.Kiner--A1  *2*:G/53   *5*:F/8    C8:G-DP/5
+                                   43>1o
+                                   
+O.Cabrer-A1  A9:G/63    B9:L/6     *8*:K
+I.Herrer-C9                        
+A.Barger-D3                        
+
+

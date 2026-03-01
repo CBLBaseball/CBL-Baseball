@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2024 Baltimore Orioles At 2024 Boston Red Sox             9/28/2025
+Updated W/L Records: Baltimore(1-0) Boston(0-1)
+
+[1]  Orioles            AB  R  H RBI AVG     Red Sox            AB  R  H RBI AVG
+  K.Tucker RF         5  3  2  1 .400     J.Duran LF          4  0  0  0 .000  
+  J.Westburg 3B       5  1  2  2 .400     M.Betts SS          4  1  2  0 .500  
+  Y.Alvarez LF        5  0  1  1 .200     R.Devers 3B         3  1  1  2 .333  
+  A.Santander DH      5  0  0  1 .000     M.Yoshida DH        4  0  0  0 .000  
+  G.Henderson SS      4  0  2  0 .500     W.Abreu RF          4  0  1  0 .250  
+  J.Caballero 2B      5  0  0  0 .000     J.Burger 1B         4  1  1  1 .250  
+  R.O'Hearn 1B        4  0  2  0 .500     C.Rafaela CF        3  0  0  0 .000  
+A-R.Mountcastle 1B    0  0  0  0 ----     C.Wong C            2  0  0  0 .000  
+  A.Rutschman C       4  0  2  0 .500   C-D.Hamilton PH       1  0  0  0 .000  
+  C.Cowser CF         4  1  1  0 .250   D-N.Fortes C          0  0  0  0 ----  
+B-K.Kiermaier CF      0  0  0  0 ----     N.Lopez 2B          3  0  0  0 .000  
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      41  5 12  5                 Totals      32  3  5  3
+
+A-Subbed Defensively (1B) For O'Hearn In 8th Inning
+B-Subbed Defensively (CF) For Cowser In 8th Inning
+C-Pinch Hit For Wong In 8th Inning
+D-Subbed Defensively (C ) For Hamilton In 9th Inning
+
+Orioles......... 1 0 2  0 0 2  0 0 0  -  5 12  0
+Red Sox......... 2 0 0  0 1 0  0 0 0  -  3  5  2
+
+[1]Orioles (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Glasnow WIN(1-0)        7       3   3   3   0   7   2   3.86  A1 C6
+T.Ferguson HOLD(1st)      1       0   0   0   0   2   0   0.00  C7 C9
+T.Megill SAVE(1st)        1       2   0   0   1   0   0   0.00  D1
+[1]Totals                    9       5   3   3   1   9   2
+
+[1]Red Sox (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Houck LOSS(0-1)         5 2/3  12   5   3   0   7   1   4.76  A1 D3
+A.Chapman                 1 1/3   0   0   0   0   3   0   0.00  D4 D7
+B.Hudson                  1       0   0   0   0   2   0   0.00  D8 E1
+S.Turnbull                1       0   0   0   1   1   0   0.00  E2
+[1]Totals                    9      12   5   3   1  13   1
+
+ATTENDANCE- 34,260 DATE- Sunday, September 28th 2025 TIME- Night 
+UMPIRES- Paul Emmel, Andy Fletcher, Mike Muchlinski, Jansen Visconti
+T- 2:45
+LEFT ON BASE- Orioles:10  Red Sox: 3
+DOUBLE PLAYS- Orioles: 0  Red Sox: 0
+ERRORS- J.Duran, M.Betts
+DOUBLES- G.Henderson(1st)
+TRIPLES- J.Westburg(1st)
+HOME RUNS- K.Tucker(1st), R.Devers(1st), J.Burger(1st)
+RBIs- K.Tucker(1st), J.Westburg-2(2nd), Y.Alvarez(1st), A.Santander(1st),
+      R.Devers-2(2nd), J.Burger(1st)
+STOLEN BASES- K.Tucker(1st), G.Henderson(1st), M.Betts(1st)
+WALKS- G.Henderson, R.Devers
+STRIKE OUTS- K.Tucker-2, J.Westburg-2, Y.Alvarez-3, A.Santander, G.Henderson,
+             J.Caballero-3, A.Rutschman, J.Duran-2, M.Yoshida, W.Abreu,
+             J.Burger, C.Rafaela, C.Wong, D.Hamilton, N.Lopez
+WILD PITCHES- T.Houck
+2-out RBI- J.Westburg, Y.Alvarez
+RLISP 2-out- C.Cowser-2, J.Caballero-3, J.Westburg, A.Santander, J.Burger-2
+TEAM RISP- Orioles: 3 for 13  Red Sox: 1 for 3
+
+Kyle Tucker hit one over the fence and scored 3 times at Fenway Park as the
+Baltimore Orioles beat the Boston Red Sox by the count of 5 to 3.
+
+Baltimore had 2 runs cross the plate in the 6th inning when they came up with
+3 base hits.  They would hold up as the winning runs.  Boston had a chance to
+come back in the 9th but they came up short.  
+
+Tyler Glasnow(1-0) got credit for the victory, pitching 7 innings and allowing
+3 runs. Trevor Megill preserved the game for Glasnow, recording his his 1st
+save.  Tanner Houck(0-1) ended up with the loss.  He surrendered 5 runs and
+12 hits in 5 and 2/3 innings.  
+
+Cam Comfort was subdued when questioned after the game, 'Sure, this kind of
+loss takes a while to get over, but heck, we're all professionals.  We've
+been through this many times - it's the nature of the game.  We'll be fine -
+as for me - I'll be ready to go again tomorrow!'
+[2]
+[1]SCORESHEET: 2024 Baltimore Orioles at 2024 Boston Red Sox
+K.Tucker-A1  A1:HR>b#   *3*:Si     C1:K       D1:FC/32>  E1:K
+                                              3o 23      
+                                                         
+J.Westbu-A1  A2:K       B2:SB>12   C2:K       D2:Si>3#   *9*:G/63
+                        Tr>2#                 13         
+                                                         
+Y.Alvare-A1  A3:K       B3:K       *5*:G/43   D3:Si>3#   E3:K
+                                              12         
+                                                         
+A.Santan-A1  A4:F/8     B4:G/63>3  C4:G/53    D4:K       E4:E/6
+                        #                                
+                                                         
+G.Hender-A1  *2*:F/8    B5:Do      C5:Si      *7*:K      E5:W>12 b
+                                                         1
+                                                         
+J.Caball-A1  A6:K       B6:G/63    C6:SB>12   D6:K       E6:G/43
+                                   K                     
+                                                         
+R.O'Hear-A1  A7:Si      *4*:Si     *6*:P/4    D7:F/9
+R.Mountc-E2                                   
+                                              
+A.Rutsch-A1  A8:Si>12   B8:Force/  C8:Si      *8*:K
+                        64>1o b1              
+                                              
+C.Cowser-A1  A9:WP>23   B9:Si>12   C9:E/7>13  D9:F/8
+K.Kierma-E2  12 G/13               b2         
+                                              
+
+J.Duran-A1   A1:K       B1:L/4     *6*:K      *9*:L/4
+                                              
+                                              
+M.Betts-A1   A2:Si      B2:L/6     C2:L/4     D2:Si
+                                              
+                                              
+R.Devers-A1  A3:HR>1#   *4*:G/13   C3:G/13    D3:SB>12
+             b#                               W>b1
+                                              
+M.Yoshid-A1  A4:K       B4:G/63    *7*:G/43   D4:F/9
+                                              
+                                              
+W.Abreu-A1   A5:K       B5:G/43    C5:F/9     D5:Si>23
+                                              12
+                                              
+J.Burger-A1  *2*:K      *5*:HR>b#  C6:F/7     D6:F/7
+                                              
+                                              
+C.Rafael-A1  A7:G/3     B7:G/53    *8*:K
+                                   
+                                   
+C.Wong-A1    A8:K       B8:G/63    C8:K
+D.Hamilt-C8                        
+N.Fortes-D1                        
+N.Lopez-A1   *3*:K      B9:F/9     C9:G/43
+                                   
+                                   
+
+

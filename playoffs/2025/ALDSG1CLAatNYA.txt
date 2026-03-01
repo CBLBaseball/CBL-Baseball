@@ -1,0 +1,141 @@
+[1]BOXSCORE: 2024 Cleveland Indians At 2024 New York (AL) Yankees      10/6/2025
+Updated W/L Records: Cleveland(1-0) New York (AL)(0-1)
+
+[1]  Indians            AB  R  H RBI AVG     Yankees            AB  R  H RBI AVG
+  S.Kwan LF           3  2  2  2 .667     J.Chisholm 3B       4  0  0  0 .000  
+  F.Lindor SS         4  1  1  1 .250     A.Judge CF          3  0  1  0 .333  
+  J.Ramirez 3B        4  1  2  0 .500     A.Wells C           3  0  0  0 .000  
+  J.Noel DH           3  1  1  2 .333   F-T.D'Arnaud PH,C     1  0  0  0 .000  
+H-J.Pederson PH,DH    1  0  1  01.000     G.Stanton DH        4  0  2  0 .500  
+  A.Gimenez 2B        4  0  0  0 .000   I-O.Cabrera PR,DH     0  0  0  0 ----  
+  A.Chaparro 1B       2  0  1  0 .500     A.Rizzo 1B          3  0  0  0 .000  
+A-J.Naylor PH,1B      2  1  1  1 .500     I.Kiner-Falefa 2B   4  0  0  0 .000  
+  J.Heim C            2  0  0  0 .000     A.Volpe SS          3  2  1  0 .333  
+B-J.McCann PH,C       2  0  0  0 .000     M.Wallner LF        2  1  1  1 .500  
+  K.Pillar CF         2  0  0  0 .000   E-G.Torres PH         1  0  1  11.000  
+C-C.Mullins PH,CF     2  0  0  0 .000   G-P.Smith LF          1  0  0  0 .000  
+  D.Cameron RF        2  0  0  0 .000     R.Grichuk RF        4  1  1  2 .250  
+D-G.Springer PH,RF    1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      34  6  9  6                 Totals      33  4  7  4
+
+A-Pinch Hit For Chaparro In 6th Inning
+B-Pinch Hit For Heim In 6th Inning
+C-Pinch Hit For Pillar In 7th Inning
+D-Pinch Hit For Cameron In 7th Inning
+E-Pinch Hit For Wallner In 7th Inning
+F-Pinch Hit For Wells In 7th Inning
+G-Subbed Defensively (LF) For Torres In 8th Inning
+H-Pinch Hit For Noel In 8th Inning
+I-Pinch Ran For Stanton In 8th Inning
+
+Indians......... 0 0 1  0 0 4  0 1 0  -  6  9  0
+Yankees......... 0 3 0  0 0 0  1 0 0  -  4  7  0
+
+[1]Indians (1-0)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Bibee WIN(1-0)          6       4   3   3   2   2   1   4.50  A1 C6
+C.Smith HOLD(1st)         0 2/3   2   1   1   1   2   0  13.50  C7 D2
+B.Basso HOLD(1st)         0 1/3   0   0   0   0   0   0   0.00  D3 D3
+M.Kelly HOLD(1st)         1       1   0   0   0   0   0   0.00  D4 D7
+J.Tinoco SAVE(1st)        1       0   0   0   0   2   0   0.00  D8
+[1]Totals                    9       7   4   4   3   6   1
+
+[1]Yankees (0-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+F.Valdez LOSS(0-1)        5 1/3   6   4   4   1   6   3   6.75  A1 C4
+C.Schmidt                 1 2/3   1   1   1   0   1   1   5.40  C5 D1
+K.Ginkel                  1       2   1   1   0   1   1   9.00  D2 D5
+T.Walker                  1       0   0   0   0   2   0   0.00  D6
+[1]Totals                    9       9   6   6   1  10   5
+
+ATTENDANCE- 43,442 DATE- Monday, October 6th 2025 TIME- Night 
+UMPIRES- Dan Bellino, Phil Cuzzi, Tony Randazzo, Alex Tosi
+T- 2:53
+LEFT ON BASE- Indians: 2  Yankees: 6
+DOUBLE PLAYS- Indians: 1  Yankees: 2
+DOUBLES- J.Ramirez-2(2nd), J.Pederson(1st), G.Stanton(1st), A.Volpe(1st),
+         M.Wallner(1st), G.Torres(1st)
+HOME RUNS- S.Kwan-2(2nd), F.Lindor(1st), J.Noel(1st), J.Naylor(1st),
+           R.Grichuk(1st)
+RBIs- S.Kwan-2(2nd), F.Lindor(1st), J.Noel-2(2nd), J.Naylor(1st),
+      M.Wallner(1st), G.Torres(1st), R.Grichuk-2(2nd)
+WALKS- S.Kwan, J.Chisholm, A.Judge, A.Volpe
+HIT BY PITCH- A.Rizzo
+STRIKE OUTS- F.Lindor-3, J.Ramirez, J.Noel-2, A.Gimenez, J.Naylor, J.McCann-2,
+             J.Chisholm-3, R.Grichuk-3
+GIDP- J.Heim, I.Kiner-Falefa
+2-out RBI- M.Wallner, R.Grichuk-2, J.Naylor
+RLISP 2-out- A.Gimenez-2, T.D'Arnaud, A.Volpe
+TEAM RISP- Indians: 1 for 4  Yankees: 2 for 8
+IBB- A.Judge (by C.Smith, 7th inning)
+WEB GEMS- Top 2nd: Isiah Kiner-Falefa robbed Kevin Pillar of a base hit.
+
+Left fielder Steven Kwan slammed 2 homeruns at Yankee Stadium where the
+Cleveland Indians beat the New York (AL) Yankees 6 to 4.
+
+Cleveland came up with 4 runs in the 6th inning with the help of 4 hits.  The
+critical plate appearance was by Jhonkensy Noel who silenced Yankee Stadium
+as he cracked a two-run shot.  Cleveland totaled 9 hits on the night.  
+
+The winning pitcher was Tanner Bibee(1-0) who allowed 3 runs in 6 innings.
+Jesus Tinoco earned his 1st save.  Framber Valdez(0-1) was the loser.  He was
+touched for 3 homeruns in his 5 and 1/3 innings of work.  
+
+[2]
+[1]SCORESHEET: 2024 Cleveland Indians at 2024 New York (AL) Yankees
+S.Kwan-A1    A1:W>b1    B1:HR>b#   *6*:HR>b#  D1:L/4
+                                              
+                                              
+F.Lindor-A1  A2:K       B2:K       C2:K       *8*:HR>b#
+                                              
+                                              
+J.Ramire-A1  A3:Do>13   B3:P/6     C3:Do      D3:K
+                                              
+                                              
+J.Noel-A1    A4:K       *4*:K      C4:HR>2#   D4:Do
+J.Peders-D4                        b#         
+                                              
+A.Gimene-A1  A5:K       B5:F/7     C5:G/53    D5:L-DP/4
+                                              >2o
+                                              
+A.Chapar-A1  *2*:Si     B6:G/63    C6:HR>b#   *9*:K
+J.Naylor-C6                                   
+                                              
+J.Heim-A1    A7:G-DP/6  *5*:G/63   C7:K       D7:K
+J.McCann-C7  43>1o                            
+                                              
+K.Pillar-A1  A8:G/43    B8:G/43    *7*:P/6    D8:L/5
+C.Mullin-C8                                   
+                                              
+D.Camero-A1  *3*:G/43   B9:G/43    C9:G/63
+G.Spring-C9                        
+                                   
+
+J.Chisho-A1  A1:K       B1:G/63    C1:W>b1    D1:K       E1:K
+                                                         
+                                                         
+A.Judge-A1   A2:Si      *3*:P/6    C2:F/9     D2:IW>b1
+                                              
+                                              
+A.Wells-A1   A3:F/8     B3:G/43    *6*:G/53   D3:G/63
+T.D'Arna-D3                                   
+                                              
+G.Stanto-A1  A4:G/3     B4:P/6     C4:Si      *8*:Do
+O.Cabrer-D6                                   
+                                              
+A.Rizzo-A1   *2*:HBP    *4*:F/8    C5:L/4     D5:G/53
+                                              
+                                              
+I.Kiner--A1  A6:G-DP/5  B6:F/7     C6:G/53    D6:F/8
+             43>1o                            
+                                              
+A.Volpe-A1   A7:W>b1    B7:G/63    *7*:Do     D7:F/8
+                                              
+                                              
+M.Wallne-A1  A8:Do>1#   *5*:G/43   C8:Do>2#   *9*:F/9
+G.Torres-C8                                   
+P.Smith-D4                                    
+R.Grichu-A1  A9:HR>2#   B9:K       C9:K       D9:K
+             b#                               
+                                              
+
+

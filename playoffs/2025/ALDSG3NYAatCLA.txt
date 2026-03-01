@@ -1,0 +1,135 @@
+[1]BOXSCORE: 2024 New York (AL) Yankees At 2024 Cleveland Indians      10/9/2025
+Updated W/L Records: New York (AL)(1-2) Cleveland(2-1)
+
+[1]  Yankees            AB  R  H RBI AVG     Indians            AB  R  H RBI AVG
+  I.Kiner-Falefa 2B   6  1  2  3 .214     S.Kwan LF           5  1  2  3 .462  
+  A.Judge CF          5  1  1  0 .250     F.Lindor SS         4  0  1  0 .308  
+  J.Chisholm 3B       5  2  3  1 .308     J.Ramirez 3B        5  0  1  0 .308  
+  G.Stanton DH        2  1  2  1 .400     J.Pederson DH       3  0  0  0 .286  
+B-G.Torres PH,DH      2  0  0  0 .333   F-K.Pillar PH         1  0  0  0 .000  
+  D.Solano 1B         5  1  2  1 .333     G.Springer RF       3  0  1  0 .500  
+  A.Wells C           2  1  1  1 .125     J.Naylor 1B         4  0  0  0 .273  
+  A.Volpe SS          4  2  1  0 .300     J.McCann C          2  1  1  1 .286  
+  R.Grichuk RF        1  0  0  0 .143   C-J.Heim PH,C         2  1  1  0 .400  
+A-A.Barger PH,RF      3  0  0  0 .000     C.Mullins CF        4  2  2  1 .273  
+  P.Smith LF          3  0  0  0 .000     A.Gimenez 2B        4  0  1  0 .077  
+D-O.Cabrera PH        1  0  0  0 .000                                          
+E-M.Wallner LF        1  1  1  3 .500                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      40 10 13 10                 Totals      37  5 10  5
+
+A-Pinch Hit For Grichuk In 3rd Inning
+B-Pinch Hit For Stanton In 6th Inning
+C-Pinch Hit For McCann In 6th Inning
+D-Pinch Hit For Smith In 7th Inning
+E-Subbed Defensively (LF) For Cabrera In 7th Inning
+F-Pinch Hit For Pederson In 9th Inning
+
+Yankees......... 1 2 2  0 0 2  0 0 3  - 10 13  1
+Indians......... 0 0 0  2 0 2  0 1 0  -  5 10  0
+
+[1]Yankees (1-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+Y.Darvish WIN(1-0)        5 2/3   9   4   4   3   7   2   6.35  A1 D2
+K.Ginkel HOLD(1st)        1 1/3   0   0   0   0   2   0   3.86  D3 D6
+J.Junis HOLD(1st)         1       1   1   1   0   0   1   6.75  D7 E1
+K.Yates                   1       0   0   0   0   1   0   0.00  E2
+[1]Totals                    9      10   5   5   3  10   3
+
+[1]Indians (2-1)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+G.Williams LOSS(0-1)      4 2/3   7   5   5   5   5   1   9.64  A1 C8
+N.Sandlin                 2 1/3   4   2   2   0   4   1   7.71  C9 E1
+C.Smith                   2       2   3   3   1   1   1  13.50  E2
+[1]Totals                    9      13  10  10   6  10   3
+
+ATTENDANCE- 32,259 DATE- Thursday, October 9th 2025 TIME- Night 
+UMPIRES- Ryan Blakney, Sean Barber, Alan Porter, Jim Wolf
+T- 3:52
+LEFT ON BASE- Yankees: 9  Indians: 8
+DOUBLE PLAYS- Yankees: 0  Indians: 0
+ERRORS- J.Chisholm
+DOUBLES- G.Stanton-2(3rd), D.Solano(1st), S.Kwan(1st)
+TRIPLES- I.Kiner-Falefa(1st)
+HOME RUNS- I.Kiner-Falefa(1st), J.Chisholm(2nd), M.Wallner(1st), S.Kwan(3rd),
+           J.McCann(1st), C.Mullins(1st)
+RBIs- I.Kiner-Falefa-3(3rd), J.Chisholm(3rd), G.Stanton(1st), D.Solano(1st),
+      A.Wells(1st), M.Wallner-3(5th), S.Kwan-3(5th), J.McCann(1st),
+      C.Mullins(1st)
+STOLEN BASES- J.Chisholm(1st), C.Mullins(1st)
+WALKS- G.Stanton, A.Wells-3, A.Volpe, A.Barger, F.Lindor, J.Pederson,
+       G.Springer
+STRIKE OUTS- I.Kiner-Falefa, J.Chisholm, D.Solano-3, A.Wells, A.Barger-3,
+             O.Cabrera, F.Lindor, J.Ramirez, J.Pederson-3, G.Springer-2,
+             J.Naylor, C.Mullins, A.Gimenez
+2-out RBI- G.Stanton, I.Kiner-Falefa-2, A.Wells, S.Kwan-2, M.Wallner-3
+RLISP 2-out- D.Solano, J.Naylor-3, A.Judge, P.Smith-3, J.Ramirez, A.Volpe
+TEAM RISP- Yankees: 5 for 18  Indians: 2 for 8
+
+In a one-sided affiar at Progressive Field the final score was the New York
+(AL) Yankees 10, the Cleveland Indians 5.
+
+Obviously without his best stuff, Yu Darvish(1-0) still hung on to pick up the
+win.  He gave up 4 runs, 9 hits and 3 walks in 5 and 2/3 innings.  Darvish
+recorded 7 strikeouts and served up 2 'big flies'.  Cleveland was out-hit by
+New York (AL), 13 hits to 10.  
+
+Gavin Williams(0-1) was the losing pitcher. He was knocked around by New York
+(AL), allowing 7 hits and 5 walks in 4 and 2/3 innings.
+[2]
+[1]SCORESHEET: 2024 New York (AL) Yankees at 2024 Cleveland Indians
+I.Kiner--A1  A1:G/53    B1:Tr>2#   *4*:G/63   *6*:HR>b#  E1:K       F1:G/53
+                        1#                                          
+                                                                    
+A.Judge-A1   A2:G/63    B2:G/43    C2:F/7     D2:Si      *8*:G/53
+                                                         
+                                                         
+J.Chisho-A1  A3:Si      *3*:HR>b#  C3:K       D3:Si>12   E3:G/63
+                                                         
+                                                         
+G.Stanto-A1  A4:SB>12   B4:Do      *5*:W>b1   D4:L/6     E4:FO/5
+G.Torres-D4  Do>2#                                       
+                                                         
+D.Solano-A1  A5:K       B5:Do>2#   C5:K       D5:K       *9*:Si
+                                                         
+                                                         
+A.Wells-A1   *2*:W>b1   B6:W>b1    C6:K       D6:Si>2#   E6:W>12 b
+                                              13         1
+                                                         
+A.Volpe-A1   A7:W>12 b  B7:F/9     C7:Si>13   D7:Force/  E7:Force/
+             1                                46>1o b1   14>23 1o
+                                                         b1
+R.Grichu-A1  A8:F/9     B8:K       C8:W>12 b  *7*:K      E8:K
+A.Barger-B8                        1                     
+                                                         
+P.Smith-A1   A9:F/9     B9:G/43    C9:L/4     D9:K       E9:HR>3#
+O.Cabrer-D9                                              1# b#
+M.Wallne-E2                                              
+
+S.Kwan-A1    A1:G/43    B1:L/4     C1:Do>2#   D1:HR>1#   E1:F/9
+                                              b#         
+                                                         
+F.Lindor-A1  A2:W>b1    *3*:K      C2:F/8     D2:Si      *9*:L/4
+                                                         
+                                                         
+J.Ramire-A1  A3:L/4     B3:Si+E/5  C3:G/43    D3:G/43    E3:K
+                                                         
+                                                         
+J.Peders-A1  A4:W>12 b  B4:K       *5*:K      *7*:K      E4:G/13
+K.Pillar-E4  1                                           
+                                                         
+G.Spring-A1  A5:W>23 1  B5:Si>23   C5:K       D5:K
+             2 b1                             
+                                              
+J.Naylor-A1  A6:G/3     B6:K       C6:P/4     D6:F/8
+                                              
+                                              
+J.McCann-A1  *2*:F/7    *4*:HR>b#  *6*:Si     *8*:G/43
+J.Heim-C7                                     
+                                              
+C.Mullin-A1  A8:F/7     B8:Si      C8:K       D8:HR>b#
+                                              
+                                              
+A.Gimene-A1  A9:Si      B9:SB>12   C9:P/3     D9:G/13
+                        K                     
+                                              
+
+
