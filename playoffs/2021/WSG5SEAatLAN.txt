@@ -1,0 +1,143 @@
+[1]BOXSCORE: 2021 Seattle Mariners At 2021 Los Angeles(NL) Dodgers    10/23/2021
+
+[1]  Mariners           AB  R  H RBI AVG     Dodgers            AB  R  H RBI AVG
+  K.Seager 3B         3  1  1  0 .237     J.Turner 3B         4  0  1  2 .367  
+  A.Nola C            3  0  1  0 .325     C.Seager SS         4  2  1  1 .327  
+F-Y.Gomes PH,C        1  0  1  0 .118     W.Smith DH          2  0  0  0 .154  
+  C.Moran 1B          3  2  2  3 .152   A-M.Muncy PH,DH       1  0  0  0 .208  
+G-Y.Diaz PH,1B        1  0  0  0 .292     T.France 1B         3  0  1  1 .250  
+  M.Kepler RF         3  0  0  0 .157     K.Calhoun RF        3  0  1  0 .176  
+H-J.Davis PH,RF       1  0  0  0 .000     A.Diaz 2B           3  0  0  0 .200  
+  J.Aguilar DH        4  0  1  0 .324   D-A.Engel PH,LF       0  0  0  0 .250  
+  J.Crawford SS       3  0  0  0 .255     C.Taylor LF,2B      4  2  3  0 .361  
+  K.Marte 2B          4  0  0  0 .267     C.Bellinger CF      3  0  0  0 .152  
+  T.O'Neill LF        2  0  0  0 .161     Y.Grandal C         4  2  1  2 .176  
+B-J.Polanco PH        1  0  0  0 .273                                          
+C-G.Heredia CF        0  0  0  0 .333                                          
+I-B.Hamilton PH       1  0  0  0 .000                                          
+  R.Quinn CF,LF       2  0  0  0 .280                                          
+E-R.McBroom PH,LF     1  0  0  0 .000                                          
+                     -- -- -- ---                            -- -- -- ---      
+[1]         Totals      33  3  6  3                 Totals      31  6  8  6
+
+A-Pinch Hit For Smith In 6th Inning
+B-Pinch Hit For O'Neill In 7th Inning
+C-Subbed Defensively (CF) For Polanco In 7th Inning
+D-Pinch Hit For Diaz In 7th Inning
+E-Pinch Hit For Quinn In 8th Inning
+F-Pinch Hit For Nola In 8th Inning
+G-Pinch Hit For Moran In 8th Inning
+H-Pinch Hit For Kepler In 8th Inning
+I-Pinch Hit For Heredia In 9th Inning
+
+Mariners........ 2 0 0  1 0 0  0 0 0  -  3  6  0
+Dodgers......... 0 0 1  2 1 2  0 0    -  6  8  1
+
+[1]Mariners (8-5)           IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+J.Musgrove LOSS(1-1)      5       7   6   6   3   5   2   6.75  A1 C8
+C.Valdez                  1       1   0   0   1   0   0   1.35  C9 D4
+J.Karinchak               1       0   0   0   1   2   0   5.06  D5 D8
+J.Osich                   1       0   0   0   0   1   0   3.38  D9
+[1]Totals                    8       8   6   6   5   8   2
+
+[1]Dodgers (9-2)            IP       H   R  ER  BB  SO  HR    ERA  SCORESHEET
+T.Gonsolin WIN(3-1)       7       5   3   3   0   5   2   3.00  A1 C8
+V.Gonzalez                0 2/3   1   0   0   0   1   0   5.40  C9 D3
+J.Hoyt HOLD(2nd)          1       0   0   0   1   2   0   0.00  D4 D7
+K.Jansen SAVE(1st)        0 1/3   0   0   0   0   1   0   0.00  D8
+[1]Totals                    9       6   3   3   1   9   2
+
+ATTENDANCE- 51,508 DATE- Saturday, October 23rd 2021 TIME- Night 
+UMPIRES- Marvin Hudson, Cory Blaser, Jim Joyce, Doug Eddings
+T- 2:33
+LEFT ON BASE- Mariners: 5  Dodgers: 8
+DOUBLE PLAYS- Mariners: 0  Dodgers: 0
+ERRORS- J.Turner
+DOUBLES- C.Taylor(5th)
+TRIPLES- J.Turner(1st), K.Calhoun(1st)
+HOME RUNS- C.Moran-2(3rd), C.Seager(3rd), Y.Grandal(3rd)
+RBIs- C.Moran-3(7th), J.Turner-2(5th), C.Seager(8th), T.France(6th),
+      Y.Grandal-2(7th)
+STOLEN BASES- J.Crawford(1st)
+SACRIFICE HITS- A.Engel
+WALKS- J.Crawford, C.Seager, W.Smith, T.France, K.Calhoun, C.Bellinger
+HIT BY PITCH- K.Seager, J.Turner
+STRIKE OUTS- J.Davis, J.Aguilar, K.Marte, T.O'Neill-2, B.Hamilton, R.Quinn-2,
+             R.McBroom, W.Smith, T.France-2, A.Diaz, C.Taylor, C.Bellinger,
+             Y.Grandal-2
+2-out RBI- T.France, Y.Grandal-2
+RLISP 2-out- T.France, K.Calhoun, A.Diaz, J.Aguilar, M.Muncy, C.Bellinger-2,
+             J.Davis, B.Hamilton
+TEAM RISP- Mariners: 0 for 7  Dodgers: 3 for 13
+
+In a game at Dodger Stadium the Los Angeles(NL) Dodgers ended a long winless
+drought and got by the Seattle Mariners by the score of 6 to 3.
+
+Tony Gonsolin(3-1) earned his pay with a solid performance for Los
+Angeles(NL).  He surrendered 5 hits and no walks in 7 innings and gave up 2
+homeruns.  Los Angeles(NL) totaled 8 hits on the night.  
+
+Kenley Jansen earned his 1st save.  Joe Musgrove(1-1) was the loser.  He was
+not very effective, surrendering 6 runs in 5 innings.  
+
+When questioned, Rob Calia remarked, 'It's been a while since a win felt this
+good - heck, it's been a while since we had a win period!'
+[2]
+[1]SCORESHEET: 2021 Seattle Mariners at 2021 Los Angeles(NL) Dodgers
+K.Seager-A1  A1:Si      B1:F/7     C1:G/63    D1:HBP
+                                              
+                                              
+A.Nola-A1    A2:F/7     B2:F/7     *6*:Si+E/  D2:Si>13
+Y.Gomes-D2                         5          
+                                              
+C.Moran-A1   A3:HR>1#   *4*:HR>b#  C3:G/63    D3:L/6
+Y.Diaz-D3    b#                               
+                                              
+M.Kepler-A1  A4:F/8     B4:F/8     C4:F/9>23  D4:K
+J.Davis-D4                                    
+                                              
+J.Aguila-A1  A5:F/8     B5:Si      C5:G/63    *9*:K
+                                              
+                                              
+J.Crawfo-A1  *2*:L/4    B6:F/7     *7*:F/7    D6:W>b1
+                                              
+                                              
+K.Marte-A1   A7:L/4     B7:K       C7:F/7     D7:SB>12
+                                              P/6
+                                              
+T.O'Neil-A1  A8:K       *5*:K      C8:F/8     D8:K
+J.Polanc-C8                                   
+G.Heredi-C9+                                  
+R.Quinn-A1   *3*:K      B9:K       *8*:K
+R.McBroo-C9                        
+                                   
+
+J.Turner-A1  A1:HBP     B1:F/7     C1:G/63    D1:Tr>3#   E1:F/7
+                                              1#         
+                                                         
+C.Seager-A1  A2:G/43>1  B2:W>b1    *5*:HR>b#  D2:FO/2    E2:F/8
+             2                                           
+                                                         
+W.Smith-A1   A3:K       B3:W>12 b  C3:L/6     D3:F/7
+M.Muncy-D3              1                     
+                                              
+T.France-A1  A4:K       B4:Si>2#   C4:K       *7*:W>b1
+                        13                    
+                                              
+K.Calhou-A1  *2*:G/43   B5:F/8     C5:Tr      D5:W>12 b
+                                              1
+                                              
+A.Diaz-A1    A6:L/6     *4*:K      C6:G/53    D6:Sac/14
+A.Engel-D6                                    >23 12
+                                              
+C.Taylor-A1  A7:Si      B7:Do      *6*:Si     D7:K
+                                              
+                                              
+C.Bellin-A1  A8:G/13    B8:G/63    C8:W>12 b  D8:K
+                                   1          
+                                              
+Y.Granda-A1  *3*:K      B9:HR>2#   C9:Force/  *8*:K
+                        b#         46>23 1o   
+                                   b1         
+
+
