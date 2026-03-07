@@ -146,7 +146,7 @@
     tbody tr:hover{background:#fbfbfb}
     td.team{font-weight: 950;}
     td.pick{ text-align:center; font-weight:950; letter-spacing:.03em; white-space:nowrap; overflow:visible; }
-    td.pick.skip{color: var(--accent);}
+    td.pick.{color: var(--accent);}
     td.roster{
       text-align:right;
       font-variant-numeric: tabular-nums;
@@ -167,7 +167,7 @@
       
       white-space: nowrap;
     }
-    .pill.skip{
+    .pill.{
       background: rgba(122,31,31,.08);
       color: var(--accent);
       border-color: rgba(122,31,31,.22);
@@ -206,15 +206,15 @@
 
     <div class="wrap">
       <p class="note">
-        Draft order by round. Search for a team, a pick code (e.g., <b>MNA</b>), or <b>SKIP</b>.
+        Draft order by round. Search for a team, a pick code (e.g., <b>MNA</b>), or <b></b>.
       </p>
 
       <div class="tools">
         <div class="search" role="search" aria-label="Search draft order">
           <span style="font-weight:950;color:rgba(0,0,0,.55)">🔎</span>
-          <input id="q" type="text" placeholder="Search (team, code, SKIP)..." autocomplete="off" />
+          <input id="q" type="text" placeholder="Search (team, code, )..." autocomplete="off" />
         </div>
-        <div class="legend">Codes are shown as pills • <span class="pill skip">SKIP</span> indicates a skipped pick</div>
+        <div class="legend">Codes are shown as pills • <span class="pill "></span> indicates a ped pick</div>
       </div>
 
       <div class="table-wrap">
@@ -243,7 +243,7 @@
   </div>
 
 <script>
-const data = [{"Team":"Los Angeles (AL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"24\/40"},{"Team":"Chicago (AL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"24\/40"},{"Team":"Philadelphia","Rnd 1":"BOA","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"24\/40"},{"Team":"St Louis","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"SKIP","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"24\/40"},{"Team":"Oakland","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Minnesota","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"SKIP","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Los Angeles (NL)","Rnd 1":"WAN","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Cincinnati","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Chicago (NL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"SKIP","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Pittsburgh","Rnd 1":"","Rnd 2":"","Rnd 3":"MNA","Rnd 4":"","Rnd 5":"","Rnd 6":"SKIP","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Detroit","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Kansas City","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"CON","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"CIN","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Washington","Rnd 1":"DEA","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"NYN","Roster Spots":"23\/40"},{"Team":"New York (NL)","Rnd 1":"MNA","Rnd 2":"","Rnd 3":"","Rnd 4":"CIN","Rnd 5":"ATN","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"WAN","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Toronto","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"Atlanta","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Cleveland","Rnd 1":"ATN","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"San Francisco","Rnd 1":"","Rnd 2":"BOA","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"SKIP","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"23\/40"},{"Team":"New York (AL)","Rnd 1":"MNA","Rnd 2":"","Rnd 3":"LAA","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"MNA","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Colorado","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"NYN","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Baltimore","Rnd 1":"LAA","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Boston","Rnd 1":"","Rnd 2":"PHN","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"San Diego","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Seattle","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"}];
+const data = [{"Team":"Los Angeles (AL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Chicago (AL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Philadelphia","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"St Louis","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Oakland","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Minnesota","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Los Angeles (NL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Cincinnati","Rnd 1":"NYN","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Chicago (NL)","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Pittsburgh","Rnd 1":"","Rnd 2":"","Rnd 3":"MNA","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Detroit","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Kansas City","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Washington","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"New York (NL)","Rnd 1":"WAN","Rnd 2":"CHA","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Toronto","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Atlanta","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Cleveland","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"San Francisco","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"New York (AL)","Rnd 1":"LAA","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Colorado","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Baltimore","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Boston","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"San Diego","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"},{"Team":"Seattle","Rnd 1":"","Rnd 2":"","Rnd 3":"","Rnd 4":"","Rnd 5":"","Rnd 6":"","Rnd 7":"","Rnd 8":"","Rnd 9":"","Rnd 10":"","Roster Spots":"22\/40"}];
 
 const tbody = document.querySelector("#tbl tbody");
 const q = document.getElementById("q");
@@ -251,7 +251,7 @@ const q = document.getElementById("q");
 function pill(val){
   if(!val) return "";
   const upper = String(val).toUpperCase();
-  const cls = upper === "SKIP" ? "pill skip" : "pill";
+  const cls = upper === "" ? "pill " : "pill";
   return `<span class="${cls}">${upper}</span>`;
 }
 
@@ -273,7 +273,7 @@ function render(filter=""){
       ${picks.map(k => {
         const v = r[k] || "";
         const up = String(v).toUpperCase();
-        const cls = up === "SKIP" ? "pick skip" : "pick";
+        const cls = up === "" ? "pick " : "pick";
         return `<td class="${cls}">${pill(v)}</td>`;
       }).join("")}
       <td class="roster">${r["Roster Spots"] || ""}</td>
