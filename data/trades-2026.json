@@ -1,13 +1,13 @@
 [
   {
-    "leftDate": "3/7/2026",
+    "leftDate": "—",
     "rightDate": "",
     "phase": "",
     "teams": [
       {
         "name": "Mets",
         "items": [
-          "CIN DP (1st) 2027",
+          "CIN DP (1st) (2027)",
           "NYN DP (5th)"
         ]
       },
@@ -18,12 +18,17 @@
         ]
       },
       {
-        "name": "",
-        "items": []
+        "name": "Tigers",
+        "items": [
+          "Jack Dreyer"
+        ]
       },
       {
-        "name": "",
-        "items": []
+        "name": "Twins",
+        "items": [
+          "Dylan Carlson",
+          "DEA DP (8th)"
+        ]
       }
     ]
   },
