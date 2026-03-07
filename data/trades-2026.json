@@ -1,5 +1,33 @@
 [
   {
+    "leftDate": "3/7/2026",
+    "rightDate": "",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Mets",
+        "items": [
+          "CIN DP (1st) 2027",
+          "NYN DP (5th)"
+        ]
+      },
+      {
+        "name": "Reds",
+        "items": [
+          "NYN DP (2nd)"
+        ]
+      },
+      {
+        "name": "",
+        "items": []
+      },
+      {
+        "name": "",
+        "items": []
+      }
+    ]
+  },
+  {
     "leftDate": "2/27/2006",
     "rightDate": "3/4/2026",
     "phase": "",
