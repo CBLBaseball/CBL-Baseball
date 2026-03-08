@@ -1,5 +1,32 @@
 [
   {
+    "leftDate": "3/8/2026",
+    "rightDate": "",
+    "phase": "",
+    "teams": [
+      {
+        "name": "Royals",
+        "items": [
+          "Seranthony Dominguea"
+        ]
+      },
+      {
+        "name": "Phillies",
+        "items": [
+          "Orion Kerkering"
+        ]
+      },
+      {
+        "name": "",
+        "items": []
+      },
+      {
+        "name": "",
+        "items": []
+      }
+    ]
+  },
+  {
     "leftDate": "—",
     "rightDate": "",
     "phase": "",
