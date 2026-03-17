@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>CBL 2026 Annual Draft Results</title>
+  <title>CBL 2026 Free Agent Draft Results</title>
   <style>
 :root{
       --ink:#111;
@@ -289,7 +289,7 @@
   <div class="page">
     <header>
       <div>
-        <h1>CBL 2026 Annual Draft Results</h1>
+        <h1>CBL 2026 Free Agent Draft Results</h1>
         <div class="sub">Continental Baseball League</div>
       </div>
       <div class="actions">
@@ -317,7 +317,7 @@
           <div class="sel">
             Draft
             <select id="draftSelect" aria-label="Select draft type">
-              <option value="AnnualDraft">Annual Draft</option>
+              <option value="Free AgentDraft">Free Agent Draft</option>
               <option value="FreeAgentDraft">Free Agent Draft</option>
             </select>
           </div>
@@ -344,10 +344,10 @@
               </tr>
             </thead>
             <tbody>
-<tr><td>1</td><td>Los Angeles-AL</td><td>Durbin, Calib</td><td>Harris, Hayden</td><td>Fuentes, Didier</td><td>Butto, Jose</td><td>Morgan, David</td></tr>
-<tr><td>2</td><td>Chicago-AL</td><td>Misiorowski, Jacob</td><td>Jung, Josh</td><td>Jackson, Jeremiah</td><td>Taylor, Grant</td><td>Ferrer, Jose</td></tr>
-<tr><td>3</td><td>Philadelphia</td><td>(BOA) Chandler, Bubba</td><td>Junk, Janson</td><td>Lowe, Josh</td><td>Wagaman, Eric</td><td>Heim, Jonah</td></tr>
-<tr><td>4</td><td>St. Louis</td><td>Ramirez, Agustin</td><td>Williams, Carson</td><td>Jax, Griffin</td><td>Melton, Jacob</td><td>Mena, Cristian</td></tr>
+<tr><td>1</td><td>Los Angeles-AL</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>2</td><td>Chicago-AL</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>3</td><td>Philadelphia</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>4</td><td>St. Louis</td><td></td><td></td><td></td><td>M</td><td></td></tr>
 <tr><td>5</td><td>Oakland</td><td>Marsee, Jacob</td><td>Hernaiz, Darell</td><td>Sterner, Justin</td><td>Sugano, Tomoyuki</td><td>Casparius, Ben</td></tr>
 <tr><td>6</td><td>Minnesota</td><td>Bradley, Taj</td><td>Clemens, Kody</td><td>Dreyer, Jack</td><td>Benson, Will</td><td>Santander, Anthony</td></tr>
 <tr><td>7</td><td>Los Angeles-NL</td><td>(WAN) Simpson, Chandler</td><td>O'Neill, Tyler</td><td>Haggerty, Sam</td><td>Rodriguez, Yariel</td><td>Canning, Griffin</td></tr>
@@ -417,7 +417,7 @@
 
     </div>
 
-    <footer>CBL • 2026 Annual Draft Results</footer>
+    <footer>CBL • 2026 Free Agent Draft Results</footer>
   </div>
 
   <script>
@@ -499,7 +499,7 @@
       const isFA = file.includes('freeagent');
 
       yearSel.value = pageYear;
-      draftSel.value = isFA ? 'FreeAgentDraft' : 'AnnualDraft';
+      draftSel.value = isFA ? 'FreeAgentDraft' : 'Free AgentDraft';
 
       function go(){
         const target = `/drafts/${yearSel.value}${draftSel.value}.html`;
