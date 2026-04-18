@@ -1,9 +1,22 @@
 [
   {
-    "leftDate": "3/10/2026",
-    "rightDate": "",
+    "leftDate": "4/14/2026",
+    "rightDate": "3/10/2026",
     "phase": "",
     "teams": [
+      {
+        "name": "Mets",
+        "items": [
+          "Jose Altuve"
+        ]
+      },
+      {
+        "name": "White Sox",
+        "items": [
+          "CIN DP (1st) 2027",
+          "Andres Chaparro"
+        ]
+      },
       {
         "name": "Mets",
         "items": [
@@ -13,16 +26,8 @@
       {
         "name": "Orioles",
         "items": [
-          "NYN DP (9th) (2027)"
+          "NYN DP (9th) 2027"
         ]
-      },
-      {
-        "name": "",
-        "items": []
-      },
-      {
-        "name": "",
-        "items": []
       }
     ]
   },
